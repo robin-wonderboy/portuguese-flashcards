@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🇵🇹 Portuguese Flashcards</title>
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇵🇹</text></svg>">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <style>
         * {
             margin: 0;
@@ -24,18 +27,45 @@
         
         h1 {
             margin-bottom: 10px;
-            font-size: 2rem;
+            font-size: 1.8rem;
         }
         
         .subtitle {
             color: #888;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .global-stats {
+            background: linear-gradient(145deg, #2d2d44 0%, #1f1f2e 100%);
+            border-radius: 15px;
+            padding: 15px 25px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 25px;
+            border: 1px solid #3d3d5c;
+        }
+        
+        .global-stat {
+            text-align: center;
+        }
+        
+        .global-stat-value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #4ade80;
+        }
+        
+        .global-stat-label {
+            font-size: 0.7rem;
+            color: #888;
+            text-transform: uppercase;
         }
         
         .stats {
             display: flex;
             gap: 30px;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         
         .stat {
@@ -43,13 +73,13 @@
         }
         
         .stat-value {
-            font-size: 2rem;
+            font-size: 1.8rem;
             font-weight: bold;
             color: #4ade80;
         }
         
         .stat-label {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: #888;
             text-transform: uppercase;
         }
@@ -57,9 +87,9 @@
         .card-container {
             perspective: 1000px;
             width: 100%;
-            max-width: 400px;
-            height: 280px;
-            margin-bottom: 30px;
+            max-width: 380px;
+            height: 260px;
+            margin-bottom: 25px;
         }
         
         .card {
@@ -85,7 +115,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            padding: 30px;
+            padding: 25px;
             text-align: center;
         }
         
@@ -101,36 +131,51 @@
         }
         
         .card-lang {
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             color: #888;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             text-transform: uppercase;
             letter-spacing: 2px;
         }
         
         .card-word {
-            font-size: 2.2rem;
+            font-size: 2rem;
             font-weight: bold;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
         }
         
         .card-example {
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             color: #aaa;
             font-style: italic;
             line-height: 1.4;
         }
         
         .card-hint {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: #666;
-            margin-top: 20px;
+            margin-top: 15px;
         }
+        
+        .card-mastery {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 0.75rem;
+            padding: 4px 10px;
+            border-radius: 20px;
+            background: rgba(0,0,0,0.3);
+        }
+        
+        .mastery-new { color: #888; }
+        .mastery-learning { color: #fbbf24; }
+        .mastery-familiar { color: #60a5fa; }
+        .mastery-mastered { color: #4ade80; }
         
         .controls {
             display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
+            gap: 12px;
+            margin-bottom: 15px;
             flex-wrap: wrap;
             justify-content: center;
         }
@@ -147,6 +192,10 @@
         
         button:hover {
             transform: translateY(-2px);
+        }
+        
+        button:active {
+            transform: translateY(0);
         }
         
         .btn-know {
@@ -176,12 +225,17 @@
             background: #4d4d6c;
         }
         
+        .btn-small {
+            padding: 8px 16px;
+            font-size: 0.85rem;
+        }
+        
         .progress-bar {
             width: 100%;
-            max-width: 400px;
-            height: 8px;
+            max-width: 380px;
+            height: 6px;
             background: #2d2d44;
-            border-radius: 4px;
+            border-radius: 3px;
             margin-bottom: 20px;
             overflow: hidden;
         }
@@ -189,14 +243,14 @@
         .progress-fill {
             height: 100%;
             background: linear-gradient(90deg, #4ade80, #22d3ee);
-            border-radius: 4px;
+            border-radius: 3px;
             transition: width 0.3s ease;
         }
         
         .options {
             display: flex;
-            gap: 20px;
-            margin-bottom: 20px;
+            gap: 15px;
+            margin-bottom: 15px;
             flex-wrap: wrap;
             justify-content: center;
         }
@@ -204,9 +258,9 @@
         .option {
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
             color: #888;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
         }
         
         .option input {
@@ -214,7 +268,7 @@
         }
         
         .date-selector {
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
         
         .date-selector select {
@@ -223,22 +277,22 @@
             border: 2px solid #3d3d5c;
             background: #1f1f2e;
             color: white;
-            font-size: 1rem;
+            font-size: 0.95rem;
             cursor: pointer;
         }
         
         .complete-screen {
             text-align: center;
-            padding: 40px;
+            padding: 30px;
         }
         
         .complete-screen h2 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
+            font-size: 2rem;
+            margin-bottom: 15px;
         }
         
         .complete-score {
-            font-size: 4rem;
+            font-size: 3.5rem;
             font-weight: bold;
             color: #4ade80;
             margin-bottom: 10px;
@@ -246,7 +300,7 @@
         
         .complete-message {
             color: #888;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
         }
         
         .review-list {
@@ -255,7 +309,7 @@
             border-radius: 15px;
             padding: 20px;
             margin-top: 20px;
-            max-width: 400px;
+            max-width: 380px;
         }
         
         .review-list h3 {
@@ -272,8 +326,80 @@
             border-bottom: none;
         }
         
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .tab {
+            padding: 10px 20px;
+            border-radius: 8px;
+            background: #2d2d44;
+            color: #888;
+            cursor: pointer;
+            border: none;
+            font-size: 0.9rem;
+        }
+        
+        .tab.active {
+            background: #4ade80;
+            color: #000;
+        }
+        
+        .word-list {
+            max-width: 400px;
+            width: 100%;
+            max-height: 60vh;
+            overflow-y: auto;
+        }
+        
+        .word-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 15px;
+            background: #2d2d44;
+            border-radius: 10px;
+            margin-bottom: 8px;
+        }
+        
+        .word-item-text {
+            flex: 1;
+        }
+        
+        .word-item-pt {
+            font-weight: bold;
+        }
+        
+        .word-item-de {
+            font-size: 0.85rem;
+            color: #888;
+        }
+        
+        .word-item-mastery {
+            font-size: 0.75rem;
+            padding: 4px 10px;
+            border-radius: 15px;
+            background: rgba(0,0,0,0.3);
+        }
+        
         .hidden {
             display: none !important;
+        }
+        
+        .reset-btn {
+            margin-top: 30px;
+            background: transparent;
+            border: 1px solid #666;
+            color: #666;
+            font-size: 0.8rem;
+            padding: 8px 15px;
+        }
+        
+        .reset-btn:hover {
+            border-color: #f87171;
+            color: #f87171;
         }
     </style>
 </head>
@@ -281,85 +407,115 @@
     <h1>🇵🇹 Portuguese Flashcards</h1>
     <p class="subtitle">Aprende português com as notícias de Coimbra</p>
     
-    <div class="date-selector">
-        <select id="dateSelect" onchange="loadDate()">
-            <option value="all">📚 All Words (46)</option>
-            <option value="2026-01-30" selected>📰 30 Janeiro (12 words)</option>
-            <option value="2025-01-29">📰 29 Janeiro (20 words)</option>
-        </select>
-    </div>
-    
-    <div class="stats">
-        <div class="stat">
-            <div class="stat-value" id="correctCount">0</div>
-            <div class="stat-label">Correct</div>
+    <div class="global-stats">
+        <div class="global-stat">
+            <div class="global-stat-value" id="totalMastered">0</div>
+            <div class="global-stat-label">Mastered</div>
         </div>
-        <div class="stat">
-            <div class="stat-value" id="remainingCount">0</div>
-            <div class="stat-label">Remaining</div>
+        <div class="global-stat">
+            <div class="global-stat-value" id="totalWords">0</div>
+            <div class="global-stat-label">Total Words</div>
         </div>
-        <div class="stat">
-            <div class="stat-value" id="streakCount">0</div>
-            <div class="stat-label">Streak 🔥</div>
+        <div class="global-stat">
+            <div class="global-stat-value" id="dayStreak">0</div>
+            <div class="global-stat-label">Day Streak</div>
         </div>
     </div>
     
-    <div class="progress-bar">
-        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+    <div class="tabs">
+        <button class="tab active" onclick="showTab('practice')">📚 Practice</button>
+        <button class="tab" onclick="showTab('words')">📖 All Words</button>
     </div>
     
-    <div class="options">
-        <label class="option">
-            <input type="checkbox" id="shuffleMode" checked>
-            🔀 Shuffle
-        </label>
-        <label class="option">
-            <input type="checkbox" id="reverseMode">
-            🔄 DE → PT
-        </label>
-    </div>
-    
-    <div id="cardScreen">
-        <div class="card-container">
-            <div class="card" id="flashcard" onclick="flipCard()">
-                <div class="card-face card-front">
-                    <div class="card-lang" id="frontLang">Português</div>
-                    <div class="card-word" id="frontWord">Loading...</div>
-                    <div class="card-hint">Tap to reveal</div>
+    <div id="practiceTab">
+        <div class="date-selector">
+            <select id="dateSelect" onchange="loadDate()">
+                <option value="weak">🎯 Weak Words First</option>
+                <option value="all">📚 All Words</option>
+                <option value="2026-01-30">📰 30 Janeiro</option>
+                <option value="2025-01-29">📰 29 Janeiro</option>
+            </select>
+        </div>
+        
+        <div id="cardScreen">
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-value" id="correctCount">0</div>
+                    <div class="stat-label">Correct</div>
                 </div>
-                <div class="card-face card-back">
-                    <div class="card-lang" id="backLang">Deutsch</div>
-                    <div class="card-word" id="backWord">...</div>
-                    <div class="card-example" id="exampleText"></div>
+                <div class="stat">
+                    <div class="stat-value" id="remainingCount">0</div>
+                    <div class="stat-label">Remaining</div>
                 </div>
+                <div class="stat">
+                    <div class="stat-value" id="streakCount">0</div>
+                    <div class="stat-label">Streak 🔥</div>
+                </div>
+            </div>
+            
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+            </div>
+            
+            <div class="options">
+                <label class="option">
+                    <input type="checkbox" id="shuffleMode" checked>
+                    🔀 Shuffle
+                </label>
+                <label class="option">
+                    <input type="checkbox" id="reverseMode">
+                    🔄 DE → PT
+                </label>
+            </div>
+            
+            <div class="card-container">
+                <div class="card" id="flashcard" onclick="flipCard()">
+                    <div class="card-face card-front">
+                        <span class="card-mastery mastery-new" id="frontMastery">New</span>
+                        <div class="card-lang" id="frontLang">Português</div>
+                        <div class="card-word" id="frontWord">Loading...</div>
+                        <div class="card-hint">Tap to reveal</div>
+                    </div>
+                    <div class="card-face card-back">
+                        <div class="card-lang" id="backLang">Deutsch</div>
+                        <div class="card-word" id="backWord">...</div>
+                        <div class="card-example" id="exampleText"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="controls">
+                <button class="btn-dont-know" onclick="markCard(false)">❌ Don't Know</button>
+                <button class="btn-know" onclick="markCard(true)">✅ Know It</button>
+            </div>
+            
+            <div class="controls">
+                <button class="btn-secondary btn-small" onclick="restartQuiz()">🔄 Restart</button>
             </div>
         </div>
         
-        <div class="controls">
-            <button class="btn-dont-know" onclick="markCard(false)">❌ Don't Know</button>
-            <button class="btn-know" onclick="markCard(true)">✅ Know It</button>
-        </div>
-        
-        <div class="controls">
-            <button class="btn-secondary" onclick="restartQuiz()">🔄 Restart</button>
+        <div id="completeScreen" class="complete-screen hidden">
+            <h2>🎉 Session Complete!</h2>
+            <div class="complete-score" id="finalScore">0%</div>
+            <div class="complete-message" id="finalMessage">Great job!</div>
+            
+            <div class="controls">
+                <button class="btn-know" onclick="restartQuiz()">🔄 Practice Again</button>
+                <button class="btn-secondary" onclick="reviewMissed()">📖 Review Missed</button>
+            </div>
+            
+            <div class="review-list hidden" id="reviewList">
+                <h3>❌ Words to Review:</h3>
+                <div id="reviewItems"></div>
+            </div>
         </div>
     </div>
     
-    <div id="completeScreen" class="complete-screen hidden">
-        <h2>🎉 Complete!</h2>
-        <div class="complete-score" id="finalScore">0%</div>
-        <div class="complete-message" id="finalMessage">Great job!</div>
-        
-        <div class="controls">
-            <button class="btn-know" onclick="restartQuiz()">🔄 Practice Again</button>
-            <button class="btn-secondary" onclick="reviewMissed()">📖 Review Missed</button>
-        </div>
-        
-        <div class="review-list hidden" id="reviewList">
-            <h3>❌ Words to Review:</h3>
-            <div id="reviewItems"></div>
-        </div>
+    <div id="wordsTab" class="hidden">
+        <div class="word-list" id="wordList"></div>
     </div>
+    
+    <button class="reset-btn" onclick="resetProgress()">🗑️ Reset All Progress</button>
 
     <script>
         const vocabulary = {
@@ -383,7 +539,6 @@
                 { pt: "a cheia", de: "die Überschwemmung", example: "Cheias no rio Mondego" },
                 { pt: "o dique", de: "der Deich", example: "Dique em risco de rebentar" },
                 { pt: "rebentar", de: "brechen, platzen", example: "Em risco de rebentar" },
-                { pt: "a derrocada", de: "der Erdrutsch", example: "Risco de derrocada" },
                 { pt: "o muro", de: "die Mauer", example: "Muro desaba" },
                 { pt: "desabar", de: "einstürzen", example: "Muro desaba e esmaga carros" },
                 { pt: "os estragos", de: "die Schäden", example: "Efeitos da tempestade serão vultuosos" },
@@ -401,6 +556,11 @@
             ]
         };
         
+        // Progress storage
+        const STORAGE_KEY = 'flashcards_progress';
+        const STREAK_KEY = 'flashcards_streak';
+        
+        let progress = loadProgress();
         let currentCards = [];
         let currentIndex = 0;
         let correctCount = 0;
@@ -408,12 +568,73 @@
         let missedCards = [];
         let isFlipped = false;
         
+        function loadProgress() {
+            try {
+                const saved = localStorage.getItem(STORAGE_KEY);
+                return saved ? JSON.parse(saved) : {};
+            } catch {
+                return {};
+            }
+        }
+        
+        function saveProgress() {
+            try {
+                localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+                updateDayStreak();
+            } catch (e) {
+                console.error('Could not save progress', e);
+            }
+        }
+        
+        function updateDayStreak() {
+            try {
+                const streakData = JSON.parse(localStorage.getItem(STREAK_KEY) || '{}');
+                const today = new Date().toDateString();
+                
+                if (streakData.lastPractice !== today) {
+                    const yesterday = new Date(Date.now() - 86400000).toDateString();
+                    if (streakData.lastPractice === yesterday) {
+                        streakData.days = (streakData.days || 0) + 1;
+                    } else {
+                        streakData.days = 1;
+                    }
+                    streakData.lastPractice = today;
+                    localStorage.setItem(STREAK_KEY, JSON.stringify(streakData));
+                }
+                
+                document.getElementById('dayStreak').textContent = streakData.days || 0;
+            } catch (e) {
+                console.error('Could not update streak', e);
+            }
+        }
+        
+        function getWordKey(card) {
+            return card.pt;
+        }
+        
+        function getWordProgress(card) {
+            const key = getWordKey(card);
+            if (!progress[key]) {
+                progress[key] = { correct: 0, incorrect: 0, lastSeen: null };
+            }
+            return progress[key];
+        }
+        
+        function getMasteryLevel(card) {
+            const p = getWordProgress(card);
+            const total = p.correct + p.incorrect;
+            if (total === 0) return { level: 'new', label: 'New', class: 'mastery-new' };
+            const ratio = p.correct / total;
+            if (p.correct >= 5 && ratio >= 0.8) return { level: 'mastered', label: 'Mastered ⭐', class: 'mastery-mastered' };
+            if (p.correct >= 3 && ratio >= 0.6) return { level: 'familiar', label: 'Familiar', class: 'mastery-familiar' };
+            return { level: 'learning', label: 'Learning', class: 'mastery-learning' };
+        }
+        
         function getAllCards() {
             let all = [];
             for (let date in vocabulary) {
                 all = all.concat(vocabulary[date]);
             }
-            // Remove duplicates by pt word
             const seen = new Set();
             return all.filter(card => {
                 if (seen.has(card.pt)) return false;
@@ -422,12 +643,69 @@
             });
         }
         
+        function getWeakCards() {
+            const all = getAllCards();
+            return all.sort((a, b) => {
+                const pA = getWordProgress(a);
+                const pB = getWordProgress(b);
+                const scoreA = pA.correct - pA.incorrect * 2;
+                const scoreB = pB.correct - pB.incorrect * 2;
+                return scoreA - scoreB;
+            });
+        }
+        
+        function updateGlobalStats() {
+            const all = getAllCards();
+            const mastered = all.filter(c => getMasteryLevel(c).level === 'mastered').length;
+            document.getElementById('totalMastered').textContent = mastered;
+            document.getElementById('totalWords').textContent = all.length;
+            
+            try {
+                const streakData = JSON.parse(localStorage.getItem(STREAK_KEY) || '{}');
+                document.getElementById('dayStreak').textContent = streakData.days || 0;
+            } catch {
+                document.getElementById('dayStreak').textContent = 0;
+            }
+        }
+        
+        function showTab(tab) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            document.getElementById('practiceTab').classList.toggle('hidden', tab !== 'practice');
+            document.getElementById('wordsTab').classList.toggle('hidden', tab !== 'words');
+            
+            if (tab === 'words') {
+                renderWordList();
+            }
+        }
+        
+        function renderWordList() {
+            const all = getAllCards();
+            const html = all.map(card => {
+                const mastery = getMasteryLevel(card);
+                const p = getWordProgress(card);
+                return `
+                    <div class="word-item">
+                        <div class="word-item-text">
+                            <div class="word-item-pt">${card.pt}</div>
+                            <div class="word-item-de">${card.de}</div>
+                        </div>
+                        <span class="word-item-mastery ${mastery.class}">${mastery.label}</span>
+                    </div>
+                `;
+            }).join('');
+            document.getElementById('wordList').innerHTML = html;
+        }
+        
         function loadDate() {
-            const date = document.getElementById('dateSelect').value;
-            if (date === 'all') {
+            const mode = document.getElementById('dateSelect').value;
+            if (mode === 'weak') {
+                currentCards = getWeakCards();
+            } else if (mode === 'all') {
                 currentCards = [...getAllCards()];
             } else {
-                currentCards = [...(vocabulary[date] || [])];
+                currentCards = [...(vocabulary[mode] || [])];
             }
             restartQuiz();
         }
@@ -441,14 +719,16 @@
         }
         
         function restartQuiz() {
-            const date = document.getElementById('dateSelect').value;
-            if (date === 'all') {
+            const mode = document.getElementById('dateSelect').value;
+            if (mode === 'weak') {
+                currentCards = getWeakCards();
+            } else if (mode === 'all') {
                 currentCards = [...getAllCards()];
             } else {
-                currentCards = [...(vocabulary[date] || [])];
+                currentCards = [...(vocabulary[mode] || [])];
             }
             
-            if (document.getElementById('shuffleMode').checked) {
+            if (document.getElementById('shuffleMode').checked && mode !== 'weak') {
                 shuffle(currentCards);
             }
             
@@ -474,9 +754,14 @@
             
             const card = currentCards[currentIndex];
             const reverse = document.getElementById('reverseMode').checked;
+            const mastery = getMasteryLevel(card);
             
             document.getElementById('flashcard').classList.remove('flipped');
             isFlipped = false;
+            
+            const masteryEl = document.getElementById('frontMastery');
+            masteryEl.textContent = mastery.label;
+            masteryEl.className = 'card-mastery ' + mastery.class;
             
             if (reverse) {
                 document.getElementById('frontLang').textContent = 'Deutsch';
@@ -505,13 +790,22 @@
                 return;
             }
             
+            const card = currentCards[currentIndex];
+            const p = getWordProgress(card);
+            
             if (known) {
                 correctCount++;
                 streak++;
+                p.correct++;
             } else {
                 streak = 0;
-                missedCards.push(currentCards[currentIndex]);
+                p.incorrect++;
+                missedCards.push(card);
             }
+            
+            p.lastSeen = Date.now();
+            saveProgress();
+            updateGlobalStats();
             
             currentIndex++;
             showCard();
@@ -540,6 +834,7 @@
             else message = '📚 Keep practicing!';
             
             document.getElementById('finalMessage').textContent = message;
+            updateGlobalStats();
         }
         
         function reviewMissed() {
@@ -560,7 +855,18 @@
             reviewList.classList.toggle('hidden');
         }
         
+        function resetProgress() {
+            if (confirm('Reset all progress? This cannot be undone!')) {
+                localStorage.removeItem(STORAGE_KEY);
+                localStorage.removeItem(STREAK_KEY);
+                progress = {};
+                updateGlobalStats();
+                restartQuiz();
+            }
+        }
+        
         // Initialize
+        updateGlobalStats();
         loadDate();
     </script>
 </body>
