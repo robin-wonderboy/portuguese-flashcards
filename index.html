@@ -105,6 +105,24 @@
             transform: rotateY(180deg);
         }
         
+        .card-face.fade-out {
+            animation: fadeOut 0.2s ease forwards;
+        }
+        
+        .card-face.fade-in {
+            animation: fadeIn 0.2s ease forwards;
+        }
+        
+        @keyframes fadeOut {
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
         .card-face {
             position: absolute;
             width: 100%;
@@ -752,12 +770,22 @@
                 return;
             }
             
+            document.getElementById('flashcard').classList.remove('flipped');
+            isFlipped = false;
+            
+            showCardContent();
+            updateStats();
+        }
+        
+        function showCardContent() {
+            if (currentIndex >= currentCards.length) {
+                showComplete();
+                return;
+            }
+            
             const card = currentCards[currentIndex];
             const reverse = document.getElementById('reverseMode').checked;
             const mastery = getMasteryLevel(card);
-            
-            document.getElementById('flashcard').classList.remove('flipped');
-            isFlipped = false;
             
             const masteryEl = document.getElementById('frontMastery');
             masteryEl.textContent = mastery.label;
@@ -807,11 +835,30 @@
             
             currentIndex++;
             
-            // Flip card back first, wait for animation, then show next
-            document.getElementById('flashcard').classList.remove('flipped');
+            // Flip card back and fade out
+            const flashcard = document.getElementById('flashcard');
+            const frontFace = flashcard.querySelector('.card-front');
+            const backFace = flashcard.querySelector('.card-back');
+            
+            flashcard.classList.remove('flipped');
+            backFace.classList.add('fade-out');
             isFlipped = false;
+            
             setTimeout(() => {
-                showCard();
+                // After flip, fade out front and update content
+                frontFace.classList.add('fade-out');
+                backFace.classList.remove('fade-out');
+                
+                setTimeout(() => {
+                    // Update content while faded out
+                    showCardContent();
+                    frontFace.classList.remove('fade-out');
+                    frontFace.classList.add('fade-in');
+                    
+                    setTimeout(() => {
+                        frontFace.classList.remove('fade-in');
+                    }, 200);
+                }, 200);
             }, 400); // Wait for flip animation
         }
         
