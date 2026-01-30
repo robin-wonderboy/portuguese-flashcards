@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇵🇹 Portuguese Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            color: white;
+        }
+        
+        h1 {
+            margin-bottom: 10px;
+            font-size: 2rem;
+        }
+        
+        .subtitle {
+            color: #888;
+            margin-bottom: 30px;
+        }
+        
+        .stats {
+            display: flex;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #4ade80;
+        }
+        
+        .stat-label {
+            font-size: 0.8rem;
+            color: #888;
+            text-transform: uppercase;
+        }
+        
+        .card-container {
+            perspective: 1000px;
+            width: 100%;
+            max-width: 400px;
+            height: 280px;
+            margin-bottom: 30px;
+        }
+        
+        .card {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s ease;
+            cursor: pointer;
+        }
+        
+        .card.flipped {
+            transform: rotateY(180deg);
+        }
+        
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .card-front {
+            background: linear-gradient(145deg, #2d2d44 0%, #1f1f2e 100%);
+            border: 2px solid #3d3d5c;
+        }
+        
+        .card-back {
+            background: linear-gradient(145deg, #1e4d2b 0%, #0d2818 100%);
+            border: 2px solid #2d7a3d;
+            transform: rotateY(180deg);
+        }
+        
+        .card-lang {
+            font-size: 0.9rem;
+            color: #888;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .card-word {
+            font-size: 2.2rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        .card-example {
+            font-size: 0.95rem;
+            color: #aaa;
+            font-style: italic;
+            line-height: 1.4;
+        }
+        
+        .card-hint {
+            font-size: 0.8rem;
+            color: #666;
+            margin-top: 20px;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+        }
+        
+        .btn-know {
+            background: #4ade80;
+            color: #000;
+        }
+        
+        .btn-know:hover {
+            background: #22c55e;
+        }
+        
+        .btn-dont-know {
+            background: #f87171;
+            color: #000;
+        }
+        
+        .btn-dont-know:hover {
+            background: #ef4444;
+        }
+        
+        .btn-secondary {
+            background: #3d3d5c;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background: #4d4d6c;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            max-width: 400px;
+            height: 8px;
+            background: #2d2d44;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4ade80, #22d3ee);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+        
+        .options {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .option {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #888;
+            font-size: 0.9rem;
+        }
+        
+        .option input {
+            accent-color: #4ade80;
+        }
+        
+        .date-selector {
+            margin-bottom: 20px;
+        }
+        
+        .date-selector select {
+            padding: 10px 15px;
+            border-radius: 8px;
+            border: 2px solid #3d3d5c;
+            background: #1f1f2e;
+            color: white;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+        
+        .complete-screen {
+            text-align: center;
+            padding: 40px;
+        }
+        
+        .complete-screen h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .complete-score {
+            font-size: 4rem;
+            font-weight: bold;
+            color: #4ade80;
+            margin-bottom: 10px;
+        }
+        
+        .complete-message {
+            color: #888;
+            margin-bottom: 30px;
+        }
+        
+        .review-list {
+            text-align: left;
+            background: #2d2d44;
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+            max-width: 400px;
+        }
+        
+        .review-list h3 {
+            margin-bottom: 15px;
+            color: #f87171;
+        }
+        
+        .review-item {
+            padding: 10px 0;
+            border-bottom: 1px solid #3d3d5c;
+        }
+        
+        .review-item:last-child {
+            border-bottom: none;
+        }
+        
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <h1>🇵🇹 Portuguese Flashcards</h1>
+    <p class="subtitle">Aprende português com as notícias de Coimbra</p>
+    
+    <div class="date-selector">
+        <select id="dateSelect" onchange="loadDate()">
+            <option value="all">📚 All Words (46)</option>
+            <option value="2026-01-30" selected>📰 30 Janeiro (12 words)</option>
+            <option value="2025-01-29">📰 29 Janeiro (20 words)</option>
+        </select>
+    </div>
+    
+    <div class="stats">
+        <div class="stat">
+            <div class="stat-value" id="correctCount">0</div>
+            <div class="stat-label">Correct</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value" id="remainingCount">0</div>
+            <div class="stat-label">Remaining</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value" id="streakCount">0</div>
+            <div class="stat-label">Streak 🔥</div>
+        </div>
+    </div>
+    
+    <div class="progress-bar">
+        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+    </div>
+    
+    <div class="options">
+        <label class="option">
+            <input type="checkbox" id="shuffleMode" checked>
+            🔀 Shuffle
+        </label>
+        <label class="option">
+            <input type="checkbox" id="reverseMode">
+            🔄 DE → PT
+        </label>
+    </div>
+    
+    <div id="cardScreen">
+        <div class="card-container">
+            <div class="card" id="flashcard" onclick="flipCard()">
+                <div class="card-face card-front">
+                    <div class="card-lang" id="frontLang">Português</div>
+                    <div class="card-word" id="frontWord">Loading...</div>
+                    <div class="card-hint">Tap to reveal</div>
+                </div>
+                <div class="card-face card-back">
+                    <div class="card-lang" id="backLang">Deutsch</div>
+                    <div class="card-word" id="backWord">...</div>
+                    <div class="card-example" id="exampleText"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button class="btn-dont-know" onclick="markCard(false)">❌ Don't Know</button>
+            <button class="btn-know" onclick="markCard(true)">✅ Know It</button>
+        </div>
+        
+        <div class="controls">
+            <button class="btn-secondary" onclick="restartQuiz()">🔄 Restart</button>
+        </div>
+    </div>
+    
+    <div id="completeScreen" class="complete-screen hidden">
+        <h2>🎉 Complete!</h2>
+        <div class="complete-score" id="finalScore">0%</div>
+        <div class="complete-message" id="finalMessage">Great job!</div>
+        
+        <div class="controls">
+            <button class="btn-know" onclick="restartQuiz()">🔄 Practice Again</button>
+            <button class="btn-secondary" onclick="reviewMissed()">📖 Review Missed</button>
+        </div>
+        
+        <div class="review-list hidden" id="reviewList">
+            <h3>❌ Words to Review:</h3>
+            <div id="reviewItems"></div>
+        </div>
+    </div>
+
+    <script>
+        const vocabulary = {
+            "2026-01-30": [
+                { pt: "a derrocada", de: "der Erdrutsch", example: "Carrinha projetada após derrocada" },
+                { pt: "submerso/a", de: "unter Wasser, überflutet", example: "A carrinha está a ficar submersa" },
+                { pt: "o lamaçal", de: "der Schlamm, die Schlammgrube", example: "Docas transformadas num lamaçal" },
+                { pt: "a limpeza", de: "die Reinigung", example: "Procedem às limpezas" },
+                { pt: "ameaçar", de: "bedrohen", example: "Chuva ameaça repetir drama" },
+                { pt: "o rescaldo", de: "die Nachwirkung, die Folgen", example: "O rescaldo da tempestade" },
+                { pt: "a torneira", de: "der Wasserhahn", example: "Não beba água da torneira" },
+                { pt: "encerrado/a", de: "geschlossen", example: "Edifícios encerrados" },
+                { pt: "a estufa", de: "das Gewächshaus", example: "Incêndio denunciar estufa" },
+                { pt: "disparar", de: "in die Höhe schießen", example: "Violência nas escolas dispara" },
+                { pt: "prestar homenagem", de: "Tribut zollen, würdigen", example: "Governo presta homenagem" },
+                { pt: "o joelho", de: "das Knie", example: "Água pelo joelho" }
+            ],
+            "2025-01-29": [
+                { pt: "a tempestade", de: "der Sturm", example: "A tempestade causou estragos" },
+                { pt: "o mau tempo", de: "das schlechte Wetter", example: "Devido ao mau tempo" },
+                { pt: "a cheia", de: "die Überschwemmung", example: "Cheias no rio Mondego" },
+                { pt: "o dique", de: "der Deich", example: "Dique em risco de rebentar" },
+                { pt: "rebentar", de: "brechen, platzen", example: "Em risco de rebentar" },
+                { pt: "a derrocada", de: "der Erdrutsch", example: "Risco de derrocada" },
+                { pt: "o muro", de: "die Mauer", example: "Muro desaba" },
+                { pt: "desabar", de: "einstürzen", example: "Muro desaba e esmaga carros" },
+                { pt: "os estragos", de: "die Schäden", example: "Efeitos da tempestade serão vultuosos" },
+                { pt: "cortada/o", de: "gesperrt", example: "Esta rua está cortada" },
+                { pt: "o resgate", de: "die Rettung", example: "Resgate de cavalos" },
+                { pt: "interditado", de: "gesperrt, verboten", example: "Colégio das Artes interditado" },
+                { pt: "a queda", de: "der Fall, Sturz", example: "Queda de elementos" },
+                { pt: "causar", de: "verursachen", example: "Tempestade causa estragos" },
+                { pt: "sofrer", de: "erleiden", example: "Pode sofrer perturbações" },
+                { pt: "esmagar", de: "zerquetschen", example: "Esmaga carros" },
+                { pt: "continuar", de: "weitermachen", example: "Continuam às escuras" },
+                { pt: "às escuras", de: "im Dunkeln (ohne Strom)", example: "34 mil clientes continuam às escuras" },
+                { pt: "devido a", de: "wegen, aufgrund", example: "Devido ao mau tempo" },
+                { pt: "em risco de", de: "in Gefahr zu", example: "Em risco de rebentar" }
+            ]
+        };
+        
+        let currentCards = [];
+        let currentIndex = 0;
+        let correctCount = 0;
+        let streak = 0;
+        let missedCards = [];
+        let isFlipped = false;
+        
+        function getAllCards() {
+            let all = [];
+            for (let date in vocabulary) {
+                all = all.concat(vocabulary[date]);
+            }
+            // Remove duplicates by pt word
+            const seen = new Set();
+            return all.filter(card => {
+                if (seen.has(card.pt)) return false;
+                seen.add(card.pt);
+                return true;
+            });
+        }
+        
+        function loadDate() {
+            const date = document.getElementById('dateSelect').value;
+            if (date === 'all') {
+                currentCards = [...getAllCards()];
+            } else {
+                currentCards = [...(vocabulary[date] || [])];
+            }
+            restartQuiz();
+        }
+        
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+        
+        function restartQuiz() {
+            const date = document.getElementById('dateSelect').value;
+            if (date === 'all') {
+                currentCards = [...getAllCards()];
+            } else {
+                currentCards = [...(vocabulary[date] || [])];
+            }
+            
+            if (document.getElementById('shuffleMode').checked) {
+                shuffle(currentCards);
+            }
+            
+            currentIndex = 0;
+            correctCount = 0;
+            streak = 0;
+            missedCards = [];
+            isFlipped = false;
+            
+            document.getElementById('cardScreen').classList.remove('hidden');
+            document.getElementById('completeScreen').classList.add('hidden');
+            document.getElementById('reviewList').classList.add('hidden');
+            
+            updateStats();
+            showCard();
+        }
+        
+        function showCard() {
+            if (currentIndex >= currentCards.length) {
+                showComplete();
+                return;
+            }
+            
+            const card = currentCards[currentIndex];
+            const reverse = document.getElementById('reverseMode').checked;
+            
+            document.getElementById('flashcard').classList.remove('flipped');
+            isFlipped = false;
+            
+            if (reverse) {
+                document.getElementById('frontLang').textContent = 'Deutsch';
+                document.getElementById('frontWord').textContent = card.de;
+                document.getElementById('backLang').textContent = 'Português';
+                document.getElementById('backWord').textContent = card.pt;
+            } else {
+                document.getElementById('frontLang').textContent = 'Português';
+                document.getElementById('frontWord').textContent = card.pt;
+                document.getElementById('backLang').textContent = 'Deutsch';
+                document.getElementById('backWord').textContent = card.de;
+            }
+            
+            document.getElementById('exampleText').textContent = `"${card.example}"`;
+            updateStats();
+        }
+        
+        function flipCard() {
+            document.getElementById('flashcard').classList.toggle('flipped');
+            isFlipped = !isFlipped;
+        }
+        
+        function markCard(known) {
+            if (!isFlipped) {
+                flipCard();
+                return;
+            }
+            
+            if (known) {
+                correctCount++;
+                streak++;
+            } else {
+                streak = 0;
+                missedCards.push(currentCards[currentIndex]);
+            }
+            
+            currentIndex++;
+            showCard();
+        }
+        
+        function updateStats() {
+            document.getElementById('correctCount').textContent = correctCount;
+            document.getElementById('remainingCount').textContent = currentCards.length - currentIndex;
+            document.getElementById('streakCount').textContent = streak;
+            
+            const progress = currentCards.length > 0 ? (currentIndex / currentCards.length) * 100 : 0;
+            document.getElementById('progressFill').style.width = progress + '%';
+        }
+        
+        function showComplete() {
+            document.getElementById('cardScreen').classList.add('hidden');
+            document.getElementById('completeScreen').classList.remove('hidden');
+            
+            const percentage = Math.round((correctCount / currentCards.length) * 100);
+            document.getElementById('finalScore').textContent = percentage + '%';
+            
+            let message = '';
+            if (percentage === 100) message = '🌟 Perfect! Fantástico!';
+            else if (percentage >= 80) message = '💪 Great job! Keep it up!';
+            else if (percentage >= 60) message = '👍 Good progress!';
+            else message = '📚 Keep practicing!';
+            
+            document.getElementById('finalMessage').textContent = message;
+        }
+        
+        function reviewMissed() {
+            const reviewList = document.getElementById('reviewList');
+            const reviewItems = document.getElementById('reviewItems');
+            
+            if (missedCards.length === 0) {
+                reviewItems.innerHTML = '<p style="color: #4ade80;">No missed words! 🎉</p>';
+            } else {
+                reviewItems.innerHTML = missedCards.map(card => `
+                    <div class="review-item">
+                        <strong>${card.pt}</strong> = ${card.de}<br>
+                        <small style="color: #888;">"${card.example}"</small>
+                    </div>
+                `).join('');
+            }
+            
+            reviewList.classList.toggle('hidden');
+        }
+        
+        // Initialize
+        loadDate();
+    </script>
+</body>
+</html>
