@@ -463,8 +463,8 @@
                     🔀 Shuffle
                 </label>
                 <label class="option">
-                    <input type="checkbox" id="reverseMode">
-                    🔄 DE → PT
+                    <input type="checkbox" id="reverseMode" checked>
+                    🔄 PT → DE
                 </label>
             </div>
             
@@ -474,7 +474,7 @@
                         <span class="card-mastery mastery-new" id="frontMastery">New</span>
                         <div class="card-lang" id="frontLang">Português</div>
                         <div class="card-word" id="frontWord">Loading...</div>
-                        <div class="card-hint">Tap to reveal</div>
+                        <div class="card-hint">👆 Tap card to reveal answer</div>
                     </div>
                     <div class="card-face card-back">
                         <div class="card-lang" id="backLang">Deutsch</div>
@@ -485,8 +485,8 @@
             </div>
             
             <div class="controls">
-                <button class="btn-dont-know" onclick="markCard(false)">❌ Don't Know</button>
-                <button class="btn-know" onclick="markCard(true)">✅ Know It</button>
+                <button class="btn-dont-know" onclick="markCard(false)">❌ Didn't Know</button>
+                <button class="btn-know" onclick="markCard(true)">✅ Got It</button>
             </div>
             
             <div class="controls">
@@ -764,11 +764,13 @@
             masteryEl.className = 'card-mastery ' + mastery.class;
             
             if (reverse) {
+                // Show German first, reveal Portuguese
                 document.getElementById('frontLang').textContent = 'Deutsch';
                 document.getElementById('frontWord').textContent = card.de;
                 document.getElementById('backLang').textContent = 'Português';
                 document.getElementById('backWord').textContent = card.pt;
             } else {
+                // Show Portuguese first, reveal German
                 document.getElementById('frontLang').textContent = 'Português';
                 document.getElementById('frontWord').textContent = card.pt;
                 document.getElementById('backLang').textContent = 'Deutsch';
@@ -785,11 +787,7 @@
         }
         
         function markCard(known) {
-            if (!isFlipped) {
-                flipCard();
-                return;
-            }
-            
+            // Always record the answer and move to next card
             const card = currentCards[currentIndex];
             const p = getWordProgress(card);
             
