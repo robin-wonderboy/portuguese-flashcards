@@ -806,7 +806,13 @@
             updateGlobalStats();
             
             currentIndex++;
-            showCard();
+            
+            // Flip card back first, wait for animation, then show next
+            document.getElementById('flashcard').classList.remove('flipped');
+            isFlipped = false;
+            setTimeout(() => {
+                showCard();
+            }, 400); // Wait for flip animation
         }
         
         function updateStats() {
