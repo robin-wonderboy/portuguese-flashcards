@@ -486,6 +486,7 @@
     <div id="practiceTab">
         <div class="date-selector">
             <select id="dateSelect" onchange="loadDate()">
+                <option value="daily">📅 Daily 20</option>
                 <option value="weak">🎯 Weak Words First</option>
                 <option value="all">📚 All Words</option>
                 <option value="manual">📝 Manual Vocab</option>
@@ -769,6 +770,8 @@
         // Progress storage
         const STORAGE_KEY = 'flashcards_progress';
         const STREAK_KEY = 'flashcards_streak';
+        const DAILY_KEY = 'flashcards_daily';
+        const WORDS_PER_DAY = 20;
         
         let progress = loadProgress();
         let currentCards = [];
@@ -864,6 +867,52 @@
             });
         }
         
+        function getDailyCards() {
+            // Get or set start date
+            let dailyData = {};
+            try {
+                dailyData = JSON.parse(localStorage.getItem(DAILY_KEY) || '{}');
+            } catch {}
+            
+            if (!dailyData.startDate) {
+                dailyData.startDate = new Date().toDateString();
+                localStorage.setItem(DAILY_KEY, JSON.stringify(dailyData));
+            }
+            
+            // Calculate days since start
+            const startDate = new Date(dailyData.startDate);
+            const today = new Date();
+            const daysSinceStart = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+            
+            // Unlock words based on days (day 0 = first 20, day 1 = first 40, etc.)
+            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, getAllCards().length);
+            const allCards = getAllCards();
+            const unlockedCards = allCards.slice(0, unlockedCount);
+            
+            // Sort by weakness (prioritize cards that need review)
+            return unlockedCards.sort((a, b) => {
+                const pA = getWordProgress(a);
+                const pB = getWordProgress(b);
+                const scoreA = pA.correct - pA.incorrect * 2;
+                const scoreB = pB.correct - pB.incorrect * 2;
+                return scoreA - scoreB;
+            });
+        }
+        
+        function getDailyInfo() {
+            let dailyData = {};
+            try {
+                dailyData = JSON.parse(localStorage.getItem(DAILY_KEY) || '{}');
+            } catch {}
+            
+            const startDate = dailyData.startDate ? new Date(dailyData.startDate) : new Date();
+            const today = new Date();
+            const daysSinceStart = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, getAllCards().length);
+            
+            return { day: daysSinceStart + 1, unlocked: unlockedCount, total: getAllCards().length };
+        }
+        
         function updateGlobalStats() {
             const all = getAllCards();
             const mastered = all.filter(c => getMasteryLevel(c).level === 'mastered').length;
@@ -910,7 +959,11 @@
         
         function loadDate() {
             const mode = document.getElementById('dateSelect').value;
-            if (mode === 'weak') {
+            if (mode === 'daily') {
+                currentCards = getDailyCards();
+                const info = getDailyInfo();
+                console.log(`Day ${info.day}: ${info.unlocked}/${info.total} words unlocked`);
+            } else if (mode === 'weak') {
                 currentCards = getWeakCards();
             } else if (mode === 'all') {
                 currentCards = [...getAllCards()];
@@ -930,7 +983,9 @@
         
         function restartQuiz() {
             const mode = document.getElementById('dateSelect').value;
-            if (mode === 'weak') {
+            if (mode === 'daily') {
+                currentCards = getDailyCards();
+            } else if (mode === 'weak') {
                 currentCards = getWeakCards();
             } else if (mode === 'all') {
                 currentCards = [...getAllCards()];
@@ -938,7 +993,7 @@
                 currentCards = [...(vocabulary[mode] || [])];
             }
             
-            if (document.getElementById('shuffleMode').checked && mode !== 'weak') {
+            if (document.getElementById('shuffleMode').checked && mode !== 'weak' && mode !== 'daily') {
                 shuffle(currentCards);
             }
             
