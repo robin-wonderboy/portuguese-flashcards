@@ -1,7 +1,8 @@
 {
   "name": "Portuguese Flashcards",
   "short_name": "PT Vocab",
-  "description": "Learn Portuguese vocabulary from Coimbra news",
+  "version": "1.1.0",
+  "description": "Learn Portuguese vocabulary from Coimbra news - now with backup!",
   "start_url": "/portuguese-flashcards/",
   "display": "standalone",
   "background_color": "#1a1a2e",
