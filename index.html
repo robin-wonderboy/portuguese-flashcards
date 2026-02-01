@@ -424,6 +424,34 @@
             border-color: #f87171;
             color: #f87171;
         }
+        
+        .backup-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .backup-btn {
+            background: transparent;
+            border: 1px solid #4ade80;
+            color: #4ade80;
+            font-size: 0.8rem;
+            padding: 8px 15px;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: all 0.2s;
+        }
+        
+        .backup-btn:hover {
+            background: #4ade80;
+            color: #000;
+        }
+        
+        .import-input {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -537,6 +565,12 @@
     
     <div id="wordsTab" class="hidden">
         <div class="word-list" id="wordList"></div>
+    </div>
+    
+    <div class="backup-controls">
+        <button class="backup-btn" onclick="exportProgress()">📤 Export Progress</button>
+        <button class="backup-btn" onclick="document.getElementById('importFile').click()">📥 Import Progress</button>
+        <input type="file" id="importFile" class="import-input" accept=".json" onchange="importProgress(event)">
     </div>
     
     <button class="reset-btn" onclick="resetProgress()">🗑️ Reset All Progress</button>
@@ -1067,6 +1101,72 @@
                 updateGlobalStats();
                 restartQuiz();
             }
+        }
+        
+        function exportProgress() {
+            const data = {
+                progress: progress,
+                streak: JSON.parse(localStorage.getItem(STREAK_KEY) || '{}'),
+                exportedAt: new Date().toISOString(),
+                totalWords: getAllCards().length
+            };
+            
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `portuguese-flashcards-backup-${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+        
+        function importProgress(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    
+                    if (!data.progress) {
+                        alert('Invalid backup file: no progress data found');
+                        return;
+                    }
+                    
+                    if (confirm(`Import backup from ${data.exportedAt || 'unknown date'}?\n\nThis will merge with your current progress (keeping the better score for each word).`)) {
+                        // Merge progress (keep better scores)
+                        for (const key in data.progress) {
+                            if (!progress[key]) {
+                                progress[key] = data.progress[key];
+                            } else {
+                                // Keep the better progress
+                                progress[key].correct = Math.max(progress[key].correct || 0, data.progress[key].correct || 0);
+                                progress[key].incorrect = Math.min(progress[key].incorrect || 0, data.progress[key].incorrect || 0);
+                                progress[key].lastSeen = Math.max(progress[key].lastSeen || 0, data.progress[key].lastSeen || 0);
+                            }
+                        }
+                        
+                        // Merge streak (keep better)
+                        if (data.streak && data.streak.days) {
+                            const currentStreak = JSON.parse(localStorage.getItem(STREAK_KEY) || '{}');
+                            if ((data.streak.days || 0) > (currentStreak.days || 0)) {
+                                localStorage.setItem(STREAK_KEY, JSON.stringify(data.streak));
+                            }
+                        }
+                        
+                        saveProgress();
+                        updateGlobalStats();
+                        alert('Progress imported successfully! 🎉');
+                    }
+                } catch (err) {
+                    alert('Error reading backup file: ' + err.message);
+                }
+            };
+            reader.readAsText(file);
+            event.target.value = ''; // Reset file input
         }
         
         // Initialize
