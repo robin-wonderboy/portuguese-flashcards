@@ -490,8 +490,7 @@
                 <option value="weak">🎯 Weak Words First</option>
                 <option value="all">📚 All Words</option>
                 <option value="manual">📝 Manual Vocab</option>
-                <option value="2026-01-30">📰 30 Janeiro</option>
-                <option value="2025-01-29">📰 29 Janeiro</option>
+                <!-- Date options populated dynamically -->
             </select>
         </div>
         
@@ -903,18 +902,39 @@
             const daysSinceStart = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
             
             // Unlock words based on days (day 0 = first 20, day 1 = first 40, etc.)
-            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, getAllCards().length);
             const allCards = getAllCards();
-            const unlockedCards = allCards.slice(0, unlockedCount);
+            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, allCards.length);
             
-            // Sort by weakness (prioritize cards that need review)
-            return unlockedCards.sort((a, b) => {
+            // Today's NEW batch (the latest 20 unlocked words)
+            const previousCount = Math.min(daysSinceStart * WORDS_PER_DAY, allCards.length);
+            const todaysBatch = allCards.slice(previousCount, unlockedCount);
+            
+            // Previous batches (for review)
+            const previousBatches = allCards.slice(0, previousCount);
+            
+            // Prioritize: 1) Unseen words from today's batch, 2) Weak words from today, 3) Weak words from previous
+            const unseenToday = todaysBatch.filter(c => {
+                const p = getWordProgress(c);
+                return p.correct === 0 && p.incorrect === 0;
+            });
+            
+            const seenToday = todaysBatch.filter(c => {
+                const p = getWordProgress(c);
+                return p.correct > 0 || p.incorrect > 0;
+            }).sort((a, b) => {
                 const pA = getWordProgress(a);
                 const pB = getWordProgress(b);
-                const scoreA = pA.correct - pA.incorrect * 2;
-                const scoreB = pB.correct - pB.incorrect * 2;
-                return scoreA - scoreB;
+                return (pA.correct - pA.incorrect * 2) - (pB.correct - pB.incorrect * 2);
             });
+            
+            const reviewPrevious = previousBatches.sort((a, b) => {
+                const pA = getWordProgress(a);
+                const pB = getWordProgress(b);
+                return (pA.correct - pA.incorrect * 2) - (pB.correct - pB.incorrect * 2);
+            }).slice(0, WORDS_PER_DAY); // Limit review cards
+            
+            // Combine: new words first, then today's weak, then previous weak
+            return [...unseenToday, ...seenToday, ...reviewPrevious];
         }
         
         function getDailyInfo() {
@@ -926,9 +946,17 @@
             const startDate = dailyData.startDate ? new Date(dailyData.startDate) : new Date();
             const today = new Date();
             const daysSinceStart = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, getAllCards().length);
+            const allCards = getAllCards();
+            const unlockedCount = Math.min((daysSinceStart + 1) * WORDS_PER_DAY, allCards.length);
+            const previousCount = Math.min(daysSinceStart * WORDS_PER_DAY, allCards.length);
+            const todaysNewCount = unlockedCount - previousCount;
             
-            return { day: daysSinceStart + 1, unlocked: unlockedCount, total: getAllCards().length };
+            return { 
+                day: daysSinceStart + 1, 
+                unlocked: unlockedCount, 
+                todaysNew: todaysNewCount,
+                total: allCards.length 
+            };
         }
         
         function updateGlobalStats() {
@@ -1247,7 +1275,28 @@
             event.target.value = ''; // Reset file input
         }
         
+        function populateDateSelect() {
+            const select = document.getElementById('dateSelect');
+            const months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+                           'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+            
+            // Get date keys from vocabulary (excluding 'manual')
+            const dates = Object.keys(vocabulary)
+                .filter(k => k !== 'manual' && /^\d{4}-\d{2}-\d{2}$/.test(k))
+                .sort((a, b) => b.localeCompare(a)); // newest first
+            
+            // Add date options
+            dates.forEach(dateKey => {
+                const opt = document.createElement('option');
+                opt.value = dateKey;
+                const d = new Date(dateKey + 'T12:00:00'); // noon to avoid timezone issues
+                opt.textContent = `📰 ${d.getDate()} ${months[d.getMonth()]}`;
+                select.appendChild(opt);
+            });
+        }
+        
         // Initialize
+        populateDateSelect();
         updateGlobalStats();
         loadDate();
     </script>
