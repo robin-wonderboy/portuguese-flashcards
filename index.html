@@ -1367,6 +1367,26 @@
         populateDateSelect();
         updateGlobalStats();
         loadDate();
+        
+        // Service Worker registration with auto-reload on update
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(reg => {
+                    // Check for updates periodically
+                    setInterval(() => reg.update(), 60000);
+                    console.log('SW registered');
+                })
+                .catch(err => console.log('SW registration failed:', err));
+            
+            // Auto-reload when new SW takes control
+            let refreshing = false;
+            navigator.serviceWorker.addEventListener('controllerchange', () => {
+                if (refreshing) return;
+                refreshing = true;
+                console.log('New version available, reloading...');
+                window.location.reload();
+            });
+        }
     </script>
 </body>
 </html>
