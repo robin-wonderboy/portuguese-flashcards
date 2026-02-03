@@ -885,7 +885,40 @@
         }
         
         function getDailyCards() {
-            // Get or set start date
+            // Check if there's vocabulary for today's date
+            const todayKey = new Date().toISOString().split('T')[0]; // "YYYY-MM-DD"
+            const todaysVocab = vocabulary[todayKey] || [];
+            
+            // If today has new vocab, prioritize it!
+            if (todaysVocab.length > 0) {
+                // Show today's new words first
+                const unseenToday = todaysVocab.filter(c => {
+                    const p = getWordProgress(c);
+                    return p.correct === 0 && p.incorrect === 0;
+                });
+                
+                const seenToday = todaysVocab.filter(c => {
+                    const p = getWordProgress(c);
+                    return p.correct > 0 || p.incorrect > 0;
+                }).sort((a, b) => {
+                    const pA = getWordProgress(a);
+                    const pB = getWordProgress(b);
+                    return (pA.correct - pA.incorrect * 2) - (pB.correct - pB.incorrect * 2);
+                });
+                
+                // Get weak words from ALL previous vocab for review
+                const allOther = getAllCards().filter(c => !todaysVocab.includes(c));
+                const reviewPrevious = allOther.sort((a, b) => {
+                    const pA = getWordProgress(a);
+                    const pB = getWordProgress(b);
+                    return (pA.correct - pA.incorrect * 2) - (pB.correct - pB.incorrect * 2);
+                }).slice(0, WORDS_PER_DAY - todaysVocab.length); // Fill up to 20 total
+                
+                // Combine: today's unseen first, then today's weak, then review
+                return [...unseenToday, ...seenToday, ...reviewPrevious];
+            }
+            
+            // Fallback: no vocab for today, use progressive unlocking system
             let dailyData = {};
             try {
                 dailyData = JSON.parse(localStorage.getItem(DAILY_KEY) || '{}');
@@ -913,12 +946,12 @@
             const previousBatches = allCards.slice(0, previousCount);
             
             // Prioritize: 1) Unseen words from today's batch, 2) Weak words from today, 3) Weak words from previous
-            const unseenToday = todaysBatch.filter(c => {
+            const unseenBatch = todaysBatch.filter(c => {
                 const p = getWordProgress(c);
                 return p.correct === 0 && p.incorrect === 0;
             });
             
-            const seenToday = todaysBatch.filter(c => {
+            const seenBatch = todaysBatch.filter(c => {
                 const p = getWordProgress(c);
                 return p.correct > 0 || p.incorrect > 0;
             }).sort((a, b) => {
@@ -934,7 +967,7 @@
             }).slice(0, WORDS_PER_DAY); // Limit review cards
             
             // Combine: new words first, then today's weak, then previous weak
-            return [...unseenToday, ...seenToday, ...reviewPrevious];
+            return [...unseenBatch, ...seenBatch, ...reviewPrevious];
         }
         
         function getDailyInfo() {
@@ -1280,6 +1313,16 @@
             const months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
                            'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
             
+            // Check if today has new vocab
+            const todayKey = new Date().toISOString().split('T')[0];
+            const todaysVocab = vocabulary[todayKey] || [];
+            
+            // Update the Daily 20 label if today has vocab
+            const dailyOption = select.querySelector('option[value="daily"]');
+            if (todaysVocab.length > 0) {
+                dailyOption.textContent = `🆕 Today's ${todaysVocab.length} + Review`;
+            }
+            
             // Get date keys from vocabulary (excluding 'manual')
             const dates = Object.keys(vocabulary)
                 .filter(k => k !== 'manual' && /^\d{4}-\d{2}-\d{2}$/.test(k))
@@ -1290,7 +1333,10 @@
                 const opt = document.createElement('option');
                 opt.value = dateKey;
                 const d = new Date(dateKey + 'T12:00:00'); // noon to avoid timezone issues
-                opt.textContent = `📰 ${d.getDate()} ${months[d.getMonth()]}`;
+                const isToday = dateKey === todayKey;
+                opt.textContent = isToday 
+                    ? `📰 Hoje (${todaysVocab.length} palavras)` 
+                    : `📰 ${d.getDate()} ${months[d.getMonth()]}`;
                 select.appendChild(opt);
             });
         }
