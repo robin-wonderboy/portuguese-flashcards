@@ -204,6 +204,7 @@
             display: flex;
             gap: 15px;
             margin-bottom: 15px;
+            justify-content: center;
         }
         
         button {
@@ -441,8 +442,6 @@
                 <button class="btn-dont-know" onclick="markCard(false)">Wrong</button>
                 <button class="btn-know" onclick="markCard(true)">Correct</button>
             </div>
-            
-            <button class="btn-secondary" onclick="restartQuiz()">Restart</button>
         </div>
         
         <div id="completeScreen" class="complete-screen hidden">
@@ -512,10 +511,11 @@
             </div>
             
             <div class="modal-actions">
-                <button class="btn-secondary" onclick="exportProgress()">📤 Export Progress</button>
-                <button class="btn-secondary" onclick="document.getElementById('importFile').click()">📥 Import Progress</button>
+                <button class="btn-secondary" onclick="restartQuiz(); toggleSettings();">Restart Game</button>
+                <button class="btn-secondary" onclick="exportProgress()">Export Progress</button>
+                <button class="btn-secondary" onclick="document.getElementById('importFile').click()">Import Progress</button>
                 <input type="file" id="importFile" style="display:none" accept=".json" onchange="importProgress(event)">
-                <button class="btn-danger" onclick="resetProgress()">🗑️ Reset All</button>
+                <button class="btn-danger" onclick="resetProgress()">Reset All</button>
             </div>
         </div>
     </div>
