@@ -433,6 +433,34 @@
             color: #f87171;
         }
         
+        .lang-toggle {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+        
+        .lang-btn {
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: 2px solid #3d3d5c;
+            background: transparent;
+            color: #888;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        
+        .lang-btn:hover {
+            border-color: #4ade80;
+            color: #4ade80;
+        }
+        
+        .lang-btn.active {
+            background: #4ade80;
+            border-color: #4ade80;
+            color: #000;
+        }
+        
         .backup-controls {
             display: flex;
             gap: 10px;
@@ -463,6 +491,11 @@
     </style>
 </head>
 <body>
+    <div class="lang-toggle">
+        <button class="lang-btn active" id="langDE" onclick="setLanguage('de')">🇩🇪 DE</button>
+        <button class="lang-btn" id="langEN" onclick="setLanguage('en')">🇬🇧 EN</button>
+    </div>
+    
     <div class="global-stats">
         <div class="global-stat">
             <div class="global-stat-value" id="totalMastered">0</div>
@@ -583,311 +616,311 @@
     <script>
         const vocabulary = {
             "2026-02-07": [
-                { pt: "despedir-se de", de: "sich verabschieden von", example: "Bombeiros despedem-se do seu fiel companheiro" },
-                { pt: "fiel", de: "treu", example: "Fiel companheiro Flecha" },
-                { pt: "o quartel", de: "die Kaserne, das Feuerwehrhaus", example: "O quartel dos Bombeiros ficou mais silencioso" },
-                { pt: "a corporação", de: "das Korps, die Körperschaft", example: "Amigo leal de todos os elementos da corporação" },
-                { pt: "insubstituível", de: "unersetzlich", example: "Presença insubstituível no dia a dia" },
-                { pt: "o turno", de: "die Schicht", example: "Nos turnos mais longos" },
-                { pt: "transitar em julgado", de: "rechtskräftig werden", example: "A decisão ainda não transitou em julgado" },
-                { pt: "a coação", de: "die Zwangsmaßnahme", example: "Medidas de coação menos gravosas" },
-                { pt: "os trâmites legais", de: "die rechtlichen Verfahrensschritte", example: "Processo prossegue os seus trâmites legais" },
-                { pt: "livre como um passarinho", de: "frei wie ein Vogel", example: "Fernando Madureira livre como um passarinho" },
-                { pt: "a prova-ensaio", de: "die Probeprüfung", example: "Provas-ensaio adiadas para abril" },
-                { pt: "a intempérie", de: "die Unwetter, schlechte Witterung", example: "Impacto destas intempéries climatéricas" },
-                { pt: "ultrapassar", de: "überwinden", example: "Exige tempo para ser ultrapassado" },
-                { pt: "inclusivo/a", de: "inklusiv", example: "Tornar a Figueira da Foz mais inclusiva" },
-                { pt: "a reinserção", de: "die Wiedereingliederung", example: "Programas de reinserção social e profissional" },
-                { pt: "a sensibilização", de: "die Sensibilisierung", example: "Iniciativas de sensibilização" },
-                { pt: "a cadeira de rodas", de: "der Rollstuhl", example: "Andebol em cadeira de rodas" },
-                { pt: "o desporto adaptado", de: "der Behindertensport", example: "Afirmar o desporto inclusivo" },
-                { pt: "a desmobilização", de: "die Demobilisierung", example: "Possível desmobilização da ida às urnas" },
-                { pt: "as urnas", de: "die Wahlurnen", example: "Ventura afasta responsabilidade de baixa ida às urnas" },
-                { pt: "a abstenção", de: "die Enthaltung, Nichtwahl", example: "Aumento da abstenção no domingo" },
-                { pt: "devastado/a", de: "verwüstet", example: "Metade do país devastado pela tempestade" },
-                { pt: "a todo o custo", de: "um jeden Preis", example: "Manter as eleições a todo o custo" },
-                { pt: "dar visibilidade", de: "Sichtbarkeit geben", example: "Dar essa ajuda e essa visibilidade" }
+                { pt: "despedir-se de", de: "sich verabschieden von", en: "to say goodbye to", example: "Bombeiros despedem-se do seu fiel companheiro" },
+                { pt: "fiel", de: "treu", en: "faithful, loyal", example: "Fiel companheiro Flecha" },
+                { pt: "o quartel", de: "die Kaserne, das Feuerwehrhaus", en: "the barracks, the fire station", example: "O quartel dos Bombeiros ficou mais silencioso" },
+                { pt: "a corporação", de: "das Korps, die Körperschaft", en: "the corps, the corporation", example: "Amigo leal de todos os elementos da corporação" },
+                { pt: "insubstituível", de: "unersetzlich", en: "irreplaceable", example: "Presença insubstituível no dia a dia" },
+                { pt: "o turno", de: "die Schicht", en: "the shift", example: "Nos turnos mais longos" },
+                { pt: "transitar em julgado", de: "rechtskräftig werden", en: "to become legally binding", example: "A decisão ainda não transitou em julgado" },
+                { pt: "a coação", de: "die Zwangsmaßnahme", en: "the coercive measure", example: "Medidas de coação menos gravosas" },
+                { pt: "os trâmites legais", de: "die rechtlichen Verfahrensschritte", en: "the legal proceedings", example: "Processo prossegue os seus trâmites legais" },
+                { pt: "livre como um passarinho", de: "frei wie ein Vogel", en: "free as a bird", example: "Fernando Madureira livre como um passarinho" },
+                { pt: "a prova-ensaio", de: "die Probeprüfung", en: "the practice test", example: "Provas-ensaio adiadas para abril" },
+                { pt: "a intempérie", de: "die Unwetter, schlechte Witterung", en: "bad weather, storms", example: "Impacto destas intempéries climatéricas" },
+                { pt: "ultrapassar", de: "überwinden", en: "to overcome", example: "Exige tempo para ser ultrapassado" },
+                { pt: "inclusivo/a", de: "inklusiv", en: "inclusive", example: "Tornar a Figueira da Foz mais inclusiva" },
+                { pt: "a reinserção", de: "die Wiedereingliederung", en: "the reintegration", example: "Programas de reinserção social e profissional" },
+                { pt: "a sensibilização", de: "die Sensibilisierung", en: "awareness raising", example: "Iniciativas de sensibilização" },
+                { pt: "a cadeira de rodas", de: "der Rollstuhl", en: "the wheelchair", example: "Andebol em cadeira de rodas" },
+                { pt: "o desporto adaptado", de: "der Behindertensport", en: "adaptive sports", example: "Afirmar o desporto inclusivo" },
+                { pt: "a desmobilização", de: "die Demobilisierung", en: "the demobilization", example: "Possível desmobilização da ida às urnas" },
+                { pt: "as urnas", de: "die Wahlurnen", en: "the ballot boxes", example: "Ventura afasta responsabilidade de baixa ida às urnas" },
+                { pt: "a abstenção", de: "die Enthaltung, Nichtwahl", en: "abstention, non-voting", example: "Aumento da abstenção no domingo" },
+                { pt: "devastado/a", de: "verwüstet", en: "devastated", example: "Metade do país devastado pela tempestade" },
+                { pt: "a todo o custo", de: "um jeden Preis", en: "at all costs", example: "Manter as eleições a todo o custo" },
+                { pt: "dar visibilidade", de: "Sichtbarkeit geben", en: "to give visibility", example: "Dar essa ajuda e essa visibilidade" }
             ],
             "2026-02-06": [
-                { pt: "a correnteza", de: "die Strömung", example: "Apesar do elevado risco provocado pelo caudal e da correnteza" },
-                { pt: "acionado/a", de: "alarmiert, eingesetzt", example: "Os militares foram acionados após a denúncia" },
-                { pt: "acorrer", de: "zu Hilfe eilen, unterstützen", example: "Poder acorrer às suas necessidades" },
-                { pt: "moroso/a", de: "langwierig, langsam", example: "Zonas que tornam mais morosa esta tarefa de reposição" },
-                { pt: "expedito/a", de: "zügig, schnell", example: "De forma rápida e expedita" },
-                { pt: "o/a arguido/a", de: "der/die Beschuldigte, Angeklagte", example: "Casal foi constituído arguido pelo crime de furto" },
-                { pt: "encetar", de: "einleiten, beginnen", example: "Encetaram diligências para intercetar a viatura" },
-                { pt: "as diligências", de: "die Ermittlungen, Nachforschungen", example: "Encetaram diligências com o intuito de..." },
-                { pt: "intercetar", de: "abfangen", example: "Proceder à interceção da viatura suspeita" },
-                { pt: "restituir", de: "zurückgeben, erstatten", example: "Restituído ao seu legítimo proprietário" },
-                { pt: "a empreitada", de: "das Bauvorhaben, der Bauauftrag", example: "Auto de consignação da empreitada de requalificação" },
-                { pt: "a patologia", de: "der Mangel, Schaden (Bau)", example: "Cobertura que apresenta diversas patologias" },
-                { pt: "a ampliação", de: "die Erweiterung", example: "Consiste na ampliação da USF" },
-                { pt: "a consignação", de: "die Übergabe, Konsignation", example: "Auto de consignação da empreitada" },
-                { pt: "apelativo/a", de: "ansprechend, attraktiv", example: "Ambiente apelativo, acessível e estimulante" },
-                { pt: "a literacia", de: "die Lesekompetenz", example: "Promover a leitura, a literacia e o desenvolvimento" },
-                { pt: "disseminado/a", de: "verbreitet, verteilt", example: "Pontos biblioteca disseminados pelas escolas" },
-                { pt: "sem precedentes", de: "beispiellos", example: "Apoios avançam com rapidez sem precedentes" },
-                { pt: "ao seu alcance", de: "in seiner Reichweite", example: "Fazer tudo o que está ao seu alcance" }
+                { pt: "a correnteza", de: "die Strömung", en: "the current", example: "Apesar do elevado risco provocado pelo caudal e da correnteza" },
+                { pt: "acionado/a", de: "alarmiert, eingesetzt", en: "alerted, deployed", example: "Os militares foram acionados após a denúncia" },
+                { pt: "acorrer", de: "zu Hilfe eilen, unterstützen", en: "to rush to help, support", example: "Poder acorrer às suas necessidades" },
+                { pt: "moroso/a", de: "langwierig, langsam", en: "lengthy, slow", example: "Zonas que tornam mais morosa esta tarefa de reposição" },
+                { pt: "expedito/a", de: "zügig, schnell", en: "swift, quick", example: "De forma rápida e expedita" },
+                { pt: "o/a arguido/a", de: "der/die Beschuldigte, Angeklagte", en: "the accused, defendant", example: "Casal foi constituído arguido pelo crime de furto" },
+                { pt: "encetar", de: "einleiten, beginnen", en: "to initiate, begin", example: "Encetaram diligências para intercetar a viatura" },
+                { pt: "as diligências", de: "die Ermittlungen, Nachforschungen", en: "the investigations, inquiries", example: "Encetaram diligências com o intuito de..." },
+                { pt: "intercetar", de: "abfangen", en: "to intercept", example: "Proceder à interceção da viatura suspeita" },
+                { pt: "restituir", de: "zurückgeben, erstatten", en: "to return, refund", example: "Restituído ao seu legítimo proprietário" },
+                { pt: "a empreitada", de: "das Bauvorhaben, der Bauauftrag", en: "the construction project, contract", example: "Auto de consignação da empreitada de requalificação" },
+                { pt: "a patologia", de: "der Mangel, Schaden (Bau)", en: "the defect, damage (construction)", example: "Cobertura que apresenta diversas patologias" },
+                { pt: "a ampliação", de: "die Erweiterung", en: "the expansion", example: "Consiste na ampliação da USF" },
+                { pt: "a consignação", de: "die Übergabe, Konsignation", en: "the handover, consignment", example: "Auto de consignação da empreitada" },
+                { pt: "apelativo/a", de: "ansprechend, attraktiv", en: "appealing, attractive", example: "Ambiente apelativo, acessível e estimulante" },
+                { pt: "a literacia", de: "die Lesekompetenz", en: "literacy", example: "Promover a leitura, a literacia e o desenvolvimento" },
+                { pt: "disseminado/a", de: "verbreitet, verteilt", en: "spread, distributed", example: "Pontos biblioteca disseminados pelas escolas" },
+                { pt: "sem precedentes", de: "beispiellos", en: "unprecedented", example: "Apoios avançam com rapidez sem precedentes" },
+                { pt: "ao seu alcance", de: "in seiner Reichweite", en: "within his reach", example: "Fazer tudo o que está ao seu alcance" }
             ],
             "2026-02-05": [
-                { pt: "resgatar", de: "retten", example: "89 pessoas resgatadas da cheia do rio Sado" },
-                { pt: "o efetivo", de: "das Personal, die Einsatzkräfte", example: "Um total de cerca de 80 elementos de efetivo" },
-                { pt: "acudir", de: "zu Hilfe eilen", example: "Se o Estado não acudir às pessoas" },
-                { pt: "pernoitar", de: "übernachten", example: "Locais para pernoitar e se alimentar" },
-                { pt: "a brevidade", de: "die Kürze", example: "Retoma na brevidade possível" },
-                { pt: "proferir", de: "verkünden, aussprechen", example: "STJ profere acórdão no caso do juiz" },
-                { pt: "o acórdão", de: "das Urteil, der Gerichtsbeschluss", example: "Acórdão agendado para as 14:30" },
-                { pt: "jubilado/a", de: "im Ruhestand, pensioniert", example: "Juiz conselheiro jubilado" },
-                { pt: "escrutinar", de: "prüfen, überprüfen", example: "Acusação foi escrutinada na fase de instrução" },
-                { pt: "adiar", de: "verschieben", example: "Associação de Futebol adia jogos" },
-                { pt: "retomar", de: "wiederaufnehmen", example: "Em Coimbra retomam-se provas" },
-                { pt: "o recinto", de: "die Anlage, das Gelände", example: "Recuperação dos recintos desportivos" },
-                { pt: "o levantamento", de: "die Erhebung, Bestandsaufnahme", example: "Levantamento efetuado dos danos" },
-                { pt: "a acreditação", de: "die Akkreditierung", example: "ESTeSC-IPC obteve acreditação do INEM" },
-                { pt: "o apagão", de: "der Stromausfall (großflächig)", example: "Cuba sofre colapso parcial — novo apagão" },
-                { pt: "a avaria", de: "der Defekt, die Panne", example: "Centrais fora de serviço devido a avarias" },
-                { pt: "na brevidade possível", de: "so schnell wie möglich", example: "Retoma na brevidade possível" },
-                { pt: "fora de serviço", de: "außer Betrieb", example: "Centrais termoelétricas fora de serviço" }
+                { pt: "resgatar", de: "retten", en: "to rescue", example: "89 pessoas resgatadas da cheia do rio Sado" },
+                { pt: "o efetivo", de: "das Personal, die Einsatzkräfte", en: "the personnel, emergency forces", example: "Um total de cerca de 80 elementos de efetivo" },
+                { pt: "acudir", de: "zu Hilfe eilen", en: "to rush to help", example: "Se o Estado não acudir às pessoas" },
+                { pt: "pernoitar", de: "übernachten", en: "to stay overnight", example: "Locais para pernoitar e se alimentar" },
+                { pt: "a brevidade", de: "die Kürze", en: "the brevity", example: "Retoma na brevidade possível" },
+                { pt: "proferir", de: "verkünden, aussprechen", en: "to pronounce, declare", example: "STJ profere acórdão no caso do juiz" },
+                { pt: "o acórdão", de: "das Urteil, der Gerichtsbeschluss", en: "the verdict, court ruling", example: "Acórdão agendado para as 14:30" },
+                { pt: "jubilado/a", de: "im Ruhestand, pensioniert", en: "retired", example: "Juiz conselheiro jubilado" },
+                { pt: "escrutinar", de: "prüfen, überprüfen", en: "to examine, scrutinize", example: "Acusação foi escrutinada na fase de instrução" },
+                { pt: "adiar", de: "verschieben", en: "to postpone", example: "Associação de Futebol adia jogos" },
+                { pt: "retomar", de: "wiederaufnehmen", en: "to resume", example: "Em Coimbra retomam-se provas" },
+                { pt: "o recinto", de: "die Anlage, das Gelände", en: "the facility, grounds", example: "Recuperação dos recintos desportivos" },
+                { pt: "o levantamento", de: "die Erhebung, Bestandsaufnahme", en: "the survey, assessment", example: "Levantamento efetuado dos danos" },
+                { pt: "a acreditação", de: "die Akkreditierung", en: "the accreditation", example: "ESTeSC-IPC obteve acreditação do INEM" },
+                { pt: "o apagão", de: "der Stromausfall (großflächig)", en: "the blackout (widespread)", example: "Cuba sofre colapso parcial — novo apagão" },
+                { pt: "a avaria", de: "der Defekt, die Panne", en: "the defect, breakdown", example: "Centrais fora de serviço devido a avarias" },
+                { pt: "na brevidade possível", de: "so schnell wie möglich", en: "as soon as possible", example: "Retoma na brevidade possível" },
+                { pt: "fora de serviço", de: "außer Betrieb", en: "out of service", example: "Centrais termoelétricas fora de serviço" }
             ],
             "2026-02-04": [
-                { pt: "a rajada", de: "die Böe", example: "Rajada de 178 km/hora" },
-                { pt: "a portagem", de: "die Maut", example: "Isenção de portagens durante uma semana" },
-                { pt: "a mão-de-obra", de: "die Arbeitskraft", example: "Exigem materiais e mão-de-obra qualificada" },
-                { pt: "o troço", de: "der Abschnitt", example: "Quatro troços das autoestradas" },
-                { pt: "ressalvar", de: "einschränken, vorbehaltlich hinzufügen", example: "Ressalvando que houve melhorias desde 2017" },
-                { pt: "as estremas", de: "die Grenzlinien (eines Grundstücks)", example: "Os limites dos terrenos — as chamadas estremas" },
-                { pt: "o talude", de: "die Böschung", example: "A deslocação de taludes" },
-                { pt: "o prédio rústico", de: "das landwirtschaftliche Grundstück", example: "Prédios rústicos do concelho" },
-                { pt: "ponderar", de: "abwägen, erwägen", example: "Quem exerce o poder executivo ponderou isso" },
-                { pt: "a calamidade", de: "die Katastrophe", example: "68 concelhos em calamidade" },
-                { pt: "a isenção", de: "die Befreiung", example: "Isenção de portagens" },
-                { pt: "a artroplastia", de: "die Gelenkersatzoperation", example: "Artroplastia total do joelho" },
-                { pt: "a mascote", de: "das Maskottchen", example: "União, mascote conhecida do IPC" },
-                { pt: "acarinhado/a", de: "liebgewonnen", example: "Mascote acarinhada por tantos" },
-                { pt: "a prostração", de: "die Erschöpfung, Schwäche", example: "Sinais de prostração e febre" },
-                { pt: "do tempo da Maria Cachucha", de: "uralt, veraltet", example: "Marcelo criticou postes de eletricidade 'do tempo da Maria Cachucha'" }
+                { pt: "a rajada", de: "die Böe", en: "the gust", example: "Rajada de 178 km/hora" },
+                { pt: "a portagem", de: "die Maut", en: "the toll", example: "Isenção de portagens durante uma semana" },
+                { pt: "a mão-de-obra", de: "die Arbeitskraft", en: "the workforce, labor", example: "Exigem materiais e mão-de-obra qualificada" },
+                { pt: "o troço", de: "der Abschnitt", en: "the section", example: "Quatro troços das autoestradas" },
+                { pt: "ressalvar", de: "einschränken, vorbehaltlich hinzufügen", en: "to qualify, add reservations", example: "Ressalvando que houve melhorias desde 2017" },
+                { pt: "as estremas", de: "die Grenzlinien (eines Grundstücks)", en: "the boundary lines (of a property)", example: "Os limites dos terrenos — as chamadas estremas" },
+                { pt: "o talude", de: "die Böschung", en: "the embankment, slope", example: "A deslocação de taludes" },
+                { pt: "o prédio rústico", de: "das landwirtschaftliche Grundstück", en: "the rural property", example: "Prédios rústicos do concelho" },
+                { pt: "ponderar", de: "abwägen, erwägen", en: "to weigh, consider", example: "Quem exerce o poder executivo ponderou isso" },
+                { pt: "a calamidade", de: "die Katastrophe", en: "the catastrophe, calamity", example: "68 concelhos em calamidade" },
+                { pt: "a isenção", de: "die Befreiung", en: "the exemption", example: "Isenção de portagens" },
+                { pt: "a artroplastia", de: "die Gelenkersatzoperation", en: "joint replacement surgery", example: "Artroplastia total do joelho" },
+                { pt: "a mascote", de: "das Maskottchen", en: "the mascot", example: "União, mascote conhecida do IPC" },
+                { pt: "acarinhado/a", de: "liebgewonnen", en: "beloved, cherished", example: "Mascote acarinhada por tantos" },
+                { pt: "a prostração", de: "die Erschöpfung, Schwäche", en: "exhaustion, weakness", example: "Sinais de prostração e febre" },
+                { pt: "do tempo da Maria Cachucha", de: "uralt, veraltet", en: "ancient, outdated", example: "Marcelo criticou postes de eletricidade 'do tempo da Maria Cachucha'" }
             ],
             "manual": [
-                { pt: "reformado", de: "Rentner", example: "O meu avô é reformado há cinco anos" },
-                { pt: "apetecer", de: "schmecken, Lust haben", example: "Apetece-me um café" },
-                { pt: "Não me apetece", de: "Ich habe keine Lust dazu", example: "Não me apetece sair hoje" },
-                { pt: "Não estou com vontade", de: "Ich habe keine Lust", example: "Não estou com vontade de trabalhar" },
-                { pt: "parir", de: "gebären", example: "A gata pariu cinco gatinhos" },
-                { pt: "vigarista", de: "Betrüger, Gauner", example: "Aquele vigarista roubou-me o dinheiro" },
-                { pt: "valente", de: "mutig, tapfer", example: "O bombeiro foi muito valente" },
-                { pt: "doido", de: "irre, verrückt", example: "Estás doido? Isso é perigoso!" },
-                { pt: "raspar", de: "rasieren, kratzen", example: "Vou raspar a barba" },
-                { pt: "ninho", de: "Nest, Höhle", example: "O pássaro construiu um ninho na árvore" },
-                { pt: "miúdo", de: "klein, winzig", example: "O apartamento é muito miúdo" },
-                { pt: "ângulo", de: "Winkel", example: "Vê a situação de outro ângulo" },
-                { pt: "cabedal", de: "Leder", example: "Comprei uma carteira de cabedal" },
-                { pt: "burla", de: "Betrug", example: "Foi vítima de uma burla online" },
-                { pt: "roer", de: "nagen", example: "O cão gosta de roer ossos" },
-                { pt: "engolir", de: "schlucken, fressen", example: "Engoli a comida sem mastigar" },
-                { pt: "sapo", de: "Kröte", example: "Vi um sapo no jardim" },
-                { pt: "engolir sapo", de: "gute Miene zum bösen Spiel machen", example: "Tive de engolir o sapo e aceitar" },
-                { pt: "pardal", de: "Spatz, Sperling", example: "Os pardais cantam de manhã" },
-                { pt: "pulga", de: "Floh", example: "O cão tem pulgas" },
-                { pt: "selo", de: "Briefmarke", example: "Preciso de um selo para a carta" },
-                { pt: "torcido", de: "krumm", example: "O prego está torcido" },
-                { pt: "tecido", de: "Stoff, Gewebe", example: "Este tecido é muito suave" },
-                { pt: "enfurecer-se", de: "wütend werden", example: "Ele enfureceu-se com a notícia" },
-                { pt: "desistir", de: "aufgeben", example: "Nunca vou desistir dos meus sonhos" },
-                { pt: "impedir", de: "verhindern", example: "A polícia impediu o assalto" },
-                { pt: "atirar", de: "werfen, schießen", example: "Atirou a bola para o ar" },
-                { pt: "rafeiro", de: "Köter", example: "Adotámos um rafeiro do canil" },
-                { pt: "risonho", de: "lachend", example: "Ela tem um rosto risonho" },
-                { pt: "ladrar", de: "bellen", example: "O cão não para de ladrar" },
-                { pt: "incomodar", de: "stören", example: "Desculpe incomodar, mas preciso de ajuda" },
-                { pt: "espernear", de: "zappeln", example: "O bebé não para de espernear" },
-                { pt: "gemer", de: "stöhnen", example: "Ouvi-o gemer de dor" },
-                { pt: "afligir", de: "quälen", example: "Não te aflijas, vai correr tudo bem" },
-                { pt: "bocejar", de: "gähnen", example: "Estou tão cansado que não paro de bocejar" },
-                { pt: "ressonar", de: "schnarchen", example: "O meu pai ressona muito alto" },
-                { pt: "ratazana", de: "Ratte", example: "Vi uma ratazana no esgoto" },
-                { pt: "papa-formigas", de: "Ameisenbär", example: "O papa-formigas come milhares de formigas por dia" },
-                { pt: "fato", de: "Anzug", example: "Vou usar fato e gravata na entrevista" },
-                { pt: "avisar", de: "warnen", example: "Avisei-te que isso ia acontecer" },
-                { pt: "Socorro!", de: "Hilfe!", example: "Socorro! Preciso de ajuda!" },
-                { pt: "chiar", de: "piepen", example: "A porta chia quando abre" },
-                { pt: "minhoca", de: "Regenwurm", example: "Encontrei uma minhoca no jardim" },
-                { pt: "lagarta", de: "Raupe", example: "A lagarta vai transformar-se em borboleta" },
-                { pt: "tapar", de: "verdecken", example: "Tapa os olhos, tenho uma surpresa" },
-                { pt: "toboágua", de: "Wasserrutsche", example: "As crianças adoram o toboágua" },
-                { pt: "cabana", de: "Hütte", example: "Dormimos numa cabana na montanha" },
-                { pt: "morder", de: "beißen", example: "Cuidado, o cão pode morder" },
-                { pt: "rastro", de: "Spur", example: "Seguimos o rastro do animal" },
-                { pt: "rosnar", de: "knurren", example: "O cão rosnou para o estranho" },
-                { pt: "estrondo", de: "Knall", example: "Ouvi um estrondo enorme" },
-                { pt: "malvado", de: "bösartig", example: "O vilão do filme é muito malvado" },
-                { pt: "lagarto", de: "Eidechse", example: "Vi um lagarto a apanhar sol" },
-                { pt: "prevenir", de: "verhindern", example: "É melhor prevenir do que remediar" },
-                { pt: "ranho", de: "Rotz", example: "Limpa o ranho do nariz" },
-                { pt: "ranhosos", de: "Rotznasen", example: "Os miúdos ranhosos estão a brincar" },
-                { pt: "arrepender-se", de: "bereuen", example: "Vais arrepender-te dessa decisão" },
-                { pt: "destacar-se", de: "sich profilieren", example: "Ela destaca-se pela sua inteligência" },
-                { pt: "destacar", de: "hervorheben", example: "Quero destacar este ponto importante" },
-                { pt: "estar prestes a", de: "im Begriff sein zu", example: "Estou prestes a sair de casa" },
-                { pt: "desenho animado", de: "Trickfilm", example: "As crianças estão a ver desenhos animados" },
-                { pt: "irritante", de: "nervig, ärgerlich", example: "Esse barulho é muito irritante" },
-                { pt: "insuportável", de: "unausstehlich", example: "O calor está insuportável" },
-                { pt: "sarnento", de: "räudig", example: "Encontrámos um cão sarnento na rua" },
-                { pt: "amável", de: "freundlich, lieb", example: "Ela foi muito amável comigo" },
-                { pt: "amabilidade", de: "Freundlichkeit, Güte", example: "Agradeço a sua amabilidade" },
-                { pt: "imprestável", de: "unnütz", example: "Esta ferramenta é imprestável" },
-                { pt: "preguiçoso", de: "faul", example: "Hoje estou muito preguiçoso" },
-                { pt: "nojento", de: "eklig, übel", example: "Esse cheiro é nojento" },
-                { pt: "feio", de: "hässlich", example: "Esse edifício é muito feio" },
-                { pt: "inquérito", de: "Recherche, Befragung", example: "A polícia abriu um inquérito" },
-                { pt: "genro", de: "Schwiegersohn", example: "O meu genro é muito simpático" },
-                { pt: "cônjuge", de: "Gatte", example: "Apresento-lhe o meu cônjuge" },
-                { pt: "escarro", de: "Schleim", example: "Não cuspa escarros no chão" },
-                { pt: "esdrúxulo", de: "seltsam", example: "Que situação esdrúxula!" },
-                { pt: "bagulho", de: "Traubenkern", example: "Cuidado com os bagulhos das uvas" },
-                { pt: "sovaco", de: "Achsel", example: "Pus desodorizante nos sovacos" },
-                { pt: "retrete", de: "Scheißhaus", example: "A retrete está entupida" },
-                { pt: "macio", de: "weich", example: "Este tecido é muito macio" },
-                { pt: "liso", de: "glatt", example: "A estrada está lisa por causa do gelo" },
-                { pt: "cadeia", de: "Gefängnis, Netzwerk, Haft", example: "Ele foi condenado a cadeia" },
-                { pt: "cadeia alimentar", de: "Nahrungskette", example: "Os leões estão no topo da cadeia alimentar" },
-                { pt: "embebedar-se", de: "sich betrinken", example: "Ele embebedou-se na festa" },
-                { pt: "esperto", de: "clever, smart", example: "Esse miúdo é muito esperto" },
-                { pt: "sarilho", de: "Ärger", example: "Meteu-se num grande sarilho" },
-                { pt: "acreditar", de: "glauben", example: "Não acredito no que estou a ver" },
-                { pt: "apoio", de: "Unterstützung", example: "Agradeço o teu apoio" },
-                { pt: "abecedário", de: "Alphabet", example: "As crianças aprendem o abecedário" },
-                { pt: "rebanho", de: "Herde", example: "O pastor cuida do rebanho" },
-                { pt: "adivinha", de: "Rätsel", example: "Tenho uma adivinha para ti" },
-                { pt: "contente", de: "froh, glücklich, zufrieden", example: "Estou muito contente com o resultado" },
-                { pt: "meta", de: "Ziel", example: "A minha meta é correr uma maratona" },
-                { pt: "bramir", de: "brüllen", example: "O leão bramiu na selva" },
-                { pt: "bramar", de: "toben", example: "O mar brama com a tempestade" },
-                { pt: "fugir", de: "fliehen, flüchten, entkommen", example: "O ladrão fugiu da polícia" },
-                { pt: "previsto", de: "vorgesehen, planmäßig", example: "Tudo correu como previsto" },
-                { pt: "abafar", de: "ersticken", example: "O calor está a abafar-me" },
-                { pt: "erguer-se", de: "wachsen, sich erheben", example: "O edifício ergue-se no centro da cidade" },
-                { pt: "escuro", de: "dunkel, trübe", example: "O quarto está muito escuro" },
-                { pt: "desanimado", de: "leblos", example: "Sinto-me desanimado hoje" },
-                { pt: "tédio", de: "Langeweile, tote Hose", example: "Morri de tédio na aula" },
-                { pt: "liderar", de: "führen", example: "Ela lidera a equipa com sucesso" },
-                { pt: "perda", de: "Verlust, Untergang", example: "A perda do emprego foi difícil" },
-                { pt: "tencionar", de: "beabsichtigen, vorhaben", example: "Tenciono viajar no verão" },
-                { pt: "aterrado", de: "entsetzt", example: "Fiquei aterrado com a notícia" },
-                { pt: "aterragem de emergência", de: "Notlandung", example: "O avião fez uma aterragem de emergência" },
-                { pt: "permanecer", de: "bleiben, verweilen, verharren", example: "Vou permanecer aqui mais um pouco" },
-                { pt: "permanecer calmo", de: "ruhig bleiben", example: "Tenta permanecer calmo" },
-                { pt: "espreguiçadeira", de: "Liegestuhl", example: "Relaxei na espreguiçadeira à beira da piscina" },
-                { pt: "empatado", de: "unentschieden", example: "O jogo ficou empatado" },
-                { pt: "lagartixa", de: "Gecko", example: "Há uma lagartixa na parede" },
-                { pt: "enxaqueca", de: "Migräne", example: "Tenho uma enxaqueca terrível" },
-                { pt: "sogros", de: "Schwiegereltern", example: "Vou jantar com os sogros" },
-                { pt: "após", de: "nach", example: "Após o jantar, vamos passear" },
-                { pt: "dia após dia", de: "Tag für Tag", example: "Dia após dia, ele melhora" },
-                { pt: "trocadilho", de: "Wortspiel", example: "Esse trocadilho foi muito bom" },
-                { pt: "nevão", de: "Schneesturm", example: "O nevão bloqueou as estradas" },
-                { pt: "exprimir", de: "äußern, ausdrücken", example: "Não sei como exprimir o que sinto" },
-                { pt: "Marte", de: "Mars", example: "Marte é o planeta vermelho" },
-                { pt: "martelo", de: "Hammer", example: "Preciso de um martelo para pregar" },
-                { pt: "urso de peluche", de: "Teddybär", example: "A criança dorme com o urso de peluche" },
-                { pt: "desafiar", de: "herausfordern", example: "Vou desafiar-te para um jogo" },
-                { pt: "desafio", de: "Herausforderung", example: "Este projeto é um grande desafio" },
-                { pt: "quadro de anúncios", de: "Pinnwand", example: "Pus o aviso no quadro de anúncios" },
-                { pt: "invejoso", de: "neidisch", example: "Não sejas invejoso do sucesso dos outros" },
-                { pt: "padrasto", de: "Stiefvater", example: "O meu padrasto trata-me como filho" },
-                { pt: "madrasta", de: "Stiefmutter", example: "A madrasta da Cinderela era má" },
-                { pt: "cartaz", de: "Poster", example: "Vi um cartaz do concerto" },
-                { pt: "avariar", de: "ausfallen (nicht funktionieren)", example: "O carro avariou na autoestrada" },
-                { pt: "abatimento", de: "Rabatt, Nachlass", example: "Consegui um abatimento de 20%" },
-                { pt: "auscultadores", de: "Kopfhörer", example: "Perdi os meus auscultadores" },
-                { pt: "consertar", de: "reparieren", example: "Vou consertar o telemóvel" },
-                { pt: "alagar", de: "fluten, überschwemmen", example: "A chuva alagou as ruas" },
-                { pt: "surpreender", de: "überraschen", example: "Quero surpreender-te com um presente" },
-                { pt: "Poxa!", de: "Mist!", example: "Poxa! Esqueci-me das chaves" },
-                { pt: "vontade", de: "Lust, Wille", example: "Tenho vontade de comer gelado" },
-                { pt: "Fique à vontade!", de: "Fühlen Sie sich wie zu Hause!", example: "Fique à vontade, sirva-se" },
-                { pt: "contra a vontade", de: "gezwungenermaßen", example: "Fiz isso contra a minha vontade" },
-                { pt: "esgotado", de: "ausverkauft", example: "Os bilhetes estão esgotados" },
-                { pt: "remo", de: "Rudern, Ruder", example: "Gosto de fazer remo no rio" },
-                { pt: "remar", de: "rudern", example: "Vamos remar até à outra margem" },
-                { pt: "caroço", de: "Saat, Knoten, Kern", example: "Cuidado com o caroço do pêssego" },
-                { pt: "sem caroço", de: "kernlos", example: "Prefiro uvas sem caroço" },
-                { pt: "coitado", de: "arm, miserabel", example: "Coitado, está doente" },
-                { pt: "descolagem", de: "Start, Abflug", example: "A descolagem foi atrasada" }
+                { pt: "reformado", de: "Rentner", en: "retiree, pensioner", example: "O meu avô é reformado há cinco anos" },
+                { pt: "apetecer", de: "schmecken, Lust haben", en: "to taste, to feel like", example: "Apetece-me um café" },
+                { pt: "Não me apetece", de: "Ich habe keine Lust dazu", en: "I don't feel like it", example: "Não me apetece sair hoje" },
+                { pt: "Não estou com vontade", de: "Ich habe keine Lust", en: "I don't feel like it", example: "Não estou com vontade de trabalhar" },
+                { pt: "parir", de: "gebären", en: "to give birth", example: "A gata pariu cinco gatinhos" },
+                { pt: "vigarista", de: "Betrüger, Gauner", en: "fraudster, crook", example: "Aquele vigarista roubou-me o dinheiro" },
+                { pt: "valente", de: "mutig, tapfer", en: "brave, courageous", example: "O bombeiro foi muito valente" },
+                { pt: "doido", de: "irre, verrückt", en: "crazy, insane", example: "Estás doido? Isso é perigoso!" },
+                { pt: "raspar", de: "rasieren, kratzen", en: "to shave, scratch", example: "Vou raspar a barba" },
+                { pt: "ninho", de: "Nest, Höhle", en: "nest, den", example: "O pássaro construiu um ninho na árvore" },
+                { pt: "miúdo", de: "klein, winzig", en: "small, tiny", example: "O apartamento é muito miúdo" },
+                { pt: "ângulo", de: "Winkel", en: "angle", example: "Vê a situação de outro ângulo" },
+                { pt: "cabedal", de: "Leder", en: "leather", example: "Comprei uma carteira de cabedal" },
+                { pt: "burla", de: "Betrug", en: "fraud", example: "Foi vítima de uma burla online" },
+                { pt: "roer", de: "nagen", en: "to gnaw", example: "O cão gosta de roer ossos" },
+                { pt: "engolir", de: "schlucken, fressen", en: "to swallow, devour", example: "Engoli a comida sem mastigar" },
+                { pt: "sapo", de: "Kröte", en: "toad", example: "Vi um sapo no jardim" },
+                { pt: "engolir sapo", de: "gute Miene zum bösen Spiel machen", en: "to grin and bear it", example: "Tive de engolir o sapo e aceitar" },
+                { pt: "pardal", de: "Spatz, Sperling", en: "sparrow", example: "Os pardais cantam de manhã" },
+                { pt: "pulga", de: "Floh", en: "flea", example: "O cão tem pulgas" },
+                { pt: "selo", de: "Briefmarke", en: "stamp", example: "Preciso de um selo para a carta" },
+                { pt: "torcido", de: "krumm", en: "crooked", example: "O prego está torcido" },
+                { pt: "tecido", de: "Stoff, Gewebe", en: "fabric, tissue", example: "Este tecido é muito suave" },
+                { pt: "enfurecer-se", de: "wütend werden", en: "to get angry", example: "Ele enfureceu-se com a notícia" },
+                { pt: "desistir", de: "aufgeben", en: "to give up", example: "Nunca vou desistir dos meus sonhos" },
+                { pt: "impedir", de: "verhindern", en: "to prevent", example: "A polícia impediu o assalto" },
+                { pt: "atirar", de: "werfen, schießen", en: "to throw, shoot", example: "Atirou a bola para o ar" },
+                { pt: "rafeiro", de: "Köter", en: "mutt", example: "Adotámos um rafeiro do canil" },
+                { pt: "risonho", de: "lachend", en: "laughing", example: "Ela tem um rosto risonho" },
+                { pt: "ladrar", de: "bellen", en: "to bark", example: "O cão não para de ladrar" },
+                { pt: "incomodar", de: "stören", en: "to disturb", example: "Desculpe incomodar, mas preciso de ajuda" },
+                { pt: "espernear", de: "zappeln", en: "to wriggle", example: "O bebé não para de espernear" },
+                { pt: "gemer", de: "stöhnen", en: "to groan", example: "Ouvi-o gemer de dor" },
+                { pt: "afligir", de: "quälen", en: "to torment", example: "Não te aflijas, vai correr tudo bem" },
+                { pt: "bocejar", de: "gähnen", en: "to yawn", example: "Estou tão cansado que não paro de bocejar" },
+                { pt: "ressonar", de: "schnarchen", en: "to snore", example: "O meu pai ressona muito alto" },
+                { pt: "ratazana", de: "Ratte", en: "rat", example: "Vi uma ratazana no esgoto" },
+                { pt: "papa-formigas", de: "Ameisenbär", en: "anteater", example: "O papa-formigas come milhares de formigas por dia" },
+                { pt: "fato", de: "Anzug", en: "suit", example: "Vou usar fato e gravata na entrevista" },
+                { pt: "avisar", de: "warnen", en: "to warn", example: "Avisei-te que isso ia acontecer" },
+                { pt: "Socorro!", de: "Hilfe!", en: "Help!", example: "Socorro! Preciso de ajuda!" },
+                { pt: "chiar", de: "piepen", en: "to squeak", example: "A porta chia quando abre" },
+                { pt: "minhoca", de: "Regenwurm", en: "earthworm", example: "Encontrei uma minhoca no jardim" },
+                { pt: "lagarta", de: "Raupe", en: "caterpillar", example: "A lagarta vai transformar-se em borboleta" },
+                { pt: "tapar", de: "verdecken", en: "to cover", example: "Tapa os olhos, tenho uma surpresa" },
+                { pt: "toboágua", de: "Wasserrutsche", en: "water slide", example: "As crianças adoram o toboágua" },
+                { pt: "cabana", de: "Hütte", en: "cabin, hut", example: "Dormimos numa cabana na montanha" },
+                { pt: "morder", de: "beißen", en: "to bite", example: "Cuidado, o cão pode morder" },
+                { pt: "rastro", de: "Spur", en: "trail, track", example: "Seguimos o rastro do animal" },
+                { pt: "rosnar", de: "knurren", en: "to growl", example: "O cão rosnou para o estranho" },
+                { pt: "estrondo", de: "Knall", en: "bang", example: "Ouvi um estrondo enorme" },
+                { pt: "malvado", de: "bösartig", en: "malicious, evil", example: "O vilão do filme é muito malvado" },
+                { pt: "lagarto", de: "Eidechse", en: "lizard", example: "Vi um lagarto a apanhar sol" },
+                { pt: "prevenir", de: "verhindern", en: "to prevent", example: "É melhor prevenir do que remediar" },
+                { pt: "ranho", de: "Rotz", en: "snot", example: "Limpa o ranho do nariz" },
+                { pt: "ranhosos", de: "Rotznasen", en: "snotty noses", example: "Os miúdos ranhosos estão a brincar" },
+                { pt: "arrepender-se", de: "bereuen", en: "to regret", example: "Vais arrepender-te dessa decisão" },
+                { pt: "destacar-se", de: "sich profilieren", en: "to stand out", example: "Ela destaca-se pela sua inteligência" },
+                { pt: "destacar", de: "hervorheben", en: "to highlight", example: "Quero destacar este ponto importante" },
+                { pt: "estar prestes a", de: "im Begriff sein zu", en: "to be about to", example: "Estou prestes a sair de casa" },
+                { pt: "desenho animado", de: "Trickfilm", en: "cartoon", example: "As crianças estão a ver desenhos animados" },
+                { pt: "irritante", de: "nervig, ärgerlich", en: "annoying", example: "Esse barulho é muito irritante" },
+                { pt: "insuportável", de: "unausstehlich", en: "unbearable", example: "O calor está insuportável" },
+                { pt: "sarnento", de: "räudig", en: "mangy", example: "Encontrámos um cão sarnento na rua" },
+                { pt: "amável", de: "freundlich, lieb", en: "kind, friendly", example: "Ela foi muito amável comigo" },
+                { pt: "amabilidade", de: "Freundlichkeit, Güte", en: "kindness", example: "Agradeço a sua amabilidade" },
+                { pt: "imprestável", de: "unnütz", en: "useless", example: "Esta ferramenta é imprestável" },
+                { pt: "preguiçoso", de: "faul", en: "lazy", example: "Hoje estou muito preguiçoso" },
+                { pt: "nojento", de: "eklig, übel", en: "disgusting", example: "Esse cheiro é nojento" },
+                { pt: "feio", de: "hässlich", en: "ugly", example: "Esse edifício é muito feio" },
+                { pt: "inquérito", de: "Recherche, Befragung", en: "investigation, survey", example: "A polícia abriu um inquérito" },
+                { pt: "genro", de: "Schwiegersohn", en: "son-in-law", example: "O meu genro é muito simpático" },
+                { pt: "cônjuge", de: "Gatte", en: "spouse", example: "Apresento-lhe o meu cônjuge" },
+                { pt: "escarro", de: "Schleim", en: "phlegm, mucus", example: "Não cuspa escarros no chão" },
+                { pt: "esdrúxulo", de: "seltsam", en: "bizarre, strange", example: "Que situação esdrúxula!" },
+                { pt: "bagulho", de: "Traubenkern", en: "grape seed", example: "Cuidado com os bagulhos das uvas" },
+                { pt: "sovaco", de: "Achsel", en: "armpit", example: "Pus desodorizante nos sovacos" },
+                { pt: "retrete", de: "Scheißhaus", en: "toilet (vulgar)", example: "A retrete está entupida" },
+                { pt: "macio", de: "weich", en: "soft", example: "Este tecido é muito macio" },
+                { pt: "liso", de: "glatt", en: "smooth", example: "A estrada está lisa por causa do gelo" },
+                { pt: "cadeia", de: "Gefängnis, Netzwerk, Haft", en: "prison, chain, custody", example: "Ele foi condenado a cadeia" },
+                { pt: "cadeia alimentar", de: "Nahrungskette", en: "food chain", example: "Os leões estão no topo da cadeia alimentar" },
+                { pt: "embebedar-se", de: "sich betrinken", en: "to get drunk", example: "Ele embebedou-se na festa" },
+                { pt: "esperto", de: "clever, smart", en: "clever, smart", example: "Esse miúdo é muito esperto" },
+                { pt: "sarilho", de: "Ärger", en: "trouble", example: "Meteu-se num grande sarilho" },
+                { pt: "acreditar", de: "glauben", en: "to believe", example: "Não acredito no que estou a ver" },
+                { pt: "apoio", de: "Unterstützung", en: "support", example: "Agradeço o teu apoio" },
+                { pt: "abecedário", de: "Alphabet", en: "alphabet", example: "As crianças aprendem o abecedário" },
+                { pt: "rebanho", de: "Herde", en: "herd, flock", example: "O pastor cuida do rebanho" },
+                { pt: "adivinha", de: "Rätsel", en: "riddle", example: "Tenho uma adivinha para ti" },
+                { pt: "contente", de: "froh, glücklich, zufrieden", en: "happy, content", example: "Estou muito contente com o resultado" },
+                { pt: "meta", de: "Ziel", en: "goal", example: "A minha meta é correr uma maratona" },
+                { pt: "bramir", de: "brüllen", en: "to roar", example: "O leão bramiu na selva" },
+                { pt: "bramar", de: "toben", en: "to rage", example: "O mar brama com a tempestade" },
+                { pt: "fugir", de: "fliehen, flüchten, entkommen", en: "to flee, escape", example: "O ladrão fugiu da polícia" },
+                { pt: "previsto", de: "vorgesehen, planmäßig", en: "planned, scheduled", example: "Tudo correu como previsto" },
+                { pt: "abafar", de: "ersticken", en: "to suffocate", example: "O calor está a abafar-me" },
+                { pt: "erguer-se", de: "wachsen, sich erheben", en: "to grow, rise up", example: "O edifício ergue-se no centro da cidade" },
+                { pt: "escuro", de: "dunkel, trübe", en: "dark, dim", example: "O quarto está muito escuro" },
+                { pt: "desanimado", de: "leblos", en: "lifeless, dejected", example: "Sinto-me desanimado hoje" },
+                { pt: "tédio", de: "Langeweile, tote Hose", en: "boredom", example: "Morri de tédio na aula" },
+                { pt: "liderar", de: "führen", en: "to lead", example: "Ela lidera a equipa com sucesso" },
+                { pt: "perda", de: "Verlust, Untergang", en: "loss, ruin", example: "A perda do emprego foi difícil" },
+                { pt: "tencionar", de: "beabsichtigen, vorhaben", en: "to intend", example: "Tenciono viajar no verão" },
+                { pt: "aterrado", de: "entsetzt", en: "terrified", example: "Fiquei aterrado com a notícia" },
+                { pt: "aterragem de emergência", de: "Notlandung", en: "emergency landing", example: "O avião fez uma aterragem de emergência" },
+                { pt: "permanecer", de: "bleiben, verweilen, verharren", en: "to stay, remain", example: "Vou permanecer aqui mais um pouco" },
+                { pt: "permanecer calmo", de: "ruhig bleiben", en: "to stay calm", example: "Tenta permanecer calmo" },
+                { pt: "espreguiçadeira", de: "Liegestuhl", en: "deck chair", example: "Relaxei na espreguiçadeira à beira da piscina" },
+                { pt: "empatado", de: "unentschieden", en: "tied, drawn", example: "O jogo ficou empatado" },
+                { pt: "lagartixa", de: "Gecko", en: "gecko", example: "Há uma lagartixa na parede" },
+                { pt: "enxaqueca", de: "Migräne", en: "migraine", example: "Tenho uma enxaqueca terrível" },
+                { pt: "sogros", de: "Schwiegereltern", en: "parents-in-law", example: "Vou jantar com os sogros" },
+                { pt: "após", de: "nach", en: "after", example: "Após o jantar, vamos passear" },
+                { pt: "dia após dia", de: "Tag für Tag", en: "day after day", example: "Dia após dia, ele melhora" },
+                { pt: "trocadilho", de: "Wortspiel", en: "pun, wordplay", example: "Esse trocadilho foi muito bom" },
+                { pt: "nevão", de: "Schneesturm", en: "snowstorm", example: "O nevão bloqueou as estradas" },
+                { pt: "exprimir", de: "äußern, ausdrücken", en: "to express", example: "Não sei como exprimir o que sinto" },
+                { pt: "Marte", de: "Mars", en: "Mars", example: "Marte é o planeta vermelho" },
+                { pt: "martelo", de: "Hammer", en: "hammer", example: "Preciso de um martelo para pregar" },
+                { pt: "urso de peluche", de: "Teddybär", en: "teddy bear", example: "A criança dorme com o urso de peluche" },
+                { pt: "desafiar", de: "herausfordern", en: "to challenge", example: "Vou desafiar-te para um jogo" },
+                { pt: "desafio", de: "Herausforderung", en: "challenge", example: "Este projeto é um grande desafio" },
+                { pt: "quadro de anúncios", de: "Pinnwand", en: "bulletin board", example: "Pus o aviso no quadro de anúncios" },
+                { pt: "invejoso", de: "neidisch", en: "envious, jealous", example: "Não sejas invejoso do sucesso dos outros" },
+                { pt: "padrasto", de: "Stiefvater", en: "stepfather", example: "O meu padrasto trata-me como filho" },
+                { pt: "madrasta", de: "Stiefmutter", en: "stepmother", example: "A madrasta da Cinderela era má" },
+                { pt: "cartaz", de: "Poster", en: "poster", example: "Vi um cartaz do concerto" },
+                { pt: "avariar", de: "ausfallen (nicht funktionieren)", en: "to break down", example: "O carro avariou na autoestrada" },
+                { pt: "abatimento", de: "Rabatt, Nachlass", en: "discount", example: "Consegui um abatimento de 20%" },
+                { pt: "auscultadores", de: "Kopfhörer", en: "headphones", example: "Perdi os meus auscultadores" },
+                { pt: "consertar", de: "reparieren", en: "to repair", example: "Vou consertar o telemóvel" },
+                { pt: "alagar", de: "fluten, überschwemmen", en: "to flood", example: "A chuva alagou as ruas" },
+                { pt: "surpreender", de: "überraschen", en: "to surprise", example: "Quero surpreender-te com um presente" },
+                { pt: "Poxa!", de: "Mist!", en: "Darn!", example: "Poxa! Esqueci-me das chaves" },
+                { pt: "vontade", de: "Lust, Wille", en: "desire, will", example: "Tenho vontade de comer gelado" },
+                { pt: "Fique à vontade!", de: "Fühlen Sie sich wie zu Hause!", en: "Make yourself at home!", example: "Fique à vontade, sirva-se" },
+                { pt: "contra a vontade", de: "gezwungenermaßen", en: "reluctantly, unwillingly", example: "Fiz isso contra a minha vontade" },
+                { pt: "esgotado", de: "ausverkauft", en: "sold out", example: "Os bilhetes estão esgotados" },
+                { pt: "remo", de: "Rudern, Ruder", en: "rowing, oar", example: "Gosto de fazer remo no rio" },
+                { pt: "remar", de: "rudern", en: "to row", example: "Vamos remar até à outra margem" },
+                { pt: "caroço", de: "Saat, Knoten, Kern", en: "seed, pit, core", example: "Cuidado com o caroço do pêssego" },
+                { pt: "sem caroço", de: "kernlos", en: "seedless", example: "Prefiro uvas sem caroço" },
+                { pt: "coitado", de: "arm, miserabel", en: "poor, pitiful", example: "Coitado, está doente" },
+                { pt: "descolagem", de: "Start, Abflug", en: "takeoff, departure", example: "A descolagem foi atrasada" }
             ],
             "2026-02-03": [
-                { pt: "a bacia", de: "das Becken, das Einzugsgebiet", example: "Gestão da bacia do Mondego" },
-                { pt: "hidrológico/a", de: "hydrologisch", example: "Situação hidrológica naquela região" },
-                { pt: "a égide", de: "die Ägide, die Schirmherrschaft", example: "Sob a égide das comunidades intermunicipais" },
-                { pt: "o leito", de: "das Flussbett", example: "Elevação progressiva do leito do rio" },
-                { pt: "a montante", de: "flussaufwärts", example: "Barragem a montante da Aguieira" },
-                { pt: "o tributário", de: "der Nebenfluss", example: "Intervenção equivalente nos seus tributários" },
-                { pt: "o paliativo", de: "das Linderungsmittel, Notlösung", example: "Não andarmos sempre com paliativos" },
-                { pt: "a fragilidade", de: "die Schwäche, Anfälligkeit", example: "Expõe as fragilidades estruturais" },
-                { pt: "hidroagrícola", de: "landwirtschaftliche Wasserwirtschaft", example: "Obra hidroagrícola do Baixo Mondego" },
-                { pt: "o piquete", de: "der Bereitschaftstrupp", example: "Piquetes da E-Redes no local" },
-                { pt: "o deslizamento", de: "der Erdrutsch", example: "Deslizamento de terras" },
-                { pt: "a iminência", de: "das Bevorstehen", example: "Na iminência de rebentamento" },
-                { pt: "o espigão", de: "der Stützpfeiler, Buhne", example: "Os espigões estão a debitar água" },
-                { pt: "debitar", de: "abfließen lassen", example: "Espigões a debitar água" },
-                { pt: "o sufrágio", de: "die Wahl, Abstimmung", example: "Segunda volta do sufrágio presidencial" },
-                { pt: "a sondagem", de: "die Umfrage", example: "Sondagem dá vantagem a Seguro" },
-                { pt: "o mandato", de: "das Mandat, die Amtszeit", example: "Segundo mandato" },
-                { pt: "a fundo perdido", de: "als verlorener Zuschuss", example: "Apoios a fundo perdido" },
-                { pt: "em cima da mesa", de: "auf dem Tisch, zur Diskussion", example: "Ter isto em cima da mesa" },
-                { pt: "absolutamente inaceitável", de: "absolut inakzeptabel", example: "Falta de obras absolutamente inaceitável" }
+                { pt: "a bacia", de: "das Becken, das Einzugsgebiet", en: "the basin, catchment area", example: "Gestão da bacia do Mondego" },
+                { pt: "hidrológico/a", de: "hydrologisch", en: "hydrological", example: "Situação hidrológica naquela região" },
+                { pt: "a égide", de: "die Ägide, die Schirmherrschaft", en: "the aegis, patronage", example: "Sob a égide das comunidades intermunicipais" },
+                { pt: "o leito", de: "das Flussbett", en: "the riverbed", example: "Elevação progressiva do leito do rio" },
+                { pt: "a montante", de: "flussaufwärts", en: "upstream", example: "Barragem a montante da Aguieira" },
+                { pt: "o tributário", de: "der Nebenfluss", en: "the tributary", example: "Intervenção equivalente nos seus tributários" },
+                { pt: "o paliativo", de: "das Linderungsmittel, Notlösung", en: "the palliative, stopgap", example: "Não andarmos sempre com paliativos" },
+                { pt: "a fragilidade", de: "die Schwäche, Anfälligkeit", en: "the weakness, vulnerability", example: "Expõe as fragilidades estruturais" },
+                { pt: "hidroagrícola", de: "landwirtschaftliche Wasserwirtschaft", en: "agricultural water management", example: "Obra hidroagrícola do Baixo Mondego" },
+                { pt: "o piquete", de: "der Bereitschaftstrupp", en: "the standby crew", example: "Piquetes da E-Redes no local" },
+                { pt: "o deslizamento", de: "der Erdrutsch", en: "the landslide", example: "Deslizamento de terras" },
+                { pt: "a iminência", de: "das Bevorstehen", en: "the imminence", example: "Na iminência de rebentamento" },
+                { pt: "o espigão", de: "der Stützpfeiler, Buhne", en: "the support pillar, groyne", example: "Os espigões estão a debitar água" },
+                { pt: "debitar", de: "abfließen lassen", en: "to discharge", example: "Espigões a debitar água" },
+                { pt: "o sufrágio", de: "die Wahl, Abstimmung", en: "the election, vote", example: "Segunda volta do sufrágio presidencial" },
+                { pt: "a sondagem", de: "die Umfrage", en: "the poll, survey", example: "Sondagem dá vantagem a Seguro" },
+                { pt: "o mandato", de: "das Mandat, die Amtszeit", en: "the mandate, term", example: "Segundo mandato" },
+                { pt: "a fundo perdido", de: "als verlorener Zuschuss", en: "as a non-refundable grant", example: "Apoios a fundo perdido" },
+                { pt: "em cima da mesa", de: "auf dem Tisch, zur Diskussion", en: "on the table, up for discussion", example: "Ter isto em cima da mesa" },
+                { pt: "absolutamente inaceitável", de: "absolut inakzeptabel", en: "absolutely unacceptable", example: "Falta de obras absolutamente inaceitável" }
             ],
             "2026-02-02": [
-                { pt: "a grua", de: "der Kran", example: "Grua cai e atinge prédio" },
-                { pt: "desalojado/a", de: "obdachlos, vertrieben", example: "A tempestade provocou desalojados" },
-                { pt: "pernoitar", de: "übernachten", example: "Locais para pernoitar" },
-                { pt: "o refúgio", de: "die Zuflucht", example: "Ponto de refúgio para as populações" },
-                { pt: "a cota", de: "der Pegelstand", example: "Abaixo da cota de segurança" },
-                { pt: "o caudal", de: "der Wasserdurchfluss", example: "Aumento do caudal do rio" },
-                { pt: "o disparo", de: "der Schuss", example: "Atingida por quatro disparos" },
-                { pt: "acionado/a", de: "alarmiert, eingesetzt", example: "Polícia Judiciária foi acionada" },
-                { pt: "o ferimento", de: "die Verletzung", example: "Não resistiu aos ferimentos" },
-                { pt: "a autoproteção", de: "der Selbstschutz", example: "Comportamentos de autoproteção" },
-                { pt: "o falhanço", de: "der Misserfolg, Reinfall", example: "Falhanço em toda a linha" },
-                { pt: "o autarca", de: "der Kommunalpolitiker", example: "A autarca salientou que..." },
-                { pt: "ribeirinho/a", de: "am Flussufer gelegen", example: "Zona ribeirinha do Mondego" },
-                { pt: "a margem", de: "das Ufer", example: "Localidades nas margens do Mondego" },
-                { pt: "em atualização", de: "wird aktualisiert", example: "Notícia em atualização" },
-                { pt: "pelos próprios meios", de: "aus eigenen Mitteln, selbstständig", example: "Foram alojados pelos próprios meios" }
+                { pt: "a grua", de: "der Kran", en: "the crane", example: "Grua cai e atinge prédio" },
+                { pt: "desalojado/a", de: "obdachlos, vertrieben", en: "homeless, displaced", example: "A tempestade provocou desalojados" },
+                { pt: "pernoitar", de: "übernachten", en: "to stay overnight", example: "Locais para pernoitar" },
+                { pt: "o refúgio", de: "die Zuflucht", en: "the refuge", example: "Ponto de refúgio para as populações" },
+                { pt: "a cota", de: "der Pegelstand", en: "the water level", example: "Abaixo da cota de segurança" },
+                { pt: "o caudal", de: "der Wasserdurchfluss", en: "the water flow", example: "Aumento do caudal do rio" },
+                { pt: "o disparo", de: "der Schuss", en: "the shot", example: "Atingida por quatro disparos" },
+                { pt: "acionado/a", de: "alarmiert, eingesetzt", en: "alerted, deployed", example: "Polícia Judiciária foi acionada" },
+                { pt: "o ferimento", de: "die Verletzung", en: "the injury", example: "Não resistiu aos ferimentos" },
+                { pt: "a autoproteção", de: "der Selbstschutz", en: "self-protection", example: "Comportamentos de autoproteção" },
+                { pt: "o falhanço", de: "der Misserfolg, Reinfall", en: "the failure, flop", example: "Falhanço em toda a linha" },
+                { pt: "o autarca", de: "der Kommunalpolitiker", en: "the local politician", example: "A autarca salientou que..." },
+                { pt: "ribeirinho/a", de: "am Flussufer gelegen", en: "riverside, riverbank", example: "Zona ribeirinha do Mondego" },
+                { pt: "a margem", de: "das Ufer", en: "the bank, shore", example: "Localidades nas margens do Mondego" },
+                { pt: "em atualização", de: "wird aktualisiert", en: "being updated", example: "Notícia em atualização" },
+                { pt: "pelos próprios meios", de: "aus eigenen Mitteln, selbstständig", en: "by one's own means, independently", example: "Foram alojados pelos próprios meios" }
             ],
             "2026-01-30": [
-                { pt: "a derrocada", de: "der Erdrutsch", example: "Carrinha projetada após derrocada" },
-                { pt: "submerso/a", de: "unter Wasser, überflutet", example: "A carrinha está a ficar submersa" },
-                { pt: "o lamaçal", de: "der Schlamm, die Schlammgrube", example: "Docas transformadas num lamaçal" },
-                { pt: "a limpeza", de: "die Reinigung", example: "Procedem às limpezas" },
-                { pt: "ameaçar", de: "bedrohen", example: "Chuva ameaça repetir drama" },
-                { pt: "o rescaldo", de: "die Nachwirkung, die Folgen", example: "O rescaldo da tempestade" },
-                { pt: "a torneira", de: "der Wasserhahn", example: "Não beba água da torneira" },
-                { pt: "encerrado/a", de: "geschlossen", example: "Edifícios encerrados" },
-                { pt: "a estufa", de: "das Gewächshaus", example: "Incêndio denunciar estufa" },
-                { pt: "disparar", de: "in die Höhe schießen", example: "Violência nas escolas dispara" },
-                { pt: "prestar homenagem", de: "Tribut zollen, würdigen", example: "Governo presta homenagem" },
-                { pt: "o joelho", de: "das Knie", example: "Água pelo joelho" }
+                { pt: "a derrocada", de: "der Erdrutsch", en: "the landslide", example: "Carrinha projetada após derrocada" },
+                { pt: "submerso/a", de: "unter Wasser, überflutet", en: "underwater, flooded", example: "A carrinha está a ficar submersa" },
+                { pt: "o lamaçal", de: "der Schlamm, die Schlammgrube", en: "the mud, mudpit", example: "Docas transformadas num lamaçal" },
+                { pt: "a limpeza", de: "die Reinigung", en: "the cleaning", example: "Procedem às limpezas" },
+                { pt: "ameaçar", de: "bedrohen", en: "to threaten", example: "Chuva ameaça repetir drama" },
+                { pt: "o rescaldo", de: "die Nachwirkung, die Folgen", en: "the aftermath, consequences", example: "O rescaldo da tempestade" },
+                { pt: "a torneira", de: "der Wasserhahn", en: "the tap, faucet", example: "Não beba água da torneira" },
+                { pt: "encerrado/a", de: "geschlossen", en: "closed", example: "Edifícios encerrados" },
+                { pt: "a estufa", de: "das Gewächshaus", en: "the greenhouse", example: "Incêndio denunciar estufa" },
+                { pt: "disparar", de: "in die Höhe schießen", en: "to skyrocket", example: "Violência nas escolas dispara" },
+                { pt: "prestar homenagem", de: "Tribut zollen, würdigen", en: "to pay tribute", example: "Governo presta homenagem" },
+                { pt: "o joelho", de: "das Knie", en: "the knee", example: "Água pelo joelho" }
             ],
             "2025-01-29": [
-                { pt: "a tempestade", de: "der Sturm", example: "A tempestade causou estragos" },
-                { pt: "o mau tempo", de: "das schlechte Wetter", example: "Devido ao mau tempo" },
-                { pt: "a cheia", de: "die Überschwemmung", example: "Cheias no rio Mondego" },
-                { pt: "o dique", de: "der Deich", example: "Dique em risco de rebentar" },
-                { pt: "rebentar", de: "brechen, platzen", example: "Em risco de rebentar" },
-                { pt: "o muro", de: "die Mauer", example: "Muro desaba" },
-                { pt: "desabar", de: "einstürzen", example: "Muro desaba e esmaga carros" },
-                { pt: "os estragos", de: "die Schäden", example: "Efeitos da tempestade serão vultuosos" },
-                { pt: "cortada/o", de: "gesperrt", example: "Esta rua está cortada" },
-                { pt: "o resgate", de: "die Rettung", example: "Resgate de cavalos" },
-                { pt: "interditado", de: "gesperrt, verboten", example: "Colégio das Artes interditado" },
-                { pt: "a queda", de: "der Fall, Sturz", example: "Queda de elementos" },
-                { pt: "causar", de: "verursachen", example: "Tempestade causa estragos" },
-                { pt: "sofrer", de: "erleiden", example: "Pode sofrer perturbações" },
-                { pt: "esmagar", de: "zerquetschen", example: "Esmaga carros" },
-                { pt: "continuar", de: "weitermachen", example: "Continuam às escuras" },
-                { pt: "às escuras", de: "im Dunkeln (ohne Strom)", example: "34 mil clientes continuam às escuras" },
-                { pt: "devido a", de: "wegen, aufgrund", example: "Devido ao mau tempo" },
-                { pt: "em risco de", de: "in Gefahr zu", example: "Em risco de rebentar" }
+                { pt: "a tempestade", de: "der Sturm", en: "the storm", example: "A tempestade causou estragos" },
+                { pt: "o mau tempo", de: "das schlechte Wetter", en: "bad weather", example: "Devido ao mau tempo" },
+                { pt: "a cheia", de: "die Überschwemmung", en: "the flood", example: "Cheias no rio Mondego" },
+                { pt: "o dique", de: "der Deich", en: "the dike, levee", example: "Dique em risco de rebentar" },
+                { pt: "rebentar", de: "brechen, platzen", en: "to break, burst", example: "Em risco de rebentar" },
+                { pt: "o muro", de: "die Mauer", en: "the wall", example: "Muro desaba" },
+                { pt: "desabar", de: "einstürzen", en: "to collapse", example: "Muro desaba e esmaga carros" },
+                { pt: "os estragos", de: "die Schäden", en: "the damages", example: "Efeitos da tempestade serão vultuosos" },
+                { pt: "cortada/o", de: "gesperrt", en: "blocked, closed", example: "Esta rua está cortada" },
+                { pt: "o resgate", de: "die Rettung", en: "the rescue", example: "Resgate de cavalos" },
+                { pt: "interditado", de: "gesperrt, verboten", en: "closed, prohibited", example: "Colégio das Artes interditado" },
+                { pt: "a queda", de: "der Fall, Sturz", en: "the fall", example: "Queda de elementos" },
+                { pt: "causar", de: "verursachen", en: "to cause", example: "Tempestade causa estragos" },
+                { pt: "sofrer", de: "erleiden", en: "to suffer", example: "Pode sofrer perturbações" },
+                { pt: "esmagar", de: "zerquetschen", en: "to crush", example: "Esmaga carros" },
+                { pt: "continuar", de: "weitermachen", en: "to continue", example: "Continuam às escuras" },
+                { pt: "às escuras", de: "im Dunkeln (ohne Strom)", en: "in the dark (without power)", example: "34 mil clientes continuam às escuras" },
+                { pt: "devido a", de: "wegen, aufgrund", en: "because of, due to", example: "Devido ao mau tempo" },
+                { pt: "em risco de", de: "in Gefahr zu", en: "at risk of", example: "Em risco de rebentar" }
             ]
         };
         
@@ -895,7 +928,43 @@
         const STORAGE_KEY = 'flashcards_progress';
         const STREAK_KEY = 'flashcards_streak';
         const DAILY_KEY = 'flashcards_daily';
+        const LANG_KEY = 'flashcards_language';
         const WORDS_PER_DAY = 20;
+        
+        // Language setting (de = German, en = English)
+        let currentLang = localStorage.getItem(LANG_KEY) || 'de';
+        
+        function setLanguage(lang) {
+            currentLang = lang;
+            localStorage.setItem(LANG_KEY, lang);
+            
+            // Update toggle buttons
+            document.getElementById('langDE').classList.toggle('active', lang === 'de');
+            document.getElementById('langEN').classList.toggle('active', lang === 'en');
+            
+            // Update current card display
+            showCardContent();
+            
+            // Update word list if visible
+            if (!document.getElementById('wordsTab').classList.contains('hidden')) {
+                renderWordList();
+            }
+        }
+        
+        function getTranslation(card) {
+            if (currentLang === 'en' && card.en) {
+                return card.en;
+            }
+            return card.de;
+        }
+        
+        function getLangLabel() {
+            return currentLang === 'en' ? 'English' : 'Deutsch';
+        }
+        
+        function getLangFlag() {
+            return currentLang === 'en' ? '🇬🇧' : '🇩🇪';
+        }
         
         let progress = loadProgress();
         let currentCards = [];
@@ -1130,11 +1199,12 @@
             const html = all.map(card => {
                 const mastery = getMasteryLevel(card);
                 const p = getWordProgress(card);
+                const translation = getTranslation(card);
                 return `
                     <div class="word-item">
                         <div class="word-item-text">
                             <div class="word-item-pt">${card.pt}</div>
-                            <div class="word-item-de">${card.de}</div>
+                            <div class="word-item-de">${getLangFlag()} ${translation}</div>
                         </div>
                         <span class="word-item-mastery ${mastery.class}">${mastery.label}</span>
                     </div>
@@ -1224,18 +1294,20 @@
             masteryEl.textContent = mastery.label;
             masteryEl.className = 'card-mastery ' + mastery.class;
             
+            const translation = getTranslation(card);
+            
             if (reverse) {
-                // Show German first, reveal Portuguese
-                document.getElementById('frontLang').textContent = 'Deutsch';
-                document.getElementById('frontWord').textContent = card.de;
+                // Show translation first, reveal Portuguese
+                document.getElementById('frontLang').textContent = getLangLabel();
+                document.getElementById('frontWord').textContent = translation;
                 document.getElementById('backLang').textContent = 'Português';
                 document.getElementById('backWord').textContent = card.pt;
             } else {
-                // Show Portuguese first, reveal German
+                // Show Portuguese first, reveal translation
                 document.getElementById('frontLang').textContent = 'Português';
                 document.getElementById('frontWord').textContent = card.pt;
-                document.getElementById('backLang').textContent = 'Deutsch';
-                document.getElementById('backWord').textContent = card.de;
+                document.getElementById('backLang').textContent = getLangLabel();
+                document.getElementById('backWord').textContent = translation;
             }
             
             document.getElementById('exampleText').textContent = `"${card.example}"`;
@@ -1330,7 +1402,7 @@
             } else {
                 reviewItems.innerHTML = missedCards.map(card => `
                     <div class="review-item">
-                        <strong>${card.pt}</strong> = ${card.de}<br>
+                        <strong>${card.pt}</strong> = ${getTranslation(card)}<br>
                         <small style="color: #888;">"${card.example}"</small>
                     </div>
                 `).join('');
@@ -1451,6 +1523,7 @@
         // Initialize
         populateDateSelect();
         updateGlobalStats();
+        setLanguage(currentLang); // Initialize language toggle state
         loadDate();
         
         // Service Worker registration with auto-reload on update
