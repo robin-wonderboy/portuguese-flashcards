@@ -381,13 +381,21 @@
         .review-item:last-child { border-bottom: none; }
         
         /* Word List */
+        #wordsTab {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        
+        #wordsTab.hidden {
+            display: none;
+        }
+        
         .word-list {
-            max-width: 600px;
-            width: calc(100% - 20px);
-            max-height: 70vh;
+            max-width: 700px;
+            width: calc(100% - 30px);
+            max-height: 75vh;
             overflow-y: auto;
-            margin-left: auto;
-            margin-right: auto;
         }
         
         .word-item {
@@ -485,7 +493,7 @@
     </div>
     
     <!-- Words Tab -->
-    <div id="wordsTab" class="hidden" style="width: 100%; display: flex; justify-content: center;">
+    <div id="wordsTab" class="hidden">
         <div class="word-list" id="wordList"></div>
     </div>
     
