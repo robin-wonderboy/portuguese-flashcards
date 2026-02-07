@@ -82,6 +82,8 @@
             width: calc(100% - 20px);
             max-width: 500px;
             margin-bottom: 15px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         .progress-text {
@@ -176,6 +178,13 @@
             color: #aaa;
             font-style: italic;
             line-height: 1.4;
+        }
+        
+        .card-example-translation {
+            font-size: 0.8rem;
+            color: #888;
+            line-height: 1.4;
+            margin-top: 6px;
         }
         
         .card-hint {
@@ -445,6 +454,7 @@
                         <div class="card-lang" id="backLang">Deutsch</div>
                         <div class="card-word" id="backWord">...</div>
                         <div class="card-example" id="exampleText"></div>
+                        <div class="card-example-translation" id="exampleTranslation"></div>
                     </div>
                 </div>
             </div>
@@ -1074,6 +1084,10 @@
             document.getElementById('backLang').textContent = langLabels[backLang];
             document.getElementById('backWord').textContent = getCardText(card, backLang);
             document.getElementById('exampleText').textContent = `"${card.example}"`;
+            
+            // Show example translation based on back language
+            const exampleTrans = backLang === 'en' ? card.example_en : card.example_de;
+            document.getElementById('exampleTranslation').textContent = exampleTrans ? `(${exampleTrans})` : '';
         }
         
         function flipCard() {
