@@ -99,8 +99,8 @@
         .card-container {
             perspective: 1000px;
             width: 100%;
-            max-width: 380px;
-            height: 260px;
+            max-width: 440px;
+            height: 280px;
             margin-bottom: 25px;
         }
         
@@ -169,9 +169,13 @@
         }
         
         .card-word {
-            font-size: 2rem;
+            font-size: 1.8rem;
             font-weight: bold;
             margin-bottom: 12px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            line-height: 1.2;
         }
         
         .card-example {
@@ -262,7 +266,7 @@
         
         .progress-bar {
             width: 100%;
-            max-width: 380px;
+            max-width: 440px;
             height: 6px;
             background: #2d2d44;
             border-radius: 3px;
@@ -340,7 +344,7 @@
             border-radius: 15px;
             padding: 20px;
             margin-top: 20px;
-            max-width: 380px;
+            max-width: 440px;
         }
         
         .review-list h3 {
@@ -403,8 +407,8 @@
             font-weight: bold;
         }
         
-        .word-item-de {
-            font-size: 0.85rem;
+        .word-item-de, .word-item-en {
+            font-size: 0.8rem;
             color: #888;
         }
         
@@ -433,32 +437,47 @@
             color: #f87171;
         }
         
-        .lang-toggle {
+        .lang-selectors {
             display: flex;
-            gap: 8px;
+            align-items: center;
+            gap: 12px;
             margin-bottom: 15px;
+            justify-content: center;
         }
         
-        .lang-btn {
-            padding: 8px 16px;
-            border-radius: 20px;
-            border: 2px solid #3d3d5c;
-            background: transparent;
+        .lang-selector {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .lang-selector label {
+            font-size: 0.7rem;
             color: #888;
+            text-transform: uppercase;
+        }
+        
+        .lang-selector select {
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 2px solid #3d3d5c;
+            background: #1f1f2e;
+            color: white;
+            font-size: 0.95rem;
             cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.2s;
         }
         
-        .lang-btn:hover {
+        .lang-selector select:focus {
             border-color: #4ade80;
+            outline: none;
+        }
+        
+        .lang-arrow {
             color: #4ade80;
-        }
-        
-        .lang-btn.active {
-            background: #4ade80;
-            border-color: #4ade80;
-            color: #000;
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 18px;
         }
         
         .backup-controls {
@@ -491,11 +510,6 @@
     </style>
 </head>
 <body>
-    <div class="lang-toggle">
-        <button class="lang-btn active" id="langDE" onclick="setLanguage('de')">🇩🇪 DE</button>
-        <button class="lang-btn" id="langEN" onclick="setLanguage('en')">🇬🇧 EN</button>
-    </div>
-    
     <div class="global-stats">
         <div class="global-stat">
             <div class="global-stat-value" id="totalMastered">0</div>
@@ -552,10 +566,26 @@
                     <input type="checkbox" id="shuffleMode" checked>
                     🔀 Shuffle
                 </label>
-                <label class="option">
-                    <input type="checkbox" id="reverseMode" checked>
-                    🔄 PT → DE
-                </label>
+            </div>
+            
+            <div class="lang-selectors">
+                <div class="lang-selector">
+                    <label>Front:</label>
+                    <select id="frontLangSelect" onchange="updateLangSelectors()">
+                        <option value="pt">🇵🇹 PT</option>
+                        <option value="de">🇩🇪 DE</option>
+                        <option value="en">🇬🇧 EN</option>
+                    </select>
+                </div>
+                <span class="lang-arrow">→</span>
+                <div class="lang-selector">
+                    <label>Back:</label>
+                    <select id="backLangSelect" onchange="updateLangSelectors()">
+                        <option value="pt">🇵🇹 PT</option>
+                        <option value="de" selected>🇩🇪 DE</option>
+                        <option value="en">🇬🇧 EN</option>
+                    </select>
+                </div>
             </div>
             
             <div class="card-container">
@@ -931,16 +961,51 @@
         const LANG_KEY = 'flashcards_language';
         const WORDS_PER_DAY = 20;
         
-        // Language setting (de = German, en = English)
-        let currentLang = localStorage.getItem(LANG_KEY) || 'de';
+        // Language settings
+        const FRONT_LANG_KEY = 'flashcards_front_lang';
+        const BACK_LANG_KEY = 'flashcards_back_lang';
         
-        function setLanguage(lang) {
-            currentLang = lang;
-            localStorage.setItem(LANG_KEY, lang);
+        let frontLang = localStorage.getItem(FRONT_LANG_KEY) || 'pt';
+        let backLang = localStorage.getItem(BACK_LANG_KEY) || 'de';
+        
+        const langLabels = {
+            pt: 'Português',
+            de: 'Deutsch',
+            en: 'English'
+        };
+        
+        const langFlags = {
+            pt: '🇵🇹',
+            de: '🇩🇪',
+            en: '🇬🇧'
+        };
+        
+        function getCardText(card, lang) {
+            if (lang === 'pt') return card.pt;
+            if (lang === 'en') return card.en || card.de; // fallback to DE if no EN
+            return card.de;
+        }
+        
+        function updateLangSelectors() {
+            const frontSelect = document.getElementById('frontLangSelect');
+            const backSelect = document.getElementById('backLangSelect');
             
-            // Update toggle buttons
-            document.getElementById('langDE').classList.toggle('active', lang === 'de');
-            document.getElementById('langEN').classList.toggle('active', lang === 'en');
+            const newFront = frontSelect.value;
+            const newBack = backSelect.value;
+            
+            // Prevent same language on both sides
+            if (newFront === newBack) {
+                // If front changed to match back, change back to something else
+                const options = ['pt', 'de', 'en'];
+                const otherLang = options.find(l => l !== newFront);
+                backSelect.value = otherLang;
+            }
+            
+            frontLang = frontSelect.value;
+            backLang = backSelect.value;
+            
+            localStorage.setItem(FRONT_LANG_KEY, frontLang);
+            localStorage.setItem(BACK_LANG_KEY, backLang);
             
             // Update current card display
             showCardContent();
@@ -951,19 +1016,22 @@
             }
         }
         
+        function initLangSelectors() {
+            document.getElementById('frontLangSelect').value = frontLang;
+            document.getElementById('backLangSelect').value = backLang;
+        }
+        
+        // Legacy compatibility
         function getTranslation(card) {
-            if (currentLang === 'en' && card.en) {
-                return card.en;
-            }
-            return card.de;
+            return getCardText(card, backLang);
         }
         
         function getLangLabel() {
-            return currentLang === 'en' ? 'English' : 'Deutsch';
+            return langLabels[backLang];
         }
         
         function getLangFlag() {
-            return currentLang === 'en' ? '🇬🇧' : '🇩🇪';
+            return langFlags[backLang];
         }
         
         let progress = loadProgress();
@@ -1199,12 +1267,12 @@
             const html = all.map(card => {
                 const mastery = getMasteryLevel(card);
                 const p = getWordProgress(card);
-                const translation = getTranslation(card);
                 return `
                     <div class="word-item">
                         <div class="word-item-text">
-                            <div class="word-item-pt">${card.pt}</div>
-                            <div class="word-item-de">${getLangFlag()} ${translation}</div>
+                            <div class="word-item-pt">${langFlags.pt} ${card.pt}</div>
+                            <div class="word-item-de">${langFlags.de} ${card.de}</div>
+                            <div class="word-item-en">${langFlags.en} ${card.en || '-'}</div>
                         </div>
                         <span class="word-item-mastery ${mastery.class}">${mastery.label}</span>
                     </div>
@@ -1287,28 +1355,19 @@
             }
             
             const card = currentCards[currentIndex];
-            const reverse = document.getElementById('reverseMode').checked;
             const mastery = getMasteryLevel(card);
             
             const masteryEl = document.getElementById('frontMastery');
             masteryEl.textContent = mastery.label;
             masteryEl.className = 'card-mastery ' + mastery.class;
             
-            const translation = getTranslation(card);
+            const frontText = getCardText(card, frontLang);
+            const backText = getCardText(card, backLang);
             
-            if (reverse) {
-                // Show translation first, reveal Portuguese
-                document.getElementById('frontLang').textContent = getLangLabel();
-                document.getElementById('frontWord').textContent = translation;
-                document.getElementById('backLang').textContent = 'Português';
-                document.getElementById('backWord').textContent = card.pt;
-            } else {
-                // Show Portuguese first, reveal translation
-                document.getElementById('frontLang').textContent = 'Português';
-                document.getElementById('frontWord').textContent = card.pt;
-                document.getElementById('backLang').textContent = getLangLabel();
-                document.getElementById('backWord').textContent = translation;
-            }
+            document.getElementById('frontLang').textContent = langLabels[frontLang];
+            document.getElementById('frontWord').textContent = frontText;
+            document.getElementById('backLang').textContent = langLabels[backLang];
+            document.getElementById('backWord').textContent = backText;
             
             document.getElementById('exampleText').textContent = `"${card.example}"`;
             updateStats();
@@ -1402,8 +1461,10 @@
             } else {
                 reviewItems.innerHTML = missedCards.map(card => `
                     <div class="review-item">
-                        <strong>${card.pt}</strong> = ${getTranslation(card)}<br>
-                        <small style="color: #888;">"${card.example}"</small>
+                        <strong>🇵🇹 ${card.pt}</strong><br>
+                        <span style="color: #aaa;">🇩🇪 ${card.de}</span><br>
+                        <span style="color: #aaa;">🇬🇧 ${card.en || '-'}</span><br>
+                        <small style="color: #666;">"${card.example}"</small>
                     </div>
                 `).join('');
             }
@@ -1523,7 +1584,7 @@
         // Initialize
         populateDateSelect();
         updateGlobalStats();
-        setLanguage(currentLang); // Initialize language toggle state
+        initLangSelectors();
         loadDate();
         
         // Service Worker registration with auto-reload on update
