@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#1a1a2e"/>
+  
+  <!-- Open Book -->
+  <g transform="translate(256, 280)">
+    <!-- Left page - Green -->
+    <path d="M-20,-120 L-20,80 Q-100,60 -180,80 L-180,-100 Q-100,-120 -20,-120 Z" fill="#006600" opacity="0.9"/>
+    
+    <!-- Right page - Red -->
+    <path d="M20,-120 L20,80 Q100,60 180,80 L180,-100 Q100,-120 20,-120 Z" fill="#cc0000" opacity="0.9"/>
+    
+    <!-- Center spine -->
+    <rect x="-20" y="-120" width="40" height="200" fill="#ffd700" opacity="0.8"/>
+    
+    <!-- Book spine shadow -->
+    <rect x="-5" y="-120" width="10" height="200" fill="#000" opacity="0.2"/>
+  </g>
+  
+  <!-- PT Text -->
+  <text x="256" y="200" font-family="Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle">PT</text>
+</svg>

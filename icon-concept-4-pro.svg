@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    
+    <!-- Card gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#f1f5f9"/>
+    </linearGradient>
+    
+    <!-- Green accent gradient -->
+    <linearGradient id="greenAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#16a34a"/>
+    </linearGradient>
+    
+    <!-- Red accent gradient -->
+    <linearGradient id="redAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ef4444"/>
+      <stop offset="100%" style="stop-color:#dc2626"/>
+    </linearGradient>
+    
+    <!-- Check gradient -->
+    <linearGradient id="checkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="100%" style="stop-color:#22c55e"/>
+    </linearGradient>
+    
+    <!-- Shadows -->
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    
+    <filter id="smallShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" rx="115" fill="url(#bgGrad4)"/>
+  
+  <!-- Back card (shadow card) -->
+  <rect x="155" y="95" width="220" height="310" rx="16" fill="#334155" transform="rotate(8, 256, 250)" opacity="0.6"/>
+  
+  <!-- Main card -->
+  <g filter="url(#cardShadow)">
+    <rect x="135" y="80" width="220" height="310" rx="16" fill="url(#cardGrad)"/>
+    
+    <!-- Green top bar -->
+    <rect x="135" y="80" width="220" height="14" rx="8" fill="url(#greenAccent)"/>
+    <rect x="135" y="86" width="220" height="8" fill="url(#greenAccent)"/>
+    
+    <!-- Red bottom bar -->
+    <rect x="135" y="376" width="220" height="14" rx="8" fill="url(#redAccent)"/>
+    <rect x="135" y="376" width="220" height="8" fill="url(#redAccent)"/>
+    
+    <!-- Content lines -->
+    <rect x="165" y="135" width="140" height="10" rx="5" fill="#cbd5e1"/>
+    <rect x="165" y="160" width="100" height="10" rx="5" fill="#e2e8f0"/>
+    <rect x="165" y="185" width="120" height="10" rx="5" fill="#e2e8f0"/>
+    
+    <!-- Divider -->
+    <line x1="165" y1="220" x2="325" y2="220" stroke="#e2e8f0" stroke-width="2"/>
+    
+    <!-- More lines -->
+    <rect x="165" y="245" width="130" height="10" rx="5" fill="#cbd5e1"/>
+    <rect x="165" y="270" width="90" height="10" rx="5" fill="#e2e8f0"/>
+  </g>
+  
+  <!-- Checkmark badge -->
+  <g filter="url(#smallShadow)">
+    <circle cx="315" cy="330" r="38" fill="url(#checkGrad)"/>
+    <path d="M293,330 L307,344 L337,314" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  
+  <!-- Subtle top shine -->
+  <ellipse cx="220" cy="120" rx="80" ry="40" fill="#fff" opacity="0.1"/>
+</svg>
