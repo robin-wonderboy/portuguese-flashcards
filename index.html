@@ -203,6 +203,24 @@
             background: rgba(0,0,0,0.3);
         }
         
+        .speak-btn {
+            background: none;
+            border: none;
+            font-size: 1.4rem;
+            cursor: pointer;
+            padding: 6px 10px;
+            border-radius: 50%;
+            transition: background 0.2s, transform 0.1s;
+            line-height: 1;
+            min-width: 0;
+            min-height: 0;
+            box-shadow: none;
+        }
+        .speak-btn:hover { background: rgba(255,255,255,0.1); }
+        .speak-btn:active { transform: scale(0.9); }
+        .speak-btn.speaking { animation: pulse-speak 0.6s ease-in-out infinite; }
+        @keyframes pulse-speak { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+        
         .mastery-new { color: #888; }
         .mastery-learning { color: #fbbf24; }
         .mastery-familiar { color: #60a5fa; }
@@ -458,11 +476,13 @@
                         <span class="card-mastery mastery-new" id="frontMastery">New</span>
                         <div class="card-lang" id="frontLang">Português</div>
                         <div class="card-word" id="frontWord">Loading...</div>
+                        <button class="speak-btn" id="frontSpeak" onclick="event.stopPropagation(); speakCurrent('front')">🔊</button>
                         <div class="card-hint">👆 Tap to reveal</div>
                     </div>
                     <div class="card-face card-back">
                         <div class="card-lang" id="backLang">Deutsch</div>
                         <div class="card-word" id="backWord">...</div>
+                        <button class="speak-btn" id="backSpeak" onclick="event.stopPropagation(); speakCurrent('back')">🔊</button>
                         <div class="card-example" id="exampleText"></div>
                         <div class="card-example-translation" id="exampleTranslation"></div>
                     </div>
@@ -1034,6 +1054,57 @@
         
         const langLabels = { pt: 'Português', de: 'Deutsch', en: 'English' };
         const langFlags = { pt: '🇵🇹', de: '🇩🇪', en: '🇬🇧' };
+        const langVoiceCodes = { pt: 'pt-PT', de: 'de-DE', en: 'en-US' };
+        
+        // === TEXT-TO-SPEECH ===
+        function speak(text, lang) {
+            if (!('speechSynthesis' in window)) return;
+            speechSynthesis.cancel();
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = langVoiceCodes[lang] || 'pt-PT';
+            utterance.rate = 0.85;
+            
+            // Try to find a matching voice
+            const voices = speechSynthesis.getVoices();
+            const match = voices.find(v => v.lang.startsWith(utterance.lang)) 
+                       || voices.find(v => v.lang.startsWith(lang));
+            if (match) utterance.voice = match;
+            
+            // Visual feedback
+            const btn = document.querySelector('.speak-btn.speaking');
+            if (btn) btn.classList.remove('speaking');
+            
+            utterance.onstart = () => {
+                const activeBtn = isFlipped ? document.getElementById('backSpeak') : document.getElementById('frontSpeak');
+                activeBtn.classList.add('speaking');
+            };
+            utterance.onend = () => {
+                document.querySelectorAll('.speak-btn').forEach(b => b.classList.remove('speaking'));
+            };
+            
+            speechSynthesis.speak(utterance);
+        }
+        
+        function speakCurrent(side) {
+            if (currentIndex >= currentCards.length) return;
+            const card = currentCards[currentIndex];
+            if (side === 'front') {
+                speak(getCardText(card, frontLang), frontLang);
+            } else {
+                // On back: speak the word in back language, then the PT example
+                speak(getCardText(card, backLang), backLang);
+                // Queue the example in Portuguese after
+                setTimeout(() => {
+                    if (card.example) speak(card.example, 'pt');
+                }, 1500);
+            }
+        }
+        
+        // Preload voices (some browsers load them async)
+        if ('speechSynthesis' in window) {
+            speechSynthesis.getVoices();
+            speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
+        }
         
         // === PROGRESS ===
         function loadProgress() {
