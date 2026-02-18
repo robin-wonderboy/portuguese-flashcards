@@ -555,6 +555,27 @@
             </div>
             
             <div class="setting-group">
+                <div class="setting-label">Voices</div>
+                <div style="display: flex; flex-direction: column; gap: 8px;">
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span style="min-width: 30px;">🇵🇹</span>
+                        <select id="voicePT" onchange="saveVoicePref('pt', this.value)" style="flex:1; padding: 8px; border-radius: 8px; border: 1px solid #3d3d5c; background: #2d2d44; color: white; font-size: 0.85rem;"></select>
+                        <button onclick="testVoice('pt')" style="background:none;border:none;font-size:1.2rem;cursor:pointer;">🔊</button>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span style="min-width: 30px;">🇩🇪</span>
+                        <select id="voiceDE" onchange="saveVoicePref('de', this.value)" style="flex:1; padding: 8px; border-radius: 8px; border: 1px solid #3d3d5c; background: #2d2d44; color: white; font-size: 0.85rem;"></select>
+                        <button onclick="testVoice('de')" style="background:none;border:none;font-size:1.2rem;cursor:pointer;">🔊</button>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span style="min-width: 30px;">🇬🇧</span>
+                        <select id="voiceEN" onchange="saveVoicePref('en', this.value)" style="flex:1; padding: 8px; border-radius: 8px; border: 1px solid #3d3d5c; background: #2d2d44; color: white; font-size: 0.85rem;"></select>
+                        <button onclick="testVoice('en')" style="background:none;border:none;font-size:1.2rem;cursor:pointer;">🔊</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="setting-group">
                 <div class="setting-label">Options</div>
                 <label class="setting-checkbox">
                     <input type="checkbox" id="shuffleMode" checked>
@@ -1086,16 +1107,19 @@
             utterance.lang = langVoiceCodes[lang] || 'pt-PT';
             utterance.rate = 0.85;
             
-            // Try to find the best matching voice (prefer enhanced/premium)
-            const voices = speechSynthesis.getVoices();
-            const langCode = utterance.lang;
-            const langPrefix = lang;
-            const candidates = voices.filter(v => v.lang.startsWith(langCode) || v.lang.startsWith(langPrefix));
-            // Prefer enhanced/premium voices (name contains "Enhanced" or "Premium", or is not "compact")
-            const enhanced = candidates.find(v => /enhanced|premium/i.test(v.name));
-            const nonCompact = candidates.find(v => !/compact/i.test(v.name));
-            const match = enhanced || nonCompact || candidates[0];
-            if (match) utterance.voice = match;
+            // Use user-selected voice, or auto-pick best available
+            const selected = getSelectedVoice(lang);
+            if (selected) {
+                utterance.voice = selected;
+            } else {
+                const voices = speechSynthesis.getVoices();
+                const langCode = utterance.lang;
+                const candidates = voices.filter(v => v.lang.startsWith(langCode) || v.lang.startsWith(lang));
+                const enhanced = candidates.find(v => /enhanced|premium/i.test(v.name));
+                const nonCompact = candidates.find(v => !/compact/i.test(v.name));
+                const match = enhanced || nonCompact || candidates[0];
+                if (match) utterance.voice = match;
+            }
             
             // Visual feedback
             const btn = document.querySelector('.speak-btn.speaking');
@@ -1127,10 +1151,50 @@
             }
         }
         
+        // Voice preferences
+        const voicePrefs = JSON.parse(localStorage.getItem('voicePrefs') || '{}');
+        
+        function saveVoicePref(lang, voiceName) {
+            voicePrefs[lang] = voiceName;
+            localStorage.setItem('voicePrefs', JSON.stringify(voicePrefs));
+        }
+        
+        function populateVoiceSelects() {
+            const voices = speechSynthesis.getVoices();
+            const langMap = { pt: 'pt', de: 'de', en: 'en' };
+            const selectMap = { pt: 'voicePT', de: 'voiceDE', en: 'voiceEN' };
+            
+            for (const [lang, prefix] of Object.entries(langMap)) {
+                const select = document.getElementById(selectMap[lang]);
+                if (!select) continue;
+                const filtered = voices.filter(v => v.lang.startsWith(prefix));
+                select.innerHTML = '<option value="">Auto (best available)</option>';
+                filtered.forEach(v => {
+                    const opt = document.createElement('option');
+                    opt.value = v.name;
+                    opt.textContent = `${v.name} (${v.lang})`;
+                    if (voicePrefs[lang] === v.name) opt.selected = true;
+                    select.appendChild(opt);
+                });
+            }
+        }
+        
+        function testVoice(lang) {
+            const samples = { pt: 'Olá, como estás?', de: 'Hallo, wie geht es dir?', en: 'Hello, how are you?' };
+            speak(samples[lang] || 'Hello', lang);
+        }
+        
+        function getSelectedVoice(lang) {
+            if (!voicePrefs[lang]) return null;
+            const voices = speechSynthesis.getVoices();
+            return voices.find(v => v.name === voicePrefs[lang]) || null;
+        }
+        
         // Preload voices (some browsers load them async)
         if ('speechSynthesis' in window) {
             speechSynthesis.getVoices();
-            speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
+            speechSynthesis.onvoiceschanged = () => { speechSynthesis.getVoices(); populateVoiceSelects(); };
+            setTimeout(populateVoiceSelects, 100);
         }
         
         // === PROGRESS ===
