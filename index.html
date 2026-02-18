@@ -1086,10 +1086,15 @@
             utterance.lang = langVoiceCodes[lang] || 'pt-PT';
             utterance.rate = 0.85;
             
-            // Try to find a matching voice
+            // Try to find the best matching voice (prefer enhanced/premium)
             const voices = speechSynthesis.getVoices();
-            const match = voices.find(v => v.lang.startsWith(utterance.lang)) 
-                       || voices.find(v => v.lang.startsWith(lang));
+            const langCode = utterance.lang;
+            const langPrefix = lang;
+            const candidates = voices.filter(v => v.lang.startsWith(langCode) || v.lang.startsWith(langPrefix));
+            // Prefer enhanced/premium voices (name contains "Enhanced" or "Premium", or is not "compact")
+            const enhanced = candidates.find(v => /enhanced|premium/i.test(v.name));
+            const nonCompact = candidates.find(v => !/compact/i.test(v.name));
+            const match = enhanced || nonCompact || candidates[0];
             if (match) utterance.voice = match;
             
             // Visual feedback
