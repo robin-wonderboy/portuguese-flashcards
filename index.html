@@ -1487,7 +1487,7 @@
             document.getElementById('frontWord').textContent = getCardText(card, frontLang);
             document.getElementById('backLang').textContent = langLabels[backLang];
             document.getElementById('backWord').textContent = getCardText(card, backLang);
-            document.getElementById('exampleText').textContent = `"${card.example}"`;
+            document.getElementById('exampleText').textContent = card.example ? `"${card.example}"` : '';
             
             // Show example translation based on back language
             const exampleTrans = backLang === 'en' ? card.example_en : card.example_de;
@@ -1548,7 +1548,7 @@
                         <strong>${langFlags.pt} ${card.pt}</strong><br>
                         <span style="color:#aaa">${langFlags.de} ${card.de}</span><br>
                         <span style="color:#aaa">${langFlags.en} ${card.en || '-'}</span><br>
-                        <small style="color:#666">"${card.example}"</small>
+                        <small style="color:#666">${card.example ? `"${card.example}"` : ''}</small>
                     </div>
                 `).join('');
             }
