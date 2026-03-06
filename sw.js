@@ -1,11 +1,12 @@
-const CACHE_NAME = 'pt-vocab-v1';
+const CACHE_NAME = 'pt-vocab-v2';
+const BASE = '/portuguese-flashcards/';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png',
-  '/apple-touch-icon.png'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'manifest.json',
+  BASE + 'icon-192.png',
+  BASE + 'icon-512.png',
+  BASE + 'apple-touch-icon.png'
 ];
 
 // Install: cache assets
