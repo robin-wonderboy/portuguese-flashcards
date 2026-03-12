@@ -536,9 +536,13 @@
             const vocabWords = new Set();
             const allCards = getAllCards();
             allCards.forEach(card => {
-                // Only add the base word (without article), skip if too short
+                // Add base word (without article)
                 const base = card.pt.replace(/^(o|a|os|as|um|uma)\s+/i, '').toLowerCase();
-                if (base.length >= 4) vocabWords.add(base);
+                if (base.length >= 4) {
+                    vocabWords.add(base);
+                    // For multi-word entries like "prestar assistência", add each word
+                    base.split(/\s+/).forEach(w => { if (w.length >= 4) vocabWords.add(w); });
+                }
             });
             
             const html = newsData.sections.map(section => {
@@ -566,8 +570,8 @@
         
         function highlightVocab(text, vocabWords) {
             if (!text) return '';
-            // Only highlight words 4+ chars to avoid matching articles/prepositions
-            return text.replace(/\b(\w+)\b/g, (match) => {
+            // Match word characters including accented Portuguese letters
+            return text.replace(/[a-zA-ZÀ-ÿ]+/g, (match) => {
                 if (match.length < 4) return match;
                 const lower = match.toLowerCase();
                 if (vocabWords.has(lower)) {
