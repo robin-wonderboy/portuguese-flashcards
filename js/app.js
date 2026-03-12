@@ -482,6 +482,90 @@
             }
         }
         
+        // === NEWS READER ===
+        let newsVisible = false;
+        let newsData = null;
+        
+        async function checkNewsForDate(dateStr) {
+            try {
+                const response = await fetch(`data/news/${dateStr}.json`);
+                if (response.ok) {
+                    newsData = await response.json();
+                    document.getElementById('newsBtn').classList.remove('hidden');
+                } else {
+                    document.getElementById('newsBtn').classList.add('hidden');
+                    newsData = null;
+                }
+            } catch {
+                document.getElementById('newsBtn').classList.add('hidden');
+                newsData = null;
+            }
+        }
+        
+        function toggleNews() {
+            newsVisible = !newsVisible;
+            const container = document.getElementById('newsContainer');
+            const btn = document.getElementById('newsBtn');
+            
+            if (newsVisible && newsData) {
+                container.classList.remove('hidden');
+                btn.classList.add('active');
+                renderNews();
+            } else {
+                container.classList.add('hidden');
+                btn.classList.remove('active');
+                newsVisible = false;
+            }
+        }
+        
+        function renderNews() {
+            if (!newsData || !newsData.stories) {
+                document.getElementById('newsContent').innerHTML = '<div class="news-empty">No news available</div>';
+                return;
+            }
+            
+            // Build a set of vocab words for highlighting
+            const vocabWords = new Set();
+            const allCards = getAllCards();
+            allCards.forEach(card => {
+                // Extract the base word (remove articles)
+                const pt = card.pt.replace(/^(o|a|os|as|um|uma)\s+/i, '').toLowerCase();
+                vocabWords.add(pt);
+                // Also add the full word with article
+                vocabWords.add(card.pt.toLowerCase());
+            });
+            
+            const html = newsData.stories.map(story => {
+                const summary = highlightVocab(story.summary, vocabWords);
+                const titleHtml = story.url 
+                    ? `<a href="${story.url}" target="_blank" rel="noopener">${story.title}</a>`
+                    : story.title;
+                
+                return `
+                    <div class="news-card">
+                        <div class="news-category">${story.category || ''}</div>
+                        <div class="news-title">${titleHtml}</div>
+                        <div class="news-summary">${summary}</div>
+                    </div>
+                `;
+            }).join('');
+            
+            const source = newsData.source ? `<div class="news-source">Fonte: ${newsData.source}</div>` : '';
+            document.getElementById('newsContent').innerHTML = html + source;
+        }
+        
+        function highlightVocab(text, vocabWords) {
+            if (!text) return '';
+            // Split text into words, check each against vocab
+            return text.replace(/\b(\w+)\b/g, (match) => {
+                const lower = match.toLowerCase();
+                if (vocabWords.has(lower)) {
+                    return `<span class="vocab-highlight" title="In your vocabulary!">${match}</span>`;
+                }
+                return match;
+            });
+        }
+        
         // === INIT ===
         async function init() {
             // Load vocabulary from JSON
@@ -502,6 +586,10 @@
             
             initLangSelectors();
             updateGlobalStats();
+            
+            // Check for today's news
+            const todayForNews = new Date().toISOString().split('T')[0];
+            checkNewsForDate(todayForNews);
             
             // Populate date selector with available dates
             const select = document.getElementById('dateSelect');

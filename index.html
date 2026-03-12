@@ -31,6 +31,18 @@
         <button class="tab" onclick="showTab('words')">📖 All Words</button>
     </div>
     
+    <!-- News Button -->
+    <button class="news-btn hidden" id="newsBtn" onclick="toggleNews()">📰 News</button>
+    
+    <!-- News Container -->
+    <div class="news-container hidden" id="newsContainer">
+        <div class="news-header">
+            <h3>📰 Notícias de Coimbra</h3>
+            <button class="news-close" onclick="toggleNews()">✕</button>
+        </div>
+        <div id="newsContent"></div>
+    </div>
+    
     <!-- Practice Tab -->
     <div id="practiceTab">
         <div id="cardScreen">
