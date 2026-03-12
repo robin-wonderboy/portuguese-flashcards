@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pt-vocab-v4';
+const CACHE_NAME = 'pt-vocab-v5';
 const BASE = '/portuguese-flashcards/';
 const ASSETS = [
   BASE,
@@ -12,16 +12,6 @@ const ASSETS = [
   BASE + 'apple-touch-icon.png'
 ];
 
-// Files that should use network-first strategy (fresh data matters)
-const NETWORK_FIRST = [
-  'index.html',
-  'css/app.css',
-  'js/app.js',
-  'data/vocab.json',
-  'data/news/'
-];
-
-// Install: cache assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
@@ -30,7 +20,6 @@ self.addEventListener('install', (event) => {
   );
 });
 
-// Activate: clean old caches and take control
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys()
@@ -41,35 +30,18 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// Check if a URL should use network-first strategy
-function isNetworkFirst(url) {
-  return NETWORK_FIRST.some(pattern => url.pathname.includes(pattern));
-}
-
-// Fetch handler
+// Network-first for everything — always try to get fresh content.
+// Falls back to cache when offline.
 self.addEventListener('fetch', (event) => {
-  const url = new URL(event.request.url);
-  
-  // Network-first for HTML, vocab data, and news data
-  if (event.request.mode === 'navigate' || isNetworkFirst(url)) {
-    event.respondWith(
-      fetch(event.request)
-        .then(response => {
-          // Only cache successful responses
-          if (response.ok) {
-            const clone = response.clone();
-            caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-          }
-          return response;
-        })
-        .catch(() => caches.match(event.request))
-    );
-    return;
-  }
-  
-  // Cache-first for static assets (CSS, JS, images)
   event.respondWith(
-    caches.match(event.request)
-      .then(cached => cached || fetch(event.request))
+    fetch(event.request)
+      .then(response => {
+        if (response.ok) {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
+        }
+        return response;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
