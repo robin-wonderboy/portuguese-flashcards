@@ -6780,5 +6780,95 @@
       "example_de": "In Gefahr zu brechen",
       "example_en": "At risk of bursting"
     }
+  ],
+  "2026-03-12": [
+    {
+      "pt": "reabrir",
+      "de": "wiedereröffnen",
+      "en": "to reopen",
+      "example": "A A14 já reabriu ao trânsito nos dois sentidos",
+      "example_de": "Die A14 wurde in beiden Richtungen wieder für den Verkehr geöffnet",
+      "example_en": "The A14 has reopened to traffic in both directions"
+    },
+    {
+      "pt": "o trânsito",
+      "de": "der Verkehr",
+      "en": "traffic",
+      "example": "A autoestrada reabriu ao trânsito",
+      "example_de": "Die Autobahn wurde für den Verkehr wiedereröffnet",
+      "example_en": "The motorway reopened to traffic"
+    },
+    {
+      "pt": "prejudicar",
+      "de": "schaden, beeinträchtigen",
+      "en": "to harm, to impair",
+      "example": "A inflamação prejudica a ligação entre o intestino e o cérebro",
+      "example_de": "Die Entzündung beeinträchtigt die Verbindung zwischen Darm und Gehirn",
+      "example_en": "The inflammation impairs the connection between gut and brain"
+    },
+    {
+      "pt": "arrependido",
+      "de": "reuig, reumütig",
+      "en": "regretful, repentant",
+      "example": "O suspeito confessou o crime e mostrou-se arrependido",
+      "example_de": "Der Verdächtige gestand die Tat und zeigte sich reuig",
+      "example_en": "The suspect confessed and showed remorse"
+    },
+    {
+      "pt": "o fabrico",
+      "de": "die Herstellung",
+      "en": "production, making",
+      "example": "Assistir ao fabrico artesanal de Queijo Serra da Estrela",
+      "example_de": "Der handwerklichen Herstellung von Serra da Estrela Käse zusehen",
+      "example_en": "Watch the artisanal making of Serra da Estrela cheese"
+    },
+    {
+      "pt": "o envelhecimento",
+      "de": "das Altern, die Alterung",
+      "en": "aging",
+      "example": "A microbiota intestinal influencia o envelhecimento cerebral",
+      "example_de": "Die Darmmikrobiota beeinflusst die Gehirnalterung",
+      "example_en": "Gut microbiota influences brain aging"
+    },
+    {
+      "pt": "promissor",
+      "de": "vielversprechend",
+      "en": "promising",
+      "example": "Possibilidades promissoras para o desenvolvimento de tratamentos",
+      "example_de": "Vielversprechende Möglichkeiten für die Entwicklung von Behandlungen",
+      "example_en": "Promising possibilities for developing treatments"
+    },
+    {
+      "pt": "travar",
+      "de": "stoppen, blockieren, verhindern",
+      "en": "to stop, to block, to prevent",
+      "example": "Enfermeira assassina trava extradição na Indonésia",
+      "example_de": "Mörderin-Krankenschwester blockiert Auslieferung in Indonesien",
+      "example_en": "Killer nurse blocks extradition in Indonesia"
+    },
+    {
+      "pt": "apurar",
+      "de": "ermitteln, untersuchen, klären",
+      "en": "to investigate, to determine",
+      "example": "As circunstâncias do atropelamento estão a ser apuradas",
+      "example_de": "Die Umstände des Unfalls werden ermittelt",
+      "example_en": "The circumstances of the accident are being investigated"
+    },
+    {
+      "pt": "o isqueiro",
+      "de": "das Feuerzeug",
+      "en": "lighter",
+      "example": "Ateou fogo com recurso a um isqueiro",
+      "example_de": "Er legte Feuer mit einem Feuerzeug",
+      "example_en": "He set fire using a lighter"
+    },
+    {
+      "pt": "o piso",
+      "de": "der Straßenbelag, der Boden",
+      "en": "road surface, floor",
+      "example": "Constrangimentos no piso junto ao nó de Santa Olaia",
+      "example_de": "Einschränkungen beim Straßenbelag nahe der Auffahrt Santa Olaia",
+      "example_en": "Road surface issues near the Santa Olaia junction"
+    }
   ]
 }
