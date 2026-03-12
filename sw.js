@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pt-vocab-v3';
+const CACHE_NAME = 'pt-vocab-v4';
 const BASE = '/portuguese-flashcards/';
 const ASSETS = [
   BASE,
@@ -15,6 +15,8 @@ const ASSETS = [
 // Files that should use network-first strategy (fresh data matters)
 const NETWORK_FIRST = [
   'index.html',
+  'css/app.css',
+  'js/app.js',
   'data/vocab.json',
   'data/news/'
 ];

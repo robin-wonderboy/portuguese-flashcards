@@ -519,9 +519,17 @@
         }
         
         function renderNews() {
-            if (!newsData || !newsData.sections) {
+            // Support both formats: new (sections) and legacy (stories)
+            const sections = newsData?.sections;
+            const legacyStories = newsData?.stories;
+            if (!newsData || (!sections && !legacyStories)) {
                 document.getElementById('newsContent').innerHTML = '<div class="news-empty">No news available</div>';
                 return;
+            }
+            
+            // Convert legacy flat stories to sections format
+            if (!sections && legacyStories) {
+                newsData.sections = [{ emoji: '📰', category: 'NOTÍCIAS', stories: legacyStories.map(s => ({ headline: s.title, text: s.summary || '' })) }];
             }
             
             // Build a set of vocab words for highlighting
@@ -578,7 +586,7 @@
                 console.error('Failed to load vocabulary:', e);
                 // Try cache
                 try {
-                    const cache = await caches.open('pt-vocab-v3');
+                    const cache = await caches.open('pt-vocab-v4');
                     const cached = await cache.match('data/vocab.json');
                     if (cached) vocabulary = await cached.json();
                 } catch (e2) {
