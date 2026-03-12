@@ -536,9 +536,9 @@
             const vocabWords = new Set();
             const allCards = getAllCards();
             allCards.forEach(card => {
-                const pt = card.pt.replace(/^(o|a|os|as|um|uma)\s+/i, '').toLowerCase();
-                vocabWords.add(pt);
-                vocabWords.add(card.pt.toLowerCase());
+                // Only add the base word (without article), skip if too short
+                const base = card.pt.replace(/^(o|a|os|as|um|uma)\s+/i, '').toLowerCase();
+                if (base.length >= 4) vocabWords.add(base);
             });
             
             const html = newsData.sections.map(section => {
@@ -566,8 +566,9 @@
         
         function highlightVocab(text, vocabWords) {
             if (!text) return '';
-            // Split text into words, check each against vocab
+            // Only highlight words 4+ chars to avoid matching articles/prepositions
             return text.replace(/\b(\w+)\b/g, (match) => {
+                if (match.length < 4) return match;
                 const lower = match.toLowerCase();
                 if (vocabWords.has(lower)) {
                     return `<span class="vocab-highlight" title="In your vocabulary!">${match}</span>`;
