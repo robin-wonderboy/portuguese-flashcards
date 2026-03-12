@@ -1,50 +1,110 @@
 {
   "date": "2026-03-12",
   "source": "noticiasdecoimbra.pt",
-  "stories": [
+  "sections": [
     {
-      "title": "“Nem a doença pára o amor”: Laura nasce e pode ser a 1ª bebé portuguesa de mãe com Parkinson",
-      "url": "https://www.noticiasdecoimbra.pt/nem-a-doenca-para-o-amor-laura-nasce-e-pode-ser-a-1a-bebe-portuguesa-de-mae-com-parkinson/"
+      "emoji": "🌧️",
+      "category": "METEO",
+      "stories": [
+        {
+          "headline": "Sexta-feira 13 traz \"azar\" para o tempo",
+          "text": "Uma frente fria atlântica de 2000 km vai atravessar a Europa amanhã. A chuva chega a Portugal pelo Noroeste a partir da madrugada, fraca e concentrada no Norte e Centro. Sábado melhora, mas com vento forte (rajadas até 60 km/h) e descida de temperatura."
+        }
+      ]
     },
     {
-      "title": "Sofia tinha 2 anos quando foi levada dos braços da mãe. Pai jurou que segredo morria com ele",
-      "url": "https://www.noticiasdecoimbra.pt/sofia-tinha-2-anos-quando-foi-levada-dos-bracos-da-mae-pai-jurou-que-segredo-morria-com-ele/",
-      "category": "portugal"
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & REGIÃO",
+      "stories": [
+        {
+          "headline": "A14 já reabriu ao trânsito",
+          "text": "A autoestrada Figueira da Foz–Coimbra reabriu nos dois sentidos ontem à noite, após mais de um mês encerrada por causa das cheias. Circulação com prudência junto ao nó de Santa Olaia por constrangimentos no piso."
+        },
+        {
+          "headline": "68% dos portugueses não usam transportes públicos",
+          "text": "Portugal é dos piores da UE (só Chipre pior). No extremo oposto, Luxemburgo: apenas 15,7% não usa."
+        },
+        {
+          "headline": "Incêndio num anexo em Soure",
+          "text": "Fogo na madrugada, sem feridos nem desalojados."
+        }
+      ]
     },
     {
-      "title": "Sexta-feira 13 traz “azar” para o tempo",
-      "url": "https://www.noticiasdecoimbra.pt/sexta-feira-13-traz-azar-para-o-tempo/",
-      "category": "primeira página"
+      "emoji": "🔬",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Ouvir música pode reduzir demência em ~39%",
+          "text": "Estudo da Universidade Monash analisou 10.800+ adultos com 70+ anos. Quem ouve música regularmente tem risco significativamente menor de Alzheimer. Tocar instrumento também ajuda."
+        },
+        {
+          "headline": "Ligação intestino-cérebro e memória",
+          "text": "Investigação publicada na Nature mostra que inflamação gastrointestinal prejudica a memória via nervo vago. Boa notícia: estimular o nervo vago pode restaurar a função cognitiva em animais velhos."
+        },
+        {
+          "headline": "Cuidado com os earbuds",
+          "text": "Podem causar infeções no ouvido."
+        }
+      ]
     },
     {
-      "title": "Guia Michelin adiciona mais um restaurante (é de culinária portuguesa e fica em Macau)",
-      "url": "https://www.noticiasdecoimbra.pt/guia-michelin-adiciona-mais-um-restaurante-e-de-culinaria-portuguesa-e-fica-em-macau/",
-      "category": "restaurantes"
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Tiago Grila (influencer) atropela e foge",
+          "text": "PSP propõe acusação de ofensa à integridade física e omissão de auxílio. A vítima foi atingida na passadeira. Caso reaberto após Grila admitir o atropelamento num podcast."
+        },
+        {
+          "headline": "Incendiário de Miranda do Corvo em prisão preventiva",
+          "text": "Confessou ter ateado fogo a uma casa em Semide com um isqueiro. Mostrou-se arrependido. Pode vir a ter tratamento psiquiátrico."
+        },
+        {
+          "headline": "Enfermeira assassina trava extradição na Indonésia",
+          "text": "Mariana Fonseca, condenada a 23 anos pelo homicídio de Diogo Gonçalves no Algarve, foi detida em Jacarta mas ainda não foi a juiz. Processo pode demorar meses ou anos."
+        },
+        {
+          "headline": "Irmãos matam o pai para salvar a mãe",
+          "text": "Esconderam o corpo num armário."
+        }
+      ]
     },
     {
-      "title": "Está aí a ModaLisboa: Há desfiles, conversas, exposições, performances e uma loja temporária",
-      "url": "https://www.noticiasdecoimbra.pt/esta-ai-a-modalisboa-ha-desfiles-conversas-exposicoes-performances-e-uma-loja-temporaria/",
-      "category": "vamos"
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Criança de 4 anos morre atropelada em Castro Marim",
+          "text": "Momentos após sair da carrinha do infantário. Tragédia na EN 122, circunstâncias a ser apuradas."
+        },
+        {
+          "headline": "\"Nem a doença pára o amor\"",
+          "text": "Laura nasce e pode ser a 1ª bebé portuguesa de mãe com Parkinson."
+        },
+        {
+          "headline": "Sofia tinha 2 anos quando foi levada dos braços da mãe",
+          "text": "Pai jurou que o segredo morria com ele."
+        }
+      ]
     },
     {
-      "title": "Operação “Ghost Trip”: 2 suspeitos burlam agência de viagens em mais de 14 mil euros",
-      "url": "https://www.noticiasdecoimbra.pt/operacao-ghost-trip-2-suspeitos-burlam-agencia-de-viagens-em-mais-de-14-mil-euros/",
-      "category": "crimes"
-    },
-    {
-      "title": "Cientistas descobrem o “segredo” dos gatos caírem de pé",
-      "url": "https://www.noticiasdecoimbra.pt/cientistas-descobrem-o-segredo-dos-gatos-cairem-de-pe/",
-      "category": "portugal"
-    },
-    {
-      "title": "GRATIDÃO EM FORMA DE LENÇO PARA ANA ABRUNHOSA",
-      "url": "https://www.noticiasdecoimbra.pt/gratidao-em-forma-de-lenco-para-ana-abrunhosa/",
-      "category": "o sexo e a cidade"
-    },
-    {
-      "title": "Álvaro Coimbra “chega” e “escapa” ao Festival Literário da terra",
-      "url": "https://www.noticiasdecoimbra.pt/alvaro-coimbra-chega-e-escapa-ao-festival-literario-da-terra/",
-      "category": "o sexo e a cidade"
+      "emoji": "🍽️",
+      "category": "CULTURA & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Queijo Serra da Estrela em festa em Gouveia",
+          "text": "Mercado do Queijo este fim de semana (14-15 março). Fabrico artesanal ao vivo, provas, workshop queijo+vinho, feira de ovinos e mostra do Cão Serra da Estrela."
+        },
+        {
+          "headline": "\"A Lorcha\" entra no Guia Michelin Macau",
+          "text": "Restaurante de comida portuguesa e macaense ganhou Bib Gourmand. Macau já tem 3 restaurantes portugueses na lista."
+        },
+        {
+          "headline": "ModaLisboa arranca",
+          "text": "Desfiles, exposições, performances e loja temporária."
+        }
+      ]
     }
   ]
 }

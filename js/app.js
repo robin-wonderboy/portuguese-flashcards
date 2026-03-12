@@ -519,7 +519,7 @@
         }
         
         function renderNews() {
-            if (!newsData || !newsData.stories) {
+            if (!newsData || !newsData.sections) {
                 document.getElementById('newsContent').innerHTML = '<div class="news-empty">No news available</div>';
                 return;
             }
@@ -528,24 +528,26 @@
             const vocabWords = new Set();
             const allCards = getAllCards();
             allCards.forEach(card => {
-                // Extract the base word (remove articles)
                 const pt = card.pt.replace(/^(o|a|os|as|um|uma)\s+/i, '').toLowerCase();
                 vocabWords.add(pt);
-                // Also add the full word with article
                 vocabWords.add(card.pt.toLowerCase());
             });
             
-            const html = newsData.stories.map(story => {
-                const summary = highlightVocab(story.summary, vocabWords);
-                const titleHtml = story.url 
-                    ? `<a href="${story.url}" target="_blank" rel="noopener">${story.title}</a>`
-                    : story.title;
+            const html = newsData.sections.map(section => {
+                const storiesHtml = section.stories.map(story => {
+                    const text = highlightVocab(story.text, vocabWords);
+                    return `
+                        <div class="news-story">
+                            <div class="news-headline">• ${highlightVocab(story.headline, vocabWords)}</div>
+                            ${text ? `<div class="news-text">${text}</div>` : ''}
+                        </div>
+                    `;
+                }).join('');
                 
                 return `
-                    <div class="news-card">
-                        <div class="news-category">${story.category || ''}</div>
-                        <div class="news-title">${titleHtml}</div>
-                        <div class="news-summary">${summary}</div>
+                    <div class="news-section">
+                        <div class="news-category">${section.emoji || ''} ${section.category}</div>
+                        ${storiesHtml}
                     </div>
                 `;
             }).join('');
