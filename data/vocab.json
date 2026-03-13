@@ -6878,5 +6878,95 @@
       "example_de": "Einschränkungen beim Straßenbelag nahe der Auffahrt Santa Olaia",
       "example_en": "Road surface issues near the Santa Olaia junction"
     }
+  ],
+  "2026-03-13": [
+    {
+      "pt": "à espreita",
+      "de": "auf der Lauer, lauernd",
+      "en": "on the lookout, lurking",
+      "example": "Há uma boa notícia à espreita",
+      "example_de": "Es lauert eine gute Nachricht",
+      "example_en": "There is good news lurking"
+    },
+    {
+      "pt": "as gorjetas",
+      "de": "die Trinkgelder",
+      "en": "the tips (gratuity)",
+      "example": "Roubar gorjetas não é roubar um café",
+      "example_de": "Trinkgelder stehlen ist nicht dasselbe wie einen Kaffee stehlen",
+      "example_en": "Stealing tips is not like stealing a coffee"
+    },
+    {
+      "pt": "a louça",
+      "de": "das Geschirr, die Keramik",
+      "en": "the crockery, the pottery",
+      "example": "O maior armazém de louça abre em Coimbra",
+      "example_de": "Das größte Keramik-Lager eröffnet in Coimbra",
+      "example_en": "The largest crockery warehouse opens in Coimbra"
+    },
+    {
+      "pt": "a azáfama",
+      "de": "die Hektik, der Trubel",
+      "en": "the hustle, the bustle",
+      "example": "Já em plena azáfama para o Rock in Rio",
+      "example_de": "Bereits mitten in der Hektik für Rock in Rio",
+      "example_en": "Already in full hustle for Rock in Rio"
+    },
+    {
+      "pt": "conquistar",
+      "de": "erobern, gewinnen, begeistern",
+      "en": "to conquer, to win over",
+      "example": "A loja promete conquistar os fãs de todas as idades",
+      "example_de": "Der Laden verspricht, Fans jeden Alters zu begeistern",
+      "example_en": "The store promises to win over fans of all ages"
+    },
+    {
+      "pt": "decorrer",
+      "de": "stattfinden, ablaufen",
+      "en": "to take place, to occur",
+      "example": "O evento vai decorrer nos fins de semana de março",
+      "example_de": "Die Veranstaltung findet an den März-Wochenenden statt",
+      "example_en": "The event will take place on March weekends"
+    },
+    {
+      "pt": "soprar",
+      "de": "blasen, wehen",
+      "en": "to blow (wind)",
+      "example": "O vento soprará de noroeste, moderado",
+      "example_de": "Der Wind weht mäßig aus Nordwesten",
+      "example_en": "The wind will blow moderately from the northwest"
+    },
+    {
+      "pt": "indevido",
+      "de": "unzulässig, unbefugt",
+      "en": "improper, undue",
+      "example": "Circulação de trotinetes em locais indevidos",
+      "example_de": "Fahren von Rollern an unzulässigen Orten",
+      "example_en": "Scooter use in improper locations"
+    },
+    {
+      "pt": "emocionante",
+      "de": "bewegend, ergreifend",
+      "en": "moving, exciting, touching",
+      "example": "Crianças entregam presente emocionante aos bombeiros",
+      "example_de": "Kinder überreichen den Feuerwehrleuten ein bewegendes Geschenk",
+      "example_en": "Children give firefighters a moving gift"
+    },
+    {
+      "pt": "pôr à prova",
+      "de": "auf die Probe stellen",
+      "en": "to put to the test",
+      "example": "Atividade vai pôr à prova os conhecimentos botânicos",
+      "example_de": "Die Aktivität stellt botanisches Wissen auf die Probe",
+      "example_en": "The activity will put botanical knowledge to the test"
+    },
+    {
+      "pt": "à mesa",
+      "de": "bei Tisch, am Tisch",
+      "en": "at the table",
+      "example": "Mira põe-se à mesa para celebrar os sabores da Gândara",
+      "example_de": "Mira kommt an den Tisch, um die Aromen der Gândara zu feiern",
+      "example_en": "Mira comes to the table to celebrate the flavors of Gândara"
+    }
   ]
 }
