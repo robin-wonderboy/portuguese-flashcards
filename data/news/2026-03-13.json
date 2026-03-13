@@ -3,16 +3,24 @@
   "source": "noticiasdecoimbra.pt",
   "sections": [
     {
-      "emoji": "🏪",
-      "category": "COMÉRCIO & COIMBRA",
+      "emoji": "🧱",
+      "category": "COMÉRCIO & LAZER",
       "stories": [
         {
-          "headline": "Nova loja LEGO abre amanhã no Forum Coimbra",
-          "text": "A primeira Loja Certificada LEGO da zona centro abre portas no sábado, 14 de março, às 11h. Com 200 m², é a quarta loja oficial em Portugal. Haverá construção de um mural na praça junto à FNAC, das 10h às 18h, e uma peça exclusiva em homenagem à Cidade dos Estudantes."
+          "headline": "Nova loja LEGO abre sábado no Forum Coimbra",
+          "text": "A primeira Loja Certificada LEGO da zona centro abre amanhã, 14 de março, às 11h no Forum Coimbra. É a quarta loja em Portugal, com 200 m², e promete uma homenagem à Cidade dos Estudantes com uma peça exclusiva revelada na abertura. Na praça junto à FNAC haverá construção de um mural coletivo das 10h às 18h."
         },
         {
-          "headline": "Maior armazém de louça abre portas em Eiras",
-          "text": "O Òkilo, armazém de cerâmica ao quilo, vai abrir na Travessa Adriano Lucas em Eiras. Ainda sem data definida, estão a finalizar os últimos preparativos."
+          "headline": "Maior armazém de louça vai abrir em Coimbra",
+          "text": "Já se sabe onde vai abrir o maior armazém de louça da cidade — mais detalhes em breve."
+        },
+        {
+          "headline": "Rock in Rio: faltam 100 dias",
+          "text": "O festival já revelou parte do programa. A contagem decrescente está em marcha com 100 dias até ao evento."
+        },
+        {
+          "headline": "Museu Nacional Grão Vasco celebra 110 anos",
+          "text": "O museu em Viseu assinala 110 anos de história e arte portuguesa."
         }
       ]
     },
@@ -21,96 +29,82 @@
       "category": "METEOROLOGIA",
       "stories": [
         {
-          "headline": "Fim de semana com dois cenários distintos",
-          "text": "O sábado continua nublado com chuva fraca e vento de noroeste até 55 km/h. Neve possível acima dos 1200-1400m. Já o domingo marca a transição: regresso gradual do sol e subida das temperaturas. Ondas até 5 metros na costa ocidental."
-        }
-      ]
-    },
-    {
-      "emoji": "🌊",
-      "category": "CHEIAS & AMBIENTE",
-      "stories": [
-        {
-          "headline": "Câmara e UC debatem cheias do Mondego",
-          "text": "Sessão pública hoje às 15h debaixo do dique do viaduto da A1 que colapsou. Participam a presidente Ana Abrunhosa e o presidente da APA. A Câmara estima 11,7M€ para desassoreamento dos rios Mondego, Ceira e Dueça."
-        },
-        {
-          "headline": "Jardim Botânico celebra Dia da Árvore",
-          "text": "Atividades gratuitas para escolas a 20/03 e visita guiada \"Árvores com história\" para o público a 21/03. Inscrições obrigatórias."
+          "headline": "Fim de semana dividido: sábado cinzento, domingo com sol",
+          "text": "Sábado com céu muito nublado, chuva fraca e vento de noroeste com rajadas até 55 km/h. Neve possível acima dos 1.200 m. Domingo marca a transição — regresso gradual do sol e subida das temperaturas. Ondas até 5 metros na costa ocidental."
         }
       ]
     },
     {
       "emoji": "🏛️",
-      "category": "POLÍTICA",
+      "category": "COIMBRA & REGIÃO",
       "stories": [
         {
-          "headline": "PS vota para reeleger José Luís Carneiro",
-          "text": "Cerca de 39.500 militantes podem votar nas eleições diretas do PS. Carneiro é candidato único. Votação em 15 federações hoje e 6 no sábado (incluindo Coimbra). Congresso marcado para 27-29 de março em Viseu."
+          "headline": "Debate sobre cheias do Mondego hoje às 15h",
+          "text": "Câmara e Universidade de Coimbra promovem sessão pública debaixo do dique da A1 que colapsou em fevereiro. Participam a presidente Ana Abrunhosa e o presidente da APA. A Câmara estima que o desassoreamento do Mondego, Ceira e Dueça custará 11,7 milhões de euros."
         },
         {
-          "headline": "Montenegro e Seguro em \"completa cordialidade\"",
-          "text": "Primeira reunião semanal entre o PM e o novo PR durou hora e meia em Belém. As reuniões passam de quinta para terça-feira, às 18h."
+          "headline": "Jardim Botânico celebra o Dia da Árvore",
+          "text": "Atividades gratuitas para escolas (20 de março) e público geral (21 de março) com visita guiada \"Árvores com história\". Inscrição obrigatória, vagas limitadas."
+        },
+        {
+          "headline": "Crianças surpreendem bombeiros de Oliveira do Hospital",
+          "text": "Crianças do Jardim de Infância ofereceram desenhos coloridos aos Bombeiros Voluntários, expressando gratidão pelo trabalho diário de proteção à comunidade."
         }
       ]
     },
     {
-      "emoji": "⚠️",
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "\"Mira à Mesa\" reúne 15 restaurantes nos últimos fins de semana de março",
+          "text": "A 5.ª edição decorre dias 20-22 e 27-29 de março com 14 restaurantes e uma confraria. Além do peixe fresco, há iguarias raras como galo velho com arroz, torresmos e sarrabulho. Visitantes deslocam-se propositadamente para provar estas especialidades."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
       "category": "SEGURANÇA & JUSTIÇA",
       "stories": [
         {
-          "headline": "10 mortes em acidentes com trotinetes em 7 anos",
-          "text": "A GNR registou 1.900 acidentes com trotinetes elétricas desde 2019. Pico em 2024 com 706 ocorrências. Principais causas: circulação em passeios e desrespeito pela sinalização."
+          "headline": "10 mortes em acidentes com trotinetes elétricas em 7 anos",
+          "text": "A GNR registou 1.900 acidentes desde 2019, com pico de 706 em 2024. Principais causas: circulação em passeios, desrespeito pela sinalização e falta de equipamento de segurança. Trotinetes estão sujeitas às mesmas regras de álcool que automóveis."
         },
         {
-          "headline": "PSP e GNR recebem 1.500 tasers",
-          "text": "Governo aprovou 4,3M€ para aquisição de dispositivos elétricos de imobilização. É o primeiro reforço desde 2019, quando foram distribuídos 393 aparelhos."
+          "headline": "PSP e GNR reforçadas com 1.500 tasers",
+          "text": "O Governo aprovou 4,3 milhões de euros para a aquisição de dispositivos elétricos de imobilização — os primeiros desde 2019. Visam reforçar a capacidade operacional como alternativa entre dissuasão verbal e força letal."
         },
         {
-          "headline": "Gatuno rouba gorjetas em café de Coimbra",
-          "text": "O Café Samambaia partilhou imagens do roubo nas redes sociais. A PSP confirma não ter recebido queixa formal."
+          "headline": "Gatuno rouba gorjetas em café de Coimbra e é filmado",
+          "text": "O Café Samambaia partilhou imagens do roubo nas redes sociais. A PSP afirmou não ter recebido queixa formal sobre o caso."
         },
         {
-          "headline": "Campanha falsa explora história de menina falecida",
-          "text": "Burlões usam fotos de Luiza (3 anos, falecida de neuroblastoma em 2025) para pedir 80 mil euros via plataforma falsa tipo GoFundMe. Pagamentos apenas por MB Way. PJ recebeu queixa."
-        }
-      ]
-    },
-    {
-      "emoji": "🎶",
-      "category": "CULTURA & LAZER",
-      "stories": [
-        {
-          "headline": "Rock in Rio Lisboa: faltam 100 dias",
-          "text": "A guitarra icónica de 10 metros chega à 2ª Circular. Novos nomes para 28/06: Matuê no Palco Mundo, Filipe Ret como headliner do Music Valley, mais DENNIS e Irina Barros. Edição a 20, 21, 27 e 28 de junho."
-        },
-        {
-          "headline": "\"Mira à Mesa\" celebra gastronomia da Gândara",
-          "text": "5ª edição nos últimos dois fins de semana de março com 15 espaços aderentes. Destaque para pratos tradicionais como galo velho com arroz, torresmos e sarrabulho."
-        },
-        {
-          "headline": "Museu Nacional Grão Vasco celebra 110 anos",
+          "headline": "Tribunal lê acórdão sobre exploração de imigrantes no Alentejo",
           "text": ""
         }
       ]
     },
     {
-      "emoji": "🪂",
-      "category": "ACIDENTES",
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
       "stories": [
         {
-          "headline": "Espanhol morre em queda de parapente em Sesimbra",
-          "text": "Homem de 69 anos caiu na escarpa junto à praia das Bicas, a norte do Cabo Espichel. Óbito declarado no local. Operações de resgate complicadas por zona de difícil acesso."
+          "headline": "Campanha falsa usa história de menina falecida para pedir dinheiro",
+          "text": "Luiza, uma criança brasileira que morreu de neuroblastoma em 2025, está a ser explorada numa campanha fraudulenta que pede 80 mil euros. A página falsa só aceita MB Way e os dados são todos fabricados. A Polícia Judiciária já recebeu queixa."
+        },
+        {
+          "headline": "Homem morre em queda de parapente em Sesimbra",
+          "text": "Um espanhol de 69 anos morreu junto à praia das Bicas, a norte do Cabo Espichel. O óbito foi declarado no local e o corpo encontrava-se numa zona de difícil acesso."
         }
       ]
     },
     {
-      "emoji": "❤️",
-      "category": "COMUNIDADE",
+      "emoji": "🗳️",
+      "category": "POLÍTICA",
       "stories": [
         {
-          "headline": "Crianças surpreendem bombeiros com desenhos",
-          "text": "Alunos do Jardim de Infância de Oliveira do Hospital entregaram desenhos coloridos com palavras de agradecimento aos bombeiros voluntários locais."
+          "headline": "Militantes do PS votam para reeleger José Luís Carneiro",
+          "text": "Candidato único às diretas, Carneiro concorre perante 39.487 militantes — mais 5 mil que nas últimas eleições. Coimbra vota no sábado. O XXV Congresso está marcado para 27-29 de março em Viseu."
         }
       ]
     }
