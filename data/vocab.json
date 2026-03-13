@@ -6967,6 +6967,94 @@
       "example": "Mira põe-se à mesa para celebrar os sabores da Gândara",
       "example_de": "Mira kommt an den Tisch, um die Aromen der Gândara zu feiern",
       "example_en": "Mira comes to the table to celebrate the flavors of Gândara"
+    },
+    {
+      "pt": "as iguarias",
+      "de": "die Delikatessen",
+      "en": "the delicacies",
+      "example": "As iguarias tradicionais atraem visitantes de toda a região.",
+      "example_de": "Die traditionellen Delikatessen ziehen Besucher aus der ganzen Region an.",
+      "example_en": "The traditional delicacies attract visitors from the entire region."
+    },
+    {
+      "pt": "as vagas",
+      "de": "die Plätze",
+      "en": "the spots/vacancies",
+      "example": "A inscrição é obrigatória e há número limite de vagas.",
+      "example_de": "Die Anmeldung ist Pflicht und die Plätze sind begrenzt.",
+      "example_en": "Registration is mandatory and spots are limited."
+    },
+    {
+      "pt": "a queixa",
+      "de": "die Beschwerde",
+      "en": "the complaint",
+      "example": "A PSP afirmou não ter nenhuma queixa relativa ao caso.",
+      "example_de": "Die Polizei gab an, keine Beschwerde zu dem Fall erhalten zu haben.",
+      "example_en": "The police said they had no complaint about the case."
+    },
+    {
+      "pt": "reeleger",
+      "de": "wiederwählen",
+      "en": "to re-elect",
+      "example": "Os militantes votam para reeleger o secretário-geral.",
+      "example_de": "Die Parteimitglieder stimmen ab, um den Generalsekretär wiederzuwählen.",
+      "example_en": "Party members vote to re-elect the secretary-general."
+    },
+    {
+      "pt": "nublado",
+      "de": "bewölkt",
+      "en": "cloudy",
+      "example": "O sábado será dominado por céu muito nublado.",
+      "example_de": "Der Samstag wird von stark bewölktem Himmel bestimmt.",
+      "example_en": "Saturday will be dominated by very cloudy skies."
+    },
+    {
+      "pt": "graúdo",
+      "de": "erwachsen",
+      "en": "grown-up/big",
+      "example": "O evento convida todos os construtores, miúdos e graúdos.",
+      "example_de": "Die Veranstaltung lädt alle Baumeister ein, Klein und Groß.",
+      "example_en": "The event invites all builders, young and old."
+    },
+    {
+      "pt": "propositadamente",
+      "de": "absichtlich",
+      "en": "on purpose/deliberately",
+      "example": "Visitantes deslocam-se propositadamente para provar as iguarias.",
+      "example_de": "Besucher kommen absichtlich, um die Delikatessen zu probieren.",
+      "example_en": "Visitors come deliberately to taste the delicacies."
+    },
+    {
+      "pt": "a sinistralidade",
+      "de": "die Unfallrate",
+      "en": "the accident rate",
+      "example": "Houve um aumento da sinistralidade associada à micromobilidade.",
+      "example_de": "Es gab einen Anstieg der Unfallrate im Bereich der Mikromobilität.",
+      "example_en": "There was an increase in the accident rate associated with micromobility."
+    },
+    {
+      "pt": "o desassoreamento",
+      "de": "die Entschlammung",
+      "en": "the dredging",
+      "example": "O desassoreamento dos rios custará 11,7 milhões de euros.",
+      "example_de": "Die Entschlammung der Flüsse wird 11,7 Millionen Euro kosten.",
+      "example_en": "The dredging of the rivers will cost 11.7 million euros."
+    },
+    {
+      "pt": "o tijolo",
+      "de": "der Baustein",
+      "en": "the brick",
+      "example": "A loja LEGO convida a brincar com os mais famosos tijolos do mundo.",
+      "example_de": "Der LEGO-Laden lädt ein, mit den berühmtesten Bausteinen der Welt zu spielen.",
+      "example_en": "The LEGO store invites you to play with the world's most famous bricks."
+    },
+    {
+      "pt": "os prejuízos",
+      "de": "die Schäden",
+      "en": "the damages/losses",
+      "example": "As cheias causaram prejuízos de vários milhões de euros.",
+      "example_de": "Die Überschwemmungen verursachten Schäden in Millionenhöhe.",
+      "example_en": "The floods caused damages of several million euros."
     }
   ]
 }
