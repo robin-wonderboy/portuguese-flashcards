@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌊",
+      "category": "RIO MONDEGO & CHEIAS",
+      "stories": [
+        {
+          "headline": "Antigo reitor aponta três causas para cheias do Mondego",
+          "text": "Fernando Seabra Santos identificou falta de manutenção nos diques, falha nos diques sifão (só 1 de 3 funcionou) e acumulação de detritos nas pontes como causas do desastre de fevereiro. A sessão pública decorreu junto ao viaduto da A1 onde o dique rebentou."
+        },
+        {
+          "headline": "Especialistas denunciam obra hidráulica abandonada",
+          "text": "O antigo presidente do LNEC, Carlos Matias Ramos, afirmou que a obra do Baixo Mondego está \"abandonada\" e que sem observação contínua e manutenção, estamos a contribuir para a sua destruição."
+        },
+        {
+          "headline": "Câmara e APA unem-se para obras urgentes no Mondego",
+          "text": "Ana Abrunhosa anunciou um contrato interadministrativo com a Agência Portuguesa do Ambiente para estabilização das margens e desassoreamento do rio, financiado por fundos comunitários."
+        },
+        {
+          "headline": "Reparação do canal de rega arranca na próxima semana",
+          "text": "A APA consignou a obra de reparação do canal de rega do Baixo Mondego (2,9 milhões de euros), com conclusão prevista até 1 de maio para garantir água para a campanha de rega."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Vai chover a potes este sábado em Coimbra",
+          "text": "Sábado com 100% de probabilidade de chuva e temperaturas entre 10-13°C. Domingo melhora significativamente: apenas 20% de chuva e máxima de 18°C."
+        },
+        {
+          "headline": "Portugal em modo gelado este fim de semana",
+          "text": "Aguaceiros no Norte e Centro, rajadas até 60 km/h e neve acima dos 1000m na Serra da Estrela. Domingo traz melhoria gradual com influência do Anticiclone dos Açores."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "30% dos condutores com álcool tinham carta há menos de 3 anos",
+          "text": "A PSP multou 679 condutores por álcool nos primeiros dois meses do ano. Foram detidas 937 pessoas por condução em estado de embriaguez — mais 64 que no mesmo período de 2025."
+        },
+        {
+          "headline": "Burlões usam criança para enganar doadores no Facebook",
+          "text": "Uma campanha falsa \"Ajuda para a Luísa\" voltou a circular, com imagens roubadas de outro contexto. O site fraudulento funciona apenas em telemóveis."
+        },
+        {
+          "headline": "Cidadão agride agente da PSP em Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hospital da Figueira da Foz em obras de requalificação",
+          "text": "O HDFF está a ser modernizado com financiamento do PRR e FEDER. Alguns circuitos de circulação podem estar temporariamente alterados."
+        },
+        {
+          "headline": "Entidade Reguladora da Saúde recebeu 91.553 reclamações em 2025",
+          "text": ""
+        },
+        {
+          "headline": "Liga Contra o Cancro promove curso de Terapia Ocupacional",
+          "text": "Formação online em abril para estudantes, focada na intervenção em contextos oncológicos e nos fatores de risco comportamentais."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Leituras ao domicílio: livros chegam à porta dos idosos",
+          "text": "A segunda edição do projeto do Teatrão e Cáritas arrancou com 25 pares de leitores voluntários que visitam idosos semanalmente, combatendo o isolamento através da leitura."
+        },
+        {
+          "headline": "Fim de semana cultural em Coimbra",
+          "text": "Feira de Artesanato na Praça do Comércio, Gran Duo Italiano, Cláudia Raia com \"Menopausa\" no Convento São Francisco e os 70 anos do Coro Misto da UC no TAGV."
+        },
+        {
+          "headline": "Poesia celebra legado de Nunes Pereira em Montemor-o-Velho",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Casa Havaneza: uma das tabacarias mais antigas do mundo",
+          "text": "Fundada entre 1855-1861 em Lisboa, a Casa Havaneza foi frequentada por Eça de Queirós e outros escritores. Mantém a tradição dos charutos Habanos há mais de 160 anos."
+        }
+      ]
+    }
+  ]
+}
