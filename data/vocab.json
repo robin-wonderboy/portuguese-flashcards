@@ -7056,5 +7056,111 @@
       "example_de": "Die Überschwemmungen verursachten Schäden in Millionenhöhe.",
       "example_en": "The floods caused damages of several million euros."
     }
+  ],
+  "2026-03-14": [
+    {
+      "pt": "transbordar",
+      "de": "überlaufen, überfluten",
+      "en": "to overflow, to flood",
+      "example": "Porque voltou o Mondego a transbordar?",
+      "example_de": "Warum ist der Mondego wieder übergelaufen?",
+      "example_en": "Why did the Mondego overflow again?"
+    },
+    {
+      "pt": "a verba",
+      "de": "die Mittel, das Budget",
+      "en": "the funds, the budget",
+      "example": "Obras financiadas por verbas do PRR",
+      "example_de": "Bauarbeiten finanziert durch Mittel des PRR",
+      "example_en": "Works financed by PRR funds"
+    },
+    {
+      "pt": "oscilar",
+      "de": "schwanken, pendeln",
+      "en": "to fluctuate, to oscillate",
+      "example": "As temperaturas vão oscilar entre 10 e 13 graus",
+      "example_de": "Die Temperaturen werden zwischen 10 und 13 Grad schwanken",
+      "example_en": "Temperatures will fluctuate between 10 and 13 degrees"
+    },
+    {
+      "pt": "o condutor",
+      "de": "der Fahrer, der Autofahrer",
+      "en": "the driver, the motorist",
+      "example": "30% dos condutores apanhados com álcool",
+      "example_de": "30% der mit Alkohol erwischten Fahrer",
+      "example_en": "30% of drivers caught with alcohol"
+    },
+    {
+      "pt": "apanhar",
+      "de": "erwischen, fangen",
+      "en": "to catch, to get caught",
+      "example": "Condutores apanhados com álcool pela PSP",
+      "example_de": "Von der PSP mit Alkohol erwischte Fahrer",
+      "example_en": "Drivers caught with alcohol by the PSP"
+    },
+    {
+      "pt": "gelado",
+      "de": "eiskalt, gefroren",
+      "en": "freezing, icy",
+      "example": "Portugal em modo gelado este fim de semana",
+      "example_de": "Portugal im Eiskalt-Modus an diesem Wochenende",
+      "example_en": "Portugal in freezing mode this weekend"
+    },
+    {
+      "pt": "o artesanato",
+      "de": "das Kunsthandwerk",
+      "en": "the handicrafts, the artisanship",
+      "example": "Feira de Artesanato Urbano na Praça do Comércio",
+      "example_de": "Städtischer Kunsthandwerksmarkt am Praça do Comércio",
+      "example_en": "Urban handicrafts fair at Praça do Comércio"
+    },
+    {
+      "pt": "chover a potes",
+      "de": "in Strömen regnen",
+      "en": "to rain buckets, to pour",
+      "example": "Vai chover a potes neste sábado em Coimbra",
+      "example_de": "Es wird diesen Samstag in Coimbra in Strömen regnen",
+      "example_en": "It will rain buckets this Saturday in Coimbra"
+    },
+    {
+      "pt": "levar a sério",
+      "de": "ernst nehmen",
+      "en": "to take seriously",
+      "example": "Levar a sério o desafio das cheias do Mondego",
+      "example_de": "Die Herausforderung der Mondego-Überschwemmungen ernst nehmen",
+      "example_en": "To take the Mondego flooding challenge seriously"
+    },
+    {
+      "pt": "ao domicílio",
+      "de": "nach Hause, an die Haustür",
+      "en": "to one's home, door-to-door",
+      "example": "Leituras ao domicílio chegam à porta dos idosos",
+      "example_de": "Vorlesen an der Haustür erreicht die Senioren",
+      "example_en": "Home readings reach the elderly's doorstep"
+    },
+    {
+      "pt": "combater",
+      "de": "bekämpfen, entgegenwirken",
+      "en": "to combat, to fight against",
+      "example": "Combater o isolamento de pessoas de maior idade",
+      "example_de": "Die Isolation älterer Menschen bekämpfen",
+      "example_en": "To combat the isolation of elderly people"
+    },
+    {
+      "pt": "a reclamação",
+      "de": "die Beschwerde, die Reklamation",
+      "en": "the complaint",
+      "example": "Entidade Reguladora com 91.553 reclamações em 2025",
+      "example_de": "Regulierungsbehörde mit 91.553 Beschwerden im Jahr 2025",
+      "example_en": "Regulatory body with 91,553 complaints in 2025"
+    },
+    {
+      "pt": "o utente",
+      "de": "der Nutzer, der Patient",
+      "en": "the user, the patient",
+      "example": "Os utentes podem solicitar informações no hospital",
+      "example_de": "Die Patienten können im Krankenhaus Informationen anfordern",
+      "example_en": "Patients can request information at the hospital"
+    }
   ]
 }
