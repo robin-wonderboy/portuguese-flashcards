@@ -1,0 +1,110 @@
+{
+  "date": "2026-03-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏅",
+      "category": "CIÊNCIA & PRESTÍGIO",
+      "stories": [
+        {
+          "headline": "Cientista de Cantanhede escolhido para comité do Nobel da Medicina",
+          "text": "Gonçalo Castelo-Branco, professor no Instituto Karolinska na Suécia, foi eleito para o Comité do Prémio Nobel da Fisiologia ou Medicina. O investigador com dupla nacionalidade portuguesa e sueca é especialista em Biologia de Células Gliais. O Comité tem cinco membros eleitos por mandatos de três anos e é responsável pela seleção dos laureados."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & REGIÃO",
+      "stories": [
+        {
+          "headline": "Estrada em Condeixa em risco de colapso",
+          "text": "A EN1-7 que liga Condeixa a Taveiro está interdita a veículos pesados por risco iminente de colapso. O piso mais degradado situa-se na localidade do Avenal, com circulação condicionada entre a Rotunda do Amadeu no IC2 e Anobra."
+        },
+        {
+          "headline": "Acidente com o Metrobus na Av. Emídio Navarro",
+          "text": "Colisão entre o metrobus e um veículo ligeiro que ficou atravessado na via. A circulação esteve condicionada durante algum tempo."
+        }
+      ]
+    },
+    {
+      "emoji": "🧀",
+      "category": "GASTRONOMIA & FEIRAS",
+      "stories": [
+        {
+          "headline": "Feira do Fumeiro de regresso ao Quartel de Santana",
+          "text": "A 4ª edição da Feira do Fumeiro arrancou no sábado e prolonga-se até hoje, domingo. Participam 16 entidades incluindo 11 produtores de fumeiro, cerveja artesanal Práxis, mel Ouro Doce e gin de Coimbra. Entrada gratuita, hoje das 10h às 18h."
+        },
+        {
+          "headline": "Queijo Corno — o queijo 'rijo que nem corno'",
+          "text": "Na Feira do Fumeiro, a banca do Fumeiro do Mondego (Penacova) destaca-se pelo curioso 'queijo corno', batizado assim porque é 'rijo que nem corno'. Há promoções de cinco peças à escolha por 10 euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🧱",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Primeira loja certificada LEGO abre no Fórum Coimbra",
+          "text": "Coimbra recebeu a sua primeira Loja Certificada LEGO com 200 m². A grande atração é um mural da cidade com 32.071 peças, 2,89m de altura e 42 quilos — 90 horas de trabalho. É a primeira expansão da marca fora de Lisboa e Porto."
+        },
+        {
+          "headline": "Góis oferece visitas guiadas gratuitas ao património",
+          "text": "O Município de Góis disponibiliza visitas guiadas gratuitas com agendamento prévio para grupos organizados, com acompanhamento técnico especializado do Posto de Turismo Municipal."
+        }
+      ]
+    },
+    {
+      "emoji": "🛶",
+      "category": "AVENTURA & NATUREZA",
+      "stories": [
+        {
+          "headline": "Grande Rota do Zêzere em kayak — quase 100 km de travessia",
+          "text": "Arranca hoje a primeira etapa da Travessia da Grande Rota do Zêzere em kayak, entre Barco (Covilhã) e Silvares (Fundão). São seis descidas fluviais que perfazem quase 100 km, com pernoitas nas margens do rio. O programa estende-se até maio."
+        }
+      ]
+    },
+    {
+      "emoji": "🦸",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "'Foi um herói' — português morre em incêndio de autocarro na Suíça",
+          "text": "Albino Azevedo, emigrante de 63 anos natural de Santa Maria da Feira, morreu após um passageiro se imolar num autocarro postal perto de Friburgo. O motorista arriscou a vida para salvar passageiros. A filha descreveu-o como 'um herói que fez tudo ao seu alcance'. O incêndio causou 6 mortos e 5 feridos."
+        },
+        {
+          "headline": "Colisão de motociclos faz 1 morto no Crato",
+          "text": "Um homem de 38 anos morreu e outro de 25 ficou gravemente ferido numa colisão entre dois motociclos numa estrada de terra batida durante uma prova de motas todo-o-terreno no concelho do Crato."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Neto detido por violência doméstica contra avó de 64 anos",
+          "text": "Um homem de 20 anos foi detido pela PSP de Leiria por violência doméstica contra a avó. Empurrou-a contra a parede e ameaçou-a de morte. Foi-lhe aplicada medida de afastamento e proibição de contactos."
+        },
+        {
+          "headline": "Burlões usam criança para enganar doadores no Facebook",
+          "text": "Campanha falsa 'Ajuda para a Luísa' circula no Facebook com fotos roubadas de outro contexto. O esquema imita o GoFundMe para roubar dinheiro a quem quer ajudar."
+        },
+        {
+          "headline": "Polícia propõe tabela remuneratória 'justa' ao Governo",
+          "text": "A ASPP/PSP entregou um caderno reivindicativo ao Governo com propostas para uma tabela remuneratória digna e a classificação da profissão como de desgaste rápido."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Beber água durante refeições: ajuda ou atrapalha?",
+          "text": "Especialistas garantem que pequenos goles de água durante as refeições não prejudicam a digestão. A água ajuda a amolecer os alimentos e a controlar a saciedade, mas quem tem problemas gastrointestinais deve moderar."
+        }
+      ]
+    }
+  ]
+}
