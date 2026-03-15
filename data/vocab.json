@@ -7162,5 +7162,119 @@
       "example_de": "Die Patienten können im Krankenhaus Informationen anfordern",
       "example_en": "Patients can request information at the hospital"
     }
+  ],
+  "2026-03-15": [
+    {
+      "pt": "o galardão",
+      "de": "die Auszeichnung, der Preis",
+      "en": "the award, the prize",
+      "example": "O Comité é responsável pela seleção do galardão",
+      "example_de": "Das Komitee ist für die Auswahl der Auszeichnung zuständig",
+      "example_en": "The committee is responsible for selecting the award"
+    },
+    {
+      "pt": "condicionado",
+      "de": "eingeschränkt, bedingt",
+      "en": "restricted, limited",
+      "example": "A circulação esteve condicionada na avenida",
+      "example_de": "Der Verkehr war auf der Allee eingeschränkt",
+      "example_en": "Traffic was restricted on the avenue"
+    },
+    {
+      "pt": "o fumeiro",
+      "de": "die Räucherwaren",
+      "en": "smoked meats, smokehouse",
+      "example": "A Feira do Fumeiro está de regresso a Coimbra",
+      "example_de": "Die Räucherwaren-Messe ist zurück in Coimbra",
+      "example_en": "The Smoked Meats Fair is back in Coimbra"
+    },
+    {
+      "pt": "rijo",
+      "de": "hart, zäh, robust",
+      "en": "tough, hard, sturdy",
+      "example": "O queijo é rijo que nem corno",
+      "example_de": "Der Käse ist steinhart",
+      "example_en": "The cheese is tough as nails"
+    },
+    {
+      "pt": "a degustação",
+      "de": "die Verkostung",
+      "en": "the tasting, the degustation",
+      "example": "As bancas convidam à degustação de enchidos",
+      "example_de": "Die Stände laden zur Verkostung von Wurstwaren ein",
+      "example_en": "The stalls invite you to taste the cured meats"
+    },
+    {
+      "pt": "a travessia",
+      "de": "die Überquerung, die Durchquerung",
+      "en": "the crossing, the traversal",
+      "example": "A Travessia da Grande Rota do Zêzere arranca em março",
+      "example_de": "Die Durchquerung der Großen Zêzere-Route beginnt im März",
+      "example_en": "The Great Zêzere Route crossing starts in March"
+    },
+    {
+      "pt": "a pernoita",
+      "de": "die Übernachtung",
+      "en": "the overnight stay",
+      "example": "O percurso inclui uma pernoita nas margens do rio",
+      "example_de": "Die Strecke beinhaltet eine Übernachtung am Flussufer",
+      "example_en": "The route includes an overnight stay on the riverbank"
+    },
+    {
+      "pt": "arriscar",
+      "de": "riskieren, wagen",
+      "en": "to risk, to dare",
+      "example": "Arriscou a própria vida para proteger os outros",
+      "example_de": "Er riskierte sein eigenes Leben, um andere zu schützen",
+      "example_en": "He risked his own life to protect others"
+    },
+    {
+      "pt": "o alcance",
+      "de": "die Reichweite",
+      "en": "the reach, the scope",
+      "example": "Fez tudo o que estava ao seu alcance",
+      "example_de": "Er tat alles, was in seiner Reichweite lag",
+      "example_en": "He did everything within his reach"
+    },
+    {
+      "pt": "o afastamento",
+      "de": "die Fernhaltung, der Abstand",
+      "en": "the restraining order, the distancing",
+      "example": "Foi aplicada a medida de afastamento",
+      "example_de": "Es wurde eine Fernhaltungsmaßnahme verhängt",
+      "example_en": "A restraining measure was applied"
+    },
+    {
+      "pt": "a saciedade",
+      "de": "die Sättigung, das Sattgefühl",
+      "en": "the satiety, the fullness",
+      "example": "A água ajuda a controlar a saciedade",
+      "example_de": "Wasser hilft, das Sättigungsgefühl zu kontrollieren",
+      "example_en": "Water helps control the feeling of fullness"
+    },
+    {
+      "pt": "reivindicativo",
+      "de": "fordernd",
+      "en": "demanding, claiming",
+      "example": "A ASPP entregou o caderno reivindicativo ao Governo",
+      "example_de": "Die ASPP überreichte dem Staat den Forderungskatalog",
+      "example_en": "The police association submitted their list of demands to the government"
+    },
+    {
+      "pt": "de terra batida",
+      "de": "unbefestigt, Schotter-",
+      "en": "unpaved, dirt (road)",
+      "example": "O acidente ocorreu numa estrada de terra batida",
+      "example_de": "Der Unfall ereignete sich auf einer unbefestigten Straße",
+      "example_en": "The accident happened on a dirt road"
+    },
+    {
+      "pt": "amolecer",
+      "de": "weich machen, erweichen",
+      "en": "to soften",
+      "example": "A água ajuda a amolecer os alimentos",
+      "example_de": "Wasser hilft, die Nahrung aufzuweichen",
+      "example_en": "Water helps soften the food"
+    }
   ]
 }
