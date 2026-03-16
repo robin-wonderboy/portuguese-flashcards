@@ -7389,6 +7389,134 @@
       "example": "Espera-se um aumento da nebulosidade durante a tarde",
       "example_de": "Am Nachmittag wird eine Zunahme der Bewölkung erwartet",
       "example_en": "An increase in cloud cover is expected in the afternoon"
+    },
+    {
+      "pt": "o sindicato",
+      "de": "die Gewerkschaft",
+      "en": "trade union",
+      "example": "O ministro reuniu-se com os sindicatos da PSP",
+      "example_de": "Der Minister traf sich mit den Gewerkschaften der PSP",
+      "example_en": "The minister met with the PSP unions"
+    },
+    {
+      "pt": "a perseguição",
+      "de": "die Verfolgung, das Mobbing",
+      "en": "harassment, persecution",
+      "example": "Ela sofreu perseguição no local de trabalho",
+      "example_de": "Sie wurde am Arbeitsplatz gemobbt",
+      "example_en": "She suffered harassment at work"
+    },
+    {
+      "pt": "a denúncia",
+      "de": "die Anzeige, die Anschuldigung",
+      "en": "accusation, report",
+      "example": "A falsa denúncia arrasou a carreira do realizador",
+      "example_de": "Die falsche Anschuldigung zerstörte die Karriere des Regisseurs",
+      "example_en": "The false accusation destroyed the director's career"
+    },
+    {
+      "pt": "auscultar",
+      "de": "anhören, befragen",
+      "en": "to consult, to sound out",
+      "example": "O ministro quer auscultar as prioridades dos polícias",
+      "example_de": "Der Minister will die Prioritäten der Polizisten anhören",
+      "example_en": "The minister wants to hear the police's priorities"
+    },
+    {
+      "pt": "ligeiro",
+      "de": "leicht, geringfügig",
+      "en": "light, slight, minor",
+      "example": "Os dois feridos sofreram ferimentos ligeiros",
+      "example_de": "Die beiden Verletzten erlitten leichte Verletzungen",
+      "example_en": "The two injured suffered minor injuries"
+    },
+    {
+      "pt": "a desobstrução",
+      "de": "die Räumung, die Freimachung",
+      "en": "clearing, unblocking",
+      "example": "Estão a fazer a desobstrução dos caminhos florestais",
+      "example_de": "Sie räumen die Waldwege frei",
+      "example_en": "They are clearing the forest paths"
+    },
+    {
+      "pt": "os aguaceiros",
+      "de": "die Regenschauer",
+      "en": "rain showers",
+      "example": "Poderão ocorrer aguaceiros dispersos esta semana",
+      "example_de": "Es könnte vereinzelte Regenschauer geben diese Woche",
+      "example_en": "There may be scattered showers this week"
+    },
+    {
+      "pt": "o pré-aviso",
+      "de": "die Vorankündigung",
+      "en": "advance notice",
+      "example": "O sindicato entregou o pré-aviso de greve",
+      "example_de": "Die Gewerkschaft reichte die Streikvorankündigung ein",
+      "example_en": "The union submitted the strike notice"
+    },
+    {
+      "pt": "o argumento",
+      "de": "das Drehbuch",
+      "en": "screenplay (PT), argument",
+      "example": "Ganhou o Óscar de Melhor Argumento Original",
+      "example_de": "Er gewann den Oscar für das Beste Originaldrehbuch",
+      "example_en": "He won the Oscar for Best Original Screenplay"
+    },
+    {
+      "pt": "o adubo",
+      "de": "der Dünger",
+      "en": "fertilizer",
+      "example": "O adubo na garagem libertou gases tóxicos",
+      "example_de": "Der Dünger in der Garage setzte giftige Gase frei",
+      "example_en": "The fertilizer in the garage released toxic gases"
+    },
+    {
+      "pt": "a freguesia",
+      "de": "die Gemeinde, die Pfarrgemeinde",
+      "en": "parish, municipality",
+      "example": "O evento aconteceu nesta freguesia da Lousã",
+      "example_de": "Die Veranstaltung fand in dieser Gemeinde von Lousã statt",
+      "example_en": "The event took place in this parish of Lousã"
+    },
+    {
+      "pt": "emocionado",
+      "de": "gerührt, bewegt",
+      "en": "moved, emotional",
+      "example": "Markl ficou visivelmente emocionado com a mensagem",
+      "example_de": "Markl war sichtlich gerührt von der Nachricht",
+      "example_en": "Markl was visibly moved by the message"
+    },
+    {
+      "pt": "o realizador",
+      "de": "der Regisseur",
+      "en": "film director",
+      "example": "O realizador português venceu o IndieLisboa",
+      "example_de": "Der portugiesische Regisseur gewann das IndieLisboa",
+      "example_en": "The Portuguese director won IndieLisboa"
+    },
+    {
+      "pt": "o combustível",
+      "de": "der Brennstoff, der Treibstoff",
+      "en": "fuel, combustible material",
+      "example": "A limpeza reduz a carga de combustível florestal",
+      "example_de": "Die Reinigung reduziert die Menge an brennbarem Waldmaterial",
+      "example_en": "Cleaning reduces the forest fuel load"
+    },
+    {
+      "pt": "a baixa médica",
+      "de": "die Krankschreibung",
+      "en": "sick leave",
+      "example": "A trabalhadora ficou de baixa médica por depressão",
+      "example_de": "Die Arbeitnehmerin war wegen Depression krankgeschrieben",
+      "example_en": "The worker went on sick leave due to depression"
+    },
+    {
+      "pt": "retirar",
+      "de": "entziehen, wegnehmen",
+      "en": "to withdraw, to remove",
+      "example": "Retiraram-lhe as competências profissionais",
+      "example_de": "Man entzog ihr die beruflichen Zuständigkeiten",
+      "example_en": "They withdrew her professional responsibilities"
     }
   ]
 }
