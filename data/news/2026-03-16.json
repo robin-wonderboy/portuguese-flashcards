@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Sol, poeiras, chuva e trovoada: semana primaveril instável",
+          "text": "A semana começa com céu limpo e temperaturas acima dos 20°C, mas um ciclone entre os Açores e a Madeira pode trazer poeiras, nebulosidade e aguaceiros a partir de quarta-feira. Possível trovoada no final da semana, embora sem episódio severo previsto para o continente."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CINEMA",
+      "stories": [
+        {
+          "headline": "Óscares 2026: \"Batalha Atrás de Batalha\" grande vencedor",
+          "text": "O filme de Paul Thomas Anderson dominou a 98.ª edição dos Óscares com Melhor Filme, Realização, Argumento Adaptado, Montagem e Casting. Sean Penn levou Melhor Ator Secundário. Michael B. Jordan venceu Melhor Ator por \"Pecadores\" e Jessie Buckley Melhor Atriz por \"Hamnet\"."
+        }
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "category": "GASTRONOMIA & LOUSÃ",
+      "stories": [
+        {
+          "headline": "\"Maior sarrabulho do mundo\" dá mote para festival gastronómico",
+          "text": "Foz de Arouce, na Lousã, preparou o \"maior sarrabulho do mundo\" e o sucesso do evento inspira agora um novo Festival do Sarrabulho e do Peixe do Rio. A semana gastronómica, prevista para o verão, quer reavivar as tradições culinárias da região e atrair turismo."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & REGIÃO",
+      "stories": [
+        {
+          "headline": "Incêndio em garagem em Cernache faz dois feridos",
+          "text": "Um incêndio deflagrou numa garagem na freguesia de Cernache, em Coimbra. Gases tóxicos libertados por adubo e outros materiais complicaram o combate. Um homem de 61 anos foi transportado ao hospital; um segundo ferido, de 36 anos, recusou transporte. 19 operacionais estiveram no local."
+        },
+        {
+          "headline": "Sanitários de Cantanhede destruídos pelas chamas",
+          "text": "As chamas começaram nos sanitários públicos de Cantanhede por volta das 08:45 de domingo. Os bombeiros controlaram rapidamente o fogo. Sem feridos, mas as instalações foram encerradas para avaliação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "category": "PREVENÇÃO FLORESTAL",
+      "stories": [
+        {
+          "headline": "40 km de caminhos florestais limpos em Montemor-o-Velho",
+          "text": "Equipas de Sapadores Florestais estão a desobstruir 40 quilómetros de rede viária florestal em Montemor-o-Velho, após estragos da depressão Kristin. Os trabalhos incluem corte de mato e remoção de árvores caídas para reforçar a prevenção de incêndios antes do verão."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Funcionária acusa comandante de bombeiros de humilhação",
+          "text": "Uma trabalhadora dos Bombeiros Sapadores de Braga levou o comandante a tribunal por alegada perseguição e humilhação. Diz ter sido isolada nas refeições, vigiada por câmara e separada dos colegas por uma divisória de vidro. O caso está a ser julgado no Tribunal de Braga."
+        },
+        {
+          "headline": "Queda de helicóptero no Douro continua sem decisão",
+          "text": "A investigação sobre a queda do helicóptero que matou 5 militares da GNR em agosto de 2024 no rio Douro avança lentamente. O piloto foi constituído arguido por homicídio negligente. Perícias indicam que não houve falhas mecânicas — a causa terá sido erro humano."
+        },
+        {
+          "headline": "Falsa denúncia arrasa carreira de realizador português",
+          "text": "Ico Costa, vencedor do IndieLisboa 2024, viu a carreira abalada por uma acusação falsa de violência doméstica enviada por email. A alegada vítima nunca apareceu e pode nem existir. O festival cancelou os seus filmes sem verificação. A longa-metragem \"Balane 3\" só estreou quase um ano depois."
+        }
+      ]
+    },
+    {
+      "emoji": "👮",
+      "category": "POLÍCIA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Ministro reúne-se com sindicatos da PSP e GNR pela primeira vez",
+          "text": "Luís Neves, novo ministro da Administração Interna, reúne-se hoje com os 16 sindicatos da PSP e 6 associações da GNR para auscultação de medidas prioritárias. A ASPP, maior sindicato da PSP, já apresentou o caderno reivindicativo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Técnicos de emergência pré-hospitalar em greve a partir de 31 de março",
+          "text": "O sindicato STEPH convocou greve ao trabalho administrativo por tempo indeterminado contra a retirada de competências e falta de cumprimento dos acordos de formação. A paralisação abrange trabalho não urgente e lavagem de viaturas, mantendo os serviços de emergência."
+        },
+        {
+          "headline": "Sobreviventes da Covid-19 ainda não sentem o sabor da comida",
+          "text": "Cientistas encontraram a primeira evidência biológica para a perda de paladar prolongada pós-Covid. Biópsias revelam redução da proteína PLCβ2 nas papilas gustativas, tornando a comida insípida. Os sabores doce, amargo e umami são os mais afetados."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "A1 condicionada após colisão de três veículos",
+          "text": "Colisão entre três veículos ligeiros ao km 75 da A1, perto de Póvoa de Santarém, causou dois feridos ligeiros e uma pessoa a ser desencarcerada. Circulação condicionada no sentido Sul-Norte."
+        },
+        {
+          "headline": "Nuno Markl recebe mensagem de Jack Black após AVC",
+          "text": "O locutor da Rádio Comercial revelou que, após sofrer dois AVCs em novembro de 2025, recebeu uma mensagem de apoio de Jack Black graças à atriz portuguesa Daniela Melchior, que estava com o ator em Hollywood."
+        },
+        {
+          "headline": "Ciclista resgatado de helicóptero na Serra d'Arga",
+          "text": "Um ciclista de 45 anos caiu no bike park de Estorãos, em Ponte de Lima, e foi resgatado pela Força Aérea de um local de difícil acesso. Transportado em estado grave para o Hospital de Viana do Castelo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA",
+      "stories": [
+        {
+          "headline": "Martim Sousa Tavares apresenta \"Ponto de Fuga\" na Lousã",
+          "text": "No dia 11 de abril, o Teatro da Lousã recebe o espetáculo que mistura stand-up com exploração das artes — música, cinema, poesia e pintura. Bilhetes a 10€, duração de 90 minutos."
+        }
+      ]
+    }
+  ]
+}
