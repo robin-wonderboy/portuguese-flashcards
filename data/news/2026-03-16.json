@@ -3,12 +3,12 @@
   "source": "noticiasdecoimbra.pt",
   "sections": [
     {
-      "emoji": "🌤️",
+      "emoji": "☀️",
       "category": "METEOROLOGIA",
       "stories": [
         {
-          "headline": "Sol, poeiras, chuva e trovoada: semana primaveril instável",
-          "text": "A semana começa com céu limpo e temperaturas acima dos 20°C, mas um ciclone entre os Açores e a Madeira pode trazer poeiras, nebulosidade e aguaceiros a partir de quarta-feira. Possível trovoada no final da semana, embora sem episódio severo previsto para o continente."
+          "headline": "Sol, poeiras, chuva e trovoada: semana de contrastes",
+          "text": "A semana promete variações típicas da primavera. Hoje segunda-feira espera-se céu limpo com temperaturas acima dos 20°C. A partir de quarta-feira poderão surgir poeiras do Saara, aguaceiros e até trovoada, sobretudo no litoral centro e sul. Um ciclone em formação entre os Açores e a Madeira poderá influenciar o tempo, embora a evolução ainda seja incerta."
         }
       ]
     },
@@ -17,60 +17,8 @@
       "category": "CINEMA",
       "stories": [
         {
-          "headline": "Óscares 2026: \"Batalha Atrás de Batalha\" grande vencedor",
-          "text": "O filme de Paul Thomas Anderson dominou a 98.ª edição dos Óscares com Melhor Filme, Realização, Argumento Adaptado, Montagem e Casting. Sean Penn levou Melhor Ator Secundário. Michael B. Jordan venceu Melhor Ator por \"Pecadores\" e Jessie Buckley Melhor Atriz por \"Hamnet\"."
-        }
-      ]
-    },
-    {
-      "emoji": "🍲",
-      "category": "GASTRONOMIA & LOUSÃ",
-      "stories": [
-        {
-          "headline": "\"Maior sarrabulho do mundo\" dá mote para festival gastronómico",
-          "text": "Foz de Arouce, na Lousã, preparou o \"maior sarrabulho do mundo\" e o sucesso do evento inspira agora um novo Festival do Sarrabulho e do Peixe do Rio. A semana gastronómica, prevista para o verão, quer reavivar as tradições culinárias da região e atrair turismo."
-        }
-      ]
-    },
-    {
-      "emoji": "🔥",
-      "category": "INCÊNDIOS & REGIÃO",
-      "stories": [
-        {
-          "headline": "Incêndio em garagem em Cernache faz dois feridos",
-          "text": "Um incêndio deflagrou numa garagem na freguesia de Cernache, em Coimbra. Gases tóxicos libertados por adubo e outros materiais complicaram o combate. Um homem de 61 anos foi transportado ao hospital; um segundo ferido, de 36 anos, recusou transporte. 19 operacionais estiveram no local."
-        },
-        {
-          "headline": "Sanitários de Cantanhede destruídos pelas chamas",
-          "text": "As chamas começaram nos sanitários públicos de Cantanhede por volta das 08:45 de domingo. Os bombeiros controlaram rapidamente o fogo. Sem feridos, mas as instalações foram encerradas para avaliação."
-        }
-      ]
-    },
-    {
-      "emoji": "🌲",
-      "category": "PREVENÇÃO FLORESTAL",
-      "stories": [
-        {
-          "headline": "40 km de caminhos florestais limpos em Montemor-o-Velho",
-          "text": "Equipas de Sapadores Florestais estão a desobstruir 40 quilómetros de rede viária florestal em Montemor-o-Velho, após estragos da depressão Kristin. Os trabalhos incluem corte de mato e remoção de árvores caídas para reforçar a prevenção de incêndios antes do verão."
-        }
-      ]
-    },
-    {
-      "emoji": "⚖️",
-      "category": "JUSTIÇA",
-      "stories": [
-        {
-          "headline": "Funcionária acusa comandante de bombeiros de humilhação",
-          "text": "Uma trabalhadora dos Bombeiros Sapadores de Braga levou o comandante a tribunal por alegada perseguição e humilhação. Diz ter sido isolada nas refeições, vigiada por câmara e separada dos colegas por uma divisória de vidro. O caso está a ser julgado no Tribunal de Braga."
-        },
-        {
-          "headline": "Queda de helicóptero no Douro continua sem decisão",
-          "text": "A investigação sobre a queda do helicóptero que matou 5 militares da GNR em agosto de 2024 no rio Douro avança lentamente. O piloto foi constituído arguido por homicídio negligente. Perícias indicam que não houve falhas mecânicas — a causa terá sido erro humano."
-        },
-        {
-          "headline": "Falsa denúncia arrasa carreira de realizador português",
-          "text": "Ico Costa, vencedor do IndieLisboa 2024, viu a carreira abalada por uma acusação falsa de violência doméstica enviada por email. A alegada vítima nunca apareceu e pode nem existir. O festival cancelou os seus filmes sem verificação. A longa-metragem \"Balane 3\" só estreou quase um ano depois."
+          "headline": "Óscares 2026: \"Batalha Atrás de Batalha\" domina",
+          "text": "A 98.ª edição dos Óscares coroou \"Batalha Atrás de Batalha\" de Paul Thomas Anderson como Melhor Filme, Realização, Ator Secundário (Sean Penn), Argumento Adaptado, Montagem e Casting. \"Pecadores\" de Ryan Coogler levou Melhor Ator (Michael B. Jordan), Argumento Original, Fotografia e Banda Sonora. Jessie Buckley ganhou Melhor Atriz por \"Hamnet\"."
         }
       ]
     },
@@ -80,49 +28,101 @@
       "stories": [
         {
           "headline": "Ministro reúne-se com sindicatos da PSP e GNR pela primeira vez",
-          "text": "Luís Neves, novo ministro da Administração Interna, reúne-se hoje com os 16 sindicatos da PSP e 6 associações da GNR para auscultação de medidas prioritárias. A ASPP, maior sindicato da PSP, já apresentou o caderno reivindicativo."
+          "text": "Luís Neves, novo ministro da Administração Interna, recebe hoje os 16 sindicatos da PSP e 6 associações da GNR para auscultar prioridades. O maior sindicato (ASPP) tinha abandonado negociações com a ministra anterior por incumprimento do acordo de revisão remuneratória de 2024."
+        },
+        {
+          "headline": "Queda de helicóptero no Douro continua sem decisão",
+          "text": "A investigação sobre o acidente de agosto de 2024 que matou 5 militares da GNR avança devagar. O piloto, único sobrevivente, foi constituído arguido por cinco crimes de homicídio por negligência. Perícias indicam que não houve falha mecânica — a queda terá resultado de erro de operação."
         }
       ]
     },
     {
-      "emoji": "🏥",
+      "emoji": "⚕️",
       "category": "SAÚDE",
       "stories": [
         {
-          "headline": "Técnicos de emergência pré-hospitalar em greve a partir de 31 de março",
-          "text": "O sindicato STEPH convocou greve ao trabalho administrativo por tempo indeterminado contra a retirada de competências e falta de cumprimento dos acordos de formação. A paralisação abrange trabalho não urgente e lavagem de viaturas, mantendo os serviços de emergência."
+          "headline": "Técnicos de emergência do INEM em greve a partir de 31 de março",
+          "text": "O STEPH convocou greve ao trabalho administrativo por tempo indeterminado, contra a retirada de competências e o incumprimento de compromissos na formação. Em 2024 uma greve semelhante coincidiu com a greve geral da função pública, tendo a inspeção associado pelo menos 3 óbitos aos atrasos do INEM."
         },
         {
-          "headline": "Sobreviventes da Covid-19 ainda não sentem o sabor da comida",
-          "text": "Cientistas encontraram a primeira evidência biológica para a perda de paladar prolongada pós-Covid. Biópsias revelam redução da proteína PLCβ2 nas papilas gustativas, tornando a comida insípida. Os sabores doce, amargo e umami são os mais afetados."
+          "headline": "Sobreviventes da Covid ainda sem paladar",
+          "text": "Cientistas identificaram pela primeira vez a causa biológica: uma redução da proteína PLCβ2 nas papilas gustativas impede que os sinais de sabor cheguem ao cérebro. Os sabores doce, amargo e umami são os mais afetados."
         }
       ]
     },
     {
-      "emoji": "🇵🇹",
-      "category": "PORTUGAL",
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Incêndio em garagem em Cernache (Coimbra) faz dois feridos",
+          "text": "Um incêndio numa garagem na freguesia de Cernache ontem à tarde causou dois feridos ligeiros. A presença de adubo e materiais combustíveis libertou gases tóxicos, dificultando o combate. O anexo ficou destruído. 19 operacionais e 6 veículos foram mobilizados."
+        },
+        {
+          "headline": "Habitação e anexo destruídos no Montijo",
+          "text": "Um incêndio de madrugada destruiu uma habitação e anexo em Canha, sem causar vítimas. As causas são desconhecidas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Funcionária acusa comandante de bombeiros de humilhação",
+          "text": "Uma trabalhadora dos Bombeiros Sapadores de Braga levou o comandante a tribunal por perseguição no trabalho. Foi isolada nas refeições, separada por divisória de vidro e vigiada por câmara. Colocada na corporação como vítima de violência doméstica, acabou por desenvolver depressão e ficar de baixa médica."
+        },
+        {
+          "headline": "Falsa denúncia arrasa carreira de realizador português",
+          "text": "Ico Costa, vencedor do IndieLisboa 2024, viu a carreira destruída por uma acusação anónima de violência doméstica que se revelou falsa — a alegada vítima nem existe. O IndieLisboa cancelou os seus filmes sem verificação. A longa \"Balane 3\" só estreou em fevereiro de 2026, quase um ano depois."
+        }
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "category": "GASTRONOMIA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Lousã: sucesso do \"maior sarrabulho do mundo\" inspira novo festival",
+          "text": "Foz de Arouce prepara o Festival do Sarrabulho e do Peixe do Rio para o verão. A presidente da freguesia quer reavivar a tradição do peixe de rio e atrair turismo gastronómico à região."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRÂNSITO & ACIDENTES",
       "stories": [
         {
           "headline": "A1 condicionada após colisão de três veículos",
-          "text": "Colisão entre três veículos ligeiros ao km 75 da A1, perto de Póvoa de Santarém, causou dois feridos ligeiros e uma pessoa a ser desencarcerada. Circulação condicionada no sentido Sul-Norte."
-        },
-        {
-          "headline": "Nuno Markl recebe mensagem de Jack Black após AVC",
-          "text": "O locutor da Rádio Comercial revelou que, após sofrer dois AVCs em novembro de 2025, recebeu uma mensagem de apoio de Jack Black graças à atriz portuguesa Daniela Melchior, que estava com o ator em Hollywood."
+          "text": "Colisão de madrugada entre três veículos ligeiros perto da Póvoa de Santarém. Dois feridos ligeiros e uma pessoa a ser desencarcerada. A circulação no sentido Sul-Norte ficou condicionada."
         },
         {
           "headline": "Ciclista resgatado de helicóptero na Serra d'Arga",
-          "text": "Um ciclista de 45 anos caiu no bike park de Estorãos, em Ponte de Lima, e foi resgatado pela Força Aérea de um local de difícil acesso. Transportado em estado grave para o Hospital de Viana do Castelo."
+          "text": "Um ciclista de 45 anos caiu num local de difícil acesso no bike park de Estorãos (Ponte de Lima) e foi resgatado pela Força Aérea em estado grave."
+        }
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "category": "AMBIENTE & PREVENÇÃO",
+      "stories": [
+        {
+          "headline": "40 km de caminhos florestais limpos em Montemor-o-Velho",
+          "text": "Equipas de sapadores florestais estão a fazer a desobstrução de caminhos após os estragos da depressão Kristin. A limpeza de mato e árvores caídas reforça a prevenção de incêndios e facilita o acesso de meios de emergência."
         }
       ]
     },
     {
       "emoji": "🎭",
-      "category": "CULTURA",
+      "category": "CULTURA & CELEBRIDADES",
       "stories": [
         {
+          "headline": "Nuno Markl recebeu mensagem de Jack Black após AVC",
+          "text": "Na Rádio Comercial, Markl revelou emocionado que a atriz Daniela Melchior, estando em Hollywood com Jack Black, conseguiu que o ator lhe enviasse uma mensagem de melhoras após os dois AVCs em novembro de 2025."
+        },
+        {
           "headline": "Martim Sousa Tavares apresenta \"Ponto de Fuga\" na Lousã",
-          "text": "No dia 11 de abril, o Teatro da Lousã recebe o espetáculo que mistura stand-up com exploração das artes — música, cinema, poesia e pintura. Bilhetes a 10€, duração de 90 minutos."
+          "text": "A 11 de abril, o Teatro da Lousã recebe o espetáculo que combina stand-up com exploração de música, cinema, poesia e pintura. Bilhetes a 10€."
         }
       ]
     }
