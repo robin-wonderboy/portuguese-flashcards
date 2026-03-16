@@ -7276,5 +7276,119 @@
       "example_de": "Wasser hilft, die Nahrung aufzuweichen",
       "example_en": "Water helps soften the food"
     }
+  ],
+  "2026-03-16": [
+    {
+      "pt": "o sarrabulho",
+      "de": "der Blutbrei (traditionelles Gericht)",
+      "en": "blood stew (traditional dish)",
+      "example": "Foz de Arouce preparou o maior sarrabulho do mundo",
+      "example_de": "Foz de Arouce bereitete den größten Blutbrei der Welt zu",
+      "example_en": "Foz de Arouce prepared the world's largest blood stew"
+    },
+    {
+      "pt": "a humilhação",
+      "de": "die Demütigung",
+      "en": "humiliation",
+      "example": "Funcionária acusa comandante de humilhação no trabalho",
+      "example_de": "Mitarbeiterin wirft dem Kommandanten Demütigung bei der Arbeit vor",
+      "example_en": "Employee accuses commander of workplace humiliation"
+    },
+    {
+      "pt": "a auscultação",
+      "de": "die Anhörung, das Zuhören",
+      "en": "consultation, listening",
+      "example": "A reunião serviu para auscultação de medidas prioritárias",
+      "example_de": "Das Treffen diente der Anhörung vorrangiger Maßnahmen",
+      "example_en": "The meeting served to consult on priority measures"
+    },
+    {
+      "pt": "o mato",
+      "de": "das Gestrüpp, das Buschland",
+      "en": "scrubland, bush",
+      "example": "Os trabalhos incluem o corte e remoção de mato",
+      "example_de": "Die Arbeiten umfassen das Schneiden und Entfernen von Gestrüpp",
+      "example_en": "The work includes cutting and removing scrubland"
+    },
+    {
+      "pt": "a paralisação",
+      "de": "der Streik, die Arbeitsniederlegung",
+      "en": "strike, work stoppage",
+      "example": "A paralisação estende-se ao trabalho não urgente",
+      "example_de": "Der Streik erstreckt sich auf nicht dringende Arbeit",
+      "example_en": "The strike extends to non-urgent work"
+    },
+    {
+      "pt": "reavivar",
+      "de": "wiederbeleben, neu entfachen",
+      "en": "to revive, to rekindle",
+      "example": "Queremos reavivar as tradições para as novas gerações",
+      "example_de": "Wir wollen die Traditionen für neue Generationen wiederbeleben",
+      "example_en": "We want to revive traditions for new generations"
+    },
+    {
+      "pt": "insípido",
+      "de": "geschmacklos, fad",
+      "en": "tasteless, bland",
+      "example": "A comida tornou-se insípida após a infeção",
+      "example_de": "Das Essen wurde nach der Infektion geschmacklos",
+      "example_en": "The food became tasteless after the infection"
+    },
+    {
+      "pt": "envolvente",
+      "de": "fesselnd, mitreißend",
+      "en": "engaging, immersive",
+      "example": "A narrativa envolvente é marca registada de Tavares",
+      "example_de": "Die fesselnde Erzählweise ist Tavares' Markenzeichen",
+      "example_en": "The engaging narrative is Tavares' trademark"
+    },
+    {
+      "pt": "prontamente",
+      "de": "umgehend, sofort",
+      "en": "promptly, immediately",
+      "example": "Os bombeiros chegaram prontamente ao local",
+      "example_de": "Die Feuerwehr traf umgehend am Einsatzort ein",
+      "example_en": "The firefighters arrived promptly at the scene"
+    },
+    {
+      "pt": "abalado",
+      "de": "erschüttert, angeschlagen",
+      "en": "shaken, affected",
+      "example": "Viu a sua reputação abalada após a denúncia",
+      "example_de": "Sein Ruf wurde durch die Anzeige erschüttert",
+      "example_en": "His reputation was shaken after the accusation"
+    },
+    {
+      "pt": "dar mote",
+      "de": "den Anstoß geben, inspirieren",
+      "en": "to set the tone, to inspire",
+      "example": "O sucesso deu mote para um novo festival",
+      "example_de": "Der Erfolg gab den Anstoß für ein neues Festival",
+      "example_en": "The success inspired a new festival"
+    },
+    {
+      "pt": "por tempo indeterminado",
+      "de": "auf unbestimmte Zeit",
+      "en": "indefinitely",
+      "example": "A greve estende-se por tempo indeterminado",
+      "example_de": "Der Streik dauert auf unbestimmte Zeit an",
+      "example_en": "The strike extends indefinitely"
+    },
+    {
+      "pt": "desencarcerar",
+      "de": "befreien (aus einem Wrack)",
+      "en": "to extricate (from a wreck)",
+      "example": "Uma pessoa estava a ser desencarcerada no local",
+      "example_de": "Eine Person wurde am Unfallort aus dem Wrack befreit",
+      "example_en": "A person was being extricated at the scene"
+    },
+    {
+      "pt": "a nebulosidade",
+      "de": "die Bewölkung",
+      "en": "cloud cover",
+      "example": "Espera-se um aumento da nebulosidade durante a tarde",
+      "example_de": "Am Nachmittag wird eine Zunahme der Bewölkung erwartet",
+      "example_en": "An increase in cloud cover is expected in the afternoon"
+    }
   ]
 }
