@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "\"Elétrico\" de Coimbra eternizado pela sua luta e coragem",
+          "text": "José Raúl, agente reformado da PSP conhecido como \"Elétrico\", foi homenageado pela Associação Sindical dos Profissionais da Polícia no Café Santa Cruz. Ficou famoso pela sua resistência na manifestação de 21 de abril de 1989, quando enfrentou jatos de água e manteve a linha da frente com os colegas no Terreiro do Paço."
+        },
+        {
+          "headline": "Fecho do IC3 cria \"fosso\" em Penela",
+          "text": "A interdição do IC3, desde 10 de fevereiro, está a dividir o concelho em duas partes. O comércio local sofreu uma quebra de 50%, a empresa Frijobel enfrenta prejuízos diários, e os bombeiros têm de percorrer quilómetros extra para chegar a emergências. As vias municipais alternativas estão sobrecarregadas."
+        },
+        {
+          "headline": "Adxtur quer relançar Aldeias de Xisto",
+          "text": "O novo presidente da agência, Jorge Custódio, pretende revitalizar a rede de 28 aldeias da região Centro com novos projetos. O território tem sido castigado pelos incêndios e é necessário executar candidaturas aprovadas pelo POVERE e PRPI."
+        },
+        {
+          "headline": "Novo refúgio turístico nasce em Oliveira do Hospital",
+          "text": "O Paraíso do Sobreiro foi inaugurado em Travanca de Lagos, com investimento de 2 milhões de euros. Conta com 15 quartos, piscina interior aquecida com jacuzzi e piscina exterior."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Homens armados tentam raptar bebé em Lisboa",
+          "text": "Uma tentativa de rapto de uma criança de 20 meses gerou alarme na zona de Campolide. Vários homens armados aproximaram-se na via pública, mas a ação falhou. A criança não sofreu ferimentos. As autoridades investigam."
+        },
+        {
+          "headline": "Motorista TVDE agride clientes e deixa um à beira da morte",
+          "text": "No Porto, um motorista TVDE espancou dois irmãos após discussão sobre o percurso. Uma das vítimas ficou em coma com traumatismo craniano grave e mantém sequelas. O arguido está em prisão preventiva, acusado de tentativa de homicídio."
+        },
+        {
+          "headline": "Septuagenário apanhado com 69 mil doses de haxixe",
+          "text": "A PJ deteve em flagrante delito um homem de 74 anos na Praia da Vitória, Açores, com 14 quilos de haxixe. O detido, de nacionalidade estrangeira, ficou em prisão preventiva."
+        }
+      ]
+    },
+    {
+      "emoji": "⛈️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Depressão Therese traz tempestade a partir de hoje",
+          "text": "O IPMA alerta que entre terça e sábado, a depressão Therese trará chuva por vezes intensa com trovoada, vento forte com rajadas até 65 km/h na costa e ondas até 4 metros na costa ocidental. Aguaceiros mais prováveis no Centro e Sul a partir de quarta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Motociclistas morrem a cada 2 dias nas estradas",
+          "text": "Entre 2022 e 2024 registaram-se mais de 32.000 acidentes com motos, causando 573 mortos e 2.600 feridos graves. A PSP, GNR e ANSR lançaram a campanha \"Duas Rodas: Agarre-se à Vida\" que decorre até 23 de março."
+        },
+        {
+          "headline": "Combustíveis sufocam bombeiros portugueses",
+          "text": "O aumento acentuado dos preços dos combustíveis, agravado pela guerra no Irão, ameaça a atividade dos bombeiros voluntários. Algumas corporações podem ter de suspender o transporte de doentes não urgentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🍞",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Pão ao almoço? Especialistas avisam sobre a ordem",
+          "text": "Começar a refeição pelo pão provoca picos de glicose. Especialistas recomendam inverter a ordem: primeiro legumes, fibras ou proteínas, para abrandar a absorção dos açúcares."
+        },
+        {
+          "headline": "Adeus cafeína? Paraxantina pode ser a substituta",
+          "text": "A paraxantina, substância produzida naturalmente pelo corpo ao metabolizar cafeína, está a aparecer em bebidas energéticas como alternativa mais estável. Na Europa está classificada como \"novo alimento\", mas os estudos ainda são limitados."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Exposição sobre abolição da pena de morte na Biblioteca Joanina",
+          "text": "A mostra \"Heritage of Hope\" inaugura amanhã na Biblioteca Joanina da UC, com documentos históricos sobre as últimas aplicações da pena de morte em Portugal e Espanha. Colaboração entre o Arquivo da Torre do Tombo, a UC e o Arquivo da Coroa de Aragão."
+        },
+        {
+          "headline": "Poço do Inferno: cascata de cortar a respiração",
+          "text": "A 1.080 metros de altitude em Manteigas, esta cascata de águas cristalinas e gélidas desce pela linha de contacto entre xisto e granito. Fica a 2h37 de Coimbra pelo IC6."
+        }
+      ]
+    }
+  ]
+}
