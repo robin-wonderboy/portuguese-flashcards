@@ -7518,5 +7518,111 @@
       "example_de": "Man entzog ihr die beruflichen Zuständigkeiten",
       "example_en": "They withdrew her professional responsibilities"
     }
+  ],
+  "2026-03-17": [
+    {
+      "pt": "o fosso",
+      "de": "der Graben / die Kluft",
+      "en": "ditch / gap",
+      "example": "A interdição criou um fosso entre o norte e o sul.",
+      "example_de": "Die Sperrung schuf eine Kluft zwischen Nord und Süd.",
+      "example_en": "The closure created a gap between north and south."
+    },
+    {
+      "pt": "a coragem",
+      "de": "der Mut",
+      "en": "courage",
+      "example": "Ele mostrou muita coragem na manifestação.",
+      "example_de": "Er zeigte viel Mut bei der Demonstration.",
+      "example_en": "He showed great courage at the demonstration."
+    },
+    {
+      "pt": "a quebra",
+      "de": "der Rückgang / der Einbruch",
+      "en": "drop / decline",
+      "example": "Houve uma quebra de 50% no comércio local.",
+      "example_de": "Es gab einen Rückgang von 50% im lokalen Handel.",
+      "example_en": "There was a 50% drop in local commerce."
+    },
+    {
+      "pt": "o rapto",
+      "de": "die Entführung",
+      "en": "kidnapping",
+      "example": "A tentativa de rapto gerou alarme em Lisboa.",
+      "example_de": "Der Entführungsversuch löste Alarm in Lissabon aus.",
+      "example_en": "The kidnapping attempt caused alarm in Lisbon."
+    },
+    {
+      "pt": "as sequelas",
+      "de": "die Folgeschäden / Spätfolgen",
+      "en": "aftereffects / lasting damage",
+      "example": "A vítima mantém diversas sequelas físicas.",
+      "example_de": "Das Opfer hat weiterhin verschiedene körperliche Spätfolgen.",
+      "example_en": "The victim still has various physical aftereffects."
+    },
+    {
+      "pt": "relançar",
+      "de": "neu starten / wiederbeleben",
+      "en": "to relaunch / to revive",
+      "example": "A nova direção quer relançar a rede das Aldeias de Xisto.",
+      "example_de": "Die neue Leitung will das Netzwerk der Schieferdörfer wiederbeleben.",
+      "example_en": "The new leadership wants to relaunch the Schist Villages network."
+    },
+    {
+      "pt": "agredir",
+      "de": "angreifen / zuschlagen",
+      "en": "to assault / to attack",
+      "example": "O motorista agrediu os passageiros com violência.",
+      "example_de": "Der Fahrer griff die Fahrgäste gewaltsam an.",
+      "example_en": "The driver violently assaulted the passengers."
+    },
+    {
+      "pt": "gélido",
+      "de": "eiskalt",
+      "en": "icy cold / freezing",
+      "example": "A cascata tem águas cristalinas e gélidas.",
+      "example_de": "Der Wasserfall hat kristallklares und eiskaltes Wasser.",
+      "example_en": "The waterfall has crystal-clear and icy cold waters."
+    },
+    {
+      "pt": "inanimado",
+      "de": "bewusstlos / leblos",
+      "en": "unconscious / lifeless",
+      "example": "A vítima caiu inanimada no chão.",
+      "example_de": "Das Opfer fiel bewusstlos zu Boden.",
+      "example_en": "The victim fell unconscious to the ground."
+    },
+    {
+      "pt": "à beira da morte",
+      "de": "am Rande des Todes",
+      "en": "on the brink of death",
+      "example": "A agressão deixou um passageiro à beira da morte.",
+      "example_de": "Der Angriff brachte einen Fahrgast an den Rand des Todes.",
+      "example_en": "The assault left a passenger on the brink of death."
+    },
+    {
+      "pt": "de cortar a respiração",
+      "de": "atemberaubend",
+      "en": "breathtaking",
+      "example": "Uma cascata de cortar a respiração.",
+      "example_de": "Ein atemberaubender Wasserfall.",
+      "example_en": "A breathtaking waterfall."
+    },
+    {
+      "pt": "em flagrante delito",
+      "de": "auf frischer Tat",
+      "en": "caught red-handed",
+      "example": "Foi detido em flagrante delito com 14 quilos de haxixe.",
+      "example_de": "Er wurde auf frischer Tat mit 14 Kilo Haschisch festgenommen.",
+      "example_en": "He was caught red-handed with 14 kilos of hashish."
+    },
+    {
+      "pt": "a homenagem",
+      "de": "die Ehrung / die Hommage",
+      "en": "tribute / homage",
+      "example": "A homenagem emocionou o agente reformado.",
+      "example_de": "Die Ehrung rührte den pensionierten Beamten.",
+      "example_en": "The tribute moved the retired officer."
+    }
   ]
 }
