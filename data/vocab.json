@@ -7624,5 +7624,95 @@
       "example_de": "Die Ehrung rührte den pensionierten Beamten.",
       "example_en": "The tribute moved the retired officer."
     }
+  ],
+  "2026-03-18": [
+    {
+      "pt": "o artesão",
+      "de": "der Handwerker, der Kunsthandwerker",
+      "en": "artisan, craftsman",
+      "example": "O artesão constrói casas de xisto pedra a pedra",
+      "example_de": "Der Kunsthandwerker baut Schieferhäuser Stein für Stein",
+      "example_en": "The artisan builds slate houses stone by stone"
+    },
+    {
+      "pt": "a aldeia",
+      "de": "das Dorf",
+      "en": "village",
+      "example": "Nunca saí da aldeia, sempre com o coração no Sobral Gordo",
+      "example_de": "Ich habe das Dorf nie verlassen, immer mit dem Herzen in Sobral Gordo",
+      "example_en": "I never left the village, always with my heart in Sobral Gordo"
+    },
+    {
+      "pt": "a efeméride",
+      "de": "der Gedenktag",
+      "en": "commemoration, anniversary",
+      "example": "A Câmara associa-se à efeméride do Dia Mundial da Árvore",
+      "example_de": "Die Stadtverwaltung beteiligt sich am Gedenktag des Welttags des Baumes",
+      "example_en": "The City Council joins the commemoration of World Tree Day"
+    },
+    {
+      "pt": "realojar",
+      "de": "umsiedeln, neu unterbringen",
+      "en": "to rehouse, to relocate",
+      "example": "O casal foi realojado pela Proteção Civil",
+      "example_de": "Das Paar wurde vom Zivilschutz umgesiedelt",
+      "example_en": "The couple was rehoused by Civil Protection"
+    },
+    {
+      "pt": "apavorado",
+      "de": "verängstigt, erschrocken",
+      "en": "terrified, frightened",
+      "example": "O livro chama-se O Pintor Apavorado",
+      "example_de": "Das Buch heißt Der Verängstigte Maler",
+      "example_en": "The book is called The Frightened Painter"
+    },
+    {
+      "pt": "desalojado",
+      "de": "obdachlos geworden, vertrieben",
+      "en": "displaced, made homeless",
+      "example": "O casal ficou desalojado na sequência do incêndio",
+      "example_de": "Das Paar wurde durch den Brand obdachlos",
+      "example_en": "The couple was displaced as a result of the fire"
+    },
+    {
+      "pt": "persistente",
+      "de": "anhaltend, beharrlich",
+      "en": "persistent, lasting",
+      "example": "A chuva será mais persistente e generalizada",
+      "example_de": "Der Regen wird anhaltender und verbreiteter sein",
+      "example_en": "The rain will be more persistent and widespread"
+    },
+    {
+      "pt": "aderente",
+      "de": "teilnehmend, zugehörig",
+      "en": "participating, adherent",
+      "example": "Pode degustar a chanfana em 10 espaços aderentes",
+      "example_de": "Man kann den Eintopf in 10 teilnehmenden Lokalen probieren",
+      "example_en": "You can taste the stew at 10 participating venues"
+    },
+    {
+      "pt": "à mistura",
+      "de": "obendrein, dazu",
+      "en": "mixed in, on top of that",
+      "example": "Chanfana é a rainha da mesa e ainda há prémios à mistura",
+      "example_de": "Der Eintopf ist König der Tafel und es gibt obendrein noch Preise",
+      "example_en": "The stew is queen of the table and there are prizes on top"
+    },
+    {
+      "pt": "por unanimidade",
+      "de": "einstimmig",
+      "en": "unanimously",
+      "example": "O júri deliberou, por unanimidade, atribuir o prémio",
+      "example_de": "Die Jury beschloss einstimmig, den Preis zu vergeben",
+      "example_en": "The jury unanimously decided to award the prize"
+    },
+    {
+      "pt": "agravar-se",
+      "de": "sich verschlechtern, sich verschlimmern",
+      "en": "to worsen, to get worse",
+      "example": "Espera-se um agravamento significativo durante a madrugada",
+      "example_de": "Eine deutliche Verschlechterung wird in den frühen Morgenstunden erwartet",
+      "example_en": "A significant worsening is expected during the early hours"
+    }
   ]
 }
