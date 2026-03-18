@@ -1,0 +1,122 @@
+{
+  "date": "2026-03-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Tempestade Therese atinge Portugal com chuva intensa",
+          "text": "A 19.ª tempestade da época já está a afetar o país. O IPMA emitiu aviso amarelo para cinco distritos. O pico da chuva é esperado entre hoje e amanhã de manhã, com acumulados de até 60 mm no litoral Centro/Sul e 120 mm no Algarve. A partir de sexta-feira prevê-se melhoria gradual."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente Seguro inicia audiências com partidos",
+          "text": "António José Seguro recebe hoje PSD, PS, IL e Livre em Belém, no âmbito das consultas de início de mandato. Os restantes partidos com assento parlamentar serão recebidos na quinta-feira. No mesmo dia decorre o debate quinzenal com o PM Luís Montenegro."
+        }
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Dia Mundial da Árvore com voluntariado no Parque Verde",
+          "text": "A Câmara de Coimbra organiza no sábado, 21 de março, uma ação de voluntariado na mata de choupos do Parque Verde do Mondego. O objetivo é remover lenha acumulada após o mau tempo recente. Inscrições abertas até 20 de março."
+        },
+        {
+          "headline": "Passeio arqueológico revela 25 anos de história",
+          "text": "Um passeio arqueológico no coração de Coimbra mostra descobertas de 25 anos de escavações urbanas."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "IP3 com interrupções diárias por trabalhos com explosivos",
+          "text": "A obra de duplicação do IP3 entre Santa Comba Dão e Viseu obriga a cortes diários de 10-15 minutos às 12:30, a partir de 20 de março, durante três meses. A GNR coordena o trânsito. A Ecopista do Dão também terá condicionamentos."
+        }
+      ]
+    },
+    {
+      "emoji": "👤",
+      "category": "PESSOAS & HISTÓRIAS",
+      "stories": [
+        {
+          "headline": "O artesão de Sobral Gordo que nunca deixou a aldeia",
+          "text": "António Francisco, quase 85 anos, partiu aos 13 para Lisboa mas nunca deixou de ter o coração na aldeia. Constrói casas de xisto pedra a pedra e já ofereceu criações ao Presidente da República. Sobral Gordo foi marcada pelos incêndios de agosto de 2025."
+        },
+        {
+          "headline": "Maria Helena e o segredo da felicidade em Mourísia",
+          "text": "\"Quem está habituado aos barulhos da cidade, aqui é um paraíso\" — retrato da vida rural na aldeia de Mourísia."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Neto de Cavaco Silva brilha na Académica",
+          "text": "António Montez, neto do ex-Presidente Cavaco Silva, foi eleito homem do jogo na vitória da Académica por 2-0 frente ao Mafra. O médio ofensivo de 24 anos tem-se destacado como uma das promessas do clube."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCIDENTES",
+      "stories": [
+        {
+          "headline": "Casal de idosos perde casa em incêndio em Gouveia",
+          "text": "Um casal de 89 e 93 anos ficou desalojado após a casa em Melo, Gouveia, ser totalmente destruída pelas chamas. O casal foi realojado pela Proteção Civil. O combate mobilizou 28 operacionais de quatro corporações de bombeiros."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA & LAZER",
+      "stories": [
+        {
+          "headline": "Quinzena da Chanfana em Penela até 22 de março",
+          "text": "Dez restaurantes participam na Quinzena Gastronómica da Chanfana em Penela, com versões tradicionais e inovadoras do prato regional. Há prémios à mistura: estadias, experiências turísticas e cabazes de produtos regionais."
+        },
+        {
+          "headline": "Cabrito e Folar em Vila Nova de Poiares",
+          "text": ""
+        },
+        {
+          "headline": "PÁSCOATIVA leva férias ativas às crianças de Seia",
+          "text": "O programa gratuito decorre de 30 de março a 10 de abril com atividades em museus, biblioteca, centro de interpretação da Serra da Estrela e infraestruturas desportivas. Inscrições de 18 a 22 de março."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "CULTURA",
+      "stories": [
+        {
+          "headline": "Fernando Hilário vence Prémio Literário Carlos Carranca",
+          "text": "O escritor Fernando Hilário ganhou, por unanimidade, a 4.ª edição do prémio da Lousã com a obra \"O Pintor Apavorado\". Natural do Porto e residente em Ponte de Lima, é licenciado em Letras e doutorado em Teoria da Literatura."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Operação Lúmen: PJ faz buscas na Câmara da Figueira da Foz",
+          "text": "Uma dezena de municípios foram alvo de buscas por alegada viciação de contratos de iluminações festivas com a empresa Castros Iluminações de Vila Nova de Gaia. Na Figueira da Foz foram encontrados seis contratos entre 2024-2025, incluindo um de 211.700€ para o Natal."
+        }
+      ]
+    }
+  ]
+}
