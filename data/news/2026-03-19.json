@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌦️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Tempo traz surpresas para os próximos dias em Coimbra",
+          "text": "Quinta e sexta com chuva certa (100% probabilidade), com temperaturas entre 13°C e 22°C. Sábado melhora ligeiramente com aguaceiros fracos. Domingo já aparece parcialmente nublado com apenas 27% de probabilidade de chuva."
+        },
+        {
+          "headline": "Uma zona do país vai levar com o dobro da chuva",
+          "text": "A região Centro concentra a maior parte da precipitação prevista para os próximos dias, com valores significativamente acima da média."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "UNIVERSIDADE & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Reitor da UC lamenta falta de planificação do território",
+          "text": "Amílcar Falcão, no encerramento da conferência 'Eventos Climáticos Extremos', alertou para os riscos das minas de urânio da Urgeiriça. Uma falha nas lonas do aterro (com durabilidade de 80 anos) poderia libertar radioatividade para toda a região."
+        },
+        {
+          "headline": "Onde está a Coruja do Colégio das Artes?",
+          "text": "A instalação artística de Bordalo II, inaugurada em janeiro de 2022, foi removida da fachada do Colégio das Artes devido à requalificação do edifício. Os conimbricenses perguntam-se para onde foi a obra."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "QUEIMA DAS FITAS",
+      "stories": [
+        {
+          "headline": "Mil bilhetes esgotaram rapidamente na primeira venda presencial",
+          "text": "A venda presencial permite aos estudantes evitar taxas da internet. Bolseiros podem comprar bilhetes mais baratos. O cartaz final será anunciado até ao final de abril, e a Serenata Monumental mantém-se na Sé Velha."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA LOCAL",
+      "stories": [
+        {
+          "headline": "Câmara de Coimbra defende regionalização contra tempestades",
+          "text": "Ana Abrunhosa defendeu regiões administrativas eleitas por sufrágio universal para garantir melhor resposta a eventos climáticos extremos. A antiga ministra da Coesão Territorial considera que a escala da decisão é fundamental para boas soluções."
+        }
+      ]
+    },
+    {
+      "emoji": "🔒",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "GNR regista aumento dos furtos de combustível em motas e máquinas agrícolas",
+          "text": "Em 2025 registaram-se 1700 furtos de combustível. Os furtos em postos desceram 10%, mas os assaltos a veículos motorizados (+46) e máquinas agrícolas (+31) subiram. Foram detidas 40 pessoas."
+        },
+        {
+          "headline": "Gestor dos Bombeiros de Tábua acusado de desviar €370 mil",
+          "text": "O Ministério Público acusa o ex-gestor de peculato, branqueamento e falsificação. Entre 2013 e 2018, desviou paulatinamente dinheiro da associação para contas pessoais, usando o montante para comprar imóveis."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "SAÚDE & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Jovens cada vez mais infelizes por causa das redes sociais",
+          "text": "Estudo da ONU com 330 mil adolescentes de 43 países confirma que o uso compulsivo das redes piora o bem-estar psicológico. Os jovens de famílias mais pobres são os mais vulneráveis."
+        },
+        {
+          "headline": "69% das empresas admitem colaboradores pouco preparados para ciberameaças com IA",
+          "text": "Estudo da Fortinet revela que menos de metade das empresas considera os seus funcionários preparados para ameaças potenciadas por IA. Após formação, 67% das organizações registaram redução de incidentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏪",
+      "category": "EMPRESAS & COMÉRCIO",
+      "stories": [
+        {
+          "headline": "Maior armazém de louça Òkilo abre em Eiras a 28 de março",
+          "text": "A loja ficará na Travessa Adriano Lucas, com vasta oferta de cerâmica a preços competitivos. A aposta em Coimbra reforça a expansão nacional da marca."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Refúgio 'secreto' para a Páscoa na Serra do Sicó",
+          "text": "A Villa Pedra Natural Houses em Soure oferece 11 casas de pedra reconstruídas com tarifa especial para 3-5 de abril. Atividades incluem massagens, workshops de cerâmica, arborismo e visitas às Grutas Soprador do Carvalho."
+        },
+        {
+          "headline": "Exposição transforma natureza em arte na Pampilhosa da Serra",
+          "text": "A mostra 'The Sé – Unique Living' inaugura sexta-feira com peças de artesanato criadas a partir de madeiras antigas e raízes. Inclui gravuras de Liechtenberger feitas com descargas elétricas na madeira. Visitas até 5 de junho."
+        }
+      ]
+    }
+  ]
+}
