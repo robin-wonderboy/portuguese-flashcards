@@ -7714,5 +7714,87 @@
       "example_de": "Eine deutliche Verschlechterung wird in den frühen Morgenstunden erwartet",
       "example_en": "A significant worsening is expected during the early hours"
     }
+  ],
+  "2026-03-19": [
+    {
+      "pt": "lamentar",
+      "de": "bedauern",
+      "en": "to regret / to lament",
+      "example": "O reitor lamenta a falta de planificação.",
+      "example_de": "Der Rektor bedauert den Mangel an Planung.",
+      "example_en": "The rector regrets the lack of planning."
+    },
+    {
+      "pt": "o cortejo",
+      "de": "der Umzug",
+      "en": "parade / procession",
+      "example": "O cortejo da Queima das Fitas passa pela via central.",
+      "example_de": "Der Umzug der Queima das Fitas geht durch die Hauptstraße.",
+      "example_en": "The Queima das Fitas parade goes through the main road."
+    },
+    {
+      "pt": "infeliz",
+      "de": "unglücklich",
+      "en": "unhappy",
+      "example": "Os jovens estão cada vez mais infelizes.",
+      "example_de": "Die Jugendlichen sind immer unglücklicher.",
+      "example_en": "Young people are increasingly unhappy."
+    },
+    {
+      "pt": "o bem-estar",
+      "de": "das Wohlbefinden",
+      "en": "well-being",
+      "example": "O uso das redes sociais piora o bem-estar dos adolescentes.",
+      "example_de": "Der Social-Media-Konsum verschlechtert das Wohlbefinden der Jugendlichen.",
+      "example_en": "Social media use worsens the well-being of teenagers."
+    },
+    {
+      "pt": "piorar",
+      "de": "verschlechtern",
+      "en": "to worsen",
+      "example": "A situação tende a piorar com o tempo.",
+      "example_de": "Die Situation verschlechtert sich mit der Zeit.",
+      "example_en": "The situation tends to worsen over time."
+    },
+    {
+      "pt": "desviar",
+      "de": "veruntreuen",
+      "en": "to embezzle / to divert",
+      "example": "O gestor é acusado de desviar milhares de euros.",
+      "example_de": "Der Manager wird beschuldigt, Tausende Euro veruntreut zu haben.",
+      "example_en": "The manager is accused of embezzling thousands of euros."
+    },
+    {
+      "pt": "desacelerar",
+      "de": "verlangsamen",
+      "en": "to slow down",
+      "example": "Na villa, o tempo parece desacelerar.",
+      "example_de": "In der Villa scheint die Zeit langsamer zu werden.",
+      "example_en": "At the villa, time seems to slow down."
+    },
+    {
+      "pt": "paulatinamente",
+      "de": "nach und nach",
+      "en": "gradually / little by little",
+      "example": "O arguido foi paulatinamente apropriando-se do dinheiro.",
+      "example_de": "Der Angeklagte eignete sich nach und nach das Geld an.",
+      "example_en": "The defendant gradually took possession of the money."
+    },
+    {
+      "pt": "apoderar-se",
+      "de": "sich bemächtigen",
+      "en": "to seize / to take possession",
+      "example": "O arguido apoderou-se de quase 370 mil euros.",
+      "example_de": "Der Angeklagte bemächtigte sich fast 370.000 Euro.",
+      "example_en": "The defendant seized almost 370 thousand euros."
+    },
+    {
+      "pt": "viável",
+      "de": "machbar",
+      "en": "viable / feasible",
+      "example": "Estamos a ver se o novo trajeto é viável.",
+      "example_de": "Wir prüfen, ob die neue Route machbar ist.",
+      "example_en": "We are checking if the new route is feasible."
+    }
   ]
 }
