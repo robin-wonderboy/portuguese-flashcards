@@ -7796,5 +7796,111 @@
       "example_de": "Wir prüfen, ob die neue Route machbar ist.",
       "example_en": "We are checking if the new route is feasible."
     }
+  ],
+  "2026-03-20": [
+    {
+      "pt": "o rasto",
+      "de": "die Spur",
+      "en": "the trace, the trail",
+      "example": "Condeixa guarda o último rasto de jovem desaparecida",
+      "example_de": "Condeixa bewahrt die letzte Spur einer verschwundenen Frau",
+      "example_en": "Condeixa holds the last trace of a missing young woman"
+    },
+    {
+      "pt": "o desnível",
+      "de": "der Höhenunterschied",
+      "en": "the elevation change, the slope",
+      "example": "Um percurso com um desnível acentuado",
+      "example_de": "Eine Strecke mit steilem Höhenunterschied",
+      "example_en": "A route with a steep elevation change"
+    },
+    {
+      "pt": "a agitação",
+      "de": "der Seegang, die Unruhe",
+      "en": "the rough seas, the agitation",
+      "example": "Agitação marítima causada pela tempestade Therese",
+      "example_de": "Seegang verursacht durch Sturm Therese",
+      "example_en": "Rough seas caused by storm Therese"
+    },
+    {
+      "pt": "os pertences",
+      "de": "die Habseligkeiten",
+      "en": "the belongings",
+      "example": "Abandonou as instalações, deixando os seus pertences",
+      "example_de": "Sie verließ das Gebäude und ließ ihre Habseligkeiten zurück",
+      "example_en": "She left the premises, leaving behind her belongings"
+    },
+    {
+      "pt": "esclarecer",
+      "de": "aufklären, klären",
+      "en": "to clarify, to clear up",
+      "example": "O incêndio mortal continua por esclarecer",
+      "example_de": "Der tödliche Brand ist weiterhin ungeklärt",
+      "example_en": "The deadly fire remains unsolved"
+    },
+    {
+      "pt": "recriar",
+      "de": "nachstellen, nachbilden",
+      "en": "to recreate, to reenact",
+      "example": "O programa pretende recriar ambientes e costumes típicos",
+      "example_de": "Das Programm will typische Umgebungen und Bräuche nachstellen",
+      "example_en": "The program aims to recreate typical settings and customs"
+    },
+    {
+      "pt": "manchar",
+      "de": "beflecken, beschmutzen",
+      "en": "to stain, to tarnish",
+      "example": "Atos de vandalismo que mancharam o monumento",
+      "example_de": "Vandalismus-Akte, die das Denkmal beschmutzten",
+      "example_en": "Acts of vandalism that stained the monument"
+    },
+    {
+      "pt": "sublinhar",
+      "de": "betonen, unterstreichen",
+      "en": "to emphasize, to underline",
+      "example": "Sublinhou o impacto da prova na cidade",
+      "example_de": "Er betonte die Auswirkung des Wettkampfs auf die Stadt",
+      "example_en": "He emphasized the impact of the challenge on the city"
+    },
+    {
+      "pt": "esconder",
+      "de": "verstecken, verbergen",
+      "en": "to hide, to conceal",
+      "example": "O desaparecimento pode esconder rapto por dois conhecidos",
+      "example_de": "Das Verschwinden könnte eine Entführung verbergen",
+      "example_en": "The disappearance may conceal a kidnapping by two acquaintances"
+    },
+    {
+      "pt": "mortal",
+      "de": "tödlich",
+      "en": "deadly, fatal",
+      "example": "Incêndio mortal em lar de idosos",
+      "example_de": "Tödlicher Brand in einem Altersheim",
+      "example_en": "Deadly fire in a nursing home"
+    },
+    {
+      "pt": "dar que falar",
+      "de": "für Gesprächsstoff sorgen",
+      "en": "to cause a stir, to get people talking",
+      "example": "O urso voltou a dar que falar em Coimbra",
+      "example_de": "Der Bär sorgte erneut für Gesprächsstoff in Coimbra",
+      "example_en": "The bear got people talking again in Coimbra"
+    },
+    {
+      "pt": "pôr termo a",
+      "de": "ein Ende setzen",
+      "en": "to put an end to",
+      "example": "Tentou pôr termo à própria vida",
+      "example_de": "Er versuchte, seinem Leben ein Ende zu setzen",
+      "example_en": "He tried to put an end to his own life"
+    },
+    {
+      "pt": "por esclarecer",
+      "de": "noch ungeklärt",
+      "en": "still unsolved, yet to be clarified",
+      "example": "As causas da tragédia continuam por esclarecer",
+      "example_de": "Die Ursachen der Tragödie sind weiterhin ungeklärt",
+      "example_en": "The causes of the tragedy remain unsolved"
+    }
   ]
 }
