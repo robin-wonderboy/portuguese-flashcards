@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌦️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "A primavera chega hoje — mas com chuva forte e trovoadas",
+          "text": "A depressão Therese traz chuva por vezes forte e trovoadas a Portugal continental e à Madeira logo no primeiro dia da primavera. O IPMA emitiu avisos para Faro e Madeira. As temperaturas vão oscilar entre 4-5°C e máximas de 20°C, com melhoria gradual a partir de domingo."
+        },
+        {
+          "headline": "Barra marítima da Figueira da Foz condicionada",
+          "text": "Três barras marítimas estão encerradas (Esposende, Ericeira e Alvor) e a da Figueira da Foz está condicionada devido à agitação marítima. A ANEPC registou 181 ocorrências em todo o país, com 52 na região de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🔍",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Condeixa guarda o último rasto de jovem desaparecida há 8 anos",
+          "text": "Rosiney Trindade de Oliveira, brasileira de 30 anos, desapareceu em novembro de 2018 após ser despedida do restaurante Restinova em Condeixa-a-Nova. Deixou os pertences no local de trabalho e nunca mais contactou a família."
+        },
+        {
+          "headline": "Desaparecimento de gestor de restaurante de luxo pode esconder rapto",
+          "text": "A PJ investiga o desaparecimento de Ricardo Claro, de 50 anos, ligado a um restaurante de luxo em Vale do Lobo. Um suspeito foi detido e outro terá fugido para o Brasil via Madrid. O carro da vítima foi encontrado abandonado em Olhão."
+        },
+        {
+          "headline": "Leva arma para internamento e mata mulher a tiro",
+          "text": "Pedro Martins, de 51 anos, internado num hospital psiquiátrico no Porto, disparou sobre a mulher com um revólver comprado ilegalmente a um cabo da GNR. O militar também vai a julgamento por tráfico de armas."
+        },
+        {
+          "headline": "Incêndio mortal em lar de idosos continua por esclarecer",
+          "text": "Sete meses após o incêndio no lar Bom Samaritano em Mirandela, que matou sete idosos, as causas e responsabilidades continuam por apurar. As famílias das vítimas exigem respostas."
+        },
+        {
+          "headline": "Montenegro empenhado em nomear novo diretor da PJ",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "\"Lázaros 2026\" — dia inteiro de tradições portuguesas em Coimbra",
+          "text": "O Grupo Folclórico de Coimbra organiza no domingo, 22 de março, a partir das 10h, no Largo da Igreja de Santo António dos Olivais, uma feira de doçaria conventual, artesanato e brinquedos tradicionais."
+        },
+        {
+          "headline": "Abril Dança Coimbra — mês inteiro dedicado à dança contemporânea",
+          "text": "A 10.ª edição do festival traz 15 propostas ao Convento São Francisco e ao TAGV entre 2 e 29 de abril, incluindo o projeto \"Dançar com Parkinson\" e 24 intérpretes no Rampa.3."
+        },
+        {
+          "headline": "Pedrulha revive a Via Sacra com encenação nas ruas",
+          "text": "A 3.ª edição da Via Sacra Encenada acontece amanhã, sábado, às 21h30, pelas ruas da Pedrulha, com figurantes a representar as 14 estações."
+        }
+      ]
+    },
+    {
+      "emoji": "🐻",
+      "category": "VIRAL & CIDADE",
+      "stories": [
+        {
+          "headline": "Urso viral de Coimbra \"oferece limpeza grátis\" à estátua de D. Dinis",
+          "text": "O urso que se tornou sensação nas redes sociais apareceu junto à estátua de D. Dinis, na Alta Universitária, num vídeo a \"limpar\" os atos de vandalismo. A Câmara vai apresentar queixa-crime — a estátua tinha sido restaurada há menos de um mês por mais de 20 mil euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "\"Mira à Mesa\" — 15 restaurantes para descobrir a cozinha da Gândara",
+          "text": "A iniciativa gastronómica em Mira decorre nos fins de semana de 20-22 e 27-29 de março, com 15 restaurantes a apresentar receitas tradicionais da Gândara com produtos do mar e da terra."
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Elite Quebra Costas — bombeiros sobem o Quebra Costas com 30 kg às costas",
+          "text": "A 4.ª edição da prova de resistência acontece amanhã em Coimbra. 700 bombeiros de Portugal, Espanha, França e Brasil vão percorrer 500 metros entre o Arco de Almedina e a Porta Férrea com equipamento completo de combate a incêndios."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Inspeção-Geral de Finanças faz auditoria ao INEM",
+          "text": "A IGF prepara uma auditoria de seguimento ao INEM, prevista para 2027, após recomendações sobre financiamento, eficiência organizacional e sistemas de informação no quadriénio 2021-2024."
+        },
+        {
+          "headline": "Turista croata encontrado morto na Madeira",
+          "text": "Um turista de 75 anos foi encontrado sem vida em Santana após se perder durante uma caminhada em grupo na zona do Miradouro dos Balcões."
+        }
+      ]
+    }
+  ]
+}
