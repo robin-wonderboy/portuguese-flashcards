@@ -7902,5 +7902,135 @@
       "example_de": "Die Ursachen der Tragödie sind weiterhin ungeklärt",
       "example_en": "The causes of the tragedy remain unsolved"
     }
+  ],
+  "2026-03-21": [
+    {
+      "pt": "o espumante",
+      "de": "der Schaumwein, der Sekt",
+      "en": "sparkling wine",
+      "example": "O Millèsime reúne 46 produtores de espumantes",
+      "example_de": "Das Millèsime versammelt 46 Schaumweinproduzenten",
+      "example_en": "The Millèsime brings together 46 sparkling wine producers"
+    },
+    {
+      "pt": "apedrejar",
+      "de": "mit Steinen bewerfen",
+      "en": "to throw stones at",
+      "example": "Homem apedrejou as instalações da PJ em Coimbra",
+      "example_de": "Mann bewarf die PJ-Gebäude in Coimbra mit Steinen",
+      "example_en": "Man threw stones at the PJ building in Coimbra"
+    },
+    {
+      "pt": "a fogueira",
+      "de": "das Lagerfeuer",
+      "en": "bonfire, campfire",
+      "example": "Bombeiros verificaram que se tratava de uma fogueira acesa por um sem-abrigo",
+      "example_de": "Feuerwehr stellte fest, dass es ein Lagerfeuer eines Obdachlosen war",
+      "example_en": "Firefighters found it was a campfire lit by a homeless person"
+    },
+    {
+      "pt": "furtado",
+      "de": "gestohlen",
+      "en": "stolen",
+      "example": "PSP encontra carradas de material furtado na Figueira da Foz",
+      "example_de": "PSP findet Wagenladungen gestohlenes Material in Figueira da Foz",
+      "example_en": "PSP finds loads of stolen material in Figueira da Foz"
+    },
+    {
+      "pt": "o retrocesso",
+      "de": "der Rückschritt",
+      "en": "setback, step backwards",
+      "example": "Projetos de lei aprovados são um retrocesso para as pessoas trans",
+      "example_de": "Verabschiedete Gesetzentwürfe sind ein Rückschritt für Transpersonen",
+      "example_en": "Approved bills are a setback for trans people"
+    },
+    {
+      "pt": "o sem-abrigo",
+      "de": "der Obdachlose",
+      "en": "homeless person",
+      "example": "Bombeiros acionados por fogueira feita por sem-abrigo",
+      "example_de": "Feuerwehr wegen Lagerfeuer eines Obdachlosen alarmiert",
+      "example_en": "Firefighters called out for campfire made by homeless person"
+    },
+    {
+      "pt": "arremessar",
+      "de": "schleudern, werfen",
+      "en": "to hurl, to throw",
+      "example": "O indivíduo arremessou um paralelo da calçada contra os polícias",
+      "example_de": "Die Person schleuderte einen Pflasterstein gegen die Polizisten",
+      "example_en": "The individual hurled a cobblestone at the police"
+    },
+    {
+      "pt": "benzer",
+      "de": "segnen",
+      "en": "to bless",
+      "example": "O padre era conhecido por benzer animais em Ponte de Lima",
+      "example_de": "Der Priester war dafür bekannt, Tiere in Ponte de Lima zu segnen",
+      "example_en": "The priest was known for blessing animals in Ponte de Lima"
+    },
+    {
+      "pt": "a gengiva",
+      "de": "das Zahnfleisch",
+      "en": "gum (dental)",
+      "example": "Nota as gengivas inchadas ou com alteração na coloração?",
+      "example_de": "Sind Ihre Zahnfleischbereiche geschwollen oder verfärbt?",
+      "example_en": "Do you notice swollen or discolored gums?"
+    },
+    {
+      "pt": "despoletar",
+      "de": "auslösen",
+      "en": "to trigger, to set off",
+      "example": "Certos alimentos podem despoletar o aparecimento de aftas",
+      "example_de": "Bestimmte Lebensmittel können das Auftreten von Aphten auslösen",
+      "example_en": "Certain foods can trigger the appearance of mouth ulcers"
+    },
+    {
+      "pt": "mobilizar-se",
+      "de": "sich mobilisieren, sich zusammentun",
+      "en": "to rally, to mobilize",
+      "example": "Moradores mobilizaram-se em vigílias de oração pela recuperação do padre",
+      "example_de": "Anwohner versammelten sich zu Gebetswachen für die Genesung des Priesters",
+      "example_en": "Residents rallied in prayer vigils for the priests recovery"
+    },
+    {
+      "pt": "recuar",
+      "de": "zurückgehen, nachgeben",
+      "en": "to retreat, to decline",
+      "example": "As ações dos CTT recuaram 3,54%",
+      "example_de": "Die CTT-Aktien fielen um 3,54%",
+      "example_en": "CTT shares declined by 3.54%"
+    },
+    {
+      "pt": "descontrolado",
+      "de": "unkontrolliert, außer Kontrolle",
+      "en": "out of control, uncontrolled",
+      "example": "Não havia qualquer situação de incêndio descontrolado",
+      "example_de": "Es gab keinen unkontrollierten Brand",
+      "example_en": "There was no uncontrolled fire situation"
+    },
+    {
+      "pt": "em estado grave",
+      "de": "in ernstem Zustand",
+      "en": "in serious condition",
+      "example": "O padre está internado em estado grave",
+      "example_de": "Der Priester liegt in ernstem Zustand im Krankenhaus",
+      "example_en": "The priest is hospitalized in serious condition"
+    },
+    {
+      "pt": "a reconquista",
+      "de": "die Rückeroberung",
+      "en": "reconquest, recovery",
+      "example": "Inês Simões luta pela reconquista dos direitos retirados",
+      "example_de": "Inês Simões kämpft für die Rückeroberung der entzogenen Rechte",
+      "example_en": "Inês Simões fights for the recovery of revoked rights"
+    },
+    {
+      "pt": "a escovagem",
+      "de": "das Zähneputzen",
+      "en": "brushing (teeth)",
+      "example": "A escovagem regular dos dentes é o gesto mais fundamental",
+      "example_de": "Regelmäßiges Zähneputzen ist die grundlegendste Maßnahme",
+      "example_en": "Regular tooth brushing is the most fundamental gesture"
+    }
   ]
 }
