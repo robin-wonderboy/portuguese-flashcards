@@ -1,0 +1,110 @@
+{
+  "date": "2026-03-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Badoxa confirmado na Queima das Fitas de Coimbra",
+          "text": "O artista Badoxa é uma das confirmações para a Queima das Fitas 2026, atuando a 25 de maio no palco principal. Conhecido pelos ritmos contagiantes, promete animar a noite com temas como \"Deixa o Clima Rolar\" e \"Me Toca\"."
+        },
+        {
+          "headline": "Millèsime: Encontro Nacional de Espumantes em Anadia",
+          "text": "Este fim de semana (21-22 março), o Curia Palace Hotel recebe 46 produtores de espumantes, incluindo 34 da Bairrada. Novidade: concurso com 90 espumantes avaliados por 12 provadores, com prémios Prata, Ouro e Grande Ouro."
+        },
+        {
+          "headline": "Grande Debate \"O Poder das Regiões\" estreia na RTP1 a partir de Coimbra",
+          "text": "A 25 de março, a RTP1 emite em direto do Convento São Francisco um debate sobre regionalização. Participam Elisa Ferreira, a presidente da Câmara de Coimbra Ana Abrunhosa e outros especialistas."
+        },
+        {
+          "headline": "Montemor-o-Velho celebra Dia da Poesia",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Homem apedreja PJ de Coimbra e acaba em prisão preventiva",
+          "text": "Um homem de 40 anos, em liberdade condicional, arremessou pedras contra o edifício da PJ na Rua Venâncio Rodrigues. Quando intercetado na Praça da República, tentou agredir os polícias com um paralelo da calçada. Vai aguardar julgamento preso em Aveiro."
+        },
+        {
+          "headline": "Assaltos a carros em Torre de Vilela: levados mais de 700€",
+          "text": "Na noite de quinta-feira, três viaturas foram assaltadas na Rua da Barraca. A GNR confirmou que foram levados um portátil, um telemóvel, cerca de 800€ em dinheiro, três carteiras e cinco cartões multibanco."
+        },
+        {
+          "headline": "PSP encontra \"carradas\" de material furtado em Pombal",
+          "text": "Uma busca domiciliária revelou vestuário, máquinas de corte e artigos de jardinagem furtados na Figueira da Foz. O suspeito, de 60 anos, guardava tudo em viaturas que também furtava."
+        },
+        {
+          "headline": "PJ investiga morte de professor em Oliveira do Hospital",
+          "text": "Ivo Gonçalves, de 49 anos, professor de TIC, foi encontrado morto em casa. Natural de Lamego, leccionava no agrupamento há dois anos. Os colegas deram o alerta após ausência prolongada."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "SOCIEDADE & DIREITOS",
+      "stories": [
+        {
+          "headline": "Protesto em Coimbra contra leis consideradas \"retrocesso\" para pessoas trans",
+          "text": "Na Praça 8 de Maio, a Plataforma Anti-Transfobia de Coimbra organizou protesto contra a obrigatoriedade de validação médica para mudança de nome e género. Sofia Relvão, 24 anos, descreveu as alterações como um retrocesso nos direitos de 2018."
+        },
+        {
+          "headline": "Bombeiros acionados por fogueira de sem-abrigo em Eiras",
+          "text": "Na Relvinha, 15 operacionais foram mobilizados após alerta às 08:51. À chegada, verificaram tratar-se apenas de uma fogueira acesa por um sem-abrigo, sem incêndio descontrolado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Dia da Saúde Oral: 5 sintomas que não deve ignorar",
+          "text": "Gengivas inchadas, sangramento na escovagem, sensibilidade e mau hálito podem indicar gengivite ou estomatites. Stress, mordidas acidentais e certos alimentos podem despoletar aftas."
+        },
+        {
+          "headline": "Padre conhecido por benzer animais em estado grave após queda",
+          "text": "O padre Paulo Emanuel Dias, 44 anos, de Ponte de Lima, está hospitalizado há duas semanas. Conhecido por benzer cães, gatos e até cavalos, a sua comunidade mobilizou-se em vigílias de oração."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Febre aftosa agrava-se na Europa; Portugal reforça prevenção",
+          "text": "Novos focos na Grécia (ilha de Lesvos) e Chipre (42 focos, vacinação de emergência). A DGAV pede reforço de medidas preventivas aos produtores portugueses. O último caso em Portugal foi em 1994."
+        },
+        {
+          "headline": "Lisboa testa sirenes de alerta de tsunami terça-feira",
+          "text": "O exercício \"LisbonWave26\" decorre a 24 de março, testando quatro sirenes na frente ribeirinha. O som será seguido de mensagens em português e inglês. A câmara quer ter dez sirenes até ao final do mandato."
+        },
+        {
+          "headline": "Presidente dos CTT compra ações por 20 mil euros",
+          "text": "João Bento adquiriu 3.289 ações entre 5,90€ e 6,02€. Outros administradores também compraram. As ações dos CTT recuaram 3,54% na mesma sessão."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Mira à Mesa: os pratos que abrem o apetite",
+          "text": "Especial gastronómico sobre os restaurantes de Mira, incluindo a \"Brisa do Mar\" na Praia de Mira e uma das marisqueiras mais antigas do concelho."
+        },
+        {
+          "headline": "Os pratos que contam a história da Gândara",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
