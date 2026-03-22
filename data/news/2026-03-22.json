@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏋️",
+      "category": "DESPORTO & EVENTOS",
+      "stories": [
+        {
+          "headline": "IV Edição Elite Quebra Costas reuniu 600 bombeiros em Coimbra",
+          "text": "A prova exigente entre o Quebra-Costas e a Porta Férrea voltou a desafiar bombeiros de todo o país e internacionais. O bombeiro Tiago de Miranda do Corvo cumpriu o seu objetivo: melhorou o tempo do ano passado de 5:02 para 4:41."
+        },
+        {
+          "headline": "Benfica vence V. Guimarães por 3-0 e isola-se no 2º lugar",
+          "text": "Golos de Prestianni, Pavlidis e um autogolo de Mukendi. Benfica soma 65 pontos, a quatro do líder FC Porto que joga domingo com o Sp. Braga."
+        },
+        {
+          "headline": "Badoxa confirmado na Queima das Fitas de Coimbra",
+          "text": "O artista atua a 25 de maio no palco principal com os seus ritmos contagiantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏪",
+      "category": "EMPRESAS & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Revelado o local exato do IKEA em Coimbra",
+          "text": "A loja abre no espaço da atual Moviflor no Mondego Retail Park em Taveiro. Com mais de 4.000 m², será o primeiro formato 'small but mighty' em Portugal, com abertura prevista para o início do 2º semestre de 2026. Criará 34 postos de trabalho."
+        },
+        {
+          "headline": "Campanha agrícola de 2026 arranca no Baixo Mondego",
+          "text": "Apesar dos estragos causados pelo rompimento do dique em fevereiro, agricultores resilientes como José Laranjeiro arregaçam as mangas para produzir batatas no Bloco 17."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "POLÍCIA & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Carro arde por completo nas portagens de Coimbra Sul",
+          "text": "Um veículo ligeiro foi tomado pelas chamas na zona das portagens da A1. O condutor conseguiu sair a tempo. As chamas causaram também estragos na cabine de saída."
+        },
+        {
+          "headline": "Mulher ferida e encarcerada após colisão em Oliveira do Hospital",
+          "text": "Choque fronto-lateral entre dois carros na Reta da Salinha. Uma condutora ficou encarcerada com queixas na coluna e foi transportada para os HUC como ferido grave."
+        },
+        {
+          "headline": "Homem soterrado até ao peito em Ponte de Lima",
+          "text": "A terra cedeu enquanto abria uma vala num terreno privado. Foi transportado com ferimentos graves para o Hospital de Viana do Castelo."
+        },
+        {
+          "headline": "Fogo destrói cobertura de empresa de madeiras na Sertã",
+          "text": "O incêndio na madrugada afetou dois pavilhões da Pinhoser. Mobilizou 53 operacionais e 19 viaturas. Sem feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "10 detidos por incêndios florestais em menos de um trimestre",
+          "text": "A GNR revela que os incêndios rurais aumentaram 30% face a 2024. Mais de 40% dos proprietários não limpa os terrenos após sinalização. Muitos incêndios resultam de comportamentos negligentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Presidente homenageia 50 anos dos Trovante",
+          "text": "António José Seguro saudou a banda que 'deu voz a uma geração que encontrou na música uma forma de afirmar a liberdade'. As canções tornaram-se parte do património afetivo dos portugueses."
+        },
+        {
+          "headline": "Mau tempo na Madeira: 96 ocorrências pela depressão Therese",
+          "text": "25 ocorrências só em Porto Santo em 20 minutos de chuva intensa. Registaram-se 16 derrocadas, 16 inundações e 18 quedas de árvores. 250 operacionais mobilizados, sem vítimas."
+        },
+        {
+          "headline": "Fenprof admite greve de professores no 3º período",
+          "text": "Manifestação marcada para 16 de maio. A greve está 'em cima da mesa, sem data'. A federação acusa o Governo de ignorar reivindicações sobre a revisão do Estatuto da Carreira Docente."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Legionella detetada nos Hospitais da Universidade de Coimbra",
+          "text": "Foram detetados indícios de Legionella pneumophila na rede de águas quentes dos pisos abaixo do 3º dos HUC. Já foram tomadas medidas de mitigação."
+        }
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "A verdadeira sopa gandaresa no 'Mira à Mesa'",
+          "text": "No Brisa do Mar, na Praia de Mira, a gerente Elsa Sérgio apresenta a receita tradicional: feijão demolhado, carne cozida, enchidos e a água da cozedura que dá o sabor característico. Uma sopa reconfortante que serve como refeição."
+        }
+      ]
+    }
+  ]
+}
