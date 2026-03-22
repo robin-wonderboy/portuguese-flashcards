@@ -8032,5 +8032,111 @@
       "example_de": "Regelmäßiges Zähneputzen ist die grundlegendste Maßnahme",
       "example_en": "Regular tooth brushing is the most fundamental gesture"
     }
+  ],
+  "2026-03-22": [
+    {
+      "pt": "as portagens",
+      "de": "die Mautstellen",
+      "en": "toll booths",
+      "example": "O carro ardeu nas portagens da A1",
+      "example_de": "Das Auto brannte an den Mautstellen der A1",
+      "example_en": "The car burned at the A1 toll booths"
+    },
+    {
+      "pt": "o percurso",
+      "de": "die Strecke",
+      "en": "the route/course",
+      "example": "O percurso entre o Quebra-Costas e a Porta Férrea é exigente",
+      "example_de": "Die Strecke zwischen Quebra-Costas und Porta Férrea ist anspruchsvoll",
+      "example_en": "The route between Quebra-Costas and Porta Férrea is demanding"
+    },
+    {
+      "pt": "a vala",
+      "de": "der Graben",
+      "en": "the ditch/trench",
+      "example": "O homem estava a abrir uma vala num terreno",
+      "example_de": "Der Mann grub einen Graben auf einem Grundstück",
+      "example_en": "The man was digging a trench on a plot of land"
+    },
+    {
+      "pt": "a cozedura",
+      "de": "das Kochen/Garen",
+      "en": "the cooking/boiling",
+      "example": "A água da cozedura do feijão dá sabor à sopa",
+      "example_de": "Das Kochwasser der Bohnen gibt der Suppe Geschmack",
+      "example_en": "The bean cooking water gives the soup its flavor"
+    },
+    {
+      "pt": "a cobertura",
+      "de": "das Dach/die Abdeckung",
+      "en": "the roof/cover",
+      "example": "O fogo consumiu parte da cobertura do pavilhão",
+      "example_de": "Das Feuer zerstörte einen Teil des Hallendachs",
+      "example_en": "The fire consumed part of the warehouse roof"
+    },
+    {
+      "pt": "cumprir",
+      "de": "erfüllen/erreichen",
+      "en": "to fulfill/achieve",
+      "example": "O bombeiro tinha um objetivo e cumpriu-o",
+      "example_de": "Der Feuerwehrmann hatte ein Ziel und hat es erreicht",
+      "example_en": "The firefighter had a goal and achieved it"
+    },
+    {
+      "pt": "arregaçar",
+      "de": "hochkrempeln",
+      "en": "to roll up (sleeves)",
+      "example": "Os agricultores arregaçam as mangas para produzir batatas",
+      "example_de": "Die Bauern krempeln die Ärmel hoch, um Kartoffeln anzubauen",
+      "example_en": "The farmers roll up their sleeves to grow potatoes"
+    },
+    {
+      "pt": "ceder",
+      "de": "nachgeben/einstürzen",
+      "en": "to give way/collapse",
+      "example": "A terra cedeu enquanto o homem abria a vala",
+      "example_de": "Die Erde gab nach, während der Mann den Graben grub",
+      "example_en": "The ground gave way while the man was digging the trench"
+    },
+    {
+      "pt": "detetar",
+      "de": "erkennen/feststellen",
+      "en": "to detect",
+      "example": "Foram detetados indícios de legionella nos hospitais",
+      "example_de": "Es wurden Hinweise auf Legionellen in den Krankenhäusern festgestellt",
+      "example_en": "Signs of legionella were detected in the hospitals"
+    },
+    {
+      "pt": "exigente",
+      "de": "anspruchsvoll",
+      "en": "demanding",
+      "example": "É uma prova exigente para os bombeiros",
+      "example_de": "Es ist ein anspruchsvoller Wettkampf für die Feuerwehrleute",
+      "example_en": "It is a demanding challenge for the firefighters"
+    },
+    {
+      "pt": "soterrado",
+      "de": "verschüttet",
+      "en": "buried (under earth)",
+      "example": "O homem ficou soterrado até ao peito",
+      "example_de": "Der Mann wurde bis zur Brust verschüttet",
+      "example_en": "The man was buried up to his chest"
+    },
+    {
+      "pt": "reconfortante",
+      "de": "wohltuend/tröstlich",
+      "en": "comforting",
+      "example": "A sopa gandaresa é densa e reconfortante",
+      "example_de": "Die Gândara-Suppe ist dick und wohltuend",
+      "example_en": "The Gândara soup is thick and comforting"
+    },
+    {
+      "pt": "negligente",
+      "de": "fahrlässig",
+      "en": "negligent",
+      "example": "Os incêndios resultam de comportamentos negligentes",
+      "example_de": "Die Brände sind das Ergebnis fahrlässigen Verhaltens",
+      "example_en": "The fires result from negligent behavior"
+    }
   ]
 }
