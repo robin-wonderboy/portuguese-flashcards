@@ -8138,5 +8138,111 @@
       "example_de": "Die Brände sind das Ergebnis fahrlässigen Verhaltens",
       "example_en": "The fires result from negligent behavior"
     }
+  ],
+  "2026-03-23": [
+    {
+      "pt": "o nevoeiro",
+      "de": "der Nebel",
+      "en": "fog",
+      "example": "Prepare-se para nevoeiro matinal",
+      "example_de": "Rechnen Sie mit Morgennebel",
+      "example_en": "Prepare for morning fog"
+    },
+    {
+      "pt": "o macaco",
+      "de": "der Wagenheber",
+      "en": "car jack",
+      "example": "O macaco caiu em cima do proprietário",
+      "example_de": "Der Wagenheber fiel auf den Besitzer",
+      "example_en": "The car jack fell on the owner"
+    },
+    {
+      "pt": "o degelo",
+      "de": "das Schmelzen, die Eisschmelze",
+      "en": "melting, thawing",
+      "example": "O degelo nas regiões polares está a agravar-se",
+      "example_de": "Die Eisschmelze in den Polarregionen verschlimmert sich",
+      "example_en": "The melting in polar regions is worsening"
+    },
+    {
+      "pt": "furtar",
+      "de": "stehlen, entwenden",
+      "en": "to steal, to pilfer",
+      "example": "O busto em bronze foi furtado",
+      "example_de": "Die Bronzebüste wurde gestohlen",
+      "example_en": "The bronze bust was stolen"
+    },
+    {
+      "pt": "adiantar",
+      "de": "vorstellen (Uhr), voranbringen",
+      "en": "to advance, to put forward",
+      "example": "Vamos adiantar os relógios uma hora",
+      "example_de": "Wir stellen die Uhren eine Stunde vor",
+      "example_en": "We will put the clocks forward one hour"
+    },
+    {
+      "pt": "dissipar-se",
+      "de": "sich auflösen, sich verflüchtigen",
+      "en": "to dissipate, to clear up",
+      "example": "A depressão tende a dissipar-se",
+      "example_de": "Das Tiefdruckgebiet löst sich tendenziell auf",
+      "example_en": "The low pressure tends to dissipate"
+    },
+    {
+      "pt": "molestar",
+      "de": "misshandeln, belästigen",
+      "en": "to mistreat, to harm",
+      "example": "As arguidas molestavam física e psicologicamente os bebés",
+      "example_de": "Die Angeklagten misshandelten die Babys körperlich und psychisch",
+      "example_en": "The defendants physically and psychologically mistreated the babies"
+    },
+    {
+      "pt": "soalheiro",
+      "de": "sonnig, heiter",
+      "en": "sunny, fair",
+      "example": "Na quinta-feira mantém-se tempo soalheiro",
+      "example_de": "Am Donnerstag bleibt es sonnig",
+      "example_en": "On Thursday the weather stays sunny"
+    },
+    {
+      "pt": "indefeso",
+      "de": "wehrlos, schutzlos",
+      "en": "defenseless, helpless",
+      "example": "As crianças eram completamente indefesas",
+      "example_de": "Die Kinder waren völlig wehrlos",
+      "example_en": "The children were completely defenseless"
+    },
+    {
+      "pt": "expressivo",
+      "de": "beeindruckend, ausdrucksvoll",
+      "en": "impressive, significant, expressive",
+      "example": "O festival confirmou um expressivo sucesso",
+      "example_de": "Das Festival bestätigte einen beeindruckenden Erfolg",
+      "example_en": "The festival confirmed an impressive success"
+    },
+    {
+      "pt": "dar em nada",
+      "de": "zu nichts führen, im Sande verlaufen",
+      "en": "to come to nothing",
+      "example": "A Operação Lúmen deu em nada",
+      "example_de": "Die Operation Lúmen verlief im Sande",
+      "example_en": "Operation Lúmen came to nothing"
+    },
+    {
+      "pt": "em pleno",
+      "de": "mitten in, direkt in",
+      "en": "right in the middle of",
+      "example": "Roubaram o busto em pleno Largo de Pereiró",
+      "example_de": "Sie stahlen die Büste direkt am Largo de Pereiró",
+      "example_en": "They stole the bust right in the middle of Largo de Pereiró"
+    },
+    {
+      "pt": "por justa causa",
+      "de": "aus wichtigem Grund, fristlos",
+      "en": "for just cause",
+      "example": "As funcionárias foram despedidas por justa causa",
+      "example_de": "Die Angestellten wurden fristlos entlassen",
+      "example_en": "The employees were fired for just cause"
+    }
   ]
 }
