@@ -450,19 +450,22 @@ function resetProgress() {
 // === NEWS READER ===
 
 async function checkNewsForDate(dateStr) {
-  try {
-    const response = await fetch(`data/news/${dateStr}.json`);
-    if (response.ok) {
-      newsData = await response.json();
-      document.getElementById('newsBtn').classList.remove('hidden');
-    } else {
-      document.getElementById('newsBtn').classList.add('hidden');
-      newsData = null;
-    }
-  } catch {
-    document.getElementById('newsBtn').classList.add('hidden');
-    newsData = null;
+  // Try today first, then fall back up to 7 days
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(dateStr);
+    d.setDate(d.getDate() - i);
+    const ds = d.toISOString().slice(0, 10);
+    try {
+      const response = await fetch(`data/news/${ds}.json`);
+      if (response.ok) {
+        newsData = await response.json();
+        document.getElementById('newsBtn').classList.remove('hidden');
+        return;
+      }
+    } catch {}
   }
+  document.getElementById('newsBtn').classList.add('hidden');
+  newsData = null;
 }
 
 function toggleNews() {
