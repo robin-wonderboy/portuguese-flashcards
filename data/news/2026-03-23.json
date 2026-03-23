@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚠️",
+      "category": "ACIDENTES & SUCESOS",
+      "stories": [
+        {
+          "headline": "Acidente mata dono de restaurante em Penela",
+          "text": "Uma colisão entre um carro e um motociclo na Ponte do Espinhal causou a morte de José Marques, de 56 anos, proprietário do restaurante O Pastor em Santa Eufémia. O alerta foi dado às 18:38 de domingo."
+        },
+        {
+          "headline": "Macaco de viatura cai e mata homem em Arganil",
+          "text": "Um homem de 71 anos faleceu em S. Martinho da Cortiça quando o macaco do carro caiu enquanto estava debaixo da viatura a verificar um problema mecânico. Apesar das tentativas de reanimação, o óbito foi declarado no local."
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Coimbra vai do calor ao frio — mudança brusca no tempo",
+          "text": "Semana de contrastes: segunda e terça com máximas acima dos 20°C em Coimbra, mas a partir de quinta-feira desce até 5°C. Nevoeiro matinal hoje e possível entrada de ar polar no fim de semana."
+        },
+        {
+          "headline": "Última década foi a mais quente de sempre",
+          "text": "Relatório da Organização Meteorológica Mundial confirma que 2015-2025 registou as temperaturas médias mais altas de sempre. O desequilíbrio energético da Terra atingiu um novo máximo em 2025."
+        }
+      ]
+    },
+    {
+      "emoji": "⏰",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Relógios adiantam 1 hora no próximo domingo",
+          "text": "Na madrugada de 29 de março, os relógios avançam uma hora quando for 01:00, dando início ao horário de verão. A Comissão Europeia diz que 'ainda é possível' acabar com a mudança da hora."
+        },
+        {
+          "headline": "Homem procurado internacionalmente detido em Sintra",
+          "text": "A PJ deteve um cidadão paquistanês de 55 anos, procurado pelo crime de homicídio do sobrinho em 2015. Em caso de extradição, o Paquistão terá de garantir pena máxima de 25 anos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Funcionárias de creche acusadas de maus-tratos a bebés",
+          "text": "Quatro ex-funcionárias de uma creche nos Açores começam a ser julgadas, acusadas de 44 crimes de maus-tratos a 17 crianças. As arguidas foram despedidas por justa causa e terão exposto os menores a 'um ambiente de terror psicológico'."
+        },
+        {
+          "headline": "Operação Lúmen dá em nada — arguidos em liberdade",
+          "text": "Os quatro detidos na investigação a contratos de luzes de Natal em Lisboa foram libertados. O secretário-geral da CML, Alberto Laplaine Guimarães, fica com suspensão de funções e proibição de contacto."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Chanfana da Lousã é '5 estrelas'",
+          "text": "O Festival Gastronómico da Chanfana 2026 teve avaliações excelentes: 96,6% dos comensais deram nota 4 ou 5. Próximo evento: Fins de Semana Gastronómicos do Cabrito em abril/maio."
+        },
+        {
+          "headline": "Porque é que Coimbra não tem Estrela Michelin?",
+          "text": "A cidade tem apenas 4 restaurantes recomendados e 1 Bib Gourmand. A última estrela foi entre 2010-2012, no Arcadas da Capela. Novidade: o restaurante Refeitro entrou na lista dos recomendados."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Festival de Música e Ópera regressa a Coimbra",
+          "text": "Mais de uma dezena de concertos gratuitos entre fevereiro e dezembro de 2026. Dia 28 de março: 'As Sete Últimas Palavras de Cristo na Cruz' de Haydn na Igreja Santa Cruz."
+        },
+        {
+          "headline": "Kanye West confirma concerto no Algarve",
+          "text": "O artista atua a 7 de agosto no Estádio Algarve, a primeira vez em Portugal desde 2011. Pré-venda de bilhetes amanhã, 24 de março. Possíveis convidados: Travis Scott, Playboi Carti."
+        }
+      ]
+    },
+    {
+      "emoji": "💧",
+      "category": "SERVIÇOS & CIDADE",
+      "stories": [
+        {
+          "headline": "Águas de Coimbra com melhor resultado de sempre",
+          "text": "A empresa municipal reduziu as perdas de água para 15,6%, o valor mais baixo de sempre. O sistema de telemetria já cobre 100% dos clientes, permitindo deteção em tempo real de fugas."
+        },
+        {
+          "headline": "Busto em bronze furtado no Porto",
+          "text": "O busto do Padre Diamantino Gomes foi roubado em pleno Largo de Pereiró, em Ramalde. A Câmara do Porto apresentou queixa às autoridades."
+        }
+      ]
+    }
+  ]
+}
