@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Incêndio violento deixa 3 pessoas sem teto em Pombal",
+          "text": "Três pessoas ficaram desalojadas após um incêndio que destruiu a habitação onde residiam, na localidade de Granja. Não houve feridos, mas a casa ficou completamente destruída. O fogo foi dado como extinto às 05:20."
+        },
+        {
+          "headline": "Alterações na Av. Urbano Duarte dividem executivo municipal",
+          "text": "A eliminação da viragem da Rua do Brasil para a Avenida Urbano Duarte gerou polémica na câmara. A oposição critica a falta de estudos de tráfego, enquanto a presidente Ana Abrunhosa defende que a medida resolve congestionamentos e beneficia o transporte público."
+        },
+        {
+          "headline": "Câmara reduz em dois terços orçamento do Convento São Francisco",
+          "text": "A programação cultural do CSF passou de 600 mil euros previstos para apenas 183 mil. O concurso para programador foi anulado, e a vereadora da cultura justifica a decisão com rigor orçamental e compromissos anteriores."
+        },
+        {
+          "headline": "Deputados do PS visitam Penela para avaliar danos das tempestades",
+          "text": "A interdição do IC3 está a causar sérios constrangimentos em Penela, afetando empresas, comércio e tempos de resposta dos bombeiros. A câmara já investiu mais de meio milhão de euros na recuperação de vias municipais."
+        }
+      ]
+    },
+    {
+      "emoji": "🌦️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Do verão ao inverno em 48 horas",
+          "text": "Até hoje as temperaturas sobem até quase 25°C no Centro-Sul, mas a partir de quarta-feira ventos do Norte trazem arrefecimento significativo. Os meteorologistas alertam para forte amplitude térmica entre dias quentes e noites frias."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Milhares de estudantes saem à rua em manifestação nacional",
+          "text": "No Dia Nacional do Estudante, mais de 40 estruturas do Movimento Associativo Estudantil juntam-se em Lisboa para exigir ensino superior gratuito, mais alojamento e reforma do sistema de bolsas. A marcha parte do Rossio às 14:30 rumo à Assembleia da República."
+        },
+        {
+          "headline": "Câmara aprova reabilitação da Escola José Falcão",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Desavença entre grupo de jovens em Coimbra",
+          "text": "A PSP foi chamada à Rua do Cedro por ameaças entre jovens. Não houve feridos e a situação foi resolvida no local."
+        },
+        {
+          "headline": "Dupla detida por assalto a loja Cavalinho",
+          "text": "A GNR deteve dois homens suspeitos de assaltarem uma loja da marca em Santa Maria da Feira. Foram apreendidas 16 malas da marca, já à venda no comércio local."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Bebé morreu em 10 dias: famílias sem apoio para funerais de crianças",
+          "text": "A história do pequeno Miguel, que morreu de cancro cerebral aos 2 anos, expôs uma lacuna na lei: o Estado não comparticipa funerais de crianças sem carreira contributiva. Uma petição já reuniu mais de 15 mil assinaturas."
+        },
+        {
+          "headline": "Governo, UGT e patrões retomam negociações sobre lei laboral",
+          "text": "Reunião hoje no Ministério do Trabalho pode ser decisiva para as mais de 100 alterações à lei laboral do programa 'Trabalho XXI'. Já foram consensualizados 76 artigos em mais de 50 reuniões."
+        },
+        {
+          "headline": "Governo cria projeto APIS contra incêndios em áreas protegidas",
+          "text": "O projeto arranca com pilotos no Parque do Alvão e na Serra do Açor, usando novas tecnologias de mitigação de risco. Cada projeto tem um orçamento de 125 mil euros para dois anos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Portugal regista número de casos de tuberculose mais baixo de sempre",
+          "text": "Em 2024 foram notificados 1.536 casos, com uma taxa de 14,3 por 100 mil habitantes. A mortalidade caiu quase 70% face a 2015, com 50 óbitos registados. A população migrante apresenta taxa 2,7 vezes superior à média."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "66 mortos em queda de avião militar na Colômbia",
+          "text": "Um Hercules C-130 com 125 pessoas despenhou-se no sudoeste da Colômbia, causando 66 mortos e 81 feridos. O presidente Petro lamentou o acidente e referiu a necessidade de modernizar a frota militar."
+        },
+        {
+          "headline": "Português baleado pelo ICE sem cuidados médicos adequados",
+          "text": "Tiago Martins, atingido por dois tiros na véspera de Natal, continua detido nos EUA com fragmentos de bala no peito e sem assistência médica ou medicação adequada."
+        }
+      ]
+    }
+  ]
+}
