@@ -8244,5 +8244,143 @@
       "example_de": "Die Angestellten wurden fristlos entlassen",
       "example_en": "The employees were fired for just cause"
     }
+  ],
+  "2026-03-24": [
+    {
+      "pt": "o teto",
+      "de": "das Dach",
+      "en": "the roof/ceiling",
+      "example": "Três pessoas ficaram sem teto após o incêndio",
+      "example_de": "Drei Personen wurden durch den Brand obdachlos",
+      "example_en": "Three people were left without a roof after the fire"
+    },
+    {
+      "pt": "a desavença",
+      "de": "der Streit",
+      "en": "the quarrel/dispute",
+      "example": "A PSP foi chamada por causa de uma desavença entre jovens",
+      "example_de": "Die Polizei wurde wegen eines Streits zwischen Jugendlichen gerufen",
+      "example_en": "The police were called because of a dispute between youths"
+    },
+    {
+      "pt": "o orçamento",
+      "de": "das Budget",
+      "en": "the budget",
+      "example": "A Câmara reduziu o orçamento em dois terços",
+      "example_de": "Die Gemeinde kürzte das Budget um zwei Drittel",
+      "example_en": "The city council cut the budget by two thirds"
+    },
+    {
+      "pt": "a amplitude",
+      "de": "die Schwankung",
+      "en": "the range/amplitude",
+      "example": "Há forte amplitude térmica entre os dias e as noites",
+      "example_de": "Es gibt starke Temperaturschwankungen zwischen Tag und Nacht",
+      "example_en": "There is a strong temperature range between day and night"
+    },
+    {
+      "pt": "o bolseiro",
+      "de": "der Stipendiat",
+      "en": "the scholarship holder",
+      "example": "Mais de 70% dos bolseiros receberam a bolsa mínima",
+      "example_de": "Über 70% der Stipendiaten erhielten das Mindeststipendium",
+      "example_en": "Over 70% of scholarship holders received the minimum grant"
+    },
+    {
+      "pt": "despenhar-se",
+      "de": "abstürzen",
+      "en": "to crash/plummet",
+      "example": "O avião despenhou-se pouco depois de levantar voo",
+      "example_de": "Das Flugzeug stürzte kurz nach dem Start ab",
+      "example_en": "The plane crashed shortly after takeoff"
+    },
+    {
+      "pt": "entupir",
+      "de": "verstopfen",
+      "en": "to clog/block",
+      "example": "Este hábito matinal pode entupir as suas artérias",
+      "example_de": "Diese Morgengewohnheit kann Ihre Arterien verstopfen",
+      "example_en": "This morning habit can clog your arteries"
+    },
+    {
+      "pt": "reunir-se",
+      "de": "sich treffen",
+      "en": "to meet/gather",
+      "example": "O Governo volta a reunir-se com a UGT e os patrões",
+      "example_de": "Die Regierung trifft sich erneut mit der UGT und den Arbeitgebern",
+      "example_en": "The Government meets again with UGT and employers"
+    },
+    {
+      "pt": "poupar",
+      "de": "sparen",
+      "en": "to save",
+      "example": "O ISEC ensina como poupar energia na indústria",
+      "example_de": "Das ISEC lehrt, wie man in der Industrie Energie spart",
+      "example_en": "ISEC teaches how to save energy in industry"
+    },
+    {
+      "pt": "avaliar",
+      "de": "bewerten",
+      "en": "to assess/evaluate",
+      "example": "Os deputados visitaram Penela para avaliar os danos",
+      "example_de": "Die Abgeordneten besuchten Penela, um die Schäden zu bewerten",
+      "example_en": "The deputies visited Penela to assess the damage"
+    },
+    {
+      "pt": "desalojar",
+      "de": "obdachlos machen",
+      "en": "to displace/leave homeless",
+      "example": "O incêndio desalojou três pessoas em Pombal",
+      "example_de": "Der Brand machte drei Personen in Pombal obdachlos",
+      "example_en": "The fire displaced three people in Pombal"
+    },
+    {
+      "pt": "aparatoso",
+      "de": "spektakulär",
+      "en": "spectacular/dramatic",
+      "example": "Sourense morre em colisão aparatosa no IC2",
+      "example_de": "Einwohner von Soure stirbt bei spektakulärem Unfall auf dem IC2",
+      "example_en": "Soure resident dies in dramatic crash on IC2"
+    },
+    {
+      "pt": "não estar para brincadeiras",
+      "de": "nicht zum Spaßen sein",
+      "en": "to be no joke",
+      "example": "O tempo em Portugal não está para brincadeiras",
+      "example_de": "Das Wetter in Portugal ist nicht zum Spaßen",
+      "example_en": "The weather in Portugal is no joke"
+    },
+    {
+      "pt": "a interdição",
+      "de": "die Sperrung",
+      "en": "the closure/ban",
+      "example": "A interdição do IC3 provoca constrangimentos no concelho",
+      "example_de": "Die Sperrung des IC3 verursacht Einschränkungen in der Gemeinde",
+      "example_en": "The closure of IC3 causes disruptions in the municipality"
+    },
+    {
+      "pt": "o congestionamento",
+      "de": "der Stau",
+      "en": "the congestion/traffic jam",
+      "example": "A medida visa resolver os congestionamentos na avenida",
+      "example_de": "Die Maßnahme soll die Staus auf der Allee lösen",
+      "example_en": "The measure aims to resolve congestion on the avenue"
+    },
+    {
+      "pt": "devastado",
+      "de": "am Boden zerstört",
+      "en": "devastated",
+      "example": "Os pais ficaram devastados com a perda do filho",
+      "example_de": "Die Eltern waren am Boden zerstört durch den Verlust ihres Sohnes",
+      "example_en": "The parents were devastated by the loss of their son"
+    },
+    {
+      "pt": "a resiliência",
+      "de": "die Widerstandsfähigkeit",
+      "en": "resilience",
+      "example": "O presidente destacou a resiliência da população",
+      "example_de": "Der Bürgermeister hob die Widerstandsfähigkeit der Bevölkerung hervor",
+      "example_en": "The mayor highlighted the resilience of the population"
+    }
   ]
 }
