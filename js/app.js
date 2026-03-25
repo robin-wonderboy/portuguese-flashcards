@@ -507,7 +507,8 @@ function renderNews() {
   }).join('');
 
   const source = newsData.source ? `<div class="news-source">Fonte: ${newsData.source}</div>` : '';
-  document.getElementById('newsContent').innerHTML = html + source;
+  const dateHeader = newsData.date ? `<div class="news-date">📰 ${new Date(newsData.date + 'T00:00:00').toLocaleDateString('pt-PT', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</div>` : '';
+  document.getElementById('newsContent').innerHTML = dateHeader + html + source;
 }
 
 // === INIT ===

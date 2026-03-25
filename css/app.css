@@ -453,6 +453,17 @@ button:active { opacity: 0.8; }
   padding: 4px 8px;
 }
 
+.news-date {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #e2e8f0;
+  text-align: center;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #4ade80;
+  text-transform: capitalize;
+}
+
 .news-section { margin-bottom: 16px; }
 
 .news-category {
