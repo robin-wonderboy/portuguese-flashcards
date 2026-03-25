@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Filho que matou mãe vereadora a tiro começa a ser julgado",
+          "text": "O rapaz de 14 anos acusado de matar a mãe, a vereadora da Câmara de Vagos Susana Gravato, começa hoje a ser julgado à porta fechada no Tribunal de Família e Menores de Aveiro. O crime ocorreu em outubro de 2025 na Gafanha da Vagueira. O jovem confessou o homicídio e está em centro educativo em regime fechado."
+        },
+        {
+          "headline": "Meta condenada a pagar 322,8 milhões por ocultar exploração infantil",
+          "text": "Um júri do Novo México determinou que a Meta terá de pagar 375 milhões de dólares por ocultar deficiências nas suas plataformas que facilitavam exploração sexual infantil. O Ministério Público criou perfis de menores que rapidamente receberam contactos sexuais de adultos. A Meta vai apelar do veredicto."
+        }
+      ]
+    },
+    {
+      "emoji": "🔫",
+      "category": "CRIME INTERNACIONAL",
+      "stories": [
+        {
+          "headline": "\"Rei do Jogo\" taiwanês morto a tiro no Camboja",
+          "text": "O fugitivo Lin Bingwen, procurado por jogo ilegal e branqueamento de capitais, foi morto a tiro em Sihanoukville. O crime premeditado envolveu três a quatro atacantes. Lin estava ligado ao escândalo do \"88 Club\" com transferências ilícitas estimadas em 585,8 milhões de euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Ferido grave em despiste de pesado — A19 interrompida",
+          "text": "Um camião tombou na A19 junto ao shopping de Leiria, provocando um ferido grave e a interrupção da circulação nos dois sentidos. O alerta foi dado à 01h e às 06h ainda decorriam trabalhos de remoção e limpeza."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "AMBIENTE",
+      "stories": [
+        {
+          "headline": "Vila Galé conclui reflorestação na Serra da Estrela",
+          "text": "O Grupo Vila Galé terminou o seu projeto de reflorestação no Parque Natural da Serra da Estrela, iniciado após os incêndios de 2022 que destruíram 25% do parque. Foram plantadas 32 mil árvores autóctones (carvalho-negral, teixo) com mais de 300 colaboradores em 15 ações. Seguem-se 20 anos de monitorização."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Parlamento deve marcar nova data para eleição de órgãos externos",
+          "text": "A conferência de líderes deve hoje definir nova data para a eleição dos juízes do Tribunal Constitucional, após sucessivos adiamentos. O Chega quer entrar no TC com o juiz Luís Brites Lameiras. O PS avisa que a sua exclusão será vista como rutura, com possíveis consequências no Orçamento do Estado."
+        },
+        {
+          "headline": "Governo reforça Desporto com cinco milhões de euros",
+          "text": "O Governo anuncia um reforço extraordinário de 5 milhões de euros para o desporto: 2M para federações e Comités Olímpico/Paralímpico, 2M para alto rendimento e seleções, e 1M para premiar resultados de excelência."
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Dias de quase verão antes de reviravolta gelada",
+          "text": "Semana com temperaturas amenas até 22-24°C graças a um padrão anticiclónico. Mas a partir do fim de semana, uma massa de ar polar traz uma descida acentuada — com possibilidade de temperaturas negativas no interior no Domingo de Ramos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Festa da Primavera regressa a Oliveira do Hospital",
+          "text": "O Agrupamento de Escolas de Oliveira do Hospital celebra a primavera de 25 a 27 de março com teatro, cinema, desporto, palestras e ações ambientais. A iniciativa existe desde 2018, após o incêndio que devastou o concelho em 2017."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Alimentos que nunca devem ir ao microondas em plástico",
+          "text": "Especialistas alertam que plásticos de embalagens alimentares podem libertar substâncias tóxicas quando aquecidos. Recomenda-se usar recipientes de vidro ou cerâmica e evitar película aderente sobre alimentos quentes."
+        }
+      ]
+    }
+  ]
+}
