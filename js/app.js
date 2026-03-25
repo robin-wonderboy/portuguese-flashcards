@@ -161,7 +161,11 @@ function getAllCards() {
 
 function getTodayCards() {
   const todayKey = new Date().toISOString().split('T')[0];
-  return vocabulary[todayKey] || [];
+  if (vocabulary[todayKey] && vocabulary[todayKey].length > 0) return vocabulary[todayKey];
+  // Fall back to most recent date's vocab
+  const dates = Object.keys(vocabulary).filter(k => /^\d{4}-\d{2}-\d{2}$/.test(k)).sort();
+  if (dates.length > 0) return vocabulary[dates[dates.length - 1]] || [];
+  return [];
 }
 
 function getWeakCards() {
