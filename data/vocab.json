@@ -8382,5 +8382,127 @@
       "example_de": "Der Bürgermeister hob die Widerstandsfähigkeit der Bevölkerung hervor",
       "example_en": "The mayor highlighted the resilience of the population"
     }
+  ],
+  "2026-03-25": [
+    {
+      "pt": "julgar",
+      "de": "urteilen, richten",
+      "en": "to judge, to try (in court)",
+      "example": "O filho começa a ser julgado hoje.",
+      "example_de": "Der Sohn wird heute vor Gericht gestellt.",
+      "example_en": "The son begins to be tried today."
+    },
+    {
+      "pt": "a reflorestação",
+      "de": "die Aufforstung",
+      "en": "the reforestation",
+      "example": "O projeto de reflorestação plantou 32 mil árvores.",
+      "example_de": "Das Aufforstungsprojekt pflanzte 32.000 Bäume.",
+      "example_en": "The reforestation project planted 32,000 trees."
+    },
+    {
+      "pt": "o adiamento",
+      "de": "die Verschiebung",
+      "en": "the postponement",
+      "example": "Houve sucessivos adiamentos da eleição.",
+      "example_de": "Es gab aufeinanderfolgende Verschiebungen der Wahl.",
+      "example_en": "There were successive postponements of the election."
+    },
+    {
+      "pt": "ocultar",
+      "de": "verbergen, verheimlichen",
+      "en": "to hide, to conceal",
+      "example": "A Meta ocultou informações sobre exploração infantil.",
+      "example_de": "Meta verheimlichte Informationen über Kindesmissbrauch.",
+      "example_en": "Meta concealed information about child exploitation."
+    },
+    {
+      "pt": "premeditado",
+      "de": "vorsätzlich, geplant",
+      "en": "premeditated",
+      "example": "O crime foi descrito como premeditado.",
+      "example_de": "Das Verbrechen wurde als vorsätzlich beschrieben.",
+      "example_en": "The crime was described as premeditated."
+    },
+    {
+      "pt": "a reviravolta",
+      "de": "die Wende, der Umschwung",
+      "en": "the turnaround, the twist",
+      "example": "Vem aí uma reviravolta gelada no fim de semana.",
+      "example_de": "Am Wochenende kommt ein eisiger Umschwung.",
+      "example_en": "An icy turnaround is coming this weekend."
+    },
+    {
+      "pt": "libertar",
+      "de": "freisetzen, freilassen",
+      "en": "to release, to set free",
+      "example": "Os plásticos podem libertar substâncias tóxicas.",
+      "example_de": "Plastik kann giftige Stoffe freisetzen.",
+      "example_en": "Plastics can release toxic substances."
+    },
+    {
+      "pt": "prejudicial",
+      "de": "schädlich",
+      "en": "harmful, detrimental",
+      "example": "Químicos prejudiciais à saúde podem ser libertados.",
+      "example_de": "Gesundheitsschädliche Chemikalien können freigesetzt werden.",
+      "example_en": "Harmful chemicals can be released."
+    },
+    {
+      "pt": "o branqueamento",
+      "de": "die Geldwäsche",
+      "en": "money laundering",
+      "example": "Lin era procurado por branqueamento de capitais.",
+      "example_de": "Lin wurde wegen Geldwäsche gesucht.",
+      "example_en": "Lin was wanted for money laundering."
+    },
+    {
+      "pt": "apelar",
+      "de": "Berufung einlegen, appellieren",
+      "en": "to appeal (legal)",
+      "example": "A Meta vai apelar da decisão do júri.",
+      "example_de": "Meta wird gegen die Entscheidung der Geschworenen Berufung einlegen.",
+      "example_en": "Meta will appeal the jury's decision."
+    },
+    {
+      "pt": "a salvaguarda",
+      "de": "die Schutzmaßnahme",
+      "en": "the safeguard",
+      "example": "A empresa não criou salvaguardas eficazes.",
+      "example_de": "Das Unternehmen hat keine wirksamen Schutzmaßnahmen geschaffen.",
+      "example_en": "The company did not create effective safeguards."
+    },
+    {
+      "pt": "devastar",
+      "de": "verwüsten",
+      "en": "to devastate",
+      "example": "O incêndio devastou o concelho em 2017.",
+      "example_de": "Der Brand verwüstete die Gemeinde 2017.",
+      "example_en": "The fire devastated the municipality in 2017."
+    },
+    {
+      "pt": "o veredicto",
+      "de": "das Urteil, der Urteilsspruch",
+      "en": "the verdict",
+      "example": "A Meta discorda do veredicto do júri.",
+      "example_de": "Meta ist mit dem Urteil der Geschworenen nicht einverstanden.",
+      "example_en": "Meta disagrees with the jury's verdict."
+    },
+    {
+      "pt": "tombar",
+      "de": "umstürzen, umkippen",
+      "en": "to topple, to overturn",
+      "example": "O camião tombou e obstruiu a estrada.",
+      "example_de": "Der LKW kippte um und blockierte die Straße.",
+      "example_en": "The truck overturned and blocked the road."
+    },
+    {
+      "pt": "a cidadania",
+      "de": "die Staatsbürgerschaft, das Bürgerengagement",
+      "en": "citizenship, civic engagement",
+      "example": "A festa promove a cidadania ativa.",
+      "example_de": "Das Fest fördert aktives Bürgerengagement.",
+      "example_en": "The festival promotes active citizenship."
+    }
   ]
 }
