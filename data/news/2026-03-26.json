@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌿",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Coimbra vai sofrer com os pólenes",
+          "text": "Com a chegada da primavera, os níveis de pólen vão subir drasticamente no Norte e Centro do país. O pico é esperado entre hoje e amanhã, com níveis \"Muito Alto\" em zonas montanhosas. A região de Coimbra pode ser afetada a partir de sexta-feira."
+        },
+        {
+          "headline": "Tratamento inovador contra o cancro com menos quimioterapia",
+          "text": "Uma equipa internacional desenvolveu um tratamento trimodal que combina quimioterapia com duas formas de hipertermia, atingindo 70% de morte celular em 72 horas com doses menores de medicamento. Ainda em fase de testes."
+        },
+        {
+          "headline": "Antigo presidente do INEM lamenta falta de autonomia",
+          "text": "Luis Meira criticou a \"falsa autonomia\" do INEM, que precisa de autorização externa até para contratar pessoal com vagas abertas. Defende nova legislação para tornar o instituto mais ágil."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Ex-polícia francês faz 1000 km para enterrar corpos em Portugal",
+          "text": "Cédric Prizzon, 42 anos, raptou duas mulheres e dois filhos menores no sul de França, percorreu mais de 1000 km até Bragança e matou ambas as mulheres por asfixia. O filho de 13 anos ficou a vigiar o local. Detido pela GNR em Mêda com documentos falsos, confessou os crimes."
+        },
+        {
+          "headline": "Caso da grávida da Murtosa: Justiça aperta cerco a Fernando Valente",
+          "text": "A procuradora-geral adjunta do Tribunal da Relação do Porto defende que Fernando Valente deve ser condenado a pena próxima de 25 anos. Considera que não é necessário encontrar o corpo para concluir que houve homicídio."
+        },
+        {
+          "headline": "Julgamento do homicida mais jovem de Portugal retoma hoje",
+          "text": "Continua no Tribunal de Aveiro o julgamento do jovem de 14 anos acusado de matar a mãe em Vagos. A sessão de ontem decorreu à porta fechada. Faltam ouvir 13 testemunhas."
+        },
+        {
+          "headline": "Gestor de restaurante de luxo desaparecido no Algarve",
+          "text": "O desaparecimento de Ricardo Claro pode estar ligado a informações de um antigo colaborador. Antes de desaparecer, o gestor teria medo de andar na rua."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Debate da RTP sobre regionalização arranca em Coimbra",
+          "text": "\"O Grande Debate\" da RTP estreou ontem em Coimbra com o tema \"O Poder das Regiões\". Ana Abrunhosa defendeu que com Ribau Esteves como presidente de uma região administrativa, muitas decisões já teriam sido tomadas. Elisa Ferreira apoiou o mapa atual das CCDR."
+        },
+        {
+          "headline": "Impasse político continua em S. Martinho do Bispo",
+          "text": "A reunião informal da Assembleia de Freguesia não conseguiu desbloquear o impasse. A oposição acusa a presidente de insistir numa maioria que não resulta das eleições, com apenas 12 votos de diferença entre as duas principais forças."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & SOCIAL",
+      "stories": [
+        {
+          "headline": "\"Botija Solidária\" relançada com comparticipação de 25€",
+          "text": "O programa de apoio à compra de botijas de gás volta hoje com uma comparticipação aumentada de 15€ para 25€, durante três meses, face ao impacto da guerra no Médio Oriente. Destinado a famílias vulneráveis através das juntas de freguesia."
+        },
+        {
+          "headline": "Bombeiro perde carro em incêndio e pede ajuda",
+          "text": "O bombeiro Daniel Silva ficou sem carro após um incêndio à porta de casa. Com seguro apenas contra terceiros, lançou campanha para angariar 1500€ para um carro usado."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "category": "TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "IA obriga empresas a repensar cibersegurança",
+          "text": "A Check Point alerta que ataques com recurso a IA estão a explorar vulnerabilidades em modelos e aplicações. Muitas empresas usam ferramentas de IA sem controlo centralizado, aumentando o risco de fuga de dados."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Seleção treina em Cancún para o Mundial 2026",
+          "text": "João Neves ficou no ginásio e Pedro Gonçalves treinou de forma limitada no relvado. Portugal prepara o particular com o México no sábado. No Mundial, está no Grupo K com Uzbequistão e Colômbia."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "CULTURA & TURISMO",
+      "stories": [
+        {
+          "headline": "Vinhos da Bairrada brilham em Castelldefels",
+          "text": "A Região Metropolitana de Coimbra promoveu vinhos da Bairrada numa mostra em Espanha, reforçando a geminação com o município catalão. O evento contou com 24 stands enogastronómicos."
+        }
+      ]
+    }
+  ]
+}
