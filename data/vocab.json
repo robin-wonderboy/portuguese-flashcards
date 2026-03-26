@@ -8504,5 +8504,119 @@
       "example_de": "Das Fest fördert aktives Bürgerengagement.",
       "example_en": "The festival promotes active citizenship."
     }
+  ],
+  "2026-03-26": [
+    {
+      "pt": "enterrar",
+      "de": "begraben, vergraben",
+      "en": "to bury",
+      "example": "Os corpos foram enterrados na serra da Nogueira",
+      "example_de": "Die Leichen wurden in der Serra da Nogueira begraben",
+      "example_en": "The bodies were buried in Serra da Nogueira"
+    },
+    {
+      "pt": "a fuga",
+      "de": "die Flucht",
+      "en": "the escape, flight",
+      "example": "A fuga terminou quando a GNR parou a carrinha",
+      "example_de": "Die Flucht endete, als die GNR den Transporter stoppte",
+      "example_en": "The escape ended when the GNR stopped the van"
+    },
+    {
+      "pt": "vigiar",
+      "de": "bewachen, überwachen",
+      "en": "to watch over, guard",
+      "example": "O filho ficou a vigiar o local",
+      "example_de": "Der Sohn blieb, um den Ort zu bewachen",
+      "example_en": "The son stayed to watch over the location"
+    },
+    {
+      "pt": "a cova",
+      "de": "die Grube, das Grab",
+      "en": "the pit, grave",
+      "example": "O pai cavou uma cova junto à estrada",
+      "example_de": "Der Vater grub eine Grube neben der Straße",
+      "example_en": "The father dug a pit next to the road"
+    },
+    {
+      "pt": "apertar o cerco",
+      "de": "den Kreis enger ziehen",
+      "en": "to tighten the net",
+      "example": "A justiça volta a apertar o cerco ao suspeito",
+      "example_de": "Die Justiz zieht den Kreis um den Verdächtigen enger",
+      "example_en": "Justice tightens the net around the suspect"
+    },
+    {
+      "pt": "cobarde",
+      "de": "feige",
+      "en": "cowardly",
+      "example": "O comportamento foi repugnante e cobarde",
+      "example_de": "Das Verhalten war abstoßend und feige",
+      "example_en": "The behavior was repugnant and cowardly"
+    },
+    {
+      "pt": "arrastar",
+      "de": "schleppen, ziehen",
+      "en": "to drag",
+      "example": "Viu o pai arrastar os corpos até à cova",
+      "example_de": "Er sah den Vater die Leichen zur Grube schleppen",
+      "example_en": "He saw his father drag the bodies to the pit"
+    },
+    {
+      "pt": "desbloquear",
+      "de": "entsperren, freischalten",
+      "en": "to unblock, unlock",
+      "example": "Não foi possível desbloquear o impasse político",
+      "example_de": "Es war nicht möglich, die politische Sackgasse aufzulösen",
+      "example_en": "It was not possible to unblock the political deadlock"
+    },
+    {
+      "pt": "o pontapé de saída",
+      "de": "der Anstoß, der Startschuss",
+      "en": "the kick-off",
+      "example": "Coimbra deu o pontapé de saída ao novo programa da RTP",
+      "example_de": "Coimbra gab den Startschuss für das neue RTP-Programm",
+      "example_en": "Coimbra kicked off the new RTP program"
+    },
+    {
+      "pt": "a botija",
+      "de": "die Gasflasche",
+      "en": "the gas bottle",
+      "example": "A comparticipação na botija de gás subiu para 25 euros",
+      "example_de": "Der Zuschuss für die Gasflasche stieg auf 25 Euro",
+      "example_en": "The gas bottle subsidy rose to 25 euros"
+    },
+    {
+      "pt": "a comparticipação",
+      "de": "die Zuzahlung, der Zuschuss",
+      "en": "the subsidy, co-payment",
+      "example": "O governo aumentou a comparticipação para famílias vulneráveis",
+      "example_de": "Die Regierung erhöhte den Zuschuss für schutzbedürftige Familien",
+      "example_en": "The government increased the subsidy for vulnerable families"
+    },
+    {
+      "pt": "eficaz",
+      "de": "wirksam, effektiv",
+      "en": "effective, efficient",
+      "example": "O novo tratamento é mais eficaz contra o cancro",
+      "example_de": "Die neue Behandlung ist wirksamer gegen Krebs",
+      "example_en": "The new treatment is more effective against cancer"
+    },
+    {
+      "pt": "o relvado",
+      "de": "der Rasen, das Spielfeld",
+      "en": "the pitch, lawn",
+      "example": "Pedro Gonçalves treinou no relvado de forma limitada",
+      "example_de": "Pedro Gonçalves trainierte eingeschränkt auf dem Rasen",
+      "example_en": "Pedro Gonçalves trained on the pitch in a limited way"
+    },
+    {
+      "pt": "brilhar",
+      "de": "glänzen, strahlen",
+      "en": "to shine",
+      "example": "Coimbra brilhou com vinhos da Bairrada em Espanha",
+      "example_de": "Coimbra glänzte mit Bairrada-Weinen in Spanien",
+      "example_en": "Coimbra shone with Bairrada wines in Spain"
+    }
   ]
 }
