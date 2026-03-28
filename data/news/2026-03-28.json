@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "📹",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Coimbra instala mais 38 câmaras de videovigilância",
+          "text": "A Câmara consignou a empreitada de ampliação do sistema de videovigilância, investindo quase 349 mil euros. As novas câmaras vão cobrir a Baixa (Arnado, Terreiro da Erva, Rua da Sofia) e o Parque Verde do Mondego, elevando o total para 55. O sistema funciona em rede fechada, sem reconhecimento facial."
+        },
+        {
+          "headline": "AAC paga dívidas de milhares de euros em 3 meses",
+          "text": "A Direção-Geral da Associação Académica de Coimbra esclareceu a polémica da dívida de 3.500€ à Secção de Jornalismo. Após a proposta de pagar com barris de cerveja ter causado indignação, a DG/AAC garante que já reduziu dívidas herdadas de dezenas de milhares de euros."
+        },
+        {
+          "headline": "Parlamento eleva três localidades do distrito a vilas históricas",
+          "text": "Vila Cova do Alva e Côja (Arganil) e Semide (Miranda do Corvo) foram aprovadas para elevação à categoria de vilas históricas pela Comissão da Reforma do Estado."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "REGIÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Gala \"O Melhor de Nós\" homenageia sete municípios de Sicó",
+          "text": "A terceira edição da gala da Fundação ADFP reuniu autarquias de Alvaiázere, Ansião, Condeixa, Miranda do Corvo, Penela, Pombal e Soure no Conimbriga Hotel do Paço. Foram premiadas personalidades e instituições de cada concelho, com destaque para produtos endógenos da região."
+        },
+        {
+          "headline": "PSD Cantanhede toma posse com auditório cheio",
+          "text": "A Secção de Cantanhede do PSD realizou cerimónia de posse com a presença do Secretário-Geral Hugo Soares. A nova líder Joana Seabra, deputada e médica, citou Sá Carneiro: \"Só é vencido quem desiste de lutar.\""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & FINANÇAS",
+      "stories": [
+        {
+          "headline": "Euribor dispara: prestações da casa sobem em abril",
+          "text": "Famílias com crédito habitação de taxa variável enfrentam novo aumento. A Euribor a 12 meses já ultrapassou os 2,5% e o BCE mantém as taxas diretoras nos 2%. Especialistas recomendam renegociar o spread ou transferir o empréstimo."
+        },
+        {
+          "headline": "Governo aprova 150 milhões/mês para combustíveis",
+          "text": "Mantém-se o desconto no ISP (7,6 cênt/litro gasóleo, 4,1 na gasolina). Novos apoios entre abril e junho para transportes, agricultura, bombeiros e táxis. Montenegro apela à gestão prudente face à incerteza da guerra no Médio Oriente."
+        },
+        {
+          "headline": "Petróleo Brent atinge 112,57 dólares — máximo desde 2022",
+          "text": "O barril de Brent fechou em alta de 4,22%, refletindo tensões no Golfo Pérsico sem sinais de alívio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hospitais sem stock obrigam doentes a viagens semanais",
+          "text": "A A.N.D.A.R. denunciou casos de doentes com artrite reumatoide obrigados a percorrer mais de 100 km semanalmente para levantar medicação. Uma utente da Lourinhã faz 160 km todas as semanas ao Hospital Beatriz Ângelo porque não há stock suficiente."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Mundial 2026: Jamaica ou RD Congo no grupo de Portugal",
+          "text": "A Jamaica venceu a Nova Caledónia (1-0) e defronta a RD Congo na final do play-off intercontinental. O vencedor será o primeiro adversário de Portugal no Grupo K, a 17 de junho em Houston."
+        }
+      ]
+    },
+    {
+      "emoji": "🌪️",
+      "category": "PÓS-TEMPESTADE KRISTIN",
+      "stories": [
+        {
+          "headline": "Presidente de Leiria pede melhores modelos ao IPMA",
+          "text": "Dois meses depois da tempestade Kristin, 50% da população na região de Leiria ainda não tem comunicações. Gonçalo Lopes pediu ao IPMA para rever os modelos de previsão, notando que cientistas independentes acertaram melhor na localização da entrada da tempestade."
+        }
+      ]
+    }
+  ]
+}
