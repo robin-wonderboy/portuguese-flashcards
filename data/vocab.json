@@ -8618,5 +8618,119 @@
       "example_de": "Coimbra glänzte mit Bairrada-Weinen in Spanien",
       "example_en": "Coimbra shone with Bairrada wines in Spain"
     }
+  ],
+  "2026-03-28": [
+    {
+      "pt": "consignar",
+      "de": "vergeben, zuweisen (Auftrag)",
+      "en": "to award, to assign (contract)",
+      "example": "A Câmara consignou a empreitada de videovigilância",
+      "example_de": "Die Stadtverwaltung vergab den Videoüberwachungsauftrag",
+      "example_en": "The city council awarded the surveillance contract"
+    },
+    {
+      "pt": "saldar",
+      "de": "begleichen (Schulden)",
+      "en": "to settle (a debt)",
+      "example": "A AAC não conseguiu saldar a dívida de imediato",
+      "example_de": "Die AAC konnte die Schulden nicht sofort begleichen",
+      "example_en": "The AAC couldn't settle the debt immediately"
+    },
+    {
+      "pt": "agravar",
+      "de": "verschlimmern, verteuern",
+      "en": "to worsen, to increase (costs)",
+      "example": "A Euribor volta a agravar os encargos da casa",
+      "example_de": "Die Euribor verteuert die Wohnkosten weiter",
+      "example_en": "The Euribor further increases housing costs"
+    },
+    {
+      "pt": "vigorar",
+      "de": "gelten, in Kraft sein",
+      "en": "to be in force/effect",
+      "example": "Os apoios vão vigorar entre abril e junho",
+      "example_de": "Die Hilfen gelten von April bis Juni",
+      "example_en": "The support measures will be in force from April to June"
+    },
+    {
+      "pt": "apurar-se",
+      "de": "sich qualifizieren",
+      "en": "to qualify (sports)",
+      "example": "O vencedor apura-se para o Mundial 2026",
+      "example_de": "Der Gewinner qualifiziert sich für die WM 2026",
+      "example_en": "The winner qualifies for the 2026 World Cup"
+    },
+    {
+      "pt": "embater",
+      "de": "prallen, aufprallen",
+      "en": "to crash into, to collide",
+      "example": "A jovem embateu com o carro contra uma habitação",
+      "example_de": "Die junge Frau prallte mit dem Auto gegen ein Haus",
+      "example_en": "The young woman crashed her car into a house"
+    },
+    {
+      "pt": "dispensar",
+      "de": "ausgeben, aushändigen (Medikamente)",
+      "en": "to dispense (medication)",
+      "example": "O hospital ajustou a quantidade dispensada a cada doente",
+      "example_de": "Das Krankenhaus passte die an jeden Patienten ausgegebene Menge an",
+      "example_en": "The hospital adjusted the quantity dispensed to each patient"
+    },
+    {
+      "pt": "a prestação",
+      "de": "die Rate, die Monatsrate",
+      "en": "monthly installment/payment",
+      "example": "As prestações do crédito habitação vão subir em abril",
+      "example_de": "Die Kreditraten für Wohnungsbaudarlehen steigen im April",
+      "example_en": "Mortgage installments will rise in April"
+    },
+    {
+      "pt": "o mutuário",
+      "de": "der Kreditnehmer",
+      "en": "borrower (mortgage holder)",
+      "example": "O impacto não será igual para todos os mutuários",
+      "example_de": "Die Auswirkung wird nicht für alle Kreditnehmer gleich sein",
+      "example_en": "The impact won't be the same for all borrowers"
+    },
+    {
+      "pt": "o barril",
+      "de": "das Fass",
+      "en": "barrel",
+      "example": "Propuseram pagar a dívida com barris de cerveja",
+      "example_de": "Sie schlugen vor, die Schulden mit Bierfässern zu begleichen",
+      "example_en": "They proposed paying the debt with beer barrels"
+    },
+    {
+      "pt": "cifrado",
+      "de": "verschlüsselt",
+      "en": "encrypted",
+      "example": "As imagens são encriptadas e a transmissão é cifrada",
+      "example_de": "Die Bilder sind verschlüsselt und die Übertragung ist chiffriert",
+      "example_en": "The images are encrypted and the transmission is ciphered"
+    },
+    {
+      "pt": "pontualmente",
+      "de": "gelegentlich, vereinzelt",
+      "en": "occasionally, from time to time",
+      "example": "Pontualmente verificam-se constrangimentos no fornecimento",
+      "example_de": "Gelegentlich gibt es Engpässe bei der Lieferung",
+      "example_en": "Occasionally there are supply constraints"
+    },
+    {
+      "pt": "de imediato",
+      "de": "sofort, unverzüglich",
+      "en": "immediately, right away",
+      "example": "Os pais contactaram de imediato a linha de Saúde 24",
+      "example_de": "Die Eltern kontaktierten sofort die Gesundheitshotline 24",
+      "example_en": "The parents immediately contacted the Health 24 hotline"
+    },
+    {
+      "pt": "o constrangimento",
+      "de": "die Einschränkung, der Engpass",
+      "en": "constraint, bottleneck",
+      "example": "Verificam-se constrangimentos no fornecimento de medicação",
+      "example_de": "Es gibt Engpässe bei der Medikamentenlieferung",
+      "example_en": "There are constraints in medication supply"
+    }
   ]
 }
