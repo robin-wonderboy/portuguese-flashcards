@@ -1,0 +1,120 @@
+{
+  "date": "2026-03-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "TRAGÉDIA",
+      "stories": [
+        {
+          "headline": "Dois jovens da Lousã morrem atropelados na Ericeira",
+          "text": "Diogo Marques (29) e Emanuel Nogueira (31), naturais da Lousã, morreram na EN247 depois de serem atingidos por um veículo desgovernado enquanto caminhavam no passeio. Ambos trabalhavam na hotelaria na Ericeira. A comunidade da Lousã está de luto e a Câmara Municipal garantiu apoio às famílias."
+        }
+      ]
+    },
+    {
+      "emoji": "👮",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PSP apanha suspeito a vender artigos furtados em parque de estacionamento",
+          "text": "Um homem de 39 anos foi detido na Marinha Grande após furtar um telemóvel e equipamento de limpeza de uma associação social. A PSP intercetou-o num parque de estacionamento quando tentava vender os bens. Sobre o detido pendia ainda um mandado de prisão por condução sob efeito do álcool."
+        },
+        {
+          "headline": "Coimbra vai ter mais 38 câmaras de videovigilância",
+          "text": "A Câmara de Coimbra consignou uma empreitada de 350 mil euros para instalar 38 novas câmaras na Baixa, Arnado, Rua da Sofia e Parque Verde, juntando-se às 17 existentes. A presidente Ana Abrunhosa quer ainda ampliar o sistema durante o mandato."
+        }
+      ]
+    },
+    {
+      "emoji": "🌦️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Semana Santa vem \"endemoninhada\" — do frio polar ao calor de 26°C",
+          "text": "Após um fim de semana de madrugadas geladas com ar polar, as temperaturas sobem a partir de segunda-feira graças a um anticiclone. Terça e quarta serão os dias mais quentes, com máximas de 26°C no interior Centro — até 7°C acima da média. Atenção ao índice UV elevado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Ventura fala em \"oportunidade histórica\" para rever Constituição",
+          "text": "O líder do Chega defendeu em Santarém que a revisão constitucional deve avançar ainda este ano, acusando o Tribunal Constitucional de \"bloquear mudanças\". Ventura apelou ao PSD para participar no processo, afirmando que Chega, PSD e IL têm os dois terços necessários no parlamento."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "AAC queria pagar dívida de 3.500€ com barris de cerveja",
+          "text": "A Associação Académica de Coimbra propôs saldar uma dívida de 3.500 euros à Secção de Jornalismo com barris de cerveja, o que provocou uma nota de repúdio. A DG/AAC defende-se dizendo que já reduziu dívidas de dezenas de milhares de euros em três meses de mandato."
+        }
+      ]
+    },
+    {
+      "emoji": "🏭",
+      "category": "ECONOMIA & INDÚSTRIA",
+      "stories": [
+        {
+          "headline": "Fábrica de telhas de Pombal só recupera capacidade total em maio",
+          "text": "A Umbelino Monteiro, em Meirinhas, reporta prejuízos de 1 a 3 milhões de euros após a depressão Kristin. Um pavilhão colapsou e outro sofreu danos graves. A empresa esteve parada duas semanas sem eletricidade e ainda usa Starlink por falta de comunicações. Foram dispensados 12 trabalhadores temporários."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA & SAÚDE",
+      "stories": [
+        {
+          "headline": "ADN no sangue pode antecipar recaída de cancro da mama",
+          "text": "Um estudo internacional com 81 pacientes, apresentado em Barcelona, mostra que fragmentos de ADN tumoral no sangue podem prever o regresso da doença meses antes de sintomas clínicos. A técnica pode orientar decisões de tratamento após terapia pré-cirúrgica."
+        }
+      ]
+    },
+    {
+      "emoji": "🏊",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Vasco Morgado garante mínimos para Europeus de natação em Coimbra",
+          "text": "O nadador do Algés e Dafundo fez 1.57,18 nos 200m mariposa nos Nacionais no Centro Olímpico de Coimbra — melhor marca pessoal. Diogo Ribeiro, campeão mundial, venceu os 50m mariposa em casa. O Sporting levou a estafeta feminina e o FC Porto a masculina."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & CIDADE",
+      "stories": [
+        {
+          "headline": "Presidente da Câmara de Coimbra quer menos carros na cidade",
+          "text": "Ana Abrunhosa afirmou que \"estacionamento gratuito em toda a parte vai ter de acabar\", mas reconheceu que primeiro é preciso oferecer alternativas de transporte. A autarca falava num evento sobre ecologia urbana, após polémicas pelo abate de 20 árvores para obras do Metro Mondego."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Três localidades do distrito de Coimbra elevadas a vilas históricas",
+          "text": "O parlamento aprovou por unanimidade a elevação de Vila Cova do Alva e Côja (Arganil) e Semide (Miranda do Corvo) a vilas históricas, reconhecendo o seu passado como sedes de concelho com forais dos séculos XIII-XVI."
+        }
+      ]
+    },
+    {
+      "emoji": "🍫",
+      "category": "CURIOSO",
+      "stories": [
+        {
+          "headline": "12 toneladas de KitKat roubadas antes de chegar à Europa",
+          "text": "Cerca de 413.793 chocolates KitKat com destino ao mercado europeu foram roubados em Itália após saírem da fábrica. A Nestlé alerta que os produtos podem entrar em canais de venda não oficiais e pediu ao público que verifique os códigos de barras."
+        }
+      ]
+    }
+  ]
+}
