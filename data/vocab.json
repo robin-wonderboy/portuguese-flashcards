@@ -8732,5 +8732,95 @@
       "example_de": "Es gibt Engpässe bei der Medikamentenlieferung",
       "example_en": "There are constraints in medication supply"
     }
+  ],
+  "2026-03-29": [
+    {
+      "pt": "o atropelamento",
+      "de": "das Überfahren",
+      "en": "running over / hit by car",
+      "example": "Dois jovens morreram num violento atropelamento.",
+      "example_de": "Zwei junge Männer starben bei einem schweren Unfall.",
+      "example_en": "Two young men died in a violent hit-and-run."
+    },
+    {
+      "pt": "o passeio",
+      "de": "der Gehweg",
+      "en": "sidewalk",
+      "example": "Eles iam no passeio quando o carro veio.",
+      "example_de": "Sie gingen auf dem Gehweg, als das Auto kam.",
+      "example_en": "They were on the sidewalk when the car came."
+    },
+    {
+      "pt": "rever",
+      "de": "überprüfen / überarbeiten",
+      "en": "to revise / review",
+      "example": "O partido quer rever a Constituição.",
+      "example_de": "Die Partei will die Verfassung überarbeiten.",
+      "example_en": "The party wants to revise the Constitution."
+    },
+    {
+      "pt": "endemoninhado",
+      "de": "verrückt / wild",
+      "en": "wild / crazy / possessed",
+      "example": "O tempo vem endemoninhado esta semana.",
+      "example_de": "Das Wetter wird diese Woche verrückt.",
+      "example_en": "The weather is going to be wild this week."
+    },
+    {
+      "pt": "desgovernado",
+      "de": "außer Kontrolle",
+      "en": "out of control",
+      "example": "O veículo desgovernado atropelou dois jovens.",
+      "example_de": "Das außer Kontrolle geratene Fahrzeug überfuhr zwei junge Männer.",
+      "example_en": "The out-of-control vehicle ran over two young men."
+    },
+    {
+      "pt": "o mandado",
+      "de": "der Haftbefehl",
+      "en": "warrant",
+      "example": "Sobre o detido pendia um mandado de detenção.",
+      "example_de": "Gegen den Festgenommenen lag ein Haftbefehl vor.",
+      "example_en": "There was an outstanding arrest warrant for the detainee."
+    },
+    {
+      "pt": "a recaída",
+      "de": "der Rückfall",
+      "en": "relapse",
+      "example": "O ADN pode antecipar o risco de recaída.",
+      "example_de": "Die DNA kann das Rückfallrisiko vorhersagen.",
+      "example_en": "DNA can predict the risk of relapse."
+    },
+    {
+      "pt": "degradado",
+      "de": "heruntergekommen / verfallen",
+      "en": "run-down / degraded",
+      "example": "Temos zonas degradadas na cidade.",
+      "example_de": "Wir haben heruntergekommene Gegenden in der Stadt.",
+      "example_en": "We have run-down areas in the city."
+    },
+    {
+      "pt": "repudiar",
+      "de": "zurückweisen / ablehnen",
+      "en": "to repudiate / to reject",
+      "example": "A Secção de Jornalismo repudiou a proposta.",
+      "example_de": "Die Journalismusabteilung wies den Vorschlag zurück.",
+      "example_en": "The Journalism Section repudiated the proposal."
+    },
+    {
+      "pt": "antecipar",
+      "de": "vorhersagen / vorwegnehmen",
+      "en": "to anticipate / to predict",
+      "example": "Cientistas usam ADN para antecipar riscos.",
+      "example_de": "Wissenschaftler nutzen DNA, um Risiken vorherzusagen.",
+      "example_en": "Scientists use DNA to predict risks."
+    },
+    {
+      "pt": "aquecer",
+      "de": "aufwärmen / erwärmen",
+      "en": "to heat up / to warm",
+      "example": "O céu limpo vai ajudar a aquecer o ambiente.",
+      "example_de": "Der klare Himmel wird helfen, die Luft zu erwärmen.",
+      "example_en": "The clear sky will help warm the air."
+    }
   ]
 }
