@@ -1,0 +1,100 @@
+{
+  "date": "2026-03-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Temperaturas quase de verão amanhã",
+          "text": "Amanhã, terça-feira, os termómetros podem chegar aos 27–29°C nos vales do Tejo, Sado e Mondego — até 8°C acima da média. Céu limpo e condições ideais para quem está de férias da Páscoa, com grande contraste entre manhãs frias e tardes quase estivais."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Praga de ratos e baratas na residência do primeiro-ministro",
+          "text": "A Secretaria-Geral do Governo assinou contrato de 13.950€ (3 anos) para desbaratização e desratização do Palacete de São Bento. O controlo de pragas na residência oficial não é novo — há registos desde 2018. Também o Palácio de Belém mantém contratos semelhantes."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Saramago pode deixar de ser obrigatório nas escolas",
+          "text": "O Ministério da Educação propõe que obras de Saramago no 12.º ano possam ser substituídas por Mário de Carvalho. Professores criticam: \"Só há um Nobel português da literatura.\" Camilo Castelo Branco ganha mais destaque no 11.º ano, e Eça de Queirós soma nova opção com A Cidade e as Serras."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica de luto pela morte de \"Jonas\"",
+          "text": "Faleceu João Pedro Polónio, figura marcante do rugby academista. Foi team manager de várias equipas seniores, reconhecido pelo seu sorriso constante e pela paixão pela Académica."
+        },
+        {
+          "headline": "Vasco Morgado garante mínimos para Europeus de natação",
+          "text": "O nadador fez 1.57,18 nos 200m mariposa em Coimbra — melhor marca pessoal. Diogo Ribeiro, campeão mundial, venceu os 50m mariposa. Nacionais decorrem no Centro Olímpico de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Empresário julgado por tentar queimar família viva",
+          "text": "Empresário ucraniano no tribunal de Aveiro por ter regado os filhos com gasolina e ateado fogo à casa em Vagos, após anos de violência doméstica. A mãe salvou o filho de 4 anos atravessando as chamas. GNR também foi ameaçada."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Um morto em incêndio habitacional na Trofa",
+          "text": "Na madrugada de hoje, um incêndio numa casa em Muro, Trofa, causou uma vítima mortal. Os bombeiros encontraram a habitação totalmente tomada pelas chamas. Fogo já foi extinto."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "category": "EMPREGO",
+      "stories": [
+        {
+          "headline": "20 mil empregos na Suíça à espera de portugueses",
+          "text": "A Suíça tem quase 20 mil vagas via rede EURES — saúde, indústria e construção. Salário médio de 6.788 francos suíços (~7.400€). Domínio do alemão é essencial."
+        }
+      ]
+    },
+    {
+      "emoji": "🦉",
+      "category": "AMBIENTE",
+      "stories": [
+        {
+          "headline": "Coruja de Harry Potter protegida pela ONU",
+          "text": "A COP15 no Brasil incluiu 40 novas espécies na lista de proteção, entre elas a coruja-das-neves. Também entraram o tubarão-martelo gigante e a lontra gigante do Brasil. A convenção é juridicamente vinculativa para 132 países."
+        }
+      ]
+    },
+    {
+      "emoji": "💆",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Tratamento inovador de estética chega a Coimbra",
+          "text": "O Voga Momentos Spa traz o primeiro protocolo Hydrofacial com exossomas a Coimbra. Tratamento não invasivo com resultados visíveis na primeira sessão."
+        }
+      ]
+    }
+  ]
+}
