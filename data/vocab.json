@@ -8822,5 +8822,103 @@
       "example_de": "Der klare Himmel wird helfen, die Luft zu erwärmen.",
       "example_en": "The clear sky will help warm the air."
     }
+  ],
+  "2026-03-30": [
+    {
+      "pt": "o pesar",
+      "de": "die Trauer, das Bedauern",
+      "en": "sorrow, grief",
+      "example": "A Académica expressou profundo pesar.",
+      "example_de": "Die Académica drückte tiefe Trauer aus.",
+      "example_en": "Académica expressed deep sorrow."
+    },
+    {
+      "pt": "a coruja",
+      "de": "die Eule",
+      "en": "owl",
+      "example": "A coruja-das-neves ficou famosa no Harry Potter.",
+      "example_de": "Die Schnee-Eule wurde durch Harry Potter berühmt.",
+      "example_en": "The snowy owl became famous through Harry Potter."
+    },
+    {
+      "pt": "regar",
+      "de": "gießen, übergießen",
+      "en": "to water, to pour over",
+      "example": "Ele regou os filhos com gasolina.",
+      "example_de": "Er übergoss die Kinder mit Benzin.",
+      "example_en": "He poured gasoline over the children."
+    },
+    {
+      "pt": "substituir",
+      "de": "ersetzen",
+      "en": "to replace, to substitute",
+      "example": "Saramago pode ser substituído nas escolas.",
+      "example_de": "Saramago könnte in den Schulen ersetzt werden.",
+      "example_en": "Saramago may be replaced in schools."
+    },
+    {
+      "pt": "vinculativo",
+      "de": "verbindlich, bindend",
+      "en": "binding (legal)",
+      "example": "A Convenção é juridicamente vinculativa.",
+      "example_de": "Das Abkommen ist rechtlich bindend.",
+      "example_en": "The Convention is legally binding."
+    },
+    {
+      "pt": "estival",
+      "de": "sommerlich",
+      "en": "summery, summer-like",
+      "example": "As tardes serão quase estivais.",
+      "example_de": "Die Nachmittage werden fast sommerlich.",
+      "example_en": "The afternoons will be almost summery."
+    },
+    {
+      "pt": "o falecimento",
+      "de": "das Ableben, der Tod",
+      "en": "death, passing",
+      "example": "Lamentamos o falecimento de Jonas.",
+      "example_de": "Wir bedauern das Ableben von Jonas.",
+      "example_en": "We mourn the passing of Jonas."
+    },
+    {
+      "pt": "a barata",
+      "de": "die Kakerlake, die Schabe",
+      "en": "cockroach",
+      "example": "Encontraram baratas na cozinha do palácio.",
+      "example_de": "Man fand Kakerlaken in der Palastküche.",
+      "example_en": "They found cockroaches in the palace kitchen."
+    },
+    {
+      "pt": "o arrefecimento",
+      "de": "die Abkühlung",
+      "en": "cooling",
+      "example": "O vento limita o arrefecimento noturno.",
+      "example_de": "Der Wind begrenzt die nächtliche Abkühlung.",
+      "example_en": "The wind limits the nighttime cooling."
+    },
+    {
+      "pt": "duradouro",
+      "de": "dauerhaft, langanhaltend",
+      "en": "lasting, durable",
+      "example": "O tratamento garante resultados duradouros.",
+      "example_de": "Die Behandlung garantiert dauerhafte Ergebnisse.",
+      "example_en": "The treatment guarantees lasting results."
+    },
+    {
+      "pt": "ameaçado",
+      "de": "bedroht, gefährdet",
+      "en": "threatened, endangered",
+      "example": "Muitas espécies estão ameaçadas de extinção.",
+      "example_de": "Viele Arten sind vom Aussterben bedroht.",
+      "example_en": "Many species are threatened with extinction."
+    },
+    {
+      "pt": "o isco",
+      "de": "der Köder",
+      "en": "bait",
+      "example": "Instalaram estações de isco para roedores.",
+      "example_de": "Sie installierten Köderstationen für Nagetiere.",
+      "example_en": "They installed bait stations for rodents."
+    }
   ]
 }
