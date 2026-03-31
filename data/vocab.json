@@ -8920,5 +8920,151 @@
       "example_de": "Sie installierten Köderstationen für Nagetiere.",
       "example_en": "They installed bait stations for rodents."
     }
+  ],
+  "2026-03-31": [
+    {
+      "pt": "iludir",
+      "de": "täuschen, in die Irre führen",
+      "en": "to deceive, to delude",
+      "example": "Fernando Valente iludia Mónica com promessas falsas",
+      "example_de": "Fernando Valente täuschte Mónica mit falschen Versprechen",
+      "example_en": "Fernando Valente deceived Mónica with false promises"
+    },
+    {
+      "pt": "arrombar",
+      "de": "aufbrechen, einbrechen",
+      "en": "to break open, to break in",
+      "example": "O suspeito arrombou uma porta da Reinserção Social",
+      "example_de": "Der Verdächtige brach eine Tür bei der Bewährungshilfe auf",
+      "example_en": "The suspect broke open a door at the Probation Service"
+    },
+    {
+      "pt": "reclamar",
+      "de": "reklamieren, beanstanden",
+      "en": "to complain, to dispute",
+      "example": "Os contribuintes podem reclamar das despesas no Portal das Finanças",
+      "example_de": "Die Steuerzahler können ihre Ausgaben im Finanzportal beanstanden",
+      "example_en": "Taxpayers can dispute their expenses on the Tax Portal"
+    },
+    {
+      "pt": "reivindicar",
+      "de": "fordern, einfordern",
+      "en": "to demand, to claim",
+      "example": "Os técnicos do INEM fazem greve para reivindicar novos protocolos",
+      "example_de": "Die INEM-Techniker streiken, um neue Protokolle einzufordern",
+      "example_en": "INEM technicians go on strike to demand new protocols"
+    },
+    {
+      "pt": "manusear",
+      "de": "anfassen, handhaben",
+      "en": "to handle, to touch",
+      "example": "O exemplar da Constituição deve ser o menos manuseado possível",
+      "example_de": "Das Exemplar der Verfassung soll so wenig wie möglich angefasst werden",
+      "example_en": "The copy of the Constitution should be handled as little as possible"
+    },
+    {
+      "pt": "à solta",
+      "de": "frei herumlaufend, auf freiem Fuß",
+      "en": "on the loose, at large",
+      "example": "A tempestade Kristin deixou o agressor à solta",
+      "example_de": "Der Sturm Kristin ließ den Angreifer auf freiem Fuß",
+      "example_en": "Storm Kristin left the abuser on the loose"
+    },
+    {
+      "pt": "à porta fechada",
+      "de": "hinter verschlossenen Türen",
+      "en": "behind closed doors",
+      "example": "Os depoimentos foram prestados à porta fechada no tribunal",
+      "example_de": "Die Aussagen wurden hinter verschlossenen Türen im Gericht gemacht",
+      "example_en": "The testimonies were given behind closed doors in court"
+    },
+    {
+      "pt": "o contribuinte",
+      "de": "der Steuerzahler",
+      "en": "taxpayer",
+      "example": "O prazo para os contribuintes reclamarem termina hoje",
+      "example_de": "Die Frist für Steuerzahler zur Reklamation endet heute",
+      "example_en": "The deadline for taxpayers to dispute ends today"
+    },
+    {
+      "pt": "a dedução",
+      "de": "der Steuerabzug",
+      "en": "tax deduction",
+      "example": "Pode verificar o valor das deduções no Portal das Finanças",
+      "example_de": "Man kann den Wert der Steuerabzüge im Finanzportal prüfen",
+      "example_en": "You can check the value of deductions on the Tax Portal"
+    },
+    {
+      "pt": "o cofre",
+      "de": "der Tresor, der Safe",
+      "en": "safe, vault",
+      "example": "O exemplar da Constituição está guardado num cofre",
+      "example_de": "Das Exemplar der Verfassung wird in einem Tresor aufbewahrt",
+      "example_en": "The copy of the Constitution is kept in a safe"
+    },
+    {
+      "pt": "o folar",
+      "de": "das Osterbrot (traditionelles Gebäck)",
+      "en": "Easter bread (traditional pastry)",
+      "example": "O folar ocupa um lugar central na Páscoa de Poiares",
+      "example_de": "Das Osterbrot nimmt einen zentralen Platz bei Ostern in Poiares ein",
+      "example_en": "Easter bread takes a central place at Easter in Poiares"
+    },
+    {
+      "pt": "o cabrito",
+      "de": "das Zicklein, das Ziegenfleisch",
+      "en": "kid (goat), goat meat",
+      "example": "Cabrito e borrego são presença habitual no almoço de Páscoa",
+      "example_de": "Zicklein und Lamm sind übliche Gerichte beim Osteressen",
+      "example_en": "Kid goat and lamb are staples at the Easter lunch"
+    },
+    {
+      "pt": "o leilão",
+      "de": "die Versteigerung, die Auktion",
+      "en": "auction",
+      "example": "Há leilões nas aldeias durante a Páscoa em Poiares",
+      "example_de": "Es gibt Versteigerungen in den Dörfern während Ostern in Poiares",
+      "example_en": "There are auctions in the villages during Easter in Poiares"
+    },
+    {
+      "pt": "a embriaguez",
+      "de": "die Trunkenheit, der Rausch",
+      "en": "drunkenness, intoxication",
+      "example": "Quatro homens foram detidos por condução em estado de embriaguez",
+      "example_de": "Vier Männer wurden wegen Trunkenheit am Steuer festgenommen",
+      "example_en": "Four men were arrested for drunk driving"
+    },
+    {
+      "pt": "a deflagração",
+      "de": "die Explosion, die Detonation",
+      "en": "explosion, detonation",
+      "example": "A deflagração provocou inicialmente 12 feridos no túnel",
+      "example_de": "Die Explosion verursachte zunächst 12 Verletzte im Tunnel",
+      "example_en": "The explosion initially caused 12 injuries in the tunnel"
+    },
+    {
+      "pt": "a estafeta",
+      "de": "die Staffel (Sport)",
+      "en": "relay (sports)",
+      "example": "A estafeta feminina do Sporting renovou o recorde dos 4×100 livres",
+      "example_de": "Die Damen-Staffel von Sporting stellte den 4×100-Freistil-Rekord auf",
+      "example_en": "Sporting's women's relay set a new 4×100 freestyle record"
+    },
+    {
+      "pt": "repugnante",
+      "de": "abstoßend, widerlich",
+      "en": "repugnant, disgusting",
+      "example": "O Sporting acusa o FC Porto de ações repugnantes",
+      "example_de": "Sporting beschuldigt den FC Porto abstoßender Handlungen",
+      "example_en": "Sporting accuses FC Porto of repugnant actions"
+    },
+    {
+      "pt": "o depoimento",
+      "de": "die Aussage, die Zeugenaussage",
+      "en": "testimony, deposition",
+      "example": "Depoimentos inéditos foram revelados no programa de televisão",
+      "example_de": "Unveröffentlichte Zeugenaussagen wurden in der TV-Sendung enthüllt",
+      "example_en": "Unpublished testimonies were revealed on the TV show"
+    }
   ]
 }
