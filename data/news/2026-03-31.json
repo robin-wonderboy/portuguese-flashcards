@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-31",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Tempestade Kristin deixa agressor de violência doméstica «à solta»",
+          "text": "Um homem de 28 anos, suspeito de violência doméstica em Pombal, ficou sem medida de coação depois de a tempestade Kristin ter destruído a sua casa, impossibilitando a pulseira eletrónica. Alojado num quarto da Segurança Social, arrombou uma porta e ameaçou funcionários — foi detido mas novamente libertado, aguardando avaliação psiquiátrica."
+        },
+        {
+          "headline": "Depoimentos inéditos no caso Mónica Silva: gémea diz que Fernando Valente «a iludia»",
+          "text": "O programa Investigação CM revelou declarações à porta fechada de Sara Silva, irmã gémea de Mónica, no julgamento pela morte da jovem grávida de 7 meses. Sara afirmou que Fernando Valente iludia a irmã com promessas de futuro. O Ministério Público recorreu da absolvição e pede pena máxima."
+        },
+        {
+          "headline": "Quatro homens detidos em Coimbra por condução em estado de embriaguez",
+          "text": "A PSP deteve quatro homens, entre 21 e 67 anos, com taxas de álcool entre 1,27 e 1,82 g/l. Um dos detidos, de 67 anos, conduzia ainda com os documentos do veículo apreendidos desde fevereiro."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & FINANÇAS",
+      "stories": [
+        {
+          "headline": "Prazo para reclamar despesas do IRS termina hoje",
+          "text": "Último dia para os contribuintes verificarem e reclamarem deduções de 2025 no Portal das Finanças. Em causa estão despesas em restaurantes, cabeleireiros, ginásios, oficinas e veterinários. A entrega das declarações de IRS arranca amanhã, quarta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Técnicos do INEM iniciam greve ao trabalho administrativo por tempo indeterminado",
+          "text": "Os técnicos de emergência pré-hospitalar reivindicam a implementação de três protocolos farmacológicos (dor, intoxicações, paragens cardiorrespiratórias) que estão por aplicar. Em agosto passado já tinham levantado uma greve idêntica de dois anos em troca de promessas que não foram cumpridas."
+        },
+        {
+          "headline": "Crise no casal? Quando a terapia pode fazer a diferença",
+          "text": "A terapia de casal assume um papel cada vez mais relevante na promoção do bem-estar emocional e relacional, segundo artigo do Notícias de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "📜",
+      "category": "POLÍTICA & HISTÓRIA",
+      "stories": [
+        {
+          "headline": "Exemplar original da Constituição de 1976 vive num cofre e a capa é hidratada duas vezes ao ano",
+          "text": "O documento está guardado com temperatura e humidade controladas na Assembleia da República. A capa de pele vermelha escura com letras douradas é cuidada com pasta própria. Só sai do cofre em ocasiões especiais e é sempre segurado."
+        },
+        {
+          "headline": "O enigma que a PIDE nunca descobriu nas cartas de Sophia e Francisco Sousa Tavares",
+          "text": "Sophia de Mello Breyner e o marido criaram um código secreto na correspondência trocada durante as detenções de Francisco por oposição ao Estado Novo. O filho Miguel Sousa Tavares, que ajudava a mãe a decifrar as cartas, jurou nunca revelar o segredo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏊",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Diogo Ribeiro brilha nos Nacionais de natação em Coimbra com dupla vitória",
+          "text": "O nadador olímpico do Benfica venceu os 50m mariposa (23,05s) e os 4×100 livres na sua cidade-natal, somando quatro títulos. A estafeta feminina do Sporting bateu o recorde nacional dos 4×100 livres com 3:50,23."
+        },
+        {
+          "headline": "Ministra do Desporto recebe presidente do Sporting na quarta-feira",
+          "text": "Reunião na sequência dos incidentes no jogo de andebol entre FC Porto e Sporting no Dragão Arena. O Sporting acusa o FC Porto de ações «repugnantes», incluindo um balneário com «cheiro tóxico» que afetou jogadores. O FC Porto desmente as acusações."
+        }
+      ]
+    },
+    {
+      "emoji": "🐣",
+      "category": "TRADIÇÕES & CULTURA",
+      "stories": [
+        {
+          "headline": "Leilões, folar e cabrito: assim se vive a Páscoa em Vila Nova de Poiares",
+          "text": "O concelho mantém fortes tradições pascais com procissões, o compasso, e gastronomia típica como cabrito, chanfana e folar. Nas aldeias realizam-se leilões tradicionais e a comunidade abre as portas para receber a Cruz do Cristo Ressuscitado."
+        },
+        {
+          "headline": "Museu Municipal de Coimbra com programação diversificada para abril",
+          "text": "Destaque para sessões de contos de Hans Christian Andersen, a visita encenada «D. Sesnando» na Torre de Almedina, e a inauguração da exposição da Bienal Anozero a 11 de abril."
+        },
+        {
+          "headline": "Centro de Arte Contemporânea de Coimbra com programa especial de Páscoa",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Explosão em túnel na China faz 4 mortos e 9 feridos",
+          "text": "A deflagração ocorreu num túnel em construção em Chongqing, numa autoestrada que liga Hubei a Sichuan. As investigações preliminares apontam para uma possível fuga de gás."
+        }
+      ]
+    }
+  ]
+}
