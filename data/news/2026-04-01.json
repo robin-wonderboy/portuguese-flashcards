@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏗️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Variante de Penacova do IP3 avança finalmente",
+          "text": "A Infraestruturas de Portugal lançou o estudo prévio para a futura variante de Penacova do IP3. O novo troço de 17 km completará a ligação em perfil duplo entre Coimbra e Viseu, com prazo estimado de 630 dias e custo de 1,2 milhões de euros para o estudo."
+        },
+        {
+          "headline": "Presidente da Câmara da Mealhada distinguido pela ANGES",
+          "text": "António Jorge Franco recebeu a Medalha de Mérito Social – Grau Ouro, a mais alta distinção da Associação Nacional de Gerontologia Social, pelo contributo na promoção do bem-estar e inclusão social."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "FINANÇAS & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Entrega do IRS arranca hoje",
+          "text": "Mais de seis milhões de agregados familiares podem submeter as declarações de IRS no Portal das Finanças a partir de hoje. O prazo vai de 1 de abril a 30 de junho. Quem usar o IRS Automático deverá receber reembolso em menos de duas semanas."
+        },
+        {
+          "headline": "Genéricos pouparam mais de 666 milhões em 2025",
+          "text": "Os medicamentos genéricos geraram 1.267 euros em poupança por minuto, totalizando mais de 666 milhões de euros em 2025 para famílias e Estado. A cada segundo, a dispensa de genéricos libertou 21 euros em recursos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Preços das casas sobem 27% em sete trimestres",
+          "text": "Os preços da habitação não param de subir em Portugal desde abril de 2024. Em 2025, subiram 17,6%, com o valor médio de venda a atingir 242 mil euros. Na Grande Lisboa ultrapassa os 390 mil euros. Crise sem solução à vista."
+        }
+      ]
+    },
+    {
+      "emoji": "⚠️",
+      "category": "SEGURANÇA & SAÚDE",
+      "stories": [
+        {
+          "headline": "Ministério da Saúde alerta para fraude via SMS",
+          "text": "Circulam mensagens falsas em nome do SNS prometendo reembolsos de despesas de saúde. O link fraudulento solicita dados pessoais e bancários. O ministério avisa: não clique, não forneça dados pessoais."
+        },
+        {
+          "headline": "Acidente na Madeira faz 6 feridos",
+          "text": "Uma colisão entre duas viaturas na Calheta deixou seis feridos — quatro alemães e dois espanhóis, incluindo duas crianças. As vítimas foram transportadas para o hospital do Funchal."
+        }
+      ]
+    },
+    {
+      "emoji": "🕊️",
+      "category": "SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Estudante universitário morre afogado na Covilhã",
+          "text": "Um estudante angolano de 32 anos da Universidade da Beira Interior afogou-se numa represa agrícola em Corges. O corpo foi localizado após três horas de buscas com mergulhadores."
+        },
+        {
+          "headline": "Morte trágica de dois jovens da Lousã na Ericeira",
+          "text": "Emanuel Nogueira e Diogo Marques, antigos jogadores do Clube Académico das Gândaras, morreram após atropelamento na Ericeira. A comunidade da Lousã está em choque."
+        },
+        {
+          "headline": "Homem desaparecido em Fafe encontrado com vida",
+          "text": "Um sexagenário de 68 anos foi localizado após operações de busca com equipas cinotécnicas, drones e bombeiros. Tinha desaparecido na segunda-feira após regressar a casa para almoçar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Iraque conquista última vaga no Mundial 2026",
+          "text": "O Iraque venceu a Bolívia por 2-1 no play-off intercontinental e vai disputar o Mundial pela segunda vez, 40 anos depois da estreia em 1986. Ficou no Grupo I com França, Senegal e Noruega."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "INTERNACIONAL",
+      "stories": [
+        {
+          "headline": "Drones iranianos provocam incêndio no aeroporto do Kuwait",
+          "text": "Tanques de combustível do Aeroporto Internacional do Kuwait foram alvejados por drones iranianos, provocando um grande incêndio. Não há vítimas. Trump afirma que a operação contra o Irão terminará em duas a três semanas."
+        }
+      ]
+    }
+  ]
+}
