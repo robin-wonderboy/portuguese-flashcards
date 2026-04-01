@@ -9066,5 +9066,111 @@
       "example_de": "Unveröffentlichte Zeugenaussagen wurden in der TV-Sendung enthüllt",
       "example_en": "Unpublished testimonies were revealed on the TV show"
     }
+  ],
+  "2026-04-01": [
+    {
+      "pt": "a poupança",
+      "de": "die Ersparnis",
+      "en": "savings",
+      "example": "Os genéricos geraram uma poupança de 666 milhões",
+      "example_de": "Generika haben Einsparungen von 666 Millionen erzielt",
+      "example_en": "Generic drugs generated savings of 666 million"
+    },
+    {
+      "pt": "a represa",
+      "de": "der Staudamm",
+      "en": "dam, reservoir",
+      "example": "Afogou-se numa represa agrícola",
+      "example_de": "Er ertrank in einem landwirtschaftlichen Staudamm",
+      "example_en": "He drowned in an agricultural reservoir"
+    },
+    {
+      "pt": "a vaga",
+      "de": "der Platz, die Stelle",
+      "en": "spot, vacancy",
+      "example": "O Iraque conquistou a última vaga no Mundial",
+      "example_de": "Der Irak sicherte sich den letzten Platz bei der WM",
+      "example_en": "Iraq secured the last spot at the World Cup"
+    },
+    {
+      "pt": "o reembolso",
+      "de": "die Rückerstattung",
+      "en": "refund, reimbursement",
+      "example": "A mensagem falsa refere o reembolso de despesas",
+      "example_de": "Die gefälschte Nachricht erwähnt die Erstattung von Kosten",
+      "example_en": "The fake message mentions expense reimbursement"
+    },
+    {
+      "pt": "avançar",
+      "de": "voranschreiten",
+      "en": "to advance, to move forward",
+      "example": "A variante de Penacova avança finalmente",
+      "example_de": "Die Umgehungsstraße von Penacova schreitet endlich voran",
+      "example_en": "The Penacova bypass finally moves forward"
+    },
+    {
+      "pt": "distinguir",
+      "de": "auszeichnen",
+      "en": "to distinguish, to honor",
+      "example": "O presidente foi distinguido com uma medalha",
+      "example_de": "Der Bürgermeister wurde mit einer Medaille ausgezeichnet",
+      "example_en": "The mayor was honored with a medal"
+    },
+    {
+      "pt": "afogar-se",
+      "de": "ertrinken",
+      "en": "to drown",
+      "example": "O estudante afogou-se na represa",
+      "example_de": "Der Student ertrank im Staudamm",
+      "example_en": "The student drowned in the reservoir"
+    },
+    {
+      "pt": "cessar",
+      "de": "aufhören, einstellen",
+      "en": "to cease, to stop",
+      "example": "Esperamos que os combates cessem amanhã",
+      "example_de": "Wir hoffen, dass die Kämpfe morgen aufhören",
+      "example_en": "We hope the fighting will cease tomorrow"
+    },
+    {
+      "pt": "auferir",
+      "de": "verdienen, erzielen",
+      "en": "to earn, to receive (income)",
+      "example": "Todos os rendimentos auferidos ao longo do ano",
+      "example_de": "Alle im Laufe des Jahres erzielten Einkünfte",
+      "example_en": "All income earned throughout the year"
+    },
+    {
+      "pt": "prematuro",
+      "de": "vorzeitig, verfrüht",
+      "en": "premature",
+      "example": "A morte prematura dos dois jovens abalou a comunidade",
+      "example_de": "Der vorzeitige Tod der beiden Jugendlichen erschütterte die Gemeinde",
+      "example_en": "The premature death of the two young men shook the community"
+    },
+    {
+      "pt": "homólogo",
+      "de": "Vorjahres-, entsprechend",
+      "en": "year-on-year, equivalent",
+      "example": "A variação homóloga dos preços subiu 27%",
+      "example_de": "Die Veränderung gegenüber dem Vorjahr stieg um 27%",
+      "example_en": "The year-on-year price change rose 27%"
+    },
+    {
+      "pt": "ininterruptamente",
+      "de": "ununterbrochen",
+      "en": "uninterruptedly, non-stop",
+      "example": "Os preços sobem ininterruptamente desde 2024",
+      "example_de": "Die Preise steigen seit 2024 ununterbrochen",
+      "example_en": "Prices have been rising non-stop since 2024"
+    },
+    {
+      "pt": "à vista",
+      "de": "in Sicht",
+      "en": "in sight",
+      "example": "Uma crise ainda sem solução à vista",
+      "example_de": "Eine Krise ohne Lösung in Sicht",
+      "example_en": "A crisis with no solution in sight"
+    }
   ]
 }
