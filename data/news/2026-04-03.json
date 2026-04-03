@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "METEO & PÁSCOA",
+      "stories": [
+        {
+          "headline": "Páscoa com sol, praia e 30°C — das mais quentes de sempre",
+          "text": "O fim de semana de Páscoa será marcado por temperaturas até 30-32°C em todo o país. Uma massa de ar quente do Norte de África traz calor de Verão, mas a humidade baixa eleva o risco de incêndios. Na semana seguinte espera-se queda de 10-15°C."
+        },
+        {
+          "headline": "Sexta-feira Santa em Coimbra: máxima de 26°C",
+          "text": "Manhã fresca (9°C) e tarde amena (26°C) em Coimbra. Na Figueira da Foz máximas de 22°C, ideal para praia. Serra da Estrela mantém-se fria com apenas 13°C."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Muro da praia fluvial de Serpins desaba após tempestades",
+          "text": "Parte do muro da Praia Fluvial da Senhora da Graça sofreu uma derrocada na noite de 31 de março. A zona está sinalizada e estão em curso contactos com a Câmara da Lousã para recuperar o espaço antes da época balnear."
+        },
+        {
+          "headline": "Militares vindos de Coimbra feridos em acidente na A13",
+          "text": "Dois militares do Exército (24 e 27 anos) ficaram feridos após a viatura militar capotar na A13, em Tomar. Seguiam de Coimbra para o Campo Militar de Santa Margarida."
+        },
+        {
+          "headline": "Cheiro a queimado assusta funcionários no Burger King em Eiras",
+          "text": "Alerta de incêndio na noite de 2 de abril. Bombeiros verificaram o local sem detetar anomalias. Poucas pessoas presentes foram evacuadas por precaução."
+        },
+        {
+          "headline": "Câmara de Coimbra reforça diálogo ambiental com sociedade civil",
+          "text": "Ana Abrunhosa recebeu organizações que apresentaram uma carta aberta com propostas ambientais, incluindo possível Declaração de Estado de Emergência Climática no concelho."
+        }
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "category": "COMÉRCIO & CIDADE",
+      "stories": [
+        {
+          "headline": "ZARA reabre no Fórum Coimbra com espaço duas vezes maior",
+          "text": "Primeira loja em Portugal com o novo conceito da marca, no Piso 1 do Fórum. Design contemporâneo e zonas interligadas para uma experiência mais fluida."
+        },
+        {
+          "headline": "Animação infantil gratuita no Mercado D. Pedro V",
+          "text": "A partir de amanhã, insufláveis gratuitos todos os sábados das 11h às 14h. A iniciativa \"Manhãs da Criança na Praça do Mercado\" dura 48 sábados."
+        },
+        {
+          "headline": "Cozinha Solidária da Integrar aberta na Páscoa",
+          "text": "A IPSS serve refeições em take-away na Sexta-feira Santa, Sábado e Domingo de Páscoa. Em 2025 serviu 14.365 refeições — um aumento face aos anos anteriores."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Empresário raptado encontrado morto à pedrada no Algarve",
+          "text": "Ricardo Claro, de 50 anos, foi sequestrado a 13 de março e encontrado morto em Loulé. Os suspeitos obrigaram-no a abrir o cofre, roubaram dinheiro e fugiram para o Brasil."
+        },
+        {
+          "headline": "Mulher morta a tiro em casa em Albergaria-a-Velha",
+          "text": "Uma mulher de 55 anos foi atingida por disparo de arma de fogo. O suspeito foi detido no interior da habitação e o caso passou para a Polícia Judiciária."
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "TAP: privatização avança com Air France-KLM e Lufthansa",
+          "text": "A IAG saiu do processo e restam duas propostas não vinculativas. A Parpública confirmou que Air France-KLM e Lufthansa prosseguem na corrida pela companhia aérea portuguesa."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "NASA dá luz verde à Artemis II para rumar à Lua",
+          "text": "A tripulação — incluindo a primeira mulher e o primeiro homem negro numa missão lunar — prepara-se para deixar a órbita terrestre rumo à Lua. Missão histórica após 50 anos."
+        },
+        {
+          "headline": "Israel, Kuwait e Bahrein alvos de novos ataques iranianos",
+          "text": ""
+        },
+        {
+          "headline": "Trump apela ao boicote de concertos de Springsteen",
+          "text": "O presidente chamou o músico de \"medíocre e enfadonho\" e \"ameixa seca\"."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & PORTUGAL",
+      "stories": [
+        {
+          "headline": "Mãe de Diogo Jota e André Silva quebra o silêncio",
+          "text": "Isabel Silva revela no livro \"Nunca Mais é Muito Tempo\" a última mensagem enviada ao filho André antes do acidente fatal em Espanha, em julho de 2025."
+        },
+        {
+          "headline": "Portugueses arrecadam prata no tiro com armas de caça",
+          "text": "Inês Barros e José Faria conquistaram a medalha de prata na prova de equipas mistas da Taça do Mundo."
+        },
+        {
+          "headline": "Mulher desaparecida há 32 anos reaparece viva nos EUA",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
