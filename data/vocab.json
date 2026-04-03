@@ -9172,5 +9172,111 @@
       "example_de": "Eine Krise ohne Lösung in Sicht",
       "example_en": "A crisis with no solution in sight"
     }
+  ],
+  "2026-04-03": [
+    {
+      "pt": "a tripulação",
+      "de": "die Besatzung, die Crew",
+      "en": "the crew",
+      "example": "A tripulação da Artemis II acordou dentro da cápsula.",
+      "example_de": "Die Besatzung von Artemis II wachte in der Kapsel auf.",
+      "example_en": "The Artemis II crew woke up inside the capsule."
+    },
+    {
+      "pt": "a refeição",
+      "de": "die Mahlzeit",
+      "en": "the meal",
+      "example": "A cozinha solidária garante refeições na Páscoa.",
+      "example_de": "Die Solidarküche garantiert Mahlzeiten zu Ostern.",
+      "example_en": "The solidarity kitchen provides meals at Easter."
+    },
+    {
+      "pt": "o insuflável",
+      "de": "die Hüpfburg",
+      "en": "the bouncy castle",
+      "example": "O mercado terá insufláveis gratuitos aos sábados.",
+      "example_de": "Der Markt wird samstags kostenlose Hüpfburgen haben.",
+      "example_en": "The market will have free bouncy castles on Saturdays."
+    },
+    {
+      "pt": "a passagem de nível",
+      "de": "der Bahnübergang",
+      "en": "the level crossing",
+      "example": "Um homem morreu após ser colhido por comboio numa passagem de nível.",
+      "example_de": "Ein Mann starb, nachdem er an einem Bahnübergang von einem Zug erfasst wurde.",
+      "example_en": "A man died after being hit by a train at a level crossing."
+    },
+    {
+      "pt": "arrecadar",
+      "de": "erringen, einsammeln",
+      "en": "to win, to collect",
+      "example": "Portugueses arrecadam a medalha de prata.",
+      "example_de": "Portugiesen erringen die Silbermedaille.",
+      "example_en": "The Portuguese win the silver medal."
+    },
+    {
+      "pt": "rumar",
+      "de": "Kurs nehmen auf, ansteuern",
+      "en": "to head towards, to set course for",
+      "example": "A Artemis II prepara-se para rumar à Lua.",
+      "example_de": "Artemis II bereitet sich vor, Kurs auf den Mond zu nehmen.",
+      "example_en": "Artemis II prepares to head towards the Moon."
+    },
+    {
+      "pt": "enfadonho",
+      "de": "langweilig, ermüdend",
+      "en": "boring, tedious",
+      "example": "Trump chamou Springsteen de medíocre e enfadonho.",
+      "example_de": "Trump nannte Springsteen mittelmäßig und langweilig.",
+      "example_en": "Trump called Springsteen mediocre and boring."
+    },
+    {
+      "pt": "vinculativo/a",
+      "de": "verbindlich, bindend",
+      "en": "binding",
+      "example": "A TAP recebeu duas propostas não vinculativas.",
+      "example_de": "TAP erhielt zwei unverbindliche Angebote.",
+      "example_en": "TAP received two non-binding proposals."
+    },
+    {
+      "pt": "isolado/a",
+      "de": "abgelegen, einsam",
+      "en": "isolated, remote",
+      "example": "O corpo foi abandonado numa área isolada.",
+      "example_de": "Die Leiche wurde in einem abgelegenen Gebiet zurückgelassen.",
+      "example_en": "The body was abandoned in a remote area."
+    },
+    {
+      "pt": "dar luz verde",
+      "de": "grünes Licht geben",
+      "en": "to give the green light",
+      "example": "A NASA deu luz verde à Artemis II.",
+      "example_de": "Die NASA gab Artemis II grünes Licht.",
+      "example_en": "NASA gave the green light to Artemis II."
+    },
+    {
+      "pt": "quebrar o silêncio",
+      "de": "das Schweigen brechen",
+      "en": "to break the silence",
+      "example": "A mãe dos jogadores quebra o silêncio sobre o acidente.",
+      "example_de": "Die Mutter der Spieler bricht das Schweigen über den Unfall.",
+      "example_en": "The players' mother breaks the silence about the accident."
+    },
+    {
+      "pt": "ameno/a",
+      "de": "mild, angenehm",
+      "en": "mild, pleasant",
+      "example": "A tarde será amena em Coimbra, com 26°C.",
+      "example_de": "Der Nachmittag wird in Coimbra mit 26°C angenehm mild.",
+      "example_en": "The afternoon will be mild and pleasant in Coimbra at 26°C."
+    },
+    {
+      "pt": "a época balnear",
+      "de": "die Badesaison",
+      "en": "the bathing season",
+      "example": "A praia precisa de reparações antes da época balnear.",
+      "example_de": "Der Strand muss vor der Badesaison repariert werden.",
+      "example_en": "The beach needs repairs before the bathing season."
+    }
   ]
 }
