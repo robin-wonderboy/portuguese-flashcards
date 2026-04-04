@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏖️",
+      "category": "AMBIENTE & PRAIAS",
+      "stories": [
+        {
+          "headline": "Vidro na areia põe banhistas em perigo na Figueira da Foz",
+          "text": "O Figueira Surf Rescue encontrou grande quantidade de garrafas de vidro espalhadas pelo areal durante a patrulha diária. A associação alerta que o vidro representa perigo sério para quem caminha descalço, crianças e animais, e apela à população para levar sempre o lixo consigo."
+        }
+      ]
+    },
+    {
+      "emoji": "🔪",
+      "category": "CRIME & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Mulher detida com duas facas após entrar em casa de homem em Lisboa",
+          "text": "Uma mulher de 39 anos foi detida depois de se apresentar munida de duas facas na casa de um homem na freguesia da Misericórdia. A PSP interveio quando ela já estava dentro da habitação. O comportamento pode estar ligado à combinação de medicação para depressão e álcool. Aguarda julgamento em prisão preventiva."
+        },
+        {
+          "headline": "Fraude funerária: cinzas falsas entregues a famílias no Reino Unido",
+          "text": "O agente funerário britânico Robert Bush admitiu não cremar corpos e entregar cinzas falsas às famílias. A polícia encontrou 35 corpos na agência quando só deviam existir quatro. Bush enganou mais de 150 vítimas, incluindo famílias de bebés, e aguarda sentença em julho."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRÂNSITO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Colisão faz um morto e um ferido grave na EN243",
+          "text": "Um homem de 71 anos morreu e outro de 41 ficou gravemente ferido numa colisão entre dois veículos ligeiros em Ponte de Sor. O óbito foi declarado no local pelo médico do INEM. As operações envolveram 19 operacionais e um helicóptero."
+        }
+      ]
+    },
+    {
+      "emoji": "⛽",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Preço dos combustíveis não para de subir",
+          "text": "A partir de segunda-feira, a gasolina 95 deverá situar-se nos 1,95€/litro e o gasóleo nos 2,16€/litro. Desde 8 de março, a gasolina subiu ~20 cêntimos e o gasóleo ~44 cêntimos, pressionados pelo encerramento do estreito de Ormuz e tensão geopolítica no Médio Oriente."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA & SAÚDE",
+      "stories": [
+        {
+          "headline": "Laboratório da UC acreditado para detetar Legionella",
+          "text": "O Laboratório de Microbiologia de Águas da Faculdade de Medicina da UC recebeu acreditação do IPAC para pesquisa de Legionella. Passa a integrar a rede de entidades que apoia hospitais, hotéis e lares no cumprimento da lei de prevenção."
+        },
+        {
+          "headline": "\"Chicken ick\": porque deixamos de gostar de alimentos que adorávamos",
+          "text": "Um professor de Psicobiologia da Universidade de Portsmouth explica o fenómeno da aversão súbita a alimentos. Está ligado à forma como o cérebro processa cheiros e sabores, podendo ser desencadeado por fatores externos como redes sociais. Variar a confeção pode ajudar a ultrapassar a repulsa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "CULTURA & PATRIMÓNIO",
+      "stories": [
+        {
+          "headline": "Governo abre candidaturas de 12M€ para bens culturais danificados pelo mau tempo",
+          "text": "O Ministério da Cultura abriu candidaturas ao apoio financeiro de 12 milhões de euros para entidades gestoras de bens culturais danificados pelas tempestades de janeiro e fevereiro. Abrange bens classificados, em vias de classificação ou inventariados."
+        },
+        {
+          "headline": "Abril Dança Coimbra: 10ª edição com 15 propostas",
+          "text": "O festival decorre entre 2 e 29 de abril no Convento São Francisco e no TAGV, com espetáculos, performances e oficinas. Destaque para o projeto Rampa.3 com 24 intérpretes e o programa \"Dançar com Parkinson\"."
+        },
+        {
+          "headline": "Semana cultural em Coimbra com oficinas, exposições e concertos",
+          "text": "A câmara apresentou uma agenda diversificada incluindo oficinas no Centro de Arte Contemporânea, exposição sobre censura literária no Estado Novo, percurso pela muralha medieval e Concerto de Páscoa no Convento São Francisco."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Variante de Penacova do IP3 avança após anos de espera",
+          "text": "A Infraestruturas de Portugal deu o pontapé de saída para a variante de Penacova do IP3 — um novo troço de 17 km que completará a ligação em perfil duplo entre Coimbra e Viseu. Prazo estimado de 630 dias para o estudo prévio."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sporting vence Santa Clara 4-2 após reviravolta",
+          "text": "O Sporting deu a volta ao resultado depois de começar a perder, com golos de Pedro Gonçalves, Daniel Bragança, Trincão e Rafael Nel. Os leões somam 68 pontos, a quatro do líder FC Porto, nas vésperas de receberem o Arsenal na Champions."
+        }
+      ]
+    }
+  ]
+}
