@@ -9278,5 +9278,111 @@
       "example_de": "Der Strand muss vor der Badesaison repariert werden.",
       "example_en": "The beach needs repairs before the bathing season."
     }
+  ],
+  "2026-04-04": [
+    {
+      "pt": "o areal",
+      "de": "der Sandstrand, die Sandfläche",
+      "en": "sandy beach area",
+      "example": "A equipa encontrou garrafas espalhadas pelo areal",
+      "example_de": "Das Team fand Flaschen über den Sandstrand verstreut",
+      "example_en": "The team found bottles scattered across the sandy beach"
+    },
+    {
+      "pt": "descalço",
+      "de": "barfuß",
+      "en": "barefoot",
+      "example": "O vidro pode causar cortes em quem caminha descalço",
+      "example_de": "Das Glas kann Schnittwunden bei Barfußgehenden verursachen",
+      "example_en": "The glass can cause cuts in those walking barefoot"
+    },
+    {
+      "pt": "munida",
+      "de": "bewaffnet, ausgestattet",
+      "en": "armed, equipped with",
+      "example": "A mulher apresentou-se munida de duas facas",
+      "example_de": "Die Frau erschien bewaffnet mit zwei Messern",
+      "example_en": "The woman showed up armed with two knives"
+    },
+    {
+      "pt": "a lâmina",
+      "de": "die Klinge",
+      "en": "blade",
+      "example": "As facas tinham lâminas de 22 e 14 centímetros",
+      "example_de": "Die Messer hatten Klingen von 22 und 14 Zentimetern",
+      "example_en": "The knives had blades of 22 and 14 centimeters"
+    },
+    {
+      "pt": "danificado",
+      "de": "beschädigt",
+      "en": "damaged",
+      "example": "Bens culturais danificados pelas tempestades",
+      "example_de": "Durch die Stürme beschädigte Kulturgüter",
+      "example_en": "Cultural assets damaged by the storms"
+    },
+    {
+      "pt": "o enlutado",
+      "de": "der Trauernde, der Hinterbliebene",
+      "en": "mourner, bereaved",
+      "example": "O agente funerário enganou os enlutados sobre o destino dos corpos",
+      "example_de": "Der Bestatter täuschte die Trauernden über den Verbleib der Leichen",
+      "example_en": "The funeral agent deceived the mourners about the fate of the bodies"
+    },
+    {
+      "pt": "a repulsa",
+      "de": "der Ekel, die Abscheu",
+      "en": "disgust, revulsion",
+      "example": "Novos ingredientes podem desencadear repulsa alimentar",
+      "example_de": "Neue Zutaten können Ekel vor Lebensmitteln auslösen",
+      "example_en": "New ingredients can trigger food revulsion"
+    },
+    {
+      "pt": "desencadear",
+      "de": "auslösen, entfesseln",
+      "en": "to trigger, to unleash",
+      "example": "Fatores externos podem desencadear aversão súbita",
+      "example_de": "Äußere Faktoren können plötzliche Abneigung auslösen",
+      "example_en": "External factors can trigger sudden aversion"
+    },
+    {
+      "pt": "recolher",
+      "de": "einsammeln, aufsammeln",
+      "en": "to collect, to gather",
+      "example": "A equipa recolheu as garrafas e colocou-as nos locais próprios",
+      "example_de": "Das Team sammelte die Flaschen ein und stellte sie an die richtigen Stellen",
+      "example_en": "The team collected the bottles and placed them in the proper spots"
+    },
+    {
+      "pt": "o estreito",
+      "de": "die Meerenge",
+      "en": "strait",
+      "example": "Os preços do petróleo subiram com o encerramento do estreito de Ormuz",
+      "example_de": "Die Ölpreise stiegen mit der Schließung der Straße von Hormus",
+      "example_en": "Oil prices rose with the closure of the Strait of Hormuz"
+    },
+    {
+      "pt": "a confeção",
+      "de": "die Zubereitung",
+      "en": "preparation, cooking",
+      "example": "Variar a forma de confeção pode ajudar a ultrapassar a repulsa",
+      "example_de": "Die Zubereitungsart zu variieren kann helfen, den Ekel zu überwinden",
+      "example_en": "Varying the cooking method can help overcome the revulsion"
+    },
+    {
+      "pt": "o contentor",
+      "de": "der Container, der Müllcontainer",
+      "en": "container, bin",
+      "example": "A associação apelou à utilização dos contentores disponíveis",
+      "example_de": "Der Verein rief zur Nutzung der verfügbaren Müllcontainer auf",
+      "example_en": "The association urged the use of available bins"
+    },
+    {
+      "pt": "a cotação",
+      "de": "der Kurs, die Notierung",
+      "en": "quotation, price listing",
+      "example": "O custo final depende da evolução das cotações internacionais",
+      "example_de": "Der Endpreis hängt von der Entwicklung der internationalen Kurse ab",
+      "example_en": "The final cost depends on the evolution of international quotations"
+    }
   ]
 }
