@@ -9384,5 +9384,79 @@
       "example_de": "Der Endpreis hängt von der Entwicklung der internationalen Kurse ab",
       "example_en": "The final cost depends on the evolution of international quotations"
     }
+  ],
+  "2026-04-07": [
+    {
+      "pt": "voltar",
+      "de": "zurückkehren, zurückkommen",
+      "en": "to return, to come back",
+      "example": "David Guetta volta a Portugal com um novo espetáculo.",
+      "example_de": "David Guetta kehrt mit einer neuen Show nach Portugal zurück.",
+      "example_en": "David Guetta returns to Portugal with a new show."
+    },
+    {
+      "pt": "importar-se",
+      "de": "sich kümmern, sich stören an",
+      "en": "to care, to mind",
+      "example": "A diarreia está na mesma, mas agora já não me importo.",
+      "example_de": "Die Diarrhöe ist dieselbe, aber jetzt stört mich das nicht mehr.",
+      "example_en": "The diarrhea is the same, but now I don't mind anymore."
+    },
+    {
+      "pt": "a tampinha",
+      "de": "der Kronkorken",
+      "en": "bottle cap",
+      "example": "Mafalda recolheu tampinhas durante anos para pagar o seu tratamento.",
+      "example_de": "Mafalda sammelte jahrelang Kronkorken, um ihre Behandlung zu bezahlen.",
+      "example_en": "Mafalda collected bottle caps for years to pay for her treatment."
+    },
+    {
+      "pt": "a primavera",
+      "de": "der Frühling",
+      "en": "spring",
+      "example": "São Pedro prepara Portugal para uma semana bipolar da primavera.",
+      "example_de": "São Pedro bereitet Portugal auf eine unbeständige Frühlingswoche vor.",
+      "example_en": "São Pedro prepares Portugal for an unpredictable spring week."
+    },
+    {
+      "pt": "o espelho",
+      "de": "der Spiegel",
+      "en": "mirror",
+      "example": "Os espelhos chegam a Coimbra para desafiar a perceção da realidade.",
+      "example_de": "Die Spiegel kommen nach Coimbra, um die Wahrnehmung der Realität herauszufordern.",
+      "example_en": "The mirrors arrive in Coimbra to challenge the perception of reality."
+    },
+    {
+      "pt": "o esforço",
+      "de": "die Anstrengung, die Mühe",
+      "en": "effort",
+      "example": "Roubaram esforço, dedicação e muito amor.",
+      "example_de": "Sie stahlen Anstrengung, Hingabe und viel Liebe.",
+      "example_en": "They stole effort, dedication and much love."
+    },
+    {
+      "pt": "colorido",
+      "de": "bunt, farbenfroh",
+      "en": "colorful",
+      "example": "Estas cidades portuguesas estão entre as mais coloridas do mundo.",
+      "example_de": "Diese portugiesischen Städte gehören zu den buntesten der Welt.",
+      "example_en": "These Portuguese cities are among the most colorful in the world."
+    },
+    {
+      "pt": "a tacada",
+      "de": "der Schachzug, der Treffer",
+      "en": "move, shot, trick",
+      "example": "O PSL deu mais uma tacada na Figueira da Foz.",
+      "example_de": "Der PSL machte wieder einen cleveren Schachzug in Figueira da Foz.",
+      "example_en": "The PSL made another clever move in Figueira da Foz."
+    },
+    {
+      "pt": "a perceção",
+      "de": "die Wahrnehmung",
+      "en": "perception",
+      "example": "A exposição desafia a perceção da realidade dos visitantes.",
+      "example_de": "Die Ausstellung fordert die Wahrnehmung der Realität der Besucher heraus.",
+      "example_en": "The exhibition challenges the visitors' perception of reality."
+    }
   ]
 }
