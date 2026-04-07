@@ -1,50 +1,70 @@
 {
   "date": "2026-04-07",
   "source": "noticiasdecoimbra.pt",
-  "stories": [
+  "sections": [
     {
-      "title": "Estas 2 cidades portuguesas estão entre as mais coloridas do mundo!",
-      "url": "https://www.noticiasdecoimbra.pt/estas-2-cidades-portuguesas-estao-entre-as-mais-coloridas-do-mundo/"
+      "emoji": "🌍",
+      "category": "PORTUGAL NO MUNDO",
+      "stories": [
+        {
+          "headline": "Cidades portuguesas entre as mais coloridas do mundo",
+          "text": "Duas cidades de Portugal foram incluídas numa lista internacional das cidades mais coloridas do mundo. Destacam-se pela arquitetura, pelos azulejos e pelas cores vivas das fachadas dos edifícios. Esta distinção mostra o valor único do património urbano português aos olhos do mundo."
+        }
+      ]
     },
     {
-      "title": "Roubaram “esforço, dedicação e muito amor”: Furto de “tampinhas” ameaça vida de Mafalda",
-      "url": "https://www.noticiasdecoimbra.pt/roubaram-esforco-dedicacao-e-muito-amor-furto-de-tampinhas-ameaca-vida-de-mafalda/",
-      "category": "crimes"
+      "emoji": "🧢",
+      "category": "CRIME & SOLIDARIEDADE",
+      "stories": [
+        {
+          "headline": "Roubaram as tampinhas que Mafalda precisava para pagar o tratamento",
+          "text": "Mafalda é uma jovem com uma doença grave que recolheu tampinhas de plástico durante anos para financiar o seu tratamento médico. Alguém roubou as tampinhas que ela guardou com muito esforço, dedicação e amor. A família apela à solidariedade da população para ajudar a repor o que foi roubado."
+        }
+      ]
     },
     {
-      "title": "São Pedro está a preparar Portugal para uma das semanas mais bipolares da primavera",
-      "url": "https://www.noticiasdecoimbra.pt/sao-pedro-esta-a-preparar-portugal-para-uma-das-semanas-mais-bipolares-da-primavera/",
-      "category": "primeira página"
+      "emoji": "🌦️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Semana muito instável: calor e chuva vão alternar na primavera",
+          "text": "O padrão meteorológico associado a São Pedro vai trazer uma das semanas mais imprevisíveis da primavera. Portugal pode ter dias quentes seguidos de dias com chuva intensa — um comportamento chamado 'bipolar' pelos meteorologistas. Recomenda-se verificar as previsões antes de planear atividades ao ar livre."
+        }
+      ]
     },
     {
-      "title": "David Guetta volta a Portugal com “The Monolith”",
-      "url": "https://www.noticiasdecoimbra.pt/david-guetta-volta-a-portugal-com-the-monolith/",
-      "category": "vamos"
+      "emoji": "🎭",
+      "category": "CULTURA & ESPETÁCULOS",
+      "stories": [
+        {
+          "headline": "David Guetta volta a Portugal com o espetáculo 'The Monolith'",
+          "text": "O famoso DJ francês David Guetta regressa a Portugal para mais um grande concerto. O espetáculo chama-se 'The Monolith' e promete uma experiência audiovisual muito intensa com luzes, som e efeitos especiais. Os fãs podem já comprar os bilhetes para assistir ao evento."
+        },
+        {
+          "headline": "'Espelhos' chega a Coimbra para questionar o que é real",
+          "text": "Uma nova exposição artística chamada 'Espelhos' vai estar em Coimbra para desafiar a forma como percebemos o mundo. A exposição usa espelhos e ilusões de ótica para fazer os visitantes pensar sobre a diferença entre o real e o que imaginamos. É uma experiência interativa que convida o público a questionar a sua própria perceção da realidade."
+        }
+      ]
     },
     {
-      "title": "“Espelhos” chegam a Coimbra para desafiar a perceção da realidade",
-      "url": "https://www.noticiasdecoimbra.pt/espelhos-chegam-a-coimbra-para-desafiar-a-percecao-da-realidade/",
-      "category": "vamos"
+      "emoji": "🏛️",
+      "category": "POLÍTICA LOCAL",
+      "stories": [
+        {
+          "headline": "PSL faz nova jogada política na Figueira da Foz",
+          "text": "O partido PSL voltou a marcar presença na Figueira da Foz com uma nova iniciativa política. A expressão 'dar uma tacada' significa fazer um movimento estratégico para ganhar vantagem ou atenção pública. O partido continua ativo na região num período de crescente competição eleitoral local."
+        }
+      ]
     },
     {
-      "title": "Roubaram “esforço, dedicação e muito amor”: Furto de “tampinhas” ameaça vida de Mafalda",
-      "url": "https://www.noticiasdecoimbra.pt/roubaram-esforco-dedicacao-e-muito-amor-furto-de-tampinhas-ameaca-vida-de-mafalda/",
-      "category": "crimes"
-    },
-    {
-      "title": "Estas 2 cidades portuguesas estão entre as mais coloridas do mundo!",
-      "url": "https://www.noticiasdecoimbra.pt/estas-2-cidades-portuguesas-estao-entre-as-mais-coloridas-do-mundo/",
-      "category": "portugal"
-    },
-    {
-      "title": "PSL DÁ MAIS UMA “TACADA” NA FIGUEIRA DA FOZ",
-      "url": "https://www.noticiasdecoimbra.pt/psl-da-mais-uma-tacada-na-figueira-da-foz/",
-      "category": "o sexo e a cidade"
-    },
-    {
-      "title": "“OH SR DR, A DIARREIA ESTÁ NA MESMA, MAS AGORA JÁ NÃO ME IMPORTO!…”",
-      "url": "https://www.noticiasdecoimbra.pt/oh-sr-dr-a-diarreia-esta-na-mesma-mas-agora-ja-nao-me-importo/",
-      "category": "o sexo e a cidade"
+      "emoji": "🩺",
+      "category": "SAÚDE & BEM-ESTAR",
+      "stories": [
+        {
+          "headline": "O problema continua — mas o doente já não se importa",
+          "text": "Uma história humorística sobre um paciente que voltou ao médico porque o seu problema digestivo não melhorou nada. Apesar de a diarreia continuar exatamente igual, o doente diz ao médico que agora já não se importa com isso. A história ilustra como a atitude mental pode mudar completamente a forma como vivemos os nossos problemas de saúde."
+        }
+      ]
     }
   ]
 }
