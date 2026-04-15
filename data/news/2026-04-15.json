@@ -4,51 +4,83 @@
   "sections": [
     {
       "emoji": "🚗",
-      "category": "MOBILIDADE & SEGURANÇA RODOVIÁRIA",
+      "category": "MOBILIDADE & ESTRADAS",
       "stories": [
         {
-          "headline": "\"Chaga nacional\": Ministro promete mão de ferro nas estradas",
-          "text": "O ministro da Administração Interna classificou a sinistralidade como \"chaga nacional\", anunciando a reativação da Brigada de Trânsito da GNR, um novo Código da Estrada, operações stop sem aviso prévio, mais radares e alargamento dos critérios de cassação de cartas de condução. Desde 1 de janeiro já morreram 145 pessoas nas estradas portuguesas, mais 42 do que no mesmo período de 2025."
+          "headline": "Mão de ferro ao volante: vem aí um novo Código da Estrada",
+          "text": "A Brigada de Trânsito da GNR, extinta em 2007, vai ser reativada. O ministro Luís Neves anunciou um novo Código da Estrada, operações stop sem aviso prévio, mais radares, cassação alargada de cartas e punição agravada para condução sob efeito de álcool."
         },
         {
-          "headline": "Portugal é o pior país da UE em mortalidade urbana nas estradas",
-          "text": "Segundo a ANSR, 55% das mortes rodoviárias em Portugal ocorrem em zonas urbanas (média europeia: 39%). Depois da pandemia, as mortes dentro das localidades aumentaram 8%, enquanto fora das localidades baixaram 17,8%. Portugal regista 58 mortos por milhão de habitantes, acima da média europeia de 45."
+          "headline": "\"Chaga nacional\": comportamentos criminosos nas estradas",
+          "text": "Portugal regista 58 mortes por milhão de habitantes, acima da média europeia (45). No primeiro trimestre de 2026 as vítimas mortais aumentaram 22%. Já morreram 145 pessoas nas estradas este ano, mais 42 do que em igual período de 2025."
         },
         {
           "headline": "Condutor apanhado a 232 km/h numa via de 120",
-          "text": "A GNR detetou um condutor a circular a 232 km/h numa via limitada a 120 km/h, num dos múltiplos exemplos de comportamentos de risco que levaram o Governo a anunciar medidas mais duras."
+          "text": "A GNR detetou velocidades extremas no arranque da operação europeia ROADPOL, incluindo veículos a 209 e 232 km/h numa via limitada a 120."
         },
         {
-          "headline": "IUC muda: novas datas de pagamento a partir de 2027",
-          "text": "O parlamento aprovou a alteração das datas de pagamento do Imposto Único de Circulação. Em 2027 (ano transitório), IUC até 500€ paga-se em outubro. A partir de 2028, IUC até 100€ em abril, até 500€ em duas prestações (abril e outubro), acima de 500€ em três (abril, julho e outubro)."
+          "headline": "Portugal é o pior país da UE em mortalidade urbana",
+          "text": "Segundo a ANSR, 55% das mortes rodoviárias em Portugal ocorrem em zonas urbanas (média europeia: 39%). O excesso de velocidade declarado em zona urbana é de 65,2%, contra 48,4% em Espanha. O terceiro trimestre concentra mais de 30% das vítimas mortais."
         }
       ]
     },
     {
       "emoji": "⚡",
-      "category": "ENERGIA & POLÍTICA",
+      "category": "ENERGIA & APAGÃO",
       "stories": [
         {
-          "headline": "Apagão: Portugal não recebeu aviso prévio de Espanha",
-          "text": "A ministra do Ambiente e Energia afirmou que Portugal não foi avisado sobre o apagão de 28 de abril de 2025. O relatório ENTSO-E confirma que o incidente teve origem em Espanha — em 6 segundos o blackout propagou-se de Espanha para Portugal. O sistema elétrico foi restaurado em menos de 15 horas."
+          "headline": "Portugal não recebeu aviso prévio de Espanha sobre o apagão",
+          "text": "A ministra do Ambiente e Energia assegurou que o Governo não recebeu qualquer alerta das autoridades espanholas antes do blackout de 28 de abril de 2025. O colapso propagou-se a Portugal em apenas 6 segundos."
         },
         {
-          "headline": "Governo prevê 4.000 milhões de investimentos na rede elétrica após apagão",
-          "text": "O Governo anunciou investimentos de cerca de 4 mil milhões de euros na rede elétrica nacional para fortalecer a resiliência do sistema após o apagão de abril de 2025."
+          "headline": "Governo prevê 4.000 milhões para a rede elétrica após o apagão",
+          "text": "Dos 4 mil milhões, 3.040 M€ são para distribuição, 497 M€ para a rede de transporte e 775 M€ para projetos complementares. O concurso de baterias foi reforçado para 180 M€ via PRR. Portugal passará de 2 para 4 centrais com capacidade de blackstart."
         },
         {
           "headline": "Oliveira do Hospital implementa Comunidade de Energia Renovável",
-          "text": "O município de Oliveira do Hospital está a implementar uma Comunidade de Energia Renovável, projeto-piloto financiado pelo PRR para criar zonas industriais de nova geração e melhorar a competitividade das empresas instaladas na zona industrial."
+          "text": "O município está a implementar uma comunidade de energia renovável financiado pelo PRR, considerada uma das iniciativas-piloto nacionais para zonas industriais de nova geração."
         }
       ]
     },
     {
-      "emoji": "🌧️",
-      "category": "MAU TEMPO & RECONSTRUÇÃO",
+      "emoji": "💰",
+      "category": "ECONOMIA",
       "stories": [
         {
-          "headline": "Governo adianta 75 milhões para municípios recuperarem equipamentos",
-          "text": "O Governo reforçou o Fundo de Emergência Municipal em 75 milhões de euros como adiantamento para recuperação urgente de escolas, estradas e equipamentos municipais afetados pelas tempestades. Pelo menos 19 pessoas morreram desde janeiro na sequência das depressões Kristin, Leonardo e Marta."
+          "headline": "IUC muda tudo: novas datas de pagamento a partir de 2027",
+          "text": "A partir de 2028, o IUC passa a datas fixas: até abril se ≤100€, em duas prestações (abril e outubro) se 100–500€, e em três se >500€. Em 2027 há um calendário transitório para evitar pagamentos duplos."
+        },
+        {
+          "headline": "Comissão Europeia obriga redes sociais a usar app de verificação de idade",
+          "text": "A UE lançará uma app móvel para confirmar a idade mínima de acesso às redes sociais, semelhante ao passaporte digital da pandemia. Von der Leyen avisou que haverá \"tolerância zero\" para plataformas que não protejam menores."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTAS",
+      "stories": [
+        {
+          "headline": "Coimbra recebe 3 dias de festa com o Festival de Sopas",
+          "text": "O Terreiro da Erva acolhe o Festival de Sopas de 24 a 26 de abril, com degustação de sopas típicas e música ao vivo — concertinas, cavaquinhos, orquestra típica e tuna académica. Abertura no dia 24 às 19h."
+        },
+        {
+          "headline": "Solidariedade sobe ao palco do Armazém 7",
+          "text": "No dia 17 de abril, o Armazém 7 na Pedrulha acolhe um Encontro Solidário com oito bandas e DJ set. O valor angariado reverte a favor das vítimas das cheias em Taveiro, Ameal e Arzila. Entradas: 10€."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "REGIÃO & NATUREZA",
+      "stories": [
+        {
+          "headline": "367 ninhos de vespa asiática desativados em Arganil",
+          "text": "O concelho intensificou o combate à vespa velutina em 2025, investindo 38 mil euros. Desde 2016 já foram eliminados mais de 2.450 ninhos. A espécie continua a ser uma ameaça à biodiversidade e à atividade apícola."
+        },
+        {
+          "headline": "Buscas por mulher desaparecida em Côja terminam",
+          "text": "As buscas no terreno por Carla, desaparecida há 2 meses, terminaram sem resultados. A família vive em angústia e apenas quer saber se está viva ou morta."
         }
       ]
     },
@@ -58,77 +90,21 @@
       "stories": [
         {
           "headline": "AIMA queria expulsar menina de 9 anos — foi um erro",
-          "text": "A AIMA reconheceu que a recusa de renovação de residência a uma criança brasileira de 9 anos, no Algarve desde os 8 meses de idade, foi um erro de análise. A notificação de abandono voluntário foi cancelada. O caso surgiu antes da visita de Lula a Portugal a 21 de abril."
+          "text": "A AIMA reconheceu que a recusa de renovação de residência a uma criança brasileira de 9 anos foi um erro de análise. A notificação de abandono voluntário foi cancelada. O caso surgiu na véspera da visita de Lula a Portugal."
         },
         {
-          "headline": "Ataque com cocktail molotov na \"Marcha pela Vida\" — suspeito detido",
-          "text": ""
-        },
-        {
-          "headline": "PJ traz suspeito de tentativa de homicídio de volta a Portugal",
-          "text": ""
+          "headline": "Cocktail molotov em marcha pela vida — suspeito detido",
+          "text": "Um suspeito foi detido após ataque com cocktail molotov durante a manifestação \"Marcha pela Vida\"."
         }
       ]
     },
     {
-      "emoji": "🏥",
+      "emoji": "💊",
       "category": "SAÚDE",
       "stories": [
         {
-          "headline": "28 medicamentos proibidos de exportar, incluindo para esclerose múltipla",
-          "text": "O Infarmed proibiu temporariamente a exportação de 28 medicamentos em rutura de stock, incluindo fármacos para esclerose múltipla, hiperatividade e alguns cancros. A medida visa assegurar o abastecimento do mercado nacional."
-        }
-      ]
-    },
-    {
-      "emoji": "🏔️",
-      "category": "REGIÃO DE COIMBRA",
-      "stories": [
-        {
-          "headline": "367 ninhos de vespa asiática desativados em Arganil",
-          "text": "O concelho de Arganil desativou 367 ninhos de vespa velutina em 2025, num investimento de 38 mil euros. Desde 2016 já foram eliminados mais de 2.450 ninhos, com um investimento global superior a 168 mil euros."
-        },
-        {
-          "headline": "Buscas por mulher desaparecida em Côja terminam sem resultado",
-          "text": "As buscas no terreno por Maria José Costa, de 73 anos, desaparecida desde 1 de abril em Côja (Arganil), foram dadas como terminadas após duas semanas. A GNR mantém a investigação aberta, não excluindo qualquer cenário."
-        }
-      ]
-    },
-    {
-      "emoji": "🎉",
-      "category": "CULTURA & VIDA LOCAL",
-      "stories": [
-        {
-          "headline": "Festival de Sopas volta ao Terreiro da Erva (24-26 abril)",
-          "text": "O Festival de Sopas realiza-se de 24 a 26 de abril no Terreiro da Erva, com degustação de sopas e música ao vivo — desde Amigos da Paródia e Orquestra Salatina a Tuna Mondeguinas. Entrada livre."
-        },
-        {
-          "headline": "\"Portas Floridas\" dão cor a Taveiro no 1 de maio",
-          "text": "A tradição da Festa das Maias volta a Taveiro: moradores decoram portas com ramadas de freixo e flores silvestres. A tradição era usada pelos rapazes para enfeitar as portas das raparigas de quem gostavam. Prémios de 50, 30 e 20 euros para os melhores."
-        },
-        {
-          "headline": "Concerto solidário no Armazém 7 (17 abril) para vítimas das cheias",
-          "text": "Oito bandas sobem ao palco do Armazém 7 na Pedrulha, com entradas a 10€. O valor angariado reverterá a favor da União de Freguesias de Taveiro, Ameal e Arzila para apoio às vítimas das tempestades."
-        }
-      ]
-    },
-    {
-      "emoji": "⚽",
-      "category": "DESPORTO",
-      "stories": [
-        {
-          "headline": "Académica – Amarante: top 3 de público do fim de semana",
-          "text": "O jogo da Académica com o Amarante registou 10.967 espetadores, o 3.º maior público do fim de semana em Portugal, atrás apenas de Benfica-Nacional (56.594) e Sp. Braga-Arouca (12.449). Resultado: empate a um golo."
-        }
-      ]
-    },
-    {
-      "emoji": "🏛️",
-      "category": "POLÍTICA NACIONAL",
-      "stories": [
-        {
-          "headline": "Primeira mulher nomeada representante da República nos Açores",
-          "text": "O Presidente nomeou a professora Susana Goulart Costa como representante da República nos Açores — a primeira mulher no cargo. Para a Madeira, foi nomeado o juiz Paulo Duarte Barreto Ferreira."
+          "headline": "28 medicamentos proibidos de exportação",
+          "text": "O Infarmed proibiu temporariamente a exportação de cerca de 30 medicamentos em rutura de stock, incluindo fármacos para esclerose múltipla, hiperatividade e alguns cancros. A medida visa assegurar o abastecimento do mercado nacional."
         }
       ]
     }
