@@ -9765,6 +9765,118 @@
       "example": "Buscas no terreno por mulher desaparecida",
       "example_de": "Geländesuche nach vermisster Frau",
       "example_en": "On-the-ground search for missing woman"
+    },
+    {
+      "pt": "reativar",
+      "de": "reaktivieren",
+      "en": "to reactivate",
+      "example": "A Brigada de Trânsito vai ser reativada",
+      "example_de": "Die Verkehr Brigade wird reaktiviert",
+      "example_en": "The Traffic Brigade will be reactivated"
+    },
+    {
+      "pt": "prevaricar",
+      "de": "sich vergehen",
+      "en": "to break the rules",
+      "example": "Quem de forma sistemática prevarica será identificado",
+      "example_de": "Wer sich systematisch vergeht, wird identifiziert",
+      "example_en": "Who systematically breaks the rules will be identified"
+    },
+    {
+      "pt": "inopinado",
+      "de": "überraschend/unangekündigt",
+      "en": "unexpected/unannounced",
+      "example": "Operações stop inopinadas",
+      "example_de": "Unangekündigte Stopp-Kontrollen",
+      "example_en": "Unannounced stop operations"
+    },
+    {
+      "pt": "renovável",
+      "de": "erneuerbar",
+      "en": "renewable",
+      "example": "Comunidade de Energia Renovável",
+      "example_de": "Erneuerbare Energie Gemeinschaft",
+      "example_en": "Renewable Energy Community"
+    },
+    {
+      "pt": "a abelha",
+      "de": "die Biene",
+      "en": "the bee",
+      "example": "O impacto nas abelhas, essenciais à polinização",
+      "example_de": "Die Auswirkung auf Bienen, essentiell für die Bestäubung",
+      "example_en": "The impact on bees, essential for pollination"
+    },
+    {
+      "pt": "erradamente",
+      "de": "irrtümlich/fälschlicherweise",
+      "en": "mistakenly/erroneously",
+      "example": "A notificação erradamente emitida foi cancelada",
+      "example_de": "Die irrtümlich ausgestellte Benachrichtigung wurde annulliert",
+      "example_en": "The mistakenly issued notification was cancelled"
+    },
+    {
+      "pt": "autuar",
+      "de": "bestrafen/ahnden",
+      "en": "to fine/penalize",
+      "example": "Se o comportamento for legal, ninguém tem que ser autuado",
+      "example_de": "Wenn das Verhalten legal ist, muss niemand bestraft werden",
+      "example_en": "If the behavior is legal, nobody needs to be fined"
+    },
+    {
+      "pt": "a vigilância",
+      "de": "die Wachsamkeit/Überwachung",
+      "en": "the vigilance/surveillance",
+      "example": "Apelando à continuidade da vigilância ativa",
+      "example_de": "Appellierend an die Fortsetzung der aktiven Wachsamkeit",
+      "example_en": "Appealing for the continuation of active vigilance"
+    },
+    {
+      "pt": "a celeridade",
+      "de": "die Eiligkeit/Schnelligkeit",
+      "en": "the swiftness/celerity",
+      "example": "O Governo está muito focado na celeridade",
+      "example_de": "Die Regierung ist sehr auf Schnelligkeit fokussiert",
+      "example_en": "The Government is very focused on swiftness"
+    },
+    {
+      "pt": "intransigente",
+      "de": "unnachgiebig",
+      "en": "uncompromising",
+      "example": "A fiscalização tem de ser intransigente",
+      "example_de": "Die Kontrolle muss unnachgiebig sein",
+      "example_en": "Enforcement must be uncompromising"
+    },
+    {
+      "pt": "a polinização",
+      "de": "die Bestäubung",
+      "en": "the pollination",
+      "example": "Abelhas essenciais à polinização",
+      "example_de": "Bienen, die für die Bestäubung essenziell sind",
+      "example_en": "Bees essential for pollination"
+    },
+    {
+      "pt": "a competitividade",
+      "de": "die Wettbewerbsfähigkeit",
+      "en": "the competitiveness",
+      "example": "Melhorar a competitividade das empresas",
+      "example_de": "Die Wettbewerbsfähigkeit der Unternehmen verbessern",
+      "example_en": "Improve the competitiveness of companies"
+    },
+    {
+      "pt": "a agressividade",
+      "de": "die Aggressivität",
+      "en": "the aggressiveness",
+      "example": "O comportamento agressivo da espécie quando perturbada",
+      "example_de": "Das aggressive Verhalten der Art wenn gestört",
+      "example_en": "The aggressive behavior of the species when disturbed"
+    },
+    {
+      "pt": "desabastecer",
+      "de": "entleeren/die Versorgung unterbrechen",
+      "en": "to deprive of supply",
+      "example": "Evitar situações críticas que possam afetar a disponibilidade",
+      "example_de": "Kritische Situationen vermeiden, die die Verfügbarkeit beeinträchtigen",
+      "example_en": "Avoid critical situations that may affect availability"
     }
   ]
 }
