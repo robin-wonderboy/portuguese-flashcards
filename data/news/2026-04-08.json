@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & ARTE",
+      "stories": [
+        {
+          "headline": "Bienal Anozero 2026 inaugura sábado em Coimbra",
+          "text": "A Bienal de Arte Contemporânea de Coimbra, chamada Anozero, inaugura no dia 11 de abril com o tema 'Segurar, dar, receber'. A exposição vai ocupar vários espaços da cidade, incluindo o Mosteiro de Santa Clara-a-Nova e o Convento São Francisco. A entrada é gratuita e o evento dura até julho."
+        },
+        {
+          "headline": "Convento São Francisco celebra dez anos como espaço cultural",
+          "text": "O Convento São Francisco, um dos principais espaços culturais e de congressos de Coimbra, celebra hoje o seu décimo aniversário. O edifício transformou-se num equipamento de referência para a cidade e para toda a região centro de Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🌫️",
+      "category": "METEOROLOGIA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Alerta de má qualidade do ar por causa de poeiras do norte de África",
+          "text": "A Direção-Geral da Saúde avisou que a qualidade do ar vai ser má até quinta-feira em Portugal continental. O problema é causado por poeiras que vêm do norte de África. As pessoas idosas e as crianças devem ter cuidados especiais e evitar atividades ao ar livre."
+        },
+        {
+          "headline": "Chuva forte e mau tempo em Coimbra até quarta-feira",
+          "text": "O IPMA colocou todos os distritos do continente em alerta amarelo por causa da chuva prevista. Coimbra está entre as regiões que podem ser afetadas por precipitação intensa e ondulação forte na costa. É aconselhável verificar as previsões antes de sair de casa."
+        }
+      ]
+    },
+    {
+      "emoji": "💃",
+      "category": "EVENTOS & FESTIVAIS",
+      "stories": [
+        {
+          "headline": "Semana Cultural Municipal traz música, livros e dança a Coimbra",
+          "text": "De 7 a 12 de abril, Coimbra celebra a Semana Cultural Municipal com muitas atividades. Há lançamentos de livros na Casa da Escrita, concertos de música independente e atividades no Museu e na Biblioteca municipais. O festival Abril Dança também decorre durante todo o mês."
+        },
+        {
+          "headline": "Coral Polifónico de Coimbra atua esta noite no Teatro Paulo Quintela",
+          "text": "O Coral Polifónico de Coimbra apresenta-se hoje, quarta-feira, às 18 horas, no Teatro Paulo Quintela da Faculdade de Letras. É uma oportunidade para ouvir música coral de qualidade num dos espaços universitários mais bonitos da cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Mariana Leitão é candidata presidencial pela Iniciativa Liberal",
+          "text": "A líder parlamentar da Iniciativa Liberal, Mariana Leitão, anunciou a sua candidatura às eleições presidenciais de 2026. É mais uma candidata na corrida à Presidência da República, que promete ser muito competitiva este ano."
+        },
+        {
+          "headline": "GNR e PSP batem à porta de três mil pessoas em Coimbra",
+          "text": "As forças de segurança realizaram uma grande operação em Coimbra, contactando cerca de três mil pessoas. A GNR e a PSP visitaram muitas casas como parte de uma ação coordenada na região. Este tipo de operações serve para garantir a segurança e o contacto com a população."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "SUSTENTABILIDADE",
+      "stories": [
+        {
+          "headline": "Projeto ClimAgir percorre praias da região de Coimbra",
+          "text": "O projeto ClimAgir, da Comunidade Intermunicipal da Região de Coimbra, está a visitar as praias marítimas e fluviais de treze municípios. O objetivo é sensibilizar as pessoas para as alterações climáticas e promover comportamentos mais sustentáveis junto à costa e aos rios."
+        }
+      ]
+    }
+  ]
+}

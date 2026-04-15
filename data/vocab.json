@@ -9458,5 +9458,201 @@
       "example_de": "Die Ausstellung fordert die Wahrnehmung der Realität der Besucher heraus.",
       "example_en": "The exhibition challenges the visitors' perception of reality."
     }
+  ],
+  "2026-04-08": [
+    {
+      "pt": "inaugurar",
+      "de": "eröffnen, einweihen",
+      "en": "to inaugurate, to open",
+      "example": "A Bienal Anozero inaugura no dia 11 de abril em vários espaços da cidade.",
+      "example_de": "Die Biennale Anozero eröffnet am 11. April an verschiedenen Orten der Stadt.",
+      "example_en": "The Anozero Biennial opens on April 11 at various locations around the city."
+    },
+    {
+      "pt": "o lançamento",
+      "de": "die Veröffentlichung, die Vorstellung",
+      "en": "launch, release, book presentation",
+      "example": "Há lançamentos de livros na Casa da Escrita durante a Semana Cultural.",
+      "example_de": "Während der Kulturwoche finden Buchvorstellungen im Casa da Escrita statt.",
+      "example_en": "There are book launches at Casa da Escrita during the Cultural Week."
+    },
+    {
+      "pt": "a ondulação",
+      "de": "der Wellengang, die Dünung",
+      "en": "swell, waves",
+      "example": "Coimbra pode ser afetada por precipitação intensa e ondulação forte na costa.",
+      "example_de": "Coimbra kann von starkem Regen und hohem Wellengang an der Küste betroffen sein.",
+      "example_en": "Coimbra may be affected by heavy rainfall and strong swell on the coast."
+    },
+    {
+      "pt": "a curadoria",
+      "de": "die Kuration, die künstlerische Leitung",
+      "en": "curatorship, curation",
+      "example": "A Bienal tem curadoria de Hans Ibelings e John Zeppetelli.",
+      "example_de": "Die Biennale steht unter der künstlerischen Leitung von Hans Ibelings und John Zeppetelli.",
+      "example_en": "The Biennial is curated by Hans Ibelings and John Zeppetelli."
+    },
+    {
+      "pt": "o equipamento",
+      "de": "die Einrichtung, die Anlage",
+      "en": "facility, venue",
+      "example": "O Convento São Francisco tornou-se um equipamento de referência para a cidade.",
+      "example_de": "Das Kloster São Francisco wurde zu einer Referenzeinrichtung für die Stadt.",
+      "example_en": "The São Francisco Convent became a landmark facility for the city."
+    },
+    {
+      "pt": "a corrida",
+      "de": "das Rennen, der Wettlauf",
+      "en": "race, contest",
+      "example": "É mais uma candidata na corrida à Presidência da República.",
+      "example_de": "Sie ist eine weitere Kandidatin im Rennen um die Präsidentschaft.",
+      "example_en": "She is another candidate in the race for the Presidency."
+    },
+    {
+      "pt": "o mosteiro",
+      "de": "das Kloster",
+      "en": "monastery",
+      "example": "O Mosteiro de Santa Clara-a-Nova é o núcleo central da bienal.",
+      "example_de": "Das Kloster Santa Clara-a-Nova ist das Herzstück der Biennale.",
+      "example_en": "The Santa Clara-a-Nova Monastery is the central hub of the biennial."
+    },
+    {
+      "pt": "aconselhável",
+      "de": "ratsam, empfehlenswert",
+      "en": "advisable",
+      "example": "É aconselhável verificar as previsões antes de sair de casa.",
+      "example_de": "Es ist ratsam, die Wettervorhersage zu überprüfen, bevor man das Haus verlässt.",
+      "example_en": "It is advisable to check the forecast before leaving the house."
+    }
+  ],
+  "2026-04-15": [
+    {
+      "pt": "a chaga",
+      "de": "die Wunde/Plage",
+      "en": "wound/scourge (metaphorical)",
+      "example": "A sinistralidade é uma chaga nacional",
+      "example_de": "Die Unfallstatistik ist eine nationale Plage",
+      "example_en": "Road accidents are a national scourge"
+    },
+    {
+      "pt": "a desfaçatez",
+      "de": "die Dreistigkeit",
+      "en": "shamelessness, brazenness",
+      "example": "Ultrapassam sinais vermelhos com a maior desfaçatez",
+      "example_de": "Sie überfahren rote Ampeln mit größter Dreistigkeit",
+      "example_en": "They run red lights with the utmost brazenness"
+    },
+    {
+      "pt": "o despacho",
+      "de": "der Erlass",
+      "en": "official order/dispatch (government)",
+      "example": "O Governo publicou hoje um despacho",
+      "example_de": "Die Regierung hat heute einen Erlass veröffentlicht",
+      "example_en": "The Government published an order today"
+    },
+    {
+      "pt": "o fármaco",
+      "de": "das Arzneimittel",
+      "en": "drug, pharmaceutical",
+      "example": "Fármacos para tratar a esclerose múltipla",
+      "example_de": "Arzneimittel zur Behandlung der Multiplen Sklerose",
+      "example_en": "Drugs to treat multiple sclerosis"
+    },
+    {
+      "pt": "o freixo",
+      "de": "die Esche",
+      "en": "ash tree",
+      "example": "Ramadas de freixo e flores silvestres",
+      "example_de": "Eschenzweige und Wildblumen",
+      "example_en": "Ash branches and wildflowers"
+    },
+    {
+      "pt": "a soleira",
+      "de": "die Türschwelle",
+      "en": "door threshold",
+      "example": "Flores postas na soleira da porta",
+      "example_de": "Blumen auf die Türschwelle gestellt",
+      "example_en": "Flowers placed on the door threshold"
+    },
+    {
+      "pt": "desativar",
+      "de": "deaktivieren",
+      "en": "to deactivate, disable",
+      "example": "Desativados 367 ninhos de vespa",
+      "example_de": "367 Wespennester deaktiviert",
+      "example_en": "367 hornet nests deactivated"
+    },
+    {
+      "pt": "erradicar",
+      "de": "ausrotten",
+      "en": "to eradicate",
+      "example": "Contribuindo para a contenção e erradicação da espécie",
+      "example_de": "Beitragend zur Eindämmung und Ausrottung der Art",
+      "example_en": "Contributing to the containment and eradication of the species"
+    },
+    {
+      "pt": "reverter",
+      "de": "zurückgehen auf/zugutekommen",
+      "en": "to revert to, go to (a cause)",
+      "example": "O valor reverterá a favor da União",
+      "example_de": "Der Betrag kommt der Union zugute",
+      "example_en": "The amount will go to the Union"
+    },
+    {
+      "pt": "cassar",
+      "de": "entziehen (Führerschein)",
+      "en": "to revoke (a license)",
+      "example": "Alargamento dos critérios de cassação das cartas de condução",
+      "example_de": "Erweiterung der Kriterien zum Führerscheinentzug",
+      "example_en": "Broadening of license revocation criteria"
+    },
+    {
+      "pt": "embelezar",
+      "de": "verschönern",
+      "en": "to beautify",
+      "example": "Flores que embelezam as freguesias",
+      "example_de": "Blumen, die die Gemeinden verschönern",
+      "example_en": "Flowers that beautify the parishes"
+    },
+    {
+      "pt": "inflexível",
+      "de": "unnachgiebig",
+      "en": "inflexible, unyielding",
+      "example": "Seremos firmes e inflexíveis",
+      "example_de": "Wir werden entschlossen und unnachgiebig sein",
+      "example_en": "We will be firm and inflexible"
+    },
+    {
+      "pt": "redobrado",
+      "de": "verdoppelt/verstärkt",
+      "en": "doubled, redoubled",
+      "example": "Um esforço redobrado de fiscalização",
+      "example_de": "Eine verdoppelte Überwachungsanstrengung",
+      "example_en": "A redoubled enforcement effort"
+    },
+    {
+      "pt": "assinalável",
+      "de": "bemerkenswert",
+      "en": "noteworthy, remarkable",
+      "example": "Um número assinalável de espetadores",
+      "example_de": "Eine bemerkenswerte Anzahl von Zuschauern",
+      "example_en": "A noteworthy number of spectators"
+    },
+    {
+      "pt": "mão de ferro",
+      "de": "eiserne Hand/Hand",
+      "en": "iron fist (strict control)",
+      "example": "Mão de ferro ao volante",
+      "example_de": "Eiserne Hand am Lenkrad",
+      "example_en": "Iron fist at the wheel"
+    },
+    {
+      "pt": "chaga nacional",
+      "de": "nationale Plage",
+      "en": "national scourge/wound",
+      "example": "A sinistralidade é uma chaga nacional",
+      "example_de": "Die Unfallstatistik ist eine nationale Plage",
+      "example_en": "Road accidents are a national scourge"
+    }
   ]
 }
