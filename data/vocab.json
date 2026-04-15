@@ -9653,6 +9653,118 @@
       "example": "A sinistralidade é uma chaga nacional",
       "example_de": "Die Unfallstatistik ist eine nationale Plage",
       "example_en": "Road accidents are a national scourge"
+    },
+    {
+      "pt": "a cassação",
+      "de": "der Entzug",
+      "en": "revocation (of license)",
+      "example": "O alargamento dos critérios de cassação de cartas",
+      "example_de": "Die Erweiterung der Kriterien für den Führerscheinentzug",
+      "example_en": "The widening of license revocation criteria"
+    },
+    {
+      "pt": "a rutura",
+      "de": "der Bruch/die Lücke",
+      "en": "rupture/shortage",
+      "example": "Medicamentos em rutura de stock",
+      "example_de": "Medikamente mit Lieferengpass",
+      "example_en": "Medicines in shortage"
+    },
+    {
+      "pt": "o adiantamento",
+      "de": "der Vorschluss",
+      "en": "advance payment",
+      "example": "O Governo adianta 75 milhões",
+      "example_de": "Die Regierung zahlt 75 Millionen im Voraus",
+      "example_en": "The Government advances 75 million"
+    },
+    {
+      "pt": "renovar",
+      "de": "erneuern",
+      "en": "to renew",
+      "example": "Recusa de renovação de residência",
+      "example_de": "Verweigerung der Aufenthaltserneuerung",
+      "example_en": "Refusal to renew residency"
+    },
+    {
+      "pt": "excluir",
+      "de": "ausschließen",
+      "en": "to exclude/rule out",
+      "example": "Não excluindo qualquer cenário",
+      "example_de": "Ohne irgendein Szenario auszuschließen",
+      "example_en": "Without ruling out any scenario"
+    },
+    {
+      "pt": "fortalecer",
+      "de": "stärken",
+      "en": "to strengthen",
+      "example": "Fortalecer a resiliência do sistema",
+      "example_de": "Die Widerstandsfähigkeit des Systems stärken",
+      "example_en": "Strengthen the system's resilience"
+    },
+    {
+      "pt": "propagar",
+      "de": "sich ausbreiten",
+      "en": "to propagate/spread",
+      "example": "O blackout propagou-se de Espanha para Portugal",
+      "example_de": "Der Stromausfall breitete sich von Spanien nach Portugal aus",
+      "example_en": "The blackout spread from Spain to Portugal"
+    },
+    {
+      "pt": "durão",
+      "de": "hart/n uncompromissing",
+      "en": "tough/hardline",
+      "example": "Medidas mais duras, mão de ferro",
+      "example_de": "Härtere Maßnahmen, eiserne Hand",
+      "example_en": "Tougher measures, iron fist"
+    },
+    {
+      "pt": "prévio",
+      "de": "vorab/im Voraus",
+      "en": "prior/advance",
+      "example": "Portugal não recebeu aviso prévio",
+      "example_de": "Portugal erhielt keine Vorabwarnung",
+      "example_en": "Portugal received no prior warning"
+    },
+    {
+      "pt": "de surpresa",
+      "de": "überrascht/aus dem Nichts",
+      "en": "by surprise",
+      "example": "A decisão apanhou todos de surpresa",
+      "example_de": "Die Entscheidung überraschte alle",
+      "example_en": "The decision caught everyone by surprise"
+    },
+    {
+      "pt": "a ramada",
+      "de": "das Laubdach/der Zweigbogen",
+      "en": "bower/branch decoration",
+      "example": "Decoram portas com ramadas de freixo",
+      "example_de": "Sie schmücken Türen mit Eschenzweigen",
+      "example_en": "They decorate doors with ash branches"
+    },
+    {
+      "pt": "o espetador",
+      "de": "der Zuschauer",
+      "en": "spectator",
+      "example": "O jogo registou 10.967 espetadores",
+      "example_de": "Das Spiel verzeichnete 10.967 Zuschauer",
+      "example_en": "The game registered 10,967 spectators"
+    },
+    {
+      "pt": "o abastecimento",
+      "de": "die Versorgung",
+      "en": "supply/provisioning",
+      "example": "Assegurar o abastecimento do mercado",
+      "example_de": "Die Versorgung des Marktes sichern",
+      "example_en": "Ensure market supply"
+    },
+    {
+      "pt": "o terreno",
+      "de": "das Gelände/vor Ort",
+      "en": "on the ground/terrain",
+      "example": "Buscas no terreno por mulher desaparecida",
+      "example_de": "Geländesuche nach vermisster Frau",
+      "example_en": "On-the-ground search for missing woman"
     }
   ]
 }
