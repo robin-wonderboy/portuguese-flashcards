@@ -9878,5 +9878,79 @@
       "example_de": "Kritische Situationen vermeiden, die die Verfügbarkeit beeinträchtigen",
       "example_en": "Avoid critical situations that may affect availability"
     }
+  ],
+  "2026-04-16": [
+    {
+      "pt": "o paradeiro",
+      "de": "der Aufenthaltsort",
+      "en": "the whereabouts",
+      "example": "A família não sabe o paradeiro de Carla",
+      "example_de": "Die Familie weiß nicht, wo Carla sich aufhält",
+      "example_en": "The family doesn't know Carla's whereabouts"
+    },
+    {
+      "pt": "a contraordenação",
+      "de": "die Ordnungswidrigkeit",
+      "en": "the infraction / misdemeanor",
+      "example": "Prazo de prescrição de processos de contraordenação",
+      "example_de": "Verjährungsfrist für Ordnungswidrigkeitsverfahren",
+      "example_en": "Statute of limitations for infraction proceedings"
+    },
+    {
+      "pt": "humanizar",
+      "de": "vermenschlichen",
+      "en": "to humanize",
+      "example": "Frutas humanizadas protagonizam histórias",
+      "example_de": "Vermenschlichte Früchte spielen die Hauptrolle in Geschichten",
+      "example_en": "Humanized fruits star in stories"
+    },
+    {
+      "pt": "frisar",
+      "de": "betonen",
+      "en": "to emphasize / to stress",
+      "example": "O ministro frisou que há comportamentos criminosos",
+      "example_de": "Der Minister betonte, dass es kriminelle Verhaltensweisen gibt",
+      "example_en": "The minister stressed that there are criminal behaviors"
+    },
+    {
+      "pt": "indiciar",
+      "de": "anklagen / beschuldigen",
+      "en": "to indict / to charge",
+      "example": "Um homem indiciado pela prática de crimes",
+      "example_de": "Ein Mann wegen der Begehung von Verbrechen angeklagt",
+      "example_en": "A man indicted for committing crimes"
+    },
+    {
+      "pt": "apontar",
+      "de": "hinweisen / aufzeigen",
+      "en": "to point out / to indicate",
+      "example": "A família aponta alegadas ameaças",
+      "example_de": "Die Familie weist auf angebliche Drohungen hin",
+      "example_en": "The family points out alleged threats"
+    },
+    {
+      "pt": "inabalável",
+      "de": "unerschütterlich",
+      "en": "unshakable / unwavering",
+      "example": "A fiscalização tem de ser inabalável",
+      "example_de": "Die Überwachung muss unerschütterlich sein",
+      "example_en": "Enforcement must be unwavering"
+    },
+    {
+      "pt": "objetivamente",
+      "de": "objektiv",
+      "en": "objectively",
+      "example": "Há comportamentos que são objetivamente criminosos",
+      "example_de": "Es gibt Verhaltensweisen, die objektiv kriminell sind",
+      "example_en": "There are behaviors that are objectively criminal"
+    },
+    {
+      "pt": "a baliza",
+      "de": "die Begrenzung / der Pflock",
+      "en": "the boundary marker / the bollard",
+      "example": "O concelho celebrou cooperação",
+      "example_de": "Die Gemeinde feierte Zusammenarbeit",
+      "example_en": "The municipality celebrated cooperation"
+    }
   ]
 }
