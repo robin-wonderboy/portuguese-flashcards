@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "SEGURANÇA RODoviária",
+      "stories": [
+        {
+          "headline": "Mão de ferro ao volante: vem aí um novo Código da Estrada",
+          "text": "O ministro Luís Neves anunciou a reativação da Brigada de Trânsito da GNR (extinta em 2007), um novo Código da Estrada, operações stop sem aviso prévio, mais radares, e punição agravada para condução sob álcool. O objetivo: reduzir em 50% as mortes nas estradas até 2030."
+        },
+        {
+          "headline": "\"Chaga nacional\": 145 mortos nas estradas desde janeiro (+42 vs ano passado)",
+          "text": "Portugal regista 58 mortos por milhão de habitantes, acima da média europeia de 45. O primeiro trimestre de 2026 teve 22% mais vítimas mortais. Luís Neves classificou a situação como \"chaga nacional\" e disse haver comportamentos \"objetivamente criminosos\" nas estradas."
+        },
+        {
+          "headline": "Condutor apanhado a 232 km/h em via de 120",
+          "text": "A GNR detetou velocidades extremas no primeiro dia da operação europeia ROADPOL — 209 e 232 km/h em vias de 120 km/h."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Ataque com cocktail molotov na Marcha pela Vida: suspeito detido",
+          "text": "A PJ deteve um homem por tentativa de crimes terroristas, depois de ter arremessado um engenho incendiário improvisado contra participantes na Marcha pela Vida, em Lisboa, incluindo famílias com crianças."
+        },
+        {
+          "headline": "Família de Carla Pata aponta ameaças de casal brasileiro antes do desaparecimento",
+          "text": "Carla Pata, ~50 anos, desapareceu há 2 meses na zona da Guia, Pombal. A família relata que ela terá sido ameaçada por um casal brasileiro. A mãe diz: \"Só queríamos saber se está viva ou morta.\""
+        },
+        {
+          "headline": "Tribunal manda repetir julgamento de ex-fuzileiro absolvido de agressão a GNR",
+          "text": "O Tribunal da Relação ordenou a repetição do julgamento de um ex-fuzileiro que tinha sido absolvido de agressão a um militar da GNR."
+        },
+        {
+          "headline": "AIMA queria expulsar menina de 9 anos, mas afinal foi um erro",
+          "text": "A Agência para a Integração tentou expulsar uma criança de 9 anos, mas reconheceu que se tratou de um erro."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Doente morre e corpo fica ao lado de outros utentes durante horas",
+          "text": "No Hospital Curry Cabral, um doente faleceu durante a madrugada e o cadáver permaneceu no quarto partilhado com outros três utentes até ao meio-dia. A ULS explicou que a demora deveu-se à possibilidade de autópsia, que exigia audição da família."
+        },
+        {
+          "headline": "Utentes da ULS de Coimbra satisfeitos com cuidados prestados",
+          "text": "Inquérito mostra satisfação dos utentes com os cuidados de saúde na Unidade Local de Saúde de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "TECNOLOGIA & DIGITAL",
+      "stories": [
+        {
+          "headline": "UE exige verificação de idade nas redes sociais com tolerância zero",
+          "text": "A Comissão Europeia anunciou uma app móvel de verificação de idade, pronta tecnicamente. Ursula von der Leyen avisou: tolerância zero para plataformas que não protejam menores. A app permite verificação via cartão de cidadão ou passaporte."
+        },
+        {
+          "headline": "\"Novelas de fruta\" tornam-se fenómeno viral no TikTok",
+          "text": "Vídeos gerados por IA com frutas humanizadas em histórias de amor e traição somam milhões de visualizações no TikTok, misturando formato novela com consumo rápido."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTIVIDADES",
+      "stories": [
+        {
+          "headline": "Já há cartaz oficial para a Queima de Coimbra",
+          "text": "O cartaz oficial da Queima das Fitas foi eleito por votação aberta a todos os estudantes."
+        },
+        {
+          "headline": "Coimbra recebe 3 dias de festa com o Festival de Sopas",
+          "text": "O Festival de Sopas decorre no Terreiro da Erva de 24 a 26 de abril, com degustação de sopas, música ao vivo (Amigos da Paródia, Orquestra Salatina, Tuna Mondeguinas) e convívio."
+        },
+        {
+          "headline": "Praia das Rocas reabre a 30 de maio em Castanheira de Pera",
+          "text": "A Praia das Rocas, com as suas ondas a 80 km do mar, reabre em 30 de maio. Danos do mau tempo estão a ser reparados, incluindo o slide torcido pelo vento. Bilhete único dá acesso a todas as atividades."
+        }
+      ]
+    },
+    {
+      "emoji": "⚡",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Apagão: Portugal não recebeu aviso prévio de Espanha",
+          "text": "A ministra afirmou que Portugal não recebeu aviso prévio de Espanha sobre o apagão que afetou o país."
+        },
+        {
+          "headline": "Governo prevê 4.000 milhões de investimentos na rede elétrica após apagão",
+          "text": "Após o apagão recente, o Governo planeia investimentos de cerca de 4 mil milhões de euros na rede elétrica."
+        },
+        {
+          "headline": "Governo adianta 75 milhões para municípios recuperarem equipamentos do mau tempo",
+          "text": "O Governo adianta 75 milhões de euros para ajudar municípios afetados pela depressão Kristin a recuperar equipamentos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Morreu Vicente Lucas, ex-internacional português",
+          "text": ""
+        },
+        {
+          "headline": "Judoca de Coimbra sonha com medalha no Europeu de Tbilissi",
+          "text": ""
+        },
+        {
+          "headline": "Académica – Amarante no top 3 de público do fim de semana",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
