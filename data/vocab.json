@@ -9952,5 +9952,127 @@
       "example_de": "Die Gemeinde feierte Zusammenarbeit",
       "example_en": "The municipality celebrated cooperation"
     }
+  ],
+  "2026-04-17": [
+    {
+      "pt": "o cabaz alimentar",
+      "de": "der Warenkorb",
+      "en": "grocery basket",
+      "example": "O preço do cabaz alimentar atingiu um novo máximo.",
+      "example_de": "Der Preis des Warenkorbs erreichte ein neues Maximum.",
+      "example_en": "The grocery basket price hit a new record."
+    },
+    {
+      "pt": "a maré",
+      "de": "die Gezeit",
+      "en": "tide",
+      "example": "Cabo Verde trava uma luta contra a maré de plástico.",
+      "example_de": "Kap Verde kämpft gegen die Plastikflut.",
+      "example_en": "Cape Verde fights against the tide of plastic."
+    },
+    {
+      "pt": "o vereador",
+      "de": "der Stadtrat",
+      "en": "city councilor",
+      "example": "A vereadora foi vítima de um disparo.",
+      "example_de": "Die Stadträtin wurde Opfer eines Schusses.",
+      "example_en": "The city councilor was a victim of a shooting."
+    },
+    {
+      "pt": "o internamento",
+      "de": "die Einweisung",
+      "en": "hospitalization, institutionalization",
+      "example": "O MP pediu internamento em centro educativo.",
+      "example_de": "Die Staatsanwaltschaft forderte Einweisung in ein Erziehungszentrum.",
+      "example_en": "The prosecution requested commitment to an educational center."
+    },
+    {
+      "pt": "o tecido empresarial",
+      "de": "das Wirtschaftsgefüge",
+      "en": "business fabric, business sector",
+      "example": "O IPC aproxima estudantes do tecido empresarial.",
+      "example_de": "Das IPC bringt Studierende näher an das Wirtschaftsgefüge.",
+      "example_en": "The IPC brings students closer to the business sector."
+    },
+    {
+      "pt": "a intoxicação alimentar",
+      "de": "die Lebensmittelvergiftung",
+      "en": "food poisoning",
+      "example": "Treze crianças foram vítimas de intoxicação alimentar.",
+      "example_de": "Dreizehn Kinder erlitten eine Lebensmittelvergiftung.",
+      "example_en": "Thirteen children were victims of food poisoning."
+    },
+    {
+      "pt": "a hemorragia",
+      "de": "die Blutung",
+      "en": "hemorrhage, bleeding",
+      "example": "O atleta sofreu uma hemorragia interna.",
+      "example_de": "Der Athlet erlitt eine innere Blutung.",
+      "example_en": "The athlete suffered internal bleeding."
+    },
+    {
+      "pt": "mitigar",
+      "de": "mildern, lindern",
+      "en": "to mitigate, to alleviate",
+      "example": "Apoio para mitigar o aumento de custos.",
+      "example_de": "Hilfe zur Milderung der Kostensteigerung.",
+      "example_en": "Support to mitigate rising costs."
+    },
+    {
+      "pt": "encarecer",
+      "de": "verteuern",
+      "en": "to become more expensive",
+      "example": "O peixe e alimentos essenciais fazem encarecer o cabaz.",
+      "example_de": "Fisch und Grundnahrungsmittel verteuern den Warenkorb.",
+      "example_en": "Fish and essentials make the basket more expensive."
+    },
+    {
+      "pt": "pendurar as chuteiras",
+      "de": "die Stollenschuhe an den Nagel hängen",
+      "en": "to hang up the boots (retire from sport)",
+      "example": "Óscar Cardoso pendurou as chuteiras aos 42 anos.",
+      "example_de": "Óscar Cardoso hängte die Stollenschuhe mit 42 an den Nagel.",
+      "example_en": "Óscar Cardozo hung up his boots at 42."
+    },
+    {
+      "pt": "desigual",
+      "de": "ungleich",
+      "en": "unequal, uneven",
+      "example": "Cabo Verde trava uma luta desigual contra o plástico.",
+      "example_de": "Kap Verde kämpft einen ungleichen Kampf gegen Plastik.",
+      "example_en": "Cape Verde fights an unequal battle against plastic."
+    },
+    {
+      "pt": "o ribeirinho",
+      "de": "der Uferbewohner",
+      "en": "riverside dweller, riverside area",
+      "example": "Apoio para reconstruir territórios ribeirinhos.",
+      "example_de": "Hilfe zum Wiederaufbau der Ufergebiete.",
+      "example_en": "Support to rebuild riverside territories."
+    },
+    {
+      "pt": "suave",
+      "de": "sanft, mild",
+      "en": "gentle, mild",
+      "example": "O vento suave de primavera.",
+      "example_de": "Die sanfte Frühlingsbrise.",
+      "example_en": "The gentle spring breeze."
+    },
+    {
+      "pt": "a vereadora",
+      "de": "die Stadträtin",
+      "en": "female city councilor",
+      "example": "A vereadora foi encontrada sem vida em casa.",
+      "example_de": "Die Stadträtin wurde leblos in ihrem Haus gefunden.",
+      "example_en": "The city councilor was found dead at home."
+    },
+    {
+      "pt": "o pescado",
+      "de": "der Fischfang",
+      "en": "fish/seafood (collective)",
+      "example": "As oito variedades de pescado encareceram.",
+      "example_de": "Die acht Fischsorten haben sich verteuert.",
+      "example_en": "The eight fish varieties became more expensive."
+    }
   ]
 }
