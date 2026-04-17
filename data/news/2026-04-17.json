@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "TEMPO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Coimbra com tempo de fazer inveja — mas mudança a caminho",
+          "text": "Dia quente de primavera com até 28°C em Coimbra e risco UV elevado. Aproveite o fim de semana, porque a partir de segunda-feira chegam poeiras do Saara, aguaceiros, trovoadas e rajadas até 80 km/h."
+        },
+        {
+          "headline": "Cabo Verde contra a maré de plástico",
+          "text": "Na ilha desabitada de Santa Luzia, a ONG Biosfera recolhe 50-70 toneladas de lixo por ano. Há 700-800 toneladas acumuladas e sem forma de as retirar. As tartarugas marinhas são as maiores vítimas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Homicida mais jovem de Portugal conhece destino no tribunal",
+          "text": "O jovem de 14 anos que matou a mãe, vereadora de Vagos, em outubro 2025, ouve hoje a decisão do Tribunal de Família e Menores de Aveiro. O Ministério Público pediu internamento em centro educativo por 3 anos, a medida mais gravosa."
+        },
+        {
+          "headline": "Homem circula com facas na zona nobre de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Novo diretor da PJ não cede a pressão mediática no caso do 'cocktail molotov'",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Acidente no IC17 faz 2 mortos e feridos graves",
+          "text": "Colisão entre dois veículos em Odivelas às 02:44 deixou dois adultos mortos (26 e 52 anos), dois feridos graves e um ligeiro. A estrada esteve cortada até às 07:10."
+        },
+        {
+          "headline": "Recordista do Benfica em coma após acidente de viação",
+          "text": "Etson Barros, recordista nacional dos 3000m obstáculos, está em coma induzido no Hospital de Faro após o carro se despistar. Sofreu hemorragia interna sem fraturas. Teste de álcool negativo."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar atinge máximo histórico: 259,52€",
+          "text": "DECO PROteste reporta que o cabaz de 63 bens essenciais subiu 7% desde janeiro e 38% desde 2022. Peixe, pão de forma, cebola e alface são os que mais encareceram."
+        },
+        {
+          "headline": "Governo aprova apoio de 76,5 M€ para zonas ribeirinhas e costeiras",
+          "text": "Verba do Fundo Ambiental para reconstruir infraestruturas danificadas pelo 'comboio de tempestades' de janeiro e fevereiro, que matou 18 pessoas em Portugal."
+        },
+        {
+          "headline": "Apoio aos combustíveis para transportadores e pronto-socorro",
+          "text": "Subsídio único entre 114€ e 420€ para mitigar subida de combustíveis causada pela guerra no Médio Oriente. Inclui também apoio para AdBlue."
+        },
+        {
+          "headline": "Grandes mudanças no MB Way a caminho",
+          "text": "Até final de 2026, enviar e receber dinheiro entre 13 países europeus só com número de telemóvel. A partir de 2027, pagamentos em lojas físicas e online no estrangeiro via QR Code e NFC."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "category": "COMUNIDADE & SOLIDARIEDADE",
+      "stories": [
+        {
+          "headline": "Almoço solidário para Luna, menina de Arganil com leucemia",
+          "text": "Dia 17 de maio, às 13h, evento para angariar fundos para um assento postural de 2.438€. A mãe acompanha Luna a tempo inteiro; só o pai trabalha."
+        },
+        {
+          "headline": "Concerto solidário para família afetada pela tempestade Kristin",
+          "text": "Dia 26 de abril no Pavilhão Centro de Portugal: Orquestra Clássica do Centro e Fado de Coimbra juntam-se para ajudar uma família cuja casa ficou danificada pela tempestade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra: 500+ estudantes ligados a empresas",
+          "text": "A 4ª edição do Job Summit & Science2Business reuniu meia centena de empresas no Convento São Francisco. Novidade este ano: espaço dedicado a ordens profissionais e lançamento de podcast com alumni."
+        },
+        {
+          "headline": "Faculdade de Letras da UC comemora 115.º aniversário com Dia Aberto",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO & LAZER",
+      "stories": [
+        {
+          "headline": "Festas de São Tomé vão pôr Mira em modo de festa total",
+          "text": "De 22 a 26 de julho no Jardim do Visconde. Concertos, gastronomia regional e entrada gratuita. Inscrições abertas até 15 de maio."
+        },
+        {
+          "headline": "Óscar 'Tacuara' Cardozo pendura as chuteiras aos 42 anos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "13 crianças intoxicadas em infantário no Funchal",
+          "text": "Intoxicação alimentar no Auxílio Maternal afetou 13 crianças, 9 das quais recorreram ao serviço de urgência. Todas já tiveram alta. A origem pode ser contaminação pontual de um alimento."
+        },
+        {
+          "headline": "Oito mortos em acidente de helicóptero na Indonésia",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
