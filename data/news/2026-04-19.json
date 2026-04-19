@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & BOMBEIROS",
+      "stories": [
+        {
+          "headline": "Calote de 20 milhões: Governo promete solução para dívidas do INEM aos bombeiros",
+          "text": "A Liga dos Bombeiros decidiu rescindir o acordo com o INEM por dívidas de cerca de 20 milhões de euros. O ministro Luís Neves garantiu que o Governo vai encontrar uma solução \"nos próximos dias\" e que nenhum português ficará sem socorro."
+        },
+        {
+          "headline": "Liga dos Bombeiros vai rescindir acordo com o INEM",
+          "text": "O Conselho Nacional da LBP aprovou por unanimidade a rescisão do acordo de cooperação para assistência pré-hospitalar. A carta de rescisão segue na segunda-feira, mas a LBP diz estar disponível para negociar um novo acordo."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRÂNSITO & SEGURANÇA RODoviÁRIA",
+      "stories": [
+        {
+          "headline": "Governo quer reduzir limite de velocidade para 30 km/h dentro das localidades",
+          "text": "O Governo avalia reduzir o limite de velocidade para 30 km/h nas localidades, após 448 mortes nas estradas em 2025. Os primeiros meses de 2026 mostram agravamento, com 20 vítimas mortais entre janeiro e março."
+        },
+        {
+          "headline": "Adormece ao volante e mata 2 no IC17",
+          "text": "Um condutor adormeceu ao volante e atropelou dois trabalhadores na via, matando duas pessoas e ferindo outras três, duas com gravidade. O acidente ocorreu em Odivelas e não houve marcas de travagem."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "POLÍTICA & MUNDO",
+      "stories": [
+        {
+          "headline": "Novo Presidente da República em Espanha para consolidar relações",
+          "text": "António José Seguro chega hoje a Madrid na sua primeira visita oficial ao estrangeiro. Encontra-se com o Rei Felipe VI e com Pedro Sánchez, assinalando os laços de amizade entre Portugal e Espanha."
+        },
+        {
+          "headline": "Vítimas de abusos na Igreja Católica vão receber indemnizações sem impostos",
+          "text": "O Governo vai apresentar uma proposta de lei para isentar de IRS as compensações às vítimas de abusos sexuais na Igreja. As 57 vítimas vão receber entre 9 e 45 mil euros cada."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra alarga passe intermodal com tarifa reduzida",
+          "text": "A Câmara de Coimbra propõe alargar o passe intermodal com tarifa reduzida a bombeiros voluntários e trabalhadores municipais que residem fora do concelho. Passe intermunicipal passa a 20€ e regional a 25€ para estes grupos."
+        },
+        {
+          "headline": "Região Metropolitana promove consulta pública \"Cidades Sensíveis à Água\"",
+          "text": "A RMC coordena a parceria europeia Water Sensitive City e lançou uma consulta pública sobre o Plano de Ação para gestão da água em contexto urbano e adaptação às alterações climáticas."
+        },
+        {
+          "headline": "Porsche Coimbra: diretor diz que a cidade precisava do centro da marca",
+          "text": "O Centro de Serviço Porsche Coimbra recebeu um evento com dezenas de mulheres empreendedoras. O diretor Miguel Carvalho destacou que muitos clientes já não precisam de se deslocar fora da cidade para assistência."
+        },
+        {
+          "headline": "Incêndio destrói barracão na Lamarosa",
+          "text": "Um barracão foi consumido por incêndio ao final da tarde de sábado, na Lamarosa, em Coimbra. Não houve feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🥾",
+      "category": "NATUREZA & LAZER",
+      "stories": [
+        {
+          "headline": "Passadiço desafiante na Serra da Lousã conquista visitantes",
+          "text": "Os Passadiços da Ribeira das Quelhas, em Castanheira de Pera, continuam a atrair visitantes na primavera. O percurso de ~1 km com subida contínua demora cerca de 35 minutos e oferece vistas amplas sobre o vale."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo reduz em 1,5 cêntimos desconto no ISP do gasóleo",
+          "text": "O Governo vai reduzir o desconto extraordinário no ISP do gasóleo em 1,5 cêntimos por litro, atenuando a descida prevista de 11 cêntimos. O desconto na gasolina mantém-se em 4,6 cêntimos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏅",
+      "category": "DESPORTO & CULTURA",
+      "stories": [
+        {
+          "headline": "Morreu o mais antigo atleta olímpico português",
+          "text": "Joaquim Granger, pioneiro da ginástica artística nacional que representou Portugal nos Jogos de Helsínquia 1952, morreu aos 97 anos. Deixa um legado de dedicação ao desporto e à formação."
+        }
+      ]
+    },
+    {
+      "emoji": "⚠️",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "Eucalipto cai e mata idoso de 84 anos",
+          "text": "Um homem de 84 anos morreu após ser atingido por um eucalipto enquanto cortava árvores em Oliveira de Frades. A vítima ficou em paragem cardiorrespiratória e o óbito foi declarado no local."
+        }
+      ]
+    }
+  ]
+}
