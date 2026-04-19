@@ -10221,5 +10221,132 @@
       "de": "die Immobilie",
       "en": "property/real estate"
     }
+  ],
+  "2026-04-19": [
+    {
+      "pt": "adormecer",
+      "de": "einschlafen",
+      "en": "to fall asleep",
+      "example": "Condutor adormece ao volante",
+      "example_de": "Fahrer schläft am Steuer ein",
+      "example_en": "Driver falls asleep at the wheel"
+    },
+    {
+      "pt": "o eucalipto",
+      "de": "der Eukalyptusbaum",
+      "en": "eucalyptus tree",
+      "example": "Eucalipto cai e mata idoso",
+      "example_de": "Eukalyptusbaum stürzt und tötet alten Mann",
+      "example_en": "Eucalyptus tree falls and kills elderly man"
+    },
+    {
+      "pt": "rescindir",
+      "de": "kündigen, aufheben",
+      "en": "to rescind, to cancel",
+      "example": "Liga vai rescindir acordo com o INEM",
+      "example_de": "Liga wird Vertrag mit INEM kündigen",
+      "example_en": "League will rescind agreement with INEM"
+    },
+    {
+      "pt": "a velocidade",
+      "de": "die Geschwindigkeit",
+      "en": "speed",
+      "example": "Reduzir limite de velocidade para 30 km/h",
+      "example_de": "Geschwindigkeitslimit auf 30 km/h senken",
+      "example_en": "Reduce speed limit to 30 km/h"
+    },
+    {
+      "pt": "a localidade",
+      "de": "der Ort, die Ortschaft",
+      "en": "locality, populated place",
+      "example": "Dentro das localidades",
+      "example_de": "Innerhalb der Ortschaften",
+      "example_en": "Inside populated areas"
+    },
+    {
+      "pt": "isento",
+      "de": "steuerbefreit",
+      "en": "exempt, tax-free",
+      "example": "Indemnizações isentas de tributação",
+      "example_de": "Entschädigungen steuerbefreit",
+      "example_en": "Compensation exempt from taxation"
+    },
+    {
+      "pt": "o passadiço",
+      "de": "der Steg, der Holzweg",
+      "en": "boardwalk, wooden walkway",
+      "example": "Passadiço desafiante na Serra da Lousã",
+      "example_de": "Herausfordernder Steg in der Serra da Lousã",
+      "example_en": "Challenging boardwalk in Serra da Lousã"
+    },
+    {
+      "pt": "desafiante",
+      "de": "herausfordernd",
+      "en": "challenging",
+      "example": "Percurso desafiante mas recompensador",
+      "example_de": "Herausfordernde aber lohnende Strecke",
+      "example_en": "Challenging but rewarding route"
+    },
+    {
+      "pt": "o desconto",
+      "de": "der Rabatt, der Nachlass",
+      "en": "discount",
+      "example": "Saiba se tem direito a desconto",
+      "example_de": "Wissen Sie, ob Sie Anspruch auf Rabatt haben",
+      "example_en": "Find out if you qualify for a discount"
+    },
+    {
+      "pt": "consolidar",
+      "de": "konsolidieren, stärken",
+      "en": "to consolidate, strengthen",
+      "example": "Consolidar e reforçar relações",
+      "example_de": "Beziehungen konsolidieren und stärken",
+      "example_en": "Consolidate and strengthen relations"
+    },
+    {
+      "pt": "o volante",
+      "de": "das Lenkrad",
+      "en": "steering wheel",
+      "example": "Adormece ao volante e mata 2",
+      "example_de": "Schläft am Lenkrad ein und tötet 2",
+      "example_en": "Falls asleep at the wheel and kills 2"
+    },
+    {
+      "pt": "dispendioso",
+      "de": "kostspielig, teuer",
+      "en": "expensive, costly",
+      "example": "A manutenção não é tão dispendiosa",
+      "example_de": "Die Wartung ist nicht so kostspielig",
+      "example_en": "Maintenance is not as expensive"
+    },
+    {
+      "pt": "o idoso",
+      "de": "der Senior, der ältere Mensch",
+      "en": "elderly person",
+      "example": "Eucalipto cai e mata idoso de 84 anos",
+      "example_de": "Eukalyptus fällt und tötet 84-Jährigen",
+      "example_en": "Eucalyptus falls and kills 84-year-old"
+    },
+    {
+      "pt": "emprestar",
+      "de": "verleihen, leihen",
+      "en": "to lend"
+    },
+    {
+      "pt": "o embaixador",
+      "de": "der Botschafter",
+      "en": "ambassador",
+      "example": "Na residência do embaixador de Portugal",
+      "example_de": "In der Residenz des portugiesischen Botschafters",
+      "example_en": "At the residence of the Portuguese ambassador"
+    },
+    {
+      "pt": "a fraternidade",
+      "de": "die Brüderlichkeit",
+      "en": "brotherhood, fraternity",
+      "example": "Reafirmar a fraternidade entre os dois países",
+      "example_de": "Die Brüderlichkeit zwischen den beiden Ländern bekräftigen",
+      "example_en": "Reaffirm the brotherhood between the two countries"
+    }
   ]
 }
