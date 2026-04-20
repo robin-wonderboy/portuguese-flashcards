@@ -10348,5 +10348,151 @@
       "example_de": "Die Brüderlichkeit zwischen den beiden Ländern bekräftigen",
       "example_en": "Reaffirm the brotherhood between the two countries"
     }
+  ],
+  "2026-04-20": [
+    {
+      "pt": "o calote",
+      "de": "der Zahlungsausfall",
+      "en": "unpaid debt, rip-off",
+      "example": "Calote de 20 milhões às bombeiros",
+      "example_de": "Zahlungsausfall von 20 Millionen bei den Feuerwehrleuten",
+      "example_en": "20 million unpaid debt to firefighters"
+    },
+    {
+      "pt": "o ferrão",
+      "de": "der Stachel",
+      "en": "stinger (bee)",
+      "example": "Remover o ferrão o mais rapidamente possível",
+      "example_de": "Den Stachel so schnell wie möglich entfernen",
+      "example_en": "Remove the stinger as quickly as possible"
+    },
+    {
+      "pt": "a lampreia",
+      "de": "das Neunauge",
+      "en": "lamprey (fish)",
+      "example": "30 lampreias-marinhas libertadas no Mondego",
+      "example_de": "30 Meerneunaugen im Mondego freigelassen",
+      "example_en": "30 sea lampreys released in the Mondego"
+    },
+    {
+      "pt": "a ocorrência",
+      "de": "der Vorfall",
+      "en": "incident, occurrence",
+      "example": "A ocorrência na Estrada Regional 206",
+      "example_de": "Der Vorfall auf der Regionalstraße 206",
+      "example_en": "The incident on Regional Road 206"
+    },
+    {
+      "pt": "degolar",
+      "de": "die Kehle durchschneiden",
+      "en": "to slit throat",
+      "example": "Idoso tenta degolar esposa",
+      "example_de": "Senior versucht, seiner Frau die Kehle durchzuschneiden",
+      "example_en": "Elderly man tries to slit wife's throat"
+    },
+    {
+      "pt": "translocar",
+      "de": "umquartieren",
+      "en": "to relocate, translocate",
+      "example": "Terceira ação de translocação de lampreia-marinha",
+      "example_de": "Dritte Umquartierung von Meerneunaugen",
+      "example_en": "Third translocation action of sea lamprey"
+    },
+    {
+      "pt": "render-se",
+      "de": "sich ergeben",
+      "en": "to surrender, yield to",
+      "example": "Coimbra rendida às altas temperaturas",
+      "example_de": "Coimbra ergibt sich den hohen Temperaturen",
+      "example_en": "Coimbra yields to high temperatures"
+    },
+    {
+      "pt": "imprevisível",
+      "de": "unberechenbar",
+      "en": "unpredictable",
+      "example": "Uma semana de tempo imprevisível",
+      "example_de": "Eine Woche unberechenbares Wetter",
+      "example_en": "A week of unpredictable weather"
+    },
+    {
+      "pt": "brutalmente",
+      "de": "brutal",
+      "en": "brutally",
+      "example": "Filho de militar brutalmente espancado",
+      "example_de": "Sohn eines Soldaten brutal verprügelt",
+      "example_en": "Soldier's son brutally beaten up"
+    },
+    {
+      "pt": "diabolizado",
+      "de": "verteufelt",
+      "en": "demonized",
+      "example": "O SIRESP é uma marca que está diabolizada",
+      "example_de": "SIRESP ist eine Marke, die verteufelt ist",
+      "example_en": "SIRESP is a demonized brand"
+    },
+    {
+      "pt": "a título gracioso",
+      "de": "kostenlos",
+      "en": "free of charge",
+      "example": "Alienação do ITAP a título gracioso",
+      "example_de": "Übertragung des ITAP kostenlos",
+      "example_en": "Transfer of ITAP free of charge"
+    },
+    {
+      "pt": "em parte",
+      "de": "teils",
+      "en": "partly, in part",
+      "example": "Mudanças no SIRESP em parte visíveis no verão",
+      "example_de": "SIRESP-Änderungen teils im Sommer sichtbar",
+      "example_en": "SIRESP changes partly visible in summer"
+    },
+    {
+      "pt": "a despromoção",
+      "de": "der Abstieg",
+      "en": "relegation (sports)",
+      "example": "Zona de despromoção direta",
+      "example_de": "Zone des direkten Abstiegs",
+      "example_en": "Direct relegation zone"
+    },
+    {
+      "pt": "a portaria",
+      "de": "die Portiersloge",
+      "en": "the porter's lodge",
+      "example": "Presa há três dias na varanda da portaria",
+      "example_de": "Seit drei Tagen auf der Veranda der Portiersloge gefangen",
+      "example_en": "Trapped for three days on the balcony of the porter's lodge"
+    },
+    {
+      "pt": "a calma",
+      "de": "die Beruhigung",
+      "en": "calming, relief",
+      "example": "Cremes calmantes para aliviar o desconforto",
+      "example_de": "Beruhigende Cremes zur Linderung",
+      "example_en": "Calming creams to relieve discomfort"
+    },
+    {
+      "pt": "a alienação",
+      "de": "die Veräußerung",
+      "en": "alienation, transfer (property)",
+      "example": "Alienação do ITAP a título gracioso",
+      "example_de": "Veräußerung des ITAP kostenlos",
+      "example_en": "Transfer of ITAP free of charge"
+    },
+    {
+      "pt": "o aceiro",
+      "de": "der Schneise",
+      "en": "firebreak (forest)",
+      "example": "Limpar mais de três mil quilómetros de estradas e aceiros",
+      "example_de": "Mehr als 3000 Kilometer Straßen und Schneisen räumen",
+      "example_en": "Clear over 3000 km of roads and firebreaks"
+    },
+    {
+      "pt": "o penálti",
+      "de": "der Elfmeter",
+      "en": "penalty (football)",
+      "example": "Alan Varela falhou um penálti aos 39 minutos",
+      "example_de": "Alan Varela verschoss einen Elfmeter in der 39. Minute",
+      "example_en": "Alan Varela missed a penalty at 39 minutes"
+    }
   ]
 }
