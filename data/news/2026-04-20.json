@@ -1,0 +1,170 @@
+{
+  "date": "2026-04-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente Seguro em Madrid para primeira visita oficial ao estrangeiro",
+          "text": "António José Seguro é recebido hoje pelo Rei Felipe VI e por Pedro Sánchez no Palácio Real e na Moncloa. A escolha de Espanha assinala os laços de amizade e cooperação entre os dois países."
+        },
+        {
+          "headline": "Mudanças no SIRESP «em parte» visíveis no verão",
+          "text": "O ministro Luís Neves anunciou que no verão serão visíveis alterações na rede SIRESP, com mais equipamentos e transmissores. O Governo criou o CIPO para limpeza de 22 concelhos afetados pelas tempestades, com 1.500 operacionais no terreno."
+        },
+        {
+          "headline": "José Luís Carneiro avisa: Governo não conta com o PS para ofensa à dignidade dos trabalhadores",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Idoso de 88 anos tenta degolar esposa em Lisboa",
+          "text": "Um homem de 88 anos tentou degolar a esposa, da mesma idade, na zona de Benfica. A vítima sobreviveu e está internada. O agressor foi encaminhado ao hospital ao abrigo da Lei da Saúde Mental."
+        },
+        {
+          "headline": "Filho de militar da GNR brutalmente espancado em Évora",
+          "text": "Um jovem de 20 anos foi agredido por um grupo na Praça do Giraldo na madrugada de domingo. A vítima chegou a perder os sentidos com pontapés na cabeça. A PSP identificou vários suspeitos de nacionalidade portuguesa."
+        },
+        {
+          "headline": "Operação Marquês: tribunal administrativo vai julgar ação de Sócrates contra o Estado",
+          "text": "Nove anos depois, o Tribunal Administrativo de Lisboa marca julgamento para 14 e 15 de maio. Sócrates mantém queixa no Tribunal Europeu dos Direitos Humanos por violação do direito a julgamento equitativo."
+        },
+        {
+          "headline": "PSP detém homem suspeito de esquema de burlas no arrendamento de imóveis",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "30 lampreias-marinhas libertadas no rio Mondego",
+          "text": "A terceira ação de translocação de lampreia-marinha em 2026 libertou 30 exemplares na Praia Fluvial de Palheiros e Zorro. O projeto Life4Lamprey já capturou mais de 70 lampreias este ano, apesar das dificuldades causadas pelas cheias."
+        },
+        {
+          "headline": "Coimbra rendida às altas temperaturas",
+          "text": "O fim de semana quente encheu a Praia Fluvial de Palheiros e Zorro e animou a cidade. O bar local esteve cheio com música brasileira e atmosfera de descontração."
+        },
+        {
+          "headline": "Gata presa há três dias em varanda salva pelos bombeiros",
+          "text": ""
+        },
+        {
+          "headline": "Marcha para assinalar o Dia Mundial do Livro",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Coimbra BD regressa 24-26 de abril com cosplay internacional",
+          "text": "O festival de banda desenhada no Convento São Francisco traz 60 convidados e estreia concurso de cosplay qualificatório para o MCM London. A câmara investe 54 mil euros, 14 mil a mais que em 2025."
+        },
+        {
+          "headline": "Orochi promete noite sem pausas na Queima das Fitas",
+          "text": ""
+        },
+        {
+          "headline": "Marcelo arranca ciclo de conversas em bibliotecas escolares",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & TRÁFEGO",
+      "stories": [
+        {
+          "headline": "Tráfego dispara 57% na A13 após fim das portagens",
+          "text": "O fim das portagens nas antigas SCUT provocou aumento generalizado. A A13 lidera com +57%, seguida da A13-1 com +45%. O tráfego médio diário nas autoestradas cresceu quase 7% entre 2024 e 2025."
+        },
+        {
+          "headline": "Motociclista morre após violenta colisão em Valpaços",
+          "text": "Um motociclista morreu na sequência de colisão com automóvel na ER206. A ocorrência manteve-se aberta com 11 operacionais e seis meios no local."
+        },
+        {
+          "headline": "Colisão com 4 carros faz 11 feridos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Sindicatos e Governo voltam a negociar futuro de professores",
+          "text": "O Ministério da Educação propõe concurso externo contínuo para acabar com mecanismos atuais de contratação. O Stop foi impedido de participar nas negociações enquanto mantivesse protesto à porta do ministério."
+        },
+        {
+          "headline": "Escola do Interior «salva» ITAP de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Empresários manifestam repúdio pela alienação do ITAP a título gracioso",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "FC Porto vence Tondela e encaminha título",
+          "text": "O Porto venceu 2-0 com golos de Gabri Veiga e Froholdt. Benfica ganhou o dérbi ao Sporting (2-1), deixando o Porto com 79 pontos, sete acima dos encarnados. O Tondela segue na zona de despromoção direta."
+        },
+        {
+          "headline": "Bayern Munique sagrou-se campeão alemão pela 35.ª vez",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Coreia do Norte lançou vários mísseis balísticos",
+          "text": "Seis testes de mísseis já este ano. Os lançamentos ocorrem enquanto Pyongyang ignora gestos de Seul para melhorar relações. A AIEA refere aumento preocupante das capacidades nucleares, estimadas em algumas dezenas de ogivas."
+        }
+      ]
+    },
+    {
+      "emoji": "🐝",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "O que fazer se for picado por uma abelha",
+          "text": "Remover o ferrão rapidamente sem pressionar, lavar o local, aplicar frio. Em caso de reação alérgica (dificuldade respirar, inchaço na face), procurar assistência médica de imediato."
+        },
+        {
+          "headline": "Cientistas descobrem possível nova causa da hipertensão",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEO",
+      "stories": [
+        {
+          "headline": "Semana de tempo imprevisível — primavera no seu melhor (ou pior)",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
