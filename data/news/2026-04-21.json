@@ -1,0 +1,138 @@
+{
+  "date": "2026-04-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Chuva de lama e trovoadas atingem Portugal",
+          "text": "Portugal é atingido por chuva de lama e trovoadas. As autoridades alertam para as horas de maior risco e pedem precaução na estrada."
+        },
+        {
+          "headline": "Chamas deflagram em Tondela",
+          "text": "Um incêndio deflagrou em Tondela. As equipas de bombeiros estão no local a combater as chamas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "“Droga desgraçou a minha vida”: Rega rival com álcool e incendeia-a",
+          "text": "Uma mulher foi atacada com álcool e incendiada por uma rival. A vítima relatou o drama nos tribunais."
+        },
+        {
+          "headline": "Homem que ameaçou matar a mulher entrega-se à GNR",
+          "text": "O suspeito que atingiu a companheira à traição apresentou-se às autoridades após as ameaças de morte."
+        },
+        {
+          "headline": "Prisões sob fogo: relatório denuncia maus-tratos em Portugal",
+          "text": "Um novo relatório denuncia condições de maus-tratos nas prisões portuguesas, gerando debate sobre o sistema penitenciário."
+        },
+        {
+          "headline": "ASAE aperta o cerco à beleza ilegal",
+          "text": "A ASAE intensificou operações contra produtos de beleza ilegais, apreendendo materiais não certificados em vários estabelecimentos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Botox ilegal travado pela ASAE",
+          "text": "A ASAE bloqueou a distribuição de botox ilegal em Portugal, reforçando a fiscalização de produtos estéticos não autorizados."
+        },
+        {
+          "headline": "7 em cada 10 portugueses preocupados com o SNS",
+          "text": "Um estudo revela que 70% dos portugueses estão preocupados com o estado do Serviço Nacional de Saúde."
+        },
+        {
+          "headline": "Pedras nos rins: problema que pode começar sem sintomas",
+          "text": "Especialistas alertam que as pedras nos rins podem surgir sem sintomas visíveis e recomendam check-ups regulares."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente do Brasil em Portugal para encontro com líderes",
+          "text": "O presidente brasileiro reuniu-se com António José Seguro e Luís Montenegro durante visita oficial a Portugal."
+        },
+        {
+          "headline": "Pedro Nuno Santos retoma mandato de deputado do PS",
+          "text": "O ex-líder do PS regressa ao parlamento na quarta-feira, reassumindo o mandato de deputado."
+        },
+        {
+          "headline": "Chega vota contra pacote de reforma do Estado",
+          "text": "O partido Chega votou contra o pacote de medidas proposto para a reforma da administração pública."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "ECONOMIA & TECH",
+      "stories": [
+        {
+          "headline": "Tim Cook deixa cargo de CEO da Apple em setembro",
+          "text": "Após 15 anos de liderança, Tim Cook vai deixar o cargo de CEO da Apple em setembro, marcando o fim de uma era na empresa."
+        },
+        {
+          "headline": "Câmara de Coimbra com resultado positivo de 11,7 milhões",
+          "text": "O município de Coimbra apresentou um resultado financeiro positivo de 11,7 milhões de euros em 2025."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica faz a festa com recorde de 14.213 adeptos",
+          "text": "A Académica de Coimbra celebrou com um novo recorde de público, levando 14.213 torcedores ao estádio."
+        },
+        {
+          "headline": "FC Porto e Benfica abrem quartos da Liga dos Campeões de hóquei em patins em Coimbra",
+          "text": "Os quartos de final da competição europeia de hóquei em patins começam em Coimbra com o clássico FC Porto–Benfica."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo de 7,7 no Japão causa 6 feridos",
+          "text": "Um sismo de magnitude 7,7 atingiu o Japão, deixando seis feridos e gerando alertas de tsunami que foram posteriormente levantados."
+        },
+        {
+          "headline": "Cientista português morto a tiro nos EUA investigava energia do futuro",
+          "text": "O investigador português morto nos Estados Unidos trabalhava em projetos de energia que poderiam transformar o futuro da tecnologia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Pampilhosa Night Run voltou a surpreender",
+          "text": "A corrida noturna de Pampilhosa regressou com pistas, cultura e desafios, consolidando-se como evento de referência na região."
+        },
+        {
+          "headline": "Semana da Chanfana em Miranda do Corvo",
+          "text": "Miranda do Corvo promove a Semana da Chanfana em 15 restaurantes do concelho, celebrando a gastronomia tradicional da região."
+        },
+        {
+          "headline": "Rally de Portugal regressa à Lousã",
+          "text": "A Lousã prepara-se para receber mais uma edição do Rally de Portugal, com adrenalina e espectáculo garantidos."
+        }
+      ]
+    }
+  ]
+}
