@@ -10494,5 +10494,87 @@
       "example_de": "Alan Varela verschoss einen Elfmeter in der 39. Minute",
       "example_en": "Alan Varela missed a penalty at 39 minutes"
     }
+  ],
+  "2026-04-21": [
+    {
+      "pt": "desgraçar",
+      "de": "ins Unglück stürzen",
+      "en": "to ruin/disgrace",
+      "example": "Droga desgraçou a minha vida",
+      "example_de": "Drogen haben mein Leben ruiniert",
+      "example_en": "Drugs ruined my life"
+    },
+    {
+      "pt": "deflamar",
+      "de": "aufflammen",
+      "en": "to flare up/ignite",
+      "example": "Chamas deflagram em Tondela",
+      "example_de": "Flammen flammen in Tondela auf",
+      "example_en": "Flames flare up in Tondela"
+    },
+    {
+      "pt": "a liderança",
+      "de": "die Führung",
+      "en": "leadership",
+      "example": "Investigador assume liderança na rede europeia",
+      "example_de": "Forscher übernimmt die Führung im europäischen Netz",
+      "example_en": "Researcher takes leadership in the European network"
+    },
+    {
+      "pt": "a operacionalização",
+      "de": "die Umsetzung",
+      "en": "implementation/operationalization",
+      "example": "Fenprof questiona operacionalização dos concursos",
+      "example_de": "Fenprof hinterfragt die Umsetzung der Ausschreibungen",
+      "example_en": "Fenprof questions the implementation of competitions"
+    },
+    {
+      "pt": "o repúdio",
+      "de": "die Verachtung",
+      "en": "repudiation/rejection",
+      "example": "Empresários manifestam repúdio e indignação",
+      "example_de": "Unternehmer zeigen Verachtung und Empörung",
+      "example_en": "Business owners express repudiation and indignation"
+    },
+    {
+      "pt": "o sismo",
+      "de": "das Erdbeben",
+      "en": "earthquake",
+      "example": "Sismo de 7,7 no Japão causa 6 feridos",
+      "example_de": "Erdbeben der Stärke 7,7 in Japan verletzt 6",
+      "example_en": "7.7 earthquake in Japan injures 6"
+    },
+    {
+      "pt": "recheadinho",
+      "de": "prall gefüllt",
+      "en": "packed/full of content",
+      "example": "Programa recheadinho na Feira do Livro",
+      "example_de": "Prall gefülltes Programm auf der Buchmesse",
+      "example_en": "Packed program at the Book Fair"
+    },
+    {
+      "pt": "o sexagenário",
+      "de": "der Sechzigjährige",
+      "en": "sixty-something person",
+      "example": "Sexagenário em estado grave",
+      "example_de": "Sechzigjähriger in kritischem Zustand",
+      "example_en": "Pensioner in critical condition"
+    },
+    {
+      "pt": "a indignação",
+      "de": "die Empörung",
+      "en": "indignation/outrage",
+      "example": "Manifestam repúdio e indignação",
+      "example_de": "Zeigen Verachtung und Empörung",
+      "example_en": "Express repudiation and indignation"
+    },
+    {
+      "pt": "o cerco",
+      "de": "der Belagerungsring",
+      "en": "siege/noose",
+      "example": "ASAE aperta o cerco",
+      "example_de": "ASAE zieht den Ring enger",
+      "example_en": "ASAE tightens the noose"
+    }
   ]
 }
