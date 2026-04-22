@@ -1,0 +1,124 @@
+{
+  "date": "2026-04-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Tempo muda várias vezes até sexta: desde calor à \"chuva de lama\"",
+          "text": "Poeiras do Saara continuam em Portugal, podendo originar episódios de \"chuva de lama\". Temperaturas chegaram aos 30°C no início da semana. Quinta-feira traz aguaceiros e trovoadas, e nova massa de poeira saariana. Sexta-feira marca a transição para ar mais fresco, com dispersão gradual das partículas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Eventos climáticos extremos são ameaça crescente para a democracia",
+          "text": "Relatório do IDEA documenta 94 eleições interrompidas em 52 países por catástrofes naturais em duas décadas. Só em 2024, clima extremo interrompeu 23 eleições em 18 países. Instituições democráticas devem ser tratadas como infraestrutura crítica."
+        },
+        {
+          "headline": "Médica e influencer de Coimbra no México após tiroteio",
+          "text": "Uma turista canadiana morreu e 13 ficaram feridos num tiroteio nas pirâmides de Teotihuacán. Débora Monteiro, médica e influencer de Coimbra que se encontrava no México, tranquilizou seguidores: \"está tudo bem connosco\"."
+        },
+        {
+          "headline": "Morreu o autor de \"O Macaco Nu\"",
+          "text": "Yuval Noah Harari não — trata-se do autor do livro homónimo. Faleceu o historiador e autor britânico."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "2026 começa bem: mais vidas a nascer em Portugal",
+          "text": "Primeiro trimestre de 2026 regista o valor mais elevado de recém-nascidos rastreados da última década: 21.813 bebés pelo \"teste do pezinho\". Mais 1.031 que no mesmo período de 2025."
+        },
+        {
+          "headline": "ACP quer \"mão pesada\" para infratores: novo Código da Estrada",
+          "text": "O Automóvel Club propõe tolerância zero de álcool para condutores profissionais, coimas até 3.000€ por excesso de álcool, uso obrigatório de capacete para bicicletas e trotinetes, e velocidade máxima de 30 km/h junto a escolas e hospitais."
+        },
+        {
+          "headline": "IC8 reabre ao trânsito após colisão mortal",
+          "text": "O IC8 junto a Pombal reabriu quase 9 horas depois de uma colisão entre dois veículos que matou um homem de 45 anos e feriu gravemente outro de 30."
+        },
+        {
+          "headline": "Homem baleado dentro de carro em Portalegre",
+          "text": "Um homem de 46 anos ficou em estado grave após ser baleado nas costas dentro de um automóvel no Bairro dos Assentos. Os atiradores fugiram antes da chegada da PSP."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "3 militares da Marinha julgados por violação de segredo de Estado",
+          "text": "Três dos 13 militares que recusaram embarcar no NRP Mondego em 2023 começam a ser julgados em Lisboa. São acusados de divulgar publicamente informações reservadas sobre o estado do navio, incluindo fissuras e motor inoperacional."
+        },
+        {
+          "headline": "Secretária de Estado nomeia filho de presidente de hospital para gabinete",
+          "text": "Ana Povo, secretária de Estado da Saúde, integrou no seu gabinete o filho do presidente da ULSSA, onde ela própria exercia funções médicas. O técnico aufere 4.152€/mês. A governante defende que a escolha obedeceu a critérios de competência."
+        },
+        {
+          "headline": "Ventura revoltado com visita de Lula: \"corruptos não devem ser recebidos\"",
+          "text": "O Chega protestou contra a visita oficial do Presidente brasileiro Lula da Silva a Portugal, associando-o a José Sócrates com a frase \"lugar de ladrão é na prisão\"."
+        },
+        {
+          "headline": "Ministra admite falhas na gestão das greves e falta de serviços mínimos no INEM",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Portugal continua \"a falhar com quem perde a voz\"",
+          "text": "A afasia continua subvalorizada em Portugal, com falhas na reabilitação e apoio psicológico. Estimam-se 40 mil pessoas com afasia no país. O IPAFASIA assinala 10 anos alertando para a necessidade de mudança nas políticas públicas."
+        },
+        {
+          "headline": "IPO Coimbra aposta em biópsias de fusão para cancro da próstata",
+          "text": "O Serviço de Urologia do IPO Coimbra iniciou o programa de biópsias prostáticas de fusão, integrando imagens de ressonância magnética com ecografia em tempo real para maior precisão na deteção de tumores."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Guerra no Irão já chega aos preservativos: vão ficar mais caros",
+          "text": "A Karex, maior fabricante mundial de preservativos (5 mil milhões/ano), prevê aumentos de 20-30% devido à instabilidade no Médio Oriente. A empresa fornece Durex, Trojan e programas da ONU."
+        },
+        {
+          "headline": "Infraestruturas de Portugal espera 3 candidatos para alta velocidade Oiã–Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Tocha em vigilância após relatos de burlonas a entrar em casas",
+          "text": "A Freguesia da Tocha alerta para alegadas burlonas que entram em contacto direto com residentes e em habitações. O grupo terá passado pelas Berlengas e Escoural antes. A GNR já foi informada."
+        },
+        {
+          "headline": "Cantanhede avança com obras na Zona Industrial",
+          "text": "Câmara assinou auto de consignação para requalificação da Rua da Zona Industrial em Fornos, Cadima. Obra de 168.852€ prevista para maio, com prazo de 180 dias."
+        },
+        {
+          "headline": "Rally de Portugal: Arganil em preparação",
+          "text": "O troço de Arganil é mais extenso este ano (19 km), com nova configuração em sentido inverso. A classificativa corre a 8 de maio em dupla passagem (8:55 e 12:25)."
+        }
+      ]
+    }
+  ]
+}
