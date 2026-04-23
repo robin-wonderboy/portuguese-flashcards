@@ -10658,5 +10658,151 @@
       "pt": "redobrar",
       "de": "verdoppeln, verstärken"
     }
+  ],
+  "2026-04-23": [
+    {
+      "pt": "ciumento",
+      "de": "eifersüchtig",
+      "en": "jealous",
+      "example": "O ataque ciumento chocou a comunidade.",
+      "example_de": "Der eifersüchtige Angriff schockierte die Gemeinde.",
+      "example_en": "The jealous attack shocked the community."
+    },
+    {
+      "pt": "sinalizar",
+      "de": "kennzeichnen",
+      "en": "to flag, to mark, to signal",
+      "example": "A GNR sinalizou 454 terrenos por limpar em Coimbra.",
+      "example_de": "Die GNR kennzeichnete 454 zu reinigende Grundstücke in Coimbra.",
+      "example_en": "The GNR flagged 454 plots for cleaning in Coimbra."
+    },
+    {
+      "pt": "a alta clínica",
+      "de": "die klinische Entlassung",
+      "en": "clinical discharge from hospital",
+      "example": "Pacientes ficam internados mesmo após alta clínica.",
+      "example_de": "Patienten bleiben auch nach klinischer Entlassung im Krankenhaus.",
+      "example_en": "Patients stay hospitalized even after clinical discharge."
+    },
+    {
+      "pt": "o donativo",
+      "de": "die Spende",
+      "en": "donation (money)",
+      "example": "O PS quer divulgar a origem dos donativos partidários.",
+      "example_de": "Die PS möchte die Herkunft von Parteispenden veröffentlichen.",
+      "example_en": "PS wants to disclose the origin of party donations."
+    },
+    {
+      "pt": "carimbar",
+      "de": "stempeln",
+      "en": "to stamp (a ticket/document)",
+      "example": "O Sporting carimbou o bilhete para a final.",
+      "example_de": "Sporting stempelte das Ticket für das Finale.",
+      "example_en": "Sporting stamped their ticket to the final."
+    },
+    {
+      "pt": "o reduto",
+      "de": "die Bastion, das Heimrevier",
+      "en": "stronghold, bastion (also home ground in sports)",
+      "example": "O Sporting empatou no reduto do FC Porto.",
+      "example_de": "Sporting spielte im Heimrevier des FC Porto unentschieden.",
+      "example_en": "Sporting drew at FC Porto's stronghold."
+    },
+    {
+      "pt": "o glaciar",
+      "de": "der Gletscher",
+      "en": "glacier",
+      "example": "Os glaciares moldaram a paisagem da Serra da Estrela.",
+      "example_de": "Die Gletscher formten die Landschaft der Serra da Estrela.",
+      "example_en": "Glaciers shaped the landscape of Serra da Estrela."
+    },
+    {
+      "pt": "laboral",
+      "de": "arbeitsrechtlich",
+      "en": "relating to work/employment",
+      "example": "A UGT vota as alterações à lei laboral.",
+      "example_de": "Die UGT stimmt über die Änderungen des Arbeitsrechts ab.",
+      "example_en": "UGT votes on changes to labor law."
+    },
+    {
+      "pt": "o avô babado",
+      "de": "der stolze Opa",
+      "en": "proud grandpa (lit: drooling grandpa)",
+      "example": "O avô babado partilhou a primeira foto com a neta.",
+      "example_de": "Der stolze Opa teilte das erste Foto mit seiner Enkelin.",
+      "example_en": "The proud grandpa shared the first photo with his granddaughter."
+    },
+    {
+      "pt": "colidir",
+      "de": "kollidieren",
+      "en": "to collide",
+      "example": "Dois comboios colidiram na Dinamarca esta manhã.",
+      "example_de": "Zwei Züge kollidierten heute Morgen in Dänemark.",
+      "example_en": "Two trains collided in Denmark this morning."
+    },
+    {
+      "pt": "a deglaciação",
+      "de": "die Entgletscherung",
+      "en": "deglaciation, ice melting",
+      "example": "Com a deglaciação, as bacias foram ocupadas por água.",
+      "example_de": "Mit der Entgletscherung wurden die Becken von Wasser gefüllt.",
+      "example_en": "With deglaciation, the basins were filled with water."
+    },
+    {
+      "pt": "a colisão",
+      "de": "der Zusammenstoß",
+      "en": "collision",
+      "example": "A colisão frontal entre os comboios feriu dezenas de pessoas.",
+      "example_de": "Der frontale Zusammenstoß der Züge verletzte Dutzende.",
+      "example_en": "The frontal collision between the trains injured dozens."
+    },
+    {
+      "pt": "o sobrante",
+      "de": "der Rest, der Überschuss",
+      "en": "leftovers, waste residue",
+      "example": "Nunca abandone uma queima de sobrantes sem garantir que está extinta.",
+      "example_de": "Verlassen Sie niemals ein Reste-Feuer, ohne sicherzustellen, dass es gelöscht ist.",
+      "example_en": "Never leave a waste burn without ensuring it is fully extinguished."
+    },
+    {
+      "pt": "o bilhete",
+      "de": "das Ticket, der Schein",
+      "en": "ticket, slip",
+      "example": "O Sporting carimbou o bilhete para a final da Taça.",
+      "example_de": "Sporting löste das Ticket für das Pokalfinale.",
+      "example_en": "Sporting punched their ticket to the cup final."
+    },
+    {
+      "pt": "a opacidade",
+      "de": "die Intransparenz",
+      "en": "opacity, lack of transparency",
+      "example": "O PS quer acabar com a opacidade no financiamento partidário.",
+      "example_de": "Die PS will die Intransparenz bei der Parteienfinanzierung beenden.",
+      "example_en": "PS wants to end opacity in party financing."
+    },
+    {
+      "pt": "a negligência",
+      "de": "die Fahrlässigkeit",
+      "en": "negligence",
+      "example": "57 detenções foram por negligência em queimadas.",
+      "example_de": "57 Festnahmen waren wegen Fahrlässigkeit beim Abbrennen.",
+      "example_en": "57 arrests were due to negligence in burning."
+    },
+    {
+      "pt": "a rastreabilidade",
+      "de": "die Rückverfolgbarkeit",
+      "en": "traceability",
+      "example": "A ausência de rastreabilidade dos donativos é um problema.",
+      "example_de": "Das Fehlen der Rückverfolgbarkeit von Spenden ist ein Problem.",
+      "example_en": "The lack of traceability of donations is a problem."
+    },
+    {
+      "pt": "aconselhar",
+      "de": "raten, empfehlen",
+      "en": "to advise, recommend",
+      "example": "A GNR aconselha os cidadãos a não fazer queimadas.",
+      "example_de": "Die GNR rät den Bürgern, keine Abbrennaktionen durchzuführen.",
+      "example_en": "The GNR advises citizens not to conduct burns."
+    }
   ]
 }
