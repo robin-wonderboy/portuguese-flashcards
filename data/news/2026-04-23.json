@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛅",
+      "category": "TEMPO",
+      "stories": [
+        {
+          "headline": "Depois do calor e das poeiras, vem aí chuva e trovoada",
+          "text": "Entre quinta e sábado, uma \"gota fria\" (depressão isolada em altitude) a oeste da Península Ibérica deverá trazer instabilidade, com aguaceiros e trovoadas localmente intensos, sobretudo no interior Norte e Centro. Não se exclui queda de granizo e rajadas fortes de vento."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "59 detidos por incêndios — maioria por queimadas descontroladas",
+          "text": "A GNR deteve 59 pessoas pelo crime de incêndio até 17 de abril, 57 por negligência em queimadas de sobrantes. A maioria das detenções foi em Vila Real e Braga. Até 15 de abril já arderam 7.675 hectares."
+        },
+        {
+          "headline": "GNR sinaliza 454 terrenos por limpar em Coimbra",
+          "text": "No âmbito da Operação Floresta Segura 2026, a GNR sinalizou 7.664 terrenos para limpeza obrigatória a nível nacional, dos quais 454 no distrito de Coimbra."
+        },
+        {
+          "headline": "Ministro alerta para \"verão terrível\" e pede limpeza urgente de terrenos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Ataque ciumento em Oliveira do Bairro: mulher baleada, agressor também ferido",
+          "text": "Um homem de ~50 anos disparou contra a ex-companheira em plena via pública. Testemunhas relatam pânico — uma tentou intervir e o agressor apontou-lhe a arma. A vítima foi helitransportada para Coimbra; o suspeito, que também se feriu, está sob vigilância em Aveiro."
+        },
+        {
+          "headline": "Homem em prisão preventiva por abusar sexualmente da filha",
+          "text": ""
+        },
+        {
+          "headline": "Ministro expulsa sete militares da GNR de uma só vez",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Internados após alta clínica aumentam 19% e ultrapassam 2.800",
+          "text": "Em março, 2.807 pessoas continuavam internadas nos hospitais públicos apesar de terem alta, ocupando 13,9% das camas do SNS. O custo para o Estado: 351M€/ano. A falta de resposta da Rede Nacional de Cuidados Continuados é o principal motivo (45%)."
+        },
+        {
+          "headline": "Ex-chefe de gabinete diz não ter recebido pré-aviso da greve do INEM",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PS quer classificar donativos partidários como interesse público",
+          "text": "O PS propôs que a origem dos donativos a partidos passe a ser classificada como interesse público, obrigando à divulgação da identidade dos doadores. Isto surge depois de a CADA ter determinado que a ECFP devia ocultar os nomes por proteção de dados."
+        },
+        {
+          "headline": "Presidência promulga reforço do direito ao esquecimento em créditos e seguros",
+          "text": ""
+        },
+        {
+          "headline": "Pureza insta Presidente da República a vetar pacote laboral",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "👷",
+      "category": "ECONOMIA & TRABALHO",
+      "stories": [
+        {
+          "headline": "UGT decide hoje rumo das alterações à lei laboral",
+          "text": "A UGT reúne-se para votar a proposta final de reforma laboral. A liderança diz não estar \"confortável\" mas continua disponível para negociar. O Governo já deixou cair o alargamento dos contratos a termo e restringiu as medidas mais polémicas sobre despedimento e outsourcing."
+        },
+        {
+          "headline": "Aumento do subsídio de funeral abrange 1.400 menores e pessoas com deficiência",
+          "text": ""
+        },
+        {
+          "headline": "Vamos voltar a trocar a bateria do telemóvel como antigamente?",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Leões carimbam bilhete para a final da Taça de Portugal",
+          "text": "O Sporting empatou a zero no reduto do FC Porto e garantiu presença na 32.ª final da Taça. Vai defrontar Torreense (II Liga) ou Fafe (Liga 3). O FC Porto acabou reduzido a 10 após expulsão de Varela aos 89'."
+        },
+        {
+          "headline": "Góis volta a tremer com o Rally de Portugal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Colisão frontal entre comboios na Dinamarca — vários feridos",
+          "text": "Dois comboios colidiram entre Hillerød e Kagerup, a 40 km de Copenhaga. Cerca de dez pessoas ficaram feridas. Todos os passageiros foram retirados das carruagens."
+        },
+        {
+          "headline": "Fuga química em fábrica faz dois mortos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Lagoa dos Cântaros: 30 mil anos de história na Serra da Estrela",
+          "text": "A Lagoa dos Cântaros, formada pela erosão glaciar há 30 mil anos, continua como testemunho do Geopark Mundial UNESCO da Serra da Estrela. Com a deglaciação, as bacias escavadas pelo gelo foram ocupadas por água que ainda hoje se contempla."
+        },
+        {
+          "headline": "25 de Abril celebrado na Mealhada com programa até ao final do mês",
+          "text": ""
+        },
+        {
+          "headline": "Pampilhosa da Serra: formação sobre crianças expostas à violência doméstica",
+          "text": ""
+        },
+        {
+          "headline": "Sino da paz volta a tocar 1.620 vezes em Arganil",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Professores portugueses são os que têm mais conhecimentos pedagógicos",
+          "text": ""
+        },
+        {
+          "headline": "Politécnico de Coimbra assina acordo para integrar estudantes angolanos",
+          "text": ""
+        },
+        {
+          "headline": "Catarina Schreck Reis toma posse como Diretora do Museu da Ciência da UC",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Comic Con Portugal regressa com 4 dias de cultura pop",
+          "text": ""
+        },
+        {
+          "headline": "Há baile à moda antiga na Adémia",
+          "text": ""
+        },
+        {
+          "headline": "Walking Weekend'26 em Pampilhosa da Serra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
