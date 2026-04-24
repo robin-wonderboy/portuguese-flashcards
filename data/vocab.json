@@ -10877,6 +10877,14 @@
       "example": "Desviar toneladas de biorresíduos dos aterros",
       "example_de": "Tonnen von Bioabfällen von Deponien umleiten",
       "example_en": "Diverting tons of biowaste from landfills"
+    },
+    {
+      "pt": "o convidado",
+      "de": "der Gast/Eingeladene",
+      "en": "the guest/invitee",
+      "example": "Esta edição conta com 60 convidados",
+      "example_de": "Diese Ausgabe hat 60 Gäste",
+      "example_en": "This edition features 60 guests"
     }
   ]
 }
