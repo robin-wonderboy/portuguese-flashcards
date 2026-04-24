@@ -1,0 +1,124 @@
+{
+  "date": "2026-04-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "METEOROLOGIA",
+      "stories": [
+        {
+          "headline": "Reviravolta no tempo: chuva e trovoadas estão de volta",
+          "text": "A próxima semana traz mudanças significativas. A partir de quinta-feira (30), uma bolsa de ar frio em altitude deverá aumentar a instabilidade, com aguaceiros e trovoadas previstos para grande parte do território continental."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "SEGURANÇA RODOVIÁRIA",
+      "stories": [
+        {
+          "headline": "\"Fora do controlo\": 8.064 crimes nas estradas e 127 mortos em 2026",
+          "text": "A GNR registou mais de 8 mil crimes rodoviários até 22 de abril, dos quais 4.752 por condução sob efeito de álcool. Os 30.026 acidentes causaram 127 mortos e 492 feridos graves."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Mega golpe no mundo da arte: PJ apreende 278 obras de Picasso e Miró",
+          "text": "A Polícia Judiciária apreendeu 278 obras de arte em Penalva do Castelo, incluindo peças atribuídas a Picasso, Miró e Hockney. O antigo mordomo de um cidadão norte-americano falecido foi constituído arguido, suspeito de tentar vender as obras que não lhe pertenciam."
+        }
+      ]
+    },
+    {
+      "emoji": "⚡",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Apagão: Governo admite falta de planeamento e cria Corgov",
+          "text": "O ministro Leitão Amaro reconheceu que não havia planeamento específico para crises como o apagão de abril de 2025. O Governo criou o Corgov (Centro de Operações do Governo) e reforçou as redes de comunicação, incluindo terminais SIRESP para membros do executivo."
+        },
+        {
+          "headline": "Governo investe 6 milhões na GNR com novas viaturas",
+          "text": ""
+        },
+        {
+          "headline": "Governo chumba 150 pedidos de reforço para bombeiros",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "☢️",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Nuclear de regresso 40 anos após Chernobyl",
+          "text": "Mais de 400 reatores nucleares operam em 31 países, com 70 em construção. Os EUA querem quadruplicar a capacidade até 2050. A China lidera em construção com quase 40 novos reatores. Portugal continua a proibir a energia nuclear."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra BD: festival de banda desenhada recebe 60 convidados",
+          "text": "O Coimbra BD regressa ao Convento São Francisco de 24 a 26 de abril, com exposições, workshops, cosplay e um novo espaço na Antiga Igreja. A edição de 2025 trouxe 18.200 visitantes e o investimento subiu para 54 mil euros."
+        },
+        {
+          "headline": "Semana Gastronómica da Chanfana em Miranda do Corvo",
+          "text": ""
+        },
+        {
+          "headline": "Lousã celebra o espírito de Abril com cravos e cultura até maio",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Arganil celebra 100 anos da chegada da eletricidade",
+          "text": "Em 1926, Arganil obteve a primeira concessão de fornecimento local de energia, com a Hidroelétrica de Arganil criada em 1927. O Município vai promover iniciativas ao longo do ano, apresentadas no dia 25 de abril."
+        },
+        {
+          "headline": "Mealhada aposta nas hortas urbanas com novos talhões",
+          "text": "O projeto PampiHortas disponibilizou dois novos talhões na Pampilhosa, somando 14 parcelas. O município já produziu 5 toneladas de composto este ano através de 24 ilhas de compostagem."
+        },
+        {
+          "headline": "Ecocentro móvel chega a Montemor-o-Velho",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Torreense nasce para a final: defronta o Sporting no Jamor",
+          "text": "O Torreense (II Liga) venceu o Fafe por 2-0 e qualificou-se para a final da Taça de Portugal, a 24 de maio, contra o Sporting. É a segunda final do clube, 70 anos depois da primeira (1955/56)."
+        },
+        {
+          "headline": "Rally de Portugal regressa à Figueira da Foz com superespecial",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Feira de mestrados com 50+ universidades em Coimbra (29 abr)",
+          "text": "O Mercado Municipal D. Pedro V recebe a feira \"Unlimited Future\" no dia 29 de abril, com entrada gratuita e sorteio de um ano de propinas."
+        }
+      ]
+    }
+  ]
+}
