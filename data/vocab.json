@@ -10885,6 +10885,81 @@
       "example": "Esta edição conta com 60 convidados",
       "example_de": "Diese Ausgabe hat 60 Gäste",
       "example_en": "This edition features 60 guests"
+    },
+    {
+      "pt": "o peculato",
+      "de": "die Veruntreuung",
+      "en": "embezzlement"
+    },
+    {
+      "pt": "chumbar",
+      "de": "ablehnen",
+      "en": "to reject, to veto"
+    },
+    {
+      "pt": "desobstruir",
+      "de": "freimachen",
+      "en": "to unblock, to clear"
+    },
+    {
+      "pt": "polémico",
+      "de": "umstritten",
+      "en": "controversial"
+    },
+    {
+      "pt": "fora de controlo",
+      "de": "außer Kontrolle",
+      "en": "out of control"
+    },
+    {
+      "pt": "a neblina",
+      "de": "der Nebel",
+      "en": "mist, fog"
+    },
+    {
+      "pt": "o escombro",
+      "de": "der Schutt",
+      "en": "rubble, debris"
+    },
+    {
+      "pt": "a habilitação",
+      "de": "die Befähigung",
+      "en": "qualification, license"
+    },
+    {
+      "pt": "a diligência",
+      "de": "die Ermittlung",
+      "en": "investigation, proceeding"
+    },
+    {
+      "pt": "subtrair",
+      "de": "entwenden",
+      "en": "to steal, to remove"
+    },
+    {
+      "pt": "o matadouro",
+      "de": "das Schlachthaus",
+      "en": "slaughterhouse"
+    },
+    {
+      "pt": "convicto",
+      "de": "überzeugt",
+      "en": "convinced, certain"
+    },
+    {
+      "pt": "o bastidor",
+      "de": "die Kulissen",
+      "en": "backstage, behind the scenes"
+    },
+    {
+      "pt": "a feira de velharias",
+      "de": "der Trödelmarkt",
+      "en": "flea market"
+    },
+    {
+      "pt": "bombardear",
+      "de": "bombardieren",
+      "en": "to bombard"
     }
   ]
 }
