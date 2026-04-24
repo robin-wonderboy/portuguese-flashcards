@@ -10804,5 +10804,79 @@
       "example_de": "Die GNR rät den Bürgern, keine Abbrennaktionen durchzuführen.",
       "example_en": "The GNR advises citizens not to conduct burns."
     }
+  ],
+  "2026-04-24": [
+    {
+      "pt": "abalroar",
+      "de": "rammen",
+      "en": "to collide/ram",
+      "example": "Camião despista-se e abalroa vários carros",
+      "example_de": "Ein Lkw kommt von der Fahrbahn ab und rammt mehrere Autos",
+      "example_en": "A truck goes off the road and rams several cars"
+    },
+    {
+      "pt": "o espólio",
+      "de": "der Nachlass",
+      "en": "the estate/collection",
+      "example": "Do espólio contam-se esculturas datadas",
+      "example_de": "Aus dem Nachlass stammen datierte Skulpturen",
+      "example_en": "The collection includes dated sculptures"
+    },
+    {
+      "pt": "o mordomo",
+      "de": "der Butler",
+      "en": "the butler/steward",
+      "example": "O antigo mordomo foi constituído arguido",
+      "example_de": "Der ehemalige Butler wurde angeklagt",
+      "example_en": "The former butler was charged"
+    },
+    {
+      "pt": "o talhão",
+      "de": "das Grundstück",
+      "en": "the plot of land",
+      "example": "Há novos talhões disponíveis para hortas urbanas",
+      "example_de": "Es gibt neue Grundstücke für urbane Gärten",
+      "example_en": "New plots are available for urban gardens"
+    },
+    {
+      "pt": "a propina",
+      "de": "das Studiengebühr",
+      "en": "the tuition fee",
+      "example": "Pode ganhar um ano de propinas",
+      "example_de": "Man kann ein Jahr Studiengebühren gewinnen",
+      "example_en": "You can win a year of tuition"
+    },
+    {
+      "pt": "o sarcófago",
+      "de": "der Sarkophag",
+      "en": "the sarcophagus",
+      "example": "A estrutura de proteção conhecida como o sarcófago",
+      "example_de": "Die Schutzstruktur bekannt als der Sarkophag",
+      "example_en": "The protective structure known as the sarcophagus"
+    },
+    {
+      "pt": "a compostagem",
+      "de": "das Kompostieren",
+      "en": "composting",
+      "example": "A aposta na expansão da compostagem",
+      "example_de": "Die Investition in die Ausweitung des Kompostierens",
+      "example_en": "The investment in expanding composting"
+    },
+    {
+      "pt": "ressurgir",
+      "de": "wieder aufleben",
+      "en": "to resurge/re-emerge",
+      "example": "Assiste-se a um ressurgimento da energia nuclear",
+      "example_de": "Man erlebt ein Wiedererstehen der Kernenergie",
+      "example_en": "There is a resurgence of nuclear energy"
+    },
+    {
+      "pt": "o biorresíduo",
+      "de": "der Bioabfall",
+      "en": "biowaste",
+      "example": "Desviar toneladas de biorresíduos dos aterros",
+      "example_de": "Tonnen von Bioabfällen von Deponien umleiten",
+      "example_en": "Diverting tons of biowaste from landfills"
+    }
   ]
 }
