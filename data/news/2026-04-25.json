@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🇵🇹",
+      "category": "25 DE ABRIL",
+      "stories": [
+        {
+          "headline": "Há 52 anos começava a revolução: as senhas do 25 de Abril",
+          "text": "Hoje celebra-se o 52.º aniversário da Revolução dos Cravos. Na noite de 24 de abril de 1974, às 22:55, os Emissores Associados de Lisboa transmitiram \"E Depois do Adeus\" de Paulo de Carvalho — a primeira senha do MFA. Às 00:20, \"Grândola, Vila Morena\" de Zeca Afonso na Rádio Renascença confirmou o avanço da operação \"Fim de Regime\"."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PJ descobre coleção gigante com Picasso e Miró escondida em Penalva do Castelo",
+          "text": "A Polícia Judiciária apreendeu 278 obras de arte — alegadamente de Picasso, Miró, Hockney, Dürer e outros — numa casa em Penalva do Castelo. A coleção pertencia a um cidadão norte-americano falecido em 2024. O mordomo, de 70 anos, foi constituído arguido por tentar vender as obras. Os valores estarão na ordem dos milhões e a PJ suspeita de branqueamento e abuso de confiança."
+        },
+        {
+          "headline": "MAI expulsou 11 agentes da PSP e nove militares da GNR em dois meses",
+          "text": ""
+        },
+        {
+          "headline": "Carro \"invade\" linha do metro em Coimbra",
+          "text": "Um automóvel circulou indevidamente na linha do metro na zona de Norton de Matos, com uma criança a bordo. O metro teve de travar bruscamente. Não houve feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Câmara de Coimbra analisa apoio de 200 mil euros para o Rali de Portugal",
+          "text": "O município vota na segunda-feira um apoio financeiro de 200 mil euros ao Automóvel Clube de Portugal para a cerimónia de partida do Rali, a 7 de maio. Inclui também proteção civil, catering VIP, isenção de licenças e apoio da Polícia Municipal."
+        },
+        {
+          "headline": "Festival de Sopas em Coimbra: 22 variedades por 10 euros",
+          "text": "O Festival de Sopas regressa com 22 variedades por 10 euros, incluindo taça, colher e guardanapo."
+        },
+        {
+          "headline": "Doação de desumidificadores apoia famílias afetadas pelas tempestades na Figueira da Foz",
+          "text": ""
+        },
+        {
+          "headline": "Mau tempo: Regiões pedem alargamento dos prazos de apoios",
+          "text": "As regiões de Coimbra, Leiria e Médio Tejo pedem extensão dos prazos para pedidos de apoio devido aos estragos das tempestades."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Interrupções da gravidez aumentam 5% em 2024",
+          "text": "Foram 18.601 interrupções em 2024, 97,2% por opção da mulher nas primeiras 10 semanas. Pela primeira vez, a consulta iniciou-se no Litoral Alentejano, reduzindo deslocações para Lisboa. A média de idades manteve-se nos 28 anos."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Ministro da Educação quer apertar regras no acesso ao Ensino Superior",
+          "text": ""
+        },
+        {
+          "headline": "Coimbra homenageou Carlos Paredes com ampla participação",
+          "text": "Mais de um ano de celebrações pelo guitarrista e compositor português Carlos Paredes, com participação destacada em Coimbra."
+        },
+        {
+          "headline": "Amantes dos jogos narrativos formaram coletivo em Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & IMPOSTOS",
+      "stories": [
+        {
+          "headline": "Pedir fatura com NIF traz benefícios no IRS",
+          "text": ""
+        },
+        {
+          "headline": "Empresas de pirotecnia avisam não aguentar mais um verão sem apoios",
+          "text": ""
+        },
+        {
+          "headline": "Preço dos combustíveis volta a sofrer alterações",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Mulher viaja para a Suíça para morte assistida após perder o filho",
+          "text": "\"Sem forças para continuar\" — uma mulher escolheu a morte assistida na Suíça depois de perder o filho."
+        },
+        {
+          "headline": "40 anos depois, Chernobyl ainda assombra a Europa",
+          "text": "Apesar da memória do desastre, a energia nuclear está de regresso em todo o mundo."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Novo concurso de apoio à compra de carros elétricos",
+          "text": ""
+        },
+        {
+          "headline": "Já há matrículas cor-de-rosa e têm um objetivo",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
