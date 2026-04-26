@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & 25 DE ABRIL",
+      "stories": [
+        {
+          "headline": "Tribunal Constitucional anula expulsão de Daniel Adrião do PS",
+          "text": "O Tribunal Constitucional decidiu anular a expulsão do \"eterno\" candidato à liderança socialista Daniel Adrião. A decisão marca mais um capítulo na saga interna do Partido Socialista."
+        },
+        {
+          "headline": "\"Muitos, muitos mil\" marcharam em Coimbra pelo 25 de Abril",
+          "text": "Milhares de pessoas marcharam em Coimbra para celebrar o 25 de Abril. Mealhada também assinalou a data com apelo à defesa da liberdade e da democracia."
+        },
+        {
+          "headline": "Montenegro celebra 25 de Abril com homenagem a Ruy de Carvalho",
+          "text": "O primeiro-ministro disse que foi uma \"escolha muitíssimo feliz\" celebrar a data com a homenagem ao veterano ator. Seguro alertou que a liberdade \"desaparece aos poucos\" e pediu transparência nos donativos políticos."
+        },
+        {
+          "headline": "Carneiro acusa Governo de simular negociação na lei laboral",
+          "text": "Pedrocarneiro acusa o Governo de criar a ideia de que negoceia a lei laboral, mas sem abdicar das medidas propostas. A tensão laboral continua."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Padrasto abusa sexualmente da enteada; moravam juntos",
+          "text": "Um padrasto foi detido por abuso sexual da enteada. O caso ocorreu numa habitação onde ambos residiam."
+        },
+        {
+          "headline": "\"Tentei fugir\": jovem violada em grupo em Coimbra",
+          "text": "Uma jovem relatou uma noite de terror após violação em grupo em Coimbra. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Padre amarrado e ameaçado com faca em assalto violento",
+          "text": "Um padre foi amarrado e ameaçado com faca durante um assalto. MAI expulsou 11 agentes da PSP e nove militares da GNR em dois meses."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Ciclista morre em colisão com carrinha na EN270",
+          "text": "Um ciclista perdeu a vida após colisão com uma carrinha na Estrada Nacional 270. Em Coimbra, colisão entre carro e mota fez um ferido."
+        },
+        {
+          "headline": "\"Capotanço\" faz três feridos, um em estado grave",
+          "text": "Um acidente com capotamento deixou três feridos, um deles em estado grave. Homem morreu também em trágico acidente com trator durante trabalhos agrícolas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Irão: controlo de Ormuz é \"estratégia definitiva\"",
+          "text": "A Guarda Revolucionária do Irão afirmou que o controlo do estreito de Ormuz constitui uma \"estratégia definitiva\", mantendo tensões geopolíticas elevadas."
+        },
+        {
+          "headline": "Discussão por pizzas acaba em tragédia: jovem jogador morre",
+          "text": "Uma discussão sobre pizzas acabou em tragédia quando um jovem jogador morreu após ataque com chave de fendas. Casal de madeirenses morto ao tentar ajudar o filho durante assalto."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Identificada principal causa genética das náuseas na gravidez",
+          "text": "Investigadores identificaram a principal causa genética das náuseas e vómitos na gravidez. Intervenções da gravidez aumentaram 5% em 2024."
+        },
+        {
+          "headline": "Ministra inaugura renovado Centro de Saúde de Penacova",
+          "text": "Ana Paula Martins inaugurou o Centro de Saúde de Penacova renovado, melhorando o acesso aos cuidados de saúde na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra estreita laços com Brasil",
+          "text": "O Politécnico de Coimbra firmou parceria com o Instituto Federal de Santa Catarina, Brasil, fortalecendo laços académicos internacionais."
+        },
+        {
+          "headline": "Homens e mulheres processam infidelidade de formas diferentes",
+          "text": "Estudo revela que homens e mulheres processam a infidelidade emocional de formas distintas. Ministro da Educação quer apertar regras no acesso ao Ensino Superior."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Benfica hexacampeão nacional feminino de futebol",
+          "text": "O Benfica conquistou o sexto título nacional consecutivo de futebol feminino. No futebol masculino, Benfica esmagou os Cónegos de Moreira. Rugby da Lousã festejou título na Câmara."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "COMUNIDADE & CULTURA",
+      "stories": [
+        {
+          "headline": "Concerto solidário por família afetada pelas tempestades",
+          "text": "Coimbra une-se em concerto solidário para apoiar uma família afetada pelas recentes tempestades na região."
+        },
+        {
+          "headline": "Condeixa vira \"paraíso gastronómico\" com cabrito e escarpiada",
+          "text": "Condeixa transforma-se num paraíso gastronómico onde o cabrito e a escarpiada são os reis. Há também um novo spot em Coimbra para fãs de batatas fritas."
+        }
+      ]
+    }
+  ]
+}
