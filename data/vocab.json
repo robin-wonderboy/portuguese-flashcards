@@ -11018,5 +11018,84 @@
       "de": "der Luftentfeuchter",
       "en": "the dehumidifier"
     }
+  ],
+  "2026-04-26": [
+    {
+      "pt": "a traição",
+      "de": "der Verrat",
+      "example": "Traição em Coimbra: homens revelam maior tolerância",
+      "example_de": "Verrat in Coimbra: Männer zeigen größere Toleranz",
+      "example_en": "Betrayal in Coimbra: men show greater tolerance"
+    },
+    {
+      "pt": "a enteada",
+      "de": "die Stieftochter",
+      "example": "Padrasto abusa sexualmente da enteada",
+      "example_de": "Stiefvater missbraucht Stieftochter sexuell",
+      "example_en": "Stepfather sexually abuses stepdaughter"
+    },
+    {
+      "pt": "anular",
+      "de": "annullieren",
+      "example": "Tribunal Constitucional decidiu anular a expulsão",
+      "example_de": "Verfassungsgericht beschloss den Ausschluss zu annullieren",
+      "example_en": "Constitutional Court decided to annul the expulsion"
+    },
+    {
+      "pt": "estreitar",
+      "de": "verstärken/festigen",
+      "example": "Politécnico de Coimbra estreita laços com Brasil",
+      "example_de": "Polytechnikum Coimbra festigt Bande mit Brasilien",
+      "example_en": "Polytechnic of Coimbra strengthens ties with Brazil"
+    },
+    {
+      "pt": "abdicar",
+      "de": "verzichten/aufgeben",
+      "example": "Sem abdicar de medidas",
+      "example_de": "Ohne auf Maßnahmen zu verzichten",
+      "example_en": "Without giving up measures"
+    },
+    {
+      "pt": "hexacampeão",
+      "de": "sechsmaliger Meister",
+      "example": "Benfica hexacampeão nacional feminino de futebol",
+      "example_de": "Benfica sechsmaliger nationaler Frauenfußballmeister",
+      "example_en": "Benfica six-time national women's football champion"
+    },
+    {
+      "pt": "definitivo",
+      "de": "endgültig",
+      "example": "Controlo do estreito constitui estratégia definitiva",
+      "example_de": "Kontrolle der Meerenge bildet endgültige Strategie",
+      "example_en": "Control of the strait constitutes a definitive strategy"
+    },
+    {
+      "pt": "de bolso",
+      "de": "aus eigener Tasche",
+      "example": "Autarcas pagam do bolso",
+      "example_de": "Bürgermeister zahlen aus eigener Tasche",
+      "example_en": "Mayors pay out of pocket"
+    },
+    {
+      "pt": "o amante",
+      "de": "der Liebhaber",
+      "example": "Encontrou a mulher com o amante",
+      "example_de": "Fand seine Frau mit dem Liebhaber",
+      "example_en": "Found his wife with the lover"
+    },
+    {
+      "pt": "a expulsão",
+      "de": "der Ausschluss",
+      "example": "Tribunal anular a expulsão do PS",
+      "example_de": "Gericht annulliert den Ausschluss aus der PS",
+      "example_en": "Court annuls the expulsion from PS"
+    },
+    {
+      "pt": "o laço",
+      "de": "die Verbindung/das Band",
+      "example": "Politécnico estreita laços com Brasil",
+      "example_de": "Polytechnikum festigt Bande mit Brasilien",
+      "example_en": "Polytechnic strengthens ties with Brazil"
+    }
   ]
 }
