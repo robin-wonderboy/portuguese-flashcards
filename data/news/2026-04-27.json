@@ -1,0 +1,122 @@
+{
+  "date": "2026-04-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Violência doméstica não se combate com agravamento de penas",
+          "text": "A ministra da Justiça Rita Alarcão Júdice defendeu que aumentar penas não é a solução para a violência doméstica. Prioriza a rapidez processual, proteção à vítima e evitar a revitimização, propondo que as declarações iniciais das vítimas sejam usadas em julgamento para não as obrigar a repetir o relato."
+        },
+        {
+          "headline": "Tio e sobrinho julgados por tráfico de 6 toneladas de cocaína",
+          "text": "Dois homens começam a ser julgados em Leiria por tráfico agravado em coautoria de seis toneladas de cocaína, avaliadas em mais de 200 milhões de euros. Enfiam também crimes de associação criminosa, falsificação de documentos e sequestro."
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Combate à violência deve ser feito na disciplina de Cidadania",
+          "text": "A ministra da Justiça defendeu que as escolas devem abordar a violência doméstica e no namoro na disciplina de Cidadania, num contexto de valores. Alertou para a normalização de padrões agressivos promovida por conteúdos digitais e narrativas de machismo exacerbado."
+        },
+        {
+          "headline": "Nova aventura nas escolas da Lousã com mascote e jogos",
+          "text": "O programa \"Uma Aventura com a Inês\" levou atividades lúdico-pedagógicas a quatro escolas da Lousã, incluindo um jogo tipo Monopólio chamado Europólio. A iniciativa estimula o conhecimento e a participação ativa dos alunos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "INEM recusa transporte de doente cego para o hospital",
+          "text": "O INEM não autorizou o transporte hospitalar de um homem cego de 55 anos com vómitos, tonturas e dor abdominal. Os Bombeiros de Arruda dos Vinhos consideraram a decisão incompreensível e transportaram o utente na mesma para o Hospital de São José, percorrendo 77 km."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Marinha coordena resgate de turista em cruzeiro de luxo nos Açores",
+          "text": "A Marinha Portuguesa coordenou o resgate de uma norte-americana de 76 anos com suspeita de lesão na traqueia após queda a bordo do MSC Meraviglia, a 640 milhas náuticas dos Açores. O navio divergiu para Ponta Delgada e a mulher foi hospitalizada."
+        },
+        {
+          "headline": "Luís morre em colisão com carrinha enquanto andava de bicicleta",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & CULTURA",
+      "stories": [
+        {
+          "headline": "Dinheiro das tempestades continua a chegar à conta-gotas",
+          "text": "Três meses depois do \"comboio de tempestades\" que devastou a região centro, os fundos de apoio continuam a chegar muito lentamente aos afetados."
+        },
+        {
+          "headline": "Coimbra amplia apoio à cultura com novo regulamento RIMA.PAC",
+          "text": "O Município propõe um regulamento mais abrangente que alarga apoios a artistas individuais, coletivos informais e entidades privadas. Introduz apoios plurianuais de até quatro anos e novas tipologias como residências artísticas e edição autoral. Consulta pública de 30 dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Coimbra paga 200 mil euros pelo Rally de Portugal",
+          "text": "A cerimónia de partida do Vodafone Rally de Portugal decorre em Coimbra a 7 de maio, na Avenida de Conímbriga. O Município atribui 200 mil euros ao Automóvel Club de Portugal no âmbito do contrato-programa."
+        },
+        {
+          "headline": "Sporting empata e Porto fica a 3 pontos do título",
+          "text": "O Sporting empatou 1-1 com o AVS e deixou de depender de si para acabar em segundo. O FC Porto, líder com 82 pontos, pode ser campeão na próxima ronda ao receber o Alverca."
+        },
+        {
+          "headline": "Marítimo regressa à I Liga",
+          "text": ""
+        },
+        {
+          "headline": "Sporting conquista Taça de Portugal de hóquei em patins (6ª vez)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🐕",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Feira da Caça em Degracias atrai jovens caçadores",
+          "text": "A 2ª edição da Feira da Caça em Degracias (Soure) reuniu matilhas de todo o país. Jovens caçadores defendem a ligação aos cães e desconstruem preconceitos: \"Eu dava a vida pelos meus cães\". Os cães de caça maior são tratados como atletas de alta competição."
+        },
+        {
+          "headline": "Estilista português apresenta desfile de moda em Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Irão apresenta nova proposta para reabrir o estreito de Ormuz",
+          "text": ""
+        },
+        {
+          "headline": "Sismo de 6,1 no Japão",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
