@@ -11097,5 +11097,119 @@
       "example_de": "Polytechnikum festigt Bande mit Brasilien",
       "example_en": "Polytechnic strengthens ties with Brazil"
     }
+  ],
+  "2026-04-27": [
+    {
+      "pt": "a matilha",
+      "de": "die Meute",
+      "en": "pack (of hounds)",
+      "example": "A matilha percorreu 20 quilómetros",
+      "example_de": "Die Meute legte 20 Kilometer zurück",
+      "example_en": "The pack covered 20 kilometres"
+    },
+    {
+      "pt": "a revitimização",
+      "de": "die Reviktimisierung",
+      "en": "revictimization",
+      "example": "Evitar a revitimização das vítimas",
+      "example_de": "Die Reviktimisierung der Opfer vermeiden",
+      "example_en": "Avoiding revictimization of victims"
+    },
+    {
+      "pt": "o regulamento",
+      "de": "die Verordnung",
+      "en": "regulation, rules",
+      "example": "O novo regulamento substituirá o modelo atual",
+      "example_de": "Die neue Verordnung ersetzt das aktuelle Modell",
+      "example_en": "The new regulation will replace the current model"
+    },
+    {
+      "pt": "a docilidade",
+      "de": "die Sanftmut",
+      "en": "docility, gentleness",
+      "example": "Demonstrando a sua docilidade",
+      "example_de": "Ihre Sanftmut zeigend",
+      "example_en": "Showing their gentleness"
+    },
+    {
+      "pt": "o espeto",
+      "de": "der Spieß",
+      "en": "spit (for roasting)",
+      "example": "Um porco no espeto",
+      "example_de": "Ein Schwein am Spieß",
+      "example_en": "A pig on the spit"
+    },
+    {
+      "pt": "divergir",
+      "de": "abweichen",
+      "en": "to diverge, deviate",
+      "example": "O navio foi orientado a divergir",
+      "example_de": "Das Schiff wurde angewiesen abzuweichen",
+      "example_en": "The ship was directed to divert"
+    },
+    {
+      "pt": "desconstruir",
+      "de": "dekonstruieren",
+      "en": "to deconstruct, debunk",
+      "example": "Desconstruindo ideias feitas",
+      "example_de": "Vorgefertigte Ideen dekonstruieren",
+      "example_en": "Deconstructing preconceived ideas"
+    },
+    {
+      "pt": "lúdico",
+      "de": "spielerisch",
+      "en": "playful, fun-educational",
+      "example": "Uma iniciativa de caráter lúdico-pedagógico",
+      "example_de": "Eine spielerisch-pädagogische Initiative",
+      "example_en": "A playful-pedagogical initiative"
+    },
+    {
+      "pt": "abrangente",
+      "de": "umfassend",
+      "en": "comprehensive, broad",
+      "example": "Um regulamento mais abrangente",
+      "example_de": "Eine umfassendere Verordnung",
+      "example_en": "A more comprehensive regulation"
+    },
+    {
+      "pt": "plurianual",
+      "de": "mehrajährig",
+      "en": "multi-year",
+      "example": "O reforço dos apoios plurianuais",
+      "example_de": "Die Stärkung mehrjähriger Förderungen",
+      "example_en": "Strengthening multi-year support"
+    },
+    {
+      "pt": "incompreensível",
+      "de": "unverständlich",
+      "en": "incomprehensible",
+      "example": "A decisão foi incompreensível",
+      "example_de": "Die Entscheidung war unverständlich",
+      "example_en": "The decision was incomprehensible"
+    },
+    {
+      "pt": "à conta-gotas",
+      "de": "tropfenweise",
+      "en": "drip by drip, little by little",
+      "example": "O dinheiro continua a chegar à conta-gotas",
+      "example_de": "Das Geld kommt weiterhin tropfenweise",
+      "example_en": "The money keeps arriving drip by drip"
+    },
+    {
+      "pt": "em coautoria",
+      "de": "in Mittäterschaft",
+      "en": "jointly, as co-authors",
+      "example": "Tráfico de droga agravado em coautoria",
+      "example_de": "Schwerer Drogenhandel in Mittäterschaft",
+      "example_en": "Aggravated drug trafficking as co-author"
+    },
+    {
+      "pt": "o preconceito",
+      "de": "das Vorurteil",
+      "en": "prejudice, preconception",
+      "example": "Persistem preconceitos sobre a caça",
+      "example_de": "Vorurteile über die Jagd bestehen fort",
+      "example_en": "Prejudices about hunting persist"
+    }
   ]
 }
