@@ -11211,5 +11211,87 @@
       "example_de": "Vorurteile über die Jagd bestehen fort",
       "example_en": "Prejudices about hunting persist"
     }
+  ],
+  "2026-04-28": [
+    {
+      "pt": "chocante",
+      "de": "schockierend",
+      "en": "shocking",
+      "example": "O cão estava em condições chocantes",
+      "example_de": "Der Hund war in schockierendem Zustand",
+      "example_en": "The dog was in shocking conditions"
+    },
+    {
+      "pt": "aproximar",
+      "de": "näherbringen, sich nähern",
+      "en": "to bring closer, to approach",
+      "example": "O novo balcão quer aproximar a autarquia da população",
+      "example_de": "Der neue Schalter will die Gemeinde näher an die Bevölkerung bringen",
+      "example_en": "The new counter wants to bring the municipality closer to the people"
+    },
+    {
+      "pt": "repentino",
+      "de": "plötzlich, unerwartet",
+      "en": "sudden",
+      "example": "O acidente foi repentino e sem margem de reação",
+      "example_de": "Der Unfall war plötzlich und ohne Reaktionszeit",
+      "example_en": "The accident was sudden with no time to react"
+    },
+    {
+      "pt": "sem margem de reação",
+      "de": "ohne Reaktionszeit",
+      "en": "with no time to react",
+      "example": "Foi tudo muito rápido, sem margem de reação",
+      "example_de": "Alles ging sehr schnell, ohne Reaktionszeit",
+      "example_en": "Everything happened very fast, with no time to react"
+    },
+    {
+      "pt": "a navalha",
+      "de": "das Taschenmesser, die Klinge",
+      "en": "the switchblade, razor",
+      "example": "Atacou com uma navalha no pescoço",
+      "example_de": "Er griff mit einem Taschenmesser am Hals an",
+      "example_en": "He attacked with a blade to the neck"
+    },
+    {
+      "pt": "o arrendamento",
+      "de": "die Vermietung",
+      "en": "the rental, lease",
+      "example": "Arrendar quarto está mais caro",
+      "example_de": "Ein Zimmer zu mieten ist teurer geworden",
+      "example_en": "Renting a room has become more expensive"
+    },
+    {
+      "pt": "o bombeiro",
+      "de": "der Feuerwehrmann",
+      "en": "the firefighter",
+      "example": "Os bombeiros resgataram o ferido",
+      "example_de": "Die Feuerwehr rettete den Verletzten",
+      "example_en": "The firefighters rescued the injured man"
+    },
+    {
+      "pt": "o esquecimento",
+      "de": "das Vergessen",
+      "en": "oblivion, forgetting",
+      "example": "O direito ao esquecimento digital",
+      "example_de": "Das Recht auf digitales Vergessenwerden",
+      "example_en": "The right to digital oblivion"
+    },
+    {
+      "pt": "acorrentar",
+      "de": "anketten",
+      "en": "to chain up",
+      "example": "O cão foi encontrado acorrentado e esquecido",
+      "example_de": "Der Hund wurde angekettet und vergessen aufgefunden",
+      "example_en": "The dog was found chained up and abandoned"
+    },
+    {
+      "pt": "a movimentação",
+      "de": "die Bewegung, der Umgang",
+      "en": "the movement, handling",
+      "example": "A grua caiu durante a movimentação de carga",
+      "example_de": "Der Kran stürzte während des Lastenumgangs",
+      "example_en": "The crane fell during load handling"
+    }
   ]
 }
