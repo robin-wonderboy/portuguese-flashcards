@@ -1,0 +1,140 @@
+{
+  "date": "2026-04-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏗️",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Grua cai em Eiras: um morto e um ferido grave",
+          "text": "Uma grua alegadamente cedeu durante uma operação de movimentação de carga numa obra em Eiras. Um homem de 59 anos morreu e outro de 28 ficou gravemente ferido. A Rua Chaves está cortada em ambos os sentidos enquanto se procede à inspeção da estrutura."
+        },
+        {
+          "headline": "Cão acorrentado e esquecido resgatado por voluntários",
+          "text": "Voluntários resgataram um cão que se encontrava em condições chocantes, acorrentado e aparentemente abandonado. O caso gerou forte comoção nas redes sociais."
+        },
+        {
+          "headline": "Parabéns, Varela Pêcurto — 101 anos!",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Camião destrói portagem e corta saída da A1",
+          "text": "Um camião destruiu uma portagem na A1, cortando o acesso à saída. O incidento causou grandes congestionamentos na autoestrada."
+        },
+        {
+          "headline": "Corpo de jovem encontrado no rio Arda",
+          "text": "O corpo do jovem que tinha desaparecido foi encontrado no rio Arda, pondo fim a buscas intensas que mobilizaram várias equipas de resgate."
+        },
+        {
+          "headline": "9.000 condutores apanhados sem inspeção desde início do ano",
+          "text": "Nove mil condutores foram detetados a circular sem inspeção válida desde janeiro. As autoridades reforçam a fiscalização."
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "category": "FORÇA AÉREA",
+      "stories": [
+        {
+          "headline": "Força Aérea Portuguesa confirma presença na Figueira da Foz",
+          "text": "A Força Aérea Portuguesa confirmou que vai marcar presença na Figueira da Foz, com demonstrações previstas para os próximos dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & GOVERNO",
+      "stories": [
+        {
+          "headline": "Governo aprova versão final do PTRR após tempestade Kristin",
+          "text": "O governo aprovou e apresentou a versão final do Programa de Territórios de Recuperação e Resiliência, três meses depois da tempestade Kristin ter devastado regiões do centro do país."
+        },
+        {
+          "headline": "Governo assegura ter adotado recomendações sobre o apagão",
+          "text": "O governo garantiu já ter implementado grande parte das recomendações following o grande apagão que afetou o país."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & VIDA",
+      "stories": [
+        {
+          "headline": "Solar dos Neiva doado a Cantanhede para Casa da Cultura",
+          "text": "O Solar dos Neiva foi doado ao município de Cantanhede, onde será criada uma Casa da Cultura, preservando o património histórico da região."
+        },
+        {
+          "headline": "O Macaco de Rabo Cortado salta da Figueira para Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "José Cid em Coimbra: mais Portugal Burger Cup que Favas com Chouriço",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "PJ detém homem que abusou da própria filha",
+          "text": "A Polícia Judiciária deteve um homem acusado de abusar da própria filha. O suspeito ficou em custódia preventiva."
+        },
+        {
+          "headline": "Homem atacou com navalha e agora proibido de se aproximar da vítima",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "INEM ensina como agir em caso de hemorragia grave",
+          "text": "O INEM lançou orientações sobre como agir em caso de hemorragia grave, no Dia Mundial da Segurança e Saúde no Trabalho."
+        },
+        {
+          "headline": "Lei pretende reforçar direito ao esquecimento",
+          "text": "Uma nova lei pretende reforçar o direito ao esquecimento para pessoas que superaram situações de risco agravado de saúde, embora não seja aplicável a todos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Vigor da Mocidade conquista três títulos nacionais",
+          "text": "O Vigor da Mocidade conquistou três títulos nacionais e reforça a ambição rumo ao Mundial de Pesaro."
+        },
+        {
+          "headline": "Marítimo regressa à I Liga",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "14 mortos em colisão de comboios na Indonésia",
+          "text": ""
+        },
+        {
+          "headline": "Mulheres recebem 21,3% a menos que homens no Brasil",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
