@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚠️",
+      "category": "TRAGÉDIA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Homem morre após queda de grua na Figueira da Foz",
+          "text": "Luís Cação, de 52 anos e pai de três filhos, perdeu a vida na terça-feira após a queda de uma grua numa obra na Figueira da Foz. O alerta foi dado às 16:04, com mobilização de bombeiros, VMER, PSP e equipas de psicólogos do INEM. As causas do acidente estão sob investigação."
+        },
+        {
+          "headline": "Condutor \"encharcado\" detido na Figueira da Foz",
+          "text": "No mesmo dia e local do acidente com a grua, um homem de nacionalidade ucraniana foi detido por condução sob o efeito do álcool após um acidente na Rua Alto da Fonte. O teste de alcoolemia acusou taxa acima do permitido."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "ESTRADAS & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Caos nas estradas: sete mortos e 16 mil infrações numa semana",
+          "text": "A quarta campanha do Plano Nacional de Fiscalização registou 2.515 acidentes, sete vítimas mortais e 44 feridos graves entre 21 e 27 de abril. Foram fiscalizados 4,6 milhões de veículos e registadas mais de 23 mil infrações. A campanha focou-se pela primeira vez nos utilizadores vulneráveis — peões, ciclistas e trotineteiros."
+        },
+        {
+          "headline": "Camião despista-se e perde carga em Miranda do Corvo",
+          "text": "Um camião despistou-se e perdeu a carga de madeira em Miranda do Corvo. A EN342 foi reaberta ao trânsito após o incidento."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "CLIMA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Ano \"louco\" do clima: calor recorde, tempestades e fogos atingem Portugal",
+          "text": "O relatório European State of the Climate 2025 destaca Portugal pelas ondas de calor no mar, incêndios florestais e cheias. 2025 foi o quinto mais quente em Portugal continental desde 1931, com seis ondas de calor e tempestades como Cláudia e Martinho. Os fogos provocaram quatro mortes e recorde de área ardida na Europa."
+        },
+        {
+          "headline": "Municípios do Centro reportam 961 M€ em prejuízos pelo mau tempo",
+          "text": "Os 77 municípios da região Centro reportaram 961 milhões de euros em danos causados pelas tempestades. A CCDR Centro está a criar uma plataforma para gerir as quase 40 mil candidaturas. Já foram distribuídos 75 M€ do Fundo de Emergência Municipal como adiantamento."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Ventura acusa Governo de plano de \"marketing\" sem prioridades",
+          "text": "O líder do Chega classificou o programa PTRR (22,6 mil milhões de euros, 9 anos) como \"marketing\" sem prioridades nem estratégias. Ventura criticou a falta de definição de prazos e custos, alertando para mais burocracia e endividamento."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & PROTESTO",
+      "stories": [
+        {
+          "headline": "TVDE voltam à rua: combustíveis caros e tarifas baixas",
+          "text": "Motoristas e operadores TVDE protestam esta segunda-feira no Campo Pequeno em Lisboa, exigindo aumento de tarifas, rejeição da entrada de táxis no regime TVDE e apoio ao preço dos combustíveis. Há também uma paralisação de 24 horas de estafetas da Glovo e Uber Eats."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Figueira da Foz compra terrenos de suinicultura contestada",
+          "text": "A Câmara vai adquirir por 400 mil euros a exploração agropecuária de Carvalhais de Lavos, contestada há anos pela população por cheiros nauseabundos e contaminação de linhas de água. A empresa tem cinco meses para desocupar o espaço de quatro hectares."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Instituto Miguel Torga vai aos 19 municípios da região",
+          "text": "O ISMT e a Escola de Coimbra vão realizar três roadshows sobre literacia mediática, combate à corrupção e contratação pública, percorrendo os 19 municípios da Região Metropolitana de Coimbra. O objetivo é inverter a lógica: em vez de o território vir a Coimbra, é Coimbra que vai ao território. As sessões arrancam em maio."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival das Francesinhas: 10 dias no Parque Manuel Braga",
+          "text": "A 5.ª edição decorre de 30 de abril a 10 de maio, com entrada livre e horários 12h-15h e 19h-22h30. O prato custa 12-14€, com opções tradicional, frango, forno a lenha e vegan. A oferta vegetariana tem crescido brutalmente, sobretudo em meios académicos como Coimbra."
+        },
+        {
+          "headline": "Queima das Fitas: DJ Yves Larock no Dia do Antigo Estudante",
+          "text": "O DJ e produtor suíço Yves Larock subirá ao palco no dia 30 de maio na edição 2026 da Queima das Fitas de Coimbra. Conhecido pelo êxito \"Rise Up\", promete uma noite de música eletrónica com house, hip-hop e reggae."
+        },
+        {
+          "headline": "Festival de cervejas artesanais em Coimbra",
+          "text": "Um festival em Coimbra promete cervejas artesanais \"únicas e exclusivas\" para os apreciadores da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Plataforma deteta Alzheimer precocemente através da voz",
+          "text": "Investigadores desenvolveram uma plataforma para deteção precoce de Alzheimer através da análise da voz, podendo transformar o diagnóstico da doença."
+        },
+        {
+          "headline": "Figueira da Foz acolhe Congresso de Cuidados Respiratórios",
+          "text": "A Figueira da Foz recebe a III edição do Congresso de Cuidados Respiratórios."
+        }
+      ]
+    }
+  ]
+}
