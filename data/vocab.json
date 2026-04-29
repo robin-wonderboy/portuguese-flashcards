@@ -11293,5 +11293,135 @@
       "example_de": "Der Kran stürzte während des Lastenumgangs",
       "example_en": "The crane fell during load handling"
     }
+  ],
+  "2026-04-29": [
+    {
+      "pt": "encharcado",
+      "de": "voll wie ein Kanal",
+      "en": "dead drunk / soaked",
+      "example": "O condutor encharcado foi detido após o acidente.",
+      "example_de": "Der stinkevolle Fahrer wurde nach dem Unfall festgenommen.",
+      "example_en": "The dead-drunk driver was arrested after the accident."
+    },
+    {
+      "pt": "a suinicultura",
+      "de": "die Schweinezucht",
+      "en": "pig farming",
+      "example": "A suinicultura foi contestada pela população local.",
+      "example_de": "Die Schweinezucht wurde von der örtlichen Bevölkerung bekämpft.",
+      "example_en": "The pig farm was contested by the local population."
+    },
+    {
+      "pt": "nauseabundo",
+      "de": "ekelerregend",
+      "en": "nauseating",
+      "example": "Os cheiros nauseabundos incomodavam os habitantes.",
+      "example_de": "Die ekelhaften Gerüche belästigten die Anwohner.",
+      "example_en": "The nauseating smells bothered the residents."
+    },
+    {
+      "pt": "a alcoolemia",
+      "de": "der Blutalkoholspiegel",
+      "en": "blood alcohol level",
+      "example": "O teste de alcoolemia acusou uma taxa acima do permitido.",
+      "example_de": "Der Blutalkoholtest zeigte einen Wert über dem Erlaubten.",
+      "example_en": "The blood alcohol test showed a level above the legal limit."
+    },
+    {
+      "pt": "contestar",
+      "de": "anfechten",
+      "en": "to contest / oppose",
+      "example": "A população contestava a exploração agropecuária.",
+      "example_de": "Die Bevölkerung focht die Viehwirtschaft an.",
+      "example_en": "The population contested the farming operation."
+    },
+    {
+      "pt": "a probidade",
+      "de": "die Redlichkeit",
+      "en": "probity / integrity",
+      "example": "A formação pretende robustecer a cultura de probidade.",
+      "example_de": "Die Ausbildung soll die Kultur der Redlichkeit stärken.",
+      "example_en": "The training aims to strengthen the culture of integrity."
+    },
+    {
+      "pt": "o empenho",
+      "de": "der Einsatz",
+      "en": "effort / commitment",
+      "example": "Estamos a fazer bem, com empenho.",
+      "example_de": "Wir machen es gut, mit Einsatz.",
+      "example_en": "We are doing it well, with commitment."
+    },
+    {
+      "pt": "a contratação pública",
+      "de": "die öffentliche Vergabe",
+      "en": "public procurement",
+      "example": "As sessões abordam contratação pública e combate à corrupção.",
+      "example_de": "Die Sitzungen behandeln öffentliche Vergabe und Korruptionsbekämpfung.",
+      "example_en": "The sessions cover public procurement and fighting corruption."
+    },
+    {
+      "pt": "o êxito",
+      "de": "der Hit / Erfolg",
+      "en": "hit / success",
+      "example": "Reconhecido pelo êxito Rise Up, Yves Larock é uma referência.",
+      "example_de": "Anerkannt für den Hit Rise Up, ist Yves Larock eine Referenz.",
+      "example_en": "Recognized for the hit Rise Up, Yves Larock is a reference."
+    },
+    {
+      "pt": "a iguaria",
+      "de": "die Delikatesse",
+      "en": "delicacy",
+      "example": "A francesinha é uma das iguarias mais emblemáticas de Portugal.",
+      "example_de": "Das Francesinha ist eine der emblematischsten Delikatessen Portugals.",
+      "example_en": "The francesinha is one of Portugal's most emblematic delicacies."
+    },
+    {
+      "pt": "a ardida",
+      "de": "die verbrannte Fläche",
+      "en": "burned area",
+      "example": "2025 teve a maior área ardida de sempre na Europa.",
+      "example_de": "2025 hatte die größte verbrannte Fläche in Europa je.",
+      "example_en": "2025 had the largest burned area ever in Europe."
+    },
+    {
+      "pt": "robustecer",
+      "de": "stärken",
+      "en": "to strengthen / fortify",
+      "example": "A formação pretende robustecer a cultura de probidade.",
+      "example_de": "Die Ausbildung soll die Kultur der Redlichkeit stärken.",
+      "example_en": "The training aims to strengthen the culture of integrity."
+    },
+    {
+      "pt": "a infração",
+      "de": "der Verstoß",
+      "en": "infraction / violation",
+      "example": "Foram registadas 16 mil infrações rodoviárias.",
+      "example_de": "Es wurden 16.000 Straßenverkehrsverstöße registriert.",
+      "example_en": "16 thousand road infractions were registered."
+    },
+    {
+      "pt": "a onda de calor",
+      "de": "die Hitzewelle",
+      "en": "heat wave",
+      "example": "Portugal registou seis ondas de calor em 2025.",
+      "example_de": "Portugal verzeichnete 2025 sechs Hitzewellen.",
+      "example_en": "Portugal registered six heat waves in 2025."
+    },
+    {
+      "pt": "farto",
+      "de": "müde / genervt",
+      "en": "fed up / tired of",
+      "example": "Os portugueses começam a ficar fartos de planos sem concretização.",
+      "example_de": "Die Portugiesen werden allmählich der Pläne ohne Umsetzung überdrüssig.",
+      "example_en": "The Portuguese are getting fed up with plans without implementation."
+    },
+    {
+      "pt": "o desencarceramento",
+      "de": "die Befreiung (aus Einklemmung)",
+      "en": "extrication / rescue from entrapment",
+      "example": "Não houve necessidade de materiais de desencarceramento.",
+      "example_de": "Es bestand kein Bedarf an Befreiungsmaterial.",
+      "example_en": "There was no need for extrication equipment."
+    }
   ]
 }
