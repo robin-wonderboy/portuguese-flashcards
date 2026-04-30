@@ -11423,5 +11423,119 @@
       "example_de": "Es bestand kein Bedarf an Befreiungsmaterial.",
       "example_en": "There was no need for extrication equipment."
     }
+  ],
+  "2026-04-30": [
+    {
+      "pt": "a matrícula",
+      "de": "das Kennzeichen",
+      "en": "license plate",
+      "example": "O sistema faz a leitura automática de matrículas.",
+      "example_de": "Das System liest Kennzeichen automatisch.",
+      "example_en": "The system reads license plates automatically."
+    },
+    {
+      "pt": "o fiador",
+      "de": "der Bürge",
+      "en": "guarantor",
+      "example": "Os pais entram como fiadores do crédito habitação.",
+      "example_de": "Die Eltern bürgen für den Wohnungskredit.",
+      "example_en": "The parents act as guarantors for the mortgage."
+    },
+    {
+      "pt": "a cesariana",
+      "de": "der Kaiserschnitt",
+      "en": "C-section",
+      "example": "A taxa de cesarianas bateu um recorde no SNS.",
+      "example_de": "Die Kaiserschnittrate im NHS erreichte einen Rekord.",
+      "example_en": "The C-section rate hit a record in the NHS."
+    },
+    {
+      "pt": "o numerário",
+      "de": "das Bargeld",
+      "en": "cash, money",
+      "example": "Foram apreendidos 4,8 milhões em numerário.",
+      "example_de": "Es wurden 4,8 Millionen Bargeld beschlagnahmt.",
+      "example_en": "4.8 million in cash was seized."
+    },
+    {
+      "pt": "a habitação",
+      "de": "die Wohnung, das Wohnen",
+      "en": "housing",
+      "example": "A estratégia local de habitação passa a abranger 91 famílias.",
+      "example_de": "Die lokale Wohnungsstrategie umfasst nun 91 Familien.",
+      "example_en": "The local housing strategy now covers 91 families."
+    },
+    {
+      "pt": "a caução",
+      "de": "die Kaution",
+      "en": "deposit, bond",
+      "example": "Fiador e dois meses de caução são regra no mercado privado.",
+      "example_de": "Bürge und zwei Monate Kaution sind im Privatmarkt die Regel.",
+      "example_en": "A guarantor and two months deposit are the rule in the private market."
+    },
+    {
+      "pt": "o compartimento",
+      "de": "das Abteil",
+      "en": "compartment",
+      "example": "O numerário estava escondido num compartimento falso da carrinha.",
+      "example_de": "Das Bargeld war in einem falschen Abteil des Vans versteckt.",
+      "example_en": "The cash was hidden in a false compartment of the van."
+    },
+    {
+      "pt": "interromper",
+      "de": "unterbrechen",
+      "en": "to interrupt",
+      "example": "A circulação na A1 estava interrompida entre a Mealhada e Coimbra.",
+      "example_de": "Der Verkehr auf der A1 war zwischen Mealhada und Coimbra unterbrochen.",
+      "example_en": "Traffic on the A1 was interrupted between Mealhada and Coimbra."
+    },
+    {
+      "pt": "instar",
+      "de": "drängen, auffordern",
+      "en": "to urge",
+      "example": "A Comissão Europeia instou os Estados-membros a implementar a verificação.",
+      "example_de": "Die EU-Kommission drängte die Mitgliedsstaaten zur Umsetzung.",
+      "example_en": "The European Commission urged member states to implement verification."
+    },
+    {
+      "pt": "abranger",
+      "de": "umfassen",
+      "en": "to cover, encompass",
+      "example": "A estratégia passa a abranger 91 famílias.",
+      "example_de": "Die Strategie umfasst nun 91 Familien.",
+      "example_en": "The strategy now covers 91 families."
+    },
+    {
+      "pt": "pesado",
+      "de": "schwer",
+      "en": "heavy",
+      "example": "O acidente envolveu três veículos pesados.",
+      "example_de": "Der Unfall involve drei schwere Fahrzeuge.",
+      "example_en": "The accident involved three heavy vehicles."
+    },
+    {
+      "pt": "insalubre",
+      "de": "gesundheitsschädlich",
+      "en": "unhealthy",
+      "example": "A estratégia identifica agregados em condições insalubres.",
+      "example_de": "Die Strategie identifiziert Haushalte in gesundheitsschädlichen Bedingungen.",
+      "example_en": "The strategy identifies households in unhealthy conditions."
+    },
+    {
+      "pt": "às cegas",
+      "de": "blindlings",
+      "en": "blindly (expression)",
+      "example": "Portugal está às cegas nas cesarianas por falta de dados.",
+      "example_de": "Portugal tappt bei Kaiserschnitten blindlings wegen fehlender Daten.",
+      "example_en": "Portugal is flying blind on C-sections due to lack of data."
+    },
+    {
+      "pt": "de alta gama",
+      "de": "High-End-",
+      "en": "high-end (expression)",
+      "example": "Foram apreendidas viaturas de alta gama e um iate.",
+      "example_de": "Es wurden High-End-Fahrzeuge und eine Yacht beschlagnahmt.",
+      "example_en": "High-end vehicles and a yacht were seized."
+    }
   ]
 }
