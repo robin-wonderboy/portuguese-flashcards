@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚧",
+      "category": "TRÂNSITO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "A1 cortada após colisão entre três camiões",
+          "text": "A autoestrada A1 ficou interrompida no sentido Norte-Sul entre a Mealhada e Coimbra após uma colisão entre três veículos pesados ao km 199. O alerta foi dado às 05h55 e a estrada ficou temporariamente fechada para remoção de veículos e limpeza da via. Um ferido ligeiro foi registado."
+        },
+        {
+          "headline": "Radares com IA vão vigiar tudo nas estradas?",
+          "text": "A inteligência artificial está a ganhar terreno na segurança rodoviária. Um novo radar da Reedspeed Rentio com câmara 4D pode monitorizar seis faixas em simultâneo, ler matrículas em tempo real e verificar automaticamente se veículos têm seguro válido. O sistema está em testes no Reino Unido com mais de cem unidades."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Coimbra pede mais polícia na rua",
+          "text": "Uma manifestação junto ao Comando Distrital da PSP pediu a reativação da 2.ª Equipa de Intervenção Rápida, desativada há dois anos. Os promotores argumentam que a ausência dos seis agentes que compunham a equipa aumentou a sensação de insegurança na Baixa de Coimbra e exigem transparência sobre os motivos da dissolução."
+        },
+        {
+          "headline": "Operação Teia Branca II: 4,8M€ apreendidos",
+          "text": "A PJ deteve um homem e constituiu seis arguidos na operação Teia Branca II, que resultou na apreensão de 4,8 milhões de euros em numerário escondido num compartimento falso de uma carrinha. Foram também apreendidos dois iates, viaturas de alta gama e obras pictóricas. A organização introduzia cocaína e haxixe na Península Ibérica por via marítima."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Portugal às cegas nas cesarianas",
+          "text": "A diretora-geral da Saúde reconheceu que a falta de um sistema integrado de dados impede conhecer o panorama completo das cesarianas. Em 2025, o SNS bateu recorde com mais de 22 mil cesarianas (+5%), atingindo 33,2% do total de partos. A maioria dos dados da DGS provém de recolha manual."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Cidade universitária = cidade cara",
+          "text": "Estudantes, investidores e jovens famílias competem pelo mesmo stock de imóveis nas cidades universitárias. Um quarto em Lisboa custa em média 500€/mês, em Coimbra 280€. Desde 2021, os valores subiram 36%. Apenas 10% dos 175 mil estudantes deslocados conseguem residência universitária pública."
+        },
+        {
+          "headline": "Lousã amplia estratégia de habitação para 91 famílias",
+          "text": "O município da Lousã aprovou a 1.ª alteração da Estratégia Local de Habitação, passando a abranger 91 famílias (173 pessoas). A nova modalidade permite aquisição de frações para habitação, com uma programação financeira de 3 milhões de euros para 2026-2027."
+        }
+      ]
+    },
+    {
+      "emoji": "⚡",
+      "category": "ENERGIA & CLIMA",
+      "stories": [
+        {
+          "headline": "A Autoestrada da Luz expõe vulnerabilidade elétrica",
+          "text": "A RTP1 transmite amanhã a reportagem A Autoestrada da Luz sobre a vulnerabilidade do sistema elétrico nacional. A tempestade Kristin deixou 1 milhão de portugueses sem eletricidade e 800 pessoas em Pilado (Marinha Grande) ficaram 35 dias sem energia. O programa questiona a preparação do país para eventos climáticos extremos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & TRABALHO",
+      "stories": [
+        {
+          "headline": "Revisão laboral é reforma essencial, diz ministra",
+          "text": "A ministra do Trabalho afirmou que a revisão laboral é uma das três reformas essenciais do Governo, ao lado da reforma do Estado e da reforma fiscal. Portugal é o 2.º país da OCDE com legislação laboral mais rígida, com produtividade 25% abaixo da média europeia e salários 35% abaixo. A CGTP poderá marcar nova greve geral para 2 de junho."
+        },
+        {
+          "headline": "UE quer verificação de idade nas redes sociais",
+          "text": "A Comissão Europeia instou os Estados-membros a implementar serviços de verificação de idade nas redes sociais até ao final do ano. O modelo da CE, em open source, permite verificar se o utilizador tem 18+ sem revelar dados pessoais, inspirado nos certificados digitais da covid-19."
+        }
+      ]
+    },
+    {
+      "emoji": "🏟️",
+      "category": "DESPORTO & CULTURA",
+      "stories": [
+        {
+          "headline": "Toyota testa em Pampilhosa da Serra para o Rally de Portugal",
+          "text": "A equipa Toyota Gazoo Racing realizou testes em Pampilhosa da Serra com os pilotos Oliver Solberg e Elfyn Evans. O Rally de Portugal regressa de 7 a 10 de maio, trazendo os melhores pilotos mundiais aos troços do Norte e Centro do país."
+        },
+        {
+          "headline": "UTMB World Series chega à Serra da Estrela",
+          "text": "O OH MEU DEUS by UTMB reúne mais de 2200 atletas de 62 países entre 1 e 3 de maio. A corrida de trail passa pelas serras do Açor e da Lousã e deverá gerar um impacto económico de mais de 2 milhões de euros, com 3 a 4 mil pessoas em Seia."
+        },
+        {
+          "headline": "Blasted Mechanism marcam 30 anos com edições inéditas",
+          "text": "A banda portuguesa lança Battle of Tribes a 8 de maio e um álbum ao vivo de 25 temas gravado na MEO Arena a 17 de julho. A RTP2 estreia documentário a 14 de maio e transmite o concerto a 17 de maio."
+        }
+      ]
+    }
+  ]
+}
