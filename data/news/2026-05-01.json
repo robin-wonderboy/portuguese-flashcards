@@ -1,0 +1,130 @@
+{
+  "date": "2026-05-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PSP evita tragédia em Coimbra: agente imobiliza homem armado com facalhão",
+          "text": "Um homem de ~50 anos agrediu um vizinho de 68 com uma faca de grandes dimensões na Rua Guerra Junqueiro. Um agente da PSP atirou-se para cima do suspeito e desarmou-o, evitando consequências fatais. A vítima foi encaminhada para o hospital."
+        },
+        {
+          "headline": "PJ desmantela grupo que roubava criptomoedas em ataques violentos",
+          "text": "Nove cidadãos estrangeiros planearam ataques paramilitares na zona de Castelo Branco e Idanha-a-Nova para roubar bitcoins. Em 2020, obrigaram vítimas a transferir ~3 milhões de euros em criptomoedas. O último elemento foi extraditado do Reino Unido."
+        },
+        {
+          "headline": "Vai haver reforço de videovigilância na cidade de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Tentam roubar ourives com arma de fogo e colocam-se em fuga",
+          "text": ""
+        },
+        {
+          "headline": "GNR detém casal com seis mil doses de droga",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "REGIÃO & PRAIAS",
+      "stories": [
+        {
+          "headline": "Praia de Mira faz história com 40 anos consecutivos de Bandeira Azul",
+          "text": "A Praia de Mira é a única estância balnear do mundo com o galardão ininterruptamente desde 1987. Vai ser o palco do hastear da primeira Bandeira Azul costeira do país a 8 de junho. Portugal tem 438 praias, marinas e embarcações galardoadas este ano."
+        },
+        {
+          "headline": "Crime em Condeixa: gata grávida encontrada morta dentro do contentor do lixo — filhotes sobrevivem",
+          "text": ""
+        },
+        {
+          "headline": "Há uma feira em Mira dedicada aos grelos (e pode provar gin e gelado de nabo)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Convento São Francisco enche maio com música, humor e ópera",
+          "text": ""
+        },
+        {
+          "headline": "Portugal dos Pequenitos promove mês dedicado à descoberta e criatividade",
+          "text": ""
+        },
+        {
+          "headline": "Coimbra celebra o jazz com festa, concerto gratuito e uma ideia que quer mudar a Baixa",
+          "text": ""
+        },
+        {
+          "headline": "Pampilhosa da Serra recebe um dos escritores mais lidos de Portugal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "✊",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "1.º de Maio: CGTP e UGT esperam milhares nas iniciativas de Norte a Sul",
+          "text": ""
+        },
+        {
+          "headline": "Portugueses trabalham mais do que a maioria dos europeus",
+          "text": ""
+        },
+        {
+          "headline": "Inflação acelera para 3,4% em abril devido à subida dos combustíveis",
+          "text": ""
+        },
+        {
+          "headline": "Moratórias de crédito prolongadas por mais 12 meses após mau tempo",
+          "text": ""
+        },
+        {
+          "headline": "PS vai propor que futuros governos estejam obrigados a executar PTRR",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS 24 emitiu ~1,5 milhões de autodeclarações de doença em três anos",
+          "text": ""
+        },
+        {
+          "headline": "ULS de Coimbra promove debate sobre assédio e saúde mental",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Estudo da UC revela visão anacrónica da profissão de enfermeiro",
+          "text": ""
+        },
+        {
+          "headline": "UC celebra Dia Mundial da Língua Portuguesa com conferência do Embaixador de Timor-Leste",
+          "text": ""
+        },
+        {
+          "headline": "Falta de financiamento é problema na descentralização da Educação na região",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
