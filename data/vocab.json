@@ -11537,5 +11537,135 @@
       "example_de": "Es wurden High-End-Fahrzeuge und eine Yacht beschlagnahmt.",
       "example_en": "High-end vehicles and a yacht were seized."
     }
+  ],
+  "2026-05-01": [
+    {
+      "pt": "a autodeclaração",
+      "de": "die Selbsterklärung",
+      "en": "self-declaration",
+      "example": "SNS 24 emitiu 1,5 milhões de autodeclarações de doença",
+      "example_de": "SNS 24 stellte 1,5 Millionen Krankheits-Selbsterklärungen aus",
+      "example_en": "SNS 24 issued 1.5 million illness self-declarations"
+    },
+    {
+      "pt": "o contentor do lixo",
+      "de": "der Müllcontainer",
+      "en": "dumpster",
+      "example": "Gata encontrada morta dentro do contentor do lixo",
+      "example_de": "Katze tot im Müllcontainer gefunden",
+      "example_en": "Cat found dead inside the dumpster"
+    },
+    {
+      "pt": "galardoado",
+      "de": "ausgezeichnet",
+      "en": "awarded/decorated",
+      "example": "A Praia de Mira permanece como a única estância balnear galardoada",
+      "example_de": "Praia de Mira bleibt als einziger ausgezeichneter Badeort",
+      "example_en": "Praia de Mira remains the only awarded seaside resort"
+    },
+    {
+      "pt": "o arranque",
+      "de": "der Start/Auftakt",
+      "en": "start/kickoff",
+      "example": "Arranque oficial da época balnear",
+      "example_de": "Offizieller Start der Badesaison",
+      "example_en": "Official kickoff of the bathing season"
+    },
+    {
+      "pt": "a moratória",
+      "de": "die Moratorium/Stundung",
+      "en": "moratorium/deferral",
+      "example": "Moratórias de crédito prolongadas por mais 12 meses",
+      "example_de": "Kreditmoratorien um weitere 12 Monate verlängert",
+      "example_en": "Credit moratoriums extended for another 12 months"
+    },
+    {
+      "pt": "recorrente",
+      "de": "wiederkehrend",
+      "en": "recurring",
+      "example": "Situações semelhantes eram recorrentes",
+      "example_de": "Ähnliche Situationen waren wiederkehrend",
+      "example_en": "Similar situations were recurring"
+    },
+    {
+      "pt": "a criptomoeda",
+      "de": "die Kryptowährung",
+      "en": "cryptocurrency",
+      "example": "Grupo que roubava criptomoedas em ataques violentos",
+      "example_de": "Gruppe die Kryptowährungen bei gewaltsamen Angriffen raubte",
+      "example_en": "Group that robbed cryptocurrencies in violent attacks"
+    },
+    {
+      "pt": "extraditar",
+      "de": "ausliefern",
+      "en": "to extradite",
+      "example": "Foi extraditado do Reino Unido para Portugal",
+      "example_de": "Wurde aus dem Vereinigten Königreich nach Portugal ausgeliefert",
+      "example_en": "Was extradited from the UK to Portugal"
+    },
+    {
+      "pt": "o regadio",
+      "de": "die Bewässerung",
+      "en": "irrigation",
+      "example": "Governo apoia regadio com 60 ME",
+      "example_de": "Regierung unterstützt Bewässerung mit 60 ME",
+      "example_en": "Government supports irrigation with 60 ME"
+    },
+    {
+      "pt": "a balneabilidade",
+      "de": "die Badewasserqualität",
+      "en": "bathability/water quality",
+      "example": "Condições climatéricas penalizaram a balneabilidade",
+      "example_de": "Witterungsbedingungen beeinträchtigten die Badewasserqualität",
+      "example_en": "Weather conditions penalized water quality"
+    },
+    {
+      "pt": "o encaminhamento",
+      "de": "die Weiterleitung",
+      "en": "referral/routing",
+      "example": "Acabou encaminhado para o hospital",
+      "example_de": "Wurde schließlich ins Krankenhaus überwiesen",
+      "example_en": "Was eventually referred to the hospital"
+    },
+    {
+      "pt": "a segurança pública",
+      "de": "die öffentliche Sicherheit",
+      "en": "public security",
+      "example": "A rápida intervenção da polícia foi decisiva",
+      "example_de": "Das schnelle Eingreifen der Polizei war entscheidend",
+      "example_en": "The quick police intervention was decisive"
+    },
+    {
+      "pt": "hastear",
+      "de": "hissen",
+      "en": "to hoist (a flag)",
+      "example": "Hastear da primeira Bandeira Azul",
+      "example_de": "Hissen der ersten Blauen Flagge",
+      "example_en": "Hoisting of the first Blue Flag"
+    },
+    {
+      "pt": "a videovigilância",
+      "de": "die Videoüberwachung",
+      "en": "video surveillance",
+      "example": "Reforço de videovigilância na cidade de Coimbra",
+      "example_de": "Verstärkung der Videoüberwachung in Coimbra",
+      "example_en": "Reinforcement of video surveillance in the city of Coimbra"
+    },
+    {
+      "pt": "a anacrónica",
+      "de": "rückständig/veraltet",
+      "en": "anachronistic/outdated",
+      "example": "Visão anacrónica da profissão de enfermeiro",
+      "example_de": "Rückständige Sicht des Pflegeberufs",
+      "example_en": "Anachronistic view of the nursing profession"
+    },
+    {
+      "pt": "o suspeito",
+      "de": "der Verdächtige",
+      "en": "suspect",
+      "example": "O homem acabou algemado",
+      "example_de": "Der Mann wurde schließlich Handschellen angelegt",
+      "example_en": "The man ended up handcuffed"
+    }
   ]
 }
