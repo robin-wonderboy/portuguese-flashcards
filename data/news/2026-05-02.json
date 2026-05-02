@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Incêndio deixa centro de dia em Cantanhede de portas fechadas",
+          "text": "Um incêndio danificou o centro de dia em Cantanhede, forçando o encerramento temporário da instalação. Ainda não há informação sobre quando reabrirá."
+        },
+        {
+          "headline": "Bombeiros salvam cão que caiu a poço em Arganil",
+          "text": "Final feliz em Arganil: os bombeiros conseguiram resgatar um cão que tinha caído num poço. O animal está bem de saúde."
+        },
+        {
+          "headline": "Pampilhosa da Serra inaugura nova entrada urbana com homenagem aos cantoneiros",
+          "text": "A nova entrada urbana de Pampilhosa da Serra foi inaugurada com uma homenagem especial aos cantoneiros que construíram as estradas da região."
+        },
+        {
+          "headline": "Góis ganha novo spot no mapa das praias deste verão",
+          "text": "Um novo ponto de praia em Góis entra para o mapa oficial de praias fluviais para o verão de 2026."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & TRABALHO",
+      "stories": [
+        {
+          "headline": "Encerramento das urgências dos Covões volta a ser criticado no 1.º de Maio",
+          "text": "No Dia do Trabalhador, manifestantes voltaram a criticar o encerramento das urgências dos Covões, responsabilizando o Governo pela situação."
+        },
+        {
+          "headline": "Coimbra sai à rua no Dia do Trabalhador contra precariedade",
+          "text": "Milhares de trabalhadores e jovens protestaram em Coimbra contra a precariedade e a reforma laboral do Governo. A juventude pediu melhores salários e menos precariedade."
+        },
+        {
+          "headline": "Hospitais da UC recebem conferência sobre assédio e saúde mental",
+          "text": "Os Hospitais da Universidade de Coimbra acolhem uma conferência dedicada ao assédio no local de trabalho e à saúde mental dos profissionais."
+        },
+        {
+          "headline": "Ordem dos Psicólogos alerta para sinais de burnout",
+          "text": "A Ordem dos Psicólogos lançou um alerta para os sinais de burnout, especialmente em profissionais de saúde e educação."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "36 milhões para remodelar a maior ETAR de Coimbra",
+          "text": "O investimento de 36 milhões de euros vai permitir a remodelação e ampliação da maior Estação de Tratamento de Águas Residuais da região de Coimbra."
+        },
+        {
+          "headline": "CGTP apela à greve geral de 3 de junho contra pacote laboral",
+          "text": "A CGTP convocou greve geral para 3 de junho contra a reforma laboral do Governo. A UGT garante que não cederá nas traves mestras da negociação."
+        },
+        {
+          "headline": "Presidente da República critica precariedade e defende trabalho digno",
+          "text": "Marcelo Rebelo de Sousa voltou a criticar a precariedade laboral e defendeu que todos os trabalhadores têm direito a uma vida digna."
+        },
+        {
+          "headline": "Novo arrombo nos combustíveis",
+          "text": "Os preços dos combustíveis vão subir novamente, colocando mais pressão sobre os condutores portugueses."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Ex-dirigente do Chega condenado por ataque com faca e mangueira",
+          "text": "Um ex-dirigente do Chega em Oliveira do Hospital foi condenado após um ataque violento com faca e mangueira."
+        },
+        {
+          "headline": "GNR apanha grupo em flagrante a cortar cabos de cobre",
+          "text": "A GNR detetou um grupo em flagrante delito enquanto cortava cabos de cobre, crime que tem afetado infraestruturas na região."
+        },
+        {
+          "headline": "Rixa em café termina com esfaqueamento",
+          "text": "Uma rixa num café terminou com um esfaqueamento. A PSP já deteve o suspeito."
+        },
+        {
+          "headline": "Casal apanhado na pouca vergonha na rua",
+          "text": "Um casal foi apanhado em ato público indecente na rua, tendo sido acionadas as autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Professora desaparecida há dois meses encontrada morta",
+          "text": "A professora que tinha desaparecido há dois meses foi encontrada morta. As autoridades estão a investigar as circunstâncias."
+        },
+        {
+          "headline": "Insuflável solta-se e leva duas crianças",
+          "text": "Um insuflável soltou-se com vento e levou duas crianças, que foram resgatadas. O incident levanta questões sobre a segurança dos parques infantis."
+        },
+        {
+          "headline": "Carro cai em ravina e mata cinco jovens",
+          "text": "Um acidente grave em que um carro caiu numa ravina causou a morte de cinco jovens. As causas do acidente estão a ser investigadas."
+        },
+        {
+          "headline": "Tubarão de 3 metros morto à paulada nos Açores gera indignação",
+          "text": "Um tubarão de 3 metros foi morto a pauladas nos Açores, gerando indignação e uma denúncia formal às autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival do Queijo do Rabaçal está de volta com queijo gigante",
+          "text": "O festival mais delicioso da região regressa ao Rabaçal, com provas de queijo gigante e atividades para toda a família."
+        },
+        {
+          "headline": "Comer cabrito e escarpiada em Condeixa",
+          "text": "Condeixa recebe dois fins de semana dedicados ao cabrito e à escarpiada, pratos tradicionais da região."
+        },
+        {
+          "headline": "Praia de Mira capital da Bandeira Azul — 40 anos consecutivos",
+          "text": "A Praia de Mira é a única praia portuguesa que nunca perdeu a Bandeira Azul em 40 anos, mantendo o título de capital da qualidade."
+        }
+      ]
+    }
+  ]
+}
