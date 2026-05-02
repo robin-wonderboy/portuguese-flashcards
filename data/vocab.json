@@ -11667,5 +11667,127 @@
       "example_de": "Der Mann wurde schließlich Handschellen angelegt",
       "example_en": "The man ended up handcuffed"
     }
+  ],
+  "2026-05-02": [
+    {
+      "pt": "o incêndio",
+      "de": "der Brand",
+      "en": "the fire",
+      "example": "O incêndio destruiu o centro de dia.",
+      "example_de": "Der Brand zerstörte das Tageszentrum.",
+      "example_en": "The fire destroyed the day center."
+    },
+    {
+      "pt": "o esfaqueamento",
+      "de": "die Messerstecherei",
+      "en": "the stabbing",
+      "example": "A rixa terminou com esfaqueamento.",
+      "example_de": "Die Schlägerei endete mit einer Messerstecherei.",
+      "example_en": "The brawl ended with a stabbing."
+    },
+    {
+      "pt": "a precariedade",
+      "de": "die Prekarität",
+      "en": "the precariousness",
+      "example": "Queremos menos precariedade no trabalho.",
+      "example_de": "Wir wollen weniger Prekarität bei der Arbeit.",
+      "example_en": "We want less precariousness in work."
+    },
+    {
+      "pt": "salvar",
+      "de": "retten",
+      "en": "to save, rescue",
+      "example": "Os bombeiros salvaram o cão do poço.",
+      "example_de": "Die Feuerwehr rettete den Hund aus dem Brunnen.",
+      "example_en": "The firefighters rescued the dog from the well."
+    },
+    {
+      "pt": "a greve geral",
+      "de": "der Generalstreik",
+      "en": "the general strike",
+      "example": "A CGTP apela à adesão à greve geral.",
+      "example_de": "Die CGTP ruft zur Teilnahme am Generalstreik auf.",
+      "example_en": "The CGTP calls for participation in the general strike."
+    },
+    {
+      "pt": "o flagrante",
+      "de": "auf frischer Tat",
+      "en": "in the act, red-handed",
+      "example": "A GNR apanhou o grupo em flagrante.",
+      "example_de": "Die GNR erwischte die Gruppe auf frischer Tat.",
+      "example_en": "The GNR caught the group red-handed."
+    },
+    {
+      "pt": "a remodelação",
+      "de": "die Umbauung",
+      "en": "the renovation, remodeling",
+      "example": "Vai haver remodelação da maior ETAR de Coimbra.",
+      "example_de": "Die größte Kläranlage von Coimbra wird umgebaut.",
+      "example_en": "The largest wastewater treatment plant in Coimbra will be renovated."
+    },
+    {
+      "pt": "desaparecido",
+      "de": "verschwunden",
+      "en": "missing, disappeared",
+      "example": "A professora desaparecida foi encontrada morta.",
+      "example_de": "Die verschwundene Lehrerin wurde tot aufgefunden.",
+      "example_en": "The missing teacher was found dead."
+    },
+    {
+      "pt": "o cantoneiro",
+      "de": "der Straßenarbeiter",
+      "en": "the road worker",
+      "example": "A nova entrada urbana homenageia os cantoneiros.",
+      "example_de": "Der neue Stadteingang ehrt die Straßenarbeiter.",
+      "example_en": "The new urban entrance pays tribute to road workers."
+    },
+    {
+      "pt": "o escarpiada",
+      "de": "der Striezel",
+      "en": "the escarpiada (regional sweet bread)",
+      "example": "Comer cabrito e escarpiada em Condeixa.",
+      "example_de": "Ziegenfleisch und Striezel in Condeixa essen.",
+      "example_en": "Eating roast goat and escarpiada in Condeixa."
+    },
+    {
+      "pt": "o trafego",
+      "de": "der Verkehr",
+      "en": "the traffic",
+      "example": "Atenção condutores: condicionamentos no IC2.",
+      "example_de": "Achtung Autofahrer: Behinderungen auf der IC2.",
+      "example_en": "Attention drivers: restrictions on the IC2."
+    },
+    {
+      "pt": "o arrombo",
+      "de": "der Preisschub",
+      "en": "the price hike, rip-off",
+      "example": "Prepare a carteira para o novo arrombo nos combustíveis.",
+      "example_de": "Machen Sie sich auf einen neuen Preisschub bei den Kraftstoffen gefasst.",
+      "example_en": "Get your wallet ready for the new price hike in fuel."
+    },
+    {
+      "pt": "o conimbricense",
+      "de": "der Coimbrenser",
+      "en": "the person from Coimbra",
+      "example": "O conimbricense retido por Israel foi localizado.",
+      "example_de": "Der von Israel festgehaltene Coimbrenser wurde lokalisiert.",
+      "example_en": "The Coimbra resident held by Israel has been located."
+    },
+    {
+      "pt": "aprisionado",
+      "de": "gefangen",
+      "en": "imprisoned, held captive",
+      "example": "A família já sabe que está aprisionado.",
+      "example_de": "Die Familie weiß bereits, dass er gefangen ist.",
+      "example_en": "The family now knows he is being held captive."
+    },
+    {
+      "pt": "a cascata",
+      "de": "der Wasserfall",
+      "en": "the waterfall",
+      "example": "Este oásis com cascata fica a 2 horas de Coimbra.",
+      "example_de": "Diese Oase mit Wasserfall ist 2 Stunden von Coimbra entfernt.",
+      "example_en": "This oasis with a waterfall is 2 hours from Coimbra."
+    }
   ]
 }
