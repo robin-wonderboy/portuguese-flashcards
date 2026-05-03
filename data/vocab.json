@@ -11789,5 +11789,135 @@
       "example_de": "Diese Oase mit Wasserfall ist 2 Stunden von Coimbra entfernt.",
       "example_en": "This oasis with a waterfall is 2 hours from Coimbra."
     }
+  ],
+  "2026-05-03": [
+    {
+      "pt": "a agressão",
+      "de": "der Angriff",
+      "en": "the assault",
+      "example": "A agressão partiu de uma cliente",
+      "example_de": "Der Angriff ging von einer Kundin aus",
+      "example_en": "The assault came from a customer"
+    },
+    {
+      "pt": "o bastão",
+      "de": "der Knüppel",
+      "en": "the baton/club",
+      "example": "Homem agredido com bastão dentro de loja",
+      "example_de": "Mann mit einem Knüppel in einem Laden angegriffen",
+      "example_en": "Man assaulted with a baton inside a store"
+    },
+    {
+      "pt": "reintroduzir",
+      "de": "wieder einführen",
+      "en": "to reintroduce",
+      "example": "Serra da Malcata será área de reintrodução do lince",
+      "example_de": "Serra da Malcata wird ein Wiedereinführungsgebiet für den Luchs",
+      "example_en": "Serra da Malcata will be a reintroduction area for the lynx"
+    },
+    {
+      "pt": "a machadada",
+      "de": "der Hieb/der Schlag",
+      "en": "the crushing blow",
+      "example": "A proposta é a machadada em cima da desgraça",
+      "example_de": "Der Vorschlag ist der Schlag auf das Unglück",
+      "example_en": "The proposal is a crushing blow on top of the disaster"
+    },
+    {
+      "pt": "à borla",
+      "de": "umsonst/gratis",
+      "en": "for free/dirt cheap",
+      "example": "É para trabalhar à borla",
+      "example_de": "Es ist, umsonst zu arbeiten",
+      "example_en": "It means working for free"
+    },
+    {
+      "pt": "rendem-se",
+      "de": "sich ergeben",
+      "en": "surrender/give in",
+      "example": "Bárbara Bandeira rende-se a Coimbra",
+      "example_de": "Bárbara Bandeira ergibt sich Coimbra",
+      "example_en": "Bárbara Bandeira gives in to Coimbra"
+    },
+    {
+      "pt": "o confrade",
+      "de": "der Bruder/Ordensbruder",
+      "en": "the brother (confraternity)",
+      "example": "Cerca de 50 confrades reuniram-se",
+      "example_de": "Etwa 50 Ordensbrüder versammelten sich",
+      "example_en": "About 50 confreres gathered"
+    },
+    {
+      "pt": "o vitivinícola",
+      "de": "der Weinbau",
+      "en": "the viticulture/wine sector",
+      "example": "Mercado chinês é aposta do setor vitivinícola",
+      "example_de": "Der chinesische Markt ist eine Wette des Weinbaus",
+      "example_en": "The Chinese market is a bet for the wine sector"
+    },
+    {
+      "pt": "a agulha no palheiro",
+      "de": "die Nadel im Heuhaufen",
+      "en": "needle in a haystack",
+      "example": "Encontrar o parceiro certo é como uma agulha no palheiro",
+      "example_de": "Den richtigen Partner finden ist wie die Nadel im Heuhaufen",
+      "example_en": "Finding the right partner is like a needle in a haystack"
+    },
+    {
+      "pt": "desregular",
+      "de": "deregulieren",
+      "en": "to deregulate",
+      "example": "O horário é para desregular",
+      "example_de": "Die Arbeitszeit soll dereguliert werden",
+      "example_en": "The schedule is meant to be deregulated"
+    },
+    {
+      "pt": "a tarifas",
+      "de": "die Zölle/Tarife",
+      "en": "the tariffs",
+      "example": "Aumentar para 25% as tarifas sobre automóveis",
+      "example_de": "Die Zölle auf Autos auf 25% erhöhen",
+      "example_en": "Raise tariffs on cars to 25%"
+    },
+    {
+      "pt": "a desescalada",
+      "de": "die Deeskalation",
+      "en": "de-escalation",
+      "example": "Apelou à desescalada e à rápida abertura de negociações",
+      "example_de": "Er appellierte an Deeskalation und schnelle Verhandlungseröffnung",
+      "example_en": "He appealed for de-escalation and rapid opening of negotiations"
+    },
+    {
+      "pt": "o lince",
+      "de": "der Luchs",
+      "en": "the lynx",
+      "example": "A Serra da Malcata será área de reintrodução do lince ibérico",
+      "example_de": "Die Serra da Malcata wird Wiedereinführungsgebiet des Iberischen Luchses",
+      "example_en": "Serra da Malcata will be a reintroduction area for the Iberian lynx"
+    },
+    {
+      "pt": "a retrosparia",
+      "de": "das Kurzwarengeschäft",
+      "en": "the haberdashery store",
+      "example": "Agressão no interior de uma retrosaria",
+      "example_de": "Angriff im Inneren eines Kurzwarengeschäfts",
+      "example_en": "Assault inside a haberdashery store"
+    },
+    {
+      "pt": "a vitória",
+      "de": "der Sieg",
+      "en": "the victory",
+      "example": "Vitória frente ao Alverca por 1-0",
+      "example_de": "Sieg gegen Alverca mit 1-0",
+      "example_en": "Victory against Alverca 1-0"
+    },
+    {
+      "pt": "o encantam",
+      "de": "bezaubern",
+      "en": "to enchant/captivate",
+      "example": "Bárbara Bandeira voltou a encantar",
+      "example_de": "Bárbara Bandeira bezauberte erneut",
+      "example_en": "Bárbara Bandeira captivated again"
+    }
   ]
 }
