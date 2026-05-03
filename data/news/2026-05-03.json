@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "FC Porto é campeão nacional pela 31.ª vez",
+          "text": "O FC Porto sagrou-se campeão nacional após vencer o Alverca por 1-0 no Estádio do Dragão. Com 85 pontos, ficou a nove do Benfica e a doze do Sporting, faltando duas jornadas para o fim."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Bárbara Bandeira rende-se a Coimbra: \"Sinto-me em casa\"",
+          "text": "Cerca de 300 fãs marcaram presença no showcase de Bárbara Bandeira no Secret Spot do Forum Coimbra. A cantora, que envergou uma camisola vintage da seleção, explicou que a turné \"Lusa\" homenageia a portugalidade. Manifestou ainda o desejo de atuar nas Noites do Parque da Queima das Fitas."
+        },
+        {
+          "headline": "Real Confraria da Cabra Velha recria almoço ancestral em Semide",
+          "text": "Cerca de 50 confrades reuniram-se no Mosteiro de Semide para o 21.º Capítulo. O almoço solene no Refeitório Ancestral reafirmou a ligação entre a Confraria e o berço da chanfana."
+        }
+      ]
+    },
+    {
+      "emoji": "🦁",
+      "category": "AMBIENTE",
+      "stories": [
+        {
+          "headline": "Serra da Malcata será nova área de reintrodução do lince ibérico",
+          "text": "A ministra do Ambiente apresentou o PACLIP 2026-2030, que prevê criar oito novos núcleos populacionais. A Serra da Malcata será a nova área de reintrodução em Portugal, começando com uma zona cercada grande. O atropelamento continua a ser a principal causa de morte da espécie."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PCP desafia Governo a retirar proposta laboral antes da greve geral",
+          "text": "Paulo Raimundo desafiou o Governo a retirar o pacote laboral antes de 3 de junho. Montenegro recusou, dizendo que \"não abandona as suas convicções\". O líder comunista classificou a proposta como \"a machadada em cima da desgraça\", alertando para o aumento da precariedade."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Carros de luxo invadem Coimbra",
+          "text": "Ferraris, Lamborghinis e Porsches estacionaram junto a hotéis de Coimbra antes do evento Gathering Supercars em Leiria, um dos maiores encontros de super e hipercarros da Europa."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Mercado chinês é aposta do setor vitivinícola apesar de quebra de 50%",
+          "text": "As importações chinesas de vinho caíram para metade face a 2018. Francisco Henriques, da China Wines & Spirits, descreveu um mercado \"em vias de maturidade\" onde os jovens \"bebem menos e bebem diferente\". Encontrar o parceiro certo é \"como uma agulha no palheiro\"."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Indústria europeia apela a negociações rápidas após tarifas de Trump",
+          "text": "A Associação Alemã da Indústria Automóvel apelou à desescalada após Trump anunciar tarifas de 25% sobre automóveis e camiões da UE. A Comissão Europeia desmentiu violações do acordo e manteve opções de retaliação."
+        }
+      ]
+    },
+    {
+      "emoji": "🧠",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "HUC recebem conferência sobre assédio e saúde mental a 6 de maio",
+          "text": "O evento reunirá especialistas para debater assédio moral, sexual e gaslighting em contextos laborais e académicos. A conferência é organizada pela WGH Portugal em parceria com a ULS de Coimbra e a Universidade de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "CRIMES",
+      "stories": [
+        {
+          "headline": "Homem agredido com bastão dentro de loja em Vila Nova de Gaia",
+          "text": "Uma cliente começou a partir vidros dentro de uma retrosparia e agrediu o marido da proprietária com um bastão quando este tentou defendê-la. A PSP deteve a agressora por resistência e coação sobre os agentes."
+        }
+      ]
+    }
+  ]
+}
