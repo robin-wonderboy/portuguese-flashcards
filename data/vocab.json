@@ -11919,5 +11919,103 @@
       "example_de": "Bárbara Bandeira bezauberte erneut",
       "example_en": "Bárbara Bandeira captivated again"
     }
+  ],
+  "2026-05-04": [
+    {
+      "pt": "o racismo",
+      "de": "der Rassismus",
+      "en": "racism",
+      "example": "Jovem atleta vítima de racismo",
+      "example_de": "Junger Athlet Opfer von Rassismus",
+      "example_en": "Young athlete victim of racism"
+    },
+    {
+      "pt": "o refugiado",
+      "de": "der Flüchtling",
+      "en": "the refugee",
+      "example": "Portugal mantém recusa de receber novos refugiados",
+      "example_de": "Portugal weigert sich weiterhin, neue Flüchtlinge aufzunehmen",
+      "example_en": "Portugal maintains refusal to accept new refugees"
+    },
+    {
+      "pt": "o litígio",
+      "de": "der Rechtsstreit",
+      "en": "the lawsuit, dispute",
+      "example": "Até que o litígio esteja concluído",
+      "example_de": "Bis der Rechtsstreit abgeschlossen ist",
+      "example_en": "Until the dispute is resolved"
+    },
+    {
+      "pt": "o cruzeiro",
+      "de": "die Kreuzfahrt",
+      "en": "cruise",
+      "example": "Passageira resgatada de navio de cruzeiro",
+      "example_de": "Passagierin von Kreuzfahrtschiff gerettet",
+      "example_en": "Passenger rescued from cruise ship"
+    },
+    {
+      "pt": "o enfarte",
+      "de": "der Herzinfarkt",
+      "en": "heart attack",
+      "example": "Passageira com sintomas de enfarte",
+      "example_de": "Passagierin mit Herzinfarkt-Symptomen",
+      "example_en": "Passenger with heart attack symptoms"
+    },
+    {
+      "pt": "o locutor",
+      "de": "der Sprecher, Moderator",
+      "en": "broadcaster, announcer",
+      "example": "Antigo locutor de rádio e televisão",
+      "example_de": "Ehemaliger Radio- und Fernsehmoderator",
+      "example_en": "Former radio and television broadcaster"
+    },
+    {
+      "pt": "sancionar",
+      "de": "sanktionieren, ahnden",
+      "en": "to sanction, penalize",
+      "example": "Situações devem ser apuradas e sancionadas",
+      "example_de": "Situationen müssen aufgeklärt und sanktioniert werden",
+      "example_en": "Situations must be investigated and sanctioned"
+    },
+    {
+      "pt": "a regularização",
+      "de": "die Legalisierung, Regulierung",
+      "en": "regularization",
+      "example": "Acelerou a conclusão do processo de regularização",
+      "example_de": "Beschleunigte den Abschluss des Legalisierungsverfahrens",
+      "example_en": "Accelerated the conclusion of the regularization process"
+    },
+    {
+      "pt": "a insensibilidade",
+      "de": "die Gefühllosigkeit, Unempfindlichkeit",
+      "en": "insensitivity",
+      "example": "O Governo revela enorme insensibilidade",
+      "example_de": "Die Regierung zeigt große Gefühllosigkeit",
+      "example_en": "The Government reveals enormous insensitivity"
+    },
+    {
+      "pt": "a imigração",
+      "de": "die Einwanderung",
+      "en": "immigration",
+      "example": "Secretário de Estado da Imigração",
+      "example_de": "Staatssekretär für Einwanderung",
+      "example_en": "Secretary of State for Immigration"
+    },
+    {
+      "pt": "a competência",
+      "de": "die Zuständigkeit, Kompetenz",
+      "en": "competence, jurisdiction",
+      "example": "Debate transferência de competências na área da educação",
+      "example_de": "Debatte über Kompetenzübertragung im Bildungsbereich",
+      "example_en": "Debate on transfer of competencies in education"
+    },
+    {
+      "pt": "a descentralização",
+      "de": "die Dezentralisierung",
+      "en": "decentralization",
+      "example": "Descentralização educativa na região",
+      "example_de": "Dezentralisierung der Bildung in der Region",
+      "example_en": "Educational decentralization in the region"
+    }
   ]
 }
