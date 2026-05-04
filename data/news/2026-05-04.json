@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Incêndio em Coimbra obriga a evacuar moradores",
+          "text": "Um incêndio deflagrou numa habitação na Rua Guerra Junqueiro, em Coimbra, na manhã de 4 de maio. Os bombeiros foram acionados por volta das 6:30 e moradores tiveram de ser evacuados. A rua ficou cortada ao trânsito."
+        },
+        {
+          "headline": "Chamas deflagram numa habitação em Coimbra",
+          "text": "Segunda ocorrência de incêndio registada na cidade, com chamas a atingirem uma habitação. Equipas de bombeiros deslocadas ao local."
+        },
+        {
+          "headline": "Jovem atleta do União de Coimbra vítima de racismo",
+          "text": "O União de Coimbra repudiou factos de racismo ocorridos no jogo de sub-15 contra o Ançã FC. O clube defendeu intransigentemente os valores de respeito e dignidade, e disse que vai colaborar com as entidades competentes para que situações sejam apuradas e sancionadas."
+        },
+        {
+          "headline": "Encontro Anual das Ciências do Solo em Coimbra",
+          "text": "O Encontro Anual das Ciências do Solo 2026 realiza-se de 1 a 3 de julho na Escola Superior Agrária de Coimbra (ESAC), subordinado ao tema «Gestão sustentável do solo - base de agroecossistemas saudáveis»."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Festa a alta velocidade acaba em dois detidos",
+          "text": "A PSP deteve dois condutores de 18 anos por condução perigosa, após um acidente que atropelou vários peões em São João da Madeira durante os festejos do título do FC Porto. Dez pessoas ficaram feridas ligeiras."
+        },
+        {
+          "headline": "Passageira com enfarte resgatada de cruzeiro nos Açores",
+          "text": "A Marinha coordenou o resgate médico de uma passageira de 68 anos com sintomas de enfarte a bordo do cruzeiro Scarlet Lady, a 1.120 km a sudoeste da Terceira. Foram empenhados helicóptero e aeronave da Força Aérea."
+        },
+        {
+          "headline": "Cândido Mota morre aos 82 anos",
+          "text": "O antigo locutor de rádio e televisão Cândido Mota morreu de madrugada, aos 82 anos, no Hospital de Santa Maria em Lisboa. Ficou famoso pelo programa «O Passageiro da Noite» e pela colaboração com Herman José na televisão."
+        },
+        {
+          "headline": "Tradição secular da Rota da Transumância recriada em 10 aldeias",
+          "text": "A Rota da Transumância voltou a ser recriada em 10 aldeias do interior, mantendo viva uma tradição secular de pastoreio e mobilidade gado."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Dois mortos após despiste de carro",
+          "text": "Dois pessoas morreram após um despiste de automóvel. As autoridades estão a investigar as causas do acidente."
+        },
+        {
+          "headline": "PSP detém suspeita de tentar matar companheiro",
+          "text": "Uma mulher de 49 anos foi detida em Portalegre por tentativa de homicídio do companheiro em contexto de violência doméstica. A vítima, um homem de 55 anos, foi esfaqueada na cabeça e outras partes do corpo. A discussão teve origem em motivos fúteis."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "PS insiste na descida do IVA dos combustíveis",
+          "text": "O PS voltou a defender a descida do IVA dos combustíveis de 23% para 13%, na véspera de um novo aumento de preços. O deputado João Torres acusou o Governo de insensibilidade e de encarar a crise como oportunidade fiscal. Os portugueses pagaram mais 36 milhões de euros de imposto no primeiro trimestre."
+        },
+        {
+          "headline": "Portugal mantém recusa de receber refugiados até litígio concluído",
+          "text": "O secretário de Estado da Imigração afirmou que Portugal mantém a recusa de receber novos requerentes de asilo, decisão que já motivou uma multa de 8,44 milhões de euros. O governo quer dar prioridade a imigrantes qualificados e investidores, embora a portaria regulamentar ainda não tenha sido publicada."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Região de Coimbra debate transferência de competências na educação",
+          "text": "A Região Metropolitana de Coimbra promoveu encontro sobre descentralização educativa. Foram identificados desafios como insuficiência de verbas, perda de autonomia escolar e dificuldades de articulação entre municípios e agrupamentos escolares."
+        }
+      ]
+    },
+    {
+      "emoji": "🏀",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sporting conquista Taça Hugo dos Santos em basquetebol",
+          "text": "O Sporting venceu a Taça Hugo dos Santos pela terceira vez, derrotando o Benfica por 79-77 na final em Gondomar. Na contabilidade geral, o Benfica lidera com sete triunfos."
+        },
+        {
+          "headline": "Porto campeão: Coimbra sai à rua para festejar",
+          "text": "Adeptos do FC Porto saíram às ruas de Coimbra para celebrar o 31.º título nacional, conquistado com um golo de Bednarek contra o Alverca."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Carros de luxo invadem Coimbra",
+          "text": "Ferrari, Lamborghini, Porsche e outras marcas de luxo estiveram estacionadas em hotéis de Coimbra. Os proprietários participavam no evento Gathering Supercars em Leiria, um dos maiores encontros de hipercarros da Europa."
+        }
+      ]
+    }
+  ]
+}
