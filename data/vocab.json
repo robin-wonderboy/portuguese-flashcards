@@ -12017,5 +12017,135 @@
       "example_de": "Dezentralisierung der Bildung in der Region",
       "example_en": "Educational decentralization in the region"
     }
+  ],
+  "2026-05-05": [
+    {
+      "pt": "intermitente",
+      "de": "intermittierend",
+      "en": "intermittent",
+      "example": "A chuva foi fraca e intermitente",
+      "example_de": "Der Regen war schwach und intermittierend",
+      "example_en": "The rain was weak and intermittent"
+    },
+    {
+      "pt": "alastrar",
+      "de": "sich ausbreiten",
+      "en": "to spread (fire, disease)",
+      "example": "O fogo alastrou rapidamente",
+      "example_de": "Das Feuer breitete sich schnell aus",
+      "example_en": "The fire spread quickly"
+    },
+    {
+      "pt": "a fúria",
+      "de": "die Wut",
+      "en": "fury, rage",
+      "example": "Agiu num estado de fúria frenética",
+      "example_de": "Er handelte in einem Zustand von rasender Wut",
+      "example_en": "He acted in a state of frenetic fury"
+    },
+    {
+      "pt": "desumano",
+      "de": "unmenschlich",
+      "en": "inhumane",
+      "example": "A atuação foi classificada como desumana",
+      "example_de": "Das Handeln wurde als unmenschlich eingestuft",
+      "example_en": "The conduct was classified as inhumane"
+    },
+    {
+      "pt": "fiável",
+      "de": "zuverlässig",
+      "en": "reliable",
+      "example": "O sistema é seguro e fiável",
+      "example_de": "Das System ist sicher und zuverlässig",
+      "example_en": "The system is safe and reliable"
+    },
+    {
+      "pt": "o miradouro",
+      "de": "der Aussichtspunkt",
+      "en": "viewpoint, lookout",
+      "example": "No Miradouro das Fontes havia uma surpresa",
+      "example_de": "Am Aussichtspunkt der Quellen gab es eine Überraschung",
+      "example_en": "At the Fontes viewpoint there was a surprise"
+    },
+    {
+      "pt": "acolhedor",
+      "de": "einladend, gemütlich",
+      "en": "welcoming, cozy",
+      "example": "Aldeias acolhedoras na serra",
+      "example_de": "Einladende Dörfer im Gebirge",
+      "example_en": "Welcoming villages in the mountains"
+    },
+    {
+      "pt": "o chanceler",
+      "de": "der Kanzler",
+      "en": "the chancellor",
+      "example": "O chanceler alemão recebeu Montenegro",
+      "example_de": "Der deutsche Kanzler empfing Montenegro",
+      "example_en": "The German chancellor received Montenegro"
+    },
+    {
+      "pt": "a propagação",
+      "de": "die Ausbreitung",
+      "en": "propagation, spreading",
+      "example": "Acusados de propagação de doença contagiosa",
+      "example_de": "Angeklagt wegen Ausbreitung einer ansteckenden Krankheit",
+      "example_en": "Accused of propagation of contagious disease"
+    },
+    {
+      "pt": "o atravessamento",
+      "de": "die Querung, Überquerung",
+      "en": "crossing",
+      "example": "Ocorrências em atravessamentos do canal",
+      "example_de": "Vorfälle an Kanalquerungen",
+      "example_en": "Incidents at channel crossings"
+    },
+    {
+      "pt": "a filhós",
+      "de": "das frittierte Gebäck",
+      "en": "traditional fried pastry",
+      "example": "Deliciosas filhós espichadas na serra",
+      "example_de": "Leckeres frittiertes Gebirgsgebäck",
+      "example_en": "Delicious traditional mountain pastries"
+    },
+    {
+      "pt": "a prescrição",
+      "de": "die Verschreibung",
+      "en": "prescription (medical)",
+      "example": "Norma que altera a prescrição de sensores",
+      "example_de": "Vorschrift, die Verschreibung von Sensoren ändert",
+      "example_en": "Rule that changes sensor prescription"
+    },
+    {
+      "pt": "o barrote",
+      "de": "der Dachbalken",
+      "en": "roof beam, rafter",
+      "example": "Incêndio nuns barrotes do telhado",
+      "example_de": "Brand in einigen Dachbalken",
+      "example_en": "Fire in some roof beams"
+    },
+    {
+      "pt": "condoer-se",
+      "de": "sich bedauern, Mitgefühl haben",
+      "en": "to condole, to sympathize",
+      "example": "Schuster transmitiu profundas condolências",
+      "example_de": "Schuster drückte tiefes Mitgefühl aus",
+      "example_en": "Schuster expressed deep condolences"
+    },
+    {
+      "pt": "a regularidade",
+      "de": "die Pünktlichkeit, Regelmäßigkeit",
+      "en": "reliability, regularity",
+      "example": "Índice de regularidade de 99,9%",
+      "example_de": "Pünktlichkeitsindex von 99,9%",
+      "example_en": "Reliability index of 99.9%"
+    },
+    {
+      "pt": "desdramatizar",
+      "de": "herunterspielen, verharmlosen",
+      "en": "to downplay, to trivialize",
+      "example": "Eu desdramatizava os alertas da minha mãe",
+      "example_de": "Ich spielte die Warnungen meiner Mutter herunter",
+      "example_en": "I downplayed my mothers warnings"
+    }
   ]
 }
