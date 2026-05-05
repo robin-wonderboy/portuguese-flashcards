@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO",
+      "stories": [
+        {
+          "headline": "Chuva e vento regressam na segunda metade da semana",
+          "text": "Depois de dias estáveis, uma depressão fria aproxima-se de Portugal. Sexta e sábado serão os dias mais chuvosos, com acumulados de 5 a 25 mm no litoral Centro e rajadas de vento sudoeste até 60 km/h no Alentejo e Algarve."
+        }
+      ]
+    },
+    {
+      "emoji": "🚇",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Metro Mondego falha 8 viagens em abril",
+          "text": "O Metro Mondego registou 99,9% de regularidade em abril, com 7.877 de 7.885 circulações realizadas. As 8 supressões deveram-se a 3 ocorrências em atravessamentos do canal do Metrobus."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Góis já desobstruiu 291 km de estradas florestais após tempestade Kristin",
+          "text": "Dos 717 km de rede viária florestal afetados pela tempestade Kristin em janeiro, 41% já estão intervencionados. O município ultrapassou largamente as metas de prevenção florestal, atingindo 141% de execução."
+        },
+        {
+          "headline": "Incêndio em telhado de casa em Cantanhede",
+          "text": "Bombeiros de Cantanhede combateram chamas em barrotes do telhado de uma casa em Febres. O incêndio já está dominado, sem feridos."
+        },
+        {
+          "headline": "Pampilhosa da Serra: Social Ride marca arranque do Pedal Xperience",
+          "text": "O passeio de ciclismo no dia 1 de maio reuniu entusiastas num percurso de 30 km com 750 m de desnível ao redor da Barragem de Santa Luzia. O Pampilhosa Pedal Xperience realiza-se de 4 a 6 de setembro."
+        },
+        {
+          "headline": "Pink & Wine Fest em Cantanhede a 23 de maio",
+          "text": "O evento gratuito nos Paços do Concelho traz duas dezenas de produtores da Bairrada com novidades de 2025, incluindo speed tastings e after-party."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Ex-dirigentes de lar acusados de propagação de Covid-19 que matou 18 utentes",
+          "text": "O antigo presidente e ex-diretora do Lar do Comércio (Matosinhos) foram acusados de propagação de doença contagiosa agravada. Apesar de alertas das autoridades de saúde, não implementaram medidas de contenção, resultando em 109 infetados e 18 mortes em 2020."
+        },
+        {
+          "headline": "Atropelamento intencional em Leipzig faz 2 mortos",
+          "text": "Um alemão de 33 anos avançou intencionalmente contra uma multidão no centro histórico de Leipzig, matando 2 pessoas e ferindo mais de 20. O suspeito foi detido e as autoridades investigam homicídio e tentativa de homicídio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Exame de sangue pode detetar depressão antes dos sintomas",
+          "text": "Um estudo com 440 mulheres revelou que o envelhecimento de monócitos (glóbulos brancos) está associado a sintomas não físicos da depressão como anedonia e desesperança, abrindo caminho para diagnóstico biológico precoce."
+        },
+        {
+          "headline": "8% do ADN humano não é humano",
+          "text": "Cerca de 8% do genoma é composto por retrovírus endógenos (HERVs), vestígios de infeções virais de há 100 milhões de anos. Alguns desempenham papéis benéficos na placenta e imunidade, mas a ativação descontrolada pode estar ligada a doenças autoimunes e cancro."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Montenegro visita Alemanha para reforçar relações bilaterais",
+          "text": "O primeiro-ministro encontra-se hoje com o chanceler Friedrich Merz em Berlim para aprofundar o diálogo sobre competitividade, energia e mercado interno. Montenegro participa também no Wirtschaftstag com 3.000 empresários alemães."
+        },
+        {
+          "headline": "SIRESP: 36 milhões de euros para reforçar a rede de emergência",
+          "text": "O Governo apresentou 33 recomendações para tornar o SIRESP mais robusto e resiliente, com investimento de 36 M€ em 18 meses. A rede falhou no apagão de 2025 e na tempestade Kristin."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & PESSOAS",
+      "stories": [
+        {
+          "headline": "Nuno Markl: \"Ela tinha razão\"",
+          "text": "O humorista recordou que a mãe lhe pedia repetidamente para ir ao médico antes do seu AVC em 2025. \"Eu desdramatizava, mas no fundo ela tinha razão\", escreveu nas redes sociais."
+        }
+      ]
+    }
+  ]
+}
