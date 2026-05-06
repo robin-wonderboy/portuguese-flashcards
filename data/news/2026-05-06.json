@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Assaltantes destroem restaurante em Coimbra e fogem com álcool",
+          "text": "O restaurante Cova Funda - O Espanhol foi vandalizado e assaltado durante a madrugada. Os assaltantes partiram o vidro do andar de cima para entrar, destruíram duas caixas registadoras, levaram garrafas de álcool e aparentemente tentaram cozinhar na cozinha. A PSP já recolheu indícios de prova."
+        },
+        {
+          "headline": "Ladrão de trotinetes apanhado em flagrante em Aveiro",
+          "text": "Um homem de 36 anos foi detido no domingo após furtar uma trotinete perto da estação ferroviária de Aveiro. A PSP apreendeu as ferramentas do crime e mais cinco trotinetes aparentemente furtadas. O suspeito aguarda em prisão preventiva."
+        },
+        {
+          "headline": "Investigação ao grupo neonazi Movimento Armilar Lusitano já tem 11 arguidos",
+          "text": "O processo contra o grupo neonazi MAL conta com pelo menos 11 arguidos, quatro em prisão preventiva desde junho de 2025. O Tribunal da Relação de Lisboa classificou o caso como de especial complexidade, dando ao Ministério Público mais tempo para deduzir acusação até junho."
+        }
+      ]
+    },
+    {
+      "emoji": "🚑",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Navio com surto de hantavírus deverá seguir viagem",
+          "text": "Dois aviões ambulância descolaram de Cabo Verde com três ocupantes do cruzeiro Hondius, rumo aos Países Baixos. O navio registou sete casos de hantavírus, incluindo três mortes. A estirpe andina, a única transmissível entre humanos, foi identificada. O navio deverá deixar Cabo Verde nas próximas horas."
+        }
+      ]
+    },
+    {
+      "emoji": "⛈️",
+      "category": "TEMPO",
+      "stories": [
+        {
+          "headline": "Vem aí reviravolta no tempo: chuva, vento forte e trovoadas a partir de sexta",
+          "text": "Uma depressão fria proveniente do Atlântico, alimentada por ar polar da Islândia, deverá atingir Portugal continental a partir de sexta-feira. Prevê-se chuva generalizada, vento forte e possibilidade de trovoadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRÂNSITO & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "PSP alerta: trânsito muda em Coimbra e Figueira da Foz pelo Rally de Portugal",
+          "text": "A Avenida de Conímbriga ficará totalmente cortada ao trânsito a partir das 14h00 de hoje. A cerimónia de partida do Rally, no dia 7, afetará também a Praça das Cortes e ruas envolventes. Condicionamentos semelhantes na Figueira da Foz."
+        },
+        {
+          "headline": "Pinheiros da Avenida Elísio de Moura vão ser removidos",
+          "text": "Após avaliação biomecânica pelo Centro de Ecologia Funcional da Universidade de Coimbra, a autarquia decidiu remover os pinheiros-mansos do troço descendente da avenida, por impossibilidade de os manter sem comprometer a segurança rodoviária e pedonal."
+        }
+      ]
+    },
+    {
+      "emoji": "⚠️",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "Mulher morre e homem fica grave após despiste contra árvore em Albergaria-a-Velha",
+          "text": "Um automóvel despistou-se na estrada municipal 580, em Frias, e embateu contra uma árvore. Uma mulher de 72 anos morreu no local e um homem de 76 ficou gravemente ferido. Mobilizados 14 operacionais de bombeiros, INEM e GNR."
+        },
+        {
+          "headline": "Explosão de gás em café no Seixal faz 5 feridos",
+          "text": "Uma explosão de gás no café 'O Cantinho d'Avó', em Amora, feriu seis pessoas, uma gravemente. O ferido grave foi transportado para o Hospital de S. José. A Setgás já se encontra no local a investigar as causas."
+        }
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "category": "ECONOMIA & EMPRESAS",
+      "stories": [
+        {
+          "headline": "Primark investe 45M€ em Portugal: 4 lojas novas e expansão no Forum Coimbra",
+          "text": "A Primark vai inaugurar quatro novas lojas e ampliar a existente no Forum Coimbra, criando mais de 300 postos de trabalho. O objetivo é atingir 18 lojas em Portugal até ao verão de 2027."
+        },
+        {
+          "headline": "Forum Coimbra conclui primeira fase de expansão de 12M€",
+          "text": "O Forum Coimbra reabriu lojas Zara, Stradivarius e Pull&Bear com conceitos mais modernos e sustentáveis. A expansão, iniciada há um ano, envolve renovação e ampliação de espaços de referência no retalho."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "ISEC celebra 105 anos",
+          "text": ""
+        },
+        {
+          "headline": "AAC desafia estudantes a resolver problemas de Coimbra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
