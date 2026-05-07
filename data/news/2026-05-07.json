@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Mau tempo a caminho de Coimbra: chuva, trovões e rajadas até 70 km/h",
+          "text": "Previsões apontam para chuva forte com trovoada e rajadas de vento até 70 km/h na região de Coimbra. Autoridades aconselham precaução, especialmente ao volante."
+        },
+        {
+          "headline": "Cientistas alertam para tsunamis causados pelo recuo glaciar",
+          "text": "Investigadores internacionais warn que o recuo dos glaciares pode provocar tsunamis devastadores em zonas costeiras. O fenómeno é particularmente preocupante em regiões árticas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Maior pedófilo português detido: rede de abuso infantil na dark web desmantelada",
+          "text": "Um homem conhecido por \"Twinkle\" na dark web cumpre 25 anos na Carregueira por liderar uma rede internacional de pornografia de menores. Foi detido em 2017 na zona de Águeda numa operação da PJ com Interpol e Europol."
+        },
+        {
+          "headline": "Homem detido em Coimbra com 42 doses de cocaína",
+          "text": ""
+        },
+        {
+          "headline": "Homem fica em prisão preventiva após tentar matar a ex-mulher no trabalho",
+          "text": ""
+        },
+        {
+          "headline": "Assaltantes destroem restaurante em Coimbra e fogem com álcool",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Carneiro acusa Montenegro de falhar na saúde: \"não é possível fazer pior\"",
+          "text": "O líder do PS criticou o primeiro-ministro por não cumprir a promessa de resolver a saúde em 6 meses. O PS também pede a demissão da ministra da Saúde, acusando-a de ter desistido do SNS."
+        },
+        {
+          "headline": "Lei laboral regressa à Concertação com CIP a prometer aproximação à UGT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Ativista de Coimbra na flotilha para Gaza denuncia tortura em Israel",
+          "text": "Nuno Gomes, de 56 anos, denunciou ter sido torturado física e psicologicamente durante dois dias pelo exército israelita após a Flotilha Sumud ter sido intercetada a 27 de abril. Considerou \"vergonhosa\" a abordagem do cônsul de Portugal em Creta."
+        },
+        {
+          "headline": "Força Aérea portuguesa interceta aeronaves russas perto do espaço aéreo da NATO",
+          "text": "F-16M portugueses baseados na Estónia intercetaram aeronaves russas sobre águas internacionais junto ao espaço da Aliança. A missão decorreu \"com êxito\" e os pilotos recolheram dados essenciais para o tráfego aéreo civil."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hantavírus: passageiros do cruzeiro MV Hondius aconselhados a auto-isolamento",
+          "text": "Duas pessoas que regressaram ao Reino Unido do navio MV Hondius, foco de hantavírus, foram instruídas a auto-isolar-se. O navio leva 144 pessoas sem sintomas e dirige-se às Canárias."
+        },
+        {
+          "headline": "Horas extra nas urgências podem valer aos médicos entre 40% a 80% do salário",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "UC apresenta \"Spark\" para apoiar ideias inovadoras de estudantes",
+          "text": "O projeto \"Spark: Bright Ideas, Brilliant Minds\" é um orçamento participativo que desafia estudantes a propor soluções para mobilidade, habitação e outros problemas urbanos de Coimbra. Conta com apoio da Casa da Lusofonia e da Queima das Fitas."
+        },
+        {
+          "headline": "UC e Macau criam laboratório conjunto de Humanidades Digitais",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Rally de Portugal: Elfyn Evans abre a pista no primeiro dia",
+          "text": "O britânico Elfyn Evans (Toyota Yaris), líder do Mundial, abre a 59ª edição do Rally de Portugal a partir das 15:05 em Águeda. 70 pilotos inscritos, incluindo 14 do Campeonato de Portugal de Ralis."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & ECONOMIA",
+      "stories": [
+        {
+          "headline": "EBRO abre primeiro concessionário em Portugal em Coimbra",
+          "text": "A marca espanhola EBRO entregou a primeira viatura em Portugal, o s800 PHEV, no novo concessionário de Coimbra. A gama inclui SUVs multi-energia (gasolina, HEV, PHEV) e um citadino 100% elétrico."
+        },
+        {
+          "headline": "Imigração pode ajudar a travar despovoamento do interior",
+          "text": "Estudo do Prepara Portugal revela que 495 mil trabalhadores estrangeiros representam 13,4% da população empregada. Em agricultura, construção e turismo, representam mais de 30% dos profissionais."
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "LAZER & REGIÃO",
+      "stories": [
+        {
+          "headline": "Duas praias de Mira com selo de \"Qualidade de Ouro\"",
+          "text": ""
+        },
+        {
+          "headline": "\"Vá à Fava!\": três spots imperdíveis a menos de meia hora de Coimbra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
