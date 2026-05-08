@@ -12346,5 +12346,167 @@
       "de": "durchbrechen",
       "en": "to break through"
     }
+  ],
+  "2026-05-08": [
+    {
+      "pt": "o temporal",
+      "de": "das Unwetter",
+      "en": "the storm",
+      "example": "O temporal chega a Coimbra esta sexta-feira.",
+      "example_de": "Das Unwetter erreicht Coimbra diesen Freitag.",
+      "example_en": "The storm reaches Coimbra this Friday."
+    },
+    {
+      "pt": "o vendaval",
+      "de": "der Sturmwind",
+      "en": "the gale",
+      "example": "Ha alerta de vendaval para o fim de semana.",
+      "example_de": "Es gibt eine Sturmwindwarnung fuer das Wochenende.",
+      "example_en": "There is a gale warning for the weekend."
+    },
+    {
+      "pt": "rugir",
+      "de": "bruellen",
+      "en": "to roar",
+      "example": "Os motores vao rugir na Lousa.",
+      "example_de": "Die Motoren werden in Lousa bruellen.",
+      "example_en": "The engines will roar in Lousa."
+    },
+    {
+      "pt": "a tortura",
+      "de": "die Folter",
+      "en": "torture",
+      "example": "Treze agentes sao suspeitos de tortura.",
+      "example_de": "Dreizehn Beamte sind des Foltervorwurfs verdachtig.",
+      "example_en": "Thirteen officers are suspected of torture."
+    },
+    {
+      "pt": "despedir-se",
+      "de": "sich verabschieden",
+      "en": "to say goodbye",
+      "example": "O Rally despede-se do centro do pais hoje.",
+      "example_de": "Der Rally verabschiedet sich heute aus der Mitte des Landes.",
+      "example_en": "The Rally bids farewell to the central region today."
+    },
+    {
+      "pt": "induzido",
+      "de": "kuenstlich herbeigefuehrt",
+      "en": "induced",
+      "example": "Bonnie Tyler esta em coma induzido apos cirurgia.",
+      "example_de": "Bonnie Tyler liegt nach einer OP im kuenstlichen Koma.",
+      "example_en": "Bonnie Tyler is in an induced coma after surgery."
+    },
+    {
+      "pt": "a falha",
+      "de": "das Versagen",
+      "en": "the failure",
+      "example": "O SNS esta a falhar mais de um milhao de portugueses.",
+      "example_de": "Der SNS versagt bei ueber einer Million Portugiesen.",
+      "example_en": "The NHS is failing more than a million Portuguese people."
+    },
+    {
+      "pt": "comparticipado",
+      "de": "bezuschusst",
+      "en": "subsidized / co-paid",
+      "example": "Os exames comparticipados pelo SNS sao inacessiveis sem medico.",
+      "example_de": "Die vom SNS bezuschussten Untersuchungen sind ohne Hausarzt unzugaenglich.",
+      "example_en": "Exams subsidized by the NHS are inaccessible without a doctor."
+    },
+    {
+      "pt": "o esboro",
+      "de": "die Truemmer",
+      "en": "the rubble / collapse",
+      "example": "O esboro do muro bloqueou a estrada.",
+      "example_de": "Der Mauereinsturz blockierte die Strasse.",
+      "example_en": "The wall collapse blocked the road."
+    },
+    {
+      "pt": "a especiais",
+      "de": "die Sonderprüfung",
+      "en": "the special stage (rally)",
+      "example": "As tres primeiras especiais foram disputadas na quinta-feira.",
+      "example_de": "Die ersten drei Sonderpruefungen wurden am Donnerstag ausgetragen.",
+      "example_en": "The first three special stages were held on Thursday."
+    },
+    {
+      "pt": "o retalho",
+      "de": "das Bruchstueck",
+      "en": "the fragment / scrap",
+      "example": "O retalho de informacao chegou a imprensa.",
+      "example_de": "Das Informationsbruchstueck erreichte die Presse.",
+      "example_en": "The fragment of information reached the press."
+    },
+    {
+      "pt": "o comandamento",
+      "de": "das Kommando",
+      "en": "the command",
+      "example": "O Comando Sub-Regional de Emergencia reuniu-se em Coimbra.",
+      "example_de": "Das Subregionale Einsatzkommando traf sich in Coimbra.",
+      "example_en": "The Sub-Regional Emergency Command met in Coimbra."
+    },
+    {
+      "pt": "a prevision",
+      "de": "die Vorhersage",
+      "en": "the forecast",
+      "example": "A previsao meteorologica indica chuva para o fim de semana.",
+      "example_de": "Die Wettervorhersage zeigt Regen fuer das Wochenende.",
+      "example_en": "The weather forecast indicates rain for the weekend."
+    },
+    {
+      "pt": "a gravacao",
+      "de": "die Aufnahme",
+      "en": "the recording",
+      "example": "A gravacao de video foi apresentada como prova.",
+      "example_de": "Die Videoaufnahme wurde als Beweis vorgelegt.",
+      "example_en": "The video recording was presented as evidence."
+    },
+    {
+      "pt": "a caravana",
+      "de": "die Karawane / der Konvoi",
+      "en": "the convoy / caravan",
+      "example": "A caravana mundialista segue para Arganil.",
+      "example_de": "Der WRC-Konvoi faehrt weiter nach Arganil.",
+      "example_en": "The WRC convoy heads to Arganil."
+    },
+    {
+      "pt": "a atribuicao",
+      "de": "die Zuweisung",
+      "en": "the assignment / allocation",
+      "example": "A atribuicao de medico de familia e uma prioridade.",
+      "example_de": "Die Zuweisung eines Hausarztes ist eine Prioritaet.",
+      "example_en": "The assignment of a family doctor is a priority."
+    },
+    {
+      "pt": "a campanha solidaria",
+      "de": "die Solidaritaetskampagne",
+      "en": "the solidarity campaign",
+      "example": "A campanha solidaria quer equipar Bombeiros de Condeixa.",
+      "example_de": "Die Solidaritaetskampagne will die Feuerwehr von Condeixa ausruesten.",
+      "example_en": "The solidarity campaign wants to equip the Condeixa firefighters."
+    },
+    {
+      "pt": "a intercecao",
+      "de": "die Kreuzung",
+      "en": "the intersection",
+      "example": "A intercecao esta interdita ao transito.",
+      "example_de": "Die Kreuzung ist fuer den Verkehr gesperrt.",
+      "example_en": "The intersection is closed to traffic."
+    },
+    {
+      "pt": "a regiao meridional",
+      "de": "die suedliche Region",
+      "en": "the southern region",
+      "example": "O hantavirus foi identificado em provincias meridionais da Argentina.",
+      "example_de": "Das Hantavirus wurde in suedlichen Provinzen Argentiniens identifiziert.",
+      "example_en": "The hantavirus was identified in southern provinces of Argentina."
+    },
+    {
+      "pt": "o retiro",
+      "de": "der Rueckzug",
+      "en": "the retreat / withdrawal",
+      "example": "O navio fez o retiro para o porto mais proximo.",
+      "example_de": "Das Schiff zog sich zum naechsten Hafen zurueck.",
+      "example_en": "The ship withdrew to the nearest port."
+    }
   ]
 }
