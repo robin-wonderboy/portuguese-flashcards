@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Temporal a caminho de Coimbra: chuva, vendaval e trovoadas",
+          "text": "Portugal continental enfrenta dias de instabilidade com uma depressão fria. Sexta-feira traz aumento de nebulosidade e aguaceiros pré-frontais, com agravamento significativo no fim de semana. Previsão inclui rajadas intensas, trovoadas e até possibilidade de granizo."
+        },
+        {
+          "headline": "Coimbra investe 200 mil euros em proteção civil",
+          "text": "A Região Metropolitana de Coimbra destacou um investimento de 200.000€, financiado pelo Centro 2030, em Equipamentos de Proteção Individual para os Serviços Municipais de Proteção Civil e Gabinetes Técnicos Florestais. O objetivo é reforçar a resposta a incêndios rurais e catástrofes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Rally de Portugal invade a região: motores vão rugir na Lousã, Góis e Arganil",
+          "text": "A 59ª edição do Rali de Portugal passa hoje por sete troços na zona de Coimbra, incluindo Mortágua, Arganil e Lousã. Oliver Solberg (Toyota) lidera com 3,4s de vantagem sobre Fourmaux e 7,2s sobre Ogier. Um despiste de Diogo Marujo interrompeu um troço."
+        },
+        {
+          "headline": "Primeira mulher a ganhar o Rally de Portugal ajoelhou-se e pediu ajuda a um santo em Arganil",
+          "text": "A história da única mulher a vencer o Rally de Portugal, que pediu ajuda a um santo em Arganil antes de acabar por vencer a prova."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Escândalo na PSP: 13 agentes suspeitos de tortura na esquadra do Rato",
+          "text": "Dos 15 polícias detidos, 13 são suspeitos de 19 crimes de tortura na esquadra da PSP do Rato, em Lisboa. Outros crimes incluem ofensas à integridade física, abuso de poder e falsificação de documento. Um agente é suspeito de tortura por omissão - terá assistido sem intervir."
+        },
+        {
+          "headline": "Pai assume disparo fatal contra o próprio filho",
+          "text": "O pai do caso homicida admitiu ter sido o autor do disparo que matou o filho."
+        },
+        {
+          "headline": "Diretor de IPSS de Montemor-o-Velho agrediu utentes",
+          "text": "O diretor de uma IPSS em Montemor-o-Velho é acusado de agredir utentes da instituição."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Médicos de família privados: SNS falha a 1,5 milhões de portugueses",
+          "text": "A APMF afirmou que o SNS está a falhar 1,5 milhões de utentes sem médico de família, contradizendo a ministra Ana Paula Martins, que classificou as falhas de mito. A associação defende que os utentessem médico perdem também acesso a exames comparticipados pelo SNS."
+        },
+        {
+          "headline": "Hantavírus: Argentina reforça vigilância epidemiológica",
+          "text": "Autoridades argentinas coordenam vigilância após surto de hantavírus no cruzeiro MV Hondius. A variante identificada corresponde à estirpe Andes, presente nas províncias meridionais de Chubut, Río Negro e Neuquén. Um segundo doente do cruzeiro testou positivo."
+        },
+        {
+          "headline": "Governo aprova regime de trabalho para médicos tarefeiros",
+          "text": "O Governo voltou a aprovar o regime de trabalho para médicos tarefeiros, tentando resolver a escassez de profissionais no SNS."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "BE: Chega quer rever Constituição para atingir objetivos que a Lei Fundamental impede",
+          "text": "O Bloco de Esquerda criticou as intenções do Chega de rever a Constituição para ultrapassar obstáculos colocados pela Lei Fundamental."
+        },
+        {
+          "headline": "Governo isenta de IRS as vítimas de abusos na igreja",
+          "text": "O Governo aprovou proposta de lei para isentar de IRS as vítimas de abusos na igreja."
+        },
+        {
+          "headline": "Ana Abrunhosa: \"Coimbra merece mais do que a partida simbólica\" do Rally",
+          "text": "A antiga ministra e deputada afirmou que Coimbra merece mais do que a passagem simbólica do Rally de Portugal pela cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "UC apoia Associação Académica com 270 mil euros",
+          "text": "A Universidade de Coimbra vai apoiar a Associação Académica com um financiamento de 270.000€."
+        },
+        {
+          "headline": "Estudantes de Coimbra criam app para mudar hábitos energéticos",
+          "text": "Estudantes de Coimbra desenvolveram uma aplicação que pode transformar os hábitos energéticos de milhares de pessoas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Central nuclear no Japão desliga reator após fuga de vapor",
+          "text": "Uma central nuclear no Japão desligou um reator após detetar uma fuga de vapor, por precaução de segurança."
+        },
+        {
+          "headline": "Lula entrega a Trump acordo nuclear de 2010 com o Irão",
+          "text": "O presidente brasileiro Lula da Silva afirmou ter entregue a Trump um acordo nuclear de 2010 com o Irão, dizendo: \"Tá aí o documento, leia.\""
+        },
+        {
+          "headline": "Português desaparecido encontrado dentro de crocodilo de 500 kg",
+          "text": "Um caso macabro: um português desaparecido foi encontrado dentro de um crocodilo com 500 kg."
+        }
+      ]
+    },
+    {
+      "emoji": "🎤",
+      "category": "CULTURA & FAMA",
+      "stories": [
+        {
+          "headline": "Bonnie Tyler em coma induzido após cirurgia",
+          "text": "A cantora Bonnie Tyler foi internada em Portugal e encontra-se em coma induzido após uma cirurgia, com prognóstico muito reservado."
+        },
+        {
+          "headline": "Richie Campbell lança novo álbum",
+          "text": "O artista português Richie Campbell anunciou o lançamento de um novo álbum."
+        },
+        {
+          "headline": "Projeto Outdoor '26 apresenta nova obra no Mercado D. Pedro V",
+          "text": "O projeto artístico Outdoor '26 revelou uma nova intervenção na fachada do Mercado Municipal D. Pedro V."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Lidl lidera mobilidade elétrica em Portugal com mais de 1M de carregamentos",
+          "text": "O Lidl ultrapassou um milhão de carregamentos em Portugal em 2025, liderando a mobilidade elétrica no retalho."
+        },
+        {
+          "headline": "UGT acusa Governo de minar confiança com \"constante avanço e recuo\"",
+          "text": "A UGT criticou o Governo por avanços e recuos constantes que minam a confiança nas relações laborais."
+        }
+      ]
+    }
+  ]
+}
