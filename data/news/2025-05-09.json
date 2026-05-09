@@ -1,0 +1,136 @@
+{
+  "date": "2025-05-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚂",
+      "category": "TRAGÉDIA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Peregrino morre atropelado por comboio em Coimbra",
+          "text": "Acácio Campos, de 66 anos, morreu sexta-feira ao ser colhido por um comboio na passagem de nível do Loreto, em Coimbra. Integrava um grupo de peregrinos a caminho de Fátima. O óbito foi confirmado no local pelas equipas de emergência."
+        },
+        {
+          "headline": "Peregrinos da Lousã rumam a Fátima",
+          "text": "Há quem faça a peregrinação há 20 anos e quem descubra agora o caminho da fé. O grupo passou a noite em Coimbra após a tragédia no percurso."
+        },
+        {
+          "headline": "Gripe deixou jovem tetraplégica aos 21 anos",
+          "text": "Soraia estudava fisioterapia e praticava surf quando uma simples gripe causou lesões cerebrais graves, deixando-a tetraplégica. O pai encontrou-a inanimada e iniciou manobras de reanimação. Os médicos alertaram que poderia não sobreviver."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "Limpeza nas forças de segurança: 44 agentes expulsos",
+          "text": "O ministro Luís Neves afastou 44 elementos das forças de segurança (30 da GNR e 14 da PSP) em menos de três meses. Crimes incluem peculato, violência doméstica, burla, corrupção, tráfico de seres humanos e abuso de poder."
+        },
+        {
+          "headline": "Cruzeiro da Disney: operação contra pornografia infantil",
+          "text": "Autoridades norte-americanas detiveram 28 pessoas a bordo de cinco navios de cruzeiro, incluindo um da Disney em San Diego. Um cidadão português está entre os detidos, suspeitos de envolvimento em material de abuso sexual de menores."
+        },
+        {
+          "headline": "Coimbra recusa entregar ex-polícia francês que matou duas mulheres"
+          "text": ""
+        },
+        {
+          "headline": "Procurado na Figueira da Foz por obrigar familiar menor a crimes sexuais"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hantavírus: DGS sem conhecimento de passageiros para Portugal",
+          "text": "A Direção-Geral da Saúde diz que o único português a bordo do MV Hondius é tripulação e não reside em Portugal. O navio deverá chegar a Tenerife este fim de semana, com repatriamento coordenado pelas autoridades europeias."
+        },
+        {
+          "headline": "Brasil confirma dois casos de hantavírus",
+          "text": ""
+        },
+        {
+          "headline": "\"Tosse dos 100 dias\" pode esconder infeção perigosa",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Rally de Portugal: Rúben Rodrigues vence entre pilotos nacionais",
+          "text": "O piloto Rúben Rodrigues (Toyota Yaris) venceu a etapa nacional do Rali de Portugal, dilatando o comando do campeonato. Terminou com 9,6 segundos de avanço sobre Gonçalo Henriques."
+        },
+        {
+          "headline": "Ogier lidera Rally por escassos três segundos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⛽",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Combustíveis caem mais do que se previa",
+          "text": "Bom resultado para os condutores: o gasóleo deverá ficar 9 cêntimos mais barato por litro e a gasolina desce cerca de 2 cêntimos, segundo o ACP. Mais alívio do que as estimativas anteriores indicavam."
+        },
+        {
+          "headline": "Navigator reduz dívida e acelera descarbonização",
+          "text": "A The Navigator Company reduziu o endividamento líquido em 28 milhões de euros e investiu 42 milhões no primeiro trimestre, dos quais 53% em projetos ambientais e sustentáveis."
+        },
+        {
+          "headline": "Produção de azeite quintuplicou em 26 anos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & REGIÃO",
+      "stories": [
+        {
+          "headline": "BE questiona Comissão Europeia sobre danos em Montemor-o-Velho",
+          "text": "O Bloco de Esquerda questionou Bruxelas sobre a avaliação de danos causados pelo mau tempo em Montemor-o-Velho."
+        },
+        {
+          "headline": "Casa do Cinema de Coimbra comemora 5 anos",
+          "text": ""
+        },
+        {
+          "headline": "Coimbra tem duas praias fluviais premiadas",
+          "text": ""
+        },
+        {
+          "headline": "Projeto de Coimbra distinguido na Europa por regeneração de espaços verdes",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Francesinhas que estão a deixar Coimbra com água na boca",
+          "text": "Evento com as melhores francesinhas da cidade durante dois dias."
+        },
+        {
+          "headline": "Festival de cerveja artesanal em Coimbra",
+          "text": "A cerveja artesanal será servida numa \"parede\" num festival dedicado à bebida."
+        },
+        {
+          "headline": "Fim de semana de petiscos e folclore em Vila Nova de Poiares",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
