@@ -12508,5 +12508,103 @@
       "example_de": "Das Schiff zog sich zum naechsten Hafen zurueck.",
       "example_en": "The ship withdrew to the nearest port."
     }
+  ],
+  "2025-05-09": [
+    {
+      "pt": "o comboio",
+      "de": "der Zug",
+      "en": "the train",
+      "example": "O comboio passou pela estação sem parar",
+      "example_de": "Der Zug fuhr ohne Halt durch den Bahnhof",
+      "example_en": "The train passed through the station without stopping"
+    },
+    {
+      "pt": "afastar",
+      "de": "entfernen / absetzen",
+      "en": "to remove / dismiss",
+      "example": "O ministro afastou 44 agentes das forças de segurança",
+      "example_de": "Der Minister setzte 44 Beamte der Sicherheitskräfte ab",
+      "example_en": "The minister dismissed 44 security force officers"
+    },
+    {
+      "pt": "iluminar",
+      "de": "beleuchten / erleuchten",
+      "en": "to illuminate / light up",
+      "example": "Coimbra ilumina-se em gesto de solidariedade",
+      "example_de": "Coimbra leuchtet als Zeichen der Solidarität",
+      "example_en": "Coimbra lights up as a gesture of solidarity"
+    },
+    {
+      "pt": "tetraplégico",
+      "de": "querschnittsgelähmt",
+      "en": "quadriplegic",
+      "example": "A gripe deixou a jovem tetraplégica",
+      "example_de": "Die Grippe ließ die junge Frau querschnittsgelähmt zurück",
+      "example_en": "The flu left the young woman quadriplegic"
+    },
+    {
+      "pt": "água na boca",
+      "de": "das Wasser im Mund zusammenlaufen",
+      "en": "mouth-watering",
+      "example": "As francesinhas estão a deixar Coimbra com água na boca",
+      "example_de": "Die Francesinhas lassen Coimbra das Wasser im Mund zusammenlaufen",
+      "example_en": "The francesinhas are making Coimbra water its mouth"
+    },
+    {
+      "pt": "rumar a",
+      "de": "sich aufmachen nach / steuern auf",
+      "en": "to head towards",
+      "example": "Os peregrinos rumam a Fátima",
+      "example_de": "Die Pilger machen sich auf den Weg nach Fátima",
+      "example_en": "The pilgrims head towards Fátima"
+    },
+    {
+      "pt": "o peregrino",
+      "de": "der Pilger",
+      "en": "the pilgrim",
+      "example": "Milhares de peregrinos rumam a Fátima em maio",
+      "example_de": "Tausende Pilger machen sich im Mai auf den Weg nach Fátima",
+      "example_en": "Thousands of pilgrims head to Fátima in May"
+    },
+    {
+      "pt": "dilatar",
+      "de": "ausdehnen / vergrößern",
+      "en": "to widen / extend",
+      "example": "Rúben Rodrigues dilatou o comando do campeonato",
+      "example_de": "Rúben Rodrigues baute seine Meisterschaftsführung aus",
+      "example_en": "Rúben Rodrigues extended his championship lead"
+    },
+    {
+      "pt": "o petisco",
+      "de": "die Kleinigkeit / der Tapas-Snack",
+      "en": "the snack / tapa",
+      "example": "Há um fim de semana dedicado a petiscos e folclore",
+      "example_de": "Es gibt ein ganzes Wochenende für Tapas und Folklore",
+      "example_en": "There's a weekend dedicated to snacks and folklore"
+    },
+    {
+      "pt": "o artesanal",
+      "de": "das Handwerkliche / handwerklich",
+      "en": "artisanal / craft",
+      "example": "A cerveja artesanal é servida numa parede",
+      "example_de": "Das Craft-Bier wird an einer Wand ausgeschenkt",
+      "example_en": "Craft beer is served from a wall"
+    },
+    {
+      "pt": "o endividamento",
+      "de": "die Verschuldung",
+      "en": "the indebtedness / debt level",
+      "example": "A Navigator reduziu o endividamento líquido",
+      "example_de": "Navigator senkte die Nettoverschuldung",
+      "example_en": "Navigator reduced net debt"
+    },
+    {
+      "pt": "a reanimação",
+      "de": "die Wiederbelebung",
+      "en": "resuscitation / revival",
+      "example": "O pai iniciou manobras de reanimação antes da ajuda médica",
+      "example_de": "Der Vater begann mit Wiederbelebungsmaßnahmen vor dem Eintreffen der medizinischen Hilfe",
+      "example_en": "The father started resuscitation before medical help arrived"
+    }
   ]
 }
