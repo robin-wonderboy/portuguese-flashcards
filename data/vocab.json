@@ -12606,5 +12606,87 @@
       "example_de": "Der Vater begann mit Wiederbelebungsmaßnahmen vor dem Eintreffen der medizinischen Hilfe",
       "example_en": "The father started resuscitation before medical help arrived"
     }
+  ],
+  "2026-05-10": [
+    {
+      "pt": "o azeite",
+      "de": "das Olivenöl",
+      "en": "olive oil",
+      "example": "A produção de azeite quintuplicou nos últimos 26 anos",
+      "example_de": "Die Olivenölproduktion hat sich in 26 Jahren verfünffacht",
+      "example_en": "Olive oil production has multiplied fivefold in 26 years"
+    },
+    {
+      "pt": "a jornada",
+      "de": "die Reise/etappe",
+      "en": "journey",
+      "example": "Milhares de peregrinos na sua jornada de fé",
+      "example_de": "Tausende Pilger auf ihrer Glaubensreise",
+      "example_en": "Thousands of pilgrims on their journey of faith"
+    },
+    {
+      "pt": "o reboque",
+      "de": "der Anhänger",
+      "en": "trailer/tow",
+      "example": "Reboque fantasma no Rali de Portugal",
+      "example_de": "Gespenster-Anhänger bei der Rallye Portugal",
+      "example_en": "Ghost trailer at the Rally of Portugal"
+    },
+    {
+      "pt": "condicionar",
+      "de": "einschränken/beeinträchtigen",
+      "en": "to constrain/affect",
+      "example": "Corrida da Queima condiciona o trânsito",
+      "example_de": "Das Queima-Rennen beeinträchtigt den Verkehr",
+      "example_en": "The Queima run constrains traffic"
+    },
+    {
+      "pt": "atropelar",
+      "de": "überfahren",
+      "en": "to run over",
+      "example": "Peregrino atropelado por comboio em Coimbra",
+      "example_de": "Pilger von Zug in Coimbra überfahren",
+      "example_en": "Pilgrim run over by train in Coimbra"
+    },
+    {
+      "pt": "caçar",
+      "de": "jagen/fassen",
+      "en": "to hunt/chase down",
+      "example": "Foge da cadeia e é caçado 40 minutos depois",
+      "example_de": "Flieht aus dem Gefängnis und wird 40 Minuten später gefasst",
+      "example_en": "Flees prison and is caught 40 minutes later"
+    },
+    {
+      "pt": "quintuplicar",
+      "de": "sich verfünffachen",
+      "en": "to multiply by five",
+      "example": "A produção de azeite quintuplicou",
+      "example_de": "Die Olivenölproduktion verfünffachte sich",
+      "example_en": "Olive oil production multiplied fivefold"
+    },
+    {
+      "pt": "urgente",
+      "de": "dringend",
+      "en": "urgent",
+      "example": "Alerta urgente aos peregrinos",
+      "example_de": "Dringende Warnung an die Pilger",
+      "example_en": "Urgent warning to pilgrims"
+    },
+    {
+      "pt": "irresistível",
+      "de": "unwiderstehlich",
+      "en": "irresistible",
+      "example": "Pratos irresistíveis num lugar só",
+      "example_de": "Unwiderstehliche Gerichte an einem Ort",
+      "example_en": "Irresistible dishes in one place"
+    },
+    {
+      "pt": "ficar na caminha",
+      "de": "im Bett bleiben (gemütlich)",
+      "en": "to stay in bed (cozy)",
+      "example": "É melhor ficar na caminha - há corrida na Queima",
+      "example_de": "Besser im Bett bleiben - Queima-Rennen heute",
+      "example_en": "Better to stay in bed - Queima run today"
+    }
   ]
 }
