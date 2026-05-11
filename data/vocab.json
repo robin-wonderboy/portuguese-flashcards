@@ -12688,5 +12688,175 @@
       "example_de": "Besser im Bett bleiben - Queima-Rennen heute",
       "example_en": "Better to stay in bed - Queima run today"
     }
+  ],
+  "2026-05-11": [
+    {
+      "pt": "o cemitério",
+      "de": "der Friedhof",
+      "en": "cemetery",
+      "example": "Vândalos atacam cemitérios em Oliveira do Hospital",
+      "example_de": "Vandalen greifen Friedhöfe in Oliveira do Hospital an",
+      "example_en": "Vandals attack cemeteries in Oliveira do Hospital"
+    },
+    {
+      "pt": "a campa",
+      "de": "das Grab",
+      "en": "gravestone, tomb",
+      "example": "Roubam peças de campas",
+      "example_de": "Sie stahlen Teile von Grabsteinen",
+      "example_en": "They stole parts of gravestones"
+    },
+    {
+      "pt": "a rotunda",
+      "de": "der Kreisverkehr",
+      "en": "roundabout",
+      "example": "Carro invade rotunda na Figueira da Foz",
+      "example_de": "Auto fährt in Kreisverkehr in Figueira da Foz",
+      "example_en": "Car invades roundabout in Figueira da Foz"
+    },
+    {
+      "pt": "o desemprego",
+      "de": "die Arbeitslosigkeit",
+      "en": "unemployment",
+      "example": "Do desemprego ao sucesso",
+      "example_de": "Von Arbeitslosigkeit zum Erfolg",
+      "example_en": "From unemployment to success"
+    },
+    {
+      "pt": "a depressão",
+      "de": "das Tiefdruckgebiet",
+      "en": "depression (weather system)",
+      "example": "A depressão poderá finalmente afastar-se",
+      "example_de": "Das Tiefdruckgebiet könnte endlich abziehen",
+      "example_en": "The depression could finally move away"
+    },
+    {
+      "pt": "o noivo",
+      "de": "der Bräutigam",
+      "en": "groom, fiancé",
+      "example": "Mata o noivo com gelo seco",
+      "example_de": "Sie tötet den Bräutigam mit Trockeneis",
+      "example_en": "She kills the groom with dry ice"
+    },
+    {
+      "pt": "afastar-se",
+      "de": "sich entfernen, abrücken",
+      "en": "to move away, withdraw",
+      "example": "A depressão poderá finalmente afastar-se",
+      "example_de": "Das Tiefdruckgebiet könnte endlich abziehen",
+      "example_en": "The depression may finally move away"
+    },
+    {
+      "pt": "chantagear",
+      "de": "erpressen",
+      "en": "to blackmail",
+      "example": "Seduziam vítimas e depois chantageavam-nas",
+      "example_de": "Sie verführten Opfer und erpressten sie danach",
+      "example_en": "They seduced victims and then blackmailed them"
+    },
+    {
+      "pt": "viabilizar",
+      "de": "ermöglichen, durchführbar machen",
+      "en": "to make viable, enable",
+      "example": "PSD não viabilizará CPI à Operação Influencer",
+      "example_de": "PSD wird CPI zur Operation Influencer nicht ermöglichen",
+      "example_en": "PSD will not enable CPI on Operation Influencer"
+    },
+    {
+      "pt": "arrendar",
+      "de": "vermieten",
+      "en": "to rent out",
+      "example": "Arrendar casa em Coimbra ficou mais caro",
+      "example_de": "Haus vermieten in Coimbra wurde teurer",
+      "example_en": "Renting out a house in Coimbra got more expensive"
+    },
+    {
+      "pt": "arrepiante",
+      "de": "haarsträubend, gruselig",
+      "en": "chilling, hair-raising",
+      "example": "Jornalista vive experiência arrepiante",
+      "example_de": "Journalist erlebt haarsträubende Erfahrung",
+      "example_en": "Journalist experiences a chilling event"
+    },
+    {
+      "pt": "carbonizado",
+      "de": "verkohlt",
+      "en": "charred, burned to carbon",
+      "example": "Condutor encontrado carbonizado dentro do veículo",
+      "example_de": "Fahrer verkohlt im Fahrzeug gefunden",
+      "example_en": "Driver found charred inside the vehicle"
+    },
+    {
+      "pt": "dar tréguas",
+      "de": "Schonung gewähren, eine Pause geben",
+      "en": "to give a break, grant respite",
+      "example": "Nossa Senhora dá tréguas aos peregrinos",
+      "example_de": "Unsere Frau gewährt den Pilgern Schonung",
+      "example_en": "Our Lady gives respite to the pilgrims"
+    },
+    {
+      "pt": "em grande",
+      "de": "großartig, im großen Stil",
+      "en": "in a big way, grandly",
+      "example": "GNR em grande na Queima das Fitas",
+      "example_de": "GNR großartig bei der Queima das Fitas",
+      "example_en": "GNR in a big way at Queima das Fitas"
+    },
+    {
+      "pt": "a casa de acolhimento",
+      "de": "das Pflegeheim, die Wohneinrichtung",
+      "en": "care home, shelter",
+      "example": "Adolescentes fogem de casa de acolhimento",
+      "example_de": "Jugendliche fliehen aus Pflegeheim",
+      "example_en": "Teenagers flee from care home"
+    },
+    {
+      "pt": "seduzir",
+      "de": "verführen",
+      "en": "to seduce",
+      "example": "Seduziam vítimas nas redes sociais",
+      "example_de": "Sie verführten Opfer in sozialen Netzwerken",
+      "example_en": "They seduced victims on social media"
+    },
+    {
+      "pt": "a credibilidade",
+      "de": "die Glaubwürdigkeit",
+      "en": "credibility",
+      "example": "Governo perdeu a credibilidade na negociação",
+      "example_de": "Regierung verlor Glaubwürdigkeit bei Verhandlung",
+      "example_en": "Government lost credibility in negotiations"
+    },
+    {
+      "pt": "invadir",
+      "de": "eindringen, überfallen",
+      "en": "to invade",
+      "example": "Carro invade rotunda na Figueira da Foz",
+      "example_de": "Auto dringt in Kreisverkehr ein",
+      "example_en": "Car invades roundabout in Figueira da Foz"
+    },
+    {
+      "pt": "a trovoadas",
+      "de": "die Gewitter",
+      "en": "thunderstorms",
+      "example": "Portugal vai tremer com chuva e trovoadas",
+      "example_de": "Portugal wird mit Regen und Gewittern beben",
+      "example_en": "Portugal will tremble with rain and thunderstorms"
+    },
+    {
+      "pt": "haver",
+      "de": "es geben",
+      "en": "there to be (impersonal)",
+      "example": "Há três dias dedicados ao peixe do rio",
+      "example_de": "Es gibt drei Tage dem Flussfisch gewidmet",
+      "example_en": "There are three days dedicated to river fish"
+    },
+    {
+      "pt": "irreal",
+      "de": "unwirklich",
+      "en": "unreal",
+      "example": "Esta cidade construída numa encosta parece irreal",
+      "example_de": "Diese Stadt auf einem Hang gebaut wirkt unwirklich",
+      "example_en": "This city built on a slope seems unreal"
+    }
   ]
 }
