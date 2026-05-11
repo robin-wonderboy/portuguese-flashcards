@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Portugal vai tremer com chuva e trovoadas",
+          "text": "Uma depressão traz chuva forte e trovoadas a Portugal nos próximos dias, mas há previsão de que o tempo poderá finalmente melhorar a partir de meados da semana."
+        },
+        {
+          "headline": "Sismo sentido a 1 hora de Coimbra",
+          "text": "Um sismo foi sentido numa localidade a cerca de uma hora de Coimbra, sem danos significativos reportados até ao momento."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Arrendar casa em Coimbra ficou 4% mais caro num ano",
+          "text": "O valor médio de arrendamento em Coimbra subiu 4% em relação ao mesmo período do ano passado, refletindo a pressão continuada no mercado de habitação."
+        },
+        {
+          "headline": "Coimbra deu palco aos melhores jovens leitores da região",
+          "text": "A cidade acolheu a final regional do concurso de leitura, premiando os melhores jovens leitores do centro do país."
+        },
+        {
+          "headline": "Carro \"invade\" rotunda na Figueira da Foz",
+          "text": "Um veículo acabou dentro de uma rotunda na Figueira da Foz, num incidente que causou perturbação no trânsito local."
+        },
+        {
+          "headline": "Centro de Artes e Espectáculos da Figueira da Foz celebra 24 anos",
+          "text": "O CAE da Figueira da Foz assinala 24 anos de programação cultural, consolidando-se como referência na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Queima das Fitas cancelada!",
+          "text": "A Queima das Fitas de Coimbra foi cancelada, deixando estudantes e comerciantes dececionados. A GNR estava anunciada em grande para o evento."
+        },
+        {
+          "headline": "A menos de uma hora de Coimbra há três dias dedicados ao peixe do rio",
+          "text": "Um festival gastronómico dedicado ao peixe do rio tem lugar perto de Coimbra, com três dias de prova e cultura local."
+        },
+        {
+          "headline": "Novo espaço na Lousã junta brunch, conforto e pratos irresistíveis",
+          "text": "Um novo restaurante na Lousã combina brunch com pratos de conforto, rapidamente popular entre moradores e visitantes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Homem em prisão preventiva após bater na mulher por não gostar do jantar",
+          "text": "Um homem ficou em prisão preventiva depois de agredir a companheira porque não gostou do jantar que ela preparou."
+        },
+        {
+          "headline": "Seduziam vítimas nas redes sociais e depois chantageavam-nas com fotos íntimas",
+          "text": "Uma rede criminosa seduzia vítimas online e depois as chantageava com fotografias íntimas, num esquema de extorsão digital."
+        },
+        {
+          "headline": "Vândalos atacam cemitérios em Oliveira do Hospital",
+          "text": "Cemitérios em Oliveira do Hospital foram vandalizados, com o roubo de peças de campas e danos em túmulos."
+        },
+        {
+          "headline": "Foge da cadeia e é caçado 40 minutos depois",
+          "text": "Um recluso conseguiu fugir da prisão mas foi capturado apenas 40 minutos depois, graças à rápida resposta das autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "CGTP entrega pré-aviso de greve geral para \"derrotar o pacote laboral\"",
+          "text": "A central sindical CGTP entregou o pré-aviso de greve geral em oposição ao pacote laboral do Governo, marcando um ponto alto de tensão social."
+        },
+        {
+          "headline": "PSD não viabilizará CPI à Operação Influencer",
+          "text": "O PSD anunciou que não viabilizará a comissão parlamentar de inquérito à Operação Influencer proposta pelo Chega."
+        },
+        {
+          "headline": "Líder do PS diz que Governo \"perdeu a credibilidade\" na negociação da reforma laboral",
+          "text": "O líder do Partido Socialista criticou duramente o Governo, dizendo que este perdeu toda a credibilidade nas negociações sobre a reforma laboral."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hantavirus: OMS recomenda 42 dias de quarentena",
+          "text": "A Organização Mundial da Saúde recomendou 42 dias de quarentena como medida de precaução face ao surto de hantavirus, que também afetou um cruzeiro."
+        },
+        {
+          "headline": "Comissão de trabalhadores acusa Governo de querer desmantelar o INEM",
+          "text": "A comissão de trabalhadores do INEM acusa o Governo de querer desmantelar o serviço de emergência médica com a nova reforma, alertando para redução grave da capacidade de resposta."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Porto campeão europeu de hóquei em patins. E vão 4!",
+          "text": "O FC Porto conquistou o título europeu de hóquei em patins, somando o quarto troféu consecutivo na modalidade."
+        },
+        {
+          "headline": "Sporting conquista UEFA Futsal Champions League",
+          "text": "O Sporting CP venceu a UEFA Futsal Champions League, conquistando mais um título europeu para o clube."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Festival Eurovisão arranca sob polémica e boicotes por causa de Israel",
+          "text": "O Festival da Eurovisão começou com protestos e ameaças de boicote devido à participação de Israel, gerando tensão antes mesmo do início das competições."
+        },
+        {
+          "headline": "Despiste de viatura de mercadorias mata 16 pessoas em Moçambique",
+          "text": "Um acidente de viação com um veículo de mercadorias causou 16 mortes no norte de Moçambique, numa das maiores tragédias rodoviárias recentes do país."
+        },
+        {
+          "headline": "Cães abandonados seguem monge em ritual diário",
+          "text": "Cães abandonados acompanham um monge no seu ritual diário nas ruas, numa história que emocionou as redes sociais."
+        }
+      ]
+    }
+  ]
+}
