@@ -12858,5 +12858,167 @@
       "example_de": "Diese Stadt auf einem Hang gebaut wirkt unwirklich",
       "example_en": "This city built on a slope seems unreal"
     }
+  ],
+  "2026-05-12": [
+    {
+      "pt": "a liquidação",
+      "de": "der Räumungsverkauf",
+      "en": "clearance sale / liquidation",
+      "example": "Liquidação total antecipa fecho da Moviflor",
+      "example_de": "Totaler Räumungsverkauf kündigt Schließung der Moviflor an",
+      "example_en": "Total clearance sale anticipates Moviflor closure"
+    },
+    {
+      "pt": "o fecho",
+      "de": "die Schließung",
+      "en": "closure",
+      "example": "O fecho da loja foi anunciado",
+      "example_de": "Die Schließung des Ladens wurde angekündigt",
+      "example_en": "The store closure was announced"
+    },
+    {
+      "pt": "o arrojo",
+      "de": "die Kühnheit",
+      "en": "boldness / daring",
+      "example": "O país precisa de sindicalistas com arrojo",
+      "example_de": "Das Land braucht Gewerkschafter mit Kühnheit",
+      "example_en": "The country needs bold trade unionists"
+    },
+    {
+      "pt": "o grelo",
+      "de": "der Rübentrieb",
+      "en": "turnip sprout (local food)",
+      "example": "A feira dedicada aos grelos",
+      "example_de": "Der Markt, der den Rübentrieben gewidmet ist",
+      "example_en": "The fair dedicated to turnip sprouts"
+    },
+    {
+      "pt": "a travessa",
+      "de": "die Gasse",
+      "en": "alley / side street",
+      "example": "Município alarga a Travessa do Análio",
+      "example_de": "Die Gemeinde verbreitert die Análio-Gasse",
+      "example_en": "The municipality widens Travessa do Análio"
+    },
+    {
+      "pt": "obrigar",
+      "de": "zwingen",
+      "en": "to oblige / to force",
+      "example": "Kristin obriga Universidade de Coimbra a mudar aulas",
+      "example_de": "Kristin zwingt die Universität Coimbra, Vorlesungen zu ändern",
+      "example_en": "Kristin forces University of Coimbra to change classes"
+    },
+    {
+      "pt": "desencapar",
+      "de": "aufdecken / enttarnen",
+      "en": "to uncover / to catch (slang)",
+      "example": "GNR desencapa 9 kg de cobre furtado",
+      "example_de": "GNR deckt 9 kg gestohlenen Kupfers auf",
+      "example_en": "GNR uncovers 9 kg of stolen copper"
+    },
+    {
+      "pt": "indeferir",
+      "de": "ablehnen / zurückweisen",
+      "en": "to reject / to deny (a request)",
+      "example": "Condeixa-a-Nova indefere instalação de parque fotovoltaico",
+      "example_de": "Condeixa-a-Nova lehnt Installation eines Fotovoltaikparks ab",
+      "example_en": "Condeixa-a-Nova rejects installation of solar park"
+    },
+    {
+      "pt": "envolver",
+      "de": "einbeziehen / verwickeln",
+      "en": "to involve / to engage",
+      "example": "Portugal quer envolver jovens e transformar o setor",
+      "example_de": "Portugal will Jugendliche einbeziehen und den Sektor transformieren",
+      "example_en": "Portugal wants to involve youth and transform the sector"
+    },
+    {
+      "pt": "tremendo",
+      "de": "gewaltig / enorm",
+      "en": "tremendous / terrible",
+      "example": "Uma perda tremenda — ambulância destruída em incêndio",
+      "example_de": "Ein gewaltiger Verlust — Krankenwagen bei Brand zerstört",
+      "example_en": "A tremendous loss — ambulance destroyed in fire"
+    },
+    {
+      "pt": "extensível",
+      "de": "ausziehbar / teleskopierbar",
+      "en": "extendable / telescopic",
+      "example": "Circula com bastão extensível",
+      "example_de": "Läuft mit teleskopierbarem Schlagstock herum",
+      "example_en": "Goes around with an extendable baton"
+    },
+    {
+      "pt": "no vermelho",
+      "de": "in den roten Zahlen",
+      "en": "in the red (in debt)",
+      "example": "Contas do ITAP continuam no vermelho",
+      "example_de": "Die Konten des ITAP bleiben in den roten Zahlen",
+      "example_en": "ITAP accounts remain in the red"
+    },
+    {
+      "pt": "o cobre",
+      "de": "das Kupfer",
+      "en": "copper",
+      "example": "GNR desencapa 9 kg de cobre furtado em Coimbra",
+      "example_de": "GNR deckt 9 kg gestohlenen Kupfers in Coimbra auf",
+      "example_en": "GNR uncovers 9 kg of stolen copper in Coimbra"
+    },
+    {
+      "pt": "irrepetível",
+      "de": "unwiederholbar",
+      "en": "unrepeatable / unique",
+      "example": "Encontro único e irrepetível com bandas filarmónicas",
+      "example_de": "Einmaliges und unwiederholbares Treffen mit Blaskapellen",
+      "example_en": "Unique and unrepeatable encounter with philharmonic bands"
+    },
+    {
+      "pt": "a unanimidade",
+      "de": "die Einstimmigkeit",
+      "en": "unanimity",
+      "example": "Uma Europa que depende da unanimidade chega sempre tarde",
+      "example_de": "Ein Europa, das von Einstimmigkeit abhängt, kommt immer zu spät",
+      "example_en": "A Europe that depends on unanimity always arrives late"
+    },
+    {
+      "pt": "a procuradoria",
+      "de": "die Staatsanwaltschaft",
+      "en": "prosecutors office",
+      "example": "Prisão preventiva para 4 agentes da PSP em caso de tortura",
+      "example_de": "Untersuchungshaft für 4 PSP-Beamte im Folterfall",
+      "example_en": "Preventive prison for 4 PSP officers in torture case"
+    },
+    {
+      "pt": "o trovador",
+      "de": "der Troubadour / Sängerkrieger",
+      "en": "troubadour / minstrel",
+      "example": "Eiras voltam à Idade Média com espetáculo de fogo e trovadores",
+      "example_de": "Eiras kehrt ins Mittelalter zurück mit Feuerspektakel und Troubadours",
+      "example_en": "Eiras returns to the Middle Ages with fire spectacle and troubadours"
+    },
+    {
+      "pt": "a seguranca social",
+      "de": "die Sozialversicherung",
+      "en": "social security",
+      "example": "Nova regra muda o acesso à segurança social a partir desta terça-feira",
+      "example_de": "Neue Regelung ändert den Zugang zur Sozialversicherung ab diesem Dienstag",
+      "example_en": "New rule changes access to social security from this Tuesday"
+    },
+    {
+      "pt": "o silencioso",
+      "de": "der Heimliche / lautlose",
+      "en": "silent / stealthy",
+      "example": "O perigo silencioso no seu telemóvel",
+      "example_de": "Die stille Gefahr in Ihrem Handy",
+      "example_en": "The silent danger on your mobile phone"
+    },
+    {
+      "pt": "o gás pimenta",
+      "de": "das Pfefferspray",
+      "en": "pepper spray",
+      "example": "Dama circula com gás pimenta e bastão extensível",
+      "example_de": "Dame läuft mit Pfefferspray und Teleskopschlagstock herum",
+      "example_en": "Woman goes around with pepper spray and extendable baton"
+    }
   ]
 }
