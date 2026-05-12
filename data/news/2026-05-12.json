@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Enfermeiros de todos os setores cumprem um dia de greve",
+          "text": "Os enfermeiros portugueses estão hoje em greve em todos os setores, reclamando melhores condições de trabalho e remuneração. A Ordem dos Enfermeiros alerta que a falta de 14 mil profissionais coloca o SNS em risco de colapso."
+        },
+        {
+          "headline": "Hantavírus: sintomas, risco e o que pode acontecer em Portugal",
+          "text": "Com surtos na América do Sul a gerar preocupação global, a questão é se o hantavírus pode chegar a Portugal. As autoridades de saúde monitorizam a situação, embora o risco em Europa seja considerado baixo por agora."
+        },
+        {
+          "headline": "Registadas menos cirurgias nos hospitais protocolados com o SNS",
+          "text": "Os hospitais com protocolo com o Serviço Nacional de Saúde realizaram menos cirurgias no último período, o que aumenta as listas de espera e preocupa doentes e profissionais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Prisão preventiva para 4 agentes da PSP em caso de tortura e violação",
+          "text": "Quatro agentes da PSP foram colocados em prisão preventiva, acusados de tortura e violação. O caso chocou a opinião pública e reabriu o debate sobre controlo policial."
+        },
+        {
+          "headline": "Discussão sobre quem pagava explicação do filho acaba em tragédia",
+          "text": "Um argumento entre pais sobre o pagamento de explicações do filho terminou em tragédia. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "GNR \"desencapa\" 9 kg de cobre furtado em Coimbra",
+          "text": "A GNR recuperou 9 quilos de cobre roubado em Coimbra. O furtar de metais tem sido um problema crescente na região, com prejuízos para infraestruturas."
+        },
+        {
+          "headline": "Alertas para aumento dos acidentes graves na noite de Coimbra",
+          "text": "As autoridades alertam para o aumento de acidentes graves durante a noite em Coimbra, especialmente envolvendo condutores sob influência de álcool."
+        },
+        {
+          "headline": "Dama circula com gás pimenta, bastão extensível e faca de mato",
+          "text": "Uma mulher foi detida a circular com armas proibidas, incluindo gás pimenta, um bastão extensível e uma faca de mato. Os objetos foram apreendidos pela polícia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Liquidação total antecipa fecho da Moviflor em Coimbra",
+          "text": "A loja Moviflor em Coimbra está em liquidação total antes do fecho definitivo. A cadeia tem vindo a encerrar espaços em várias cidades portuguesas."
+        },
+        {
+          "headline": "Ambulância dos Bombeiros Voluntários da Figueira da Foz destruída em incêndio",
+          "text": "Uma ambulância dos Bombeiros Voluntários da Figueira da Foz foi completamente destruída num incêndio. O comandante descreveu como \"uma perda tremenda\" para o corpo de bombeiros."
+        },
+        {
+          "headline": "Mealhada celebra o Feriado Municipal com homenagens, tradição e festa no Bussaco",
+          "text": "A Mealhada celebra hoje o seu feriado municipal com um programa que inclui homenagens, tradição e festa no Bussaco, atraindo visitantes de toda a região."
+        },
+        {
+          "headline": "Uma das aves mais fascinantes vive agora no Parque Biológico da Serra da Lousã",
+          "text": "O Parque Biológico da Serra da Lousã recebeu uma ave rara e fascinante, enriquecendo a sua coleção e atraindo amantes da natureza."
+        },
+        {
+          "headline": "Lousã distingue os talentos que estão a levar o concelho mais longe",
+          "text": "Do desporto à gastronomia, a Lousã distinguiu personalidades locais que estão a projetar o concelho além-fronteiras, numa cerimónia de reconhecimento."
+        },
+        {
+          "headline": "Condeixa-a-Nova indefere instalação de parque fotovoltaico",
+          "text": "O município de Condeixa-a-Nova rejeitou a instalação de um parque fotovoltaico, citando preocupações com o impacto ambiental e paisagístico."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Está a chegar a Mira a feira dedicada aos grelos (e ao gin feito de nabo)",
+          "text": "Mira prepara-se para receber a sua feira tradicional dedicada aos grelos e ao gin feito de nabo, uma celebração da gastronomia local que atrai visitantes de toda a região."
+        },
+        {
+          "headline": "Eiras e São Paulo de Frades voltam à Idade Média com espetáculo de fogo e trovadores",
+          "text": "As freguesias de Eiras e São Paulo de Frades transformam-se em cenário medieval, com espetáculo de fogo, trovadores e atividades para todas as idades."
+        },
+        {
+          "headline": "\"Impulso Criativo\" leva arte, workshops e música ao Grémio Operário em Coimbra",
+          "text": "O evento \"Impulso Criativo\" traz arte, workshops e música ao Grémio Operário em Coimbra, promovendo a criatividade e a participação comunitária."
+        },
+        {
+          "headline": "Portugal luta por um dos lugares na final da Eurovisão",
+          "text": "Portugal compete esta semana por uma vaga na final da Eurovisão, com o representante português a tentar garantir a passagem na semifinal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Nova regra muda o acesso à segurança social a partir desta terça-feira",
+          "text": "A partir de hoje, novas regras alteram o acesso à segurança social em Portugal. As mudanças afetam milhões de cidadãos e requerem nova autenticação digital."
+        },
+        {
+          "headline": "CGTP apela a \"luta em convergência\" na greve geral contra pacote laboral",
+          "text": "A CGTP apela à convergência de lutas na greve geral contra o pacote laboral do governo, que altera direitos laborais fundamentais."
+        },
+        {
+          "headline": "Ministra do Trabalho diz que há \"mais vida\" além da reforma laboral",
+          "text": "A ministra do Trabalho defendeu que existem outras prioridades além da reforma laboral do governo, tentando diversificar a agenda política."
+        },
+        {
+          "headline": "Arrendar casa em Coimbra ficou 4% mais caro num ano",
+          "text": "O arrendamento em Coimbra subiu 4% no último ano, refletindo a pressão entre estudantes, investidores e jovens famílias que competem pelo mesmo mercado."
+        },
+        {
+          "headline": "Contas do ITAP continuam no vermelho",
+          "text": "As contas do Instituto de Telecomunicações e Aeronáutica de Portugal continuam deficitárias, levantando questões sobre a sustentabilidade financeira da instituição."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Street Store da Académica transforma Coimbra num espaço de dignidade e ajuda",
+          "text": "A Académica de Coimbra organiza um Street Store, onde pessoas sem-abrigo podem escolher roupas gratuitamente com dignidade, num modelo de loja temporária."
+        },
+        {
+          "headline": "Kristin obriga Universidade de Coimbra a mudar aulas de Arquitetura",
+          "text": "O ciclão Kristin forçou a Universidade de Coimbra a alterar o funcionamento das aulas do curso de Arquitetura, com danos no edifício do departamento."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sporting vence Rio Ave e isola-se no segundo lugar",
+          "text": "O Sporting CP venceu o Rio Ave e consolidou a segunda posição na I Liga, mantendo a pressão no líder."
+        },
+        {
+          "headline": "Benfica empata com Sporting de Braga e cai para terceiro",
+          "text": "O Benfica empatou com o Sporting de Braga e desceu ao terceiro lugar da tabela, complicando a luta pelo título."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Beatles vão ter primeiro museu no mesmo local onde deram último concerto",
+          "text": "Os Beatles terão o seu primeiro museu no local do último concerto do grupo, um projeto que atrairá fãs de todo o mundo."
+        },
+        {
+          "headline": "Mulher assassinada pelo marido no dia do casamento",
+          "text": "Um caso chocante de violência doméstica: uma mulher foi assassinada pelo marido no próprio dia do casamento, gerando comoção internacional."
+        },
+        {
+          "headline": "Ucrânia: Putin nunca esteve tão fraco, mas é cedo para falar em negociações",
+          "text": "Analistas indicam que Putin está mais fraco do que nunca, mas alertam que ainda é prematuro para negociar um fim do conflito."
+        }
+      ]
+    }
+  ]
+}
