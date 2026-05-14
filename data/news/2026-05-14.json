@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Distrito de Coimbra na lista negra do risco de incêndios",
+          "text": "O distrito de Coimbra está classificado na lista negra de risco de incêndios florestais. As autoridades alertam para uma temporada que se avizinha particularmente perigosa."
+        },
+        {
+          "headline": "2026 pode ser ano \"muito difícil\" de incêndios",
+          "text": "Especialistas preveem que 2026 pode ser um ano muito difícil em termos de incêndios florestais, com condições climáticas que potenciam o risco."
+        },
+        {
+          "headline": "Aeronaves com retardantes são a grande aposta da Proteção Civil",
+          "text": "A Proteção Civil anunciou que as aeronaves com retardantes do fogo são a grande aposta para este ano, reforçando os meios de combate aos incêndios."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Detido por tentar matar foge do tribunal",
+          "text": "Pânico num tribunal após um detido por tentativa de homicídio ter conseguido fugir durante o julgamento. As autoridades estão a perseguir o fugitivo."
+        },
+        {
+          "headline": "Operação Marquês: Tribunal começa a julgar ação de Sócrates",
+          "text": "O tribunal começou a julgar a ação em que José Sócrates exige ser indemnizado no âmbito da Operação Marquês, um dos maiores processos judiciais portugueses."
+        },
+        {
+          "headline": "Doente paga milhares por terapia e fica impotente",
+          "text": "Um doente pagou milhares de euros por uma terapia que o deixou impotente, sem vida sexual. O caso está agora nos tribunais."
+        },
+        {
+          "headline": "Burla dos Euros Negros continua a render milhões",
+          "text": "A burla dos Euros Negros continua a render milhões, com novas vítimas a serem enganadas por esta fraude que circula há anos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo aprova proposta de lei sobre alterações à lei laboral",
+          "text": "O Governo aprovou proposta de lei que introduz alterações à lei laboral. As mudanças geram debate sobre os direitos dos trabalhadores."
+        },
+        {
+          "headline": "Ministro admite encerramento de esquadras da PSP em Lisboa",
+          "text": "O Ministro da Administração Interna admitiu o possível encerramento de esquadras da PSP em Lisboa, gerando preocupação entre os profissionais de segurança."
+        },
+        {
+          "headline": "Ensino superior é mais barato em Portugal mas pesa no bolso",
+          "text": "Apesar de Portugal ter ensino superior mais barato que a média europeia, os custos continuam a pesar no bolso das famílias portuguesas."
+        },
+        {
+          "headline": "Mudanças no cabaz alimentar: mesmo produtos custam 20€ mais",
+          "text": "O cabaz alimentar sofreu mudanças significativas - há um ano era possível comprar os mesmos produtos por menos 20 euros do que hoje."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Ateneu de Coimbra leva participantes às gravuras rupestres do Vale do Côa",
+          "text": "O Ateneu de Coimbra organizou uma visita às gravuras rupestres do Vale do Côa, permitindo aos participantes descobrir este património arqueológico único."
+        },
+        {
+          "headline": "Chef Justa Nobre sensibiliza alunos para alimentação saudável",
+          "text": "A reconhecida chef Justa Nobre esteve em Coimbra para sensibilizar estudantes para a importância de uma alimentação saudável e sustentável."
+        },
+        {
+          "headline": "Coimbra quer instalar segunda esquadra da PSP no Terreiro da Erva",
+          "text": "A Câmara de Coimbra quer instalar a segunda esquadra da PSP no Terreiro da Erva, reforçando a presença policial na cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Penela prepara 2 dias de loucura medieval, tudo à borla",
+          "text": "Penela prepara dois dias de loucura medieval com torneios, magia e cortejos reais. Tudo gratuito para os visitantes."
+        },
+        {
+          "headline": "Alva Skate Fest volta a trazer adrenalina a Oliveira do Hospital",
+          "text": "O Alva Skate Fest regressa a Oliveira do Hospital com adrenalina e emoção para os amantes de skate e desportes radicais."
+        },
+        {
+          "headline": "Eurovision: últimos 10 finalistas escolhidos entre 15 países",
+          "text": "A segunda semifinal do Festival Eurovisão escolheu os últimos 10 finalistas entre 15 países concorrentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Poluição atmosférica causa 146.500 mortes prematuras na Europa",
+          "text": "Um novo relatório revela que a poluição atmosférica causa 146.500 mortes prematuras anualmente na Europa, um número que continua alarmante."
+        },
+        {
+          "headline": "Hantavírus: Centro Europeu diz não haver indícios de nova estirpe",
+          "text": "O Centro Europeu de Prevenção e Controlo de Doenças afirmou que não há razões para suspeitar que o hantavírus seja uma nova estirpe."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Cada euro na universidade rende quase 14 euros em salário",
+          "text": "Um estudo mostra que cada euro investido na universidade rende quase 14 euros em salário ao longo da carreira, justificando o investimento na educação superior."
+        },
+        {
+          "headline": "Professores: propostas do Governo desvalorizam carreira docente",
+          "text": "Professores consideram que as propostas do Governo para a lei laboral desvalorizam a carreira docente e não respondem às suas reivindicações."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "89 mortos devido a tempestades no norte da Índia",
+          "text": "Pelo menos 89 pessoas morreram devido a tempestades violentas no norte da Índia, com ventos fortes e chuva intensa a causar devastação."
+        }
+      ]
+    }
+  ]
+}
