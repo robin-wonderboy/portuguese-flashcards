@@ -13020,5 +13020,167 @@
       "example_de": "Dame läuft mit Pfefferspray und Teleskopschlagstock herum",
       "example_en": "Woman goes around with pepper spray and extendable baton"
     }
+  ],
+  "2026-05-14": [
+    {
+      "pt": "o retardante",
+      "de": "das Brandverzögerungsmittel",
+      "en": "fire retardant",
+      "example": "Aeronaves com retardantes do fogo",
+      "example_de": "Flugzeuge mit Brandverzögerungsmitteln",
+      "example_en": "Aircraft with fire retardants"
+    },
+    {
+      "pt": "a gravura rupestre",
+      "de": "die Felsgravur",
+      "en": "rock engraving",
+      "example": "Descoberta das gravuras rupestres do Vale do Côa",
+      "example_de": "Entdeckung der Felsgravuren im Côa-Tal",
+      "example_en": "Discovery of rock engravings in the Côa Valley"
+    },
+    {
+      "pt": "a carreira docente",
+      "de": "die Lehrerkarriere",
+      "en": "teaching career",
+      "example": "Propostas do Governo desvalorizam carreira docente",
+      "example_de": "Regierungsvorschläge werten die Lehrerkarriere ab",
+      "example_en": "Government proposals devalue the teaching career"
+    },
+    {
+      "pt": "a gastroenterite",
+      "de": "die Magen-Darm-Entzündung",
+      "en": "gastroenteritis",
+      "example": "Epidemia de gastroenterite a bordo de cruzeiro",
+      "example_de": "Gastroenteritis-Epidemie an Bord eines Kreuzfahrtschiffs",
+      "example_en": "Gastroenteritis epidemic aboard a cruise ship"
+    },
+    {
+      "pt": "render",
+      "de": "einbringen/erbringen",
+      "en": "to yield/return (investment)",
+      "example": "Cada euro na universidade rende quase 14 euros em salário",
+      "example_de": "Jeder Euro an der Uni bringt fast 14 Euro beim Gehalt ein",
+      "example_en": "Each euro at university yields almost 14 euros in salary"
+    },
+    {
+      "pt": "desvalorizar",
+      "de": "abwerten",
+      "en": "to devalue",
+      "example": "Professores consideram que propostas desvalorizam carreira docente",
+      "example_de": "Lehrer halten die Vorschläge für eine Abwertung der Lehrerkarriere",
+      "example_en": "Teachers consider the proposals devalue the teaching career"
+    },
+    {
+      "pt": "sangrar-se",
+      "de": "sich aufopfern",
+      "en": "to bleed oneself/to sacrifice",
+      "example": "Atleta da AAC sangra-se campeão nacional de xadrez",
+      "example_de": "AAC-Athlet opfert sich zum nationalen Schachmeister auf",
+      "example_en": "AAC athlete bleeds himself to become national chess champion"
+    },
+    {
+      "pt": "acelerar",
+      "de": "beschleunigen",
+      "en": "to accelerate",
+      "example": "Máquinas impressionantes vão acelerar emoções em Coja",
+      "example_de": "Beeindruckende Maschinen werden Emotionen in Coja beschleunigen",
+      "example_en": "Impressive machines will accelerate emotions in Coja"
+    },
+    {
+      "pt": "impressionante",
+      "de": "beeindruckend",
+      "en": "impressive",
+      "example": "Máquinas impressionantes vão acelerar emoções em Coja",
+      "example_de": "Beeindruckende Maschinen werden Emotionen in Coja beschleunigen",
+      "example_en": "Impressive machines will accelerate emotions in Coja"
+    },
+    {
+      "pt": "a lista negra",
+      "de": "die schwarze Liste",
+      "en": "blacklist",
+      "example": "Distrito de Coimbra está na lista negra do risco de incêndios",
+      "example_de": "Der Bezirk Coimbra steht auf der schwarzen Liste der Brandgefahr",
+      "example_en": "Coimbra district is on the blacklist of fire risk"
+    },
+    {
+      "pt": "a autuação",
+      "de": "die Strafanzeige",
+      "en": "traffic citation",
+      "example": "Ninguém tem que ser autuado",
+      "example_de": "Niemand muss angezeigt werden",
+      "example_en": "Nobody has to be cited"
+    },
+    {
+      "pt": "indemnizar",
+      "de": "entschädigen",
+      "en": "to compensate/indemnify",
+      "example": "Sócrates exige ser indemnizado",
+      "example_de": "Sócrates fordert Entschädigung",
+      "example_en": "Sócrates demands to be compensated"
+    },
+    {
+      "pt": "confessar",
+      "de": "gestehen",
+      "en": "to confess",
+      "example": "Detido por tentar matar foge do tribunal",
+      "example_de": "Festgenommener, der töten wollte, flieht aus dem Gericht",
+      "example_en": "Detainee who tried to kill flees court"
+    },
+    {
+      "pt": "a impotência",
+      "de": "die Impotenz/Machtlosigkeit",
+      "en": "impotence/powerlessness",
+      "example": "Doente fica sem vida sexual, deixa-o impotente",
+      "example_de": "Kranker verliert Sexualleben, Machtlosigkeit",
+      "example_en": "Patient loses sex life, leaves him impotent"
+    },
+    {
+      "pt": "a carreira",
+      "de": "die Laufbahn/Karriere",
+      "en": "career",
+      "example": "Propostas do Governo desvalorizam a carreira docente",
+      "example_de": "Regierungsvorschläge werten die Lehrkarriere ab",
+      "example_en": "Government proposals devalue the teaching career"
+    },
+    {
+      "pt": "a alimentação",
+      "de": "die Ernährung",
+      "en": "diet/nutrition",
+      "example": "Chef sensibiliza alunos para alimentação saudável",
+      "example_de": "Koch sensibilisiert Schüler für gesunde Ernährung",
+      "example_en": "Chef raises students awareness of healthy eating"
+    },
+    {
+      "pt": "o torneio",
+      "de": "das Turnier",
+      "en": "tournament",
+      "example": "Penela prepara torneios e cortejos reais",
+      "example_de": "Penela bereitet Turniere und Königszüge vor",
+      "example_en": "Penela prepares tournaments and royal processions"
+    },
+    {
+      "pt": "a austeridade",
+      "de": "die Austerität/Sparsamkeit",
+      "en": "austerity",
+      "example": "Ensino superior é mais barato mas pesa no bolso",
+      "example_de": "Hochschulbildung ist billiger, belastet aber den Geldbeutel",
+      "example_en": "Higher education is cheaper but weighs on the wallet"
+    },
+    {
+      "pt": "o bolso",
+      "de": "der Geldbeutel/Tasche",
+      "en": "pocket/wallet",
+      "example": "Ensino superior é mais barato mas pesa no bolso",
+      "example_de": "Hochschulbildung ist billiger, belastet aber den Geldbeutel",
+      "example_en": "Higher education is cheaper but weighs on the pocket"
+    },
+    {
+      "pt": "regularizar",
+      "de": "regulieren/ordnen",
+      "en": "to regularize/sort out",
+      "example": "Acordo regulariza utilização da sede da Junta de Freguesia",
+      "example_de": "Vereinbarung regelt Nutzung des Gemeindeamtsitzes",
+      "example_en": "Agreement regularizes use of the parish council headquarters"
+    }
   ]
 }
