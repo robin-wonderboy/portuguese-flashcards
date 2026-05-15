@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Portugal entra em modo verão com dias escaldantes",
+          "text": "A brasa está a chegar - Portugal prepara-se para uma onda de calor com temperaturas escaldantes. O país entra oficialmente em modo verão nos próximos dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Meios de combate reforçados com 11.955 operacionais e 37 meios aéreos",
+          "text": "Portugal reforça os meios de combate a incêndios para a época crítica, com quase 12 mil operacionais e 37 meios aéreos disponíveis."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "PSP no Terreiro da Erva funciona como esquadra \"2 em 1\"",
+          "text": "A esquadra da PSP no Terreiro da Erva em Coimbra vai funcionar como espaço partilhado, numa solução de \"2 em 1\" para manter a presença policial na zona."
+        },
+        {
+          "headline": "Motoristas abastecem, fogem sem pagar e tentam abalroar carro da GNR",
+          "text": "Indivíduos abasteceram o carro numa bomba de combustível e fugiram sem pagar. Quando a GNR os perseguiu, tentaram ainda abalroar o carro das autoridades."
+        },
+        {
+          "headline": "Juiz Ivo Rosa acusa Ministério Público de perseguição",
+          "text": "O juiz Ivo Rosa enviou uma carta ao Presidente da República acusando o MP de perseguição, no contexto dos processos que envolvem o caso Rui Pinto."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Oferta de casas em Coimbra caiu a pique",
+          "text": "Quem procura casa em Coimbra enfrenta uma oferta que caiu a pique. A escassez de imóveis disponíveis continua a pressionar os preços para cima."
+        },
+        {
+          "headline": "Edifício na Baixa de Coimbra vai ser transformado em habitação controlada",
+          "text": "Um edifício na Baixa de Coimbra será convertido em habitação de renda controlada, no âmbito de um programa municipal para aumentar a oferta de habitação acessível."
+        },
+        {
+          "headline": "PS vota contra reforma laboral se proposta mantiver \"traves mestras\"",
+          "text": "O Partido Socialista avisou que votará contra a reforma laboral se a proposta final mantiver as \"traves mestras\" do anteprojeto governamental."
+        },
+        {
+          "headline": "Governo alarga serviços mínimos a cuidados de doentes, crianças e seniores",
+          "text": "O Governo decidiu alargar os serviços mínimos durante greves a setores de cuidados de doentes, crianças e seniores."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "category": "DESPORTO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra aplaude Matilde Gaspar na gala do desporto",
+          "text": "A cidade de Coimbra homenageou os melhores atletas numa noite de gala. Matilde Gaspar foi uma das distinguidas, declarando que treina todos os dias."
+        },
+        {
+          "headline": "Figueirense faz história e assume liderança do Giro d'Italia",
+          "text": "O ciclista português do Figueirense fez história ao assumir a liderança do Giro d'Italia, numa etapa que passou pela Figueira da Foz."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Jardins Transversais leva arte e meditação à Baixa de Coimbra",
+          "text": "O evento Jardins Transversais regressa ao coração da Baixa de Coimbra com arte, sons e meditação, transformando os espaços públicos da cidade."
+        },
+        {
+          "headline": "Conimbriga celebra Dia dos Museus com concertos nas ruínas",
+          "text": "Conimbriga vai celebrar o Dia Internacional dos Museus com concertos nas ruínas e uma palestra inesperada, num programa que mistura música e história antiga."
+        },
+        {
+          "headline": "Festival de vinho e queijo na Região Centro",
+          "text": "Prepare o apetite - há três dias para provar o melhor vinho e queijo da Região Centro num festival que celebra os sabores locais."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Tempestades no norte da Índia fazem 111 mortos",
+          "text": "O número de mortos devido a tempestades no norte da Índia subiu para 111, com vendavais e chuvas intensas a causarem devastação em várias regiões."
+        },
+        {
+          "headline": "Freira morre afogada ao tentar salvar colegas",
+          "text": "Uma freira morreu afogada ao tentar salvar colegas que foram arrastadas por uma forte corrente, num gesto de solidariedade que acabou em tragédia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Hipertensão: o assassino silencioso preocupa especialistas",
+          "text": "Milhões de portugueses sofrem de hipertensão sem saber. Especialistas alertam para este \"assassino silencioso\" e a importância da prevenção."
+        },
+        {
+          "headline": "Casa que alia tecnologia à saúde inaugurada no hospital da Tocha",
+          "text": "Foi inaugurada no hospital da Tocha uma casa inovadora que alia tecnologia à saúde, proporcionando melhores cuidados aos doentes da região."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "38,3% dos profissionais dizem ser vítimas de assédio laboral",
+          "text": "Um estudo revela que mais de um terço dos profissionais em Portugal afirma ter sido vítima de assédio no local de trabalho."
+        },
+        {
+          "headline": "Segredo dos combustíveis baratos: pode poupar mais de 12 cêntimos por litro",
+          "text": "Há uma diferença de mais de 12 cêntimos por litro entre as bombas mais caras e mais baratas em Portugal. Descubra onde poupar no próximo abastecimento."
+        }
+      ]
+    }
+  ]
+}
