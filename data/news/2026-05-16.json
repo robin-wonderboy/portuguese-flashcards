@@ -1,0 +1,130 @@
+{
+  "date": "2026-05-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Explosão por um triz: Carro a gás destrói painel de publicidade em Coimbra",
+          "text": "Uma colisão entre duas viaturas ligeiras, seguida de despiste, provocou um ferido ligeiro na rotunda do Casal do Sal. O veículo acabou por destruir um painel de publicidade. Os bombeiros acionaram-se ao local e confirmaram tratar-se de um despiste após um choque entre dois carros."
+        },
+        {
+          "headline": "Circulação restabelecida na rotunda da Av. Sá da Bandeira após obras do Metrobus",
+          "text": "A circulação rodoviária na rotunda da Avenida Sá da Bandeira, junto ao Monumento a Camões, foi restabelecida após conclusão de obras de pavimentação do canal do Metrobus. A Metro Mondego e a Câmara agradecem a compreensão dos munícipes pelos constrangimentos."
+        },
+        {
+          "headline": "Obras ferroviárias em Torre de Vilela condicionam trânsito e transportes públicos",
+          "text": "Obras ferroviárias em Torre de Vilela estão a condicionar o trânsito e os transportes públicos na zona."
+        },
+        {
+          "headline": "Cento e cinquenta alunos criam projeto artístico em Coimbra",
+          "text": "Cento e cinquenta alunos criaram um projeto artístico em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Cantanhede: Obras de melhoria das acessibilidades continuam em curso",
+          "text": "As obras de melhoria das acessibilidades em Cantanhede continuam em curso."
+        },
+        {
+          "headline": "Festival Política lança concurso para jovens artistas e ativistas da região Centro",
+          "text": "O Festival Política lançou um concurso para jovens artistas e ativistas da região Centro."
+        },
+        {
+          "headline": "Punheta com grelos à vista com Canário a cantar",
+          "text": "Evento gastronómico em Mira celebra a punheta de bacalhau com grelos, com Canário a cantar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "PSP aumenta buscas, detenções e apreensões no 1.º trimestre de 2026",
+          "text": "A PSP realizou 605 buscas domiciliárias e 301 não domiciliárias no primeiro trimestre de 2026, um aumento de 30% face a 2025. Foram detidos 870 suspeitos (+8%) e apreendidas quantidades significativas de droga e mais de 1 milhão de euros em dinheiro."
+        },
+        {
+          "headline": "Jovens que \"gamavam\" na Alta de Coimbra em prisão preventiva",
+          "text": "Um grupo de jovens que se dedicava a jogos de azar na Alta de Coimbra foi colocado em prisão preventiva."
+        },
+        {
+          "headline": "PSP \"tranca portas\" a estabelecimento de diversão noturna em Coimbra",
+          "text": "A PSP fechou um estabelecimento de diversão noturna em Coimbra."
+        },
+        {
+          "headline": "ASAE instaura 32 contraordenações e um processo-crime em operação \"Carga Segura\"",
+          "text": "A ASAE instaurou 32 contraordenações e um processo-crime no âmbito da operação \"Carga Segura\"."
+        },
+        {
+          "headline": "Arma de caça apontada a adolescentes para roubo de 180€",
+          "text": "Uma arma de caça foi apontada a adolescentes durante um roubo de 180€."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "\"Camões e Cassandra\" estreia em Coimbra e cruza ópera, poesia e tecnologia",
+          "text": "O espetáculo \"Camões e Cassandra\" estreia em Coimbra, cruzando ópera, poesia e tecnologia."
+        },
+        {
+          "headline": "Condeixa: Regresso do Rock dos Romanos",
+          "text": "Condeixa sobe o volume e \"abana o capacete\" com o regresso do Rock dos Romanos."
+        },
+        {
+          "headline": "Alva Skate Fest sonha em chegar ao campeonato mundial de downhill",
+          "text": "O Alva Skate Fest sonha em chegar ao campeonato mundial de downhill skateboarding."
+        },
+        {
+          "headline": "Oliveira do Hospital palco de prova rápida de skate mundial",
+          "text": "Oliveira do Hospital vai ser palco de uma das provas mais rápidas do mundo do skate."
+        },
+        {
+          "headline": "Marionet estreia peça sobre ribeiras urbanas em Coimbra",
+          "text": "A Marionet estreia em Coimbra uma peça que chama a atenção para as ribeiras urbanas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "45 mil pombos-correio a atravessar a Península Ibérica",
+          "text": "Há 45 mil pombos-correio a atravessar a Península Ibérica."
+        },
+        {
+          "headline": "Gonçalo Henriques tem um novo copiloto",
+          "text": "O piloto Gonçalo Henriques tem um novo copiloto."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Região Centro mostra músculo tecnológico no Portugal Smart Cities",
+          "text": "A Região Centro mostrou o seu músculo tecnológico no evento Portugal Smart Cities."
+        },
+        {
+          "headline": "\"Adriano, a Obra\" recupera legado de Adriano Correia de Oliveira em edição de luxo com 5 CDs",
+          "text": "A edição de luxo \"Adriano, a Obra\" recupera o legado completo de Adriano Correia de Oliveira com 5 CDs."
+        },
+        {
+          "headline": "Morreu José Carlos Almeida, último funcionário do PCP preso antes do 25 de Abril",
+          "text": "Morreu José Carlos Almeida, o último funcionário do PCP preso antes do 25 de Abril."
+        }
+      ]
+    }
+  ]
+}
