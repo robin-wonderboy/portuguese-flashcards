@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Festa da subida da Académica à II Liga foi do Cidade de Coimbra até aos Paços do Concelho!",
+          "text": "A Académica garantiu a subida à II Liga e a festa atravessou Coimbra — do estádio até à câmara municipal, com buzinas, varandas abertas e milhares de fãs na rua."
+        },
+        {
+          "headline": "Já se conhece o percurso da festa da Briosa",
+          "text": "O trajeto da festa de promoção da Académica foi divulgado, passando pelas ruas principais da cidade."
+        },
+        {
+          "headline": "Coimbra tem mais encanto com a Académica na II Liga!",
+          "text": "A subida da Briosa trouxe um novo ânimo à cidade, com moradores e adeptos a celebrar em peso."
+        },
+        {
+          "headline": "Sportinguista Luis Suárez é o Melhor Marcador da Liga Portugal",
+          "text": "O avançado do Sporting lidera a lista de goleadores da Liga Portugal nesta temporada."
+        },
+        {
+          "headline": "Campeão Francesco Farioli eleito Treinador do Ano",
+          "text": "O técnico que levou o Sporting ao título foi reconhecido como o melhor treinador do ano."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "PJ detém menores suspeitos de sequestro e roubo",
+          "text": "A Polícia Judiciária deteve menores suspeitos de sequestro e roubo na região de Coimbra."
+        },
+        {
+          "headline": "Auxiliar de escola detido por abusar de crianças",
+          "text": "Um auxiliar de escola foi detido por abusos a crianças num estabelecimento de ensino."
+        },
+        {
+          "headline": "Prisão para artistas que alarmavam Alta de Coimbra",
+          "text": "Artistas de rua que assustavam pessoas na Alta de Coimbra usando armas brancas e força física foram condenados a prisão."
+        },
+        {
+          "headline": "Rapariga tentou entrar na prisão de Coimbra com cocaína dissimulada",
+          "text": "Uma mulher foi detida quando tentava introduzir cocaína escondida no corpo na prisão de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Falhas informáticas provocam atrasos e longas filas no aeroporto de Lisboa",
+          "text": "Problemas nos sistemas informáticos causaram atrasos significativos e filas longas no aeroporto de Lisboa."
+        },
+        {
+          "headline": "Alerta vulcânico sobe devido a atividade sísmica no canal Faial–Pico",
+          "text": "O alerta vulcânico nos Açores foi elevado devido ao aumento da atividade sísmica no canal entre Faial e Pico."
+        },
+        {
+          "headline": "Agente da Polícia Municipal atropelada durante o serviço",
+          "text": "Uma agente da Polícia Municipal foi atropelada enquanto cumpria o serviço em Lisboa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Surto de Ebola declarado emergência de saúde pública mundial",
+          "text": "A OMS declarou o surto de Ebola como emergência de saúde pública de alcance mundial."
+        },
+        {
+          "headline": "Sindicato dos enfermeiros lamenta discurso de intenções do primeiro-ministro",
+          "text": "O sindicato dos enfermeiros criticou o discurso do primeiro-ministro sobre a saúde, considerando-o apenas intenções sem medidas concretas."
+        },
+        {
+          "headline": "Há bactérias multirresistentes a circular nos HUC",
+          "text": "Bactérias resistentes a múltiplos antibióticos foram detectadas a circular nos Hospitais da Universidade de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fenprof leva milhares de professores à rua e anuncia adesão à greve geral",
+          "text": "O sindicato Fenprof levou milhares de professores às ruas e anunciou adesão à greve geral, protestando contra as políticas do Governo para a educação."
+        },
+        {
+          "headline": "Professores dizem que novas aprendizagens essenciais pouco mudam no dia a dia",
+          "text": "Professores que testaram as novas aprendizagens essenciais referem que as mudanças no dia a dia das escolas são mínimas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Carneiro diz que reforma laboral proposta pelo Governo iria asfixiar as empresas",
+          "text": "José Luís Carneiro criticou a proposta de reforma laboral, dizendo que iria asfixiar as empresas portuguesas."
+        },
+        {
+          "headline": "PS critica Governo por aumentar impostos nos combustíveis",
+          "text": "O Partido Socialista criticou o Governo pelo aumento de impostos sobre os combustíveis."
+        },
+        {
+          "headline": "Ordem dos Nutricionistas insiste em IVA zero para alimentos da dieta mediterrânica",
+          "text": "A Ordem dos Nutricionistas reforçou o apelo para IVA zero nos alimentos essenciais da dieta mediterrânica."
+        },
+        {
+          "headline": "Ministra do Ambiente: era muito mais fácil fazer obra há 20 anos",
+          "text": "A ministra do Ambiente admitiu em Coimbra que a burocracia atual torna as obras públicas muito mais difíceis do que há duas décadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Feira Medieval de Penela atrai multidões com banca para cheirar",
+          "text": "A Feira Medieval de Penela está a atrair multidões, com uma banca de ervas aromáticas que toda a gente quer cheirar."
+        },
+        {
+          "headline": "Papagaios gigantes vão colorir a Praia de Quiaios este fim de semana",
+          "text": "Um festival de papagaios (pipas) gigantes vai animar a Praia de Quiaios neste fim de semana."
+        },
+        {
+          "headline": "Mães – O Musical sobe ao palco do CAE da Figueira da Foz",
+          "text": "O musical Mães estreia no Centro de Artes e Espetáculos da Figueira da Foz."
+        },
+        {
+          "headline": "Uma das mais antigas romarias da região Centro fica a um pulinho de Coimbra",
+          "text": "Uma romaria centenária na região Centro está a uma curta distância de Coimbra, celebrando tradições religiosas locais."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "El Niño pode regressar em 2026 e está a preocupar cientistas",
+          "text": "Cientistas alertam para a possível volta do El Niño em 2026, com impactos climáticos significativos a nível global."
+        },
+        {
+          "headline": "Putin visita a China para fortalecer parceria",
+          "text": "O presidente russo visita a China na próxima semana para reforçar a parceria estratégica entre os dois países."
+        },
+        {
+          "headline": "9 mortos em derrocada de mina de ouro na Indonésia",
+          "text": "Pelo menos 9 pessoas morreram na derrocada de uma mina de ouro na Indonésia."
+        }
+      ]
+    }
+  ]
+}
