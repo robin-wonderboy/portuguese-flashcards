@@ -13376,5 +13376,159 @@
       "de": "die Einrichtung",
       "en": "the establishment, venue"
     }
+  ],
+  "2026-05-17": [
+    {
+      "pt": "a subida",
+      "de": "der Aufstieg",
+      "en": "the promotion/ascent (to higher league)",
+      "example": "A festa da subida da Académica à II Liga",
+      "example_de": "Die Feier des Aufstiegs der Académica in die II Liga",
+      "example_en": "The celebration of Académica promotion to II Liga"
+    },
+    {
+      "pt": "a banca",
+      "de": "der Stand (Markt)",
+      "en": "the stall/stand (at a market)",
+      "example": "Há uma banca na Feira Medieval que toda a gente quer cheirar",
+      "example_de": "Es gibt einen Stand auf dem Mittelaltermarkt, den alle riechen wollen",
+      "example_en": "There is a stall at the Medieval Fair everyone wants to smell"
+    },
+    {
+      "pt": "despachar",
+      "de": "erledigen, abfertigen",
+      "en": "to dispatch, to sort out quickly",
+      "example": "A Académica despacha o Trofense e faz explodir Coimbra",
+      "example_de": "Die Académica erledigt den Trofense und lässt Coimbra explodieren",
+      "example_en": "Académica dispatches Trofense and makes Coimbra explode"
+    },
+    {
+      "pt": "o sequestro",
+      "de": "die Entführung",
+      "en": "the kidnapping, the abduction",
+      "example": "PJ detém menores suspeitos de sequestro e roubo",
+      "example_de": "PJ nimmt Minderjährige wegen Entführung und Raub fest",
+      "example_en": "PJ detains minors suspected of kidnapping and robbery"
+    },
+    {
+      "pt": "asfixiar",
+      "de": "ersticken",
+      "en": "to suffocate, to strangle (fig.)",
+      "example": "Carneiro diz que a reforma laboral iria asfixiar as empresas",
+      "example_de": "Carneiro sagt, dass die Arbeitsreform die Unternehmen ersticken würde",
+      "example_en": "Carneiro says the labor reform would suffocate companies"
+    },
+    {
+      "pt": "dissimulado",
+      "de": "verborgen, versteckt",
+      "en": "concealed, disguised",
+      "example": "Rapariga entra na prisão com cocaína dissimulada no corpo",
+      "example_de": "Mädchen betritt das Gefängnis mit im Körper verstecktem Kokain",
+      "example_en": "Girl enters prison with cocaine concealed in her body"
+    },
+    {
+      "pt": "dar a volta",
+      "de": "etwas umdrehen, überwinden",
+      "en": "to turn around, to overcome",
+      "example": "Presidente confiante de que pode dar a volta a Cuba",
+      "example_de": "Präsident zuversichtlich, dass er Cuba umdrehen kann",
+      "example_en": "President confident he can turn Cuba around"
+    },
+    {
+      "pt": "cheirar",
+      "de": "riechen",
+      "en": "to smell (something)",
+      "example": "Há uma banca que toda a gente quer cheirar",
+      "example_de": "Es gibt einen Stand, den alle riechen wollen",
+      "example_en": "There is a stall everyone wants to smell"
+    },
+    {
+      "pt": "a romaria",
+      "de": "die Wallfahrt, das Kirchenfest",
+      "en": "the pilgrimage, religious fair",
+      "example": "Uma das mais antigas romarias da região Centro",
+      "example_de": "Eine der ältesten Wallfahrten der Região Centro",
+      "example_en": "One of the oldest pilgrimages in the Centro region"
+    },
+    {
+      "pt": "a buzina",
+      "de": "die Hupe",
+      "en": "the horn (of a car)",
+      "example": "Varandas abertas e buzinas afinadas em Coimbra",
+      "example_de": "Offene Balkone und gestimmte Hupen in Coimbra",
+      "example_en": "Open balconies and tuned horns in Coimbra"
+    },
+    {
+      "pt": "aventureiro",
+      "de": "abenteuerlustig",
+      "en": "adventurous, daring",
+      "example": "Renault 4 aposta numa edição de praia com toque aventureiro",
+      "example_de": "Renault 4 setzt auf eine Beach-Edition mit abenteuerlichem Touch",
+      "example_en": "Renault 4 bets on a beach edition with an adventurous touch"
+    },
+    {
+      "pt": "a falta",
+      "de": "der Mangel",
+      "en": "the shortage, the lack",
+      "example": "Falhas informáticas provocam atrasos no aeroporto de Lisboa",
+      "example_de": "IT-Ausfälle verursachen Verspätungen am Flughafen Lissabon",
+      "example_en": "IT failures cause delays at Lisbon airport"
+    },
+    {
+      "pt": "pulinho",
+      "de": "Katzensprung",
+      "en": "a hop, a short distance away",
+      "example": "Fica a um pulinho de Coimbra",
+      "example_de": "Nur einen Katzensprung von Coimbra entfernt",
+      "example_en": "Just a hop away from Coimbra"
+    },
+    {
+      "pt": "a filosofia",
+      "de": "die Philosophie",
+      "en": "philosophy (also: mindset/approach)",
+      "example": "Varandas abertas e buzinas afinadas — Coimbra prepara noite louca",
+      "example_de": "Offene Balkone und gestimmte Hupen — Coimbra bereitet eine verrückte Nacht vor",
+      "example_en": "Open balconies and tuned horns — Coimbra prepares a crazy night"
+    },
+    {
+      "pt": "alarmar",
+      "de": "beunruhigen, alarmieren",
+      "en": "to alarm, to frighten",
+      "example": "Artistas que alarmavam Alta de Coimbra com armas brancas",
+      "example_de": "Künstler, die die Alta de Coimbra mit weißen Waffen beunruhigten",
+      "example_en": "Artists who alarmed the Alta de Coimbra with bladed weapons"
+    },
+    {
+      "pt": "a autoria",
+      "de": "die Urheberschaft",
+      "en": "the authorship",
+      "example": "Prisão para artistas — autoria de crimes na Alta de Coimbra",
+      "example_de": "Haft für Künstler — Urheberschaft von Verbrechen in der Alta de Coimbra",
+      "example_en": "Prison for artists — authorship of crimes in Alta de Coimbra"
+    },
+    {
+      "pt": "colorir",
+      "de": "färben, kolorieren",
+      "en": "to color, to brighten up",
+      "example": "Papagaios gigantes vão colorir a Praia de Quiaios",
+      "example_de": "Riesige Drachen werden den Strand von Quiaios färben",
+      "example_en": "Giant kites will color the Praia de Quiaios"
+    },
+    {
+      "pt": "o papagaio",
+      "de": "der Drachen (Spielzeug) / der Papagei",
+      "en": "kite (toy) / parrot",
+      "example": "Papagaios gigantes vão colorir a Praia de Quiaios este fim de semana",
+      "example_de": "Riesige Drachen werden den Strand von Quiaios dieses Wochenende färben",
+      "example_en": "Giant kites will color Praia de Quiaios this weekend"
+    },
+    {
+      "pt": "a folia",
+      "de": "der Rausch, der Ausgelassenheit",
+      "en": "the revelry, the wild fun",
+      "example": "É folia do início ao fim — Mercado Medieval atrai multidões a Eiras",
+      "example_de": "Es ist von Anfang bis Ende Ausgelassenheit — Mittelaltermarkt zieht Massen nach Eiras",
+      "example_en": "It is revelry from start to finish — Medieval Market draws crowds to Eiras"
+    }
   ]
 }
