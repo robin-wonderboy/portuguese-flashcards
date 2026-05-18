@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Operação Click&Go: PJ trava fuga de suspeito de fraude informática em hotel",
+          "text": "A Polícia Judiciária deteve em Lisboa um cidadão estrangeiro, fortemente indiciado pelos crimes de branqueamento e abuso de cartão de pagamento, no âmbito da operação Click&Go."
+        },
+        {
+          "headline": "Acidente na Ponte Açude em Coimbra complica trânsito",
+          "text": ""
+        },
+        {
+          "headline": "Perseguição policial termina em caos e tiros de balas",
+          "text": ""
+        },
+        {
+          "headline": "Sócio mata pai e filho em restaurante após disputa de lucros",
+          "text": ""
+        },
+        {
+          "headline": "Auxiliares acusadas de manter crianças fechadas numa arrecadação até fazerem chichi na roupa",
+          "text": ""
+        },
+        {
+          "headline": "Julgamento de Odaír Moniz entra nas alegações finais",
+          "text": ""
+        },
+        {
+          "headline": "Detido por agressões fica em prisão domiciliária",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "OMS mantém avaliação de baixo risco para hantavírus",
+          "text": "A Organização Mundial de Saúde manteve a avaliação de baixo risco para a saúde pública relativamente ao hantavírus."
+        },
+        {
+          "headline": "Bactéria detetada em dois bebés",
+          "text": ""
+        },
+        {
+          "headline": "Ainda há quem queira «curar» a homossexualidade",
+          "text": ""
+        },
+        {
+          "headline": "Surto de Ebola declarado emergência de saúde pública mundial",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Prepare-se! Vêm aí dias de calor, chegando mesmo aos 30 graus",
+          "text": "O fim de semana trouxe calor e a tendência continua, com temperaturas a subir até aos 30 graus na região de Coimbra."
+        },
+        {
+          "headline": "Praia da Tocha está a ficar com «brinquinho»",
+          "text": ""
+        },
+        {
+          "headline": "Vizinhos, amigos e histórias antigas vão tomar conta desta rua em Cantanhede",
+          "text": ""
+        },
+        {
+          "headline": "Anti-transfobia e homofobia manifesta-se em Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & EUROPA",
+      "stories": [
+        {
+          "headline": "Coimbra junta cidadãos para pensar os próximos 40 anos da Europa",
+          "text": ""
+        },
+        {
+          "headline": "Nuno Melo reeleito presidente do CDS-PP",
+          "text": ""
+        },
+        {
+          "headline": "PS critica Governo por aumentar impostos nos combustíveis",
+          "text": ""
+        },
+        {
+          "headline": "Eleições em Cabo Verde: líder do PAICV celebra maioria absoluta",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fenprof leva milhares de professores à rua e anuncia adesão à greve geral",
+          "text": ""
+        },
+        {
+          "headline": "ISMT arranca com novo curso com foco em turismo digital e criação de conteúdos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Carneiro diz que reforma laboral proposta pelo Governo iria «asfixiar» as empresas",
+          "text": ""
+        },
+        {
+          "headline": "Ministra do Ambiente diz em Coimbra que era muito mais fácil fazer obra há 20 anos",
+          "text": ""
+        },
+        {
+          "headline": "Está à procura de casa em Coimbra? A oferta caiu a pique",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚒",
+      "category": "ACIDENTES & BOMBEIROS",
+      "stories": [
+        {
+          "headline": "Capota na curva junto ao quartel dos Bombeiros Voluntários da Figueira da Foz",
+          "text": ""
+        },
+        {
+          "headline": "Carro dos Bombeiros Voluntários despista-se na Figueira da Foz",
+          "text": ""
+        },
+        {
+          "headline": "Governo anuncia modernização dos bombeiros para a próxima década",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo de 5,2 na China faz 2 mortos e um ferido",
+          "text": ""
+        },
+        {
+          "headline": "Homem morto por ataque de ursa",
+          "text": ""
+        },
+        {
+          "headline": "Putin visita a China para «fortalecer parceria»",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Figueira da Foz: Maiorca recebe festival dedicado aos melhores arrozes portugueses",
+          "text": ""
+        },
+        {
+          "headline": "Dia Internacional do Fascínio das Plantas assinalado no Jardim Botânico",
+          "text": ""
+        },
+        {
+          "headline": "Há queijo, enchidos e um ministro à concertina na ExpoSicó",
+          "text": ""
+        },
+        {
+          "headline": "Bulgária estreia-se a vencer na Eurovisão",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Figueirense mantém camisola rosa na Volta à Itália",
+          "text": ""
+        },
+        {
+          "headline": "Será que haverá surpresas nos eleitos de Roberto Martinez para o Mundial 2026?",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "«Sou o coveiro, o assassino foi o ICNF». Presidente da Câmara de Alvaiázere ataca instituto das florestas",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
