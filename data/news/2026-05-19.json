@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Colega de casa esfaqueia vítima no pulmão",
+          "text": "Uma discussão entre colegas de casa terminou com um homem perfurado no pulmão. A violência doméstica entre coabitantes continua a ser um problema recorrente."
+        },
+        {
+          "headline": "Sequestrado foge de assalto e atira-se ao rio",
+          "text": "Um homem que foi sequestrado durante um assalto conseguiu fugir e atirou-se ao rio para sobreviver. A história está a ganhar atenção nacional."
+        },
+        {
+          "headline": "Jovem que levava droga para recluso fica em prisão preventiva",
+          "text": "Um jovem detido por tentar introduzir droga na prisão de Coimbra ficou em prisão preventiva."
+        },
+        {
+          "headline": "PSP arranca com operação de sensibilização nas escolas",
+          "text": "A PSP iniciou uma operação de sensibilização junto às escolas para promover a segurança e a cidadania entre os jovens."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "2 em cada 3 doentes com cancro sobrevivem 5 anos em Portugal",
+          "text": "Novos dados mostram que a taxa de sobrevivência ao cancro em Portugal atingiu os 66,5% aos cinco anos, um avanço significativo mas ainda com margem para melhorar."
+        },
+        {
+          "headline": "Famílias gastaram 966M€ em medicamentos em 2025",
+          "text": "As famílias portuguesas gastaram 966 milhões de euros em medicamentos no último ano. A despesa do SNS com medicamentos subiu mais de 60% desde a pandemia, batendo recorde com 4.417M€."
+        },
+        {
+          "headline": "O mundo está menos preparado para nova pandemia",
+          "text": "Apesar das lições da COVID-19, um novo relatório alerta que o mundo está menos preparado para uma nova pandemia do que estava antes de 2020."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Ventura faz mau balanço de um ano de governação",
+          "text": "André Ventura fez um mau balanço do primeiro ano de governação de Montenegro e pediu ao Governo um caminho de aproximação na reforma laboral."
+        },
+        {
+          "headline": "Carneiro: reforma laboral iria asfixiar as empresas",
+          "text": "O líder da CIP alertou que a reforma laboral proposta pelo Governo iria asfixiar as empresas portuguesas."
+        },
+        {
+          "headline": "Governo admite melhorias no aeroporto de Lisboa no próximo mês",
+          "text": "O Governo admitiu que haverá melhorias no aeroporto de Lisboa no próximo mês, após semanas de caos e atrasos."
+        },
+        {
+          "headline": "Crédito Agrícola reforça presença em Coimbra com novo Balcão 24",
+          "text": "O Crédito Agrícola abriu um novo Balcão 24 em Coimbra, reforçando a sua presença na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "REGIÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Serenata Monumental dia 21 de maio com lotação limitada",
+          "text": "A Serenata Monumental realiza-se no dia 21 de maio à meia-noite, com recinto condicionado e acesso por bilhetes distribuídos por ordem de chegada. Movimentação restrita a partir das 18h."
+        },
+        {
+          "headline": "Banhos rituais judaicos trazem de volta história esquecida de Coimbra",
+          "text": "A descoberta de banhos rituais judaicos no centro de Coimbra está a revelar uma história esquecida da presença judaica na cidade."
+        },
+        {
+          "headline": "Festival na Lousã junta circo e cinema - único na Europa",
+          "text": "Um festival na Lousã que combina circo e cinema é considerado único na Europa e possivelmente no mundo."
+        },
+        {
+          "headline": "Filarmónica emociona Montemor-o-Velho em concerto dedicado à Revolução",
+          "text": "A Filarmónica de Montemor-o-Velho realizou um concerto emocionante dedicado à Revolução e à liberdade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fernando Ramos toma posse como Professor Catedrático da Farmácia",
+          "text": "Fernando Ramos tomou posse como Professor Catedrático da Faculdade de Farmácia da Universidade de Coimbra."
+        },
+        {
+          "headline": "INESC Coimbra debate promessas e perigos da IA Generativa",
+          "text": "O INESC Coimbra promoveu um debate sobre as promessas e perigos da Inteligência Artificial Generativa."
+        },
+        {
+          "headline": "Fenprof leva milhares de professores à rua e anuncia greve geral",
+          "text": "O sindicato Fenprof levou milhares de professores às ruas e anunciou adesão à greve geral."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "3 mortos e 4 desaparecidos após chuvas torrenciais na China",
+          "text": "Chuvas torrenciais na China causaram pelo menos 3 mortos e 4 desaparecidos, com enormes estragos em infraestruturas."
+        },
+        {
+          "headline": "Ryanair garante voos mas admite cenário crítico no combustível",
+          "text": "A Ryanair garantiu que os voos estão assegurados mas admitiu um cenário crítico no que toca ao combustível."
+        },
+        {
+          "headline": "Casa dos avós do pequeno Emile incendiada",
+          "text": "A casa dos avós do pequeno Emile, a criança desaparecida em França, foi incendiada - mais um capítulo trágico na história."
+        }
+      ]
+    }
+  ]
+}
