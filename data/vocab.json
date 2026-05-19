@@ -13673,5 +13673,151 @@
       "de": "die Authentizität",
       "en": "authenticity"
     }
+  ],
+  "2026-05-19": [
+    {
+      "pt": "perfurar",
+      "de": "durchbohren",
+      "en": "to stab, pierce",
+      "example": "Vítima perfurada no pulmão",
+      "example_de": "Opfer mit durchbohrter Lunge",
+      "example_en": "Victim stabbed in the lung"
+    },
+    {
+      "pt": "atirar-se",
+      "de": "sich werfen",
+      "en": "to throw oneself",
+      "example": "Atira-se ao rio para sobreviver",
+      "example_de": "Er wirft sich in den Fluss um zu überleben",
+      "example_en": "He throws himself into the river to survive"
+    },
+    {
+      "pt": "preventivo",
+      "de": "vorbeugend, Untersuchungshaft-",
+      "en": "preventive, pretrial",
+      "example": "Fica em prisão preventiva",
+      "example_de": "Er kommt in Untersuchungshaft",
+      "example_en": "He is held in pretrial detention"
+    },
+    {
+      "pt": "o doente",
+      "de": "der Kranke",
+      "en": "the patient, sick person",
+      "example": "2 em cada 3 doentes com cancro sobrevivem",
+      "example_de": "2 von 3 Krebskranken überleben",
+      "example_en": "2 in 3 cancer patients survive"
+    },
+    {
+      "pt": "sobreviver",
+      "de": "überleben",
+      "en": "to survive",
+      "example": "Doentes com cancro sobrevivem cinco anos",
+      "example_de": "Krebskranke überleben fünf Jahre",
+      "example_en": "Cancer patients survive five years"
+    },
+    {
+      "pt": "a despesa",
+      "de": "die Ausgabe, Kosten",
+      "en": "expenditure, expense",
+      "example": "Despesa do SNS com medicamentos subiu mais de 60%",
+      "example_de": "Die Ausgaben des SNS für Medikamente stiegen über 60%",
+      "example_en": "SNS spending on medication rose over 60%"
+    },
+    {
+      "pt": "bater o recorde",
+      "de": "den Rekord brechen",
+      "en": "to break the record",
+      "example": "Despesa bateu recorde com 4.417 milhões de euros",
+      "example_de": "Ausgaben brachen den Rekord mit 4,417 Millionen Euro",
+      "example_en": "Spending broke the record at 4.417 million euros"
+    },
+    {
+      "pt": "a reforma laboral",
+      "de": "die Arbeitsmarktreform",
+      "en": "labor reform",
+      "example": "Carneiro diz que reforma laboral iria asfixiar as empresas",
+      "example_de": "Carneiro sagt Arbeitsmarktreform würde Unternehmen ersticken",
+      "example_en": "Carneiro says labor reform would suffocate companies"
+    },
+    {
+      "pt": "a aproximação",
+      "de": "die Annäherung",
+      "en": "approach, approximation",
+      "example": "Ventura pede caminho de aproximação na reforma laboral",
+      "example_de": "Ventura fordert Annäherung bei der Arbeitsmarktreform",
+      "example_en": "Ventura asks for a path of approximation on labor reform"
+    },
+    {
+      "pt": "o bocejo",
+      "de": "das Gähnen",
+      "en": "yawn",
+      "example": "Bocejo contagia até no útero",
+      "example_de": "Gähnen ist sogar im Mutterleib ansteckend",
+      "example_en": "Yawning is contagious even in the womb"
+    },
+    {
+      "pt": "contagioso",
+      "de": "ansteckend",
+      "en": "contagious",
+      "example": "Bocejo contagia até no útero",
+      "example_de": "Gähnen ist sogar im Mutterleib ansteckend",
+      "example_en": "Yawning is contagious even in the womb"
+    },
+    {
+      "pt": "o catedrático",
+      "de": "der Ordinarius, Professor",
+      "en": "full professor, chair holder",
+      "example": "Fernando Ramos toma posse como Professor Catedrático",
+      "example_de": "Fernando Ramos wird als Ordinarius vereidigt",
+      "example_en": "Fernando Ramos takes office as Full Professor"
+    },
+    {
+      "pt": "o assalto",
+      "de": "der Überfall, Raub",
+      "en": "robbery, assault",
+      "example": "Sequestrado foge de assalto e atira-se ao rio",
+      "example_de": "Entführungsopfer flieht vor Überfall und wirft sich in den Fluss",
+      "example_en": "Kidnapping victim flees robbery and throws himself into the river"
+    },
+    {
+      "pt": "o indulto",
+      "de": "der Straferlass",
+      "en": "pardon, amnesty",
+      "example": "Plutonio lança edição de Carta de Alforria",
+      "example_de": "Plutonium veröffentlicht Carta de Alforria",
+      "example_en": "Plutonio releases Carta de Alforria"
+    },
+    {
+      "pt": "o útero",
+      "de": "die Gebärmutter",
+      "en": "the womb, uterus",
+      "example": "Bocejo contagia até no útero",
+      "example_de": "Gähnen ist sogar im Mutterleib ansteckend",
+      "example_en": "Yawning is contagious even in the womb"
+    },
+    {
+      "pt": "o colega de casa",
+      "de": "der Mitbewohner",
+      "en": "the roommate, flatmate",
+      "example": "Discussão entre colegas de casa termina com vítima",
+      "example_de": "Streit zwischen Mitbewohnern endet mit Opfer",
+      "example_en": "Argument between roommates ends with a victim"
+    },
+    {
+      "pt": "a chuva torrencial",
+      "de": "der Starkregen",
+      "en": "torrential rain",
+      "example": "3 mortos na sequência de chuvas torrenciais na China",
+      "example_de": "3 Tote infolge Starkregens in China",
+      "example_en": "3 dead following torrential rains in China"
+    },
+    {
+      "pt": "o balcão",
+      "de": "der Schalter, die Filiale",
+      "en": "counter, branch office",
+      "example": "Crédito Agrícola reforça presença com novo Balcão 24",
+      "example_de": "Crédito Agrícola verstärkt Präsenz mit neuer 24-Stunden-Filiale",
+      "example_en": "Crédito Agrícola strengthens presence with new 24h branch"
+    }
   ]
 }
