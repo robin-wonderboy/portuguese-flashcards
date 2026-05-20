@@ -1,0 +1,190 @@
+{
+  "date": "2026-05-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Jovem morre em acidente de trotinete em Coimbra",
+          "text": "Lucas, um jovem, perdeu a vida num trágico acidente de trotinete. A família está a pedir ajuda para pagar o funeral. Outro jovem também morreu após cair de trotinete a 500 metros de casa."
+        },
+        {
+          "headline": "Coimbra prepara-se para dias de grande calor",
+          "text": "Com a chegada do verão, Coimbra avisa para ondas de calor intenso nos próximos dias. Hidratação e proteção solar são recomendadas."
+        },
+        {
+          "headline": "Suspeito assalta mercearia na Figueira da Foz — apanhado com a mão na massa",
+          "text": "Um homem partiu o vidro de uma mercearia na Figueira da Foz e foi detido pouco depois, surpreendido em pleno acto."
+        },
+        {
+          "headline": "Festa da vizinhança da APCC em Coimbra",
+          "text": "Tudo está a postos para a grande festa da vizinhança da APCC em Coimbra, um evento comunitário que junta moradores."
+        },
+        {
+          "headline": "Estudantes desenham processo participativo para a Baixa de Coimbra",
+          "text": "Estudantes de Coimbra estão a desenhar um processo participativo para repensar a Baixa da cidade, envolvendo a comunidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Queima das Fitas: vai chover?",
+          "text": "A grande questão para a Queima das Fitas de Coimbra: será que chove? As previsões indicam tempo incerto para os dias de festa acadêmica."
+        },
+        {
+          "headline": "Penacova entra em modo arraial",
+          "text": "Sardinha no pão e marchas no coração — Penacova entra em modo arraial com festas populares, música e comida tradicional."
+        },
+        {
+          "headline": "Feira do Livro de Coimbra homenageia Teolinda Gersão",
+          "text": "A Feira do Livro de Coimbra presta homenagem à escritora Teolinda Gersão este ano."
+        },
+        {
+          "headline": "5 trilhos imperdíveis na Região de Coimbra",
+          "text": "Se não conhece estes 5 trilhos na Região de Coimbra, é quase um crime. Rotas que vão desde o rio até às serras."
+        },
+        {
+          "headline": "A capela mais cara do mundo fica em Portugal",
+          "text": "Portugal abriga a capela mais cara do mundo, uma construção que impressiona pela opulência e história."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Mãe corta cebolas junto aos olhos da filha para fingir sofrimento",
+          "text": "Uma mãe cortou cebolas junto aos olhos da filha para fingir sofrimento e realizou rituais com velas de Fátima para desejar a morte da madrasta."
+        },
+        {
+          "headline": "Burlões usam mensagens falsas das Finanças para roubar dados bancários",
+          "text": "Fraude crescente: burlões estão a enviar mensagens falsas em nome das Finanças para obter dados bancários das vítimas."
+        },
+        {
+          "headline": "Homem barrica-se e ameaça fazer explodir prédio",
+          "text": "Um homem barricou-se dentro de um edifício e ameaçou fazê-lo explodir, obrigando à intervenção das autoridades."
+        },
+        {
+          "headline": "Homem que matou a mulher e fugiu para Portugal — libertado pelo tribunal de Coimbra",
+          "text": "Um homem que matou a mulher e fugiu para Portugal foi libertado pelo tribunal de Coimbra, gerando polémica."
+        },
+        {
+          "headline": "\"Estou arrependido\" — foge do tribunal e aparece em vídeo",
+          "text": "Um arguido que fugiu do tribunal publicou um vídeo a dizer que se vai entregar, afirmando estar arrependido."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Meninos encontrados sozinhos numa estrada — terão sido abandonados",
+          "text": "Crianças foram encontradas sozinhas numa estrada, com indícios de que terão sido abandonadas. As autoridades estão a investigar."
+        },
+        {
+          "headline": "Terra tremeu — sismo sentido numa localidade portuguesa",
+          "text": "Um sismo foi sentido numa localidade de Portugal, causando alarme mas sem danos significativos reportados."
+        },
+        {
+          "headline": "Europa precisa de pessoas com a visão e determinação de Cavaco Silva",
+          "text": "Um artigo destaca que a Europa precisa de líderes com a visão e determinação do ex-presidente Cavaco Silva."
+        },
+        {
+          "headline": "Primeiro caso suspeito de hantavírus em Portugal",
+          "text": "Portugal regista o primeiro caso suspeito de hantavírus, uma doença transmitida por roedores. As autoridades estão em alerta."
+        },
+        {
+          "headline": "Ébola volta a assustar mas risco para Portugal é baixo",
+          "text": "O ébola voltou a assustar, mas especialistas garantem que o risco para Portugal é baixo."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Irão: situação extremamente preocupante após ataque a central nuclear",
+          "text": "Após ataque a uma central nuclear nos Emirados, a situação no Irão é descrita como extremamente preocupante."
+        },
+        {
+          "headline": "Governo brasileiro defende inconstitucionalidade de lei que reduz pena de Bolsonaro",
+          "text": "O governo brasileiro apresentou argumentos pela inconstitucionalidade da lei que reduziria a pena de Bolsonaro."
+        },
+        {
+          "headline": "Papa Leão XIV convidado a visitar Portugal em 2027",
+          "text": "O Presidente da República convidou o Papa Leão XIV a visitar Portugal em 2027."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Doentes oncológicos esperam mais por fármacos inovadores",
+          "text": "Portugal é dos países da Europa onde os doentes oncológicos mais esperam pelo acesso a fármacos inovadores."
+        },
+        {
+          "headline": "Bastonário: Governo está a agir para garantir segurança dos médicos detidos",
+          "text": "O bastonário da Ordem dos Médicos disse que o Governo está a agir para garantir a segurança dos médicos que foram detidos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Revisão da lei laboral deu entrada na Assembleia da República",
+          "text": "A proposta de revisão da lei laboral deu entrada no parlamento, com debate intenso à vista sobre os direitos dos trabalhadores."
+        },
+        {
+          "headline": "Despesa do SNS com medicamentos bateu recorde: 4.417 milhões de euros",
+          "text": "A despesa do Serviço Nacional de Saúde com medicamentos atingiu um recorde de 4.417 milhões de euros em 2025."
+        },
+        {
+          "headline": "Itecons leva inovação sustentável à Portugal Smart Cities Summit",
+          "text": "O Itecons de Coimbra participa na Portugal Smart Cities Summit, apresentando projetos de inovação sustentável."
+        },
+        {
+          "headline": "André Ventura faz mau balanço de um ano de governação de Montenegro",
+          "text": "O líder do Chega faz um balanço negativo do primeiro ano de governação de Luís Montenegro."
+        },
+        {
+          "headline": "Oferta de casa em Coimbra caiu a pique",
+          "text": "Quem está à procura de casa em Coimbra vai ter dificuldades: a oferta de arrendamento caiu drasticamente e os preços subiram 4% num ano."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & FAMA",
+      "stories": [
+        {
+          "headline": "Convocatória de Portugal divide adeptos em Coimbra",
+          "text": "A convocatória da seleção para o Mundial gerou debate em Coimbra, com muitos a dizerem que há escolhas que não fazem sentido."
+        },
+        {
+          "headline": "Monumental Academy sagra-se campeão nacional de snooker por equipas",
+          "text": "A Monumental Academy de Coimbra faz história ao sagrar-se campeã nacional de snooker por equipas."
+        },
+        {
+          "headline": "Bulgária estreia-se a vencer na Eurovisão",
+          "text": "A Bulgária venceu a Eurovisão pela primeira vez na história do festival."
+        },
+        {
+          "headline": "CMTV apaga as estrelas",
+          "text": "A CMTV despediu vários rostos conhecidos, marcando o fim de uma era na emissora."
+        }
+      ]
+    }
+  ]
+}
