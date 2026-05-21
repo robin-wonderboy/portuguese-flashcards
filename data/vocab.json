@@ -13965,5 +13965,111 @@
       "example_de": "Neuer Mazda CX-6e kommt mit bis zu 484 km Reichweite nach Portugal",
       "example_en": "New Mazda CX-6e arrives in Portugal with up to 484 km of range"
     }
+  ],
+  "2025-05-21": [
+    {
+      "pt": "o perigo",
+      "de": "die Gefahr",
+      "en": "danger",
+      "example": "Concelhos em perigo elevado de incêndio",
+      "example_de": "Gemeinden in hoher Waldbrandgefahr",
+      "example_en": "Municipalities at high wildfire risk"
+    },
+    {
+      "pt": "agitar",
+      "de": "erschüttern, aufregen",
+      "en": "to shake, agitate",
+      "example": "Sismo de 4,4 agita Nápoles",
+      "example_de": "Erdbeben der Stärke 4,4 erschüttert Neapel",
+      "example_en": "4.4 earthquake shakes Naples"
+    },
+    {
+      "pt": "evitar",
+      "de": "vermeiden",
+      "en": "to avoid",
+      "example": "Há uma pergunta que muitos portugueses evitam fazer",
+      "example_de": "Es gibt eine Frage, die viele Portugiesen vermeiden zu stellen",
+      "example_en": "There is a question many Portuguese avoid asking"
+    },
+    {
+      "pt": "receber",
+      "de": "erhalten, bekommen",
+      "en": "to receive",
+      "example": "Família recebe indemnização histórica",
+      "example_de": "Familie erhält historische Entschädigung",
+      "example_en": "Family receives historic compensation"
+    },
+    {
+      "pt": "ferro",
+      "de": "bügeln; das Eisen",
+      "en": "to iron (clothes); iron",
+      "example": "AAC ferra o calote à vencedora",
+      "example_de": "AAC verweigert der Gewinnerin die Auszahlung",
+      "example_en": "AAC stiffs the winner (slang)"
+    },
+    {
+      "pt": "o bucho",
+      "de": "Kutteln, Schweinemagen",
+      "en": "tripe, pork stomach dish",
+      "example": "Serve bucho à moda antiga",
+      "example_de": "Serviert Kutteln auf alte Art",
+      "example_en": "Serves tripe the old-fashioned way"
+    },
+    {
+      "pt": "a desigualdade",
+      "de": "die Ungleichheit",
+      "en": "inequality",
+      "example": "Pobreza baixa mas desigualdades persistem",
+      "example_de": "Armut sinkt, aber Ungleichheiten bleiben bestehen",
+      "example_en": "Poverty drops but inequalities persist"
+    },
+    {
+      "pt": "limpo",
+      "de": "sauber, rein",
+      "en": "clean",
+      "example": "O destino que lidera a lista das praias mais limpas",
+      "example_de": "Das Ziel, das die Liste der saubersten Strände anführt",
+      "example_en": "The destination topping the cleanest beaches list"
+    },
+    {
+      "pt": "raro",
+      "de": "selten",
+      "en": "rare",
+      "example": "A floresta rara na Serra do Açor",
+      "example_de": "Der seltene Wald in der Serra do Açor",
+      "example_en": "The rare forest in Serra do Açor"
+    },
+    {
+      "pt": "a Queima",
+      "de": "das Verbrennen (Queima das Fitas)",
+      "en": "the Burning (student festival)",
+      "example": "SMTUC criam 2 linhas especiais para as noites da Queima",
+      "example_de": "SMTUC richtet 2 Sonderlinien für die Queima-Nächte ein",
+      "example_en": "SMTUC creates 2 special lines for Queima nights"
+    },
+    {
+      "pt": "a rigor",
+      "de": "in voller Montur, formell",
+      "en": "in strict/formal dress, properly",
+      "example": "Onde todos se vestem a rigor",
+      "example_de": "Wo sich alle in voller Montur kleiden",
+      "example_en": "Where everyone dresses to impress"
+    },
+    {
+      "pt": "em destaque",
+      "de": "im Rampenlicht, hervorgehoben",
+      "en": "highlighted, in the spotlight",
+      "example": "O Melhor Queijo do Mundo volta a estar em destaque",
+      "example_de": "Der beste Käse der Welt ist wieder im Rampenlicht",
+      "example_en": "The Best Cheese in the World is back in the spotlight"
+    },
+    {
+      "pt": "ferrar",
+      "de": "jemanden übers Ohr hauen",
+      "en": "to cheat, stiff someone (slang)",
+      "example": "AAC ferra o calote à vencedora",
+      "example_de": "AAC hauht der Gewinnerin übers Ohr",
+      "example_en": "AAC stiffs the winner (refuses to pay)"
+    }
   ]
 }
