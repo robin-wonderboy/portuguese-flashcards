@@ -1,0 +1,170 @@
+{
+  "date": "2025-05-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Concelhos de Coimbra em perigo elevado de incêndio",
+          "text": "O Algarve tem concelhos em perigo máximo e muito elevado de incêndio, enquanto o nordeste transmontano e Alentejo estão com risco elevado. O distrito de Coimbra também está na lista, num dia em que se esperam temperaturas até 37-38°C."
+        },
+        {
+          "headline": "SMTUC criam 2 linhas especiais para as noites da Queima das Fitas",
+          "text": "Os transportes públicos de Coimbra vão reforçar o serviço durante as noites da Queima das Fitas, com duas linhas especiais para garantir a mobilidade dos estudantes e visitantes."
+        },
+        {
+          "headline": "Bombeiros da Lousã salvam gatinho preso no canal do Metro",
+          "text": "Os bombeiros da Lousã resgataram um gatinho que estava preso no canal do Metro Mondego. O animal foi salvo com sucesso pela equipa de emergência."
+        },
+        {
+          "headline": "Madrugada de susto em Coimbra: homem surpreendido com bandido dentro de casa",
+          "text": "Um homem foi surpreendido na madrugada por um intruso dentro da sua própria casa em Coimbra, num episódio que causou grande susto."
+        },
+        {
+          "headline": "Vigilante trava jovem que saiu sem pagar de estabelecimento em Coimbra",
+          "text": "Um vigilante deteve um jovem que tentou sair sem pagar de um estabelecimento comercial em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Encontrado morto na banheira com mãos e pés atados, vestia farda de autarquia",
+          "text": ""
+        },
+        {
+          "headline": "Piloto mata mulher e escapa à prisão por ser português - nega crime",
+          "text": "Um piloto português que matou a mulher conseguiu evitar a prisão no estrangeiro por ser cidadão português, mas nega o crime."
+        },
+        {
+          "headline": "54 casos de casamentos forçados aparecem pela 1ª vez nas estatísticas da CPCJ em 2025",
+          "text": "Pela primeira vez, a Comissão Protetora de Crianças e Jovens registou 54 casos de casamentos forçados nos seus dados de 2025."
+        },
+        {
+          "headline": "Abusador sai da cadeia há 1 mês e volta a atacar crianças",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Oceanos estão a subir ao dobro da velocidade desde 2005",
+          "text": "Um novo estudo revela que a subida do nível do mar acelerou para o dobro da velocidade desde 2005, alertando para os impactos das alterações climáticas."
+        },
+        {
+          "headline": "Planeta está a afogar-se em plástico de comida e bebida",
+          "text": "Um relatório mostra que o mundo está a ser inundado por plástico proveniente de embalagens de comida e bebida, com impacto devastador no ambiente."
+        },
+        {
+          "headline": "Sismo de 4,4 agita Nápoles",
+          "text": "Um sismo de magnitude 4,4 foi sentido em Nápoles, Itália, causando susto mas sem grandes danos registados."
+        },
+        {
+          "headline": "Pobreza baixa para 15,4% mas desigualdades persistem em Portugal",
+          "text": "A taxa de pobreza em Portugal desceu para 15,4%, mas as desigualdades continuam a marcar o país, com grupos mais vulneráveis ainda distantes da melhoria."
+        },
+        {
+          "headline": "Vai aquecer e muito: calor chega em força a Portugal",
+          "text": "As temperaturas vão subir significativamente nos próximos dias, com previsão de calor intenso a chegar a Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra entre as cidades onde a oferta de casas para arrendar mais caiu",
+          "text": "Coimbra está entre as cidades portuguesas onde a oferta de casas para arrendar mais diminuiu, tornando a procura de habitação ainda mais difícil."
+        },
+        {
+          "headline": "Frigoríficos, TVs e ar condicionados antigos passam a valer dinheiro",
+          "text": "Novo programa permite devolver eletrodomésticos antigos e receber dinheiro em troca, promovendo a economia circular e a sustentabilidade."
+        },
+        {
+          "headline": "Águas Caldas de Penacova têm nova garrafa que escapa ao sistema Volta",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Suspeita de hantavírus em Portugal descartada - doente recebe alta",
+          "text": "A suspeita de infeção por hantavírus em Portugal foi descartada e o doente recebeu alta hospitalar."
+        },
+        {
+          "headline": "Atenção pais: estes protetores solares foram desaconselhados",
+          "text": ""
+        },
+        {
+          "headline": "Porque é tão difícil mudar hábitos alimentares? Conferência debate o papel da comunicação na promoção da saúde",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & DESPORTO",
+      "stories": [
+        {
+          "headline": "AAC faz ondas nos Nacionais Universitários com chuva de medalhas",
+          "text": "A Associação Académica de Coimbra conquistou múltiplas medalhas nos Nacionais Universitários, destacando-se em várias modalidades."
+        },
+        {
+          "headline": "Faculdade de Psicologia de Coimbra de luto",
+          "text": ""
+        },
+        {
+          "headline": "Politécnico de Coimbra promove encontro sobre impacto das transformações digitais na inovação pedagógica",
+          "text": ""
+        },
+        {
+          "headline": "Figueirense segura camisola rosa e continua a liderar a Volta a Itália",
+          "text": "O ciclista português Figueirense manteve a liderança da Volta a Itália, segurando a camisola rosa mais um dia."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "O Melhor Queijo do Mundo volta a estar em destaque na Soalheira",
+          "text": "O Queijo de Nisa, eleito melhor queijo do mundo, volta a ser protagonista na Feira do Queijo da Soalheira."
+        },
+        {
+          "headline": "Festival da Lousã: circo e curtas-metragens a rigor",
+          "text": "O festival da Lousã onde todos se vestem a rigor e entram no mundo do circo e das curtas-metragens."
+        },
+        {
+          "headline": "1º restaurante a nascer no Piódão: feito de xisto, serve bucho à moda antiga",
+          "text": "O primeiro restaurante do Piódão, construído em xisto, serve pratos tradicionais como bucho à moda antiga e Bacalhau d'Avó."
+        },
+        {
+          "headline": "Richie Campbell abre coração em novo documentário",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Novo elétrico AION UT chega a Portugal com 622 km de autonomia",
+          "text": "O novo carro elétrico AION UT chega ao mercado português com uma autonomia de 622 km, expandindo as opções de mobilidade sustentável."
+        }
+      ]
+    }
+  ]
+}
