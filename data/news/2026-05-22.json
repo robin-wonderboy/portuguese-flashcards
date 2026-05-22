@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Incêndio devora fábrica de gestão de resíduos em Taveiro",
+          "text": "Grande incêndio deflagrou na madrugada de sexta-feira na antiga Gresco, fábrica de cerâmica em Taveiro, Coimbra. Dezenas de bombeiros mobilizados. O alerta foi dado pelas 3h20."
+        },
+        {
+          "headline": "Mulher atropelada pelo Metrobus fica em estado grave",
+          "text": "Uma mulher foi atropelada pelo Metrobus em Coimbra e encontra-se em estado grave."
+        },
+        {
+          "headline": "Serenata Monumental ecoa por Coimbra",
+          "text": "A Serenata Monumental da Queima das Fitas voltou a animar as ruas de Coimbra, com fado e emoção."
+        },
+        {
+          "headline": "Ana Abrunhosa recebida em euforia pelos estudantes",
+          "text": "A Presidente da CCDRC foi aclamada pelos estudantes na Serenata Monumental, ganhando o epíteto de 'Presidente das selfies'."
+        },
+        {
+          "headline": "Última Serenata leva finalistas de Medicina às lágrimas",
+          "text": "Finalistas de Medicina viveram uma noite memorável e saudosa na sua última Serenata da Queima das Fitas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Pulseiras eletrónicas por violência doméstica disparam 222%",
+          "text": "O número de pulseiras eletrónicas por violência doméstica em Portugal disparou para 222,61%, segundo dados recentes."
+        },
+        {
+          "headline": "Casal suspeito de abandonar crianças detido em Fátima",
+          "text": "Um casal suspeito de ter abandonado crianças foi detido em Fátima e passou a noite em custódia."
+        },
+        {
+          "headline": "Estudante rende milhões com 'sextortion'",
+          "text": "Um estudante amarrado pela rede 'Laço de Eros' rendeu milhões com esquema de sextorsão."
+        },
+        {
+          "headline": "Homem apanhado sem carta ao volante em Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Mãe e padrasto de crianças abandonadas localizados",
+          "text": "Foram localizados a mãe e o padrasto das crianças encontradas abandonadas no meio da estrada em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "CHUC escolhido para projeto-piloto que pode salvar centenas de vidas",
+          "text": "O Centro Hospitalar e Universitário de Coimbra foi selecionado para um projeto-piloto nacional com potencial para salvar centenas de vidas."
+        },
+        {
+          "headline": "Corantes e conservantes podem aumentar risco de doenças mortais",
+          "text": "Novo estudo alerta que corantes e conservantes alimentares podem aumentar o risco de doenças que podem levar à morte."
+        },
+        {
+          "headline": "Homem perdeu 43 quilos através da reeducação alimentar",
+          "text": "Um livro apresenta o testemunho de um homem que conseguiu perder 43 kg através da reeducação alimentar."
+        },
+        {
+          "headline": "Semana difícil para alérgicos: pólen sobe em todo o território",
+          "text": "A concentração de pólen subiu em todo o território continental português, tornando a semana difícil para quem sofre de alergias."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PSD quer capacete obrigatório em trotinetes e bicicletas elétricas",
+          "text": "O PSD propôs tornar obrigatório o uso de capacete em trotinetes e bicicletas elétricas."
+        },
+        {
+          "headline": "Conselho de Ministros aprova criação de 2 universidades",
+          "text": "O Conselho de Ministros aprovou a criação de duas novas universidades em Portugal."
+        },
+        {
+          "headline": "Já pode pedir a 2ª via da Carta de Condução na app do Governo",
+          "text": "A segunda via da carta de condução já pode ser pedida através da aplicação oficial do Governo."
+        },
+        {
+          "headline": "Rui Moreira Claro candidato à concelhia socialista de Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "MAI: fogos não podem ser uma fatalidade",
+          "text": "O Ministro da Administração Interna declarou que os incêndios florestais não podem ser tratados como fatalidade."
+        },
+        {
+          "headline": "Dispositivo de combate a incêndios sem todos os helicópteros disponíveis",
+          "text": "O dispositivo de combate a incêndios florestais não conta com todos os helicópteros disponíveis nesta fase."
+        },
+        {
+          "headline": "Navigator quer rever legislação sobre plantação de eucaliptos",
+          "text": "A empresa Navigator pretende rever a legislação que limita a plantação de eucaliptos em Portugal."
+        },
+        {
+          "headline": "Oceanos estão a subir ao dobro da velocidade desde 2005",
+          "text": ""
+        },
+        {
+          "headline": "Planeta está a afogar-se em plástico de comida e bebida",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Coimbra vai discutir o futuro sustentável do setor automóvel",
+          "text": "Coimbra recebe debate sobre o futuro sustentável do setor automóvel."
+        },
+        {
+          "headline": "Novo elétrico AION UT chega a Portugal com 622 km de autonomia",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Cidade no Japão 'fala' português há séculos",
+          "text": "Há uma cidade no Japão que mantém tradições e expressões em português desde há séculos."
+        },
+        {
+          "headline": "Brasil impõe novas regras a redes sociais e plataformas digitais",
+          "text": "O Brasil aprovou novas regulamentações para redes sociais e plataformas digitais."
+        },
+        {
+          "headline": "Airbus e Air France condenadas por homicídio negligente (Rio-Paris 2009)",
+          "text": "Em recurso do acidente aéreo Rio-Paris de 2009, Airbus e Air France foram condenadas por homicídio negligente."
+        },
+        {
+          "headline": "Selfies podem estar a roubar impressões digitais",
+          "text": "Um novo alerta de segurança indica que selfies podem ser usadas para roubar impressões digitais."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Governo reforça financiamento do ensino profissional em 33 milhões",
+          "text": "O Governo vai reforçar o financiamento do ensino profissional com mais 33 milhões de euros."
+        },
+        {
+          "headline": "Instituto Miguel Torga com menos 30% de novos alunos",
+          "text": "O Instituto Miguel Torga em Coimbra registou uma quebra de 30% nos novos alunos e um resultado negativo."
+        },
+        {
+          "headline": "Agrupamento Martim de Freitas abre portas à comunidade",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Cantanhede recebe a Primavera com os melhores brancos e rosés",
+          "text": "O concelho de Cantanhede recebe evento de vinhos brancos e rosés da região para celebrar a Primavera."
+        },
+        {
+          "headline": "Bacalhau à moda dos enterros: a delícia que era refeição oficial dos funerais em Mira",
+          "text": "A tradição do 'bacalhau à moda dos enterros' em Mira era a refeição oficial servida nos funerais."
+        },
+        {
+          "headline": "Aplicação viral quer mapear todos os arraiais e festas populares",
+          "text": "Uma nova aplicação pretende mapear todos os arraiais e festas populares do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Coimbra entre as cidades onde oferta de arrendamento mais caiu",
+          "text": "Coimbra está entre as cidades portuguesas onde a oferta de casas para arrendar mais diminuiu."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Coimbra vai receber uma das maiores conferências de tecnologia do país",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Rúben Neves abre o coração sobre Diogo Jota",
+          "text": "Rúben Neves falou emocionadamente sobre o momento mais difícil: a situação de Diogo Jota."
+        },
+        {
+          "headline": "Atletas de Coimbra conquistam 12 títulos nacionais",
+          "text": "Atletas de Coimbra conquistaram 12 títulos nacionais no Campeonato Master de Lançamentos Longos."
+        }
+      ]
+    }
+  ]
+}
