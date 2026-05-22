@@ -14071,5 +14071,151 @@
       "example_de": "AAC hauht der Gewinnerin übers Ohr",
       "example_en": "AAC stiffs the winner (refuses to pay)"
     }
+  ],
+  "2026-05-22": [
+    {
+      "pt": "devorar",
+      "de": "verschlingen/zerstören",
+      "en": "to devour/destroy",
+      "example": "Chamas devoram fábrica de gestão de resíduos",
+      "example_de": "Flammen verschlingen Abfall-Management-Fabrik",
+      "example_en": "Flames devour waste management factory"
+    },
+    {
+      "pt": "o resíduo",
+      "de": "der Abfall/die Rückstand",
+      "en": "the waste/residue",
+      "example": "Fábrica de gestão de resíduos",
+      "example_de": "Abfallmanagement-Fabrik",
+      "example_en": "Waste management factory"
+    },
+    {
+      "pt": "a pulseira eletrónica",
+      "de": "die elektronische Fußfessel",
+      "en": "the electronic ankle monitor",
+      "example": "Pulseiras eletrónicas por violência doméstica disparam",
+      "example_de": "Elektronische Fußfesseln wegen häuslicher Gewalt schnellen hoch",
+      "example_en": "Electronic ankle monitors for domestic violence soar"
+    },
+    {
+      "pt": "a violência doméstica",
+      "de": "die häusliche Gewalt",
+      "en": "domestic violence",
+      "example": "Pulseiras por violência doméstica disparam",
+      "example_de": "Fußfesseln wegen häuslicher Gewalt schnellen hoch",
+      "example_en": "Ankle monitors for domestic violence soar"
+    },
+    {
+      "pt": "o projeto-piloto",
+      "de": "das Pilotprojekt",
+      "en": "the pilot project",
+      "example": "CHUC escolhido para projeto-piloto nacional",
+      "example_de": "CHUC für nationales Pilotprojekt ausgewählt",
+      "example_en": "CHUC chosen for national pilot project"
+    },
+    {
+      "pt": "ecoa",
+      "de": "hallt/widerhallt",
+      "en": "echoes",
+      "example": "Serenata Monumental ecoa por Coimbra",
+      "example_de": "Monumentale Serenade hallt durch Coimbra",
+      "example_en": "Monumental Serenade echoes through Coimbra"
+    },
+    {
+      "pt": "a euforia",
+      "de": "die Euphorie/die Begeisterung",
+      "en": "euphoria",
+      "example": "Estudantes recebem Ana Abrunhosa em euforia",
+      "example_de": "Studenten empfangen Ana Abrunhosa in Euphorie",
+      "example_en": "Students receive Ana Abrunhosa in euphoria"
+    },
+    {
+      "pt": "saudoso",
+      "de": "wehmütig/sehnsüchtig",
+      "en": "nostalgic/longing",
+      "example": "Memoráveis e saudosos - última serenata",
+      "example_de": "Unvergesslich und wehmütig - letzte Serenade",
+      "example_en": "Memorable and nostalgic - last serenade"
+    },
+    {
+      "pt": "abandonar",
+      "de": "verlassen/im Stich lassen",
+      "en": "to abandon",
+      "example": "Casal suspeito de abandonar crianças",
+      "example_de": "Paar verdächtig, Kinder verlassen zu haben",
+      "example_en": "Couple suspected of abandoning children"
+    },
+    {
+      "pt": "o capacete",
+      "de": "der Helm",
+      "en": "the helmet",
+      "example": "PSD quer uso obrigatório de capacete nas trotinetes",
+      "example_de": "PSD will Helmpflicht bei E-Scootern",
+      "example_en": "PSD wants mandatory helmet use on e-scooters"
+    },
+    {
+      "pt": "obrigatório",
+      "de": "Pflicht-/obligatorisch",
+      "en": "mandatory",
+      "example": "Uso obrigatório de capacete",
+      "example_de": "Helmpflicht",
+      "example_en": "Mandatory helmet use"
+    },
+    {
+      "pt": "o homicídio negligente",
+      "de": "die fahrlässige Tötung",
+      "en": "negligent homicide",
+      "example": "Airbus e Air France condenadas por homicídio negligente",
+      "example_de": "Airbus und Air France wegen fahrlässiger Tötung verurteilt",
+      "example_en": "Airbus and Air France convicted of negligent homicide"
+    },
+    {
+      "pt": "a reeducação alimentar",
+      "de": "die Ernährungsumstellung",
+      "en": "dietary re-education",
+      "example": "Perdeu 43 quilos através da reeducação alimentar",
+      "example_de": "43 Kilo durch Ernährungsumstellung verloren",
+      "example_en": "Lost 43 kilos through dietary re-education"
+    },
+    {
+      "pt": "o corante",
+      "de": "der Farbstoff",
+      "en": "the dye/coloring",
+      "example": "Corantes e conservantes podem aumentar risco de doenças",
+      "example_de": "Farb- und Konservierungsstoffe können Krankheitsrisiko erhöhen",
+      "example_en": "Dyes and preservatives may increase disease risk"
+    },
+    {
+      "pt": "o conservante",
+      "de": "der Konservierungsstoff",
+      "en": "the preservative",
+      "example": "Corantes e conservantes podem aumentar risco de doenças",
+      "example_de": "Farb- und Konservierungsstoffe können Krankheitsrisiko erhöhen",
+      "example_en": "Dyes and preservatives may increase disease risk"
+    },
+    {
+      "pt": "a conferência",
+      "de": "die Konferenz",
+      "en": "the conference",
+      "example": "Coimbra vai receber uma das maiores conferências de tecnologia",
+      "example_de": "Coimbra wird eine der größten Technologiekonferenzen empfangen",
+      "example_en": "Coimbra to host one of the biggest technology conferences"
+    },
+    {
+      "pt": "a impressão digital",
+      "de": "der Fingerabdruck",
+      "en": "the fingerprint",
+      "example": "Selfies podem estar a roubar impressões digitais",
+      "example_de": "Selfies können Fingerabdrücke stehlen",
+      "example_en": "Selfies may be stealing fingerprints"
+    },
+    {
+      "pt": "o território",
+      "de": "das Territorium/das Staatsgebiet",
+      "en": "the territory",
+      "example": "Concentração de pólen sobe em todo o território continental",
+      "example_de": "Pollenkonzentration steigt im gesamten Festland",
+      "example_en": "Pollen concentration rises across the continental territory"
+    }
   ]
 }
