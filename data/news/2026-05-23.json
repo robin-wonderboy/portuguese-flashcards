@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Incêndio em Taveiro: armazém lavra há 15 horas",
+          "text": "Um incêndio num armazém em Taveiro já dura há mais de 15 horas. As chamas assustaram a população local, mas o fogo está agora dominado. Máquinas pesadas foram chamadas para entrar na fábrica a arder e retirar plástico do interior."
+        },
+        {
+          "headline": "Incêndio em Taveiro causa falhas de água em várias zonas de Coimbra",
+          "text": "O incêndio numa empresa em Taveiro provocou falhas de água em várias zonas de Coimbra. Imagens impressionantes mostram o inferno do fogo que destruiu o armazém."
+        },
+        {
+          "headline": "Novo incêndio deflagra em Miranda do Corvo (zona de Canas)",
+          "text": "Um novo incêndio deflagrou na zona de Canas, em Miranda do Corvo. A região de Coimbra conta com 775 operacionais e 178 veículos, incluindo um helicóptero na Lousã."
+        },
+        {
+          "headline": "Incêndio em ar-condicionado da ESEC mobiliza bombeiros",
+          "text": "Um incêndio num ar-condicionado da ESEC (Escola Superior de Educação de Coimbra) mobilizou os bombeiros."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Caso de meningite mata funcionária de escola em Coimbra",
+          "text": "Um caso de meningite matou uma funcionária de uma escola em Coimbra. A ULS de Coimbra garante risco baixo e situação controlada. Os pais receberam email de alerta."
+        },
+        {
+          "headline": "Doenças sexualmente transmissíveis podem ser testadas na Queima das Fitas",
+          "text": "Durante a Queima das Fitas de Coimbra, será possível fazer testes de doenças sexualmente transmissíveis."
+        },
+        {
+          "headline": "Utentes já podem ver no SNS 24 quanto custaram os seus cuidados de saúde ao Estado",
+          "text": "Os utentes agora podem consultar no SNS 24 quanto custaram os seus cuidados de saúde ao Estado."
+        },
+        {
+          "headline": "Cuidado com o protetor solar do ano passado...",
+          "text": "Alerta: protetor solar de anos anteriores pode perder eficácia. Verifique sempre a data de validade."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Tribunal chumba plano de insolvência da Académica/OAF",
+          "text": "O tribunal recusou o plano de insolvência da AAC-OAF. O clube de futebol está \"à beira da morte\", segundo a descrição do processo."
+        },
+        {
+          "headline": "30 indivíduos fazem legalização fraudulenta de milhares de imigrantes",
+          "text": "Uma rede de 30 pessoas está a ser investigada por legalização fraudulenta de milhares de imigrantes."
+        },
+        {
+          "headline": "17 anos de prisão por abuso sexual de enteada",
+          "text": "Um homem foi condenado a 17 anos de prisão por abuso sexual da enteada. Os crimes começaram quando a criança tinha 10 anos."
+        },
+        {
+          "headline": "Padrasto abandona crianças francesas no meio da estrada",
+          "text": "Um padrasto abandonou meninos franceses no meio da estrada. Ficou em fúria na cela da GNR. Uma mulher percebeu quem eram e ligou à GNR."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO & VIDA LOCAL",
+      "stories": [
+        {
+          "headline": "Vandalismo obriga a encerrar WC da Bica da Milriça",
+          "text": "Atos de vandalismo obrigaram ao encerramento dos WC públicos da Bica da Milriça."
+        },
+        {
+          "headline": "Morre em Coimbra após queda de 4 metros",
+          "text": "Uma pessoa morreu em Coimbra após uma queda de 4 metros."
+        },
+        {
+          "headline": "Trilho da Pedra da Ferida à Louçainha novamente transitável",
+          "text": "O trilho de pedestrianismo entre a Pedra da Ferida e a Louçainha voltou a estar transitável."
+        },
+        {
+          "headline": "Coimbra debate legado da Casa dos Estudantes do Império",
+          "text": "Um colóquio no Convento São Francisco debate o legado da Casa dos Estudantes do Império em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Vamos apanhar um SMTUC para a Praia do Rebolim?",
+          "text": "O código da paragem é o 2570. Novidade na rede de autocarros de Coimbra com destino à Praia do Rebolim."
+        },
+        {
+          "headline": "Coimbra vai discutir o futuro sustentável do setor automóvel",
+          "text": "Coimbra vai receber um debate sobre o futuro sustentável do setor automóvel."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Lusa: Ato II - Bárbara Bandeira edita 2ª parte do projeto (inclui tema inédito de Amália)",
+          "text": "Bárbara Bandeira lança a segunda parte do projeto Lusa, que inclui um tema inédito de Amália Rodrigues."
+        },
+        {
+          "headline": "Em Góis, prato de truta segue receita com séculos de história",
+          "text": "O prato de truta de Góis ainda segue uma receita com séculos de história, tradição culinária da região."
+        },
+        {
+          "headline": "Cantanhede recebe a Primavera com os melhores brancos e rosés da região",
+          "text": "Cantanhede celebra a Primavera com uma mostra dos melhores vinhos brancos e rosés da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "FlixBus acusa Rede Expressos de má fé",
+          "text": "FlixBus acusa a Rede Expressos de má fé e de continuar a impedir acesso ao terminal rodoviário."
+        },
+        {
+          "headline": "PSD quer uso obrigatório de capacete nas trotinetes e bicicletas elétricas",
+          "text": "O PSD propõe tornar obrigatório o uso de capacete nas trotinetes e bicicletas elétricas."
+        },
+        {
+          "headline": "Ministro: há municípios que ainda não avaliaram habitações afetadas pelas tempestades",
+          "text": "O ministro revelou que muitos municípios ainda não avaliaram as habitações afetadas pelas tempestades."
+        },
+        {
+          "headline": "Brasil impõe novas regras a redes sociais e plataformas digitais",
+          "text": "O Brasil aprovou novas regras para redes sociais e plataformas digitais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica/OAF \"à beira da morte\" - tribunal recusa insolvência",
+          "text": "A situação da Académica/OAF é dramática: o tribunal recusou o plano de insolvência, colocando o clube ainda mais perto do fim."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "OMS eleva para 177 o número de mortos por ébola na RDC",
+          "text": "A Organização Mundial de Saúde elevou para 177 o número de mortos por ébola na República Democrática do Congo."
+        },
+        {
+          "headline": "Há uma cidade no Japão que fala português há séculos",
+          "text": "Uma cidade no Japão mantém a língua portuguesa viva há séculos, uma herança fascinante da história de navegação."
+        },
+        {
+          "headline": "Homem desaparecido nas águas do rio Paiva",
+          "text": "Um homem desapareceu nas águas do rio Paiva. As buscas estão em curso."
+        }
+      ]
+    }
+  ]
+}
