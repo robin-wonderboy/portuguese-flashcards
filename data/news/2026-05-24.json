@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎉",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Romaria do Espírito Santo arranca em Santo António dos Olivais",
+          "text": "A freguesia de Santo António dos Olivais vestiu-se de festa este sábado com o início da Romaria do Espírito Santo. Até 13 de junho, o Largo dos Olivais recebe música popular, gastronomia, artesanato e animação para todas as idades."
+        },
+        {
+          "headline": "Spring Fest pinta Cantanhede de rosé, branco e espumante",
+          "text": "A 2ª edição do Pink & White Spring Fest traz vinhos da Bairrada a Cantanhede, com provas de rosé, branco e espumante num evento que celebra a região vinícola."
+        },
+        {
+          "headline": "Casa Museu Bissaya Barreto celebra Dia Internacional dos Museus",
+          "text": "O museu de Coimbra preparou programação especial para assinalar o Dia Internacional dos Museus, com visitas guiadas e atividades para o público."
+        },
+        {
+          "headline": "Combinação improvável já é património não oficial da Romaria",
+          "text": "Uma tradição gastronómica peculiar da Romaria do Espírito Santo tornou-se património não oficial de Coimbra, juntando sabores que à primeira vista parecem incompatíveis."
+        },
+        {
+          "headline": "Manuel Campos encontrado com vida após noite de angústia",
+          "text": "Final feliz no caso do homem desaparecido. Manuel Campos foi encontrado com vida após uma noite de buscas intensas em que a esposa participou ativamente."
+        },
+        {
+          "headline": "Atenção: fumo na região é potencialmente nocivo para a saúde",
+          "text": "As autoridades alertam que o fumo proveniente de incêndios na região pode ser prejudicial à saúde, especialmente para grupos de risco como idosos e doentes respiratórios."
+        },
+        {
+          "headline": "Exposição itinerante reforça sensibilização ambiental em escola de Cantanhede",
+          "text": "A Escola Básica Dr. José dos Santos Bessa recebe uma exposição itinerante que promove a consciência ambiental entre os mais novos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Mãe que abandonou filhos na estrada vai para a prisão de Tires",
+          "text": "A mulher que abandonou os filhos na estrada foi transferida para a prisão de Tires. O padrasto já se encontrava em prisão preventiva."
+        },
+        {
+          "headline": "Detido por abusar dos filhos menores",
+          "text": "Um homem foi detido por abusar dos próprios filhos menores, num caso que chocou a comunidade local."
+        },
+        {
+          "headline": "Burlões fazem falsos peditórios porta-a-porta em Cantanhede",
+          "text": "A GNR alerta para fraudadores que andam de porta em porta em Cantanhede a fazer falsos peditórios, pedindo dinheiro sob pretexto falso."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Excesso de açúcar em alimentos para bebés nos supermercados",
+          "text": "Um estudo revela que muitos alimentos destinados a bebés vendidos nos supermercados contêm níveis excessivos de açúcar, muito acima do recomendado pela OMS."
+        },
+        {
+          "headline": "ULS de Coimbra: risco baixo após caso de meningite numa escola",
+          "text": "Após o caso de meningite que vitimou uma funcionária de escola em Coimbra, a ULS garante que a situação está controlada e o risco para a comunidade é baixo."
+        },
+        {
+          "headline": "Montemor-o-Velho promove Feira da Saúde descentralizada",
+          "text": "O município de Montemor-o-Velho organiza a Feira da Saúde com atividades em Pereira e Carapinheira, levando cuidados de saúde e rastreios às freguesias."
+        },
+        {
+          "headline": "Angola entre os 10 países africanos em risco de Ébola",
+          "text": "A OMS elevou para 177 o número de mortos por Ébola na República Democrática do Congo, e Angola está entre os 10 países africanos com maior risco de propagação."
+        }
+      ]
+    },
+    {
+      "emoji": "🗳️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Paulo Raimundo: falta um empurrão para o pacote laboral ir ao chão",
+          "text": "O líder do PS diz que falta apenas um empurrão para que o polémico pacote laboral caia, alimentando a oposição ao diploma governamental."
+        },
+        {
+          "headline": "José Manuel Pureza quer ver pacote laboral no caixote do lixo",
+          "text": "O deputado do BE foi peremptório: o pacote laboral deve ir para o caixote do lixo, defendendo a revogação total das alterações ao código de trabalho."
+        },
+        {
+          "headline": "Carneiro acusa Governo de desmazelo na resposta às tempestades",
+          "text": "José Luís Carneiro criticou em Coimbra o Governo por desmazelo na resposta às intempéries, argumentando que o SIRESP esteve sem presidente durante meses."
+        },
+        {
+          "headline": "Montenegro: o povo está farto de eleições",
+          "text": "O primeiro-ministro Luís Montenegro declarou que os portugueses estão fartos de eleições, num contexto de instabilidade política."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica vai recorrer da sentença de não homologação do plano de insolvência",
+          "text": "O clube announced que vai recorrer da decisão do tribunal que chumbou o plano de insolvência, lutando pela sobrevivência do futebol profissional em Coimbra."
+        },
+        {
+          "headline": "Torreense preparado para tentar ganhar a Taça de Portugal",
+          "text": "O Torreense diz-se preparado para disputar a final da Taça de Portugal, num encontro que promete emoção forte."
+        },
+        {
+          "headline": "Lousã volta a receber a emblemática Descida da Serra em Cadeira de Rodas",
+          "text": "O evento inclusivo regressa à Lousã, promovendo a acessibilidade e a integração de pessoas com mobilidade reduzida no desporto de natureza."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "ECONOMIA & VINHOS",
+      "stories": [
+        {
+          "headline": "Sem tempestades, 2026 promete grande colheita na Bairrada",
+          "text": "As condições climáticas favoráveis este ano deixam os produtores da Bairrada otimistas para uma colheita generosa em 2026."
+        },
+        {
+          "headline": "Alimentos podem ficar mais caros nos próximos meses",
+          "text": "Atenção à carteira: especialistas alertam que os preços dos alimentos básicos podem sofrer aumentos significativos nos próximos meses."
+        },
+        {
+          "headline": "Centro 2030 disponibiliza 10M€ para contratação de quadros qualificados",
+          "text": "O programa Centro 2030 abriu uma linha de financiamento de 10 milhões de euros para empresas da Região Centro contratarem profissionais qualificados."
+        },
+        {
+          "headline": "Sindicatos acusam bancos de ganância",
+          "text": "As organizações sindicais do setor bancário acusam os bancos de ganância por manterem uma proposta de aumentos salariais de apenas 2%."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Dona Flor e os Dois Maridos sobe ao palco na Figueira da Foz",
+          "text": "A adaptação teatral do famoso romance de Jorge Amado chega à Figueira da Foz, prometendo uma noite de humor e paixão."
+        },
+        {
+          "headline": "Oliveira do Hospital acelera para o EPTO Rodas Fest",
+          "text": "Mais uma edição do festival automóvel de Oliveira do Hospital está a ser preparada, com exibições de carros e motas a atrair entusiastas de toda a região."
+        },
+        {
+          "headline": "Ágata lança single contra a violência doméstica",
+          "text": "A cantora Ágata lançou um novo single com uma mensagem forte contra a violência doméstica, juntando-se ao movimento de conscientização."
+        },
+        {
+          "headline": "Richie Campbell lança Love Me Now e reforça ligação ao dancehall",
+          "text": "O artista português reforça a sua ligação ao dancehall internacional com o novo single Love Me Now."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO & PORTUGAL",
+      "stories": [
+        {
+          "headline": "Há uma estátua do Cristo Rei escondida no Centro de Portugal",
+          "text": "Uma estátua menos conhecida do Cristo Rei, escondida no Centro de Portugal, surpreende visitantes pela sua imponência e história."
+        },
+        {
+          "headline": "Português morre após ser atingido por barra metálica",
+          "text": "Um cidadão português morreu após ser atingido por uma barra metálica, num acidente que chocou a comunidade."
+        },
+        {
+          "headline": "A história da primeira mulher a votar em Portugal",
+          "text": "O jornal relembra a história da primeira mulher que exerceu o direito de voto em Portugal, num tributo à conquista democrática."
+        },
+        {
+          "headline": "Há uma cidade no Japão que fala português há séculos",
+          "text": "Uma cidade japonesa mantém a língua portuguesa viva há séculos, numa curiosidade histórica que liga os dois povos."
+        }
+      ]
+    }
+  ]
+}
