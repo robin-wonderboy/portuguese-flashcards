@@ -14379,5 +14379,159 @@
       "example_de": "Lebensmittel, die bei der Erholung von Muskelermüdung helfen",
       "example_en": "Foods that help recover from muscle fatigue"
     }
+  ],
+  "2026-05-24": [
+    {
+      "pt": "a fartura",
+      "de": "die Fülle / der Überfluss",
+      "en": "abundance / plenty",
+      "example": "Esta Romaria é uma fartura de festa em Coimbra",
+      "example_de": "Diese Romaria ist eine Fülle von Fest in Coimbra",
+      "example_en": "This Romaria is a feast of plenty in Coimbra"
+    },
+    {
+      "pt": "o peditório",
+      "de": "die Sammlung / die Haustürsammlung",
+      "en": "door-to-door collection / appeal",
+      "example": "Burlões fazem falsos peditórios porta-a-porta",
+      "example_de": "Betrüger machen falsche Haustürsammlungen",
+      "example_en": "Scammers make fake door-to-door collections"
+    },
+    {
+      "pt": "a colheita",
+      "de": "die Ernte",
+      "en": "harvest",
+      "example": "2026 promete grande colheita na Bairrada",
+      "example_de": "2026 verspricht große Ernte in der Bairrada",
+      "example_en": "2026 promises a great harvest in Bairrada"
+    },
+    {
+      "pt": "a ganância",
+      "de": "die Gier",
+      "en": "greed",
+      "example": "Sindicatos acusam bancos de ganância",
+      "example_de": "Gewerkschaften beschuldigen Banken der Gier",
+      "example_en": "Unions accuse banks of greed"
+    },
+    {
+      "pt": "a carteira",
+      "de": "der Geldbeutel / die Brieftasche",
+      "en": "wallet / purse",
+      "example": "Atenção à carteira! Alimentos podem ficar mais caros",
+      "example_de": "Achtung den Geldbeutel! Lebensmittel können teurer werden",
+      "example_en": "Watch your wallet! Food may get more expensive"
+    },
+    {
+      "pt": "o desmazelo",
+      "de": "die Nachlässigkeit / die Vernachlässigung",
+      "en": "neglect / carelessness",
+      "example": "Carneiro acusa Governo de desmazelo na resposta às tempestades",
+      "example_de": "Carneiro beschuldigt die Regierung der Nachlässigkeit",
+      "example_en": "Carneiro accuses the government of neglect"
+    },
+    {
+      "pt": "nocivo",
+      "de": "schädlich",
+      "en": "harmful / noxious",
+      "example": "Este fumo é potencialmente nocivo para a saúde",
+      "example_de": "Dieser Rauch ist potenziell gesundheitsschädlich",
+      "example_en": "This smoke is potentially harmful to health"
+    },
+    {
+      "pt": "improvável",
+      "de": "unwahrscheinlich",
+      "en": "unlikely / improbable",
+      "example": "Esta combinação improvável já é património",
+      "example_de": "Diese unwahrscheinliche Kombination ist schon Kulturerbe",
+      "example_en": "This unlikely combination is already heritage"
+    },
+    {
+      "pt": "farto (de)",
+      "de": "müde (von) / überdrüssig",
+      "en": "fed up (with) / sick of",
+      "example": "O povo está farto de eleições",
+      "example_de": "Das Volk ist der Wahlen überdrüssig",
+      "example_en": "The people are fed up with elections"
+    },
+    {
+      "pt": "ir ao chão",
+      "de": "zu Fall kommen / kippen",
+      "en": "to fall through / to collapse",
+      "example": "Falta um empurrão para o pacote laboral ir ao chão",
+      "example_de": "Es fehlt ein Schubs, damit das Arbeitspaket kippt",
+      "example_en": "Just needs a push for the labor package to fall through"
+    },
+    {
+      "pt": "o quadro qualificado",
+      "de": "der Qualifizierte / die Fachkraft",
+      "en": "skilled professional / qualified personnel",
+      "example": "Centro 2030 disponibiliza 10 milhões para contratação de quadros qualificados",
+      "example_de": "Centro 2030 stellt 10 Millionen für die Einstellung von Fachkräften",
+      "example_en": "Centro 2030 makes 10 million available for hiring skilled professionals"
+    },
+    {
+      "pt": "homologar",
+      "de": "genehmigen / bestätigen",
+      "en": "to approve / to ratify",
+      "example": "Académica vai recorrer da sentença de não homologação",
+      "example_de": "Académica wird gegen die Nichtgenehmigung Berufung einlegen",
+      "example_en": "Académica will appeal the non-approval ruling"
+    },
+    {
+      "pt": "o excesso",
+      "de": "der Überschuss / das Übermaß",
+      "en": "excess / surplus",
+      "example": "Há um excesso de açúcar em alimentos para bebés",
+      "example_de": "Es gibt einen Überschuss an Zucker in Babynahrung",
+      "example_en": "There is an excess of sugar in baby food"
+    },
+    {
+      "pt": "vestir-se",
+      "de": "sich kleiden / sich anziehen",
+      "en": "to dress oneself / to get dressed",
+      "example": "A freguesia voltou a vestir-se de festa",
+      "example_de": "Die Gemeinde kleidete sich wieder festlich",
+      "example_en": "The parish dressed up in celebration again"
+    },
+    {
+      "pt": "o caixote do lixo",
+      "de": "der Mülleimer / die Mülltonne",
+      "en": "trash can / dustbin",
+      "example": "José Manuel Pureza quer ver pacote laboral no caixote do lixo",
+      "example_de": "José Manuel Pureza will das Arbeitspaket in die Mülltonne",
+      "example_en": "José Manuel Pureza wants the labor package in the trash"
+    },
+    {
+      "pt": "o aço",
+      "de": "der Stahl",
+      "en": "steel",
+      "example": "Aço e emprego: Coimbra discute o futuro sustentável",
+      "example_de": "Stahl und Beschäftigung: Coimbra diskutiert die nachhaltige Zukunft",
+      "example_en": "Steel and employment: Coimbra discusses the sustainable future"
+    },
+    {
+      "pt": "disponibilizar",
+      "de": "zur Verfügung stellen",
+      "en": "to make available / to provide",
+      "example": "Centro 2030 disponibiliza 10 milhões para contratação",
+      "example_de": "Centro 2030 stellt 10 Millionen für Einstellungen zur Verfügung",
+      "example_en": "Centro 2030 makes 10 million available for hiring"
+    },
+    {
+      "pt": "o açúcar",
+      "de": "der Zucker",
+      "en": "sugar",
+      "example": "Há um excesso de açúcar em alimentos para bebés",
+      "example_de": "Es gibt einen Überschuss an Zucker in Babynahrung",
+      "example_en": "There is an excess of sugar in baby food"
+    },
+    {
+      "pt": "o pacote laboral",
+      "de": "das Arbeitspaket",
+      "en": "labor package / labor reform bill",
+      "example": "Paulo Raimundo diz que falta um empurrão para o pacote laboral ir ao chão",
+      "example_de": "Paulo Raimundo sagt, es fehlt ein Schubs, damit das Arbeitspaket kippt",
+      "example_en": "Paulo Raimundo says just needs a push for the labor package to fall through"
+    }
   ]
 }
