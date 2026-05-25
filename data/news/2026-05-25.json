@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Vem aí um \"calorão\" - 40 ºC, noites tropicais e trovoada",
+          "text": "A última semana de maio deverá ficar marcada por uma subida acentuada das temperaturas em Portugal continental, devido a um anticiclone subtropical sobre a Europa Ocidental. Máximas poderão aproximar-se dos 40 ºC no interior."
+        },
+        {
+          "headline": "As fotos do cortejo da Queima das Fitas que mostram por que Coimbra é única",
+          "text": "O cortejo da Queima das Fitas encheu as ruas de Coimbra mais uma vez, com fotos que capturam a energia e tradição da festa académica."
+        },
+        {
+          "headline": "São eles que \"salvam\" Coimbra depois de uma das maiores festas académicas do país",
+          "text": "Depois da festa, a cidade precisa de ser limpa. Os serviços de limpeza trabalham para restaurar Coimbra após a Queima das Fitas."
+        },
+        {
+          "headline": "Nem os banhos de cerveja afastaram esta avó de ver a neta no cortejo",
+          "text": "Uma avó resistiu aos banhos de cerveja para ver a neta passar no cortejo da Queima das Fitas."
+        },
+        {
+          "headline": "Estudante sente-se mal durante o cortejo da Queima das Fitas",
+          "text": "Um estudante precisou de assistência durante o cortejo, num dia de calor intenso em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Guardas prisionais varrem celas: \"droga dos zombies\" invade cadeia de Coimbra",
+          "text": "Uma operação de busca nas celas da cadeia de Coimbra encontrou droga, incluindo a chamada 'droga dos zombies' que tem preocupado as autoridades."
+        },
+        {
+          "headline": "Burlões podem ficar mais magros no corpo e na carteira",
+          "text": "Alerta sobre burlões que estão a ser confrontados com consequências tanto físicas como financeiras."
+        },
+        {
+          "headline": "Condutora fica presa dentro do carro em Coimbra",
+          "text": "Uma condutora ficou presa dentro do seu veículo após um acidente em Coimbra, precisando de resgate."
+        },
+        {
+          "headline": "Mãe que abandonou filhos na estrada vai para a prisão de Tires",
+          "text": "A mulher que abandonou os filhos na estrada foi detida e vai cumprir prisão em Tires."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Doença silenciosa afeta 600 mil portugueses - será que a tem?",
+          "text": "Uma doença silenciosa afeta cerca de 600 mil pessoas em Portugal, muitas delas sem saberem que sofrem do problema."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Montenegro quer evitar discussões e maledicência sobre pacote laboral",
+          "text": "O primeiro-ministro quer evitar debates negativos e maledicência em torno do pacote laboral que tem gerado polémica."
+        },
+        {
+          "headline": "SIRESP provoca nova demissão no Ministério da Administração Interna",
+          "text": "Os problemas com o SIRESP continuam a gerar consequências políticas, com mais uma demissão no ministério responsável."
+        },
+        {
+          "headline": "Chega acusa Governo de \"estratégia caricata\" sobre lei laboral",
+          "text": "O partido Chega critica a abordagem do Governo à legislação laboral, qualificando-a de estratégia caricata."
+        },
+        {
+          "headline": "Finanças vendem casas em leilão com preços acima do valor base",
+          "text": "Leilões de casas por parte das finanças estão a atingir valores superiores ao preço base, revelando pressão no mercado imobiliário."
+        },
+        {
+          "headline": "João Pedro Luís é o novo presidente da JSD",
+          "text": "João Pedro Luís foi eleito novo presidente da Juventude Social-Democrata."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "Estudantes de Direito já vivem a Queima das Fitas em euforia total",
+          "text": "Os estudantes de Direito estão a viver a Queima das Fitas de Coimbra com toda a energia e tradição académica."
+        },
+        {
+          "headline": "2 burras vão abrir o cortejo da Queima das Fitas",
+          "text": "As tradicionais burras da Faculdade de Direito vão abrir mais uma vez o cortejo da Queima das Fitas de Coimbra."
+        },
+        {
+          "headline": "Colegas de jovem que morreu em acidente prestam homenagem no cortejo",
+          "text": "Colegas do jovem que morreu num acidente em Coimbra prestaram homenagem durante o cortejo da Queima das Fitas, dizendo que as saudades são eternas."
+        },
+        {
+          "headline": "Reclusos vão \"vergar a mola\" no Município de Coimbra",
+          "text": "Reclusos vão trabalhar no Município de Coimbra através de um programa de reinserção social."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Aston Villa garante acesso direto de Sporting à Liga dos Campeões",
+          "text": "O resultado do Aston Villa na Premier League garante ao Sporting o acesso direto à fase de grupos da Liga dos Campeões."
+        },
+        {
+          "headline": "Taça de Portugal: Torreense leva Sporting para prolongamento",
+          "text": "A final da Taça de Portugal entre Sporting e Torreense foi para prolongamento após empate no tempo regulamentar."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Trump garante a Netanyahu que acordo final inclui questão nuclear",
+          "text": "Trump assegurou ao primeiro-ministro israelita que qualquer acordo final incluirá a questão nuclear iraniana."
+        },
+        {
+          "headline": "Sedes encerradas e partidos em desunião marcam Guiné-Bissau após golpe",
+          "text": "Após o golpe de Estado, sedes de partidos foram encerradas e a desunião política marca o cenário na Guiné-Bissau."
+        },
+        {
+          "headline": "Português morre após ser atingido por barra metálica",
+          "text": "Um cidadão português morreu após ser atingido por uma barra metálica em circumstances que estão a ser investigadas."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Atenção empresas: 10 milhões para contratar quadros qualificados",
+          "text": "A região Centro disponibiliza 10 milhões de euros para apoiar a contratação de quadros qualificados nas empresas."
+        },
+        {
+          "headline": "Alimentos podem ficar mais caros nos próximos meses",
+          "text": "Atenção à carteira: vários alimentos poderão sofrer aumentos de preço nos próximos meses."
+        },
+        {
+          "headline": "FlixBus acusa Rede Expressos de \"má fé\" e de impedir acesso a terminal",
+          "text": "A FlixBus acusa a Rede Expressos de má fé e de continuar a impedir o acesso ao terminal de autocarros."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "O snack preferido dos portugueses vai ser o rei de uma festa em Cantanhede",
+          "text": "Uma festa numa praia fluvial paradisíaca em Cantanhede vai celebrar o snack preferido dos portugueses."
+        },
+        {
+          "headline": "\"Dona Flor e os Dois Maridos\" sobe ao palco na Figueira da Foz",
+          "text": "A adaptação teatral do famoso romance de Jorge Amado chega à Figueira da Foz."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Coimbra entre as cidades onde a oferta de casas para arrendar mais caiu",
+          "text": "Coimbra está entre as cidades portuguesas onde a oferta de casas para arrendar mais diminuiu, pressionando os preços."
+        }
+      ]
+    }
+  ]
+}
