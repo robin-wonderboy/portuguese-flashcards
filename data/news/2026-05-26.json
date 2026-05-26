@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Jovem estudante desaparece após mergulho no Mondego",
+          "text": "Um jovem estudante desapareceu no dia do Cortejo da Queima das Fitas, após mergulhar no rio Mondego. As buscas estão em curso e a comunidade académica está em choque."
+        },
+        {
+          "headline": "Buscas por homem que terá caído ao rio Mondego",
+          "text": "Equipas de resgate procuram um homem que terá caído ao rio Mondego em Coimbra. A operação envolve bombeiros e autoridades marítimas."
+        },
+        {
+          "headline": "Montemor-o-Velho: choca contra pesado e depois bate em mais três carros",
+          "text": "Um condutor colidiu com um veículo pesado em Montemor-o-Velho e depois embateu contra mais três automóveis. O acidente causou congestionamento na zona."
+        },
+        {
+          "headline": "Colisão à entrada da vila de Pereira",
+          "text": ""
+        },
+        {
+          "headline": "Governo quer passar Metro Mondego para as autarquias",
+          "text": "O Governo anunciou a intenção de transferir a gestão do Metro Mondego para as autarquias locais, gerando debate sobre a sustentabilidade do sistema de transporte."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Homem prostitui e viola menor de 15 anos",
+          "text": "Um homem foi detido por prostituir e violar um menor de 15 anos. O caso chocou a comunidade local."
+        },
+        {
+          "headline": "Agente da PSP da Figueira da Foz caça mulher com quase 2 g/l de álcool",
+          "text": "Um agente da PSP da Figueira da Foz foi apanhado a perseguir uma mulher enquanto conduzia com quase 2 gramas de álcool por litro de sangue."
+        },
+        {
+          "headline": "Jovem desafia a PSP e empurra agente da autoridade",
+          "text": "Um jovem desafiou a PSP de Coimbra e acabou por empurrar um agente da autoridade durante uma intervenção policial."
+        },
+        {
+          "headline": "Antigo agente apanhado pela PJ a inundar zona com droga",
+          "text": "Um antigo agente da autoridade foi detido pela Polícia Judiciária por distribuir droga na região Centro do país."
+        },
+        {
+          "headline": "Diogo quer que a verdade seja apurada no caso de falsificação",
+          "text": "José Manuel Diogo exige que a verdade seja apurada no caso em que está acusado de falsificação em concurso da Câmara de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "DECO lança petição para acabar com atrasos no SNS",
+          "text": "A DECO lançou uma petição para criar um vale-consulta no SNS, com o objetivo de acabar com os atrasos crónicos nas consultas públicas."
+        },
+        {
+          "headline": "Epidemia de Ébola está extremamente grave e difícil de gerir",
+          "text": "Alerta internacional: a epidemia de Ébola na República Democrática do Congo está classificada como extremamente grave, com 900 casos suspeitos registados."
+        },
+        {
+          "headline": "Motociclista helitransportado para Coimbra após acidente",
+          "text": "Um motociclista foi helitransportado para o hospital de Coimbra após um grave acidente no mato."
+        },
+        {
+          "headline": "Nova moda nas saídas à noite promete travar ressacas",
+          "text": "Uma nova tendência nas noites de diversão promete ajudar a evitar as ressacas do dia seguinte."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Bombeiro ferido no combate a incêndio em armazém da DHL",
+          "text": "Um bombeiro ficou ferido durante o combate a um incêndio num armazém da DHL. As chamas violentas devoraram o edifício."
+        },
+        {
+          "headline": "Mata do Bussaco precisa de intervenção urgente",
+          "text": "Especialistas alertam que a Mata Nacional do Bussaco precisa de intervenção urgente para preservar o seu património natural."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Portugal dos Pequenitos vai transformar-se num festival",
+          "text": "O Portugal dos Pequenitos vai transformar-se num festival com festas, magia e noites até à meia-noite, trazendo uma nova experiência ao espaço icónico de Coimbra."
+        },
+        {
+          "headline": "O prato que nasceu em Arganil e ficou na história de Portugal",
+          "text": "Arganil é o berço de um prato que marcou a história gastronómica portuguesa - uma história de tradição e sabor."
+        },
+        {
+          "headline": "Teatrão acolhe espetáculo seguido de jantar para refletir sobre colonialismo",
+          "text": "O Teatrão de Coimbra recebe um espetáculo seguido de jantar, criando um espaço para refletir sobre o colonialismo."
+        },
+        {
+          "headline": "Festival épico da Serra da Estrela promete 3 dias brutais",
+          "text": "O festival mais épico da Serra da Estrela está de volta e promete três dias brutais de música e aventura."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Acesso indevido a dados do SNS atinge mais de 100.000 vítimas",
+          "text": "O acesso indevido a dados do Serviço Nacional de Saúde afetou mais de 100.000 pessoas, revelando falhas graves na proteção de dados de saúde."
+        },
+        {
+          "headline": "Mau tempo deu cabo da produção de cereja",
+          "text": "As condições meteorológicas adversas prejudicaram severamente a produção de cereja este ano, afetando agricultores de várias regiões."
+        },
+        {
+          "headline": "Oposição teme menos passageiros nos SMTUC",
+          "text": "A oposição na Câmara de Coimbra manifestou preocupação com a possível redução de passageiros nos transportes públicos SMTUC."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Ativista portuguesa detida na Líbia",
+          "text": "Uma ativista portuguesa foi detida na Líbia, gerando preocupação e pedidos de intervenção diplomática."
+        },
+        {
+          "headline": "Israel ordena evacuação de 10 aldeias libanesas",
+          "text": "Israel ordenou a evacuação de 10 aldeias no Líbano para um previsível ataque, escalando as tensões no Médio Oriente."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Fisco muda regras do IUC",
+          "text": "O fisco alterou as regras do Imposto Único de Circulação, com mudanças que podem afetar o custo de ter carro em Portugal."
+        },
+        {
+          "headline": "Vem aí um novo modelo da Citroën",
+          "text": "A Citroën vai lançar um novo modelo em Portugal, expandindo as opções no mercado automóvel."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Escola Martim de Freitas transforma fim de ano em celebração",
+          "text": "A Escola Martim de Freitas transformou o fim do ano letivo numa grande celebração, marcando o encerramento do ano escolar com atividades festivas."
+        },
+        {
+          "headline": "Criança morre subitamente dentro de sala de aula",
+          "text": "Uma criança morreu subitamente dentro de uma sala de aula, deixando a comunidade escolar em choque."
+        },
+        {
+          "headline": "Família realiza sonho de trajar filha com paralisia cerebral em Coimbra",
+          "text": "Não há limites para o sonho nem para o amor: uma família conseguiu realizar o sonho de trajar a filha com paralisia cerebral na Queima das Fitas de Coimbra."
+        },
+        {
+          "headline": "Estudo da UC: obesidade abranda no Ocidente e acelera em países desfavorecidos",
+          "text": "Um estudo da Universidade de Coimbra revela que a obesidade está a abrandar nos países ocidentais mas continua a acelerar nos países desfavorecidos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sonho das Arábias termina para Sérgio Conceição",
+          "text": "A aventura de Sérgio Conceição no futebol árabe chegou ao fim, marcando uma nova fase na carreira do treinador português."
+        },
+        {
+          "headline": "Aston Villa garante acesso direto de Sporting à Liga dos Campeões",
+          "text": "O resultado do Aston Villa garantiu ao Sporting o acesso direto à fase de grupos da Liga dos Campeões da próxima temporada."
+        }
+      ]
+    }
+  ]
+}
