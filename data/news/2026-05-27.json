@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO",
+      "stories": [
+        {
+          "headline": "Aviso amarelo por calor: 38 graus previstos",
+          "text": "Todos os distritos de Portugal continental, exceto Faro, estão sob aviso amarelo hoje e quinta-feira. O IPMA prevê persistência de valores elevados de temperatura máxima."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Noite de terror na Queima das Fitas",
+          "text": "Problemas de segurança na noite da Queima das Fitas obrigaram a organização a reforçar medidas. Incidentes levantaram preocupação entre autoridades e frequentadores."
+        },
+        {
+          "headline": "Reitoria cancela presença no Baile de Gala à última hora",
+          "text": "A Reitoria da Universidade de Coimbra cancelou a sua presença no Baile de Gala da Queima sem aviso prévio, gerando surpresa e críticas."
+        },
+        {
+          "headline": "PSP investiga tiroteio em cemitério",
+          "text": "A PSP investiga um tiroteio ocorrido num cemitério na área de Coimbra. O atirador fugiu do local e as autoridades continuam a procurar o suspeito."
+        },
+        {
+          "headline": "Superbactérias perdem força nos hospitais de Coimbra",
+          "text": "Dados recentes mostram uma redução significativa de infeções por superbactérias nos hospitais de Coimbra, sinal positivo na luta contra a resistência antimicrobiana."
+        },
+        {
+          "headline": "Fórum de Saúde Mental para Jovens em Coimbra",
+          "text": "Coimbra recebe um fórum dedicado à saúde mental dos jovens, com debate e atividades ao longo do dia."
+        },
+        {
+          "headline": "Coimbra vestiu-se de luxo para o Baile da Queima",
+          "text": "O Baile da Queima das Fitas trouxe glamour a Coimbra, mas a ausência da Reitoria marcou a noite."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "Morto em acidente com camião de porcos na A17",
+          "text": "Um acidente envolvendo um camião que transportava porcos na A17, em Cantanhede, fez um morto e um ferido. A estrada ficou condicionada durante horas."
+        },
+        {
+          "headline": "Mulher morre em praia durante banho",
+          "text": "Uma mulher sofreu paragem cardiorrespiratória enquanto estava a banhar-se numa praia em Portugal. Não sobreviveu."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "PJ apanha trio que regularizava ilegalmente 4 mil imigrantes",
+          "text": "A PJ de Coimbra deteve três pessoas suspeitas de regularização ilegal de cerca de 4.000 imigrantes, naquela que foi chamada de operação 'Terra Milagrosa'."
+        },
+        {
+          "headline": "GNR detém 103 pessoas por fogo posto",
+          "text": "A GNR deteve 103 pessoas por fogo posto este ano, mais 35 do que em todo o ano de 2025, refletindo o agravamento da situação dos incêndios florestais."
+        },
+        {
+          "headline": "Julgamento de José Diogo: segundo dia no Tribunal de Coimbra",
+          "text": "O segundo dia do julgamento de José Diogo no Tribunal de Coimbra trouxe novos desenvolvimentos ao caso que tem dominado a atenção pública."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "4 mortos em colisão entre comboio e autocarro na Bélgica",
+          "text": "Quatro pessoas morreram, incluindo duas crianças, numa colisão entre um comboio e um autocarro escolar no norte da Bélgica. Von der Leyen e o Presidente da República português enviaram mensagens de pesar."
+        },
+        {
+          "headline": "Cúpula de calor: Europa em alerta",
+          "text": "Partes da Europa viveram um dia extremamente quente, com temperaturas a baterem recordes em vários países."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Ministro 'malha' em quem quer instalar 'teoria do caos'",
+          "text": "O ministro da Administração Interna defendeu-se das críticas à segurança, dizendo que há quem queira instalar uma 'teoria do caos' em Portugal."
+        },
+        {
+          "headline": "Passos Coelho critica políticos 'postiços'",
+          "text": "O ex-primeiro-ministro criticou políticos que descreveu como 'prostitutos sem caráter', num discurso onde defendeu a coerência política."
+        },
+        {
+          "headline": "Governo: não temos 'nenhum fetiche' com leis laborais",
+          "text": "O Governo afirmou que não tem 'nenhum fetiche' com as leis laborais, no contexto das negociações sobre alterações ao código do trabalho."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival de teares, lã e tradição na Região de Coimbra",
+          "text": "Uma aldeia da região de Coimbra vai acolher um festival dedicado a teares, lã e tradições locais."
+        },
+        {
+          "headline": "Feira do Livro de Coimbra com 3 ciclos curatoriais",
+          "text": "A Feira do Livro de Coimbra apresenta este ano três ciclos curatoriais 'assumidos por três personalidades de relevo'."
+        },
+        {
+          "headline": "Badoxa fez Coimbra perder a cabeça",
+          "text": "A noite da Queima das Fitas teve Badoxa como grande atração, com Coimbra em modo festa."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Rodda apresenta-se no Startup Capital Summit 2026",
+          "text": "A Rodda Think apresentou a sua solução tecnológica de mobilidade no maior evento de inovação e empreendedorismo da região."
+        },
+        {
+          "headline": "Fisco muda regras do IUC",
+          "text": "O imposto sobre veículos sofre alterações nas regras. Saiba o que muda para os contribuintes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sporting sofre uma das piores derrotas da história",
+          "text": "Pedro Gonçalves pediu desculpa após o Sporting ter sofrido 'uma das piores derrotas na história do clube'."
+        },
+        {
+          "headline": "Sonho das Arábias termina para Sérgio Conceição",
+          "text": "Sérgio Conceição viu terminar a sua aventura na Arábia, num capítulo que marcou a sua carreira de treinador."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Investigadores descobrem obstáculos à reciclagem completa de plástico",
+          "text": "Novo estudo revela obstáculos à reciclagem completa de garrafas de plástico, questionando a eficácia dos sistemas atuais de reciclagem."
+        },
+        {
+          "headline": "Galp conclui corredor de carregamento ultrarrápido na A1 e A2",
+          "text": "A Galp inaugurou em Pombal um corredor de carregamento ultrarrápido com 96 postos nas autoestradas A1 e A2."
+        }
+      ]
+    }
+  ]
+}
