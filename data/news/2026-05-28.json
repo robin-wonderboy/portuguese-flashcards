@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & SAÚDE",
+      "stories": [
+        {
+          "headline": "Calorão sufoca Coimbra - aviso amarelo em 14 distritos",
+          "text": "Catorze distritos de Portugal continental estão sob aviso amarelo por calor. Oito ficam sob alerta até sábado. O IPMA avisa para temperaturas elevadas persistentes."
+        },
+        {
+          "headline": "O sol está mais perigoso do que parece em Portugal",
+          "text": "Especialistas alertam para os riscos da exposição solar em Portugal e deixam recomendações importantes de proteção."
+        },
+        {
+          "headline": "61.4% dos inquiridos apresentam ansiedade meteorológica pós-Kristin",
+          "text": "Estudo revela que a maioria dos inquiridos sofre de ansiedade meteorológica após a passagem do furacão Kristin."
+        },
+        {
+          "headline": "Legionella apanha GNR",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "QUEIMA DAS FITAS",
+      "stories": [
+        {
+          "headline": "Se esteve na Queima das Fitas, provavelmente aparece nestas fotos",
+          "text": "O jornal publica galeria fotográfica da Queima das Fitas de Coimbra. Pode ser que lá esteja!"
+        },
+        {
+          "headline": "Estudantes destruíram \"Casino\" ao som de Ruth Marlene",
+          "text": "Tradição da Queima: estudantes destruíram a estrutura do \"Casino\" ao som de Ruth Marlene, no ritual \"Só à pancada!\"."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "360 dos 570 novos polícias da PSP vão para aeroportos",
+          "text": "Dos 570 novos agentes da PSP, 360 serão colocados nos aeroportos para reforçar o controlo de fronteiras."
+        },
+        {
+          "headline": "\"Viriato\" das burlas no Facebook cai nas mãos da PJ",
+          "text": "Homem conhecido como \"Viriato\" das burlas foi detido pela Polícia Judiciária após esquemas de fraude no Facebook."
+        },
+        {
+          "headline": "Justiça portuguesa liberta membro do PCC",
+          "text": ""
+        },
+        {
+          "headline": "Faz carjacking em Soure e é apanhado anos depois num café",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "2 passageiros sofrem ferimentos após turbulência forte em voo da TAP",
+          "text": "Dois passageiros ficaram feridos após forte turbulência num voo da TAP."
+        },
+        {
+          "headline": "Solidariedade comunitária pós-Kristin foi motor de resiliência",
+          "text": "Após o furacão Kristin, a solidariedade comunitária revelou-se o verdadeiro motor de resiliência nas regiões afetadas."
+        },
+        {
+          "headline": "Incêndio em Arouca entra em fase de rescaldo",
+          "text": ""
+        },
+        {
+          "headline": "Apoios presos na lama - Montenegro culpa autarquias",
+          "text": "O primeiro-ministro Luís Montenegro culpa a falta de resposta das autarquias pelo atraso na entrega de apoios às famílias."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente da República pede fim da \"cultura de desorganização\"",
+          "text": "Marcelo Rebelo de Sousa exige o fim da \"cultura de desorganização\" e do \"jogo de culpas\" entre governos centrais e locais."
+        },
+        {
+          "headline": "PM admite suspender controlo de fronteiras nas horas críticas",
+          "text": "Luís Montenegro admite suspender o novo sistema de controlo de fronteiras nas horas de maior afluência aos aeroportos."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "category": "TECNOLOGIA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Inteligência Artificial invade a indústria na Figueira da Foz",
+          "text": "Evento sobre IA na indústria na Figueira da Foz tem vagas limitadas para assistir."
+        },
+        {
+          "headline": "Coimbra aposta em nova marca para acelerar empreendedorismo",
+          "text": "A cidade de Coimbra lançou uma nova marca para impulsionar o empreendedorismo na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎪",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Há folclore, fados e concertinas grátis em Condeixa",
+          "text": ""
+        },
+        {
+          "headline": "Os Quatro e Meia - concerto à borla na Figueira da Foz com fogo de artifício",
+          "text": "Os Quatro e Meia dão concerto gratuito na Figueira da Foz, com fogo de artifício no final."
+        },
+        {
+          "headline": "Há escorregas gigantes e festa da espuma na Mealhada",
+          "text": ""
+        },
+        {
+          "headline": "Vai haver muita balbúrdia em Soure - entrada grátis",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & FAMA",
+      "stories": [
+        {
+          "headline": "Clube de Arganil chora morte de jovem encontrado morto na Lousã",
+          "text": "O Clube do Concelho de Arganil lamenta a morte de um jovem encontrado sem vida na Lousã. \"Serás para sempre lembrado na nossa casa.\""
+        },
+        {
+          "headline": "João Félix regressa à Luz",
+          "text": ""
+        },
+        {
+          "headline": "Carlos Prates nocauteia Della Maddalena e agita apostas no UFC",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Temperaturas médias globais devem continuar em níveis recorde",
+          "text": "Previsões indicam que as temperaturas médias globais continuarão a bater recordes."
+        },
+        {
+          "headline": "Famílias tentam contornar falta de água na cidade da Praia",
+          "text": "Famílias e pequenos negócios em Cabo Verde tentam contornar a grave falta de água na cidade da Praia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Vai comprar casa? As regras vão ficar mais apertadas",
+          "text": "Novas regras para compra de casa prometem tornar o processo mais exigente para compradores."
+        }
+      ]
+    }
+  ]
+}
