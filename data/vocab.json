@@ -14838,5 +14838,111 @@
       "de": "den Kopf verlieren",
       "en": "to lose ones mind/head"
     }
+  ],
+  "2026-05-28": [
+    {
+      "pt": "o forno",
+      "de": "der Ofen",
+      "en": "the oven (fig. scorching heat)",
+      "example": "Aguentar este forno",
+      "example_de": "Diesen Ofen aushalten",
+      "example_en": "Endure this oven"
+    },
+    {
+      "pt": "carjacking",
+      "de": "der Autojack",
+      "en": "carjacking",
+      "example": "Faz carjacking em Soure",
+      "example_de": "Begeht Autojack in Soure",
+      "example_en": "Commits carjacking in Soure"
+    },
+    {
+      "pt": "o escorrega",
+      "de": "die Rutsche, die Rutschbahn",
+      "en": "slide (playground)",
+      "example": "Há escorregas gigantes na Mealhada",
+      "example_de": "Es gibt riesige Rutschen in Mealhada",
+      "example_en": "There are giant slides in Mealhada"
+    },
+    {
+      "pt": "o fogo de artifício",
+      "de": "das Feuerwerk",
+      "en": "fireworks",
+      "example": "Há fogo de artifício no final",
+      "example_de": "Am Ende gibt es ein Feuerwerk",
+      "example_en": "There are fireworks at the end"
+    },
+    {
+      "pt": "desorganização",
+      "de": "Unorganisation, Chaos",
+      "en": "disorganization",
+      "example": "Fim da cultura de desorganização",
+      "example_de": "Ende der Unorganisationskultur",
+      "example_en": "End of the culture of disorganization"
+    },
+    {
+      "pt": "colocar",
+      "de": "platzieren, stationieren",
+      "en": "to place, to station",
+      "example": "570 novos polícias vão ser colocados nos aeroportos",
+      "example_de": "570 neue Polizisten werden auf Flughäfen stationiert",
+      "example_en": "570 new police will be stationed at airports"
+    },
+    {
+      "pt": "a apanha",
+      "de": "die Razzia, das Schnappen",
+      "en": "the catch, the bust",
+      "example": "Legionella apanha GNR",
+      "example_de": "Legionellen schnappen sich die GNR",
+      "example_en": "Legionella catches the GNR"
+    },
+    {
+      "pt": "nocauteia",
+      "de": "knockt aus",
+      "en": "knocks out (KOs)",
+      "example": "Carlos Prates nocauteia Della Maddalena",
+      "example_de": "Carlos Prates knockt Della Maddalena aus",
+      "example_en": "Carlos Prates knocks out Della Maddalena"
+    },
+    {
+      "pt": "a balbúrdia",
+      "de": "der Aufruhr, das Chaos",
+      "en": "ruckus, commotion, chaos",
+      "example": "Vai haver muita balbúrdia em Soure",
+      "example_de": "Es wird viel Aufruhr in Soure geben",
+      "example_en": "There will be much ruckus in Soure"
+    },
+    {
+      "pt": "o neitão",
+      "de": "das Leckmahl, der Schmaus",
+      "en": "big feast, hearty meal (slang)",
+      "example": "A sandes de neitão que ninguém pode perder",
+      "example_de": "Das Neitão-Sandwich, das niemand verpassen darf",
+      "example_en": "The neitão sandwich nobody should miss"
+    },
+    {
+      "pt": "pedalar",
+      "de": "radeln, Fahrradfahren",
+      "en": "to cycle, to pedal",
+      "example": "Vai-se pedalar por ruas mais seguras",
+      "example_de": "Man wird auf sichereren Straßen radeln",
+      "example_en": "One can cycle on safer streets"
+    },
+    {
+      "pt": "o município",
+      "de": "die Gemeinde, die Kommune",
+      "en": "municipality",
+      "example": "Lousã aprova 58 bolsas de estudo",
+      "example_de": "Lousã bewilligt 58 Stipendien",
+      "example_en": "Lousã approves 58 study grants"
+    },
+    {
+      "pt": "a febre",
+      "de": "das Fieber, der Hype",
+      "en": "fever, craze",
+      "example": "A febre Bad Bunny chegou à Wallapop",
+      "example_de": "Der Bad-Bunny-Hype hat Wallapop erreicht",
+      "example_en": "The Bad Bunny craze has reached Wallapop"
+    }
   ]
 }
