@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Reviravolta: dias com sabor a verão, mas o frio está a caminho",
+          "text": "Os próximos dias ainda trazem calor de verão, mas uma mudança brusca está prevista com a chegada de frio. Preparem-se para oscilações."
+        },
+        {
+          "headline": "Não vai poder circular nesta estrada em Coimbra até julho",
+          "text": "Uma estrada em Coimbra vai estar encerrada ao trânsito até julho por obras. Condutores devem procurar alternativas."
+        },
+        {
+          "headline": "Águas de Coimbra avança com obra para reduzir risco de inundações nestes 3 locais",
+          "text": "A empresa municipal vai executar intervenções em três pontos críticos para minimizar o risco de cheias na cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🚲",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Este \"comboio\" leva crianças até à escola em Condeixa (e não precisa de carris)",
+          "text": "Um apito de madeira dá sinal de arranque a um comboio de bicicletas que segue até à escola em Condeixa-a-Nova. O projeto fomenta a autonomia dos mais pequenos e repensa a mobilidade local."
+        },
+        {
+          "headline": "O \"bilhete de identidade\" do seu carro mudou e quase ninguém sabe",
+          "text": "O documento único automóvel (DUA) sofreu alterações. Muitos condutores ainda desconhecem as mudanças no registo do veículo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "A maior piscina com ondas artificiais de Portugal já tem data para reabrir",
+          "text": "A piscina de ondas artificiais promete \"o melhor verão de sempre\" e já tem data marcada para reabrir ao público."
+        },
+        {
+          "headline": "A loucura da 7.ª noite da Queima das Fitas de Coimbra já tem fotos",
+          "text": "A sétima noite da Queima das Fitas trouxe mais multidões e energia ao Baixo Mondego. As imagens são impressionantes."
+        },
+        {
+          "headline": "Isto é para os pais: Coimbra tem um mês inteiro de atividades gratuitas para os miúdos",
+          "text": "Durante um mês, Coimbra oferece atividades gratuitas para crianças - uma ótima oportunidade para as famílias."
+        },
+        {
+          "headline": "Atenção artistas: festival que junta Góis e Galiza já abriu inscrições",
+          "text": "O festival que liga Góis à Galiza abriu inscrições para artistas interessados em participar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Procurador-geral insiste que faltam meios ao Ministério Público para trabalhar",
+          "text": "O PGR voltou a alertar para a falta de recursos humanos e materiais no Ministério Público, dificultando o trabalho dos procuradores."
+        },
+        {
+          "headline": "André Ventura: \"é evidente\" que buscas visam o PS",
+          "text": "O líder do Chega afirma que as buscas da PJ na sede do PS são politicamente motivadas, gerando forte debate."
+        },
+        {
+          "headline": "PS promete colaborar com a justiça e quer legalidade em todos os níveis",
+          "text": "O Partido Socialista garante colaboração com a justiça após as buscas na sede nacional, reafirmando compromisso com a legalidade."
+        },
+        {
+          "headline": "\"Levaram facas para o cortarem e espetarem\"",
+          "text": "Um caso violento envolvendo facas chocou a opinião pública. Os agressores planearam o ataque com armas brancas."
+        },
+        {
+          "headline": "Governo aprova esta sexta-feira a Prestação Social Única",
+          "text": "O Conselho de Ministros vai aprovar hoje a nova prestação social que unifica vários apoios do Estado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Farmácias resolvem 97,8% de casos ligeiros e aliviam pressão no SNS",
+          "text": "Dados mostram que as farmácias comunitárias conseguem resolver a grande maioria dos casos leves, contribuindo para diminuir a sobrecarga nos serviços de urgência."
+        },
+        {
+          "headline": "Cirurgia em pé errado de menor de 10 anos: medidas corretivas impostas ao Hospital CUF Descobertas",
+          "text": "Após a cirurgia no pé errado de uma criança, o hospital foi obrigado a implementar medidas de segurança adicionais."
+        },
+        {
+          "headline": "Coimbra continua a aguardar pela nova maternidade. Haja \"esperanças\"",
+          "text": "A promessa de uma nova maternidade em Coimbra continua sem data concreta, apesar das esperanças renovadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Homem agressivo retém alunos numa escola de Coimbra",
+          "text": "Um homem manteve alunos retidos dentro de uma escola de Coimbra numa situação de crise que mobilizou autoridades."
+        },
+        {
+          "headline": "Lousã aprova atribuição de 58 Bolsas de Estudo a estudantes do Ensino Superior",
+          "text": "O município da Lousã aprovou 58 bolsas de estudo para apoiar jovens do concelho no ensino superior."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Vai comprar casa? As regras vão ficar mais apertadas",
+          "text": "Novas regras para a compra de habitação vão apertar as condições de acesso ao crédito habitação."
+        },
+        {
+          "headline": "Prejuízos da Metro do Porto quase duplicam: 26,5 milhões em 2025",
+          "text": "As perdas do Metro do Porto quase dobraram no último ano, atingindo 26,5 milhões de euros."
+        },
+        {
+          "headline": "Passageiros sem direito a indemnização se perderem voo por filas no aeroporto",
+          "text": "\"Espera levantado\" - uma decisão determina que passageiros que percam voos por causa de filas longas não têm direito a compensação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Jovem \"puxado pela corrente\" aparece morto na praia do Dragão Vermelho",
+          "text": "Um jovem que foi arrastado pela corrente marítima foi encontrado morto horas depois numa praia da zona de Porto/Aveiro."
+        },
+        {
+          "headline": "China corre maior risco de supertufões devido ao El Niño",
+          "text": "O fenómeno El Niño aumenta o risco de supertufões na Ásia, com a China particularmente vulnerável."
+        },
+        {
+          "headline": "Prazo para limpeza de terrenos alargado em todo o território",
+          "text": "O governo estendeu o prazo para limpeza de terrenos florestais em todo o país, essencial para a prevenção de incêndios."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Jesus já não é um treinador das arábias",
+          "text": "O treinador Jorge Jesus deixa o futebol saudita e o seu futuro volta a ser tema de especulação em Portugal."
+        },
+        {
+          "headline": "Casa Pia assegura permanência na I Liga ao vencer Torreense",
+          "text": "O Casa Pia garantiu a manutenção na primeira Liga ao derrotar o Torreense, que tinha surpreendido ao vencer o Sporting."
+        },
+        {
+          "headline": "Clube de Coimbra recolhe 7,5 toneladas de alimentos",
+          "text": "Um clube de Coimbra recolheu 7,5 toneladas de alimentos para doar a quem mais precisa, mostrando solidariedade local."
+        }
+      ]
+    },
+    {
+      "emoji": "🐾",
+      "category": "EXTRA",
+      "stories": [
+        {
+          "headline": "De repente há moscas por todo o lado? Eis o que pode estar a acontecer",
+          "text": "A proliferação de moscas tem incomodado muitos. Saiba quais as causas prováveis e como lidar com o problema."
+        },
+        {
+          "headline": "Bruxelas meteu o focinho nas regras para cães e gatos (e vai mudar muita coisa)",
+          "text": "A União Europeia vai impor novas regras sobre bem-estar animal que afetam donos de cães e gatos em toda a Europa."
+        }
+      ]
+    }
+  ]
+}
