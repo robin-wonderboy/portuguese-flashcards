@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏭",
+      "category": "ECONOMIA & EMPRESAS",
+      "stories": [
+        {
+          "headline": "Coimbra capital dos componentes para bicicletas - empresa promete criar 527 postos de trabalho",
+          "text": "A AICEP e a empresa norte-americana Sramport assinaram um contrato de investimento de 57,5 milhões de euros para uma nova unidade industrial em Coimbra dedicada à produção de componentes para bicicletas, prometendo criar 527 empregos."
+        },
+        {
+          "headline": "StartUp Coimbra já está a funcionar e quer ser a incubadora da Região Centro",
+          "text": "A nova iniciativa quer reforçar o ecossistema regional de empreendedorismo tecnológico e apoiar a integração de investidores estrangeiros. Não é um rebrand, mas sim uma nova estrutura dedicada ao ecossistema."
+        },
+        {
+          "headline": "Brasil avisa que decisão dos EUA sobre grupos criminosos pode afetar o PIX",
+          "text": "O governo brasileiro alertou que a classificação de organizações criminosas pelos EUA pode ter impacto no sistema de pagamentos PIX."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Imagens devastadoras: incêndio deixa pai e filhos desalojados em Penela",
+          "text": "Um incêndio em Penela deixou imagens devastadoras, com um pai e os seus filhos desalojados."
+        },
+        {
+          "headline": "A1 cortada após pesado ser devorado pelas chamas",
+          "text": "Pânico na A1, que foi cortada depois de um veículo pesado ter sido consumido pelas chamas."
+        },
+        {
+          "headline": "Municípios querem mais sapadores e bolsa de empresas para limpeza",
+          "text": "Perante os fogos, municípios exigem reforço de registo cadastral, mais sapadores florestais e uma bolsa de empresas para limpeza de matos."
+        },
+        {
+          "headline": "Portugal vive a onda de calor mais severa e quente desde 1953",
+          "text": "O país está a experienciar a onda de calor mais severa e quente registada desde 1953, segundo dados climáticos."
+        },
+        {
+          "headline": "Primeiro-ministro apela à cooperação na prevenção de incêndios rurais",
+          "text": "O PM pediu cooperação nacional na prevenção de incêndios rurais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Queima das Fitas com cocaína e haxixe",
+          "text": "A Queima das Fitas de Coimbra teve incidentes com droga, incluindo cocaína e haxixe apreendidos pelas autoridades."
+        },
+        {
+          "headline": "Mãe e anterior padrasto detidos por abuso sexual de crianças",
+          "text": "Uma mãe e o anterior padrasto foram detidos por abuso sexual de crianças."
+        },
+        {
+          "headline": "Usa copo partido para tentar matar num estabelecimento de diversão noturna",
+          "text": "Um indivíduo usou um copo partido para tentar matar outra pessoa num estabelecimento noturno."
+        },
+        {
+          "headline": "Benfica e Luís Filipe Vieira não vão pagar pelo Saco Azul",
+          "text": "Benfica e o seu presidente não terão de pagar pelo caso conhecido como Saco Azul."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Mulher morreu depois de esperar mais de uma hora por viatura médica",
+          "text": "Uma mulher faleceu após aguardar mais de uma hora por uma viatura médica de emergência."
+        },
+        {
+          "headline": "Apagão das provas INEM destrói chamadas que iam apurar demora no socorro",
+          "text": "Um apagão informático destruiu as gravações das chamadas que iam servir de prova para apurar se houve demora no socorro à vítima."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO & LOCAL",
+      "stories": [
+        {
+          "headline": "Vale do Açor sai à rua contra corte de estrada",
+          "text": "Moradores do Vale do Açor protestaram contra o corte de estrada, dizendo que não podem pagar a fatura de um problema que não criaram."
+        },
+        {
+          "headline": "Poyares Come tem 3 dias para saborear Vila Nova de Poiares",
+          "text": "O evento gastronómico Poyares Come regressa com três dias de tasquinhas e sabores locais."
+        },
+        {
+          "headline": "3 dias de cerveja, tasquinhas e quilos de tremoços em Cantanhede",
+          "text": "Festival de cerveja em Cantanhede com tasquinhas e tremoços para o fim de semana."
+        },
+        {
+          "headline": "Há um copinho de ginja à espera que o prove em Vila Nova de Poiares",
+          "text": "A festa em Poiares inclui ginja tradicional para quem visita."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "André Ventura saúda que quem recebe subsídios deve trabalhar",
+          "text": "O líder do Chega defendeu que quem recebe subsídios deve trabalhar, e quer ir mais longe com essa política."
+        },
+        {
+          "headline": "Luís Montenegro vai ser reeleito para terceiro mandato como presidente do PSD",
+          "text": "Montenegro deverá ser reeleito para um terceiro mandato, podendo entrar para o pódio de líderes do PSD mais duradouros."
+        }
+      ]
+    },
+    {
+      "emoji": "🚴",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Afonso Eulálio defende camisola da juventude na etapa rainha da Volta a Itália",
+          "text": "O ciclista português Afonso Eulálio continua a defender a camisola da juventude na etapa decisiva do Giro."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Irmãos franceses abandonados no Alentejo regressaram a França",
+          "text": "Os irmãos que tinham sido abandonados no Alentejo regressaram finalmente a França."
+        },
+        {
+          "headline": "EUA classificaram Primeiro Comando da Capital e Comando Vermelho como organizações terroristas",
+          "text": "Os Estados Unidos classificaram duas organizações criminosas brasileiras como organizações terroristas."
+        }
+      ]
+    }
+  ]
+}
