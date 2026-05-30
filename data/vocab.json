@@ -15056,5 +15056,119 @@
       "de": "die Wohngemeinschaft",
       "en": "the condominium/HOA"
     }
+  ],
+  "2026-05-30": [
+    {
+      "pt": "devastador",
+      "de": "verheerend",
+      "en": "devastating",
+      "example": "Imagens devastadoras do incêndio",
+      "example_de": "Verheerende Bilder des Brandes",
+      "example_en": "Devastating images of the fire"
+    },
+    {
+      "pt": "o haxixe",
+      "de": "der Haschisch",
+      "en": "hashish",
+      "example": "Queima das Fitas com cocaína e haxixe",
+      "example_de": "Queima das Fitas mit Kokain und Haschisch",
+      "example_en": "Queima das Fitas with cocaine and hashish"
+    },
+    {
+      "pt": "impune",
+      "de": "unbestraft",
+      "en": "unpunished",
+      "example": "Ninguém ficará impune",
+      "example_de": "Niemand wird unbestraft davonkommen",
+      "example_en": "No one will go unpunished"
+    },
+    {
+      "pt": "o sapador",
+      "de": "der Brandbekämpfer (ländlich)",
+      "en": "rural firefighter",
+      "example": "Municípios querem mais sapadores",
+      "example_de": "Gemeinden wollen mehr ländliche Brandbekämpfer",
+      "example_en": "Municipalities want more rural firefighters"
+    },
+    {
+      "pt": "severo",
+      "de": "streng, schwer",
+      "en": "severe",
+      "example": "A onda de calor mais severa desde 1953",
+      "example_de": "Die schwerste Hitzewelle seit 1953",
+      "example_en": "The most severe heat wave since 1953"
+    },
+    {
+      "pt": "o copo",
+      "de": "das Glas (Trinkglas)",
+      "en": "glass (drinking)",
+      "example": "Usa copo partido para tentar matar",
+      "example_de": "Benutzt ein zerbrochenes Glas um zu töten",
+      "example_en": "Uses a broken glass to try to kill"
+    },
+    {
+      "pt": "a ginja",
+      "de": "die Ginjinha (Kirschlikör)",
+      "en": "cherry liqueur",
+      "example": "Há um copinho de ginja à espera que o prove",
+      "example_de": "Ein kleines Glas Ginjinha wartet darauf, dass du es probierst",
+      "example_en": "There is a little glass of ginja waiting for you to taste"
+    },
+    {
+      "pt": "o tremoço",
+      "de": "die Lupine (Snack)",
+      "en": "lupin bean",
+      "example": "Quilos de tremocos no festival",
+      "example_de": "Kilos Lupinen beim Festival",
+      "example_en": "Kilos of lupin beans at the festival"
+    },
+    {
+      "pt": "a tasquinha",
+      "de": "die kleine Taverne",
+      "en": "small tavern, food stall",
+      "example": "3 dias de cerveja e tasquinhas",
+      "example_de": "3 Tage Bier und kleine Tavernen",
+      "example_en": "3 days of beer and food stalls"
+    },
+    {
+      "pt": "pôr a mexer",
+      "de": "in Schwung bringen",
+      "en": "to get moving, stir up",
+      "example": "Vão pôr a mexer esta aldeia",
+      "example_de": "Sie werden dieses Dorf in Schwung bringen",
+      "example_en": "They will get this village moving"
+    },
+    {
+      "pt": "o subsídio",
+      "de": "die Subvention",
+      "en": "subsidy, benefit",
+      "example": "Quem recebe subsídios deve trabalhar",
+      "example_de": "Wer Subventionen erhält, sollte arbeiten",
+      "example_en": "Those who receive subsidies should work"
+    },
+    {
+      "pt": "o posto de trabalho",
+      "de": "der Arbeitsplatz",
+      "en": "job, work position",
+      "example": "Empresa promete criar 527 postos de trabalho",
+      "example_de": "Unternehmen verspricht 527 Arbeitsplätze zu schaffen",
+      "example_en": "Company promises to create 527 jobs"
+    },
+    {
+      "pt": "o componente",
+      "de": "das Bauteil",
+      "en": "component",
+      "example": "Coimbra capital dos componentes para bicicletas",
+      "example_de": "Coimbra Hauptstadt der Fahrradbauteile",
+      "example_en": "Coimbra capital of bicycle components"
+    },
+    {
+      "pt": "a feira",
+      "de": "der Markt, die Messe",
+      "en": "fair, market",
+      "example": "A maior feira de Poiares",
+      "example_de": "Der größte Markt von Poiares",
+      "example_en": "The biggest fair in Poiares"
+    }
   ]
 }
