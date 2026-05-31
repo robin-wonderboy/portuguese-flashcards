@@ -1,0 +1,154 @@
+{
+  "date": "2026-05-31",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏊",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "“Todos os anos temos falta de nadadores-salvadores”",
+          "text": "Portugal enfrenta carência crónica de nadadores-salvadores nas praias. Responsáveis apelam a mais formação e alertam para os riscos da falta de profissionais na época balnear."
+        },
+        {
+          "headline": "CGTP acusa Governo de “desvirtuar” prestações sociais",
+          "text": "A central sindical CGTP acusa o Governo de alterar as regras das prestações sociais de forma a reduzir o apoio às famílias, desvirtuando o propósito original das medidas."
+        },
+        {
+          "headline": "Prepare os abanicos: zonas a entrar em modo sauna",
+          "text": "Onda de calor atinge Portugal e algumas regiões devem atingir temperaturas extremas. Meteo avisa para cuidados adicionais com a próxima semana."
+        },
+        {
+          "headline": "Impacto brutal entre duas motas e um carro faz vítima mortal",
+          "text": "Acidente grave na estrada envolvendo duas motas e um carro deixou uma pessoa morta. As causas do choque estão a ser investigadas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚠️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Mulher atropelada no recinto da Queima das Fitas de Coimbra",
+          "text": "Uma mulher de 54 anos ficou ferida após ser atropelada na Praça da Canção, no recinto da Queima das Fitas. Bombeiros Voluntários de Coimbra socorreram a vítima às 16h35."
+        },
+        {
+          "headline": "Madrugada sangrenta junto a bar: homem executado a tiro",
+          "text": "Um homem foi executado a tiro e outro luta pela vida após um incidente violento junto a um bar durante a madrugada. A PSP investiga o caso."
+        },
+        {
+          "headline": "Governo fecha a torneira às burlas digitais",
+          "text": "Novo pacote legislativo visa combater as fraudes digitais que têm afetado milhares de portugueses. Medidas incluem maior controlo bancário e campanhas de alerta."
+        },
+        {
+          "headline": "Traficantes ficam sem barco após apreensão de 124 bidões",
+          "text": "Autoridades apreenderam 124 bidões de combustível num barco usado por traficantes. A operação cortou uma rota de contrabando na costa portuguesa."
+        },
+        {
+          "headline": "Vem para cuidar de crianças e acaba explorada",
+          "text": "Caso de trabalho forçado: mulher veio para Portugal para trabalhar como cuidadora de crianças e acabou vítima de exploração laboral e condições degradantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Ignorar a rede de farmácias seria “uma falha grave”",
+          "text": "O Governo considera que excluir as farmácias das políticas públicas de saúde seria um erro grave. Farmácias são vistas como pilar fundamental do sistema nacional de saúde."
+        },
+        {
+          "headline": "“Pensei em morrer. Caiu-me o chão”. A história de Olga Brás",
+          "text": "Olga Brás partilha a sua impressionante história de superação após um diagnóstico devastador. O relato emocionante mostra a força de quem enfrentou a doença com coragem."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "O sunset que junta gerações e revoluciona a vida social em Coimbra",
+          "text": "Eventos de sunset em Coimbra estão a tornar-se um fenómeno social que reúne pessoas de todas as idades, transformando a vida social da cidade."
+        },
+        {
+          "headline": "Veículos militares roubam a cena na Festa das Crianças",
+          "text": "As surpresas da Festa da Criança em Coimbra foram os veículos militares, que se tornaram as estrelas inesperadas do evento. Há insufláveis, roda gigante e muita animação."
+        },
+        {
+          "headline": "Cantanhede promove envelhecimento ativo",
+          "text": "Município de Cantanhede lançou programa para promover o envelhecimento ativo da população sénior, com atividades físicas e sociais regulares."
+        },
+        {
+          "headline": "Exercício testa Plano de Emergência do Heliporto da Pampilhosa da Serra",
+          "text": "Simulação testou o plano de emergência do heliporto da Pampilhosa da Serra, essencial para operações de socorro na região montanhosa."
+        }
+      ]
+    },
+    {
+      "emoji": "💶",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Município de Coimbra aposta nos circuitos curtos de produção",
+          "text": "Câmara de Coimbra incentiva circuitos curtos de produção e consumo local, aproximando produtores regionais dos consumidores da cidade."
+        },
+        {
+          "headline": "Vai viajar de comboio? Vem aí uma greve!",
+          "text": "Trabalhadores dos caminhos-de-ferro convocaram greve para os próximos dias. Viajantes devem esperar perturbações significativas nos serviços."
+        },
+        {
+          "headline": "“A Startup Coimbra não é um rebrand”",
+          "text": "A nova iniciativa Startup Coimbra nasce para reforçar o ecossistema regional de empreendedorismo tecnológico. Responsáveis clarificam que vai além de uma simples mudança de nome."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "PSGanha Liga dos Campeões",
+          "text": "O PSG conquistou a Liga dos Campeões, finalmente levantando o troféu mais desejado do futebol europeu após décadas de tentativas."
+        },
+        {
+          "headline": "Ciclista figueirense agarra camisola branca da Volta à Itália",
+          "text": "Um ciclista da Figueira da Foz conquistou a camisola branca do melhor jovem na Volta à Itália, destacando-se na prova de três semanas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Silenciou-se uma das maiores mentes do século XX",
+          "text": "Faleceu uma figura intelectual de destaque do século XX. A notícia do falecimento chocou a comunidade académica mundial."
+        },
+        {
+          "headline": "Irmãos franceses abandonados no Alentejo regressaram a França",
+          "text": "Os irmãos franceses que tinham sido abandonados no Alentejo regressaram finalmente a França, após o caso ter ganho notoriedade mediática."
+        },
+        {
+          "headline": "EUA classificam organizações criminosas brasileiras como terroristas",
+          "text": "Estados Unidos classificaram o Primeiro Comando da Capital e o Comando Vermelho como organizações terroristas, decisão que pode afetar o sistema de pagamentos PIX no Brasil."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Spots da Região de Coimbra candidatos a Maravilhas de Portugal",
+          "text": "Vários locais da Região de Coimbra concorrem a Maravilhas de Portugal. Trilhos, grutas e paisagens incríveis fazem da região um forte candidato."
+        },
+        {
+          "headline": "Festival que junta lendas e novas estrelas da música está de regresso",
+          "text": "Um festival que combina nomes consagrados da música com novos talentos regressa à região, prometendo edições com grandes atrações."
+        }
+      ]
+    }
+  ]
+}
