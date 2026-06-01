@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Incêndios: Dispositivo reforçado com 13.335 operacionais e 78 meios aéreos",
+          "text": "O dispositivo de combate a incêndios rurais volta a ser reforçado, pela segunda vez este ano, passando a ter no terreno 13.335 operacionais e 78 meios aéreos. O alerta especial vigora já em vários distritos."
+        },
+        {
+          "headline": "Camião em chamas interrompe A29",
+          "text": "Um camião ardeu em chamas na A29, obrigando à interrupção do trânsito. As equipas de emergência foram acionadas para o local."
+        },
+        {
+          "headline": "Presidente da Liga contra comandantes de bombeiros a comentar incêndios na comunicação social",
+          "text": "O presidente da Liga dos bombeiros posicionou-se contra a presença de comandantes de bombeiros a comentar incêndios em curso na comunicação social."
+        },
+        {
+          "headline": "Manuel tem 100 anos e não quer que façam nada por ele",
+          "text": "Um centenário português que recusa assistência especial, preferindo manter a sua independência e rotina habitual."
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Depois de tentar entrar numa escola em Coimbra, homem acaba internado à força",
+          "text": "Durante semanas foi presença constante na zona do Solum, em Coimbra, gerando medo e sucessivos alertas às autoridades. Depois de tentar entrar numa escola, acabou internado à força."
+        },
+        {
+          "headline": "Analista \"rasga\" professora de Coimbra. Universidade acusada de antissemitismo",
+          "text": "A emissão do canal Now de domingo ficou marcada por declarações explosivas do analista internacional Irineu Teixeira sobre uma professora de Coimbra. A Universidade foi acusada de antissemitismo."
+        },
+        {
+          "headline": "Presidente da Assembleia da República elogiou \"tradição com ambição\" de Cantanhede",
+          "text": "O presidente da Assembleia da República visitou Cantanhede e elogiou o concelho, destacando a combinação de tradição com ambição."
+        },
+        {
+          "headline": "Nem o calor trava a tradição: Eiras volta a reviver o Cortejo do Imperador",
+          "text": "Apesar do calor, a freguesia de Eiras voltou a reviver o histórico Cortejo do Imperador, uma tradição que resiste ao tempo."
+        },
+        {
+          "headline": "Ébola: DGS atualiza procedimentos para eventuais casos suspeitos",
+          "text": "A Direção-Geral da Saúde atualizou os procedimentos para responder a eventuais casos suspeitos de ébola em Portugal, definindo hospitais de referência."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Trabalhadores da AIMA iniciam greve de quatro dias",
+          "text": "Os trabalhadores da Agência para a Integração, Migrações e Asilo (AIMA) iniciam greve de quatro dias, contra a falta de condições e de pessoal."
+        },
+        {
+          "headline": "Homem tenta atropelar e matar na noite de Coimbra",
+          "text": "A última madrugada voltou a ser de sobressalto na noite de Coimbra. Um homem tentou atropelar e matar uma pessoa, obrigando à intervenção da PSP."
+        },
+        {
+          "headline": "Prisão para septuagenário armado para matar em Unidade de Cuidados Continuados",
+          "text": "Um homem de mais de 70 anos foi preso após ser encontrado armado com intenção de matar numa unidade de cuidados continuados."
+        }
+      ]
+    },
+    {
+      "emoji": "🎪",
+      "category": "VAMOS (CULTURA & LAZER)",
+      "stories": [
+        {
+          "headline": "\"SHAI\" sobe ao palco na Semana da Criança e Juventude de Pampilhosa da Serra",
+          "text": "O espetáculo SHAI sobe ao palco na Semana da Criança e Juventude de Pampilhosa da Serra, com programação dedicada aos mais novos."
+        },
+        {
+          "headline": "Há marchas, petiscos e muita animação: Noite de São João regressa a Cantanhede",
+          "text": "A 7.ª Noite de São João, em Cantanhede, chega à rua com sabores tradicionais, marchas populares e muita animação."
+        },
+        {
+          "headline": "Tem 26 anos, é Imperador de Eiras e lidera uma tradição que resiste ao tempo",
+          "text": "O jovem de 26 anos que lidera o Cortejo do Imperador de Eiras mantém viva uma tradição centenária."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Condeixa, Cantanhede e Mealhada: Estudos de expansão do Metrobus avançam este ano",
+          "text": "Os estudos de expansão do Sistema de Mobilidade do Mondego (SMM) até Condeixa-a-Nova, Cantanhede e Mealhada vão avançar ainda este ano."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Bombeiros no teatro de operações poderão ter risco acrescido de efeitos na saúde",
+          "text": "Bombeiros que passam mais tempo no teatro de operações de incêndios florestais poderão ter risco acrescido de efeitos na saúde, segundo estudo."
+        },
+        {
+          "headline": "Subsídio por Posto de Emergência Médica nos bombeiros será atualizado",
+          "text": "O subsídio mensal fixo atribuído por cada Posto de Emergência Médica nos bombeiros será atualizado a partir de junho."
+        }
+      ]
+    },
+    {
+      "emoji": "🎒",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Crianças portuguesas passam em média 38 horas por semana na escola",
+          "text": "As crianças portuguesas passam, em média, 38 horas por semana em estabelecimentos de ensino, segundo dados da base de dados europeia. Portugal está entre os países com mais horas letivas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Ministro retoma negociações com sindicatos da PSP e associações da GNR",
+          "text": "O ministro da Administração Interna retoma negociações com as associações socioprofissionais da GNR e sindicatos da PSP, com novos encontros marcados."
+        }
+      ]
+    }
+  ]
+}
