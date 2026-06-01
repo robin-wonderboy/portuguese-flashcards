@@ -15252,5 +15252,143 @@
       "de": "der Hubschrauberlandeplatz",
       "en": "the heliport"
     }
+  ],
+  "2026-06-01": [
+    {
+      "pt": "internado à força",
+      "de": "zwangseingewiesen",
+      "en": "involuntarily committed/sectioned",
+      "example": "Acaba internado à força depois de tentar entrar na escola.",
+      "example_de": "Er wird zwangseingewiesen, nachdem er versuchte, die Schule zu betreten.",
+      "example_en": "He ends up involuntarily committed after trying to enter the school."
+    },
+    {
+      "pt": "o septuagenário",
+      "de": "der Siebzigjährige",
+      "en": "the seventy-something-year-old",
+      "example": "Prisão para septuagenário armado para matar.",
+      "example_de": "Haft für einen über 70-Jährigen, der bewaffnet war um zu töten.",
+      "example_en": "Prison for a seventy-something-year-old armed to kill."
+    },
+    {
+      "pt": "a expansão",
+      "de": "die Erweiterung",
+      "en": "the expansion",
+      "example": "Estudos sobre expansão do Metrobus avançam este ano.",
+      "example_de": "Studien zur Erweiterung des Metrobus gehen dieses Jahr voran.",
+      "example_en": "Studies on Metrobus expansion are moving forward this year."
+    },
+    {
+      "pt": "a emergência",
+      "de": "der Notfall",
+      "en": "the emergency",
+      "example": "Cada Posto de Emergência Médica nos bombeiros.",
+      "example_de": "Jede Notfallmedizinische Station bei den Feuerwehrleuten.",
+      "example_en": "Each Emergency Medical Station among firefighters."
+    },
+    {
+      "pt": "o imaginário",
+      "de": "die Vorstellungswelt",
+      "en": "the imagination/imaginary",
+      "example": "As criaturas fantásticas do nosso imaginário.",
+      "example_de": "Die fantastischen Kreaturen unserer Vorstellungswelt.",
+      "example_en": "The fantastic creatures of our imagination."
+    },
+    {
+      "pt": "a animação",
+      "de": "die Animation/Stimmung",
+      "en": "the animation/festivity/liveliness",
+      "example": "Há marchas, petiscos e muita animação na Noite de São João.",
+      "example_de": "Es gibt Umzüge, Häppchen und viel Stimmung in der São João Nacht.",
+      "example_en": "There are parades, snacks and lots of festivity at the São João night."
+    },
+    {
+      "pt": "eventual",
+      "de": "möglicherweise/etwaig",
+      "en": "possible/eventual",
+      "example": "Procedimentos para responder a eventuais casos suspeitos.",
+      "example_de": "Verfahren zur Reaktion auf mögliche Verdachtsfälle.",
+      "example_en": "Procedures to respond to possible suspected cases."
+    },
+    {
+      "pt": "a marcha",
+      "de": "der Festumzug",
+      "en": "the parade/march (popular)",
+      "example": "Há marchas, petiscos e muita animação na Noite de São João.",
+      "example_de": "Es gibt Festumzüge, Häppchen und viel Stimmung in der São João Nacht.",
+      "example_en": "There are parades, snacks and lots of festivity at the São João night."
+    },
+    {
+      "pt": "elogiar",
+      "de": "loben/preisen",
+      "en": "to praise/compliment",
+      "example": "Presidente da Assembleia da República elogiou tradição com ambição de Cantanhede.",
+      "example_de": "Der Präsident der Republiksversammlung lobte Tradition mit Ehrgeiz von Cantanhede.",
+      "example_en": "The President of the Assembly of the Republic praised the tradition with ambition of Cantanhede."
+    },
+    {
+      "pt": "a ambição",
+      "de": "der Ehrgeiz",
+      "en": "the ambition",
+      "example": "Elogiou tradição com ambição de Cantanhede.",
+      "example_de": "Er lobte Tradition mit Ehrgeiz von Cantanhede.",
+      "example_en": "He praised the tradition with ambition of Cantanhede."
+    },
+    {
+      "pt": "presença",
+      "de": "die Anwesenheit",
+      "en": "the presence",
+      "example": "A presença de comandantes de bombeiros a comentar na comunicação social.",
+      "example_de": "Die Anwesenheit von Feuerwehrkommandanten, die in den Medien kommentieren.",
+      "example_en": "The presence of fire commanders commenting in the media."
+    },
+    {
+      "pt": "o fogo florestal",
+      "de": "der Waldbrand",
+      "en": "the forest fire",
+      "example": "Bombeiros no teatro de operações de incêndios florestais.",
+      "example_de": "Feuerwehrleute im Einsatzgebiet von Waldbränden.",
+      "example_en": "Firefighters in the operations theater of forest fires."
+    },
+    {
+      "pt": "a comunicação social",
+      "de": "die Medien",
+      "en": "the media/social communication",
+      "example": "Comandantes de bombeiros a comentar na comunicação social.",
+      "example_de": "Feuerwehrkommandanten, die in den Medien kommentieren.",
+      "example_en": "Fire commanders commenting in the media."
+    },
+    {
+      "pt": "o posto",
+      "de": "die Station/der Posten",
+      "en": "the station/post",
+      "example": "Cada Posto de Emergência Médica nos bombeiros.",
+      "example_de": "Jede Notfallmedizinische Station bei den Feuerwehrleuten.",
+      "example_en": "Each Emergency Medical Station among firefighters."
+    },
+    {
+      "pt": "a presença constante",
+      "de": "die ständige Anwesenheit",
+      "en": "the constant presence",
+      "example": "Durante semanas foi presença constante na zona do Solum.",
+      "example_de": "Wochenlang war er ständige Anwesenheit in der Solum-Zone.",
+      "example_en": "For weeks he was a constant presence in the Solum area."
+    },
+    {
+      "pt": "reviver",
+      "de": "wieder aufleben lassen",
+      "en": "to relive/revive",
+      "example": "Eiras volta a reviver o histórico Cortejo do Imperador.",
+      "example_de": "Eiras lässt den historischen Kaiserumzug wieder aufleben.",
+      "example_en": "Eiras revives the historic Emperors Procession."
+    },
+    {
+      "pt": "à força",
+      "de": "mit Gewalt",
+      "en": "by force",
+      "example": "Depois de tentar entrar numa escola, acaba internado à força.",
+      "example_de": "Nachdem er versuchte, eine Schule zu betreten, wird er mit Gewalt eingewiesen.",
+      "example_en": "After trying to enter a school, he ends up committed by force."
+    }
   ]
 }
