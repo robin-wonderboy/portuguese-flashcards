@@ -15390,5 +15390,175 @@
       "example_de": "Nachdem er versuchte, eine Schule zu betreten, wird er mit Gewalt eingewiesen.",
       "example_en": "After trying to enter a school, he ends up committed by force."
     }
+  ],
+  "2026-06-02": [
+    {
+      "pt": "manietar",
+      "de": "fesseln/überwältigen",
+      "en": "to restrain/subdue",
+      "example": "A população manietou o agressor",
+      "example_de": "Die Bevölkerung überwältigte den Angreifer",
+      "example_en": "The crowd subdued the attacker"
+    },
+    {
+      "pt": "sufocante",
+      "de": "erstickend/drückend",
+      "en": "suffocating/oppressive",
+      "example": "O calor sufocante atingiu a Europa",
+      "example_de": "Die erstickende Hitze erreichte Europa",
+      "example_en": "The suffocating heat hit Europe"
+    },
+    {
+      "pt": "a incumbência",
+      "de": "die Aufgabe/die Pflicht",
+      "en": "the task/duty",
+      "example": "Cada ministro tem as suas incumbências",
+      "example_de": "Jeder Minister hat seine Aufgaben",
+      "example_en": "Each minister has their duties"
+    },
+    {
+      "pt": "requalificar",
+      "de": "sanieren/neu qualifizieren",
+      "en": "to renovate/rehabilitate",
+      "example": "Vão requalificar as escolas do concelho",
+      "example_de": "Sie werden die Schulen der Gemeinde sanieren",
+      "example_en": "They will renovate the municipality schools"
+    },
+    {
+      "pt": "o desentendimento",
+      "de": "die Meinungsverschiedenheit",
+      "en": "the disagreement/dispute",
+      "example": "O incêndio surgiu após um desentendimento",
+      "example_de": "Der Brand entstand nach einem Streit",
+      "example_en": "The fire started after a disagreement"
+    },
+    {
+      "pt": "premiado",
+      "de": "ausgezeichnet/preisgekrönt",
+      "en": "awarded/prize-winning",
+      "example": "O filme premiado continua a somar reconhecimento",
+      "example_de": "Der preisgekrönte Film sammelt weiter Anerkennung",
+      "example_en": "The award-winning film keeps gaining recognition"
+    },
+    {
+      "pt": "constrangido",
+      "de": "verlegen/gehemmt",
+      "en": "embarrassed/constrained",
+      "example": "Ana Abrunhosa sentiu-se constrangida ao revelar segredos",
+      "example_de": "Ana Abrunhosa fühlte sich verlegen, Geheimnisse zu enthüllen",
+      "example_en": "Ana Abrunhosa felt embarrassed revealing secrets"
+    },
+    {
+      "pt": "o pelouro",
+      "de": "der Zuständigkeitsbereich",
+      "en": "the portfolio/responsibility area",
+      "example": "O vereador com o pelouro do Ambiente",
+      "example_de": "Der Stadtrat mit dem Zuständigkeitsbereich Umwelt",
+      "example_en": "The councilor with the environment portfolio"
+    },
+    {
+      "pt": "de antemão",
+      "de": "im Voraus",
+      "en": "beforehand/in advance",
+      "example": "É preciso reservar de antemão",
+      "example_de": "Man muss im Voraus reservieren",
+      "example_en": "You need to book in advance"
+    },
+    {
+      "pt": "o bairro",
+      "de": "das Viertel",
+      "en": "the neighborhood",
+      "example": "No bairro de Santa Apolónia",
+      "example_de": "Im Viertel Santa Apolónia",
+      "example_en": "In the Santa Apolónia neighborhood"
+    },
+    {
+      "pt": "a intrusão",
+      "de": "der Einbruch",
+      "en": "the intrusion/break-in",
+      "example": "Todos foram alvo de intrusões",
+      "example_de": "Alle waren Ziel von Einbrüchen",
+      "example_en": "All were targets of break-ins"
+    },
+    {
+      "pt": "o verão",
+      "de": "der Sommer",
+      "en": "the summer",
+      "example": "O verão está aí",
+      "example_de": "Der Sommer ist da",
+      "example_en": "Summer is here"
+    },
+    {
+      "pt": "a bandalheira",
+      "de": "der Schwindel/die Machenschaft",
+      "en": "the shadiness/shenanigans",
+      "example": "Há muita bandalheira nessa decisão",
+      "example_de": "Da steckt viel Schwindel in dieser Entscheidung",
+      "example_en": "There is a lot of shadiness in that decision"
+    },
+    {
+      "pt": "atempado",
+      "de": "rechtzeitig/gelegen",
+      "en": "timely/opportune",
+      "example": "Garantir cuidados de saúde atempados",
+      "example_de": "Rechtzeitige Gesundheitsversorgung gewährleisten",
+      "example_en": "To ensure timely healthcare"
+    },
+    {
+      "pt": "a preguiça",
+      "de": "die Faulheit",
+      "en": "the laziness",
+      "example": "A preguiça de ir à praia cedo",
+      "example_de": "Die Faulheit, früh an den Strand zu gehen",
+      "example_en": "The laziness of going to the beach early"
+    },
+    {
+      "pt": "estremenho",
+      "de": "extremadurisch/aus Extremadura",
+      "en": "Extremaduran/from Extremadura",
+      "example": "As comunidades estremenhas estão em alerta",
+      "example_de": "Die extremadurischen Gemeinden sind auf Alarm",
+      "example_en": "The Extremaduran communities are on alert"
+    },
+    {
+      "pt": "o banhista",
+      "de": "der Badegast",
+      "en": "the bather/beachgoer",
+      "example": "As praias já receberam os primeiros banhistas",
+      "example_de": "Die Strände empfingen schon die ersten Badegäste",
+      "example_en": "The beaches have already received the first bathers"
+    },
+    {
+      "pt": "a idade média",
+      "de": "das Mittelalter",
+      "en": "the Middle Ages",
+      "example": "A Feira Medieval recria a Idade Média",
+      "example_de": "Der mittelalterliche Markt stellt das Mittelalter nach",
+      "example_en": "The Medieval Fair recreates the Middle Ages"
+    },
+    {
+      "pt": "a gravidez",
+      "de": "die Schwangerschaft",
+      "en": "the pregnancy",
+      "example": "A linha SNS 24 para gravidez",
+      "example_de": "Die SNS 24 Linie für Schwangerschaft",
+      "example_en": "The SNS 24 line for pregnancy"
+    },
+    {
+      "pt": "desmontar",
+      "de": "zerlegen/widerlegen",
+      "en": "to dismantle/debunk",
+      "example": "Procurar desmontar alguns mitos associados às cheias",
+      "example_de": "Versuchen, einige Mythen über die Überschwemmungen zu widerlegen",
+      "example_en": "Trying to debunk some myths associated with the floods"
+    },
+    {
+      "pt": "a vulnerabilidade",
+      "de": "die Verwundbarkeit",
+      "en": "the vulnerability",
+      "example": "Vulnerabilidades acentuadas no leito de cheia",
+      "example_de": "Erhöhte Verwundbarkeit im Überschwemmungsbett",
+      "example_en": "Heightened vulnerability in the flood bed"
+    }
   ]
 }
