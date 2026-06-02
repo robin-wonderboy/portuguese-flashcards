@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Praias fluviais de Coimbra abrem a época balnear",
+          "text": "O verão está aí: as praias fluviais do Rebolim e de Palheiros e Zorro receberam os primeiros banhistas no dia 1 de junho. Ambas voltaram a ser distinguidas com o galardão Bandeira Azul."
+        },
+        {
+          "headline": "Moviflor encerra no Mondego Retail Park - IKEA chega no 2º semestre",
+          "text": "Após uma década em Taveiro, a Moviflor encerrou no dia 31 de maio. O espaço, o maior do Mondego Retail Park, vai dar lugar a uma loja IKEA prevista para o segundo semestre."
+        },
+        {
+          "headline": "Ana Abrunhosa revela segredos da infância",
+          "text": "A presidente da Câmara de Coimbra nasceu em Angola em 1970 e veio para Portugal aos 5 anos. Contou que era rapaz, subia às árvores e jogava à bola quando chegou à Meda, no distrito da Guarda."
+        },
+        {
+          "headline": "Brigada de Intervenção assinala 20.º aniversário em Coimbra",
+          "text": "Sediada em Coimbra, a Brigada de Intervenção celebrou 20 anos. Criada pela fusão das Brigadas de Forças Especiais e Ligeira de Intervenção, é a principal responsável pelo destacamento de forças para teatros de operações."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "IPO Coimbra introduz mastectomia endoscópica inovadora",
+          "text": "O IPO Coimbra implementou a mastectomia por via endoscópica com reconstrução mamária imediata, uma técnica minimamente invasiva para o cancro da mama. O primeiro procedimento foi realizado em março pela equipa de Cirurgia Geral."
+        },
+        {
+          "headline": "Linha SNS 24 passa a contacto inicial para Urgências de Obstetrícia na ULS Coimbra",
+          "text": "A partir de 1 de junho, as mulheres seguidas na ULS de Coimbra devem ligar primeiro para o SNS 24 antes de se dirigirem à Maternidade Bissaya Barreto ou Daniel de Matos. O objetivo é garantir cuidados atempados."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "CRIME & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Onda de assaltos a cafés em Eiras - gangue ataca 3 numa só noite",
+          "text": "Pelo menos três cafés foram visados na mesma madrugada na zona de Eiras: Xiolas Café, Café HD e Café Rainha Santa Isabel. No Xiolas levaram uma máquina de tabaco e dinheiro; no Café HD vizinhos impediram o roubo; o padrão segue assaltos anteriores com entrada forçada e fuga rápida."
+        },
+        {
+          "headline": "Homem detido em Buarcos após agredir e ameaçar o pai na rua",
+          "text": "Um homem de 21 anos foi detido pela PSP na Figueira da Foz depois de agredir e ameaçar o pai em plena via pública. A população manietou o agressor antes da chegada das autoridades."
+        },
+        {
+          "headline": "Homem detido por pegar fogo à floresta após desentendimento com vizinhos",
+          "text": "A Polícia Judiciária deteve um homem de 52 anos por crime de incêndio florestal em Louredo, Amarante. O suspeito terá provocado o fogo com chama direta na sequência de um desentendimento com vizinhos."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Plano Nacional prevê 500 M€/ano até 2030 para restaurar natureza",
+          "text": "Portugal vai investir uma média de 500 milhões de euros por ano em restauro da natureza, com mais de 400 medidas propostas para ecossistemas terrestres, marinhos, fluviais, urbanos e agrícolas."
+        },
+        {
+          "headline": "Morto em colisão entre autocarro e ligeiro em Cascais",
+          "text": "Uma colisão entre um autocarro e um veículo ligeiro provocou um morto e dois feridos em Cascais. A vítima mortal era o condutor da viatura ligeira. 40 operacionais e 16 viaturas deslocaram-se ao local."
+        },
+        {
+          "headline": "Califórnia reconhece Dia de Portugal e Mês da Herança Portuguesa",
+          "text": "A legislatura da Califórnia aprovou por unanimidade a resolução que declara junho como Mês da Herança Portuguesa e 10 de junho como Dia de Portugal. A proposta foi introduzida por representantes luso-americanas de ambos os partidos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "CSM pede informações sobre queixa contra juiz Carlos Alexandre",
+          "text": "O Conselho Superior da Magistratura vai pedir à Ordem dos Advogados mais detalhes sobre a queixa contra o juiz desembargador Carlos Alexandre para decidir se instaura processo disciplinar."
+        },
+        {
+          "headline": "Ministro da Educação: dinheiro não será gasto em obras para municípios",
+          "text": "A Ordem dos Engenheiros está a fazer avaliação independente dos projetos de requalificação escolar para garantir que apenas projetos relacionados com a Educação são financiados, disse o ministro."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Onda de calor sufocante deixa a Europa em alerta",
+          "text": "Temperaturas recorde para maio atingem Espanha, França, Reino Unido e outros países. Espanha prevê 40°C em Badajoz e noites tropicais. França registou um morto em Paris e dezenas de hospitalizações por golpe de calor."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Feira Medieval de Coimbra: já pode reservar a Ceia Medieval",
+          "text": "A 31.ª edição da Feira Medieval decorre de 17 a 19 de julho na Alta de Coimbra. A Ceia Medieval realiza-se a 17 de julho, às 19h30, nos Claustros da Sé Velha. Já pode reservar lugar e conhecer a ementa."
+        },
+        {
+          "headline": "Filme Em Verde Vivo em competição para World's Best Tourism Film",
+          "text": "O filme criado para a Turismo Centro de Portugal após os incêndios que devastaram a região continua a somar reconhecimento internacional e está em competição para os World's Best Tourism Film Awards."
+        },
+        {
+          "headline": "Cheias do Mondego em debate no UC Exploratório",
+          "text": "Quarta-feira, 3 de junho, às 18h00, o arquiteto A. Nuno Martins apresenta Cheias do Mondego: mito, risco e paisagem cultural, propondo uma leitura crítica que desmonta a ideia de que novas barragens resolvem tudo."
+        },
+        {
+          "headline": "Dia da Criança em Tábua com marionetas e diversão",
+          "text": "O Município de Tábua assinalou o Dia Mundial da Criança com iniciativas de aprendizagem e diversão, incluindo uma atividade promovida pela GNR no âmbito do XVII Aniversário do Comando Territorial de Coimbra."
+        }
+      ]
+    }
+  ]
+}
