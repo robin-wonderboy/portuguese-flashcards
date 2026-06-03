@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Abrunhosa: metade dos carros na Baixa não precisam de lá estar",
+          "text": "Estudo sobre a reorganização do trânsito concluiu que metade das pessoas que andam de carro na Baixa de Coimbra não precisavam de passar por lá e teriam trajetos mais curtos por outras vias. A presidente da câmara defende mudanças na mobilidade do centro."
+        },
+        {
+          "headline": "Marchas Populares invadem a Baixa no sábado",
+          "text": "As Marchas Populares regressam à Baixa de Coimbra no dia 6 de junho com cerca de 12 grupos marchantes do concelho e dois convidados, num dos momentos mais emblemáticos do calendário festivo da cidade."
+        },
+        {
+          "headline": "Festa da Sardinha de 4 a 12 de junho",
+          "text": "A Baixa de Coimbra vai cheirar a sardinha durante 9 dias com a Festa da Sardinha, que promete animar o centro histórico com gastronomia, cultura e programação associada às marchas populares."
+        },
+        {
+          "headline": "Embate entre carros destrói paragem de autocarro",
+          "text": "Uma colisão entre dois veículos na Avenida D. Afonso Henriques, nas imediações da Escola Secundária José Falcão, destruiu uma paragem de autocarro na terça-feira."
+        },
+        {
+          "headline": "QuebraJazz: verão com 45 dias de concertos",
+          "text": "O Festival QuebraJazz propõe 28 momentos culturais ao longo de mês e meio, inspirados pelo conceito do contraponto. A maioria dos concertos decorre na Quinta das Lágrimas e Escadas do Quebra Costas."
+        },
+        {
+          "headline": "Museu Templário vai nascer em Soure",
+          "text": "Soure recua vários séculos na história entre 5 e 7 de junho com a iniciativa Origem Templária, uma experiência imersiva na época medieval que visa reforçar a identidade templária do concelho."
+        },
+        {
+          "headline": "Homenagem emocionada a Raul Almeida no Vê Portugal",
+          "text": "A família de Raul Almeida emocionou-se com a homenagem que levou 300 pessoas a aplaudir de pé um homem que conquistou Mira e o Centro de Portugal no evento Vê Portugal."
+        },
+        {
+          "headline": "Metrobus: estudos de expansão avançam este ano",
+          "text": "Os estudos de expansão do Sistema de Mobilidade do Mondego até Condeixa-a-Nova, Cantanhede e Mealhada vão começar ainda este ano, segundo o novo presidente da Metro Mondego, Leonel Serra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Mulher condenada por sextortion escapa à prisão efetiva",
+          "text": "Uma mulher de 40 anos foi condenada a 3 anos e 8 meses de prisão suspensa pelo Tribunal de Aveiro por chantagear homens com fotografias íntimas nas redes sociais, tendo recebido transferências de 9.500 euros."
+        },
+        {
+          "headline": "Carrinha de valores assaltada à mão armada em Lisboa",
+          "text": "Uma carrinha da ESEGUR foi assaltada na terça-feira à tarde em Lisboa. Um vigilante foi abordado pelas costas por um suspeito armado com revólver e coagido a entregar milhares em dinheiro."
+        },
+        {
+          "headline": "Ricardo Salgado terá pena suspensa de 13 anos",
+          "text": "O Tribunal decidiu que o ex-banqueteiro Ricardo Salgado terá uma pena de prisão suspensa de 13 anos, no âmbito do processo em que era arguido."
+        },
+        {
+          "headline": "Filho enterra a própria mãe em casa e confessa ao irmão",
+          "text": "O corpo de uma idosa foi encontrado enterrado no quintal de uma habitação em Taíde, Póvoa de Lanhoso, após o filho ter confessado o facto ao irmão vindo da Suíça."
+        },
+        {
+          "headline": "Figueira da Foz: debate sobre desafios das forças de segurança",
+          "text": "Um oficial da PSP afirmou que as forças de segurança vivem tempos particularmente exigentes, incluindo nos palcos digitais e mediáticos. A formação de novos agentes assume importância acrescida."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS 24 Grávida/Ginecologia arranca na ULS de Coimbra",
+          "text": "A partir de 1 de junho, a Linha SNS 24 passa a ser o primeiro contacto para acesso às Urgências de Obstetrícia e Ginecologia na ULS de Coimbra, tanto na Maternidade Bissaya Barreto como na Daniel de Matos."
+        },
+        {
+          "headline": "IPO Coimbra introduz mastectomia endoscópica inovadora",
+          "text": "O IPO de Coimbra implementou a mastectomia por via endoscópica com reconstrução mamária imediata, uma técnica minimamente invasiva para tratamento do cancro da mama. O primeiro procedimento foi realizado em março."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "CASAS & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Preço das casas em Coimbra entre os que mais dispararam",
+          "text": "Os preços das casas em Portugal subiram 10,2% em maio face ao mesmo mês de 2025, atingindo um novo máximo histórico de 3.142 euros/m2. Coimbra está entre as cidades onde o preço mais disparou."
+        },
+        {
+          "headline": "Arrendar casa em Coimbra ficou 4% mais caro num ano",
+          "text": "A oferta de casas para arrendar em Coimbra caiu a pique, com estudantes, investidores e jovens famílias a competir pelo mesmo mercado. Cidade universitária = cidade cara."
+        },
+        {
+          "headline": "Greve Geral: ministra prevê inconvenientes",
+          "text": "A ministra do Trabalho afirmou que a Greve Geral de quarta-feira trará alguns inconvenientes para pessoas e famílias. Montenegro está convicto de que a esmagadora maioria vai trabalhar. Instituto dos Registos com serviços mínimos."
+        },
+        {
+          "headline": "Microsoft lança IA própria para se libertar da OpenAI",
+          "text": "A Microsoft lançou a sua própria inteligência artificial, visando reduzir a dependência da OpenAI e controlar melhor a sua infraestrutura de IA."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "UE destaca 60 bombeiros e duas aeronaves em Portugal para fogos",
+          "text": "A União Europeia vai destacar 60 bombeiros e duas aeronaves ligeiras em Portugal entre 16 de julho e 31 de agosto, através do Mecanismo Europeu de Proteção Civil, para apoio ao combate de incêndios rurais."
+        },
+        {
+          "headline": "Menino helitransportado em estado grave após atropelamento",
+          "text": ""
+        },
+        {
+          "headline": "Maio dos infernos: temperaturas históricas em Portugal",
+          "text": ""
+        },
+        {
+          "headline": "Marco Silva diz adeus ao Fulham",
+          "text": ""
+        },
+        {
+          "headline": "Clube União 1919 celebra 107 anos",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
