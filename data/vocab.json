@@ -15560,5 +15560,183 @@
       "example_de": "Erhöhte Verwundbarkeit im Überschwemmungsbett",
       "example_en": "Heightened vulnerability in the flood bed"
     }
+  ],
+  "2026-06-03": [
+    {
+      "pt": "o embate",
+      "de": "der Aufprall",
+      "en": "collision, crash",
+      "example": "O embate entre dois carros destruiu a paragem",
+      "example_de": "Der Aufprall zwischen zwei Autos zerstörte die Haltestelle",
+      "example_en": "The crash between two cars destroyed the bus stop"
+    },
+    {
+      "pt": "o marchante",
+      "de": "der Marschierer",
+      "en": "marcher (in popular marches)",
+      "example": "Centenas de marchantes vão invadir a Baixa",
+      "example_de": "Hundert Marschierer werden die Innenstadt einnehmen",
+      "example_en": "Hundreds of marchers will flood the downtown area"
+    },
+    {
+      "pt": "a chantagem",
+      "de": "die Erpressung",
+      "en": "blackmail, extortion",
+      "example": "Chantageava homens com fotografias íntimas",
+      "example_de": "Sie erpresste Männer mit intimen Fotos",
+      "example_en": "She was blackmailing men with intimate photos"
+    },
+    {
+      "pt": "a carrinha",
+      "de": "der Kleintransporter",
+      "en": "van, small truck",
+      "example": "A carrinha de valores foi assaltada",
+      "example_de": "Der Werttransporter wurde überfallen",
+      "example_en": "The valuables van was robbed"
+    },
+    {
+      "pt": "o contraponto",
+      "de": "der Kontrapunkt",
+      "en": "counterpoint",
+      "example": "O conceito do contraponto inspirou a programação",
+      "example_de": "Das Konzept des Kontrapunkts inspirierte die Programmgestaltung",
+      "example_en": "The concept of counterpoint inspired the programming"
+    },
+    {
+      "pt": "congratular-se",
+      "de": "sich freuen über",
+      "en": "to congratulate oneself, celebrate",
+      "example": "Os autarcas congratularam-se com o despacho",
+      "example_de": "Die Bürgermeister freuten sich über die Anordnung",
+      "example_en": "The mayors celebrated the order"
+    },
+    {
+      "pt": "propor",
+      "de": "vorschlagen",
+      "en": "to propose",
+      "example": "O festival propõe um diálogo entre opostos",
+      "example_de": "Das Festival schlägt einen Dialog zwischen Gegensätzen vor",
+      "example_en": "The festival proposes a dialogue between opposites"
+    },
+    {
+      "pt": "à mão armada",
+      "de": "bewaffnet",
+      "en": "at gunpoint, armed",
+      "example": "A carrinha foi assaltada à mão armada",
+      "example_de": "Der Transporter wurde bewaffnet überfallen",
+      "example_en": "The van was robbed at gunpoint"
+    },
+    {
+      "pt": "de pé",
+      "de": "stehend",
+      "en": "standing (ovation)",
+      "example": "300 pessoas aplaudiram de pé",
+      "example_de": "300 Leute applaudierten stehend",
+      "example_en": "300 people gave a standing ovation"
+    },
+    {
+      "pt": "à primeira vista",
+      "de": "auf den ersten Blick",
+      "en": "at first sight",
+      "example": "À primeira vista, parece simples",
+      "example_de": "Auf den ersten Blick wirkt es einfach",
+      "example_en": "At first sight, it seems simple"
+    },
+    {
+      "pt": "reconstruir",
+      "de": "wiederaufbauen",
+      "en": "to reconstruct, rebuild",
+      "example": "Reconstrução mamária imediata após mastectomia",
+      "example_de": "Sofortiger Brustwiederaufbau nach Mastektomie",
+      "example_en": "Immediate breast reconstruction after mastectomy"
+    },
+    {
+      "pt": "a penitência",
+      "de": "die Buße",
+      "en": "penance",
+      "example": "O Tribunal considerou verificados os factos da acusação",
+      "example_de": "Das Gericht bestätigte die Anklagepunkte",
+      "example_en": "The Court confirmed the facts of the accusation"
+    },
+    {
+      "pt": "a reorganização",
+      "de": "die Neuorganisation",
+      "en": "reorganization",
+      "example": "A reorganização do trânsito na Baixa de Coimbra",
+      "example_de": "Die Neuorganisation des Verkehrs in der Innenstadt von Coimbra",
+      "example_en": "The reorganization of traffic in downtown Coimbra"
+    },
+    {
+      "pt": "o foro",
+      "de": "die Zuständigkeit",
+      "en": "jurisdiction, forum",
+      "example": "O Tribunal de Aveiro tinha foro para o caso",
+      "example_de": "Das Gericht in Aveiro hatte Zuständigkeit für den Fall",
+      "example_en": "The Court of Aveiro had jurisdiction over the case"
+    },
+    {
+      "pt": "a arguida",
+      "de": "die Angeklagte",
+      "en": "female defendant",
+      "example": "A arguida recebeu transferências de 9500 euros",
+      "example_de": "Die Angeklagte erhielt Überweisungen von 9500 Euro",
+      "example_en": "The defendant received bank transfers of 9500 euros"
+    },
+    {
+      "pt": "o vigilante",
+      "de": "der Wachmann",
+      "en": "security guard",
+      "example": "O vigilante foi abordado pelas costas",
+      "example_de": "Der Wachmann wurde von hinten angesprochen",
+      "example_en": "The security guard was approached from behind"
+    },
+    {
+      "pt": "coagir",
+      "de": "zwingen, nötigen",
+      "en": "to coerce, force",
+      "example": "O vigilante foi coagido a abrir a carrinha",
+      "example_de": "Der Wachmann wurde gezwungen, den Transporter zu öffnen",
+      "example_en": "The guard was forced to open the van"
+    },
+    {
+      "pt": "o ladrão",
+      "de": "der Dieb",
+      "en": "thief",
+      "example": "Ladrões fogem com milhares nas mãos",
+      "example_de": "Diebe fliehen mit Tausenden in den Händen",
+      "example_en": "Thieves flee with thousands in their hands"
+    },
+    {
+      "pt": "o traje",
+      "de": "das Kostüm, die Tracht",
+      "en": "costume, outfit",
+      "example": "Os marchantes vestem trajes tradicionais",
+      "example_de": "Die Marschierer tragen traditionelle Trachten",
+      "example_en": "The marchers wear traditional costumes"
+    },
+    {
+      "pt": "o fogo",
+      "de": "das Feuer",
+      "en": "fire",
+      "example": "Bombeiros europeus para combater fogos rurais",
+      "example_de": "Europäische Feuerwehr für die Bekämpfung von Waldbränden",
+      "example_en": "European firefighters to combat rural fires"
+    },
+    {
+      "pt": "o escalão",
+      "de": "die Altersklasse",
+      "en": "age group, tier",
+      "example": "O diretor dos escalões de formação faleceu",
+      "example_de": "Der Direktor der Jugendabteilung ist verstorben",
+      "example_en": "The director of the youth divisions has passed away"
+    },
+    {
+      "pt": "a saudade",
+      "de": "die Sehnsucht",
+      "en": "longing, missing someone/something",
+      "example": "Deixa muitas saudades",
+      "example_de": "Hinterlässt große Sehnsucht",
+      "example_en": "Leaves much longing behind"
+    }
   ]
 }
