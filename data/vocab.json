@@ -15738,5 +15738,167 @@
       "example_de": "Hinterlässt große Sehnsucht",
       "example_en": "Leaves much longing behind"
     }
+  ],
+  "2026-06-04": [
+    {
+      "pt": "o cheiro",
+      "de": "der Geruch",
+      "en": "the smell",
+      "example": "O cheiro a Santos Populares ja chegou a Coimbra",
+      "example_de": "Der Geruch nach Heiligenfesten ist schon in Coimbra",
+      "example_en": "The smell of popular saints has arrived in Coimbra"
+    },
+    {
+      "pt": "a tecelagem",
+      "de": "das Weben",
+      "en": "the weaving",
+      "example": "Aprender a arte da tecelagem na Aldeia das Dez",
+      "example_de": "Die Kunst des Webens im Dorf der Zehn lernen",
+      "example_en": "Learn the art of weaving in Aldeia das Dez"
+    },
+    {
+      "pt": "o chapeu-de-sol",
+      "de": "der Sonnenschirm",
+      "en": "the sun umbrella",
+      "example": "Pode plantar o seu chapeu-de-sol em frente as concessoes",
+      "example_de": "Sie koennen Ihren Sonnenschirm vor den Konzessionen aufstellen",
+      "example_en": "You can set up your sun umbrella in front of beach concessions"
+    },
+    {
+      "pt": "o arrumador",
+      "de": "der Einraeumer",
+      "en": "the car park attendant",
+      "example": "Arrumador de carros pega em barrote e mata rival",
+      "example_de": "Parkeinweiser packt den Knueppel und toetet Rivalen",
+      "example_en": "Car park attendant grabs a club and kills rival"
+    },
+    {
+      "pt": "o abate",
+      "de": "die Faellung",
+      "en": "the felling/cutting",
+      "example": "E-Redes julgada por abate ilegal de sobreiros",
+      "example_de": "E-Redes wegen illegaler Faellung verurteilt",
+      "example_en": "E-Redes convicted for illegal felling"
+    },
+    {
+      "pt": "o cadastro",
+      "de": "das Kataster",
+      "en": "the registry/cadastre",
+      "example": "Cadastro dos predios rusticos com 66% de execucao",
+      "example_de": "Kataster der Landgebaeude zu 66% ausgefuehrt",
+      "example_en": "Rural property registry at 66% completion"
+    },
+    {
+      "pt": "reagendar",
+      "de": "verschieben, umplanen",
+      "en": "to reschedule",
+      "example": "A prova ModA foi reagendada devido a greve",
+      "example_de": "Die ModA-Pruefung wurde wegen des Streiks verschoben",
+      "example_en": "The ModA exam was rescheduled due to the strike"
+    },
+    {
+      "pt": "comandar",
+      "de": "befehligen, leiten",
+      "en": "to command, to lead",
+      "example": "Antonio Barbosa comanda Academica para subir a primeira",
+      "example_de": "Antonio Barbosa leitet Academica zum Aufstieg",
+      "example_en": "Antonio Barbosa leads Academica to promotion"
+    },
+    {
+      "pt": "alegre",
+      "de": "froehlich",
+      "en": "cheerful, happy",
+      "example": "Os segredos do alegre ministro",
+      "example_de": "Die Geheimnisse des froehlichen Ministers",
+      "example_en": "The secrets of the cheerful minister"
+    },
+    {
+      "pt": "inovador",
+      "de": "innovativ",
+      "en": "innovative",
+      "example": "Este espaco inovador junta cultura e vinis",
+      "example_de": "Dieser innovative Raum verbindet Kultur und Vinyl",
+      "example_en": "This innovative space combines culture and vinyl"
+    },
+    {
+      "pt": "particularmente",
+      "de": "insbesondere, besonders",
+      "en": "particularly",
+      "example": "Forcas de seguranca vivem tempos particularmente exigentes",
+      "example_de": "Sicherheitskraefte leben besonders anspruchsvolle Zeiten",
+      "example_en": "Security forces live particularly demanding times"
+    },
+    {
+      "pt": "sem travao",
+      "de": "ohne Bremse (Redewendung)",
+      "en": "without brakes (expression)",
+      "example": "Miranda do Corvo vai parar com festa sem travao",
+      "example_de": "Miranda do Corvo haelt mit Fest ohne Bremse an",
+      "example_en": "Miranda do Corvo stops for a party without brakes"
+    },
+    {
+      "pt": "por toda a gente",
+      "de": "von allen Leuten (Redewendung)",
+      "en": "by everyone (expression)",
+      "example": "Prometem por toda a gente a cantar",
+      "example_de": "Versprechen alle zum Singen zu bringen",
+      "example_en": "They promise to get everyone singing"
+    },
+    {
+      "pt": "a sardinhada",
+      "de": "das Sardinenessen",
+      "en": "the sardine feast",
+      "example": "Miranda do Corvo com sardinhada, baile e Marchas Populares",
+      "example_de": "Miranda do Corvo mit Sardinenessen, Tanz und Umzuegen",
+      "example_en": "Miranda do Corvo with sardine feast, dance and popular marches"
+    },
+    {
+      "pt": "o cranio",
+      "de": "der Schaedel",
+      "en": "the skull/cranium",
+      "example": "Traumatismo cranioencefalico",
+      "example_de": "Schaedel-Hirn-Trauma",
+      "example_en": "Craniocerebral trauma"
+    },
+    {
+      "pt": "a velhice",
+      "de": "das Alter",
+      "en": "old age",
+      "example": "Equipamento permite sentir as dificuldades da velhice",
+      "example_de": "Ausruestung laesst die Schwierigkeiten des Alters fuehlen",
+      "example_en": "Equipment lets you feel the difficulties of old age"
+    },
+    {
+      "pt": "a residencia",
+      "de": "das Wohnheim",
+      "en": "the residence hall",
+      "example": "A vida de Fernando Alexandre na residencia de Coimbra",
+      "example_de": "Das Leben von Fernando Alexandre im Wohnheim von Coimbra",
+      "example_en": "Fernando Alexandre's life at the Coimbra residence"
+    },
+    {
+      "pt": "o manifestante",
+      "de": "der Demonstrant",
+      "en": "the protester",
+      "example": "Confrontos entre manifestantes e policia",
+      "example_de": "Zusammenstoesse zwischen Demonstranten und Polizei",
+      "example_en": "Clashes between protesters and police"
+    },
+    {
+      "pt": "depor",
+      "de": "aussagen, absetzen",
+      "en": "to testify, to depose",
+      "example": "Presidente da Ucrania chamado a depor no caso do Elevador da Gloria",
+      "example_de": "Ukrainepraesident im Fall des Gloria-Aufzugs zur Aussage geladen",
+      "example_en": "Ukraine president called to testify in Elevador da Gloria case"
+    },
+    {
+      "pt": "a pele",
+      "de": "die Haut",
+      "en": "the skin",
+      "example": "Cuidado com a pele e o cabelo na terceira idade",
+      "example_de": "Hautpflege und Haarpflege im dritten Alter",
+      "example_en": "Skin and hair care in old age"
+    }
   ]
 }
