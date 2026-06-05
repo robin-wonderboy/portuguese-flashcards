@@ -15900,5 +15900,135 @@
       "example_de": "Hautpflege und Haarpflege im dritten Alter",
       "example_en": "Skin and hair care in old age"
     }
+  ],
+  "2026-06-05": [
+    {
+      "pt": "súbita",
+      "de": "plötzlich, unerwartet",
+      "en": "sudden, unexpected",
+      "example": "Vítima de morte súbita durante a festa",
+      "example_de": "Opfer eines plötzlichen Todes während des Festes",
+      "example_en": "Victim of sudden death during the festival"
+    },
+    {
+      "pt": "o contrabando",
+      "de": "der Schmuggel",
+      "en": "smuggling, contraband",
+      "example": "Contrabando de 100 mil baratas rende 200 mil dólares",
+      "example_de": "Schmuggel von 100.000 Kakerlaken bringt 200.000 Dollar",
+      "example_en": "Smuggling of 100,000 cockroaches yields 200,000 dollars"
+    },
+    {
+      "pt": "a averiguação",
+      "de": "die Überprüfung, die Untersuchung",
+      "en": "the investigation, the inquiry",
+      "example": "Pedida averiguação judicial sobre exploração sexual infantil",
+      "example_de": "Gerichtliche Untersuchung über sexuelle Ausbeutung von Kindern gefordert",
+      "example_en": "Judicial investigation requested into child sexual exploitation"
+    },
+    {
+      "pt": "a rasteira",
+      "de": "der Rutsch, der Stolperer, die Abfuhr",
+      "en": "the slip, the rejection, the setback",
+      "example": "Depois da rasteira de Coimbra, a Marcha vai a programa da RTP",
+      "example_de": "Nach der Abfuhr aus Coimbra geht die Marcha ins RTP-Programm",
+      "example_en": "After the rejection in Coimbra, the Marcha goes on RTP show"
+    },
+    {
+      "pt": "isentar",
+      "de": "befreien, freistellen",
+      "en": "to exempt, to waive",
+      "example": "Câmara isenta o Clube Náutico do pagamento",
+      "example_de": "Die Stadtverwaltung befreit den Schwimmclub von der Zahlung",
+      "example_en": "The city council exempts the Swimming Club from payment"
+    },
+    {
+      "pt": "a criação",
+      "de": "die Zucht, die Aufzucht",
+      "en": "the breeding, the rearing",
+      "example": "Desmantelamento de uma criação ilegal de baratas",
+      "example_de": "Zerschlagung einer illegalen Kakerlakenzucht",
+      "example_en": "Dismantling of an illegal cockroach breeding operation"
+    },
+    {
+      "pt": "a viatura ligeira",
+      "de": "der PKW, das Leichtfahrzeug",
+      "en": "the light vehicle, the car",
+      "example": "Colisão entre pesado e viatura ligeira",
+      "example_de": "Zusammenstoß zwischen LKW und PKW",
+      "example_en": "Collision between a truck and a light vehicle"
+    },
+    {
+      "pt": "o contributo",
+      "de": "der Beitrag, die Leistung",
+      "en": "the contribution",
+      "example": "Destaca o contributo dos imigrantes para as misericórdias",
+      "example_de": "Er betont den Beitrag der Einwanderer zu den Wohlfahrtsverbänden",
+      "example_en": "He highlights the contribution of immigrants to the charities"
+    },
+    {
+      "pt": "resistente",
+      "de": "widerstandsfähig, robust",
+      "en": "resilient, tough",
+      "example": "A mulher ativa e resistente faleceu aos 102 anos",
+      "example_de": "Die aktive und widerstandsfähige Frau verstarb mit 102 Jahren",
+      "example_en": "The active and resilient woman passed away at 102"
+    },
+    {
+      "pt": "o desmantelamento",
+      "de": "die Zerschlagung, die Auflösung",
+      "en": "the dismantling, the takedown",
+      "example": "Desmantelamento de uma criação ilegal de baratas",
+      "example_de": "Zerschlagung einer illegalen Kakerlakenzucht",
+      "example_en": "Takedown of an illegal cockroach breeding operation"
+    },
+    {
+      "pt": "impulsionar",
+      "de": "vorantreiben, ankurbeln",
+      "en": "to boost, to drive forward",
+      "example": "Medida que visa impulsionar a capacidade competitiva",
+      "example_de": "Maßnahme, die die Wettbewerbsfähigkeit vorantreiben soll",
+      "example_en": "A measure aimed at boosting competitiveness"
+    },
+    {
+      "pt": "o feno",
+      "de": "das Heu",
+      "en": "hay",
+      "example": "Um incêndio em feno e mato deflagrou em Coimbra",
+      "example_de": "Ein Brand in Heu und Gestrüpp brach in Coimbra aus",
+      "example_en": "A fire in hay and brush broke out in Coimbra"
+    },
+    {
+      "pt": "consternar",
+      "de": "bestürzen, erschüttern",
+      "en": "to dismay, to shock",
+      "example": "A comunidade está em choque e consternada",
+      "example_de": "Die Gemeinde ist geschockt und bestürzt",
+      "example_en": "The community is in shock and dismayed"
+    },
+    {
+      "pt": "a mensalidade",
+      "de": "der Monatsbeitrag, das Mitgliedsentgelt",
+      "en": "the monthly fee, the subscription",
+      "example": "Reduz mensalidade a alunos da piscina",
+      "example_de": "Senkt den Monatsbeitrag für Schüler des Schwimmbads",
+      "example_en": "Reduces the monthly fee for swimming pool students"
+    },
+    {
+      "pt": "o regresso",
+      "de": "die Rückkehr",
+      "en": "the return, the comeback",
+      "example": "O Festival da Montanha regressa à Serra da Estrela",
+      "example_de": "Das Bergfestival kehrt zur Serra da Estrela zurück",
+      "example_en": "The Mountain Festival returns to Serra da Estrela"
+    },
+    {
+      "pt": "a reabilitação",
+      "de": "die Rehabilitation, die Wiederherstellung",
+      "en": "rehabilitation, recovery",
+      "example": "Um centro que reúne valências de reabilitação e exercício físico",
+      "example_de": "Ein Zentrum, das Rehabilitations- und Fitnesseinrichtungen vereint",
+      "example_en": "A center combining rehabilitation and physical exercise facilities"
+    }
   ]
 }
