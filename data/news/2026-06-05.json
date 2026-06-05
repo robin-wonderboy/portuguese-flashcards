@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "INCIDENTES & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Colisão entre pesado e viatura ligeira faz um morto no IC2 em Cernache",
+          "text": "Uma colisão entre um camião imobilizado e uma carrinha no IC2, em frente à Probar em Cernache, matou um homem de 56 anos na madrugada de quinta para sexta-feira. A vítima era o condutor da carrinha que embateu na parte traseira do pesado."
+        },
+        {
+          "headline": "Motociclista morre em despiste fatal em Miranda do Corvo",
+          "text": "Um homem de 55 anos faleceu na noite de quinta-feira após perder o controlo da moto numa estrada municipal em Godinhela, concelho de Miranda do Corvo. Era o único ocupante da viatura."
+        },
+        {
+          "headline": "Choque violento na Figueira da Foz faz 4 feridos, um grave",
+          "text": "Uma colisão entre duas viaturas ligeiras em Carvalhais, Figueira da Foz, deixou quatro feridos na quinta-feira. Ambos os carros capotaram. Uma menina de 9 anos, uma mulher e um homem de 47 ficaram com ferimentos ligeiros; outro ferido encontra-se em estado grave."
+        },
+        {
+          "headline": "Café São José assaltado em Coimbra",
+          "text": "O café São José, no Girassolum, foi assaltado esta madrugada. Os autores levaram bebidas. O caso encontra-se em investigação."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Garagem arde por completo em Brasfemes",
+          "text": "Uma garagem ardeu por completo quinta-feira à noite em Lagares, freguesia de Brasfemes. O alerta inicial indicava fumo junto à habitação. As causas do incêndio são desconhecidas."
+        },
+        {
+          "headline": "Fogo em zona de mato em Coimbra",
+          "text": "Um incêndio em feno e mato deflagrou na tarde de quinta-feira na Rua António Jardim, em Coimbra. O alerta foi dado às 16:45 e mobilizou elementos das três corporações da cidade: Sapadores e Voluntários de Coimbra e Brasfemes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Adolescente aponta faca a colega junto à Escola Martinho Árias em Soure",
+          "text": "Um aluno do 11.º ano ameaçou um colega com uma arma branca nas imediações da paragem de autocarro da Escola Secundária Martinho Árias, em Soure. A direção comunicou a situação às autoridades."
+        },
+        {
+          "headline": "Presidente destaca contributo dos imigrantes para as misericórdias",
+          "text": "António José Seguro destacou o contributo dos imigrantes para suprir a falta de mão-de-obra nas misericórdias portuguesas. Na abertura do 15.º Congresso Nacional das Misericórdias, em Braga, lembrou que em muitas localidades são os imigrantes que cuidam dos idosos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Pedida averiguação judicial sobre exploração sexual infantil na Madeira",
+          "text": "O presidente do executivo madeirense, Miguel Albuquerque, pediu averiguações judiciais após um relatório do Conselho da Europa que sinaliza a Madeira como a região do país com mais casos de exploração sexual infantil de migrantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival da Montanha regressa à Serra da Estrela",
+          "text": "A quarta edição do Festival da Montanha decorre de 5 a 7 de junho em Manteigas, com mais de 60 experiências que cruzam aventura, desporto, natureza, bem-estar, cultura, música e gastronomia. É o maior evento de lazer em montanha de Portugal."
+        },
+        {
+          "headline": "Marcha de Vale de Açor vai ao programa da RTP",
+          "text": "Após a recusa em Coimbra, a Marcha Popular de Vale de Açor (Miranda do Corvo) marca presença esta sexta-feira no programa matinal 'Prapra da Alegria' da RTP. O grupo abriu o desfile de Santo António em Lisboa em 2022."
+        },
+        {
+          "headline": "A Brasileira está de volta à Baixa de Coimbra",
+          "text": "O café histórico 'A Brasileira' reabriu na Rua Ferreira Borges com um novo conceito que junta tradição e conforto. No início do século XX, o espaço era ponto de encontro onde se juntavam à mesma mesa diversas pessoas."
+        },
+        {
+          "headline": "Reaction: novo espaço de saúde e bem-estar em Coimbra",
+          "text": "O Reaction - Centro de Reabilitação e Performance foi inaugurado esta quinta-feira. O projeto é liderado por Sérgio Santos e reúne valências de reabilitação e exercício físico."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Câmara de Miranda do Corvo isenta Clube Náutico e reduz mensalidade",
+          "text": "O executivo de Miranda do Corvo isentou a 100% o Clube Náutico do pagamento pela utilização das pistas da piscina municipal, poupança anual acima de 15.000 euros. A medida visa impulsionar a capacidade competitiva e facilitar o acesso à modalidade."
+        },
+        {
+          "headline": "Laura Marta Soares faleceu aos 102 anos",
+          "text": "Laura Marta Soares, mãe de Jaime Marta Soares, faleceu quinta-feira, cinco meses depois de ter festejado 102 anos no lar da ADIP em Poiares. Era descrita como uma mulher ativa e resistente."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "José Mourinho no Real Madrid",
+          "text": "O Sport Lisboa e Benfica confirmou que a candidatura de Florentino Pérez ao Real Madrid manifestou interesse em contratar José Mourinho. Os encarnados divulgaram a informação esta quinta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Contrabando de 100 mil baratas rende 200 mil dólares na Austrália",
+          "text": "As autoridades ambientais australianas desmantelaram uma criação ilegal de baratas perto de Sydney, na maior apreensão de invertebrados exóticos alguma vez realizada no país. Os insetos tinham um valor de mercado superior a 122 mil euros."
+        },
+        {
+          "headline": "Putin admite ter discutido operação militar em Cuba com os EUA",
+          "text": "O presidente russo Vladimir Putin admitiu ter discutido com as autoridades norte-americanas uma possível operação militar em Cuba, semelhante à realizada pelos EUA na Venezuela em janeiro."
+        }
+      ]
+    },
+    {
+      "emoji": "🕊️",
+      "category": "LUTO",
+      "stories": [
+        {
+          "headline": "Jovem marchante morre durante festa popular em Setúbal",
+          "text": "Adriel Pardal, jovem marchante envolvido no movimento associativo de Setúbal, faleceu na noite de quarta-feira durante o evento 'São Gabriel em Festa', alegadamente vítima de morte súbita. A comunidade sadina está em choque."
+        }
+      ]
+    }
+  ]
+}
