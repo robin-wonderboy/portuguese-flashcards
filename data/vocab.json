@@ -16030,5 +16030,167 @@
       "example_de": "Ein Zentrum, das Rehabilitations- und Fitnesseinrichtungen vereint",
       "example_en": "A center combining rehabilitation and physical exercise facilities"
     }
+  ],
+  "2026-06-06": [
+    {
+      "pt": "o transplante",
+      "de": "die Transplantation",
+      "en": "the transplant",
+      "example": "Transplante inovador salva perna de idoso em Coimbra",
+      "example_de": "Innovative Transplantation rettet Bein eines alten Mannes in Coimbra",
+      "example_en": "Innovative transplant saves elderly man's leg in Coimbra"
+    },
+    {
+      "pt": "comemorar",
+      "de": "feiern, begehen",
+      "en": "to celebrate, commemorate",
+      "example": "Seguro e Montenegro comemoram Dia de Portugal em conjunto",
+      "example_de": "Seguro und Montenegro feiern den Tag von Portugal gemeinsam",
+      "example_en": "Seguro and Montenegro celebrate Portugal Day together"
+    },
+    {
+      "pt": "a peregrinação",
+      "de": "die Pilgerreise, die Wallfahrt",
+      "en": "the pilgrimage",
+      "example": "Peregrinação termina em tragédia em Santiago de Compostela",
+      "example_de": "Pilgerreise endet tragisch in Santiago de Compostela",
+      "example_en": "Pilgrimage ends in tragedy in Santiago de Compostela"
+    },
+    {
+      "pt": "afiançar",
+      "de": "versichern, beteuern",
+      "en": "to assure, guarantee",
+      "example": "Governo afiança que foram colocados 5.400 professores",
+      "example_de": "Regierung versichert, dass 5.400 Lehrer eingesetzt wurden",
+      "example_en": "Government assures that 5,400 teachers were placed"
+    },
+    {
+      "pt": "o cabaz",
+      "de": "der Korb",
+      "en": "the basket",
+      "example": "Cabaz alimentar mais caro: produtos subiram até 28%",
+      "example_de": "Lebensmittelkorb teurer: Produkte stiegen bis zu 28%",
+      "example_en": "Food basket more expensive: products rose up to 28%"
+    },
+    {
+      "pt": "colmar",
+      "de": "füllen, überbrücken",
+      "en": "to fill, bridge (a gap)",
+      "example": "Quantidade disponível pode colmatar as necessidades dos doentes",
+      "example_de": "Verfügbare Menge kann den Bedarf der Patienten decken",
+      "example_en": "Available quantity can bridge patients' needs"
+    },
+    {
+      "pt": "insólito",
+      "de": "ungewöhnlich, absonderlich",
+      "en": "unusual, bizarre",
+      "example": "Pedido insólito de Ricardo Araújo Pereira antes do espetáculo",
+      "example_de": "Ungewöhnliche Bitte von Ricardo Araújo Pereira vor der Show",
+      "example_en": "Bizarre request from Ricardo Araújo Pereira before the show"
+    },
+    {
+      "pt": "o tesouro",
+      "de": "der Schatz",
+      "en": "the treasure",
+      "example": "Máquinas de contar notas e ouro: o tesouro dos traficantes",
+      "example_de": "Geldzählmaschinen und Gold: der Schatz der Drogenhändler",
+      "example_en": "Money counting machines and gold: the traffickers' treasure"
+    },
+    {
+      "pt": "revoltada",
+      "de": "empört, wütend",
+      "en": "outraged, furious",
+      "example": "Kátia Aveiro revoltada com a situação do sobrinho",
+      "example_de": "Kátia Aveiro empört über die Situation ihres Neffen",
+      "example_en": "Kátia Aveiro outraged by her nephew's situation"
+    },
+    {
+      "pt": "promulgar",
+      "de": "verkünden, in Kraft setzen",
+      "en": "to enact, promulgate",
+      "example": "Presidente promulga diploma que regula médicos tarefeiros",
+      "example_de": "Präsident setzt Diplom in Kraft, das Zeitarbeitsärzte regelt",
+      "example_en": "President enacts decree regulating locum doctors"
+    },
+    {
+      "pt": "convergir",
+      "de": "konvergieren, zusammenfinden",
+      "en": "to converge",
+      "example": "O país precisa de convergir e não de legislaturas encurtadas",
+      "example_de": "Das Land muss konvergieren, nicht verkürzte Legislaturperioden",
+      "example_en": "The country needs to converge, not shortened legislatures"
+    },
+    {
+      "pt": "a biosfera",
+      "de": "die Biosphäre",
+      "en": "the biosphere",
+      "example": "Serra da Estrela integra Reserva da Biosfera da UNESCO",
+      "example_de": "Serra da Estrela wird Teil des UNESCO-Biosphärenreservats",
+      "example_en": "Serra da Estrela joins UNESCO Biosphere Reserve"
+    },
+    {
+      "pt": "o estupefaciente",
+      "de": "die Betäubungsmittel (Pl.)",
+      "en": "narcotics, drugs",
+      "example": "Detido por tráfico de estupefacientes na Baixa de Coimbra",
+      "example_de": "Wegen Drogenhandels in der Baixa von Coimbra festgenommen",
+      "example_en": "Arrested for drug trafficking in downtown Coimbra"
+    },
+    {
+      "pt": "o tarefeiro",
+      "de": "der Zeitarbeitsarzt",
+      "en": "locum/contract doctor",
+      "example": "Diploma regula contratação de médicos tarefeiros",
+      "example_de": "Diplom regelt die Einstellung von Zeitarbeitsärzten",
+      "example_en": "Decree regulates hiring of locum doctors"
+    },
+    {
+      "pt": "a ourivesaria",
+      "de": "das Goldschmiedegewerbe, der Juwelierladen",
+      "en": "jewelry shop, goldsmith",
+      "example": "Antigo jogador condenado por assalto a ourivesaria",
+      "example_de": "Ehemaliger Spieler wegen Überfalls auf Juwelierladen verurteilt",
+      "example_en": "Former player convicted of jewelry store robbery"
+    },
+    {
+      "pt": "a contratação",
+      "de": "die Einstellung, der Vertragsschluss",
+      "en": "the hiring, contracting",
+      "example": "Diploma regula contratação de médicos tarefeiros",
+      "example_de": "Diplom regelt die Einstellung von Zeitarbeitsärzten",
+      "example_en": "Decree regulates hiring of locum doctors"
+    },
+    {
+      "pt": "criopreservado",
+      "de": "kryokonserviert, tiefgefroren",
+      "en": "cryopreserved",
+      "example": "A tíbia foi previamente criopreservada num banco de ossos",
+      "example_de": "Das Schienbein wurde zuvor in einer Knochenbank kryokonserviert",
+      "example_en": "The tibia was previously cryopreserved in a bone bank"
+    },
+    {
+      "pt": "a aprovação",
+      "de": "die Genehmigung, die Zustimmung",
+      "en": "the approval",
+      "example": "A aprovação da candidatura da Serra da Estrela pela UNESCO",
+      "example_de": "Die Genehmigung der Bewerbung der Serra da Estrela durch die UNESCO",
+      "example_en": "The approval of the Serra da Estrela candidacy by UNESCO"
+    },
+    {
+      "pt": "a dadora",
+      "de": "die Spenderin",
+      "en": "the female donor",
+      "example": "O osso pertencia a uma dadora de 57 anos",
+      "example_de": "Der Knochen stammte von einer 57-jährigen Spenderin",
+      "example_en": "The bone came from a 57-year-old female donor"
+    },
+    {
+      "pt": "a abrangência",
+      "de": "die Reichweite, der Geltungsbereich",
+      "en": "the scope, coverage",
+      "example": "Diploma com abrangência nacional regula médicos tarefeiros",
+      "example_de": "Diplom mit nationaler Reichweite regelt Zeitarbeitsärzte",
+      "example_en": "Decree with national scope regulates locum doctors"
+    }
   ]
 }
