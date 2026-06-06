@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA & NAÇÃO",
+      "stories": [
+        {
+          "headline": "10 de Junho: Seguro e Montenegro comemoram Dia de Portugal juntos",
+          "text": "O Presidente da República e o primeiro-ministro vão comemorar pela primeira vez juntos o Dia de Portugal. O programa arranca no Luxemburgo no fim de semana, antes de rumarem à ilha Terceira, nos Açores."
+        },
+        {
+          "headline": "Presidente pede que chamadas de atenção não sejam vistas como críticas",
+          "text": "António José Seguro pediu que não se encarem todas as suas chamadas de atenção como críticas a A ou B, defendendo que o país precisa de convergir e não de legislaturas encurtadas."
+        },
+        {
+          "headline": "Governo afiança: 5.400 professores colocados em zonas de carência",
+          "text": "O Ministério da Educação anunciou que mais de 5.400 professores foram colocados nas zonas com maior carência, sendo 3.938 nas regiões de Lisboa e Setúbal. No total, foram colocados 19.172 docentes."
+        },
+        {
+          "headline": "Presidente promulga diploma sobre médicos tarefeiros",
+          "text": "Marcelo Rebelo de Sousa promulgou o diploma que regula a contratação de médicos tarefeiros, permitindo maior controlo e estabilidade na gestão dos recursos humanos do SNS."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Transplante inovador salva perna de idoso em Coimbra",
+          "text": "Um homem de 81 anos foi submetido a um transplante total da tíbia nos Hospitais da Universidade de Coimbra. A tíbia criopreservada veio de uma dadora de 57 anos e a cirurgia foi decisiva para evitar a amputação."
+        },
+        {
+          "headline": "Medicamento Tromalyt em rutura de stock até julho",
+          "text": "O Infarmed alertou que o Tromalyt (ácido acetilsalicílico 150 mg), indicado para prevenção de doenças cardiovasculares, está em rutura de stock até 31 de julho. A dispensa ficou limitada a um mês de tratamento."
+        },
+        {
+          "headline": "Portugal habituou-se ao cansaço e isso deve preocupar-nos",
+          "text": "Crónica alerta para a normalização do cansaço crónico em Portugal, sublinhando que a sociedade se habituou a viver em estado permanente de exaustão."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PSP detém cinco homens em Coimbra em menos de 48 horas",
+          "text": "Cinco homens foram detidos pela PSP entre 3 e 5 de junho. O caso mais recente: um homem de 23 anos com 19 doses de haxixe e 75 euros em numerário na Baixa. Dois outros detidos conduziam com álcool acima do limite."
+        },
+        {
+          "headline": "Adolescente aponta faca a colega junto à escola em Soure",
+          "text": "Um aluno do 11.º ano da Escola Secundária Martinho Árias ameaçou um colega com arma branca junto à paragem de autocarro. A escola comunicou o caso às autoridades."
+        },
+        {
+          "headline": "Ladrões de luxo roubam café em Coimbra: não eram assaltados há 34 anos",
+          "text": "O Café São José, no Centro Comercial GiraSolum, foi assaltado entre as 3 e as 5 da madrugada. Os ladrões roubaram e beberam uma garrafa de Whisky. O estabelecimento não era assaltado há 34 anos."
+        },
+        {
+          "headline": "Máquinas de contar notas e quilos de coca: o tesouro dos traficantes",
+          "text": "Autoridades revelaram detalhes de uma grande operação contra o narcotráfico, com apreensão de máquinas de contar dinheiro, ouro e quilos de cocaína."
+        },
+        {
+          "headline": "Ex-jogador da Figueira da Foz e do PSG condenado por assalto a ourivesaria",
+          "text": "Um antigo jogador de futebol que passou pelo clube da Figueira da Foz e pelo PSG foi condenado por assalto a ourivesaria."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Metade dos carros na Baixa não precisava de passar por lá",
+          "text": "Estudo sobre reorganização do trânsito concluiu que metade das pessoas que andam de carro na Baixa de Coimbra não precisava de passar por ali e teria trajetos mais curtos. Com o metrobus, a Rua da Sofia fica reservada a transporte coletivo."
+        },
+        {
+          "headline": "Estudos sobre expansão do Metrobus avançam este ano",
+          "text": "Os estudos de expansão do Sistema de Mobilidade do Mondego até Condeixa-a-Nova, Cantanhede e Mealhada vão arrancar ainda este ano, revelou o novo presidente da Metro Mondego."
+        },
+        {
+          "headline": "Coimbra recebe festival internacional de rockabilly",
+          "text": "O festival Action Packed regressa a Coimbra nos dias 17 e 18 de setembro, com estreias mundiais de bandas como Ike & The Capers e Mischief, DJ sets e exposição de fotografia no Teatrão."
+        },
+        {
+          "headline": "Serenatas regressam às ruas de Coimbra",
+          "text": "Coimbra volta a ouvir as serenatas que ecoavam nas ruas muito antes da tradição académica, numa iniciativa que revive a música e a poesia das noites da cidade."
+        },
+        {
+          "headline": "Góis promove projeto comunitário entre gerações",
+          "text": "O projeto Ecos do Passado reúne participantes de diferentes gerações em torno da preservação dos saberes tradicionais e da valorização do património cultural local em Góis."
+        },
+        {
+          "headline": "Abrunhosa faz transbordo a meio da sessão da CMC para reunião com SMTUC",
+          "text": "A presidente da Câmara de Coimbra saiu a meio de uma sessão pública sobre a Rua da Sofia para reunir com os SMTUC, discutindo a mobilidade e o futuro do metrobus."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & CUSTO DE VIDA",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar volta a subir: produtos subiram até 28%",
+          "text": "O cabaz essencial monitorizado pela Deco Proteste subiu 1,97 euros para 259,31 euros. Atum posta (+28%), farinha para bolos (+17%) e massa esparguete (+16%) foram os maiores aumentos na última semana."
+        },
+        {
+          "headline": "Arrendar casa em Coimbra ficou 4% mais caro num ano",
+          "text": "Os preços de arrendamento em Portugal desceram 2,7% em abril face ao ano anterior, mas Coimbra está entre as cidades onde a oferta de casas para arrendar mais caiu, pressionando os preços para cima."
+        },
+        {
+          "headline": "Crédito ao consumo dispara 13,6%",
+          "text": "Os consumidores contrataram 881,1 milhões de euros em crédito ao consumo em abril, numa subida homóloga de 13,6%. O crédito pessoal foi o que mais disparou, com taxa de 16,7%."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO & CULTURA",
+      "stories": [
+        {
+          "headline": "Serra da Estrela integra Reserva da Biosfera da UNESCO",
+          "text": "A Serra da Estrela foi aprovada como Reserva da Biosfera da UNESCO, juntando-se ao Geopark Global já existente. Portugal passa a ter 14 Reservas da Biosfera. Os dois estatutos serão geridos de forma integrada."
+        },
+        {
+          "headline": "Peregrinação termina em tragédia: duas portuguesas graves em Santiago",
+          "text": "Duas peregrinas portuguesas ficaram em estado grave após atropelamento em Santiago de Compostela. Um condutor de idade avançada terá perdido o controlo da viatura, embatendo no passeio e colidindo com um semáforo."
+        },
+        {
+          "headline": "Morreu Djosinha, lenda da música cabo-verdiana",
+          "text": "O cantor cabo-verdiano Djosinha morreu aos 92 anos na ilha de São Vicente, deixando mais de 74 anos de carreira. O Presidente de Cabo Verde classificou-o como uma lenda da música e cultura cabo-verdiana."
+        },
+        {
+          "headline": "Afinal, os vizinhos podem fazer barulho até às 23:00?",
+          "text": "A ideia de que se pode fazer qualquer nível de ruído até às 23:00 não tem respaldo na lei. Embora corresponda ao horário diurno, continuam a existir limites para proteger a tranquilidade da vizinhança."
+        }
+      ]
+    }
+  ]
+}
