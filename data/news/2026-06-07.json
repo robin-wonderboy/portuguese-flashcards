@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎭",
+      "category": "FESTAS & TRADIÇÃO",
+      "stories": [
+        {
+          "headline": "Marcha Infantil de Cernache pronta para os Santos Populares",
+          "text": "Os pequenos representantes de Cernache mostram o resultado de meses de preparação. Entre música, dança e boa disposição, a marcha infantil promete arrancar muitos aplausos."
+        },
+        {
+          "headline": "Vila Nova já desfila nas Marchas Populares de Coimbra",
+          "text": "Pequenos na idade, gigantes na energia. A Marcha Infantil São João de Vila Nova entrou em cena com muita animação e dedicação dos marchantes."
+        },
+        {
+          "headline": "Primeiras imagens das Marchas mostram cidade em festa",
+          "text": "Da Rua da Sofia à Praça 8 de Maio, os grupos começam a desfilar com figurinos cuidados e coreografias ensaiadas. Muito público nas ruas para um dos momentos mais esperados do ano em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "SEGURANÇA & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Casal atropelado: mulher morre, homem grave",
+          "text": "Uma mulher de 28 anos morreu e um homem ficou em estado grave após atropelamento na rua dos Bombeiros Voluntários de Albufeira, pouco depois da meia-noite. Cerca de 15 operacionais entre bombeiros, INEM e Cruz Vermelha foram mobilizados."
+        },
+        {
+          "headline": "Helicóptero transporta ferido grave após acidente em Sabrosa",
+          "text": "Um motociclista ficou gravemente ferido e foi helitransportado para o Hospital de Vila Real após embater contra um automóvel em Sabrosa, na freguesia de S. Martinho de Antas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Metade dos carros na Baixa não precisava de passar por lá",
+          "text": "Estudo sobre reorganização do trânsito concluiu que metade das pessoas que andam de carro na Baixa de Coimbra não precisava de passar por ali e teria trajetos mais curtos. Com o metrobus, a Rua da Sofia fica reservada a transporte coletivo."
+        },
+        {
+          "headline": "Novos Mercedes GLE estreiam-se em Portugal",
+          "text": "Após a estreia mundial em Alabama, os novos Mercedes-Benz GLE e GLS estão disponíveis para encomenda em Portugal, com motores modernos de seis cilindros e mais tecnologia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "CUSTO DE VIDA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra entre cidades onde preço das casas mais disparou",
+          "text": "Os preços das casas em Portugal subiram 10,2% em maio face ao ano anterior, atingindo um novo máximo histórico de 3.142 €/m² pelo sétimo mês consecutivo. Coimbra está entre as cidades com maiores subidas."
+        },
+        {
+          "headline": "Vizinhos podem fazer barulho até às 23:00? Nem tanto",
+          "text": "A ideia de que se pode fazer qualquer nível de ruído até às 23:00 não tem respaldo na legislação portuguesa. Embora corresponda ao horário diurno, continuam a existir limites para proteger a tranquilidade da vizinhança."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Transplante inovador salva perna de idoso em Coimbra",
+          "text": "Um homem de 81 anos foi submetido a um transplante total da tíbia nos Hospitais da Universidade de Coimbra. A cirurgia, realizada há cerca de dois meses e meio, foi decisiva para evitar a amputação do membro inferior."
+        }
+      ]
+    },
+    {
+      "emoji": "📞",
+      "category": "DIREITOS & CONSUMIDOR",
+      "stories": [
+        {
+          "headline": "Chamadas de spam? Há uma frase que pode fazê-las parar",
+          "text": "As chamadas de publicidade não solicitadas continuam a ser uma das principais fontes de incómodo em Portugal. Operadoras, seguradoras e empresas de crédito recorrem ao contacto telefónico sem que o destinatário o tenha solicitado. Existe uma forma de as fazer parar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "ECONOMIA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Medida para destravar heranças levanta alerta para mais litígios",
+          "text": "A proposta do Governo para desbloquear a venda de imóveis das heranças indivisas reforça os poderes do testamenteiro. O bastonário da Ordem dos Notários alertou que, sem regulamentação, os litígios podem aumentar."
+        },
+        {
+          "headline": "Ajustamentos à produção de petróleo em avaliação pela OPEP+",
+          "text": "A OPEP+, que integra 21 países produtores, vai avaliar eventuais ajustamentos aos níveis de produção, com o mercado afetado pelo bloqueio do estreito de Ormuz."
+        },
+        {
+          "headline": "Água é prioridade: ministra anuncia novos investimentos",
+          "text": "A ministra do Ambiente destacou a água como o maior exemplo da articulação entre agricultura e ambiente, apontando investimentos em curso e o reforço da capacidade de rega como prioridades do Governo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "EPTOLIVA abre inscrições para o próximo ano letivo",
+          "text": "A Escola Profissional de Oliveira do Hospital, Tábua e Arganil tem abertas as inscrições para 2026/2027, com ampla oferta de cursos profissionais em Oliveira do Hospital e Tábua."
+        }
+      ]
+    },
+    {
+      "emoji": "🏟️",
+      "category": "DESPORTO & MUNDO",
+      "stories": [
+        {
+          "headline": "Portugal não convence contra Chile no primeiro teste para o Mundial",
+          "text": ""
+        },
+        {
+          "headline": "Meio milhão de pessoas em celebração em Madrid",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
