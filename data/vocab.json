@@ -16278,5 +16278,95 @@
       "pt": "o produtor",
       "de": "der Produzent, der Erzeuger"
     }
+  ],
+  "2026-06-08": [
+    {
+      "pt": "o aquecimento",
+      "de": "die Erwärmung",
+      "en": "the warming/heating up",
+      "example": "O aquecimento vai ser sério esta semana",
+      "example_de": "Die Erwärmung wird diese Woche ernst",
+      "example_en": "The warming will be serious this week"
+    },
+    {
+      "pt": "esfaqueado",
+      "de": "erstochen worden",
+      "en": "stabbed",
+      "example": "5 pessoas esfaqueadas em Nova Iorque",
+      "example_de": "5 Personen in New York erstochen worden",
+      "example_en": "5 people stabbed in New York"
+    },
+    {
+      "pt": "o emigrante",
+      "de": "der Auswanderer",
+      "en": "emigrant/expat",
+      "example": "Apelam ao regresso de emigrantes",
+      "example_de": "Sie rufen Auswanderer zur Rückkehr auf",
+      "example_en": "They call emigrants to return"
+    },
+    {
+      "pt": "o desperdício",
+      "de": "die Verschwendung",
+      "en": "waste",
+      "example": "Doação de alimentos combate desperdício",
+      "example_de": "Lebensmittelspende bekämpft Verschwendung",
+      "example_en": "Food donation fights waste"
+    },
+    {
+      "pt": "o homicida",
+      "de": "der Mörder",
+      "en": "murderer/killer",
+      "example": "Interpol à procura dos homicidas",
+      "example_de": "Interpol auf der Suche nach den Mördern",
+      "example_en": "Interpol searching for the killers"
+    },
+    {
+      "pt": "o apelo",
+      "de": "der Aufruf/Appell",
+      "en": "appeal/call",
+      "example": "Pai lança apelo desesperado",
+      "example_de": "Vater startet verzweifelten Aufruf",
+      "example_en": "Father launches desperate appeal"
+    },
+    {
+      "pt": "o ferroviário",
+      "de": "Eisenbahn-",
+      "en": "railway/railroad",
+      "example": "5 pessoas esfaqueadas em estação ferroviária",
+      "example_de": "5 Personen in einem Bahnhof erstochen",
+      "example_en": "5 people stabbed in railway station"
+    },
+    {
+      "pt": "o empreendimento",
+      "de": "das Unternehmen/Unternehmung",
+      "en": "business venture/enterprise",
+      "example": "Empresário de luxo do Algarve",
+      "example_de": "Luxusunternehmer aus dem Algarve",
+      "example_en": "Luxury businessman from the Algarve"
+    },
+    {
+      "pt": "localizar",
+      "de": "auffinden/lokalisieren",
+      "en": "to locate/find",
+      "example": "Autoridades localizam corpo de homem desaparecido",
+      "example_de": "Behörden finden den Körper eines Vermissten",
+      "example_en": "Authorities locate body of missing man"
+    },
+    {
+      "pt": "suspenso",
+      "de": "suspendiert/ausgesetzt",
+      "en": "suspended",
+      "example": "O agente que espancou está suspenso",
+      "example_de": "Der Beamte der verprügelt hat ist suspendiert",
+      "example_en": "The officer who beat up is suspended"
+    },
+    {
+      "pt": "o emagrecimento",
+      "de": "die Gewichtsabnahme/Abnehmen",
+      "en": "weight loss/slimming",
+      "example": "Jantar só sopa faz emagrecer?",
+      "example_de": "Abends nur Suppe macht schlank?",
+      "example_en": "Eating only soup for dinner makes you lose weight?"
+    }
   ]
 }
