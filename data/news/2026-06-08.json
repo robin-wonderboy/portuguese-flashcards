@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Portugal vai aquecer a sério e há um dia que pode chegar aos 40ºC",
+          "text": "Uma onda de calor intensa aproxima-se de Portugal, com previsões a apontar para temperaturas que podem atingir os 40ºC ainda esta semana. Vários concelhos do distrito de Coimbra estão também em alerta vermelho de perigo muito elevado de incêndio."
+        },
+        {
+          "headline": "Vários concelhos de Coimbra com perigo muito elevado de incêndio",
+          "text": "O IPMA colocou vários concelhos do distrito de Coimbra em alerta de perigo muito elevado de incêndio florestal, devido às altas temperaturas e baixa humidade previstas para os próximos dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Marchas Populares de Santo António dos Olivais - noite de festa",
+          "text": "As Marchas Populares de Santo António dos Olivais encheram a cidade de cor e animação. Quem não pôde estar lá já pode ver ou rever o espetáculo online. A presidente da marcha anfitriã garantiu um ambiente contagiante."
+        },
+        {
+          "headline": "Figueira da Foz em contagem decrescente para o São João",
+          "text": "Figueira da Foz prepara-se para entrar em modo festa com o São João. A cidade promete noites de celebração com música, bailaricos e as tradicionais sardinhadas."
+        },
+        {
+          "headline": "Cantanhede recebe feira cheia de petiscos e artesanato",
+          "text": "O concelho de Cantanhede acolhe uma feira dedicada a petiscos regionais e artesanato local, uma oportunidade para descobrir sabores e tradições da região."
+        },
+        {
+          "headline": "A rota do ouro branco que revela a Figueira da Foz",
+          "text": "Uma rota turística dedicada ao sal - o ouro branco da Figueira da Foz - permite descobrir a cidade de uma perspetiva única, entre salinas e história."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Agente que espancou pai e filho nos festejos do Benfica está suspenso",
+          "text": "O polícia que foi filmado a espancar um pai e um filho durante os festejos do campeonato do Benfica foi suspenso de funções. O caso gerou enorme repercussão pública."
+        },
+        {
+          "headline": "Fernando Valente à beira da prisão - destino decide-se em breve",
+          "text": "O ex-diretor-geral da Saúde, Fernando Valente, aguarda decisão judicial que pode levar à prisão. O caso relaciona-se com irregularidades na gestão dos meios complementares de diagnóstico."
+        },
+        {
+          "headline": "Interpol à procura dos homicidas do empresário de luxo do Algarve",
+          "text": "A Interpol emitiu mandados de captura internacional para dois suspeitos do homicídio do empresário de luxo do Algarve. As autoridades portuguesas pediram cooperação internacional para localizar os fugitivos."
+        },
+        {
+          "headline": "Assaltado à mão armada e fica sem Rolex de luxo",
+          "text": "Um homem foi assaltado à mão armada e roubado de um relógio Rolex de luxo, num crime violento que tem levantado preocupações sobre a segurança na região."
+        },
+        {
+          "headline": "Pai de irmãos abandonados lança apelo desesperado",
+          "text": "O pai de dois irmãos abandonados em Portugal, no meio da rua pela mãe, lançou um apelo desesperado, classificando o caso como dramático."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "Homem gravemente ferido após queda em trilho de BTT em Tábua",
+          "text": "Um homem ficou gravemente ferido após cair num trilho de BTT (bicicleta todo-o-terreno) em Tábua, necessitando de transporte hospitalar."
+        },
+        {
+          "headline": "Família e bebé feridos após carro embater em árvore na EN111",
+          "text": "Um violento despiste na EN111 na zona de Tentúgal deixou cinco feridos, incluindo um bebé. O carro saiu da estrada e embateu contra uma árvore."
+        },
+        {
+          "headline": "Passeio de casal termina em morte - mulher colhida fatalmente",
+          "text": "Um passeio de casal terminou em tragédia quando a mulher foi colhida fatalmente por um carro, num acidente que chocou a comunidade local."
+        },
+        {
+          "headline": "Mota despista-se e vítima tem morte imediata",
+          "text": "Um motociclista perdeu a vida após a moto se despistar. A vítima sofreu morte imediata no local do acidente."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Papa Leão XIV vai fazer discurso inédito no parlamento espanhol",
+          "text": "O Papa Leão XIV, em visita a Espanha, vai fazer um discurso inédito no parlamento espanhol, num momento histórico para as relações entre a Igreja e o Estado."
+        },
+        {
+          "headline": "5 pessoas esfaqueadas em estação ferroviária de Nova Iorque",
+          "text": "Cinco pessoas foram esfaqueadas numa estação ferroviária de Nova Iorque, num ataque que levou a uma grande operação policial."
+        },
+        {
+          "headline": "Um morto e quatro feridos em sismo nas Filipinas",
+          "text": "Um sismo nas Filipinas causou a morte de uma pessoa e deixou quatro feridos, com danos significativos em edifícios e infraestruturas."
+        },
+        {
+          "headline": "Menor portuguesa desaparecida em Paris já localizada",
+          "text": "A menor portuguesa que tinha desaparecido em Paris já foi localizada e encontra-se bem de saúde, de acordo com as autoridades."
+        },
+        {
+          "headline": "Trump defende ataques mais cirúrgicos contra o Hezbollah",
+          "text": "Donald Trump defendeu que os ataques contra o Hezbollah deveriam ser mais cirúrgicos, num comentário sobre a escalada de tensão no Médio Oriente."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "10 de Junho: António José Seguro e Montenegro apelam ao regresso de emigrantes",
+          "text": "No Dia de Portugal, António José Seguro e Luís Montenegro apelaram ao regresso dos emigrantes e lusodescendentes, sublinhando a importância da diáspora portuguesa."
+        },
+        {
+          "headline": "Aplicação gov.pt já disponibiliza passe ferroviário verde",
+          "text": "A aplicação gov.pt passou a disponibilizar o passe ferroviário verde, facilitando o acesso ao transporte público mais ecológico em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Transplante inovador salva perna de idoso em Coimbra",
+          "text": "Um transplante inovador realizado nos Hospitais da Universidade de Coimbra permitiu salvar a perna de um idoso, evitando a amputação e marcando um avanço na cirurgia vascular."
+        },
+        {
+          "headline": "Medicamento para doenças cardiovasculares em rutura de stock",
+          "text": "Um medicamento essencial para a prevenção de doenças cardiovasculares está em rutura de stock, causando preocupação entre doentes e profissionais de saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Susto em campo: Eriksen cai inanimado e jogo é interrompido",
+          "text": "O jogador Christian Eriksen caiu inanimado em campo durante um jogo, provocando um grande susto. O jogo foi imediatamente interrompido e o jogador recebeu assistência médica."
+        },
+        {
+          "headline": "Kimi Antonelli vence no Mónaco e reforça liderança na F1",
+          "text": "O jovem piloto Kimi Antonelli venceu o Grande Prémio do Mónaco e reforçou a sua liderança no Campeonato Mundial de Fórmula 1."
+        },
+        {
+          "headline": "Portugal não convence contra Chile",
+          "text": "A seleção portuguesa não convenceu no primeiro teste frente ao Chile, num jogo de preparação para a final do Mundial 2026."
+        }
+      ]
+    },
+    {
+      "emoji": "💶",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar mais caro - produtos que subiram até 28%",
+          "text": "O cabaz alimentar voltou a ficar mais caro, com alguns produtos a registar subidas de até 28% numa única semana, agravando o custo de vida para as famílias portuguesas."
+        },
+        {
+          "headline": "Crédito ao consumo dispara e especialistas preocupados",
+          "text": "O crédito ao consumo disparou em Portugal, com um dado que preocupa os especialistas: o endividamento das famílias continua a crescer de forma insustentável."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "GNR investiga ameaças com arma branca junto a escola em Soure",
+          "text": "A GNR está a investigar ameaças feitas com arma branca nas imediações de uma escola em Soure, um caso que tem alarmado a comunidade escolar."
+        },
+        {
+          "headline": "Professor da UC eleito para órgão europeu de Biomedicina",
+          "text": "Um professor da Universidade de Coimbra foi eleito para um órgão europeu de formação doutoral em Biomedicina, reconhecendo a qualidade da investigação feita em Coimbra."
+        }
+      ]
+    }
+  ]
+}
