@@ -16368,5 +16368,111 @@
       "example_de": "Abends nur Suppe macht schlank?",
       "example_en": "Eating only soup for dinner makes you lose weight?"
     }
+  ],
+  "2026-06-09": [
+    {
+      "pt": "abrasador",
+      "de": "sengend",
+      "en": "scorching",
+      "example": "Calor abrasador ameaça ferver o país.",
+      "example_de": "Sengende Hitze droht das Land zum Kochen zu bringen.",
+      "example_en": "Scorching heat threatens to boil the country."
+    },
+    {
+      "pt": "invisual",
+      "de": "blind",
+      "en": "visually impaired/blind",
+      "example": "O fadista invisual de Montemor-o-Velho.",
+      "example_de": "Der blinde Fado-Sänger aus Montemor-o-Velho.",
+      "example_en": "The blind fado singer from Montemor-o-Velho."
+    },
+    {
+      "pt": "arrepia",
+      "de": "Gänsehaut",
+      "en": "gives goosebumps",
+      "example": "O fadista que arrepia qualquer um que o ouça.",
+      "example_de": "Der Fado-Sänger, der jedem Gänsehaut verleiht, der ihn hört.",
+      "example_en": "The fado singer who gives goosebumps to anyone who hears him."
+    },
+    {
+      "pt": "o acelerador",
+      "de": "der Beschleuniger",
+      "en": "the accelerator",
+      "example": "Portugal integra rede de aceleradores da NATO DIANA.",
+      "example_de": "Portugal integriert Netz von Beschleunigern der NATO DIANA.",
+      "example_en": "Portugal joins the NATO DIANA accelerator network."
+    },
+    {
+      "pt": "a decomposição",
+      "de": "die Verwesung",
+      "en": "decomposition",
+      "example": "Corpo em decomposição encontrado no mato.",
+      "example_de": "Leichnam in Verwesung im Gestrüpp gefunden.",
+      "example_en": "Decomposing body found in the brush."
+    },
+    {
+      "pt": "o telefonema",
+      "de": "der Anruf",
+      "en": "the phone call",
+      "example": "Faz telefonema falso para o 112 e acaba detido.",
+      "example_de": "Macht einen falschen Anruf bei der 112 und wird verhaftet.",
+      "example_en": "Makes a fake call to 112 and ends up arrested."
+    },
+    {
+      "pt": "o terremoto",
+      "de": "das Erdbeben",
+      "en": "the earthquake",
+      "example": "Terremoto de 6,1 atinge águas ao largo de Cuba.",
+      "example_de": "Erdbeben der Stärke 6,1 trifft Gewässer vor Kuba.",
+      "example_en": "6.1 earthquake strikes waters off Cuba."
+    },
+    {
+      "pt": "abalar",
+      "de": "erschüttern",
+      "en": "to shake/rattle",
+      "example": "Terremoto abala edifícios em Havana.",
+      "example_de": "Erdbeben erschüttert Gebäude in Havanna.",
+      "example_en": "Earthquake shakes buildings in Havana."
+    },
+    {
+      "pt": "a canoagem",
+      "de": "das Kanufahren",
+      "en": "canoeing/kayaking",
+      "example": "Montemor-o-Velho recebe o maior Europeu de Canoagem.",
+      "example_de": "Montemor-o-Velho empfängt die größte Kanu-Europameisterschaft.",
+      "example_en": "Montemor-o-Velho hosts the largest European Canoeing Championship."
+    },
+    {
+      "pt": "o nascimento",
+      "de": "die Geburt",
+      "en": "the birth",
+      "example": "Portugal volta a crescer nos nascimentos.",
+      "example_de": "Portugal wächst wieder bei den Geburten.",
+      "example_en": "Portugal is growing again in births."
+    },
+    {
+      "pt": "a prova",
+      "de": "die Prüfung",
+      "en": "the exam/test",
+      "example": "52% dos alunos do 6.o ano realizam prova a Português.",
+      "example_de": "52% der Schüler der 6. Klasse machen die Prüfung in Portugiesisch.",
+      "example_en": "52% of 6th-grade students take the Portuguese exam."
+    },
+    {
+      "pt": "esquecer",
+      "de": "vergessen",
+      "en": "to forget",
+      "example": "A dieta é para esquecer no próximo fim de semana.",
+      "example_de": "Die Diät ist am nächsten Wochenende zu vergessen.",
+      "example_en": "The diet is to be forgotten next weekend."
+    },
+    {
+      "pt": "o litoral",
+      "de": "die Küste",
+      "en": "the coast",
+      "example": "Do litoral ao interior ninguém escapa.",
+      "example_de": "Von der Küste bis ins Hinterland entkommt niemand.",
+      "example_en": "From the coast to the interior, no one escapes."
+    }
   ]
 }
