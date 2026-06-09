@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Onda de calor abrasador ameaça ferver o país a partir de quarta",
+          "text": "Uma massa de ar quente de origem subtropical deverá provocar uma subida significativa das temperaturas em Portugal Continental a partir de 10 de junho. Do litoral ao interior, alguns termómetros podem aproximar-se dos 40 ºC."
+        },
+        {
+          "headline": "Exposição ao sol pode ser perigosa nos próximos dias",
+          "text": "Com a chegada da onda de calor, as autoridades alertam para os riscos da exposição solar prolongada, especialmente durante as horas de maior incidência."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Concelhos de Coimbra sob risco muito elevado de incêndio",
+          "text": "Vários concelhos do distrito de Coimbra estão sob risco muito elevado de incêndio florestal nas próximas horas devido às altas temperaturas e baixa humidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Descoberta macabra em Arazede - PJ investiga corpo em decomposição",
+          "text": "Um corpo em estado de decomposição foi encontrado no meio do mato em Arazede. A Polícia Judiciária está a investigar as circunstâncias da morte."
+        },
+        {
+          "headline": "Quatro mulheres detidas com documentos falsos no aeroporto",
+          "text": ""
+        },
+        {
+          "headline": "Falso telefonema para o 112 acaba em detenção",
+          "text": ""
+        },
+        {
+          "headline": "Estrela de talento televisivo condenado por crimes graves contra menores",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚑",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "Despiste de motociclo faz um ferido grave em Montemor-o-Velho",
+          "text": ""
+        },
+        {
+          "headline": "Viatura despista-se violentamente e provoca vítima mortal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Feira das Freguesias em Arganil - a dieta é para esquecer!",
+          "text": "A 19ª Feira das Freguesias em Arganil celebra a gastronomia e cultura do concelho neste fim de semana. A dieta fica para a semana."
+        },
+        {
+          "headline": "O fadista invisual de Montemor-o-Velho que arrepia qualquer um",
+          "text": "Um fadista visualmente impedido de Montemor-o-Velho está a conquistar públicos com interpretações que dão goosebumps a quem o ouve."
+        },
+        {
+          "headline": "Grande festa em Anadia com Fernando Daniel, Ana Moura e José Cid",
+          "text": ""
+        },
+        {
+          "headline": "Dezenas de variedades para provar em Febres, Cantanhede",
+          "text": "Evento que já é tradição em Febres oferece dezenas de variedades para provar."
+        },
+        {
+          "headline": "Águas cristalinas - os melhores refúgios de verão no Centro de Portugal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "GNR de Coimbra fez anos e Tábua transformou-se no quartel-general",
+          "text": "A GNR de Coimbra celebrou o seu aniversário e a vila da Tábua serviu de quartel-general para as comemorações durante alguns dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Dia de Portugal - Presidente da República inicia comemorações nos Açores",
+          "text": "O Presidente da República deu início às comemorações do Dia de Portugal na Ilha Terceira, nos Açores."
+        },
+        {
+          "headline": "Ex-ministra justifica demissão com perda de autoridade",
+          "text": "A ex-ministra da Administração Interna justificou a sua demissão com a perda de autoridade política."
+        },
+        {
+          "headline": "Marcelo avisa: não se pode correr atrás do prejuízo na IA",
+          "text": "O Presidente Marcelo Rebelo de Sousa alertou que Portugal não pode continuar a correr atrás do prejuízo na inteligência artificial."
+        },
+        {
+          "headline": "Socialistas pedem suspensão de eleições no PS Coimbra",
+          "text": "Membros do PS pedem a Carneiro que suspenda as eleições internas em Coimbra e apontam ilegalidades no processo."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Portugal abre caminho a testes de carros autónomos já no próximo mês",
+          "text": "Portugal vai permitir testes de veículos autónomos nas estradas a partir de julho, abrindo caminho à inovação no setor da mobilidade."
+        },
+        {
+          "headline": "Novo Código da Estrada traz mudanças para os condutores",
+          "text": ""
+        },
+        {
+          "headline": "Governo quer mais ruas a 30 km/h em todo o país",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Infarmed bloqueia saída de medicamentos essenciais para garantir stock",
+          "text": "O Infarmed bloqueou a exportação de dezenas de medicamentos essenciais para garantir o abastecimento interno do país."
+        },
+        {
+          "headline": "É possível ser alérgico ao exercício físico?",
+          "text": "Uma condição rara pode causar reações graves associadas ao exercício físico, surpreendendo muitos doentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "52% dos alunos do 6.º ano realizam prova a Português",
+          "text": "Mais de metade dos alunos do 6.º ano realizam hoje a prova de Português no âmbito das avaliações nacionais."
+        },
+        {
+          "headline": "Docentes receiam impacto das obras na escola Fernando Namora",
+          "text": "Professores da escola secundária Fernando Namora em Condeixa manifestam preocupação com o impacto das obras de reabilitação."
+        }
+      ]
+    },
+    {
+      "emoji": "🛡️",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Portugal integra rede de aceleradores da NATO DIANA",
+          "text": ""
+        },
+        {
+          "headline": "Terremoto de 6,1 abala edifícios em Havana",
+          "text": "Um sismo de magnitude 6,1 atingiu águas ao largo de Cuba, abalando edifícios em Havana e espalhando pânico entre a população."
+        },
+        {
+          "headline": "Ucrânia - ONU alerta que conflito se está a intensificar",
+          "text": ""
+        },
+        {
+          "headline": "Líbano pede a Israel para poupar património de Tiro",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏅",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Montemor-o-Velho recebe quase 600 atletas no maior Europeu de Canoagem",
+          "text": "O maior Campeonato Europeu de Canoagem de sempre está a decorrer em Montemor-o-Velho com quase 600 atletas."
+        },
+        {
+          "headline": "Atleta de Soure representa Portugal na Taça do Mundo de Águas Abertas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "UE liberta novo financiamento de 28 mil milhões para a Ucrânia",
+          "text": ""
+        },
+        {
+          "headline": "Intermarché associa-se ao Rock in Rio Lisboa com campanha Eu Vou",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
