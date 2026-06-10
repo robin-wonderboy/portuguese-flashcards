@@ -16474,5 +16474,87 @@
       "example_de": "Von der Küste bis ins Hinterland entkommt niemand.",
       "example_en": "From the coast to the interior, no one escapes."
     }
+  ],
+  "2026-06-10": [
+    {
+      "pt": "a floresta",
+      "de": "der Wald",
+      "en": "the forest"
+    },
+    {
+      "pt": "o larápio",
+      "de": "der Langfinger/Dieb",
+      "en": "the petty thief"
+    },
+    {
+      "pt": "faturar",
+      "de": "Umsatz machen/einkassieren",
+      "en": "to rake in/earn"
+    },
+    {
+      "pt": "incontornável",
+      "de": "unumgänglich",
+      "en": "unavoidable/must-see"
+    },
+    {
+      "pt": "a escavação",
+      "de": "die Ausgrabung",
+      "en": "the excavation"
+    },
+    {
+      "pt": "à mercê de",
+      "de": "auf Gnade und Ungnade",
+      "en": "at the mercy of"
+    },
+    {
+      "pt": "o tacógrafo",
+      "de": "der Fahrtenschreiber",
+      "en": "the tachograph"
+    },
+    {
+      "pt": "o barulho",
+      "de": "der Lärm",
+      "en": "the noise"
+    },
+    {
+      "pt": "ressuscitar",
+      "de": "wiederbeleben/auferstehen lassen",
+      "en": "to revive/resurrect"
+    },
+    {
+      "pt": "a lição",
+      "de": "die Lektion",
+      "en": "the lesson"
+    },
+    {
+      "pt": "o vizinho",
+      "de": "der Nachbar",
+      "en": "the neighbor"
+    },
+    {
+      "pt": "a ovelha",
+      "de": "das Schaf",
+      "en": "the sheep"
+    },
+    {
+      "pt": "o hino",
+      "de": "die Hymne",
+      "en": "the anthem"
+    },
+    {
+      "pt": "o casamento",
+      "de": "die Hochzeit",
+      "en": "the wedding"
+    },
+    {
+      "pt": "o dono",
+      "de": "der Besitzer",
+      "en": "the owner"
+    },
+    {
+      "pt": "a pique",
+      "de": "krach/sturzweise",
+      "en": "steeply/dramatically (caiu a pique)"
+    }
   ]
 }
