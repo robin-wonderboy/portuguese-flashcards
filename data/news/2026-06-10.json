@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-10",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Portugal em brasa! Calor vai castigar (a sério) e o pior ainda está por vir",
+          "text": "Portugal continental vai registar temperaturas entre 35 e 40 graus entre 10 e 13 de junho, adiantou o IPMA. Sexta-feira será o pico, com a costa a ser a única exceção."
+        },
+        {
+          "headline": "Este maio foi o 2º mais quente de sempre no mundo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & FLORESTAS",
+      "stories": [
+        {
+          "headline": "9 anos após a tragédia, Portugal continua à mercê das chamas e sem aprender a lição",
+          "text": "Nove anos depois dos incêndios devastadores de 2017, o país ainda não resolveu os problemas estruturais que tornam as florestas vulneráveis todos os verões."
+        },
+        {
+          "headline": "Coimbra corre para limpar florestas antes que seja tarde",
+          "text": "O município de Coimbra acelerou operações de limpeza florestal para reduzir o risco de incêndio antes do verão."
+        },
+        {
+          "headline": "Penela prepara-se para o verão com operação de limpeza em larga escala nas florestas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Criança liga para o 112 e finge falar com familiar para fugir de predador",
+          "text": "Uma criança ligou para o número de emergência fingindo falar com um familiar, como estratégia para escapar de um agressor. A atuação rápida das autoridades foi elogiada."
+        },
+        {
+          "headline": "ANSR aperta o cerco! Fugir às multas de trânsito vai ficar mais difícil",
+          "text": "A Autoridade Nacional de Segurança Rodoviária está a reforçar os mecanismos de fiscalização, dificultando a esquema de multas por parte dos condutores."
+        },
+        {
+          "headline": "Larápio tenta fugir e acaba no chão após ser surpreendido pelo dono da casa",
+          "text": ""
+        },
+        {
+          "headline": "Gang dos falsos SMS! Fazem-se passar por bancos e faturam um milhão",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "10 de junho: António José Seguro discursa pela primeira vez nesta data em Angra do Heroísmo",
+          "text": "O Primeiro-Ministro discursa nas comemorações do Dia de Portugal pela primeira vez nos Açores, em Angra do Heroísmo."
+        },
+        {
+          "headline": "André Ventura admite viabilizar alterações à lei laboral se Governo aceitar condições",
+          "text": ""
+        },
+        {
+          "headline": "Eleições em Coimbra é assunto de foro interno do PS, afirma José Luís Carneiro",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Vai tirar a carta de condução? Esteja atento a estas mudanças",
+          "text": "Novas regras para a obtenção da carta de condução entram em vigor, com alterações ao processo de formação e avaliação dos condutores."
+        },
+        {
+          "headline": "Passa a ser obrigatório veículos comerciais ligeiros usarem tacógrafo?",
+          "text": ""
+        },
+        {
+          "headline": "Portugal abre caminho aos testes de carros autónomos nas estradas já no próximo mês",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Pessoas internadas nos hospitais após alta clínica ultrapassam as 3.500",
+          "text": "Mais de 3.500 doentes continuam internados apesar de terem recebido alta clínica, sobrecarregando ainda mais os hospitais."
+        },
+        {
+          "headline": "Porque sentimos ansiedade? A genética pode ajudar a explicar",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Márcio Ferreira morre após carro despistar-se e cair de ravina com 40 metros",
+          "text": ""
+        },
+        {
+          "headline": "Horas de angústia! Idoso de 96 anos desaparecido",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💶",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Transporte a pedido SIT FLEXI explode e esmaga barreira das 50 mil reservas",
+          "text": "O serviço de transporte a pedido SIT FLEXI ultrapassou as 50 mil reservas, consolidando-se como alternativa de mobilidade na região."
+        },
+        {
+          "headline": "Incubadoras de Base Tecnológica do Centro apoiadas com seis milhões de euros",
+          "text": ""
+        },
+        {
+          "headline": "Está à porta um feriado obrigatório. O que significa?",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Benfica oficializa contratação de Marco Silva",
+          "text": "O Sport Lisboa e Benfica tornou oficial a contratação do treinador Marco Silva, marcando o início de uma nova era no clube."
+        },
+        {
+          "headline": "Bye Bye Mourinho!",
+          "text": ""
+        },
+        {
+          "headline": "O barbeiro português que realizou o sonho de cortar o cabelo a Cristiano Ronaldo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Novo balanço eleva para 46 mortos do sismo no sul das Filipinas",
+          "text": ""
+        },
+        {
+          "headline": "Queda de granizo destrói 892 casas e afeta mais de 3.100 pessoas em Moçambique",
+          "text": ""
+        },
+        {
+          "headline": "Arqueólogos realizam escavações sem precedentes no antigo campo nazi em França",
+          "text": ""
+        },
+        {
+          "headline": "António Costa defende mais apoios da UE para habitação acessível",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "VAMOS (CULTURA & LAZER)",
+      "stories": [
+        {
+          "headline": "3 mil ovelhas sobem à Serra da Estrela",
+          "text": "O tradicional trasumância está de volta: milhares de ovelhas fazem a subida à Serra da Estrela, num espetáculo que atrai visitantes todos os anos."
+        },
+        {
+          "headline": "De bairro em bairro até ao centro, Santos levam festa a toda a cidade",
+          "text": ""
+        },
+        {
+          "headline": "David Carreira gravou novo tema na Pampilhosa da Serra e está no Top do YouTube",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Estudantes do ISMT participam em iniciativa de inclusão através do surf na Figueira da Foz",
+          "text": ""
+        },
+        {
+          "headline": "Politécnico de Coimbra renova Selo Estudante-Atleta até 2028",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
