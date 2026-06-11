@@ -16556,5 +16556,175 @@
       "de": "krach/sturzweise",
       "en": "steeply/dramatically (caiu a pique)"
     }
+  ],
+  "2026-06-11": [
+    {
+      "pt": "deflagram",
+      "de": "brechen aus",
+      "en": "break out (fires)",
+      "example": "Chamas deflagram em Terras de Bouro",
+      "example_de": "Flammen brechen in Terras de Bouro aus",
+      "example_en": "Flames break out in Terras de Bouro"
+    },
+    {
+      "pt": "espreitar",
+      "de": "lauern",
+      "en": "to lurk, to peek",
+      "example": "O perigo espreita no vosso copo",
+      "example_de": "Die Gefahr lauert in eurem Glas",
+      "example_en": "Danger lurks in your glass"
+    },
+    {
+      "pt": "chacinar",
+      "de": "metzeln",
+      "en": "to massacre, to slaughter",
+      "example": "Chacinou casal e adolescente por engano",
+      "example_de": "Metzelte ein Paar und einen Jugendlichen irrtumlich",
+      "example_en": "Massacred a couple and teenager by mistake"
+    },
+    {
+      "pt": "o bombardeamento",
+      "de": "der Bombenangriff",
+      "en": "the bombing",
+      "example": "Irao anuncia bombardeamento de base dos EUA",
+      "example_de": "Iran kundigt Bombenangriff auf US-Basis an",
+      "example_en": "Iran announces bombing of US base"
+    },
+    {
+      "pt": "a embalagem",
+      "de": "die Verpackung",
+      "en": "the packaging, the container",
+      "example": "Devolvidas 10 milhoes de embalagens",
+      "example_de": "10 Millionen Verpackungen zuruckgegeben",
+      "example_en": "10 million containers returned"
+    },
+    {
+      "pt": "o adepto",
+      "de": "der Anhanger",
+      "en": "the fan, the supporter",
+      "example": "Um adepto morre antes do apito inicial",
+      "example_de": "Ein Anhanger stirbt vor dem Anpfiff",
+      "example_en": "A fan dies before the starting whistle"
+    },
+    {
+      "pt": "perigoso",
+      "de": "gefahrlich",
+      "en": "dangerous",
+      "example": "Concelhos de Coimbra em perigo maximo de incendio",
+      "example_de": "Landkreise von Coimbra in maximaler Brandgefahr",
+      "example_en": "Coimbra municipalities in maximum fire danger"
+    },
+    {
+      "pt": "o travao",
+      "de": "die Bremse",
+      "en": "the brake (figurative)",
+      "example": "Pacto europeu e travao a imigracao ilegal",
+      "example_de": "Europaisches Abkommen als Bremse gegen illegale Einwanderung",
+      "example_en": "European pact as a brake on illegal immigration"
+    },
+    {
+      "pt": "o voluntario",
+      "de": "der Freiwillige",
+      "en": "the volunteer",
+      "example": "O banco do leite apoia criancas ha 15 anos",
+      "example_de": "Die Muttermilchbank unterstutzt Kinder seit 15 Jahren",
+      "example_en": "The milk bank has supported children for 15 years"
+    },
+    {
+      "pt": "a sustentabilidade",
+      "de": "die Nachhaltigkeit",
+      "en": "sustainability",
+      "example": "Alunos criaram um snack sustentavel",
+      "example_de": "Schuler haben einen nachhaltigen Snack kreiert",
+      "example_en": "Students created a sustainable snack"
+    },
+    {
+      "pt": "bater",
+      "de": "schlagen, erreichen",
+      "en": "to hit, to reach (a level)",
+      "example": "Termometros vao bater os 40 graus",
+      "example_de": "Thermometer werden 40 Grad erreichen",
+      "example_en": "Thermometers will hit 40 degrees"
+    },
+    {
+      "pt": "a gravida",
+      "de": "die Schwangere",
+      "en": "the pregnant woman",
+      "example": "O misterio da gravida da Murtosa",
+      "example_de": "Das Ratsel der Schwangeren von Murtosa",
+      "example_en": "The mystery of the pregnant woman from Murtosa"
+    },
+    {
+      "pt": "o misterio",
+      "de": "das Ratsel",
+      "en": "the mystery",
+      "example": "O misterio da gravida da Murtosa",
+      "example_de": "Das Ratsel der Schwangeren von Murtosa",
+      "example_en": "The mystery of the pregnant woman from Murtosa"
+    },
+    {
+      "pt": "a droga",
+      "de": "das Betäubungsmittel",
+      "en": "the drug",
+      "example": "O perigo espreita no vosso copo com as novas drogas",
+      "example_de": "Die Gefahr lauert in eurem Glas mit den neuen Drogen",
+      "example_en": "Danger lurks in your glass with the new drugs"
+    },
+    {
+      "pt": "a faca",
+      "de": "das Messer",
+      "en": "the knife",
+      "example": "Sequestrada e torturada com faca",
+      "example_de": "Entfuhrt und mit dem Messer gefoltert",
+      "example_en": "Kidnapped and tortured with a knife"
+    },
+    {
+      "pt": "adotar",
+      "de": "adoptieren",
+      "en": "to adopt",
+      "example": "Padeiro quer adotar irmaos abandonados",
+      "example_de": "Backer möchte verlassene Geschwister adoptieren",
+      "example_en": "Baker wants to adopt abandoned siblings"
+    },
+    {
+      "pt": "o sonho",
+      "de": "der Traum",
+      "en": "the dream",
+      "example": "Um segundo de sono ao volante pode ser fatal",
+      "example_de": "Eine Sekunde Schlaf am Steuer kann todtlich sein",
+      "example_en": "One second of sleep at the wheel can be fatal"
+    },
+    {
+      "pt": "a chuva",
+      "de": "der Regen",
+      "en": "the rain",
+      "example": "Sete semanas sem tedio em Penela",
+      "example_de": "Sieben Wochen ohne Langeweile in Penela",
+      "example_en": "Seven weeks without boredom in Penela"
+    },
+    {
+      "pt": "o figado",
+      "de": "die Leber",
+      "en": "the liver",
+      "example": "Doenca hepatica - o figado gordo que nao deve ser ignorado",
+      "example_de": "Lebererkrankung - die fettleber die nicht ignoriert werden darf",
+      "example_en": "Liver disease - the fatty liver that shouldn't be ignored"
+    },
+    {
+      "pt": "a proposta",
+      "de": "der Vorschlag",
+      "en": "the proposal",
+      "example": "Assembleia da Republica debate proposta do Governo",
+      "example_de": "Parlament debattiert Vorschlag der Regierung",
+      "example_en": "Parliament debates government proposal"
+    },
+    {
+      "pt": "o apito",
+      "de": "der Pfiff",
+      "en": "the whistle",
+      "example": "Adepto morre antes do apito inicial",
+      "example_de": "Anhanger stirbt vor dem Anpfiff",
+      "example_en": "Fan dies before the starting whistle"
+    }
   ]
 }
