@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "País vai \"virar\" um forno - termómetros vão bater os 40ºC",
+          "text": "Todos os distritos de Portugal continental estão sob aviso amarelo desde hoje até sábado, devido à persistência de valores elevados da temperatura máxima. O IPMA alerta para o pior dia de calor."
+        },
+        {
+          "headline": "Calor coloca concelhos de Coimbra em perigo máximo de incêndio",
+          "text": "Vários concelhos da região de Coimbra estão em perigo máximo de incêndio florestal devido à onda de calor."
+        },
+        {
+          "headline": "Chamas deflagram em Terras de Bouro",
+          "text": "Um incêndio deflagrou em Terras de Bouro, na região do Gerês, num dia de extremo perigo de incêndio."
+        },
+        {
+          "headline": "Dominado fogo numa área de mato em Odemira",
+          "text": "Um fogo num área de mato em Odemira já foi dominado pelos bombeiros."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Será hoje o fim do mistério da grávida da Murtosa?",
+          "text": "É dia de tudo ou nada no caso da grávida da Murtosa. A tia da vítima está convicta que Fernando Valente vai desta vez para a prisão."
+        },
+        {
+          "headline": "Atenção: o perigo espreita no vosso copo com as novas drogas da noite",
+          "text": "As novas drogas de violação estão a ser colocadas em copos em festas e bares. Autoridades alertam para o perigo crescente."
+        },
+        {
+          "headline": "\"Tenho bons reflexos\" - homem filmado em contramão diz que tinha tudo sob controlo",
+          "text": "Um condutor filmado a circular em contramão afirmou ter \"bons reflexos\" e que tinha a situação sob controlo."
+        },
+        {
+          "headline": "Sequestrada e torturada com faca por homem que queria dinheiro para a droga",
+          "text": "Uma mulher foi sequestrada e torturada com faca por um homem que queria dinheiro para comprar droga."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Irão anuncia bombardeamento e destruição de base dos EUA na Jordânia",
+          "text": "O Irão anunciou o bombardeamento e destruição de uma base militar dos Estados Unidos localizada na Jordânia, numa escalada significativa das tensões."
+        },
+        {
+          "headline": "Estados Unidos atacam o Irão",
+          "text": "Os EUA realizaram ataques militares contra o Irão, num momento de forte tensão internacional."
+        },
+        {
+          "headline": "\"Assassino profissional\" engana-se e chacina casal e adolescente por engano",
+          "text": "Um assassino profissional enganou-se no caminho e massacrou um casal e um adolescente que não eram o alvo pretendido."
+        },
+        {
+          "headline": "Explosão numa fábrica na China provoca 7 mortos e 17 feridos",
+          "text": "Uma explosão numa fábrica na China provocou pelo menos 7 mortos e 17 feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Assembleia da República debate proposta do Governo para isentar indemnizações às vítimas de abusos na Igreja Católica",
+          "text": "O parlamento português debate a proposta governamental para isentar de impostos as indemnizações às vítimas de abusos na Igreja Católica."
+        },
+        {
+          "headline": "Pacto europeu é \"travão\" à imigração ilegal e incentivo a \"canais regulares\"",
+          "text": "O pacto europeu de migração é descrito como um travão à imigração ilegal e como incentivo a canais regulares de entrada."
+        },
+        {
+          "headline": "Jurisdição do PS afasta nulidade de cadernos eleitorais de Coimbra",
+          "text": "A jurisdição do Partido Socialista afastou a nulidade dos cadernos eleitorais de Coimbra, validando o processo eleitoral local."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Devolvidas 10 milhões de embalagens em 2 meses do Sistema de Depósito e Reembolso",
+          "text": "O Sistema de Depósito e Reembolso já contabiliza 10 milhões de embalagens devolvidas em apenas dois meses de funcionamento."
+        },
+        {
+          "headline": "Transporte a pedido SIT FLEXI esmaga barreira das 50 mil reservas",
+          "text": "O serviço de transporte a pedido SIT FLEXI ultrapassou as 50 mil reservas, demonstrando forte adesão dos utilizadores."
+        },
+        {
+          "headline": "Incubadoras de Base Tecnológica do Centro apoiadas com seis milhões de euros",
+          "text": "Incubadoras de Base Tecnológica da região Centro receberam um apoio de seis milhões de euros para fomentar a inovação."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Europeus de Canoagem em Montemor-o-Velho: Portugal inicia defesa de três títulos continentais",
+          "text": "Os Campeonatos Europeus de Canoagem decorrem em Montemor-o-Velho, com Portugal a defender três títulos continentais."
+        },
+        {
+          "headline": "Adepto morre antes do apito inicial do jogo entre Portugal e Nigéria",
+          "text": "Um adepto faleceu antes do apito inicial do jogo entre Portugal e Nigéria, provocando comoção no estádio."
+        },
+        {
+          "headline": "Chiquinho de Coimbra \"quebra\" Nigéria",
+          "text": "O jogador Chiquinho, de Coimbra, teve uma atuação destacada contra a Nigéria no jogo internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Alunos de Coimbra criaram um snack sustentável que já está a dar que falar",
+          "text": "Alunos de Coimbra desenvolveram um snack sustentável que está a ganhar notoriedade e reconhecimento."
+        },
+        {
+          "headline": "Universidade de Coimbra vai ter um campus em Macau",
+          "text": "A Universidade de Coimbra anunciou a criação de um campus em Macau, expandindo a sua presença internacional."
+        },
+        {
+          "headline": "Estudantes propõem reforço da ação social e revisão do financiamento do Ensino Superior",
+          "text": "Estudantes universitários propuseram o reforço da ação social e uma revisão do financiamento do ensino superior."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Este espaço em Coimbra está a combater mitos perigosos sobre o sol",
+          "text": "Um espaço em Coimbra está a combater mitos perigosos sobre a exposição solar, precisamente num dia de alerta de calor extremo."
+        },
+        {
+          "headline": "Ordem lembra médicos em Portugal e no mundo e destaca \"enormes desafios\" na Saúde",
+          "text": "A Ordem dos Médicos destacou os enormes desafios que a Saúde enfrenta em Portugal e no mundo, no Dia do Médico."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Um segundo de sono ao volante pode ser fatal",
+          "text": "Um único segundo de sono ao volante pode ter consequências fatais, alertam as autoridades rodoviárias."
+        },
+        {
+          "headline": "Portugal abre caminho aos testes de carros autónomos nas estradas já no próximo mês",
+          "text": "Portugal vai permitir testes de carros autónomos nas estradas já no próximo mês, avançando com a regulamentação necessária."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "REGIÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Há uma máquina do tempo em Arganil - funciona à base de comida e memórias",
+          "text": "A Feira de Arganil traz uma proposta única: uma verdadeira máquina do tempo que funciona à base de comida e memórias."
+        },
+        {
+          "headline": "IV Festival de Música Tradicional Portuguesa celebrou cultura e tradição em Pereira",
+          "text": "O IV Festival de Música Tradicional Portuguesa celebrou a cultura e tradição em Pereira com grande participação."
+        },
+        {
+          "headline": "Com 10 filhos, padeiro quer adotar irmãos abandonados na berma da estrada",
+          "text": "Um padeiro que já tem 10 filhos quer adotar os irmãos que foram encontrados abandonados na berma da estrada."
+        },
+        {
+          "headline": "Última oportunidade para trincar a melhor sardinha assada no coração de Coimbra",
+          "text": "É a última oportunidade para saborear a melhor sardinha assada no coração de Coimbra antes do fim do evento."
+        }
+      ]
+    }
+  ]
+}
