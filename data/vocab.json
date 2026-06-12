@@ -16726,5 +16726,95 @@
       "example_de": "Anhanger stirbt vor dem Anpfiff",
       "example_en": "Fan dies before the starting whistle"
     }
+  ],
+  "2026-06-12": [
+    {
+      "pt": "a cinza",
+      "de": "die Asche",
+      "en": "ash",
+      "example": "Caravana reduzida a cinzas",
+      "example_de": "Wohnwagen zu Asche reduziert",
+      "example_en": "Caravan reduced to ashes"
+    },
+    {
+      "pt": "revoltar",
+      "de": "emporen",
+      "en": "to outrage/revolt",
+      "example": "Estradas fechadas revoltam empresarios",
+      "example_de": "Geschlossene Strassen emporen Unternehmer",
+      "example_en": "Closed roads outrage business owners"
+    },
+    {
+      "pt": "sombrio",
+      "de": "duster",
+      "en": "gloomy/somber",
+      "example": "Passado sombrio do padrasto",
+      "example_de": "Dusterer Vergangenheit des Stiefvaters",
+      "example_en": "Stepfather's somber past"
+    },
+    {
+      "pt": "ilibar",
+      "de": "freisprechen",
+      "en": "to acquit/clear",
+      "example": "Ilibam Fernando Valente da morte",
+      "example_de": "Sprechen Fernando Valente vom Tod frei",
+      "example_en": "Acquit Fernando Valente of the death"
+    },
+    {
+      "pt": "a radiacao",
+      "de": "die Strahlung",
+      "en": "radiation",
+      "example": "Radiacao UV atinge niveis perigosos",
+      "example_de": "UV-Strahlung erreicht gefahrliche Werte",
+      "example_en": "UV radiation reaches dangerous levels"
+    },
+    {
+      "pt": "a empregabilidade",
+      "de": "die Beschaftigungsfahigkeit",
+      "en": "employability",
+      "example": "Cursos com elevada empregabilidade",
+      "example_de": "Kurse mit hoher Beschaftigungsfahigkeit",
+      "example_en": "Courses with high employability"
+    },
+    {
+      "pt": "a viravolta",
+      "de": "die Wendung",
+      "en": "comeback/turnaround",
+      "example": "Coreia do Sul vence com reviravolta",
+      "example_de": "Sudkorea gewinnt mit einer Wendung",
+      "example_en": "South Korea wins with a turnaround"
+    },
+    {
+      "pt": "o senhor",
+      "de": "der Herr",
+      "en": "elderly man/gentleman",
+      "example": "Ondas de calor: proteger os seniores",
+      "example_de": "Hitzewellen: Senioren schutzen",
+      "example_en": "Heat waves: protecting the elderly"
+    },
+    {
+      "pt": "a tentacao",
+      "de": "die Versuchung",
+      "en": "temptation",
+      "example": "Todos os caminhos vao dar a estas tentacoes",
+      "example_de": "Alle Wege fuhren zu diesen Versuchungen",
+      "example_en": "All roads lead to these temptations"
+    },
+    {
+      "pt": "a estrada",
+      "de": "die Strasse",
+      "en": "road",
+      "example": "Estradas fechadas continuam sem solucao",
+      "example_de": "Geschlossene Strassen bleiben ohne Losung",
+      "example_en": "Closed roads remain without a solution"
+    },
+    {
+      "pt": "o farmaceutico",
+      "de": "der Pharmazeut/die Pharma-",
+      "en": "pharmaceutical",
+      "example": "Setor farmaceutico de luto",
+      "example_de": "Pharmazesektor in Trauer",
+      "example_en": "Pharmaceutical sector in mourning"
+    }
   ]
 }
