@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Concelhos de Coimbra em perigo máximo de arder",
+          "text": "Mais de 160 concelhos do continente apresentam perigo máximo de incêndio rural, incluindo todos os do distrito de Coimbra. O IPMA alerta: todo o cuidado é pouco."
+        },
+        {
+          "headline": "Caravana reduzida a cinzas em Coimbra",
+          "text": "Uma caravana foi devorada por um incêndio em Coimbra, ficando completamente destruída. As autoridades investigam a origem do fogo."
+        },
+        {
+          "headline": "Fogo em Terras de Bouro dominado",
+          "text": "O incêndio que atingiu Terras de Bouro foi dado como dominado pelas equipas de combate."
+        },
+        {
+          "headline": "Fogo em armazém de reciclagem em Montemor-o-Novo",
+          "text": "Um incêndio num armazém de reciclagem em Montemor-o-Novo está em fase de resolução. Não há feridos reportados."
+        },
+        {
+          "headline": "Radiação UV atinge níveis perigosos",
+          "text": "O IPMA avisa que a radiação UV atingiu níveis perigosos em todo o país. Recomenda-se proteção solar e evitação da exposição nas horas de pico."
+        },
+        {
+          "headline": "Ondas de calor a caminho: alerta para seniores",
+          "text": "Especialistas deixam alertas importantes para proteger os seniores durante as próximas ondas de calor previstas para Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Revelações chocantes sobre o padrasto das crianças abandonadas",
+          "text": "O tio das crianças abandonadas na estrada revelou um passado sombrio do padrasto, chamando-lhe \"o diabo em pessoa\". O caso chocou Portugal."
+        },
+        {
+          "headline": "Juízes ilibam Fernando Valente da morte de Mónica Silva",
+          "text": "Os juízes arrasaram as provas e ilibaram Fernando Valente da morte de Mónica Silva, concluindo que não havia elementos suficientes."
+        },
+        {
+          "headline": "Agente da PSP apanhado a snifar cocaína",
+          "text": "Um vídeo mostra um agente da PSP a ser apanhado a consumir cocaína. O caso está a ser investigado internamente."
+        },
+        {
+          "headline": "Parlamento vota novos juízes do Tribunal Constitucional",
+          "text": "A Assembleia da República vota candidatos a quatro novos juízes do Tribunal Constitucional e a nova provedora de Justiça."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Penela parada há 4 meses: estradas fechadas sem solução",
+          "text": "Empresários de Penela estão revoltados com estradas fechadas há 4 meses sem solução à vista. A situação afeta gravemente o comércio local."
+        },
+        {
+          "headline": "Morreu Miguel Silvestre, cofundador da Bluepharma",
+          "text": "O setor farmacêutico está de luto. Miguel Silvestre, cofundador da Bluepharma, faleceu, deixando um legado importante na indústria portuguesa."
+        },
+        {
+          "headline": "Sessão em Pampilhosa da Serra alertou para o uso responsável dos medicamentos",
+          "text": "Uma sessão informativa em Pampilhosa da Serra alertou a população para a importância do uso responsável de medicamentos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "FESTAS & CULTURA",
+      "stories": [
+        {
+          "headline": "Montemor-o-Velho prepara maiores Marchas Populares de Santo António",
+          "text": "Montemor-o-Velho prepara uma das maiores edições das Marchas Populares de Santo António, com muita música e tradição."
+        },
+        {
+          "headline": "Carapinheira dançou ao ritmo das Marchas Populares",
+          "text": "A localidade da Carapinheira celebrou as Marchas Populares com dança e animação tradicional."
+        },
+        {
+          "headline": "Sardinha no pão e marcha no pé: Penacova tem plano gratuito",
+          "text": "Penacova oferece um plano perfeito e gratuito para esta sexta-feira de Santo António: sardinha no pão e marchas populares."
+        },
+        {
+          "headline": "Feira das Freguesias em Arganil: 3 dias de tentações gastronómicas",
+          "text": "A 19ª Feira das Freguesias em Arganil celebra a gastronomia e cultura do concelho durante 3 dias. Todos os caminhos vão dar a estas tentações."
+        },
+        {
+          "headline": "Santo António: filme \"O Casamenteiro de Lisboa\" quase a estrear",
+          "text": "O filme \"Santo António, o Casamenteiro de Lisboa\" está quase a estrear nos cinemas com caras bem conhecidas do público português."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Mundial 2026: Coreia do Sul vence República Checa com reviravolta",
+          "text": "A Coreia do Sul venceu a República Checa com uma reviravolta no jogo do Mundial 2026."
+        },
+        {
+          "headline": "Mundial 2026: México vence África do Sul no jogo de abertura",
+          "text": "O México venceu a África do Sul no jogo de abertura do Mundial 2026."
+        },
+        {
+          "headline": "Europeus de Canoagem em Montemor-o-Velho",
+          "text": "Portugal disputa esta sexta-feira 14 meias-finais nos Europeus de Canoagem em Montemor-o-Velho."
+        },
+        {
+          "headline": "Mistério do dinheiro desaparecido de Pinto da Costa",
+          "text": "Contas esvaziadas e o mistério do dinheiro desaparecido de Pinto da Costa antes de morrer continuam a gerar especulação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Morre princesa da Tailândia aos 47 anos",
+          "text": "A princesa da Tailândia faleceu aos 47 anos, causando comoção no país."
+        },
+        {
+          "headline": "Trump: \"ótimo\" acordo com Irão pode ser assinado em poucos dias",
+          "text": "Trump afirmou que um \"ótimo\" acordo com o Irão pode ser assinado em poucos dias, enquanto o Irão volta a fechar o estreito de Ormuz."
+        },
+        {
+          "headline": "Ucrânia: Governo aprova até 1.304 milhões de euros para apoio a Kiev",
+          "text": "O Governo português aprovou até 1.304 milhões de euros para apoio à Ucrânia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Cientistas descobrem mecanismo no intestino que reduz vontade de comer doces",
+          "text": "Uma descoberta científica revela um mecanismo no intestino que pode ajudar a reduzir a vontade de comer doces, abrindo portas a novos tratamentos."
+        },
+        {
+          "headline": "ULS de Coimbra inaugura Unidade de Saúde Familiar em Mortágua",
+          "text": "A ULS de Coimbra inaugurou uma nova Unidade de Saúde Familiar em Mortágua, reforçando a proximidade dos cuidados de saúde."
+        },
+        {
+          "headline": "Escola de Enfermagem da UC prepara grávidas para o parto",
+          "text": "A Escola de Enfermagem da Universidade de Coimbra oferece sessões para preparar grávidas e casais para uma experiência positiva no parto."
+        },
+        {
+          "headline": "Coimbra recebe conferência mundial sobre criatividade computacional",
+          "text": "Coimbra recebe uma das maiores conferências do mundo sobre criatividade computacional, atraindo investigadores internacionais."
+        },
+        {
+          "headline": "ISEC apresenta novo carro de Fórmula Student",
+          "text": "Estudantes do ISEC apresentaram o novo carro de Fórmula Student desenvolvido por eles, demonstrando cursos com elevada empregabilidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo prolonga prazo para municípios decidirem sobre alojamento local",
+          "text": "O Governo prolongou o prazo para os municípios decidirem sobre o regulamento para alojamento local, dando mais tempo às autarquias."
+        },
+        {
+          "headline": "Chega sem entendimento com Governo sobre reforma laboral",
+          "text": "O Chega afirmou não haver entendimento com o Governo sobre a reforma laboral, aumentando a tensão política."
+        },
+        {
+          "headline": "Preços dos alimentos dão tréguas, mas continuam a pesar",
+          "text": "Os preços dos alimentos deram algumas tréguas, mas alguns produtos continuam a pesar no orçamento das famílias."
+        },
+        {
+          "headline": "SIT FLEXI esmaga barreira das 50 mil reservas",
+          "text": "O transporte a pedido SIT FLEXI atingiu e ultrapassou as 50 mil reservas, mostrando forte adesão do público."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Deixou o carro no mesmo lugar durante um mês? Pode acabar com multa e reboque",
+          "text": "Carros estacionados no mesmo local durante mais de um mês podem ser multados e rebocados. As regras são claras e já estão a ser aplicadas."
+        },
+        {
+          "headline": "Um segundo de sono ao volante pode ser fatal",
+          "text": "Especialistas alertam que mesmo um único segundo de sono ao volante pode ter consequências fatais, especialmente em autoestradas."
+        },
+        {
+          "headline": "PEUGEOT ressuscita a sigla GTi com o novo E-208 GTi",
+          "text": "A Peugeot revive a icónica sigla GTi com o novo E-208 GTi, agora 100% elétrico."
+        }
+      ]
+    }
+  ]
+}
