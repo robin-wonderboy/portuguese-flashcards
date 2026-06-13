@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-13",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌦️",
+      "category": "TEMPO & ALERTA",
+      "stories": [
+        {
+          "headline": "Depois do calor, chega a gota fria com granizo e trovoadas",
+          "text": "Após dias de calor sufocante, uma depressão isolada em altitude (gota fria) traz instabilidade ao Norte e Centro de Portugal, com aguaceiros, trovoadas e granizo previstos para Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "👮",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Sem-abrigo armado espalha o pânico em Coimbra",
+          "text": "Um sem-abrigo armado ameaçou uma funcionária com faca e deixou um rasto de destruição no centro de Coimbra."
+        },
+        {
+          "headline": "Larápios adotam postura agressiva e injuriam agentes da PSP",
+          "text": "Ladrões detidos em Coimbra adotaram uma postura agressiva, injuriando e ameaçando os elementos policiais durante a detenção."
+        },
+        {
+          "headline": "\"Influencers\" condenados a prisão efetiva por violar menor",
+          "text": "Dois influencers foram condenados a penas de prisão efetiva pelo crime de violação de menor."
+        },
+        {
+          "headline": "Jovem ilegal no país visto na Baixa de Coimbra",
+          "text": "Um jovem em situação ilegal no país foi detido enquanto passeava pela Baixa de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO & GENTES",
+      "stories": [
+        {
+          "headline": "O homem que fez soar a paz em Benfeita",
+          "text": "Perfil de um homem que dedicou a vida a fazer soar a paz na aldeia de Benfeita e nunca abandonou a sua missão."
+        },
+        {
+          "headline": "André fugiu da confusão de Lisboa e encontrou o paraíso em Arganil",
+          "text": "Depois do desemprego, André transformou a vida fazendo crepes nas feiras da região, levando Arganil ao delírio."
+        },
+        {
+          "headline": "Farturas à moda da Abrunhosa: se a Câmara não resultar, há plano B na fritadeira",
+          "text": "A vila da Abrunhosa celebra as suas tradicionais farturas, com plano B na fritadeira se a Câmara não resultar."
+        },
+        {
+          "headline": "Dia Internacional do Brincar aproximou gerações na Pampilhosa da Serra",
+          "text": "O Dia Internacional do Brincar juntou gerações na Pampilhosa da Serra, promovendo atividades para miúdos e graúdos."
+        },
+        {
+          "headline": "Vila Nova de Poiares é o oásis que conquista motards no Lés-a-Lés",
+          "text": "Vila Nova de Poiares surpreende como oásis para motards no evento Lés-a-Lés, conquistando visitantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Cartaz recheado de estrelas promete lotar o PANORAMA",
+          "text": "O festival PANORAMA apresenta um cartaz recheado de estrelas que promete encher Coimbra de música."
+        },
+        {
+          "headline": "Festival Baixa o Som já enche Coimbra de música",
+          "text": "O festival Baixa o Som já está a encher Coimbra de música com concertos pela cidade."
+        },
+        {
+          "headline": "Coimbra prepara verão cultural com mais de 75 eventos",
+          "text": "A cidade de Coimbra prepara um verão cultural com mais de 75 eventos espalhados por vários espaços."
+        },
+        {
+          "headline": "Concerto inclusivo junta 250 participantes no Parque Verde",
+          "text": "Um concerto inclusivo juntou 250 participantes no Parque Verde de Coimbra, promovendo a acessibilidade cultural."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Parlamento aprova Lei de Política Criminal: reclusos a limparem matas",
+          "text": "O Parlamento aprovou a Lei de Política Criminal que prevê que reclusos possam limpar matas como medida de reinserção."
+        },
+        {
+          "headline": "BE: Prestação Social Única é de enorme crueldade",
+          "text": "O Bloco de Esquerda reiterou que a Prestação Social Única é uma iniciativa de enorme crueldade."
+        },
+        {
+          "headline": "Governo prolonga prazo para municípios decidirem sobre alojamento local",
+          "text": "O Governo prolongou o prazo para os municípios decidirem sobre o regulamento para alojamento local."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Serviços do SNS em baixo durante horas",
+          "text": "Os serviços do SNS estiveram em baixo durante horas, mas os sistemas já estão a ser repostos gradualmente."
+        },
+        {
+          "headline": "Farmácias portuguesas manifestam pesar pela morte de Miguel Silvestre",
+          "text": "As farmácias portuguesas manifestaram pesar pelo falecimento de Miguel Silvestre, presidente da Pluraludifar."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Peugeot abre encomendas do novo E-208 GTi elétrico com 281 cv",
+          "text": "A Peugeot abriu encomendas do novo E-208 GTi, versão elétrica desportiva com 281 cv de potência."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Ministra: concurso de apoio a carros elétricos esgotou em poucas horas",
+          "text": "A ministra anunciou que o concurso de apoio à compra de carros elétricos fechou em poucas horas, esgotando os fundos disponíveis."
+        },
+        {
+          "headline": "Critical Software está a despedir",
+          "text": "A Critical Software, empresa de tecnologia com presença em Coimbra, está a proceder a despedimentos."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Motociclistas feridos após colisão na Praia de Mira",
+          "text": "Dois motociclistas ficaram feridos após uma colisão na Praia de Mira, na região de Coimbra."
+        },
+        {
+          "headline": "Oficial Português desaparece em alto mar",
+          "text": "Um oficial das Forças Armadas Portuguesas desapareceu em alto mar, com operações de busca em curso."
+        },
+        {
+          "headline": "Papa fica por terra após falha inesperada no avião oficial",
+          "text": "O Papa Leão XIV ficou por terra em Espanha após uma falha inesperada no avião oficial que o transportaria."
+        },
+        {
+          "headline": "Morreu o artista britânico David Hockney aos 88 anos",
+          "text": "O aclamado artista britânico David Hockney faleceu aos 88 anos, deixando um legado monumental na arte contemporânea."
+        },
+        {
+          "headline": "Papa Leão XIV em Espanha: todos somos migrantes",
+          "text": "O Papa Leão XIV, durante visita a Espanha, declarou que todos somos migrantes, numa mensagem de acolhimento."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Brasil no Mundial: ecrã gigante e samba em Coimbra",
+          "text": "Quem quiser ver o Brasil jogar no Mundial pode fazê-lo em Coimbra, com ecrã gigante e samba para apoiar a seleção canarinha."
+        },
+        {
+          "headline": "Europeus de Canoagem: Beatriz Fernandes garante final em Montemor-o-Velho",
+          "text": "Beatriz Fernandes garantiu a final nos Europeus de Canoagem que decorrem em Montemor-o-Velho, perto de Coimbra."
+        }
+      ]
+    }
+  ]
+}
