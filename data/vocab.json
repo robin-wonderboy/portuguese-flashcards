@@ -16816,5 +16816,95 @@
       "example_de": "Pharmazesektor in Trauer",
       "example_en": "Pharmaceutical sector in mourning"
     }
+  ],
+  "2026-06-13": [
+    {
+      "pt": "soar",
+      "de": "erklingen lassen, ertönen",
+      "en": "to sound, to play (instrument)",
+      "example": "O homem que fez soar a paz em Benfeita",
+      "example_de": "Der Mann, der den Frieden in Benfeita erklingen ließ",
+      "example_en": "The man who made peace sound in Benfeita"
+    },
+    {
+      "pt": "a confusão",
+      "de": "das Chaos, der Lärm",
+      "en": "chaos, confusion, noise",
+      "example": "André fugiu da confusão de Lisboa",
+      "example_de": "André floh dem Chaos von Lissabon",
+      "example_en": "André fled the chaos of Lisbon"
+    },
+    {
+      "pt": "injuriar",
+      "de": "beleidigen, beschimpfen",
+      "en": "to insult, to verbally abuse",
+      "example": "Larápios adotam postura agressiva, injuriando os elementos policiais",
+      "example_de": "Diebe nehmen eine aggressive Haltung ein und beleidigen die Polizeikräfte",
+      "example_en": "Crooks adopt an aggressive stance, insulting the police officers"
+    },
+    {
+      "pt": "adocicar",
+      "de": "süß machen, versüßen",
+      "en": "to sweeten, to make sweet",
+      "example": "Tarte de limão promete adocicar o seu verão",
+      "example_de": "Zitronenkuchen verspricht Ihren Sommer zu versüßen",
+      "example_en": "Lemon tart promises to sweeten your summer"
+    },
+    {
+      "pt": "lotar",
+      "de": "füllen, ausverkaufen",
+      "en": "to fill up, to sell out",
+      "example": "Cartaz recheado de estrelas promete lotar o PANORAMA",
+      "example_de": "Ein starnreiches Programm verspricht das PANORAMA zu füllen",
+      "example_en": "Star-studded lineup promises to fill PANORAMA"
+    },
+    {
+      "pt": "o pesadelo",
+      "de": "der Albtraum",
+      "en": "nightmare",
+      "example": "O pesadelo do granizo e das trovoadas ataca Coimbra",
+      "example_de": "Der Albtraum aus Hagel und Gewitter greift Coimbra an",
+      "example_en": "The nightmare of hail and thunderstorms attacks Coimbra"
+    },
+    {
+      "pt": "o concerto inclusivo",
+      "de": "das inklusive Konzert",
+      "en": "inclusive concert",
+      "example": "Concerto inclusivo junta 250 participantes no Parque Verde",
+      "example_de": "Inklusives Konzert versammelt 250 Teilnehmer im Parque Verde",
+      "example_en": "Inclusive concert gathers 250 participants at Parque Verde"
+    },
+    {
+      "pt": "o delírio",
+      "de": "der Taumel, die Begeisterung",
+      "en": "delight, frenzy, wild enthusiasm",
+      "example": "Crepes de Rita levam Arganil ao delírio",
+      "example_de": "Ritas Crêpes bringen Arganil zum Schwärmen",
+      "example_en": "Rita's crêpes drive Arganil wild with delight"
+    },
+    {
+      "pt": "a crueldade",
+      "de": "die Grausamkeit",
+      "en": "cruelty",
+      "example": "Prestação Social Única é uma iniciativa de enorme crueldade",
+      "example_de": "Einheitliche Sozialleistung ist eine Initiative von enormer Grausamkeit",
+      "example_en": "Single Social Benefit is an initiative of enormous cruelty"
+    },
+    {
+      "pt": "o alojamento local",
+      "de": "die Ferienwohnung (lokale Unterkunft)",
+      "en": "local accommodation (short-term rental)",
+      "example": "Governo prolonga prazo para municípios decidirem sobre regulamento para alojamento local",
+      "example_de": "Regierung verlängert Frist für Gemeinden zur Entscheidung über Ferienwohnungsverordnung",
+      "example_en": "Government extends deadline for municipalities to decide on local accommodation regulations"
+    },
+    {
+      "pt": "o tesouro gastronómico",
+      "de": "der Gastronomieschatz",
+      "en": "gastronomic treasure",
+      "example": "Folques leva os seus tesouros gastronómicos à Feira das Freguesias",
+      "example_de": "Folques bringt seine Gastronomieschätze zum Pfarrfest",
+      "example_en": "Folques brings its gastronomic treasures to the Parish Fair"
+    }
   ]
 }
