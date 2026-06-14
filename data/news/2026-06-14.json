@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛪",
+      "category": "COIMBRA & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "Bispo vê em Santo António um modelo para os desafios do presente",
+          "text": "O Bispo de Coimbra destacou Santo António como modelo de resposta aos desafios contemporâneos, durante as celebrações da festa do santo padroeiro."
+        },
+        {
+          "headline": "Coimbra apresentou os convocados para o campeonato da vida",
+          "text": "A Benção das Pastas trouxe milhares de finalistas às ruas de Coimbra. As imagens mostram a emoção de quem termina uma etapa e parte para outra."
+        },
+        {
+          "headline": "Jovem estudante despista-se a caminho da Benção das Pastas",
+          "text": "Um jovem estudante sofreu um despiste enquanto se dirigia à Benção das Pastas em Coimbra, numa noite de grande afluência na cidade."
+        },
+        {
+          "headline": "Luzes da fé voltam a brilhar na Procissão das Velas de Santo António",
+          "text": "A tradicional Procissão das Velas voltou a iluminar as ruas de Coimbra na noite de Santo António, com centenas de fiéis a acompanhar o cortejo."
+        }
+      ]
+    },
+    {
+      "emoji": "💃",
+      "category": "MARCHAS POPULARES",
+      "stories": [
+        {
+          "headline": "Miranda do Corvo viveu noite de Marchas Populares",
+          "text": "Semide apostou no luar e nas danças portuguesas para surpreender. Rio de Vide estreou-se com 30 alunos após meses de preparação. A marcha do Solar das Chãs mostrou inclusão sem limites de idade."
+        },
+        {
+          "headline": "Miranda do Corvo viu passar um Metrobus em versão marcha popular",
+          "text": "Numa referência criativa ao futuro sistema de transporte da região, uma marcha popular recriou um Metrobus em versão festiva."
+        },
+        {
+          "headline": "Marcha de Eiras levou as vindimas até Miranda do Corvo",
+          "text": "A Marcha Popular de Eiras trouxe o tema das vindimas e do vinho da terra ao desfile em Miranda do Corvo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS caiu com falha de energia e ninguém tinha gerador",
+          "text": "O SNS ficou inoperacional durante cerca de 12 horas devido a uma falha de energia no centro de dados. Médicos trabalharam sem informação clínica digital, farmácias não processaram receitas e o transporte de doentes em hemodiálise foi afetado."
+        },
+        {
+          "headline": "Infarmed retira dezenas de cosméticos do mercado",
+          "text": "O Infarmed detetou irregularidades e ordenou a retirada de dezenas de produtos cosméticos do mercado português por não cumprirem as normas de segurança."
+        },
+        {
+          "headline": "Calor sufocante em Portugal: cuidados a ter",
+          "text": "Com as temperaturas a subir, as autoridades de saúde alertam para os cuidados essenciais durante a onda de calor que se faz sentir em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Lar clandestino encerrado por condições de perigo para idosos",
+          "text": "As autoridades encerraram um lar clandestino que funcionava em condições de perigo para os idosos que lá residiam, sem os requisitos legais mínimos."
+        },
+        {
+          "headline": "30 armas e 2.800 munições apreendidas pela GNR",
+          "text": "A GNR apreendeu 30 armas de fogo e cerca de 2.800 munições numa operação na região centro de Portugal."
+        },
+        {
+          "headline": "Influencers condenados a prisão efetiva por violar menor",
+          "text": "Dois influenciadores foram condenados a penas de prisão efetiva pelo crime de violação de menor, numa sentença que marcou a jurisprudência portuguesa."
+        },
+        {
+          "headline": "Larapios adotam postura agressiva e ameaçam polícia em Coimbra",
+          "text": "Indivíduos detidos pela polícia em Coimbra adotaram uma postura agressiva, injuriando e ameaçando os elementos policiais durante a intervenção."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Economistas alertam: salários cada vez mais comprimidos",
+          "text": "Economistas portugueses alertam que os salários estão cada vez mais comprimidos pela inflação, com o poder de compra a diminuir significativamente."
+        },
+        {
+          "headline": "Parlamento aprova lei que prevê reclusos a limparem matas",
+          "text": "O Parlamento aprovou a Lei de Política Criminal que prevê que reclusos possam ser destacados para limpar matas e prevenir incêndios florestais."
+        },
+        {
+          "headline": "Governo preparado para soluções extraordinárias para bombeiros",
+          "text": "O Governo garantiu que está preparado para soluções extraordinárias de ajuda às associações de bombeiros, dizendo que podem estar tranquilas."
+        },
+        {
+          "headline": "Autarca afiança que IA serve para falsificar candidaturas",
+          "text": "O presidente de uma autarquia alertou que a inteligência artificial pode ser usada para falsificar candidaturas, durante um debate sobre as autárquicas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Ficar sem combustível na estrada pode dar multa?",
+          "text": "Ficar sem combustível na estrada pode resultar em multa, segundo as regras do Código da Estrada, que consideram esta situação perigo para o trânsito."
+        },
+        {
+          "headline": "Jogador de futsal morre em despiste na Nacional 374",
+          "text": "Um jogador de futsal perdeu a vida após um despiste de carrinha na Estrada Nacional 374, num dos vários acidentes fatais registados este fim de semana."
+        }
+      ]
+    },
+    {
+      "emoji": "🛶",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Fernando Pimenta: bronze em K1 1000m nos Europeus",
+          "text": "O canoeista português Fernando Pimenta conquistou a medalha de bronze em K1 1000 metros nos Campeonatos da Europa de Canoagem realizados em Montemor-o-Velho."
+        },
+        {
+          "headline": "Portugal falha defesa do título europeu por centésimos",
+          "text": "A seleção portuguesa de canoagem falhou a defesa do título europeu por escassos centésimos, num dia agridoce para a equipa em Montemor-o-Velho."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Trump diz que acordo com Irão será assinado no domingo",
+          "text": "Donald Trump anunciou que um acordo com o Irão sobre o programa nuclear será assinado no domingo, embora a credibilidade da declaração seja questionada."
+        },
+        {
+          "headline": "Casos de Ébola sobem para 689 na RD Congo",
+          "text": "O número de casos de Ébola na República Democrática do Congo subiu para 689, com as autoridades de saúde a lutarem para conter o surto."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra promove semana de cooperação internacional",
+          "text": "O Politécnico de Coimbra dedicou uma semana à cooperação internacional, reunindo estudantes e docentes de vários países."
+        },
+        {
+          "headline": "Estudo da UC revela apoio dos portugueses ao estado social",
+          "text": "Um estudo da Universidade de Coimbra revela que os portugueses querem ajudar todos e mostram forte apoio ao estado social e às prestações sociais."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA",
+      "stories": [
+        {
+          "headline": "Casa-Museu Miguel Torga inaugura exposição dedicada à obra Portugal",
+          "text": "A Casa-Museu Miguel Torga, em Coimbra, inaugurou uma exposição dedicada à obra Portugal, celebrando a ligação do escritor ao país."
+        },
+        {
+          "headline": "Procissão dos Olivais encerra Romaria com chave de ouro",
+          "text": "Francisco Rodeiro afirmou que a Procissão dos Olivais encerrou a Romaria do Espírito Santo com chave de ouro, na tradição da região."
+        }
+      ]
+    }
+  ]
+}
