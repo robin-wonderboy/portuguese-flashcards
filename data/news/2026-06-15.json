@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "TEMPO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Trovoadas e chuva vêm estragar os dias de bom tempo",
+          "text": "Os distritos de Bragança, Viseu, Guarda, Vila Real e Castelo Branco estão sob aviso amarelo devido à previsão de aguaceiros fortes e trovoadas frequentes e dispersas, segundo o IPMA. O aviso está em vigor entre as 12:00 e as 21:00 de hoje."
+        },
+        {
+          "headline": "Risco de incêndio dispara em 3 concelhos do distrito de Coimbra",
+          "text": "Vinte e dois concelhos dos distritos de Faro, Santarém, Leiria, Coimbra, Castelo Branco e Bragança apresentam perigo muito elevado de incêndio rural, segundo o IPMA. Em Coimbra, três concelhos estão em alerta máximo."
+        },
+        {
+          "headline": "Fenómeno raro de bioluminescência ilumina a costa da Figueira da Foz",
+          "text": "Um raro fenómeno de bioluminescência foi observado durante a madrugada de sábado na costa da Figueira da Foz, proporcionando um espetáculo natural pouco comum em Portugal. As imagens foram captadas entre as 02:00 e as 04:00 por Tiago Pinho, da Meteo Atlântico Portugal, mostrando um intenso brilho azulado nas ondas do mar."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Santos Populares acabam em ressaca: 66 condutores apanhados bêbedos ao volante",
+          "text": "A GNR deteve 66 pessoas por conduzirem embriagadas nas vias rápidas de acesso a Lisboa, entre as 04:00 e as 08:00 de domingo. Foram controlados 2.989 condutores, tendo 264 apresentado excesso de álcool no sangue. Os 66 detidos tinham taxa igual ou superior a 1,2 g/l, configurando crime de condução em estado de embriaguez."
+        },
+        {
+          "headline": "Leitura do acórdão do PSP que matou Odair Moniz marcada para esta segunda-feira",
+          "text": "O julgamento do agente da PSP Bruno Pinto, que matou Odair Moniz na Cova da Moura em outubro de 2024, chega ao fim com a leitura do acórdão marcada para as 15:30 no Tribunal de Sintra. O Ministério Público pediu a condenação pelo crime de homicídio."
+        },
+        {
+          "headline": "Casa em Coimbra varrida por ladrões às 5 da manhã",
+          "text": "Uma residência na Rua António Vasconcelos, em Coimbra, foi assaltada durante a madrugada de domingo. A PSP foi acionada por volta das 05:20 para uma situação de furto em residência, tendo sido subtraídos vários objetos pessoais e eletrónicos."
+        },
+        {
+          "headline": "GNR agredido a soco ao tentar travar confronto em festa popular",
+          "text": "Um militar da GNR do posto de Tomar foi agredido este sábado à noite durante a festa de Aboboreiras, na freguesia de Olalhas. O incidente ocorreu quando os militares intervieram para separar dois grupos envolvidos em confrontos."
+        },
+        {
+          "headline": "Lar clandestino com 22 idosos encerrado por condições de perigo",
+          "text": "Um lar clandestino em São João das Lampas, concelho de Sintra, com 22 idosos (13 mulheres e 9 homens, entre os 62 e os 95 anos), foi encerrado de forma urgente e imediata pelo Instituto da Segurança Social."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRÂNSITO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Colisão brutal atira carro para ribanceira em Coimbra. Condutor escapa por milagre",
+          "text": "Um homem de 27 anos esteve envolvido numa colisão entre duas viaturas na Estrada Nacional 110, nas proximidades do acesso à A13, em Almalaguês. Após o embate, o condutor perdeu o controlo da viatura, saiu da faixa de rodagem e caiu por uma ribanceira, ficando o veículo imobilizado entre árvores e troncos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS caiu com falha de energia - e ninguém tinha um gerador?",
+          "text": "O Serviço Nacional de Saúde ficou praticamente inoperacional durante cerca de 12 horas na sexta-feira, devido a uma falha de energia no seu centro de dados central. Médicos trabalharam sem acesso a informação clínica digital, farmácias não conseguiram processar receitas comparticipadas e o transporte de doentes em hemodiálise ficou afetado."
+        },
+        {
+          "headline": "Infarmed retira mais de 50 cosméticos FBeauty do mercado",
+          "text": "O Infarmed determinou a suspensão imediata da comercialização e retirada do mercado de mais de 50 produtos cosméticos FBeauty por não cumprirem os requisitos legais exigidos, na sequência de uma denúncia que desencadeou uma ação de fiscalização."
+        }
+      ]
+    },
+    {
+      "emoji": "🏅",
+      "category": "DESPORTO & LAZER",
+      "stories": [
+        {
+          "headline": "Portugal encerra Europeus de canoagem com 2 ouros, 1 prata e 1 bronze",
+          "text": "A seleção portuguesa de canoagem terminou os Europeus de Montemor-o-Velho com quatro pódios, garantindo a continuidade na elite internacional. O combinado luso carregava a responsabilidade de, em casa, defender os resultados de 2025 na República Checa."
+        },
+        {
+          "headline": "Triatlo regressa a Coimbra com prova aberta no Parque Verde",
+          "text": "O Parque Verde do Mondego recebeu provas de triatlo, incluindo o Campeonato Individual de Triatlo Standard e uma prova aberta. Na vertente de Aquabike, os participantes cumpriram 750 metros de natação seguidos de 20 km de ciclismo."
+        },
+        {
+          "headline": "Figueira da Foz recebe a Corrida Mais Bonita de Portugal",
+          "text": "A Corrida Mais Bonita de Portugal decorreu este domingo na Figueira da Foz, reunindo milhares de participantes na prova de 10 km junto ao Atlântico. O evento destaca-se pelo percurso cénico entre a Praia de Quiaios e a Torre do Relógio."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTAS",
+      "stories": [
+        {
+          "headline": "Concerto ConFIA transforma Coimbra numa festa de inclusão",
+          "text": "Coimbra viveu um momento especial com o concerto Confia - fazer da inclusão arte, promovido pela Orquestra Clássica do Centro no Parque Verde do Mondego, reunindo mais de 250 participantes num espetáculo dedicado à diversidade e inclusão social, integrado no programa Portugal 2030."
+        },
+        {
+          "headline": "Marcha Popular de Vale de Açor aqueceu Miranda do Corvo",
+          "text": "A Marcha de Vale de Açor foi uma das participantes das Marchas Populares de Miranda do Corvo, num desfile marcado pela criatividade do tema fogo e água e por momentos de grande animação junto ao público."
+        },
+        {
+          "headline": "Casa-Museu Miguel Torga inaugura exposição dedicada à obra Portugal",
+          "text": "A Casa-Museu Miguel Torga inaugura no dia 17 de junho uma exposição temporária dedicada à obra Portugal (1950), patente ao público até 30 de junho de 2027. A mostra propõe um percurso pela visão singular que Miguel Torga construiu sobre o país, reunindo textos, fotografias e referências às viagens do autor."
+        }
+      ]
+    }
+  ]
+}
