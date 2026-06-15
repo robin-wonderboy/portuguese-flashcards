@@ -17018,5 +17018,111 @@
       "de": "die Vereinbarung; das Abkommen",
       "en": "agreement; deal"
     }
+  ],
+  "2026-06-15": [
+    {
+      "pt": "estragar",
+      "de": "verderben, ruinieren",
+      "en": "to ruin, to spoil",
+      "example": "Vêm aí trovoadas e chuva para estragar os dias de bom tempo",
+      "example_de": "Gewitter und Regen kommen, um die schönen Tage zu verderben",
+      "example_en": "Thunderstorms and rain coming to ruin the good weather days"
+    },
+    {
+      "pt": "fiscalizar",
+      "de": "überwachen, kontrollieren",
+      "en": "to inspect, to police",
+      "example": "Ação especial de fiscalização rodoviária nas festas dos Santos Populares",
+      "example_de": "Sonderaktion der Straßenüberwachung bei den Santos Populares-Festen",
+      "example_en": "Special road policing operation during the Santos Populares festivities"
+    },
+    {
+      "pt": "embriagado",
+      "de": "betrunken, berauscht",
+      "en": "drunk, intoxicated",
+      "example": "66 condutores apanhados bêbedos ao volante após Santos Populares",
+      "example_de": "66 Fahrer nach den Santos Populares betrunken am Steuer erwischt",
+      "example_en": "66 drivers caught drunk behind the wheel after Santos Populares"
+    },
+    {
+      "pt": "a faixa de rodagem",
+      "de": "die Fahrbahn",
+      "en": "roadway, carriageway",
+      "example": "O veículo saiu da faixa de rodagem e caiu por uma ribanceira",
+      "example_de": "Das Fahrzeug kam von der Fahrbahn ab und stürzte einen Abhang hinunter",
+      "example_en": "The vehicle left the roadway and fell down an embankment"
+    },
+    {
+      "pt": "a taxa",
+      "de": "der Satz, die Quote",
+      "en": "rate (blood alcohol, etc.)",
+      "example": "66 foram detidos por conduzirem com taxa de álcool igual ou superior a 1,2 g/l",
+      "example_de": "66 wurden festgenommen, weil sie mit einem Blutalkoholspiegel von 1,2 g/l oder mehr fuhren",
+      "example_en": "66 were arrested for driving with a blood alcohol rate of 1.2 g/l or higher"
+    },
+    {
+      "pt": "reunir",
+      "de": "versammeln, zusammenbringen",
+      "en": "to gather, to bring together",
+      "example": "Concerto ConFIA reúne mais de 250 participantes num espetáculo de inclusão",
+      "example_de": "ConFIA-Konzert versammelt über 250 Teilnehmer bei einem Inklusions-Schauspiel",
+      "example_en": "ConFIA concert gathers over 250 participants in an inclusion spectacle"
+    },
+    {
+      "pt": "a prata",
+      "de": "das Silber",
+      "en": "silver (medal)",
+      "example": "Portugal encerra Europeus com dois ouros, uma prata e um bronze",
+      "example_de": "Portugal beendet Europameisterschaft mit zwei Gold, einer Silber und einer Bronze",
+      "example_en": "Portugal closes Europeans with two golds, one silver and one bronze"
+    },
+    {
+      "pt": "o bronze",
+      "de": "die Bronze (Medaille)",
+      "en": "bronze (medal)",
+      "example": "Portugal garante continuidade na elite internacional com dois ouros, prata e bronze",
+      "example_de": "Portugal sichert Fortbestand in der internationalen Elite mit Gold, Silber und Bronze",
+      "example_en": "Portugal ensures continuity in the international elite with gold, silver and bronze"
+    },
+    {
+      "pt": "o homicídio",
+      "de": "der Totschlag, das Tötungsdelikt",
+      "en": "homicide",
+      "example": "Agente fica a saber se é condenado pelo crime de homicídio",
+      "example_de": "Beamter erfährt, ob er wegen Totschlags verurteilt wird",
+      "example_en": "Officer finds out if he will be convicted of homicide"
+    },
+    {
+      "pt": "a exposição",
+      "de": "die Ausstellung",
+      "en": "exhibition",
+      "example": "Casa-Museu Miguel Torga inaugura exposição dedicada à obra Portugal",
+      "example_de": "Casa-Museu Miguel Torga eröffnet Ausstellung gewidmet dem Werk Portugal",
+      "example_en": "Casa-Museu Miguel Torga opens an exhibition dedicated to the work Portugal"
+    },
+    {
+      "pt": "a provação",
+      "de": "die Prüfung, die Qual",
+      "en": "ordeal, hardship",
+      "example": "O veredicto encerra uma provação de meses para a família",
+      "example_de": "Das Urteil beendet eine monatelange Qual für die Familie",
+      "example_en": "The verdict ends months of ordeal for the family"
+    },
+    {
+      "pt": "o cénico",
+      "de": "malerisch, landschaftlich schön",
+      "en": "scenic",
+      "example": "A corrida destaca-se pelo percurso cénico entre a Praia de Quiaios e a Torre do Relógio",
+      "example_de": "Der Lauf zeichnet sich durch die malerische Strecke aus",
+      "example_en": "The race stands out for its scenic route between Praia de Quiaios and Torre do Relógio"
+    },
+    {
+      "pt": "a responsabilização",
+      "de": "die Verantwortlichmachung, die Rechenschaftspflicht",
+      "en": "accountability",
+      "example": "A queda do SNS levanta questões de responsabilização e falta de geradores",
+      "example_de": "Der SNS-Ausfall wirft Fragen der Verantwortlichmachung und fehlender Generatoren auf",
+      "example_en": "The SNS outage raises questions of accountability and lack of generators"
+    }
   ]
 }
