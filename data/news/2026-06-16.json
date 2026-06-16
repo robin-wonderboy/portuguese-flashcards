@@ -1,0 +1,198 @@
+{
+  "date": "2026-06-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "81 mil alunos fazem prova de Português no arranque dos exames nacionais",
+          "text": "Os exames nacionais do ensino secundário arrancam hoje com quase metade dos 166 mil alunos inscritos a realizar a prova de Português. Pela primeira vez, as provas serão corrigidas em formato digital."
+        },
+        {
+          "headline": "Sindicato da educação marca greve para quinta-feira",
+          "text": "O sindicato da educação convocou greve para quinta-feira em protesto contra o novo pacote laboral. Escolas encerradas ou condicionadas na região, incluindo uma na Figueira da Foz."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & MUNDIAL 2026",
+      "stories": [
+        {
+          "headline": "Portugal faz último treino antes da estreia e viaja para Houston",
+          "text": "A seleção portuguesa realizou o último treino antes da estreia no Mundial 2026 e viajou para Houston, onde defronta o primeiro adversário do grupo."
+        },
+        {
+          "headline": "Irão e Nova Zelândia empatam a dois golos",
+          "text": "O Irão e a Nova Zelândia empataram 2-2 no jogo do Grupo D do Mundial 2026."
+        },
+        {
+          "headline": "Bélgica tropeça na estreia contra o Egito",
+          "text": "A Bélgica perdeu na estreia do Mundial 2026 frente ao Egito, numa surpresa do torneio."
+        },
+        {
+          "headline": "Cabo Verde eufórico nas ruas festeja empate como uma vitória",
+          "text": "As ruas de Cabo Verde explodiram de alegria com o empate no Mundial, festejado como uma verdadeira vitória."
+        },
+        {
+          "headline": "Neto de Cavaco Silva abandona a Académica",
+          "text": "O neto do ex-presidente Cavaco Silva deixou a Académica de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "REGIÃO & INCIDENTES",
+      "stories": [
+        {
+          "headline": "Bombeiros chamados para combater fogo numa habitação em Mira",
+          "text": "Os bombeiros foram acionados para combater um incêndio numa habitação em Mira."
+        },
+        {
+          "headline": "Chamas irrompem em loja de roupa na Mealhada",
+          "text": "Um incêndio irrompeu numa loja de roupa na Mealhada, com bombeiros no local."
+        },
+        {
+          "headline": "Marchas Populares de Santo António levam 600 marchantes a Montemor-o-Velho",
+          "text": "As Marchas Populares de Santo António reuniram cerca de 600 marchantes em Montemor-o-Velho, celebrando a noite popular."
+        },
+        {
+          "headline": "Penela aprova votos de reconhecimento a atletas do concelho",
+          "text": "O município de Penela aprovou votos de reconhecimento aos atletas do concelho pelas suas conquistas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "PSP que matou Odair Moniz condenado a pena suspensa",
+          "text": "O agente da PSP condenado pela morte de Odair Moniz recebeu uma pena suspensa. O polícia pode recorrer da decisão."
+        },
+        {
+          "headline": "Grupo de jovens aterroriza criança - sequestrada e ameaçada",
+          "text": "Um grupo de jovens aterrorizou uma criança, que foi sequestrada e ameaçada."
+        },
+        {
+          "headline": "Encapuzados perseguem homem, amordaçam-no e limpam fortuna em ouro",
+          "text": "Homens encapuzados perseguiram um homem até sua casa, amordaçaram-no e roubaram uma fortuna em ouro."
+        },
+        {
+          "headline": "11 anos depois, nova pista inesperada pode mudar o rumo do caso",
+          "text": "Após 11 anos, uma nova pista inesperada pode mudar o rumo do caso de uma mulher que saiu de casa e nunca mais foi vista."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA & PORTUGAL",
+      "stories": [
+        {
+          "headline": "100 dias de António José Seguro como Presidente da República",
+          "text": "Apelos a moderação e ao fim do improviso perante catástrofes marcam os primeiros 100 dias de Seguro como Presidente."
+        },
+        {
+          "headline": "Governo português saúda acordo entre Irão e EUA",
+          "text": "O Governo português saudou o acordo alcançado entre o Irão e os EUA."
+        },
+        {
+          "headline": "Portugal é dos que mais confia nos media mas tenta evitar notícias",
+          "text": "Portugal está entre os países que mais confia nos media, mas também entre os que mais tentam evitar notícias, segundo estudo global."
+        },
+        {
+          "headline": "Confiança nas notícias a nível global atinge nível mais baixo em 10 anos",
+          "text": "A confiança nas notícias a nível global atingiu o nível mais baixo dos últimos 10 anos."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Turismo Centro de Portugal não vai à BTL 2027",
+          "text": "O Turismo Centro de Portugal confirmou que não vai marcar presença na BTL 2027, a principal feira de turismo do país."
+        },
+        {
+          "headline": "Tempestades no Centro já levaram 29 milhões em indemnizações",
+          "text": "As tempestades que atingiram a Região Centro já resultaram em 29 milhões de euros em indemnizações."
+        },
+        {
+          "headline": "Separar ou pagar caro - aviso urgente da Agência Portuguesa do Ambiente",
+          "text": "A Agência Portuguesa do Ambiente avisa: separar o lixo ou pagar caro. As novas regras de reciclagem entram em vigor este verão."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Herói da pandemia regressa à medicina após doença incapacitante",
+          "text": "O médico considerado herói da pandemia regressou à medicina após superar uma doença incapacitante."
+        },
+        {
+          "headline": "Bebé com dias de vida morria engasgada - salvo pelos bombeiros",
+          "text": "Um bebé com dias de vida foi salvo pelos bombeiros depois de se engasgar. Sem a intervenção rápida, teria morrido."
+        },
+        {
+          "headline": "Farmácias convidam portugueses a dar 'troco a quem precisa'",
+          "text": "As farmácias lançaram uma campanha solidária, convidando os portugueses a doar o troco a quem precisa."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Drag Brunch Portugal regressa a Coimbra com programação especial",
+          "text": "O Drag Brunch Portugal regressa a Coimbra no mês do Orgulho LGBTQIAPN+ com uma programação muito especial."
+        },
+        {
+          "headline": "Expofacic transforma Cantanhede na capital da festa durante 11 dias",
+          "text": "Com 600 expositores e 200 espetáculos, a Expofacic transforma Cantanhede na capital da festa durante 11 dias, com novas atrações e áreas remodeladas."
+        },
+        {
+          "headline": "Templo Ecuménico celebra Solstício de Verão com vinho, música e espiritualidade",
+          "text": "O Templo Ecuménico celebra o Solstício de Verão com uma noite de vinho, música e espiritualidade."
+        },
+        {
+          "headline": "Benção das Pastas na Universidade de Coimbra",
+          "text": "Os finalistas da Universidade de Coimbra viveram a tradição da Benção das Pastas, memória que vão guardar durante muitos anos."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Bombardeiro B-52 despenha-se após descolagem de base militar dos EUA",
+          "text": "Um bombardeiro B-52 despenhou-se pouco após a descolagem de uma base militar dos Estados Unidos."
+        },
+        {
+          "headline": "Bonnie Tyler já acordou do coma",
+          "text": "A cantora Bonnie Tyler, internada em estado grave, já acordou do coma."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "O erro comum que muitos condutores cometem e pode sair caríssimo",
+          "text": "Um erro comum ao conduzir pode resultar em multas caríssimas para os condutores menos atentos."
+        },
+        {
+          "headline": "Ficar sem combustível na estrada pode dar multa?",
+          "text": "Ficar sem combustível na estrada não é apenas inconveniente - pode mesmo dar multa ao condutor."
+        }
+      ]
+    }
+  ]
+}
