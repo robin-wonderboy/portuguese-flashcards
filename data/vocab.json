@@ -17124,5 +17124,143 @@
       "example_de": "Der SNS-Ausfall wirft Fragen der Verantwortlichmachung und fehlender Generatoren auf",
       "example_en": "The SNS outage raises questions of accountability and lack of generators"
     }
+  ],
+  "2026-06-16": [
+    {
+      "pt": "irromper",
+      "de": "ausbrechen",
+      "en": "to break out / burst into",
+      "example": "Chamas irrompem em loja de roupa",
+      "example_de": "Flammen brechen in Kleidungsgeschäft aus",
+      "example_en": "Flames break out in a clothing store"
+    },
+    {
+      "pt": "aterrorizar",
+      "de": "terrorisieren",
+      "en": "to terrorize",
+      "example": "Grupo de jovens aterroriza criança",
+      "example_de": "Gruppe von Jugendlichen terrorisiert Kind",
+      "example_en": "Group of youths terrorizes a child"
+    },
+    {
+      "pt": "amordaçar",
+      "de": "knebeln",
+      "en": "to gag / muzzle",
+      "example": "Encapuzados perseguem homem e amordaçam-no",
+      "example_de": "Maskierte verfolgen Mann und knebeln ihn",
+      "example_en": "Hooded men chase and gag a man"
+    },
+    {
+      "pt": "a condenação",
+      "de": "die Verurteilung",
+      "en": "the conviction / sentence",
+      "example": "Polícia condenado pela morte de Odair Moniz",
+      "example_de": "Polizist verurteilt wegen Tod von Odair Moniz",
+      "example_en": "Police officer convicted for death of Odair Moniz"
+    },
+    {
+      "pt": "encapuzado",
+      "de": "maskiert",
+      "en": "hooded",
+      "example": "Encapuzados perseguem homem até casa",
+      "example_de": "Maskierte verfolgen Mann bis nach Hause",
+      "example_en": "Hooded men chase a man to his home"
+    },
+    {
+      "pt": "a confiança",
+      "de": "das Vertrauen",
+      "en": "trust / confidence",
+      "example": "Portugal é dos que mais confia nos media",
+      "example_de": "Portugal gehört zu denen, die Medien am meisten vertrauen",
+      "example_en": "Portugal is among those who trust media most"
+    },
+    {
+      "pt": "a valorização",
+      "de": "die Aufwertung",
+      "en": "appreciation / enhancement",
+      "example": "Nova estratégia de valorização na Região Centro",
+      "example_de": "Neue Aufwertungsstrategie in der Região Centro",
+      "example_en": "New enhancement strategy in the Centro Region"
+    },
+    {
+      "pt": "caríssimo",
+      "de": "sehr teuer",
+      "en": "very expensive",
+      "example": "Pode sair caríssimo",
+      "example_de": "Kann sehr teuer werden",
+      "example_en": "It can be very expensive"
+    },
+    {
+      "pt": "saudar",
+      "de": "begrüßen",
+      "en": "to greet / welcome",
+      "example": "Governo português saúda acordo entre Irão e EUA",
+      "example_de": "Portugiesische Regierung begrüßt Abkommen zwischen Iran und USA",
+      "example_en": "Portuguese government welcomes Iran-US agreement"
+    },
+    {
+      "pt": "a palhaçada",
+      "de": "der Unsinn / Witz",
+      "en": "nonsense / farce",
+      "example": "É uma palhaçada! Nuno Homem de Sá reage à condenação",
+      "example_de": "Das ist ein Witz! Nuno Homem de Sá reagiert auf die Verurteilung",
+      "example_en": "It is a farce! Nuno Homem de Sá reacts to the conviction"
+    },
+    {
+      "pt": "o reconhecimento",
+      "de": "die Anerkennung",
+      "en": "recognition / acknowledgment",
+      "example": "Penela aprova votos de reconhecimento a atletas",
+      "example_de": "Penela billigt Anerkennungsbeschlüsse für Athleten",
+      "example_en": "Penela approves recognition motions for athletes"
+    },
+    {
+      "pt": "a pista",
+      "de": "die Spur / der Hinweis",
+      "en": "clue / trail",
+      "example": "Nova pista inesperada pode mudar o rumo do caso",
+      "example_de": "Neue unerwartete Spur kann den Verlauf des Falls ändern",
+      "example_en": "New unexpected clue may change the course of the case"
+    },
+    {
+      "pt": "o rumo",
+      "de": "die Richtung / der Kurs",
+      "en": "direction / course",
+      "example": "Pode mudar o rumo do caso",
+      "example_de": "Kann den Verlauf des Falls ändern",
+      "example_en": "May change the course of the case"
+    },
+    {
+      "pt": "incapacitante",
+      "de": "behindernd",
+      "en": "disabling / incapacitating",
+      "example": "Herói da pandemia regressa após doença incapacitante",
+      "example_de": "Pandemie-Held kehrt zurück nach behindernder Krankheit",
+      "example_en": "Pandemic hero returns after incapacitating illness"
+    },
+    {
+      "pt": "a fortuna",
+      "de": "das Vermögen",
+      "en": "fortune / wealth",
+      "example": "Limparam fortuna em ouro",
+      "example_de": "Sie haben ein Vermögen an Gold geplündert",
+      "example_en": "They cleaned out a fortune in gold"
+    },
+    {
+      "pt": "a programação",
+      "de": "das Programm",
+      "en": "programming / lineup",
+      "example": "Mês do Orgulho com programação especial",
+      "example_de": "Pride-Monat mit besonderem Programm",
+      "example_en": "Pride Month with special programming"
+    },
+    {
+      "pt": "suspensa",
+      "de": "auf Bewährung",
+      "en": "suspended (sentence)",
+      "example": "PSP condenado a pena suspensa",
+      "example_de": "PSP zu Bewährungsstrafe verurteilt",
+      "example_en": "PSP officer given suspended sentence"
+    }
   ]
 }
