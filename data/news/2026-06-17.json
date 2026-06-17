@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🕯️",
+      "category": "REGIÃO & MEMÓRIA",
+      "stories": [
+        {
+          "headline": "9 anos depois: a memória assombrada de Pedrógão Grande",
+          "text": "A Associação de Vítimas do Incêndio de Pedrógão Grande abre a sua sede na Figueira, no dia em que se passam nove anos sobre a tragédia que matou dezenas de pessoas. A dor recusa curar."
+        },
+        {
+          "headline": "Bombeiros de Penela salvam gato bebé",
+          "text": "Um susto com final feliz! Os bombeiros de Penela resgataram um gato bebé que estava em dificuldades."
+        },
+        {
+          "headline": "Piscinas de Miranda do Corvo regressam em força",
+          "text": "Mais de 600 entradas marcaram o regresso triunfal das piscinas de Miranda do Corvo, que reabriram ao público."
+        },
+        {
+          "headline": "Gin de Coimbra conquista prémio internacional",
+          "text": "Um gin produzido em Coimbra ganhou um prémio internacional e entrou no radar mundial da coquetelaria."
+        },
+        {
+          "headline": "O mundo ouviu Coimbra: cidade apresenta visão para o futuro",
+          "text": "Coimbra apresentou a sua visão para o futuro perante uma audiência internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Tribunal lê acórdão de arguido acusado de matar Manu no bar académico de Braga",
+          "text": "O tribunal lê o acórdão no caso do homicídio de Manu, ocorrido num bar académico de Braga."
+        },
+        {
+          "headline": "Jovem português que encomendava massacres no Brasil conhece decisão judicial",
+          "text": "O jovem português acusado de encomendar massacres no Brasil conhece agora a decisão judicial sobre o seu caso."
+        },
+        {
+          "headline": "Caso Vale de Judeus: PJ faz nova detenção",
+          "text": "A Polícia Judiciária fez uma nova detenção no âmbito do caso Vale de Judeus, que ainda não acabou."
+        },
+        {
+          "headline": "Homem baleado encontrado após chamada de socorro para 'queda na rua'",
+          "text": "Ligaram a pedir socorro para uma queda na rua, mas quando os bombeiros chegaram encontraram um homem baleado."
+        },
+        {
+          "headline": "Arquiteto faz participação ao Ministério Público sobre suspensão do PDM de Coimbra",
+          "text": "Um arquiteto apresentou uma participação ao Ministério Público sobre a suspensão parcial do Plano Diretor Municipal de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Chamas devoram fábrica de calçado em Felgueiras",
+          "text": "Um incêndio devorou uma fábrica de calçado em Felgueiras. Sem informações sobre vítimas."
+        },
+        {
+          "headline": "Homem morre após ser atingido por pneu solto no IC2",
+          "text": "Um homem morreu depois de ser atingido por um pneu solto na estrada IC2."
+        },
+        {
+          "headline": "Desfecho trágico na Praia do Peneco: encontrado corpo de jovem desaparecido",
+          "text": "Foi encontrado o corpo de um jovem que tinha desaparecido na Praia do Peneco, em Albufeira."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Cientistas descobrem truque que mantém dengue viva dentro dos mosquitos",
+          "text": "Investigadores descobriram o mecanismo que permite ao vírus da dengue sobreviver dentro dos mosquitos, abrindo portas a novas estratégias de combate."
+        },
+        {
+          "headline": "Falta de vitaminas C e A associada a hiperatividade e défice de atenção",
+          "text": "Um novo estudo associa a carência de vitaminas C e A a sintomas de hiperatividade e défice de atenção em crianças."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Ventura e Montenegro tentam acordo mas lei laboral ficou 'em visto por ler'",
+          "text": "André Ventura e o primeiro-ministro Montenegro tentam chegar a acordo, mas a legislação laboral ficou por detalhar - 'visto por ler'."
+        },
+        {
+          "headline": "Candidatos avançam com providência cautelar para impugnar eleições no PS Coimbra",
+          "text": "Candidatos às eleições internas do PS Coimbra recorreram aos tribunais para contestar o processo eleitoral."
+        },
+        {
+          "headline": "100 dias de António José Seguro como presidente da República",
+          "text": "Passaram 100 dias desde que António José Seguro tomou posse como presidente da República, com apelos à moderação e ao fim do improviso perante catástrofes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & MUNDIAL",
+      "stories": [
+        {
+          "headline": "Mundial 2026: Rúben Dias falha estreia de Portugal",
+          "text": "O defesa Rúben Dias não estará disponível para a estreia de Portugal no Mundial 2026."
+        },
+        {
+          "headline": "Mundial 2026: Martinez diz que Portugal está preparado e fala em 'sonho racional'",
+          "text": "O selecionador Roberto Martinez afirmou que Portugal está preparado para o Mundial e falou num 'sonho racional'."
+        },
+        {
+          "headline": "Argentina bate Argélia com hat-trick de Messi",
+          "text": "A Argentina goleou a Argélia com um hat-trick de Messi no Mundial 2026."
+        },
+        {
+          "headline": "Streamer de Penacova a fazer sucesso no Mundial",
+          "text": "Um streamer de Penacova está a ganhar notoriedade durante a cobertura do Mundial de futebol."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo de 6,7 atinge centro da Indonésia e provoca estragos",
+          "text": "Um sismo de magnitude 6,7 atingiu o centro da Indonésia, provocando estragos significativos."
+        },
+        {
+          "headline": "Bombardeiro B-52 despenha-se após descolagem de base militar dos EUA",
+          "text": "Um bombardeiro B-52 caiu logo após descolar de uma base militar dos Estados Unidos."
+        },
+        {
+          "headline": "Índia restringe acesso ao Telegram para evitar fugas durante exames",
+          "text": "A Índia bloqueou o acesso à rede social Telegram durante exames nacionais para evitar fugas de informações."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Sindicato da educação marca greve para quinta-feira",
+          "text": "O sindicato da educação marcou uma greve para quinta-feira em protesto contra o novo pacote laboral."
+        },
+        {
+          "headline": "81 mil alunos fazem prova de Português no arranque dos exames nacionais",
+          "text": "Cerca de 81 mil alunos iniciaram os exames nacionais com a prova de Português."
+        },
+        {
+          "headline": "Gelatina inovadora para gatos vence Poliempreende no Politécnico de Coimbra",
+          "text": "Um projeto de gelatina inovadora para hidratação de gatos doentes ou em viagem venceu o Poliempreende no Politécnico de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Duran Duran regressam a Portugal para concerto único",
+          "text": "A banda Duran Duran regressa a Portugal para um concerto único."
+        },
+        {
+          "headline": "BTL 2026 foi a melhor de sempre e reforça aposta na internacionalização",
+          "text": "A Bolsa de Turismo de Lisboa 2026 foi a melhor edição de sempre e reforça a aposta na internacionalização para 2027."
+        },
+        {
+          "headline": "Praias lindíssimas de Cantanhede para estender a toalha este verão",
+          "text": "As praias de Cantanhede são o destino ideal para estender a toalha este verão."
+        },
+        {
+          "headline": "Verão cheio de arte e criatividade para crianças em Coimbra",
+          "text": "Coimbra oferece um verão repleto de atividades artísticas e criativas para as crianças."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Primeira loja física permanente da Shein em Paris vai fechar portas",
+          "text": "A primeira loja física permanente da Shein em Paris vai encerrar as suas portas."
+        },
+        {
+          "headline": "Galp apoia requalificação de equipamentos dos bombeiros de Arganil",
+          "text": "A Galp apoiou a requalificação e reforço de equipamentos dos bombeiros voluntários de Arganil."
+        }
+      ]
+    }
+  ]
+}
