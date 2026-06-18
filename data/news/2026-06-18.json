@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "☀️",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Calor sufocante coloca 6 distritos em perigo máximo de incêndio",
+          "text": "Onda de calor intensa coloca seis distritos portugueses em nível máximo de perigo de incêndio florestal. Autoridades recomendam extremo cuidado em zonas rurais e florestais."
+        },
+        {
+          "headline": "Taxas sobre lucros extraordinários das empresas energéticas em preparação",
+          "text": "O governo prepara novas taxas sobre lucros extraordinários das empresas do setor energético, seguindo tendência europeia para taxar excedentes de lucro em períodos de crise."
+        },
+        {
+          "headline": "Em 2 dias, duas mulheres morrem afogadas em piscinas particulares",
+          "text": "Nanda Nogueira e Ana Sousa morrem afogadas em piscinas particulares num intervalo de apenas dois dias, renovando alertas sobre segurança aquática."
+        },
+        {
+          "headline": "Diretor Nacional considera \"aliciante\" a carreira na PSP",
+          "text": "O Diretor Nacional da PSP destaca as oportunidades na carreira policial, considerando-a atraente para novos candidatos num contexto de necessidade de reforço dos efetivos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Mulher em estado grave após violenta agressão do companheiro",
+          "text": "Uma mulher ficou em estado grave depois de ser violentamente agredida pelo companheiro. Caso renovou alertas sobre violência doméstica em Portugal."
+        },
+        {
+          "headline": "Manual de apoio contra discurso de ódio lançado em Portugal",
+          "text": "Foi lançado em Portugal um manual de apoio para combater o discurso de ódio, fornecendo ferramentas práticas para vítimas e profissionais."
+        },
+        {
+          "headline": "Ex-adjunto do Ministério da Justiça responde por 8 mil crimes de pornografia e abuso de menores",
+          "text": "Um ex-adjunto do Ministério da Justiça é arguido em processo que envolve 8 mil crimes de pornografia e abuso de menores, um dos maiores processos do género em Portugal."
+        },
+        {
+          "headline": "21 anos e meio de prisão por matar jovem à facada junto a bar académico",
+          "text": "Tribunal condenou a 21 anos e meio de prisão o arguido que matou um jovem à facada junto a um bar académico em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Torre Arnado muda de dono: Revito compra o 1º Business Center de Coimbra",
+          "text": "A Revito adquiriu a Torre Arnado, primeiro business center de Coimbra, marcando uma mudança significativa no panorama imobiliário da cidade."
+        },
+        {
+          "headline": "Afocelca tem novo Centro de Coordenação Operacional na Figueira da Foz",
+          "text": "A Afocelca inaugurou novo centro de coordenação operacional na Figueira da Foz, reforçando a capacidade de resposta a incêndios florestais na região."
+        },
+        {
+          "headline": "Campeonato nacional dos castelos disputado em Montemor-o-Velho",
+          "text": "Montemor-o-Velho recebe o campeonato nacional dos castelos, evento que combina desporto e património histórico."
+        },
+        {
+          "headline": "Programa Floresta Ativa está de regresso",
+          "text": "O programa Floresta Ativa regressa com iniciativas de prevenção e limpeza florestal para combater o risco de incêndios na região centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Em contagem decrescente para a grande \"festa do livro\" de Coimbra",
+          "text": "A Feira do Livro de Coimbra está quase a abrir portas, com petiscos e jogos do Mundial 2026 para animar os visitantes."
+        },
+        {
+          "headline": "Vinália reúne vinhos, gastronomia e tradições em Penela",
+          "text": "O festival Vinália em Penela promete reunir o melhor dos vinhos, gastronomia e tradições da região."
+        },
+        {
+          "headline": "\"Pares Ímpares I\" inaugura parceria entre município de Coimbra e Fundação Vieira da Silva",
+          "text": "Exposição \"Pares Ímpares I\" marca início de parceria cultural entre o município de Coimbra e a Fundação Vieira da Silva."
+        },
+        {
+          "headline": "\"Chico Fininho\" irá ver o \"Pôr do Sol\" em Penacova",
+          "text": "O músico Chico Fininho atua em Penacova com o espetáculo \"Pôr do Sol\", prometendo uma noite memorável."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Cristiano Ronaldo reage ao empate: \"Cabeça levantada\"",
+          "text": "Após empate do Al-Nassr, Cristiano Ronaldo partilhou mensagem positiva nas redes sociais: \"Cabeça levantada\"."
+        },
+        {
+          "headline": "Mundial 2026: Irão e Nova Zelândia empatam a dois golos",
+          "text": "Irão e Nova Zelândia somaram pontos com um empate a dois golos num jogo disputado do Mundial 2026."
+        },
+        {
+          "headline": "Pais de Diogo Jota vão assistir à estreia de Portugal no Mundial 2026",
+          "text": "Os pais de Diogo Jota confirmaram presença na estreia de Portugal no Mundial 2026, demonstrando apoio ao filho selecionado."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Desenvolvidas plantas que brilham e mudam de cor quando infetadas por vírus",
+          "text": "Cientistas desenvolveram plantas que brilham e mudam de cor quando infetadas por vírus, possibilitando deteção precoce de doenças em cultivos agrícolas."
+        },
+        {
+          "headline": "Horas extra nas urgências podem valer entre 45% e 85,5% do salário",
+          "text": "Novo acordo define que horas extra nas urgências hospitalares podem valer entre 45% e 85,5% do salário base dos médicos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Centro Qualifica de Penacova realiza primeira mobilidade Erasmus+ para adultos",
+          "text": "O Centro Qualifica de Penacova realizou pela primeira vez uma mobilidade Erasmus+ destinada a adultos, ampliando oportunidades de formação profissional."
+        },
+        {
+          "headline": "Politécnico de Coimbra promove caminhada",
+          "text": "O Politécnico de Coimbra organiza caminhada aberta à comunidade, promovendo saúde e convivência."
+        }
+      ]
+    }
+  ]
+}
