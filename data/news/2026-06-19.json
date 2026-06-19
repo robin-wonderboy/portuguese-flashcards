@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Calor abrasador vai castigar o país. Nem à sombra se vai estar bem",
+          "text": "Sete distritos de Portugal continental ficam sob aviso amarelo este fim de semana devido a tempo quente persistente. Bragança, Évora, Guarda, Vila Real, Beja, Castelo Branco e Portalegre são os mais afetados."
+        },
+        {
+          "headline": "Perigo de incêndio espreita em Portugal",
+          "text": "Vinte e três concelhos de Bragança, Castelo Branco, Santarém, Portalegre e Faro estão em perigo máximo de incêndio rural segundo o IPMA."
+        },
+        {
+          "headline": "Vespas asiáticas mantêm pista de radiomodelismo encerrada em Coimbra",
+          "text": "A pista do Estádio Universitário continua encerrada apesar de os Bombeiros Sapadores terem eliminado o ninho de vespas asiáticas. A secção de radiomodelismo aguarda confirmação de segurança."
+        }
+      ]
+    },
+    {
+      "emoji": "🔍",
+      "category": "DESAPARECIMENTO EM MIRA",
+      "stories": [
+        {
+          "headline": "Sem sinal do \"Patolas\" em Mira: Buscas retomam esta sexta-feira",
+          "text": "As buscas pelo homem conhecido como Amigo Patolas, desaparecido em Mira, retomam esta sexta-feira sem qualquer sinal do paradeiro."
+        },
+        {
+          "headline": "Árvores caídas durante as tempestades dificultam buscas por homem desaparecido em Mira",
+          "text": "As árvores tombadas durante as recentes tempestades estão a dificultar as operações de busca pelo homem desaparecido na zona de Mira."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Grupo neonazi planeia ataque contra Luís Montenegro; chefe da PSP envolvido",
+          "text": "Um grupo de extrema-direita terá reunido dados sobre figuras políticas e alegadamente planeado ações violentas, incluindo contra o primeiro-ministro. Entre os nove arguidos do processo do Movimento Armilar Lusitano está um chefe da PSP."
+        },
+        {
+          "headline": "Burlão internacional apanhado pela PSP. Estava escondido em Montemor-o-Velho",
+          "text": "A PSP deteve dois homens procurados pelas autoridades brasileiras por burla e fraude comercial, causando prejuízos superiores a 168 mil euros. Foram detidos em Montemor-o-Velho."
+        },
+        {
+          "headline": "APAV apoiou 169 refugiados vítimas de crime em 5 anos",
+          "text": "A Associação Portuguesa de Apoio à Vítima apoiou 169 refugiados vítimas de crime entre 2021 e 2025, um aumento de 287,5%. Os dados foram divulgados pelo Dia Mundial dos Refugiados."
+        },
+        {
+          "headline": "Padrasto de menores abandonados na rua vai continuar preso em Portugal",
+          "text": ""
+        },
+        {
+          "headline": "Menina levada da escola e morta na serra: \"Será uma questão de vingança\"",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Há \"90 razões\" para \"perder a cabeça\" na Feira do Livro de Coimbra",
+          "text": "A 47.ª edição da Feira do Livro arranca hoje no Parque Manuel Braga, com 90 atividades, 60 expositores e mais de 200 chancelas editoriais. O certame presta homenagem à escritora Teolinda Gersão e decorre até 28 de junho."
+        },
+        {
+          "headline": "A maior gruta turística de Portugal fica a um \"pulinho\" de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Estes são os nomes do cartaz das Festas de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "A Bifranga vai andar de festival em festival este verão",
+          "text": ""
+        },
+        {
+          "headline": "Festas de São Tomé prometem transformar Mira num \"festival gigante\" à beira-mar",
+          "text": ""
+        },
+        {
+          "headline": "O verão começa aqui: Alvoco da Serra revive rituais antigos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🍰",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Há uma nova razão para provar os doces da Moinho Novo",
+          "text": ""
+        },
+        {
+          "headline": "Quatro dias de \"loucura boa\": Oliveira do Hospital prepara mega festa na zona histórica",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
