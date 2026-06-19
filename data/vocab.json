@@ -17655,5 +17655,111 @@
       "example_de": "8.000 Verbrechen der Pornografie und des Kindesmissbrauchs",
       "example_en": "8,000 crimes of pornography and child abuse"
     }
+  ],
+  "2026-06-19": [
+    {
+      "pt": "transformar",
+      "de": "verwandeln",
+      "en": "to transform",
+      "example": "As festas prometem transformar Mira num festival gigante",
+      "example_de": "Die Feste versprechen, Mira in ein riesiges Festival zu verwandeln",
+      "example_en": "The festivities promise to transform Mira into a giant festival"
+    },
+    {
+      "pt": "o extermínio",
+      "de": "die Vernichtung",
+      "en": "the extermination",
+      "example": "Procedeu-se ao extermínio do ninho de vespas",
+      "example_de": "Die Vernichtung des Wespennests wurde durchgeführt",
+      "example_en": "The extermination of the wasp nest was carried out"
+    },
+    {
+      "pt": "a chancela",
+      "de": "das Verlagszeichen",
+      "en": "the publishing imprint",
+      "example": "Mais de 200 chancelas editoriais reunidas na feira",
+      "example_de": "Mehr als 200 Verlagszeichen auf der Messe versammelt",
+      "example_en": "More than 200 publishing imprints gathered at the fair"
+    },
+    {
+      "pt": "dificultar",
+      "de": "erschweren",
+      "en": "to make difficult, to hamper",
+      "example": "Árvores caídas dificultam buscas",
+      "example_de": "Umgestürzte Bäume erschweren die Suche",
+      "example_en": "Fallen trees hamper the search"
+    },
+    {
+      "pt": "a neutralização",
+      "de": "die Neutralisierung",
+      "en": "the neutralization",
+      "example": "Procedeu-se à neutralização do ninho de vespas",
+      "example_de": "Die Neutralisierung des Wespennests wurde durchgeführt",
+      "example_en": "The neutralization of the wasp nest was carried out"
+    },
+    {
+      "pt": "prestar",
+      "de": "leisten",
+      "en": "to provide, to render",
+      "example": "O certame presta homenagem à escritora Teolinda Gersão",
+      "example_de": "Die Veranstaltung ehrt die Schriftstellerin Teolinda Gersão",
+      "example_en": "The event pays tribute to writer Teolinda Gersão"
+    },
+    {
+      "pt": "ilegítimo",
+      "de": "rechtswidrig",
+      "en": "illegitimate, unlawful",
+      "example": "Acesso ilegítimo a sistemas informáticos",
+      "example_de": "Rechtswidriger Zugang zu EDV-Systemen",
+      "example_en": "Illegitimate access to computer systems"
+    },
+    {
+      "pt": "procurado",
+      "de": "gesucht",
+      "en": "wanted (by police)",
+      "example": "Dois homens procurados pelas autoridades brasileiras",
+      "example_de": "Zwei von den brasilianischen Behörden gesuchte Männer",
+      "example_en": "Two men wanted by Brazilian authorities"
+    },
+    {
+      "pt": "a secção",
+      "de": "die Abteilung",
+      "en": "the section, the department",
+      "example": "A secção de radiomodelismo da AAC",
+      "example_de": "Die Modellflugabteilung der AAC",
+      "example_en": "The RC modeling section of AAC"
+    },
+    {
+      "pt": "a persistência",
+      "de": "die Hartnäckigkeit",
+      "en": "persistence",
+      "example": "Devido à persistência de valores elevados de temperatura",
+      "example_de": "Aufgrund der Hartnäckigkeit hoher Temperaturwerte",
+      "example_en": "Due to the persistence of high temperature values"
+    },
+    {
+      "pt": "o aumento",
+      "de": "der Anstieg",
+      "en": "the increase",
+      "example": "Num aumento de 287,5% face ao primeiro ano",
+      "example_de": "Ein Anstieg von 287,5% gegenüber dem ersten Jahr",
+      "example_en": "An increase of 287.5% compared to the first year"
+    },
+    {
+      "pt": "prometer",
+      "de": "versprechen",
+      "en": "to promise",
+      "example": "As festas prometem transformar Mira num festival gigante",
+      "example_de": "Die Feste versprechen, Mira in ein riesiges Festival zu verwandeln",
+      "example_en": "The festivities promise to transform Mira into a giant festival"
+    },
+    {
+      "pt": "à beira-mar",
+      "de": "am Meer",
+      "en": "seaside, by the sea",
+      "example": "Festas de São Tomé prometem transformar Mira num festival à beira-mar",
+      "example_de": "Die São-Tomé-Feste versprechen, Mira in ein Festival am Meer zu verwandeln",
+      "example_en": "São Tomé festivities promise to transform Mira into a seaside festival"
+    }
   ]
 }
