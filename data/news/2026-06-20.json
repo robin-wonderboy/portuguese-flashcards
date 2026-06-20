@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "42ºC à sombra? Portugal prepara-se para dias escaldantes",
+          "text": "Portugal enfrenta uma onda de calor intensa nos próximos dias, com temperaturas que podem atingir os 42ºC. As autoridades recomendam precauções e hidratação constante."
+        },
+        {
+          "headline": "Mudança de planos: Onda de calor intensa a caminho… mas com trovoadas à mistura",
+          "text": "A previsão meteorológica indica que a onda de calor será acompanhada de trovoadas em algumas regiões do país, criando condições meteorológicas mistas e imprevisíveis."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Prisão preventiva para \"monstro\" que asfixiou pequena Lara e largou o corpo na Serra",
+          "text": "O pai de Lara ficou em prisão preventiva, acusado de ter asfixiado a filha de 5 anos e abandonado o corpo na Serra da Lousã. O caso chocou toda a região."
+        },
+        {
+          "headline": "\"Não era eu\"! Madrasta de Lara fica atrás das grades",
+          "text": "A madrasta de Lara foi igualmente colocada em prisão preventiva. Em tribunal, afirmou \"Não era eu\" perante as acusações."
+        },
+        {
+          "headline": "PSP ensinava a fazer bombas para grupo neonazi",
+          "text": "Um agente da PSP teria ensinado a fabricar explosivos a um grupo neonazi, revelando uma grave falha de segurança interna na corporação."
+        },
+        {
+          "headline": "Padrasto abusa de enteada na Figueira da Foz",
+          "text": "Um padrasto foi detido na Figueira da Foz por abusos continuados da enteada menor."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRÂNSITO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Colisão em Coimbra faz 1 ferido grave",
+          "text": "Uma colisão entre viaturas em Coimbra deixou uma pessoa gravemente ferida, segundo a proteção civil."
+        },
+        {
+          "headline": "Colisão entre autocarro dos SMTUC e 2 carros em Coimbra",
+          "text": "Um autocarro dos SMTUC colidiu com dois carros na cidade de Coimbra. Pelo menos uma pessoa ficou ferida."
+        },
+        {
+          "headline": "Avião aterra de emergência no aeroporto Sá Carneiro",
+          "text": "Um avião teve de efetuar uma aterragem de emergência no aeroporto Sá Carneiro, no Porto. Sem feridos a registar."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTAS",
+      "stories": [
+        {
+          "headline": "Sardinhas, vinho e danças: Fogueiras voltam a aquecer as noites de Coimbra",
+          "text": "As tradicionais fogueiras de São João estão de volta a Coimbra, com sardinhas, vinho e danças populares a animar as noites da cidade."
+        },
+        {
+          "headline": "Drag Brunch volta a Coimbra e serve uma dose de Orgulho na Baixa",
+          "text": "O evento Drag Brrench regressa à Baixa de Coimbra, servindo uma dose de orgulho e diversidade num ambiente festivo e inclusivo."
+        },
+        {
+          "headline": "Leitão, chanfana e DJ até de madrugada animam festa em Trouxemil",
+          "text": "A festa em Trouxemil promove leitão assado, chanfana e música com DJ até de madrugada, numa celebração dos sabores e tradições locais."
+        },
+        {
+          "headline": "O verão chega mais cedo! Mealhada prepara maratona de diversão com arte, circo e DJs",
+          "text": "A Mealhada antecipa o verão com um programa repleto de arte, circo e DJs para toda a família."
+        },
+        {
+          "headline": "Coimbra recebe concerto que junta médicos, engenheiros e advogados em palco",
+          "text": "Um concerto original em Coimbra junta profissionais de diferentes áreas num espetáculo musical surpreendente."
+        },
+        {
+          "headline": "O lado \"mais exclusivo\" do RFM SOMNII está quase lotado",
+          "text": "Os bilhetes VIP do festival RFM SOMNII estão quase esgotados, com grande procura para a edição deste ano."
+        },
+        {
+          "headline": "Ponte de Luz marca presença no São João da Lousã com artes esotéricas e terapias energéticas",
+          "text": "O espaço Ponte de Luz traz artes esotéricas e terapias energéticas às festas de São João da Lousã."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "São João da Lousã pode mudar de casa já no próximo ano",
+          "text": "As festas de São João da Lousã podem ter um novo local de realização já no próximo ano, segundo a autarquia."
+        },
+        {
+          "headline": "Vila Nova de Poiares aumenta em 30% apoio financeiro às IPSS do concelho",
+          "text": "O município de Vila Nova de Poiares aumentou em 30% o apoio financeiro às Instituições Particulares de Solidariedade Social do concelho."
+        },
+        {
+          "headline": "Esta ermida no meio do monte nasceu da visão e fé de um cavaleiro injustiçado",
+          "text": "Uma ermida na região nasceu da visão e da fé de um cavaleiro injustiçado, mantendo-se como local de devoção e património histórico."
+        },
+        {
+          "headline": "Da Bairrada para o mundo: Sociedade 4 Cravos quer levar os seus espumantes além-fronteiras",
+          "text": "A Sociedade 4 Cravos, da Bairrada, ambiciona internacionalizar os seus espumantes e conquistar novos mercados além-fronteiras."
+        },
+        {
+          "headline": "Da terra para a mesa: Horta do Valverde aposta em cabazes frescos e produção local em Anadia",
+          "text": "A Horta do Valverde, em Anadia, aposta em cabazes de produtos frescos e produção local para aproximar produtores e consumidores."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "INFÂNCIA & LAZER",
+      "stories": [
+        {
+          "headline": "Jardim Botânico de Coimbra promove \"Férias no Botânico\" para crianças durante o verão",
+          "text": "O Jardim Botânico de Coimbra lançou o programa \"Férias no Botânico\", atividades de verão para crianças que combinam natureza e aprendizagem."
+        }
+      ]
+    }
+  ]
+}
