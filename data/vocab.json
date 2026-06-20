@@ -17761,5 +17761,127 @@
       "example_de": "Die São-Tomé-Feste versprechen, Mira in ein Festival am Meer zu verwandeln",
       "example_en": "São Tomé festivities promise to transform Mira into a seaside festival"
     }
+  ],
+  "2026-06-20": [
+    {
+      "pt": "à sombra",
+      "de": "im Schatten",
+      "en": "in the shade",
+      "example": "42ºC à sombra?",
+      "example_de": "42ºC im Schatten?",
+      "example_en": "42ºC in the shade?"
+    },
+    {
+      "pt": "o autocarro",
+      "de": "der Bus (städtisch)",
+      "en": "bus (city)",
+      "example": "Colisão entre autocarro dos SMTUC e 2 carros",
+      "example_de": "Zusammenstoß zwischen SMTUC-Bus und 2 Autos",
+      "example_en": "Collision between SMTUC bus and 2 cars"
+    },
+    {
+      "pt": "aterrar",
+      "de": "landen",
+      "en": "to land (aircraft)",
+      "example": "Avião aterra de emergência no aeroporto",
+      "example_de": "Flugzeug landet notfallmäßig am Flughafen",
+      "example_en": "Plane makes emergency landing at airport"
+    },
+    {
+      "pt": "a ermida",
+      "de": "die Kapelle, die Einsiedelei",
+      "en": "chapel, hermitage",
+      "example": "Esta ermida no meio do monte",
+      "example_de": "Diese Kapelle mitten auf dem Berg",
+      "example_en": "This chapel in the middle of the hill"
+    },
+    {
+      "pt": "injustiçado",
+      "de": "zu Unrecht verurteilt",
+      "en": "wronged, unjustly condemned",
+      "example": "Nasceu da visão de um cavaleiro injustiçado",
+      "example_de": "Entstand aus der Vision eines zu Unrecht verurteilten Ritters",
+      "example_en": "Born from the vision of a wronged knight"
+    },
+    {
+      "pt": "o orgulho",
+      "de": "der Stolz",
+      "en": "pride",
+      "example": "Serve uma dose de Orgulho na Baixa",
+      "example_de": "Serviert eine Dosis Stolz in der Baixa",
+      "example_en": "Serves a dose of Pride in the Baixa"
+    },
+    {
+      "pt": "lotado",
+      "de": "ausverkauft, voll",
+      "en": "sold out, full",
+      "example": "O lado mais exclusivo está quase lotado",
+      "example_de": "Die exklusivste Seite ist fast ausverkauft",
+      "example_en": "The most exclusive side is almost sold out"
+    },
+    {
+      "pt": "largar",
+      "de": "lassen, fallen lassen",
+      "en": "to let go, to drop",
+      "example": "Largou o corpo na Serra",
+      "example_de": "Ließ den Körper in der Serra liegen",
+      "example_en": "Dumped the body in the Serra"
+    },
+    {
+      "pt": "mudar de casa",
+      "de": "umziehen, das Haus wechseln",
+      "en": "to move house",
+      "example": "São João da Lousã pode mudar de casa",
+      "example_de": "São João da Lousã kann umziehen",
+      "example_en": "São João da Lousã may move house"
+    },
+    {
+      "pt": "o cavaleiro",
+      "de": "der Ritter",
+      "en": "knight, horseman",
+      "example": "Nasceu da visão de um cavaleiro injustiçado",
+      "example_de": "Entstand aus der Vision eines Ritters",
+      "example_en": "Born from the vision of a wronged knight"
+    },
+    {
+      "pt": "de emergência",
+      "de": "notfallmäßig, im Notfall",
+      "en": "emergency (attributive)",
+      "example": "Avião aterra de emergência no aeroporto",
+      "example_de": "Flugzeug landet notfallmäßig am Flughafen",
+      "example_en": "Plane makes emergency landing at airport"
+    },
+    {
+      "pt": "ensinar",
+      "de": "unterrichten, beibringen",
+      "en": "to teach",
+      "example": "PSP ensinava a fazer bombas para grupo neonazi",
+      "example_de": "PSP brachte Neonazi-Gruppe Bombenbau bei",
+      "example_en": "PSP officer taught bomb-making to neo-Nazi group"
+    },
+    {
+      "pt": "o circo",
+      "de": "der Zirkus",
+      "en": "circus",
+      "example": "Mealhada prepara maratona de diversão com arte, circo e DJs",
+      "example_de": "Mealhada bereitet Marathon an Spaß mit Kunst, Zirkus und DJs vor",
+      "example_en": "Mealhada prepares marathon of fun with art, circus and DJs"
+    },
+    {
+      "pt": "a terapêutica",
+      "de": "die Therapie, die Heilkunde",
+      "en": "therapy, therapeutics",
+      "example": "Artes esotéricas e terapias energéticas",
+      "example_de": "Esoterische Künste und Energietherapien",
+      "example_en": "Esoteric arts and energy therapies"
+    },
+    {
+      "pt": "atrás das grades",
+      "de": "hinter Gittern",
+      "en": "behind bars",
+      "example": "Madrasta de Lara fica atrás das grades",
+      "example_de": "Laras Stiefmutter kommt hinter Gitter",
+      "example_en": "Lara stepmother goes behind bars"
+    }
   ]
 }
