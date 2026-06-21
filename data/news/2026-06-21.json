@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Pedro Coimbra \"esmaga\" Américo Baptista",
+          "text": "Nas eleições internas do PSD de Coimbra, Pedro Coimbra derrotou Américo Baptista por margem ampla, consolidando a liderança do partido na região."
+        },
+        {
+          "headline": "Líder do PS considera \"ridículas\" insinuações sobre coligação com o Chega",
+          "text": "O líder socialista rejeitou categoricamente qualquer possibilidade de aliança com o Chega, classificando as insinuações como ridículas."
+        },
+        {
+          "headline": "Paulo Rangel fala de coligação negativa \"chego-socialista\"",
+          "text": "O ministro dos Negócios Estrangeiros afirmou que existe uma coligação negativa entre Chega e PS em Portugal."
+        },
+        {
+          "headline": "PCP celebra derrota do pacote laboral como \"grande vitória\"",
+          "text": "O Partido Comunista considerou a derrota do pacote laboral uma grande vitória dos trabalhadores que não vacilaram."
+        },
+        {
+          "headline": "Ex-ministra Maria Luís Albuquerque vai liderar Conselho Nacional do PSD",
+          "text": "A antiga ministra das Finanças foi escolhida para liderar o Conselho Nacional do PSD, marcando o regresso à linha da frente da política."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Alameda dos HUC vai ser transformada com Metrobus",
+          "text": "A Alameda junto aos Hospitais da Universidade de Coimbra vai ficar completamente diferente com a chegada do Metrobus, prometendo uma nova imagem para a zona."
+        },
+        {
+          "headline": "Mistério em Mira: Patolas desaparecido há 3 dias",
+          "text": "A popular figura da região de Mira está desaparecida há três dias, gerando preocupação e mistério na comunidade local."
+        },
+        {
+          "headline": "Marchas Populares de Mira emocionam público",
+          "text": "As Marchas Populares de Mira voltaram a emocionar, incluindo uma agricultora da Figueira da Foz. O público chegou cedo para garantir os melhores lugares."
+        },
+        {
+          "headline": "\"O lugar do União é nos nacionais\" — adeptos marcam dia de festa",
+          "text": "Adeptos do União de Coimbra marcaram um dia de festa com a ambição de ver o clube nas competições nacionais."
+        },
+        {
+          "headline": "Carlos Luís Tavares reconhecido no Parlamento",
+          "text": "O presidente da Câmara de Coimbra foi reconhecido no Parlamento, sendo elogiado por falar \"com paixão\"."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Madrasta de Lara fica atrás das grades",
+          "text": "A madrasta de Lara foi detida e ficará preventivamente presa. Em tribunal disse \"Não era eu\". Revelação arrepiante: Lara via o pai como um herói."
+        },
+        {
+          "headline": "Casal de 17 anos pega fogo a bar de praia",
+          "text": "Um casal de adolescentes de 17 anos incendiou um bar de praia e acabou detido."
+        },
+        {
+          "headline": "\"Família organizada\" usa crianças e carrinhos de bebé para furtar",
+          "text": "Uma família organizada usava crianças e carrinhos de bebé para ocultar produtos furtados em lojas."
+        },
+        {
+          "headline": "José Manuel Pureza na mira de grupo neonazi",
+          "text": "O professor e antigo deputado BE José Manuel Pureza foi colocado na mira de um grupo neonazi."
+        }
+      ]
+    },
+    {
+      "emoji": "🚑",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Técnicos do INEM pedem socorro e denunciam \"colapso\" da emergência",
+          "text": "Os técnicos do INEM dirigiram-se ao ministro Seguro para denunciar o colapso dos serviços de emergência, pedindo ajuda urgente."
+        },
+        {
+          "headline": "Liga Contra o Cancro organiza workshop para doentes e cuidadores em Coimbra",
+          "text": "A Liga Portuguesa Contra o Cancro promove um workshop de apoio a doentes e cuidadores na cidade de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Benfica arrebata oitavo título nacional feminino de futsal",
+          "text": ""
+        },
+        {
+          "headline": "Benfica conquista campeonato nacional de Hóquei em Patins",
+          "text": ""
+        },
+        {
+          "headline": "Países Baixos já olham para fase seguinte do Mundial 2026",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Piscina gigante de água salgada com vista para o Atlântico",
+          "text": "O segredo mais quente do verão: Portugal tem uma piscina gigante de água salgada com vista para o oceano Atlântico."
+        },
+        {
+          "headline": "Casa Museu Bissaya Barreto recebe aula sobre maternidade, arte e dissidência",
+          "text": ""
+        },
+        {
+          "headline": "Maior palco do país recebe estrela mundial — lotação esgotada",
+          "text": ""
+        },
+        {
+          "headline": "Jardim Botânico promove \"Férias no Botânico\" para crianças",
+          "text": "O Jardim Botânico de Coimbra promove atividades de verão para crianças durante as férias."
+        },
+        {
+          "headline": "Mealhada prepara maratona com arte, circo e DJs",
+          "text": "Mealhada prepara uma maratona de diversão com arte, circo e DJs para celebrar o verão."
+        },
+        {
+          "headline": "Leitão, chanfana e DJ até de madrugada em Trouxemil",
+          "text": "Festa em Trouxemil com Leitão, chanfana e DJ até de madrugada."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Brasileiro desaparece após mergulho em barragem alentejana",
+          "text": "Um cidadão brasileiro \"deu um mergulho e já não foi mais avistado\" na barragem de Pego do Altar. O alerta foi dado por um popular."
+        },
+        {
+          "headline": "Dívida de Betty Grafstein ultrapassa 56 mil euros",
+          "text": "A dívida da socialite Betty Grafstein continua por pagar e ultrapassa já os 56 mil euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Tragédia em resort na República Dominicana",
+          "text": "O Governo português diz que os portugueses envolvidos \"se encontram bem de saúde\" após uma tragédia num resort na República Dominicana."
+        },
+        {
+          "headline": "Colisão entre comboios faz 1 morto e vários feridos",
+          "text": ""
+        },
+        {
+          "headline": "Dois homens condenados no Reino Unido por incêndios ligados ao primeiro-ministro",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Estacionar em sentido contrário pode dar multa?",
+          "text": ""
+        },
+        {
+          "headline": "Stellantis Mangualde reforça produção com novos furgões compactos",
+          "text": "A fábrica Stellantis em Mangualde reforça a produção com uma nova geração de furgões compactos para profissionais."
+        },
+        {
+          "headline": "Governo estima poupar 3,2 milhões com Prestação Social Única",
+          "text": "O Governo estima poupar 3,2 milhões por ano com o sistema único da Prestação Social Única."
+        },
+        {
+          "headline": "Metro Mondego reforça ligações para Festas de São João",
+          "text": "O Metro Mondego reforçou as ligações entre Serpins e Lousã durante as Festas de São João."
+        },
+        {
+          "headline": "Projetos de habitação na região de Coimbra ficam fora do prazo do PRR",
+          "text": "A maioria dos projetos de habitação na região de Coimbra vai ficar fora do prazo do PRR."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Banda desenhada na investigação é mote para evento na UC",
+          "text": "A Universidade de Coimbra acolhe um evento internacional sobre banda desenhada na investigação."
+        },
+        {
+          "headline": "Politécnico de Coimbra celebra diplomados na Praça da Canção",
+          "text": "O Politécnico de Coimbra celebra os diplomados de 2024/2025 em cerimónia na Praça da Canção."
+        }
+      ]
+    }
+  ]
+}
