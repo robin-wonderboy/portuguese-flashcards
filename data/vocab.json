@@ -17883,5 +17883,167 @@
       "example_de": "Laras Stiefmutter kommt hinter Gitter",
       "example_en": "Lara stepmother goes behind bars"
     }
+  ],
+  "2026-06-21": [
+    {
+      "pt": "a alameda",
+      "de": "die Allee",
+      "en": "the avenue, the boulevard",
+      "example": "Esta Alameda vai ficar como nunca a viu com Metrobus",
+      "example_de": "Diese Allee wird aussehen wie nie zuvor mit dem Metrobus",
+      "example_en": "This avenue will look like you have never seen it with the Metrobus"
+    },
+    {
+      "pt": "marchar",
+      "de": "marschieren",
+      "en": "to march, to walk in a parade",
+      "example": "Mira marcha ao ritmo da tradição",
+      "example_de": "Mira marschiert im Rhythmus der Tradition",
+      "example_en": "Mira marches to the rhythm of tradition"
+    },
+    {
+      "pt": "reconhecer",
+      "de": "anerkennen",
+      "en": "to recognize, to acknowledge",
+      "example": "Carlos Luís Tavares é reconhecido no Parlamento",
+      "example_de": "Carlos Luís Tavares wird im Parlament anerkannt",
+      "example_en": "Carlos Luís Tavares is recognized in Parliament"
+    },
+    {
+      "pt": "o colapso",
+      "de": "der Zusammenbruch",
+      "en": "collapse",
+      "example": "Técnicos do INEM denunciam colapso da emergência",
+      "example_de": "INEM-Techniker klagen über Zusammenbruch des Notdienstes",
+      "example_en": "INEM technicians denounce the collapse of emergency services"
+    },
+    {
+      "pt": "o furtão",
+      "de": "der Diebstahl",
+      "en": "theft, shoplifting",
+      "example": "Produtos furtados foram ocultados em carrinhos de bebé",
+      "example_de": "Gestohlene Waren wurden in Kinderwagen versteckt",
+      "example_en": "Stolen products were hidden in baby strollers"
+    },
+    {
+      "pt": "salgada",
+      "de": "salzig",
+      "en": "salty",
+      "example": "Portugal tem uma piscina gigante de água salgada",
+      "example_de": "Portugal hat einen riesigen Salzwasserpool",
+      "example_en": "Portugal has a giant saltwater pool"
+    },
+    {
+      "pt": "de madrugada",
+      "de": "in den frühen Morgenstunden",
+      "en": "in the early hours (of the morning)",
+      "example": "DJ até de madrugada animam festa em Trouxemil",
+      "example_de": "DJ bis in die frühen Morgenstunden beleben das Fest in Trouxemil",
+      "example_en": "DJ until the early hours liven up the party in Trouxemil"
+    },
+    {
+      "pt": "a coligação",
+      "de": "die Koalition",
+      "en": "coalition, alliance",
+      "example": "Insinuações sobre coligação com o Chega",
+      "example_de": "Andeutungen über eine Koalition mit dem Chega",
+      "example_en": "Insinuations about a coalition with Chega"
+    },
+    {
+      "pt": "ridículas",
+      "de": "lächerlich",
+      "en": "ridiculous",
+      "example": "Líder do PS considera ridículas as insinuações",
+      "example_de": "Der PS-Führer hält die Andeutungen für lächerlich",
+      "example_en": "PS leader considers the insinuations ridiculous"
+    },
+    {
+      "pt": "chocado",
+      "de": "schockiert",
+      "en": "shocked",
+      "example": "PSD chocado com voto do Chega",
+      "example_de": "PSD schockiert über die Stimme des Chega",
+      "example_en": "PSD shocked by Chega's vote"
+    },
+    {
+      "pt": "vacilar",
+      "de": "zögern, wanken",
+      "en": "to hesitate, to waver",
+      "example": "Trabalhadores que não vacilaram",
+      "example_de": "Arbeiter die nicht zögerten",
+      "example_en": "Workers who did not waver"
+    },
+    {
+      "pt": "arrebatar",
+      "de": "entreißen, erobern",
+      "en": "to snatch, to win dramatically",
+      "example": "Benfica arrebata oitavo título nacional",
+      "example_de": "Benfica entreißt den achten nationalen Titel",
+      "example_en": "Benfica snatches eighth national title"
+    },
+    {
+      "pt": "o furgão",
+      "de": "der Transporter, der Kleintransporter",
+      "en": "van, small truck",
+      "example": "Nova geração de furgões compactos para profissionais",
+      "example_de": "Neue Generation kompakter Transporter für Professionelle",
+      "example_en": "New generation of compact vans for professionals"
+    },
+    {
+      "pt": "emocionar",
+      "de": "rühren, bewegen",
+      "en": "to move emotionally, to thrill",
+      "example": "Marchas Populares de Mira emocionam agricultora",
+      "example_de": "Volksmärsche von Mira rühren eine Landwirtin",
+      "example_en": "Popular Marches of Mira move a farmer emotionally"
+    },
+    {
+      "pt": "o agricultor",
+      "de": "der Landwirt, der Bauer",
+      "en": "farmer",
+      "example": "Marchas Populares de Mira emocionam agricultora da Figueira da Foz",
+      "example_de": "Volksmärsche von Mira rühren eine Landwirtin aus Figueira da Foz",
+      "example_en": "Popular Marches of Mira thrill a farmer from Figueira da Foz"
+    },
+    {
+      "pt": "garantir",
+      "de": "gewährleisten, sicherstellen",
+      "en": "to guarantee, to ensure",
+      "example": "Público chega cedo para garantir os melhores lugares",
+      "example_de": "Das Publikum kommt früh um die besten Plätze zu sichern",
+      "example_en": "The public arrives early to ensure the best seats"
+    },
+    {
+      "pt": "a insinuação",
+      "de": "die Andeutung, die Unterstellung",
+      "en": "insinuation",
+      "example": "Líder do PS considera ridículas insinuações sobre coligação",
+      "example_de": "Der PS-Führer hält Andeutungen über eine Koalition für lächerlich",
+      "example_en": "PS leader considers insinuations about coalition ridiculous"
+    },
+    {
+      "pt": "o diplomado",
+      "de": "der Absolvent, der Diplom-Ingenieur",
+      "en": "graduate, degree holder",
+      "example": "Politécnico de Coimbra celebra diplomados de 2024/2025",
+      "example_de": "Politécnico de Coimbra feiert Absolventen von 2024/2025",
+      "example_en": "Polytechnic of Coimbra celebrates 2024/2025 graduates"
+    },
+    {
+      "pt": "estimar",
+      "de": "schätzen, beziffern",
+      "en": "to estimate",
+      "example": "Governo estima poupar 3,2 milhões por ano",
+      "example_de": "Regierung schätzt 3,2 Millionen pro Jahr zu sparen",
+      "example_en": "Government estimates saving 3.2 million per year"
+    },
+    {
+      "pt": "condenado",
+      "de": "verurteilt",
+      "en": "convicted, sentenced",
+      "example": "Dois homens condenados no Reino Unido por incêndios",
+      "example_de": "Zwei Männer im Vereinigten Königreich wegen Brandstiftung verurteilt",
+      "example_en": "Two men convicted in the UK for arson"
+    }
   ]
 }
