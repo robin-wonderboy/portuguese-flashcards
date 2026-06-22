@@ -18045,5 +18045,127 @@
       "example_de": "Zwei Männer im Vereinigten Königreich wegen Brandstiftung verurteilt",
       "example_en": "Two men convicted in the UK for arson"
     }
+  ],
+  "2026-06-22": [
+    {
+      "pt": "o estrangulamento",
+      "de": "Erwürgen, das Erdrosseln",
+      "en": "strangulation",
+      "example": "A madrasta foi condenada por estrangulamento da Lara.",
+      "example_de": "Die Stiefmutter wurde wegen Erdrosselns von Lara verurteilt.",
+      "example_en": "The stepmother was convicted for the strangulation of Lara."
+    },
+    {
+      "pt": "roubar",
+      "de": "stehlen",
+      "en": "to steal, to rob",
+      "example": "Enfermeira rouba utente com lepra internado ha 30 anos.",
+      "example_de": "Krankenschwester bestiehlt einen seit 30 Jahren eingelieferten Patienten.",
+      "example_en": "Nurse steals from a patient hospitalized for 30 years."
+    },
+    {
+      "pt": "vinico",
+      "de": "weinig, zum Wein gehörend",
+      "en": "wine-related, vinous",
+      "example": "Quinta das Lagrimas recebe experiencia vinica com 11 produtores.",
+      "example_de": "Quinta das Lagrimas bietet Weinerlebnis mit 11 Erzeugern.",
+      "example_en": "Quinta das Lagrimas hosts a wine experience with 11 producers."
+    },
+    {
+      "pt": "a comovente",
+      "de": "herzergreifend, rührend",
+      "en": "touching, moving",
+      "example": "Padre tem gesto comovente na cerimonia do ultimo adeus a Lara.",
+      "example_de": "Priester hat eine herzergriffene Geste bei der Abschiedszeremonie fur Lara.",
+      "example_en": "Priest makes a touching gesture at the farewell ceremony for Lara."
+    },
+    {
+      "pt": "o adeus",
+      "de": "der Abschied, Lebewohl",
+      "en": "farewell, goodbye",
+      "example": "Ultimo adeus marcado por momentos de dor.",
+      "example_de": "Letzter Abschied, geprägt von Momenten des Schmerzes.",
+      "example_en": "Final farewell marked by moments of pain."
+    },
+    {
+      "pt": "o encontro",
+      "de": "die Begegnung, das Treffen",
+      "en": "meeting, gathering, encounter",
+      "example": "IV Encontro Senior reune cerca de 500 participantes em Coimbra.",
+      "example_de": "Das 4. Seniorentreffen versammelt etwa 500 Teilnehmer in Coimbra.",
+      "example_en": "4th Senior Gathering brings together about 500 participants in Coimbra."
+    },
+    {
+      "pt": "lendario",
+      "de": "legendär",
+      "en": "legendary",
+      "example": "Football Classics junta criadores lendarios e fas dos videojogos.",
+      "example_de": "Football Classics bringt legendäre Entwickler und Videospielfans zusammen.",
+      "example_en": "Football Classics brings together legendary creators and video game fans."
+    },
+    {
+      "pt": "o seguro",
+      "de": "die Versicherung",
+      "en": "insurance",
+      "example": "Homem condenado por fraude apos amputar o proprio pe para receber seguros.",
+      "example_de": "Mann wegen Betrugs verurteilt, nachdem er sich den Fuß amputierte, um Versicherungen zu kassieren.",
+      "example_en": "Man convicted of fraud after amputating his own foot to collect insurance."
+    },
+    {
+      "pt": "o videojogo",
+      "de": "das Videospiel",
+      "en": "video game",
+      "example": "Football Classics junta criadores lendarios e fas dos videojogos.",
+      "example_de": "Football Classics bringt legendäre Entwickler und Videospielfans zusammen.",
+      "example_en": "Football Classics brings together legendary creators and video game fans."
+    },
+    {
+      "pt": "salgado",
+      "de": "salzig",
+      "en": "salty",
+      "example": "Portugal tem uma piscina gigante de agua salgada com vista para o Atlantico.",
+      "example_de": "Portugal hat ein riesiges Salzwasserschwimmbad mit Blick auf den Atlantik.",
+      "example_en": "Portugal has a giant saltwater pool with a view of the Atlantic."
+    },
+    {
+      "pt": "a aparencia",
+      "de": "die Erscheinung",
+      "en": "apparition, appearance",
+      "example": "Romaria das Beiras celebra 655 anos da aparencia de Nossa Senhora.",
+      "example_de": "Wallfahrt der Beiras feiert 655 Jahre der Erscheinung Unserer Lieben Frau.",
+      "example_en": "Beiras pilgrimage celebrates 655 years of Our Lady's apparition."
+    },
+    {
+      "pt": "desmaiar",
+      "de": "ohnmächtig werden, in Ohnmacht fallen",
+      "en": "to faint, to pass out",
+      "example": "O pai da pequena Lara desmaia durante o ultimo adeus.",
+      "example_de": "Der Vater der kleinen Lara wird während des letzten Abschieds ohnmächtig.",
+      "example_en": "Little Lara's father faints during the final farewell."
+    },
+    {
+      "pt": "o proprio",
+      "de": "der eigene, selbst",
+      "en": "one's own, oneself",
+      "example": "Homem amputa o proprio pe para receber seguros.",
+      "example_de": "Mann amputiert den eigenen Fuß, um Versicherungen zu kassieren.",
+      "example_en": "Man amputates his own foot to collect insurance."
+    },
+    {
+      "pt": "a preparacao",
+      "de": "die Vorbereitung",
+      "en": "preparation",
+      "example": "Coimbra acelera preparacao para a Manifesta 17.",
+      "example_de": "Coimbra beschleunigt die Vorbereitung auf die Manifesta 17.",
+      "example_en": "Coimbra accelerates preparation for Manifesta 17."
+    },
+    {
+      "pt": "encontrado",
+      "de": "gefunden",
+      "en": "found",
+      "example": "Jose Patolas encontrado a metros de casa em Mira.",
+      "example_de": "Jose Patolas wurde nur wenige Meter von seinem Haus in Mira gefunden.",
+      "example_en": "Jose Patolas found meters from his home in Mira."
+    }
   ]
 }
