@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Mata-se com a filha ao colo para fazer sofrer mulher",
+          "text": "Um homem suicidou-se com a filha ao colo, num gesto que as autoridades interpretam como uma tentativa de fazer sofrer a companheira. O caso chocou a região."
+        },
+        {
+          "headline": "Madrasta assassina vai trabalhar depois de estrangular Lara até à morte",
+          "text": "A madrasta de Lara, a menina assassinada em Coimbra, foi ao trabalho depois de a ter estrangulado. O julgamento revelou pormenores perturbadores do caso."
+        },
+        {
+          "headline": "Bebé cresce atrás das grades com mãe traficante",
+          "text": "Um bebé está a crescer dentro de um estabelecimento prisional, acompanhando a mãe condenada por tráfico de droga. O caso levanta questões sobre os direitos das crianças em contexto prisional."
+        },
+        {
+          "headline": "Homem condenado por fraude após amputar o próprio pé para receber seguros",
+          "text": "Um homem foi condenado por ter amputado deliberadamente o próprio pé para cobrar vários seguros de vida e acidentes. A fraude foi descoberta após investigação."
+        },
+        {
+          "headline": "Enfermeira rouba utente com lepra internado há 30 anos na Tocha",
+          "text": "Uma enfermeira foi acusada de roubar um doente com lepra que se encontrava internado há três décadas no hospital da Tocha. O caso gerou indignação na comunidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "153 médicos homenageados em Coimbra por décadas ao serviço da saúde",
+          "text": "AOrdem dos Médicos homenageou 153 profissionais com 25 e 50 anos de carreira numa cerimónia em Coimbra. O evento destacou a dedicação de décadas ao serviço público de saúde."
+        },
+        {
+          "headline": "Número de pessoas sem médico de família a aumentar? Ministra da Saúde culpa a imigração",
+          "text": "A ministra da Saúde atribuiu o aumento de sem médico de família ao crescimento da população imigrante. Os dados mostram que mais de 1,7 milhão de portugueses não têm médico de família."
+        },
+        {
+          "headline": "Técnicos do INEM pedem socorro a Seguro e denunciam colapso da emergência",
+          "text": "Profissionais do INEM enviaram um pedido formal ao ministro Seguro denunciando o colapso dos serviços de emergência pré-hospitalar. Falta de meios e sobrecarga são os principais problemas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "IV Encontro Sénior reúne cerca de 500 participantes em Coimbra",
+          "text": "O IV Encontro Sénior juntou cerca de 500 participantes em Coimbra para um dia de atividades, saúde e convívio. A edição deste ano cresceu em número e qualidade das propostas."
+        },
+        {
+          "headline": "Coimbra acelera preparação para a Manifesta 17 após presença na bienal europeia na Alemanha",
+          "text": "Coimbra está a acelerar os preparativos para receber a Manifesta 17 em 2026, após uma participação bem-sucedida na bienal europeia que decorreu na Alemanha."
+        },
+        {
+          "headline": "Lousã em contagem decrescente para o concerto de Tony Carreira",
+          "text": "A vila da Lousã prepara-se para receber Tony Carreira num concerto muito aguardado."
+        },
+        {
+          "headline": "Quinta das Lágrimas recebe experiência vínica com 11 produtores em Coimbra",
+          "text": "A Quinta das Lágrimas acolhe uma experiência vínica com 11 produtores da região, promovendo os vinhos do Centro de Portugal."
+        },
+        {
+          "headline": "José Patolas encontrado a metros de casa em Mira",
+          "text": "José Patolas, que tinha desaparecido, foi encontrado a escassos metros da sua residência em Mira."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra volta a viver as tradicionais Fogueiras na Alta da cidade",
+          "text": "As tradicionais Fogueiras de São João voltaram à Alta de Coimbra, com música, comida e fogo a marcar a noite mais curta do ano."
+        },
+        {
+          "headline": "As Festas de São João nunca mais serão as mesmas em Figueiró dos Vinhos",
+          "text": "Figueiró dos Vinhos celebra São João com uma edição especial que promete marcar a diferença."
+        },
+        {
+          "headline": "Góis recebe celebrações dos 25 anos do Alfa Romeo Clube de Portugal",
+          "text": "O Alfa Romeo Clube de Portugal celebrou 25 anos com um evento em Góis que reuniu entusiastas de todo o país."
+        },
+        {
+          "headline": "Football Classics junta criadores lendários e fãs dos videojogos em Cantanhede",
+          "text": "O evento Football Classics trouxe a Cantanhede criadores lendários de videojogos e fãs para um fim de semana de nostalgia e competição."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Último adeus marcado por momentos de dor: pai da pequena Lara desmaia",
+          "text": "O funeral da pequena Lara foi marcado por momentos de grande emoção, com o pai a desmaiar durante a cerimónia. Um padre teve um gesto comovente que comoveu todos os presentes."
+        },
+        {
+          "headline": "Queres ser PSP? Esta pode ser a tua oportunidade",
+          "text": "A Polícia de Segurança Pública abriu novo concurso de recrutamento. As inscrições estão abertas para quem quer ingressar na carreira policial."
+        },
+        {
+          "headline": "Operação intensa no mar: Força Aérea realiza três resgates em menos de 24 horas",
+          "text": "A Força Aérea portuguesa realizou três operações de resgate no mar num período inferior a 24 horas, incluindo salvamentos ao largo da costa."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Portugal realiza último treino antes do duelo com Uzbequistão",
+          "text": "A seleção portuguesa realizou o último treino antes do jogo contra o Uzbequistão, com foco na confirmação do onze inicial."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Estacionar em sentido contrário pode dar multa?",
+          "text": "Estacionar veículo no sentido contrário ao fluxo de trânsito pode resultar em coima, conforme previsto no Código da Estrada."
+        },
+        {
+          "headline": "Stellantis Mangualde reforça produção com nova geração de furgões compactos",
+          "text": "A fábrica da Stellantis em Mangualde começa a produzir nova geração de furgões compactos para profissionais, reforçando a produção local."
+        }
+      ]
+    }
+  ]
+}
