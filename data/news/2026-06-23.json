@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Depois dos 40 graus, chega a chuva: Portugal prepara-se para reviravolta no tempo",
+          "text": "Após calor intenso no início da semana, a previsão aponta para chuva e trovoada até meados da semana, com descida generalizada das temperaturas a partir de quarta-feira."
+        },
+        {
+          "headline": "Calor extremo faz disparar risco de incêndio em concelhos do distrito de Coimbra",
+          "text": "Vários concelhos da região registam risco máximo de incêndio florestal devido às altas temperaturas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏟️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "João Cancelo: \"Não há margem de erro\" e assume obrigação de Portugal",
+          "text": "O jogador português afirmou a responsabilidade da seleção no Mundial, destacando que não há espaço para falhas."
+        },
+        {
+          "headline": "Mbappé iguala 16 golos de Klose em Mundiais no 100.º jogo pela França",
+          "text": "O avançado francês alcançou marca histórica de Miroslav Klose na sua centésima internacionalização."
+        },
+        {
+          "headline": "Noruega bate Senegal e qualifica-se com novo bis de Haaland",
+          "text": "Erling Haaland marcou dois golos mais uma vez, garantindo a qualificação norueguesa."
+        },
+        {
+          "headline": "Fabio Cannavaro diz que Uzbequistão tem \"armas\" para surpreender Portugal",
+          "text": ""
+        },
+        {
+          "headline": "Martínez quer seleção melhor e que aprenda com os erros",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Câmara de Coimbra quer comprar edifício ponte da Avenida Central",
+          "text": "O município pretende adquirir o edifício que liga as duas margens da Avenida Central, numa medida de requalificação urbana."
+        },
+        {
+          "headline": "Mobiliário urbano de Coimbra vai a concurso \"muito em breve\"",
+          "text": "A câmara anunciou que o concurso para o novo mobiliário urbano da cidade será lançado em breve."
+        },
+        {
+          "headline": "Coimbra discute como \"compreender o risco, antecipar a mudança, construir a recuperação\"",
+          "text": "Encontro em Coimbra sobre resiliência e recuperação face aos riscos urbanos e climáticos."
+        },
+        {
+          "headline": "Metro Mondego vai estudar extensões do Metrobus \"no centro\" de Coimbra",
+          "text": "O Metro Mondego anunciou que vai estudar novas extensões do Metrobus pelo centro da cidade."
+        },
+        {
+          "headline": "Mudança de linhas dos SMTUC deixam de servir Associação dos Cegos e Amblíopes",
+          "text": "Alterações nos autocarros urbanos prejudicam o acesso à Associação dos Cegos e Amblíopes de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Debate instrutório do processo Tutti Frutti começa esta terça-feira",
+          "text": "O debate instrutório do processo judicial Tutti Frutti arranca hoje no tribunal."
+        },
+        {
+          "headline": "Paulo Campos em tribunal por suspeita de participação \"em negociatas\" das PPP",
+          "text": ""
+        },
+        {
+          "headline": "PJ investiga morte de estrangeiro na sua casa na aldeia: \"É um caso que não está esclarecido\"",
+          "text": ""
+        },
+        {
+          "headline": "Alerta para risco de mimetismo após homicídios de crianças em contexto de violência doméstica",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Ciclistas encontram cadáver perto de trilho \"em avançado estado de decomposição\"",
+          "text": ""
+        },
+        {
+          "headline": "Encontrado corpo de idosa que estava desaparecida",
+          "text": ""
+        },
+        {
+          "headline": "Força Aérea realiza missão inédita ao transportar seis doentes num só voo",
+          "text": "A Força Aérea portuguesa transportou seis doentes numa única missão de evacuação médica, uma operação sem precedentes."
+        },
+        {
+          "headline": "Mais de um terço dos estrangeiros em Portugal são de nacionalidade brasileira",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "CP testa tecnologia de satélite para melhorar Wi-Fi no Alfa Pendular",
+          "text": "A Comboios de Portugal está a testar conectividade via satélite para melhorar o Wi-Fi nos comboios de alta velocidade."
+        },
+        {
+          "headline": "JCDecaux em Coimbra: um debate cheio de dúvidas e sem consenso no município",
+          "text": "A proposta de publicidade urbana da JCDecaux continua a dividir opiniões na câmara de Coimbra."
+        },
+        {
+          "headline": "INOVA-EM fecha 2025 com lucros de 539 mil euros e reforça solidez financeira",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Aluno de Vila Nova de Poiares conquista o 1.º lugar no Prémio Aristides de Sousa Mendes",
+          "text": ""
+        },
+        {
+          "headline": "Candidaturas abertas para novo Doutoramento no IPC",
+          "text": ""
+        },
+        {
+          "headline": "Universidade de Coimbra lidera projeto de 2,9 milhões para acelerar fim de gases poluentes",
+          "text": "A UC coordena um projeto europeu de 2,9 milhões de euros para acelerar a eliminação de gases poluentes."
+        },
+        {
+          "headline": "Coimbra acolhe congresso internacional sobre o silêncio com investigadores de vários países",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "VAMOS (EVENTOS)",
+      "stories": [
+        {
+          "headline": "Quer provar receitas de vários continentes? Há um evento gratuito em Coimbra",
+          "text": "Evento gastronómico multicultural em Coimbra oferece degustações de vários continentes, com entrada livre."
+        },
+        {
+          "headline": "Feira de São Mateus 2026 promete cartaz mais forte e foco total nas famílias",
+          "text": ""
+        },
+        {
+          "headline": "Conímbriga \"mergulha\" no teatro clássico com dia intenso de espetáculos",
+          "text": "As ruínas romanas de Conímbriga recebem um dia dedicado ao teatro clássico."
+        },
+        {
+          "headline": "Megaparque temático do futebol vai nascer em Portugal (hotel, museu e 28 atrações)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Ex-ministro condenado a mais de 24 anos de prisão por corrupção",
+          "text": ""
+        },
+        {
+          "headline": "Primeiro-ministro britânico confirma especulação e anuncia demissão",
+          "text": ""
+        },
+        {
+          "headline": "Quase vivemos uma catástrofe mas ninguém se apercebeu",
+          "text": ""
+        },
+        {
+          "headline": "Polícia australiana deteta 2,7 toneladas de cocaína na maior apreensão de sempre",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "47,1% dos portugueses poderão vir a sofrer de uma doença do cérebro",
+          "text": ""
+        },
+        {
+          "headline": "Nem imagina o (bem) que está a fazer quando come fruta ao jantar",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Travão para todos: Governo quer proibir conduzir a mais de 70 km/h fora das localidades",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
