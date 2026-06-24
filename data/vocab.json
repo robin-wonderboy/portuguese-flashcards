@@ -18237,5 +18237,135 @@
       "pt": "a especulação",
       "de": "die Spekulation"
     }
+  ],
+  "2026-06-24": [
+    {
+      "pt": "queixar-se",
+      "de": "sich beschweren",
+      "en": "to complain",
+      "example": "Funcionários queixam-se de trabalhar em saunas",
+      "example_de": "Beamte beschweren sich über die Arbeit in Saunen",
+      "example_en": "Workers complain about working in saunas"
+    },
+    {
+      "pt": "o gatilho",
+      "de": "der Auslöser",
+      "en": "the trigger",
+      "example": "O treino pode ter sido o gatilho do enfarte",
+      "example_de": "Das Training könnte der Auslöser für den Herzinfarkt gewesen sein",
+      "example_en": "The workout may have been the trigger for the heart attack"
+    },
+    {
+      "pt": "falsificado",
+      "de": "gefälscht",
+      "en": "forged / falsified",
+      "example": "Jovens apanhados com documentos falsificados",
+      "example_de": "Junge mit gefälschten Dokumenten erwischt",
+      "example_en": "Young people caught with forged documents"
+    },
+    {
+      "pt": "o maus tratos",
+      "de": "die Misshandlung",
+      "en": "abuse / mistreatment",
+      "example": "Cães vítimas de maus tratos",
+      "example_de": "Hunde, Opfer von Misshandlung",
+      "example_en": "Dogs, victims of abuse"
+    },
+    {
+      "pt": "o calor",
+      "de": "die Hitze",
+      "en": "the heat",
+      "example": "O INEM regista mais 6.000 chamadas devido ao calor",
+      "example_de": "Der INEM verzeichnet 6.000 mehr Anrufe wegen der Hitze",
+      "example_en": "INEM records 6,000 more calls due to the heat"
+    },
+    {
+      "pt": "registrar",
+      "de": "registrieren",
+      "en": "to register / to record",
+      "example": "O INEM regista mais chamadas",
+      "example_de": "Der INEM registriert mehr Anrufe",
+      "example_en": "INEM registers more calls"
+    },
+    {
+      "pt": "o procedimento",
+      "de": "das Verfahren",
+      "en": "the procedure",
+      "example": "Foi um procedimento raro em Portugal",
+      "example_de": "Es war ein seltenes Verfahren in Portugal",
+      "example_en": "It was a rare procedure in Portugal"
+    },
+    {
+      "pt": "doar",
+      "de": "spenden",
+      "en": "to donate",
+      "example": "Mãe doa rim para salvar vida do filho",
+      "example_de": "Mutter spendet Niere, um das Leben des Sohnes zu retten",
+      "example_en": "Mother donates kidney to save her sons life"
+    },
+    {
+      "pt": "a desumanidade",
+      "de": "die Unmenschlichkeit",
+      "en": "inhumanity",
+      "example": "Se o Governo deixar cair a sua desumanidade",
+      "example_de": "Wenn die Regierung ihre Unmenschlichkeit fallen lässt",
+      "example_en": "If the Government drops its inhumanity"
+    },
+    {
+      "pt": "o comício",
+      "de": "der Parteitag / die Kundgebung",
+      "en": "the political rally",
+      "example": "Trump inicia celebrações com comício",
+      "example_de": "Trump beginnt Feierlichkeiten mit einer Kundgebung",
+      "example_en": "Trump starts celebrations with a rally"
+    },
+    {
+      "pt": "a desnutrição",
+      "de": "die Unterernährung",
+      "en": "the malnutrition",
+      "example": "Crianças sofrem de desnutrição crónica",
+      "example_de": "Kinder leiden an chronischer Unterernährung",
+      "example_en": "Children suffer from chronic malnutrition"
+    },
+    {
+      "pt": "comover",
+      "de": "rühren / bewegen",
+      "en": "to move/touch emotionally",
+      "example": "O vídeo está a comover o mundo",
+      "example_de": "Das Video rührt die Welt",
+      "example_en": "The video is moving the world"
+    },
+    {
+      "pt": "o roteiro",
+      "de": "der Reiseführer / der Leitfaden",
+      "en": "the guide / itinerary",
+      "example": "O roteiro para dar os melhores mergulhos na região",
+      "example_de": "Der Leitfaden für die besten Schwimmausflüge in der Region",
+      "example_en": "The guide for the best swims in the region"
+    },
+    {
+      "pt": "emocionar-se",
+      "de": "sich emotional bewegen",
+      "en": "to become emotional / moved",
+      "example": "O jogador emociona-se ao recordar a perda",
+      "example_de": "Der Spieler ist emotional bewegt, als er den Verlust erinnert",
+      "example_en": "The player becomes emotional remembering the loss"
+    },
+    {
+      "pt": "o tributo",
+      "de": "die Ehrung / der Tribut",
+      "en": "the tribute",
+      "example": "Marcha na Lousã com tributo especial ao bombeiro",
+      "example_de": "Marsch in Lousã mit besonderer Ehrung des Feuerwehrmannes",
+      "example_en": "March in Lousã with special tribute to the firefighter"
+    },
+    {
+      "pt": "a saudação",
+      "de": "der Gruß",
+      "en": "the greeting / salute",
+      "example": "Marchas populares levam a saudação às ruas",
+      "example_de": "Volksmärsche bringen Grüße auf die Straßen",
+      "example_en": "Popular marches bring greetings to the streets"
+    }
   ]
 }
