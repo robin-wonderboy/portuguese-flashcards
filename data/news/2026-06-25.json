@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌪️",
+      "category": "TEMPO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Céu negro, granizo, trovoada e calor abafado atormentam Portugal",
+          "text": "Portugal enfrenta um dia de extremos: céu negro, granizo, trovoadas e calor abafado. O Instituto Português do Mar e da Atmosfera emitiu alertas para várias regiões do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismos causam 32 mortos e 700 feridos na Venezuela",
+          "text": "Dois sismos sucessivos atingiram a Venezuela, causando pelo menos 32 mortos e 700 feridos. Portugal e EUA prometeram ajuda humanitária. Portugueses em Caracas relatam pânico."
+        },
+        {
+          "headline": "Itália pede à UE ativação de mecanismo de ajuda à Venezuela",
+          "text": "A Itália vai pedir formalmente à União Europeia a ativação do mecanismo de proteção civil para enviar ajuda à Venezuela após os sismos devastadores."
+        },
+        {
+          "headline": "ADN humano com mais de 2000 anos encontrado em grutas de Portugal",
+          "text": "Fósseis antigos e ADN com mais de dois milénios foram descobertos em grutas portuguesas, colocando Portugal no mapa da evolução da vida humana."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Bactéria carnívora fecha praias e alarma turistas",
+          "text": "Uma bactéria carnívora está a ameaçar praias em Portugal, levando ao encerramento de zonas balneares e criando alerta entre turistas e residentes."
+        },
+        {
+          "headline": "1 em 3 pessoas na Europa sofre de alergias",
+          "text": "Um terço da população europeia sofre de alergias, segundo novo relatório. Os números continuam a subir, especialmente em zonas urbanas."
+        },
+        {
+          "headline": "Hospitais da Universidade de Coimbra atingem 4.000 transplantes renais",
+          "text": "Os Hospitais da Universidade de Coimbra alcançaram a marca histórica de 4.000 transplantes renais, consolidando a posição de Coimbra como referência na área."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PS diz que Governo está sem agenda para a economia",
+          "text": "O PS acusa o Governo de estar sem agenda económica. PS desafia PSD para caminho conjunto na regionalização, enquanto Cheega se opõe a mais tachos."
+        },
+        {
+          "headline": "Portugal vai importar agentes para controlar portos e aeroportos",
+          "text": "Para o verão, Portugal vai recorrer a agentes importados de outros países para reforçar o controlo em portos e aeroportos, numa medida polémica."
+        },
+        {
+          "headline": "300 milhões para eliminar 155 passagens de nível",
+          "text": "Estão disponíveis 300 milhões de euros para eliminar 155 passagens de nível e automatizar mais 79 em todo o país."
+        },
+        {
+          "headline": "Perde as estribeiras com a PSP em Coimbra e acaba detido",
+          "text": "Um indivíduo perdeu as estribeiras com agentes da PSP em Coimbra e acabou detido. Injúrias e ameaças em cenário de tráfico de droga."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "FMI recomenda reversão de apoios aos jovens na compra da primeira casa",
+          "text": "O Fundo Monetário Internacional recomenda que Portugal reverta os apoios aos jovens na compra da primeira casa, considerando-os insustentáveis a longo prazo."
+        },
+        {
+          "headline": "Taxa de poupança das famílias estabiliza em 12,3%",
+          "text": "A taxa de poupança das famílias portuguesas estabilizou em 12,3% no primeiro trimestre, segundo dados do INE."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Novo modelo digital atrasa correção dos exames de Português",
+          "text": "O novo modelo digital de exames está a atrasar a correção das provas de Português, gerando frustração entre alunos e professores."
+        },
+        {
+          "headline": "Universidade de Coimbra é a instituição mais sustentável de Portugal",
+          "text": "A UC foi reconhecida como a instituição mais sustentável do país, reforçando também a presença internacional com acordo estratégico com Singapura."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Metro Mondego vai estudar extensões do Metrobus no centro de Coimbra",
+          "text": "O Metro Mondego vai estudar novas extensões do Metrobus para o centro de Coimbra, depois de críticas sobre a reduzida cobertura da rede."
+        },
+        {
+          "headline": "Mudança de linhas dos SMTUC deixam de servir Associação dos Cegos",
+          "text": "Alterações nas linhas dos SMTUC deixaram de servir a Associação dos Cegos e Amblíopes de Coimbra, gerando reclamações."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "REGIÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Prémios Lausus fazem a Lousã brilhar com mensagem de força e união",
+          "text": "Os Prémios Lausus trouxeram a Lousã uma noite de celebração com mensagem de força, união e ambição para a região."
+        },
+        {
+          "headline": "Em Tábua, o pacote vem cheio de música e cinco dias de FACIT",
+          "text": "A FACIT em Tábua promete cinco dias de música, petiscos e tradição, com destaque para as Bolas de Meda de Mouros."
+        },
+        {
+          "headline": "Nasce nova orquestra nas Aldeias do Xisto",
+          "text": "Uma nova orquestra está a formar-se nas Aldeias do Xisto e procura músicos de todas as idades e habilitações."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "África do Sul e Marrocos avançam no Mundial 2026",
+          "text": "África do Sul qualificou-se para os 16 avos de final. Marrocos superou duas desvantagens e derrotou o Haiti. México garante pleno de vitórias."
+        }
+      ]
+    }
+  ]
+}
