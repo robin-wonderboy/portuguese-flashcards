@@ -18367,5 +18367,87 @@
       "example_de": "Volksmärsche bringen Grüße auf die Straßen",
       "example_en": "Popular marches bring greetings to the streets"
     }
+  ],
+  "2026-06-25": [
+    {
+      "pt": "atormentar",
+      "de": "quälen, plagen",
+      "en": "to torment",
+      "example": "Calor abafado atormenta Portugal",
+      "example_de": "Drückende Hitze quält Portugal",
+      "example_en": "Muggy heat torments Portugal"
+    },
+    {
+      "pt": "abafado",
+      "de": "drückend, schwül",
+      "en": "muggy, stuffy",
+      "example": "Calor abafado atormenta Portugal",
+      "example_de": "Drückende Hitze quält Portugal",
+      "example_en": "Muggy heat torments Portugal"
+    },
+    {
+      "pt": "a estribeira",
+      "de": "die Fassung, der Halt",
+      "en": "restraint, composure",
+      "example": "Perde as estribeiras com a PSP em Coimbra e acaba detido",
+      "example_de": "Verliert die Fassung gegenüber der PSP in Coimbra und wird festgenommen",
+      "example_en": "Loses composure with the PSP in Coimbra and gets arrested"
+    },
+    {
+      "pt": "o transplante renal",
+      "de": "die Nierentransplantation",
+      "en": "kidney transplant",
+      "example": "Hospitais de Coimbra atingem marca de 4.000 transplantes renais",
+      "example_de": "Krankenhäuser in Coimbra erreichen 4.000 Nierentransplantationen",
+      "example_en": "Coimbra hospitals reach milestone of 4,000 kidney transplants"
+    },
+    {
+      "pt": "a correção",
+      "de": "die Korrektur, die Berichtigung",
+      "en": "correction",
+      "example": "Novo modelo digital atrasa correção dos exames",
+      "example_de": "Neues digitales Modell verzögert die Korrektur der Prüfungen",
+      "example_en": "New digital model delays exam grading"
+    },
+    {
+      "pt": "o tacho",
+      "de": "der Topf (fig.: die Sinekur)",
+      "en": "pot (fig.: sinecure, cushy job)",
+      "example": "Chega contra mais tachos na regionalização",
+      "example_de": "Weg mit den Pfründen bei der Regionalisierung",
+      "example_en": "Enough with the sinecures in regionalization"
+    },
+    {
+      "pt": "litigar",
+      "de": "streiten, prozessieren",
+      "en": "to litigate, dispute",
+      "example": "Medida para destravar heranças levanta alerta para mais litígios",
+      "example_de": "Maßnahme zur Entflechtung von Erbschaften löst Alarm für mehr Prozesse aus",
+      "example_en": "Measure to unblock inheritances raises alert for more disputes"
+    },
+    {
+      "pt": "a ambulância",
+      "de": "der Krankenwagen",
+      "en": "ambulance",
+      "example": "Colisão faz ambulância sair da estrada",
+      "example_de": "Kollision bringt Krankenwagen von der Straße ab",
+      "example_en": "Collision sends ambulance off the road"
+    },
+    {
+      "pt": "perder as estribeiras",
+      "de": "die Fassung verlieren",
+      "en": "to lose ones composure (expression)",
+      "example": "Perde as estribeiras com a PSP e acaba detido",
+      "example_de": "Verliert die Fassung gegenüber der PSP und wird festgenommen",
+      "example_en": "Loses composure with the PSP and gets arrested"
+    },
+    {
+      "pt": "a ofensa",
+      "de": "die Beleidigung, der Angriff",
+      "en": "offense, insult",
+      "example": "Injúrias e ameaças dirigidas aos PSP em cenário de tráfico de droga",
+      "example_de": "Beleidigungen und Drohungen gegen PSP in einem Drogenhandel-Szenario",
+      "example_en": "Insults and threats directed at PSP officers in a drug trafficking scene"
+    }
   ]
 }
