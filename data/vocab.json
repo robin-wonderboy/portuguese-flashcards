@@ -18449,5 +18449,87 @@
       "example_de": "Beleidigungen und Drohungen gegen PSP in einem Drogenhandel-Szenario",
       "example_en": "Insults and threats directed at PSP officers in a drug trafficking scene"
     }
+  ],
+  "2026-06-26": [
+    {
+      "pt": "o sofrimento",
+      "de": "das Leiden",
+      "en": "the suffering",
+      "example": "Os gatinhos mostravam sinais de sofrimento.",
+      "example_de": "Die Katzchen zeigten Leidenszeichen.",
+      "example_en": "The kittens showed signs of suffering."
+    },
+    {
+      "pt": "excecional",
+      "de": "aussergewoehnlich",
+      "en": "exceptional",
+      "example": "O parlamento aprovou apoio excecional para os municipios.",
+      "example_de": "Das Parlament verabschiedete aussergewoehnliche Hilfe fuer die Gemeinden.",
+      "example_en": "The parliament approved exceptional support for the municipalities."
+    },
+    {
+      "pt": "a prestacao social unica",
+      "de": "die einheitliche Sozialleistung",
+      "en": "the single social benefit",
+      "example": "A Prestacao Social Unica foi aprovada no parlamento.",
+      "example_de": "Die einheitliche Sozialleistung wurde im Parlament verabschiedet.",
+      "example_en": "The Single Social Benefit was approved in parliament."
+    },
+    {
+      "pt": "a enfermaria",
+      "de": "die Krankenstation",
+      "en": "the hospital ward",
+      "example": "Os concertos transformam corredores e enfermarias do IPO.",
+      "example_de": "Die Konzerte verwandeln Gaenge und Krankenstationen des IPO.",
+      "example_en": "The concerts transform corridors and wards at the IPO."
+    },
+    {
+      "pt": "o estagio",
+      "de": "das Praktikum",
+      "en": "the internship",
+      "example": "Os professores precisam concluir o estagio profissional.",
+      "example_de": "Die Lehrer muessen das Berufspraktikum abschliessen.",
+      "example_en": "Teachers need to complete the professional internship."
+    },
+    {
+      "pt": "a prevencao",
+      "de": "die Praevention",
+      "en": "prevention",
+      "example": "A ferramenta promete reforcir a prevencao de incendios.",
+      "example_de": "Das Werkzeug verspricht die Brandpraevention zu staerken.",
+      "example_en": "The tool promises to strengthen fire prevention."
+    },
+    {
+      "pt": "o luso-descendente",
+      "de": "der portugiesischstaemmige",
+      "en": "the Portuguese descendant",
+      "example": "Seis portugueses e luso-descendentes mortos apos o sismo.",
+      "example_de": "Sechs Portugiesen und portugiesischstaemmige nach dem Beben tot.",
+      "example_en": "Six Portuguese and Portuguese-descendants dead after the earthquake."
+    },
+    {
+      "pt": "atribuivel",
+      "de": "zurueckfuehrbar, zuschreibbar",
+      "en": "attributable",
+      "example": "212 mortes atribuiveis ao calor em Espanha.",
+      "example_de": "212 der Hitze zuschreibbare Tote in Spanien.",
+      "example_en": "212 deaths attributable to heat in Spain."
+    },
+    {
+      "pt": "o resido",
+      "de": "der Abfall",
+      "en": "the waste, residue",
+      "example": "O incendio atingiu um Contentor de residos de empresa.",
+      "example_de": "Das Feuer erreichte einen Abfallcontainer eines Unternehmens.",
+      "example_en": "The fire reached a waste container from a company."
+    },
+    {
+      "pt": "a emenda",
+      "de": "der Antrag, die Aenderung",
+      "en": "the amendment",
+      "example": "O parlamento aprovou a emenda social unica.",
+      "example_de": "Das Parlament verabschiedete den einheitlichen Sozialantrag.",
+      "example_en": "The parliament approved the single social amendment."
+    }
   ]
 }
