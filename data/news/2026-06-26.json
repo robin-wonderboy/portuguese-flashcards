@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "6 portugueses e luso-descendentes mortos após sismo na Venezuela",
+          "text": "O sismo que abalou a Venezuela causou a morte a seis portugueses e luso-descendentes. O governo português está a enviar ajuda de emergência e um cão da GNR vai ajudar na procura de sobreviventes. A TAP permite alterar voos de e para Caracas e a NOS oferece chamadas gratuitas entre Portugal e a Venezuela."
+        },
+        {
+          "headline": "Bebé resgatado dos escombros na Venezuela",
+          "text": "Um bebé foi resgatado vivo dos escombros após os fortes sismos na Venezuela, num momento de esperança entre a devastação. A rede social X foi desbloqueada no país."
+        },
+        {
+          "headline": "Lionel Richie hospitalizado",
+          "text": "O cantor Lionel Richie foi hospitalizado, sem detalhes adicionais sobre o seu estado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Último adeus ao jovem encontrado sem vida na Lousã acontece sábado",
+          "text": "O funeral do jovem encontrado sem vida na Lousã realiza-se este sábado. A comunidade está em luto."
+        },
+        {
+          "headline": "Gatinhos em sofrimento resgatados em Coimbra",
+          "text": "Vários gatinhos em estado de sofrimento foram resgatados em Coimbra, com o apoio de associações de proteção animal."
+        },
+        {
+          "headline": "Incêndio em Lavos atinge contentor de resíduos de empresa",
+          "text": "Um incêndio em Lavos atingiu um contentor de resíduos de uma empresa, sem informações sobre feridos."
+        },
+        {
+          "headline": "Há um café histórico em Coimbra que já foi uma esquadra da polícia",
+          "text": "Um café histórico no centro de Coimbra tem uma curiosa história: já funcionou como esquadra da polícia antes de se tornar no espaço que é hoje."
+        },
+        {
+          "headline": "Férias em Coimbra? As bibliotecas prepararam dezenas de atividades para crianças",
+          "text": "As bibliotecas de Coimbra prepararam dezenas de atividades para crianças durante as férias de verão, entre oficinas, leituras e workshops criativos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Noite de terror: jovem detido após colocar fogo em prédio",
+          "text": "Um jovem foi detido depois de ter colocado fogo num prédio, numa noite que ficou descrita como de terror na região."
+        },
+        {
+          "headline": "Mulher esfaqueada em centro comercial; agressor foge de táxi",
+          "text": "Uma mulher foi esfaqueada num centro comercial. O agressor fugiu de táxi após o ataque. Ainda outro caso de tentativa de homicídio com x-ato durante transmissão de jogo de futebol."
+        },
+        {
+          "headline": "Agentes da GNR e PSP agredidos por grupo da mesma família",
+          "text": "Agentes da GNR e da PSP foram agredidos por um grupo familiar durante uma intervenção."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Parlamento aprova criação da Prestação Social Única",
+          "text": "O parlamento aprovou a criação da Prestação Social Única (PSU), uma medida que consolida vários apoios sociais num único instrumento. O PSD acusou o Chega de ficar com a esquerda e nunca com a razão após a aprovação."
+        },
+        {
+          "headline": "Apoio excecional para municípios afetados pelos temporais",
+          "text": "O parlamento aprovou também apoio excecional para os municípios afetados pelos temporais recentes. PSD e CDS-PP pedem apoio europeu adicional."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Concerto dos Candura assinala encerramento do Anozero'26 em Coimbra",
+          "text": "O Anozero'26, bienal de arte contemporânea de Coimbra, encerra com concerto dos Candura. A Linha de Fuga leva artes performativas a duas aldeias de Condeixa e Penela."
+        },
+        {
+          "headline": "Drag Brunch Portugal trouxe cor e diversidade a Coimbra",
+          "text": "Coimbra viveu uma tarde de cor, glamour e diversidade com o Drag Brunch Portugal. Lorena Fox usa a arte drag para alertar para a violência doméstica na cidade."
+        },
+        {
+          "headline": "Salão Brazil faz 100 anos com festa de rua e Baile da Rosa",
+          "text": "O histórico Salão Brazil celebra 100 anos com uma grande festa de rua e o renomado Baile da Rosa na baixa de Coimbra."
+        },
+        {
+          "headline": "Alunos da Escola de Hotelaria querem transformar projeto numa padaria real",
+          "text": "Alunos da Escola de Hotelaria e Turismo de Coimbra querem transformar o trabalho de um ano de projeto numa padaria real."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Concertos terapêuticos transformam corredores e enfermarias no IPO de Coimbra",
+          "text": "O IPO de Coimbra acolhe concertos terapêuticos que transformam corredores e enfermarias em espaitos de cura e esperança. António realizou o sonho de voltar a ver o mar com o apoio do IPO."
+        },
+        {
+          "headline": "212 mortes atribuíveis ao calor em Espanha desde domingo",
+          "text": "Espanha regista 212 mortes atribuíveis ao calor desde domingo, com as temperaturas extremas a afetar especialmente idosos e doentes crónicos."
+        },
+        {
+          "headline": "Liga alerta que INEM quer excluir motas de socorro do financiamento",
+          "text": "A Liga alertou que o INEM pretende excluir as motas de socorro do financiamento aos bombeiros, o que poderia afetar o tempo de resposta em emergências."
+        },
+        {
+          "headline": "Uma em cada três pessoas na Europa sofre de alergias",
+          "text": "Um terço da população europeia sofre de alergias, um número que continua a crescer."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Mais carros elétricos novos fazem baixar emissões médias na Europa em 2025",
+          "text": "O aumento de carros elétricos novos na Europa está a contribuir para a redução das emissões médias de CO2 dos veículos novos em 2025."
+        },
+        {
+          "headline": "Metro Mondego vai estudar extensões do Metrobus no centro de Coimbra",
+          "text": "O Metro Mondego vai estudar extensões do Metrobus no centro de Coimbra, numa expansão planeada do sistema de transporte."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Professores em mestrado obrigados a dar aulas extra para concluir estágio",
+          "text": "Professores inscritos em mestrados profissionais estão obrigados a dar aulas extra para poderem concluir o estágio, gerando contestação."
+        },
+        {
+          "headline": "UC cria programa para reduzir stress e depressão na parentalidade",
+          "text": "A Universidade de Coimbra criou um programa inovador para ajudar a reduzir stress, depressão e ansiedade nos primeiros anos da parentalidade."
+        },
+        {
+          "headline": "Modelo digital atrasa correção dos exames de Português",
+          "text": "O novo modelo digital está a atrasar a correção dos exames nacionais de Português."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Países Baixos batem Tunísia e avançam no Mundial",
+          "text": "Os Países Baixos bateram a eliminada Tunísia com um início demolidor e avançam no Mundial 2026."
+        },
+        {
+          "headline": "Austrália e Paraguai empatam a zero e qualificam-se",
+          "text": "Austrália e Paraguai empataram a zero e qualificaram-se para os 16 avos de final do Mundial."
+        }
+      ]
+    }
+  ]
+}
