@@ -18531,5 +18531,119 @@
       "example_de": "Das Parlament verabschiedete den einheitlichen Sozialantrag.",
       "example_en": "The parliament approved the single social amendment."
     }
+  ],
+  "2026-06-27": [
+    {
+      "pt": "a avioneta",
+      "de": "das Kleinflugzeug",
+      "en": "the light aircraft",
+      "example": "Avioneta choca contra o edifício mais alto de Pequim",
+      "example_de": "Kleinflugzeug prallt gegen das höchste Gebäude Pekings",
+      "example_en": "Light aircraft crashes into tallest building in Beijing"
+    },
+    {
+      "pt": "o colo",
+      "de": "der Schoß",
+      "en": "the lap",
+      "example": "Menina morreu no colo do pai após queda",
+      "example_de": "Mädchen starb auf dem Schoß des Vaters nach dem Sturz",
+      "example_en": "Girl died in her fathers lap after fall"
+    },
+    {
+      "pt": "a quantia",
+      "de": "der Betrag, die Summe",
+      "en": "the amount, the sum",
+      "example": "Homem oferece quantia generosa à GNR",
+      "example_de": "Mann bietet GNR einen großzügigen Betrag an",
+      "example_en": "Man offers generous sum to GNR"
+    },
+    {
+      "pt": "o neto",
+      "de": "der Enkel",
+      "en": "the grandson",
+      "example": "Avô suspeito de 38 crimes contra os dois netos",
+      "example_de": "Großvater verdächtigt 38 Straftaten gegen die zwei Enkel",
+      "example_en": "Grandfather suspected of 38 crimes against his two grandsons"
+    },
+    {
+      "pt": "o desespero",
+      "de": "die Verzweiflung",
+      "en": "the despair",
+      "example": "Horas horríveis: português desespera por notícias da família",
+      "example_de": "Schreckliche Stunden: Portugiese verzweifelt nach Nachrichten der Familie",
+      "example_en": "Horrible hours: Portuguese despairs for news of family"
+    },
+    {
+      "pt": "esculpir",
+      "de": "meißeln, schnitzen",
+      "en": "to carve, to sculpt",
+      "example": "Portal esculpido pela natureza na Várzea de Candosa",
+      "example_de": "Von der Natur gemeißeltes Portal in Várzea de Candosa",
+      "example_en": "Portal carved by nature in Várzea de Candosa"
+    },
+    {
+      "pt": "suspender",
+      "de": "aussetzen, aufheben",
+      "en": "to suspend, to lift",
+      "example": "EUA suspendem sanções para facilitar esforços de socorro",
+      "example_de": "USA setzen Sanktionen aus, um Hilfsmaßnahmen zu erleichtern",
+      "example_en": "US suspends sanctions to facilitate relief efforts"
+    },
+    {
+      "pt": "hospitalizar",
+      "de": "ins Krankenhaus einweisen",
+      "en": "to hospitalize",
+      "example": "Motociclista hospitalizada após choque com carro em Condeixa",
+      "example_de": "Motorradfahrerin nach Kollision mit Auto in Condeixa hospitalisiert",
+      "example_en": "Motorcyclist hospitalized after collision with car in Condeixa"
+    },
+    {
+      "pt": "oferecer",
+      "de": "anbieten, schenken",
+      "en": "to offer, to give",
+      "example": "Góis oferece 30 espaços gratuitos a artesãos",
+      "example_de": "Góis bietet 30 kostenlose Plätze für Handwerker an",
+      "example_en": "Góis offers 30 free spaces to artisans"
+    },
+    {
+      "pt": "baixar",
+      "de": "senken, heruntergehen",
+      "en": "to lower, to reduce",
+      "example": "Mais carros elétricos fazem baixar emissões médias na Europa",
+      "example_de": "Mehr Elektroautos senken die durchschnittlichen Emissionen in Europa",
+      "example_en": "More electric cars lower average emissions in Europe"
+    },
+    {
+      "pt": "desesperar",
+      "de": "verzweifeln",
+      "en": "to despair",
+      "example": "Português desespera por notícias da família",
+      "example_de": "Portugiese verzweifelt nach Nachrichten der Familie",
+      "example_en": "Portuguese man despairs for news of his family"
+    },
+    {
+      "pt": "generoso",
+      "de": "großzügig",
+      "en": "generous",
+      "example": "Homem oferece quantia generosa à GNR",
+      "example_de": "Mann bietet GNR einen großzügigen Betrag an",
+      "example_en": "Man offers generous sum to GNR"
+    },
+    {
+      "pt": "carregado",
+      "de": "schwer, beladen",
+      "en": "laden, heavy (atmosphere)",
+      "example": "Atmosfera carregada de pólen em Portugal",
+      "example_de": "Pollenbelastete Atmosphäre in Portugal",
+      "example_en": "Pollen-laden atmosphere in Portugal"
+    },
+    {
+      "pt": "horrível",
+      "de": "schrecklich, furchtbar",
+      "en": "horrible, terrible",
+      "example": "Horas horríveis: português desespera por notícias",
+      "example_de": "Schreckliche Stunden: Portugiese verzweifelt nach Nachrichten",
+      "example_en": "Horrible hours: Portuguese man despairs for news"
+    }
   ]
 }
