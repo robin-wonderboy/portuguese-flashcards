@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Adeus à pequena Kiara é este sábado",
+          "text": "O funeral da menina que morreu no colo do pai após uma queda do 8.º andar realiza-se este sábado. O caso chocou a comunidade local."
+        },
+        {
+          "headline": "IKEA está quase a chegar a Coimbra",
+          "text": "A conhecida marca sueca de mobiliário está prestes a abrir portas na região de Coimbra, trazendo nova oferta de emprego e comércio."
+        },
+        {
+          "headline": "Dua Lipa \"invade\" antevisão do jogo Portugal-Colômbia",
+          "text": "A cantora internacional mostrou-se a torcer por Portugal durante a prévia do jogo entre Portugal e Colômbia."
+        },
+        {
+          "headline": "Jovem português morre afogado na Suíça",
+          "text": "Um jovem de nacionalidade portuguesa morreu afogado em circunstâncias que continuam a ser apuradas."
+        },
+        {
+          "headline": "Nova burla usa voz de familiares para enganar vítimas",
+          "text": "Alerta para nova esquema de fraude que utiliza inteligência artificial para clonar vozes de familiares e enganar vítimas por telefone."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Góis oferece 30 espaços gratuitos a artesãos nas Festas do Concelho",
+          "text": "O município de Góis oferece 30 espaços gratuitos a artesãos que queiram participar nas Festas do Concelho."
+        },
+        {
+          "headline": "Adega de Cantanhede soma três Grandes Ouros e dez vinhos premiados em Bruxelas",
+          "text": "A Adega de Cantanhede conquistou três medalhas de Grande Ouro e dez vinhos premiados no concurso internacional de Bruxelas."
+        },
+        {
+          "headline": "Editora conimbricense celebra 30 anos com disco-tributo de John Mercy",
+          "text": "A editora sediada em Coimbra assinala três décadas de existência com um disco-tributo interpretado por John Mercy."
+        },
+        {
+          "headline": "Condutor ferido após despiste em Penela",
+          "text": "Um condutor ficou ferido na sequência de um despiste de viatura em Penela."
+        },
+        {
+          "headline": "Motociclista hospitalizada após choque com carro em Condeixa",
+          "text": "Uma motociclista foi hospitalizada após colisão com um automóvel em Condeixa."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Avô suspeito de 38 crimes de abuso sexual contra os dois netos",
+          "text": "Um avô foi constituído arguido suspeito de 38 crimes de abuso sexual contra os seus dois netos."
+        },
+        {
+          "headline": "Homem oferece quantia generosa à GNR para não soprar no balão",
+          "text": "Um condutor tentou subornar a GNR oferecendo uma quantia generosa para evitar o teste de álcool."
+        },
+        {
+          "headline": "Cocaína apreendida em ano e meio daria para 410 milhões de doses",
+          "text": "A quantidade de cocaína apreendida pelas autoridades em Portugal no último ano e meio seria suficiente para 410 milhões de doses."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "28 portugueses e lusodescendentes mortos nos sismos da Venezuela",
+          "text": "O número de vítimas portuguesas e lusodescendentes nos sismos na Venezuela subiu para 28."
+        },
+        {
+          "headline": "Venezuela: EUA suspendem sanções para facilitar esforços de socorro",
+          "text": "Os Estados Unidos suspenderam sanções à Venezuela para facilitar a chegada de ajuda humanitária após os sismos devastadores."
+        },
+        {
+          "headline": "Avioneta choca contra o edifício mais alto de Pequim",
+          "text": "Uma avioneta colidiu com o edifício mais alto de Pequim, causando alarme mas sem vítimas mortais confirmadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Três dias de vinho branco em Tondela",
+          "text": "Evento em Tondela reúne produtores de norte a sul do país para três dias dedicados ao vinho branco."
+        },
+        {
+          "headline": "Novo evento de vinhos em Coimbra no Jardim da Sereia",
+          "text": "Coimbra ganha um novo evento de vinhos que acontece num dos jardins mais bonitos da cidade."
+        },
+        {
+          "headline": "Portal esculpido pela natureza na Várzea de Candosa",
+          "text": "Um impressionante portal natural esculpido pela erosão ao longo dos séculos pode ser visitado na Várzea de Candosa."
+        },
+        {
+          "headline": "Bruxa da Horta: novo spot vegan em Coimbra",
+          "text": "Novo restaurante vegetariano abriu em Coimbra e pode vir a ser o favorito da cidade."
+        },
+        {
+          "headline": "António Costa Silva convidado das \"5as de Leitura\" na Figueira",
+          "text": "O ex-ministro António Costa Silva é o próximo convidado do ciclo de conversas \"5as de Leitura\" na Figueira da Foz."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Alerta: atmosfera carregada de pólen em Portugal",
+          "text": "Autoridades de saúde alertam para concentrações elevadas de pólen na próxima semana, recomendando cuidados a alérgicos."
+        },
+        {
+          "headline": "150 milhões de europeus enfrentam altas temperaturas",
+          "text": "Uma onda de calor sem precedentes atinge a Europa, afetando cerca de 150 milhões de pessoas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Rui Tavares deixa liderança do Livre",
+          "text": "Rui Tavares anunciou que deixa a liderança do partido Livre. Jorge Pinto e Isabel Mendes Lopes são os novos candidatos em dupla."
+        },
+        {
+          "headline": "Parlamento aprova criação da Prestação Social Única",
+          "text": "A Assembleia da República aprovou a criação da Prestação Social Única, unificando vários apoios sociais num único instrumento."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Dembélé faz hat-trick e leva França à vitória no Grupo I",
+          "text": "O jogador francês marcou três golos e garantiu a vitória da França no Grupo I do Mundial 2026."
+        },
+        {
+          "headline": "José Araújo é o novo selecionador feminino de basquetebol",
+          "text": "José Araújo foi nomeado o novo selecionador da seleção feminina de basquetebol de Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Metro Mondego vai estudar extensões do Metrobus no centro de Coimbra",
+          "text": "A empresa Metro Mondego vai analisar possíveis extensões do Metrobus no centro da cidade de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Como vão estar os preços dos combustíveis?",
+          "text": "Os preços dos combustíveis devem sofrer alterações na próxima semana, com possíveis subidas no gasóleo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "ESAC entrega bolsas aos estudantes com melhor nota de candidatura",
+          "text": "A ESAC atribuiu bolsas de estudo aos estudantes que obtiveram as melhores notas de candidatura em 2025."
+        },
+        {
+          "headline": "Professores em mestrado obrigados a dar aulas extra para concluir estágio",
+          "text": "Professores em mestrado profissional estão a ser obrigados a dar aulas adicionais para poderem concluir o estágio."
+        }
+      ]
+    }
+  ]
+}
