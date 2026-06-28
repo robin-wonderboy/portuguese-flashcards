@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & MUNDIAL",
+      "stories": [
+        {
+          "headline": "Portugal empata com Colômbia e enfrenta Croácia nos 16 avos",
+          "text": "Portugal ficou em 2º do grupo após empate com a Colômbia e vai defrontar a Croácia nos oitavos de final do Mundial 2026. A seleção foge do Gana, que seria adversário mais perigoso."
+        },
+        {
+          "headline": "A seleção de Roberto Martínez para Portugal-Colômbia",
+          "text": "Roberto Martínez convocou a equipa para o jogo decisivo do grupo, com destaque para as opções táticas no ataque."
+        },
+        {
+          "headline": "Carlos Queiroz perde e Gan(h)a",
+          "text": "O treinador português viveu um dia de resultados contraditórios na condução do Mundial."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "NOITE BRANCA: Noite branca regressa a Coimbra",
+          "text": "O evento Notícias de Coimbra destaca a Noite Branca, uma das noites mais emblemáticas da cidade."
+        },
+        {
+          "headline": "Bruxa da Horta é o novo spot Vegan de Coimbra",
+          "text": "Novo restaurante vegan abre portas em Coimbra, com proposta focada em produtos da horta e culinária plant-based."
+        },
+        {
+          "headline": "Moda dos Cús: dança com o nome mais insólito continua viva no Baixo Mondego",
+          "text": "A tradição popular do Baixo Mondego mantém viva uma dança com nome peculiar, parte do património imaterial da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Miguel Poiares Maduro abre ciclo de debates em Tavarede",
+          "text": "O político e debatedor abre o ciclo 'Conversas com Sabor a Limonete' em Tavarede, uma iniciativa de debate público local."
+        },
+        {
+          "headline": "Criatividade volta a navegar no Mondego",
+          "text": "Projeto artístico regressa ao rio Mondego com espetáculo único na Figueira da Foz, unindo arte e natureza."
+        },
+        {
+          "headline": "Aulas de jiu-jitsu e Krav Maga na Rua da Sofia",
+          "text": "Coimbra em modo ativo: aulas de artes marciais oferecidas na Rua da Sofia para quem quer experimentar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Homem com mandado de detenção por condução ilegal detido pela GNR",
+          "text": "GNR deteve homem que tinha mandado de detenção pendente por crimes de condução sem carta."
+        },
+        {
+          "headline": "Vingança familiar: homem detido por atear fogo a cinco habitações",
+          "text": "Um homem foi detido após atear fogo a cinco casas num ato de vingança familiar, destruindo habitações na zona."
+        },
+        {
+          "headline": "35 dias de terror: jovem sequestrada em Espanha vivia em cativeiro em Portugal",
+          "text": "Uma jovem foi sequestrada em Espanha e mantida em cativeiro em Portugal durante 35 dias antes de ser resgatada."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Venezuela: mortos portugueses e lusodescendentes sobem para 41",
+          "text": "O número de vítimas portuguesas e lusodescendentes no sismo da Venezuela aumentou para 41. Bebé de 18 dias e uma jovem foram resgatados vivos dos escombros. Cães de busca Zira e Max vão ajudar nas operações."
+        },
+        {
+          "headline": "Trump: Irão 'deixará de existir' se EUA voltarem à guerra",
+          "text": "Donald Trump afirmou que o Irão deixaria de existir caso os EUA voltassem a envolver-se em conflito, numa declaração que aumenta a tensão diplomática."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Presidente de Cabo Verde recebe Medalha pela Universidade de Coimbra",
+          "text": "A UC atribuiu uma medalha raramente concedida ao Presidente de Cabo Verde, José Maria Neves."
+        },
+        {
+          "headline": "PS pede 'palavra de tranquilidade' sobre exames nacionais",
+          "text": "O PS exigiu do ministro da Educação garantias sobre o calendário de correção dos exames nacionais, após atrasos na entrega das provas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Pedro Coimbra sai da direção do PS",
+          "text": "Após ser eleito para liderar a Federação de Coimbra do PS, Pedro Coimbra deixa a direção nacional do partido."
+        },
+        {
+          "headline": "Rui Tavares deixa liderança do Livre",
+          "text": "Rui Tavares anunciou que deixa a liderança do LIVRE, com Jorge Pinto e Isabel Mendes Lopes candidatos em dupla."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Canal Conta Lá manda trabalhadores para lay-off",
+          "text": "A empresa de contabilidade digital colocou funcionários em lay-off como parte de um processo de redução de custos."
+        },
+        {
+          "headline": "IKEA está quase a chegar a Coimbra",
+          "text": "A abertura da loja IKEA em Coimbra está cada vez mais próxima, com obras a avançar."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Saúde e Território: caminhos para uma região mais saudável",
+          "text": "Iniciativa gratuita em Coimbra convida população a participar na construção de um futuro mais saudável para a região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Metro Mondego vai estudar expansões do Metrobus no centro",
+          "text": "O Metro Mondego anunciou que vai estudar extensões do Metrobus no centro de Coimbra, respondendo a pedidos de maior cobertura."
+        }
+      ]
+    }
+  ]
+}
