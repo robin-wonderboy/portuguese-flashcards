@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Perigo de incêndio dispara com onda de calor",
+          "text": "Todas as regiões do interior continental enfrentam perigo de incêndio rural muito elevado. Oito concelhos de Castelo Branco, Portalegre e Faro estão em risco máximo. As temperaturas vão subir esta semana e na quinta-feira todo o território continental estará em alerta."
+        },
+        {
+          "headline": "Banhista morre após ir a banhos na praia de São Rafael",
+          "text": "Um banhista morreu após ir a banhos na praia de São Rafael, no Algarve. A situação levanta novamente preocupações com a segurança balnear durante a onda de calor."
+        },
+        {
+          "headline": "Homem morre após cair à água junto a docas",
+          "text": "Um homem morreu após cair à água junto às docas. As autoridades estão a investigar as circunstâncias do incidente."
+        },
+        {
+          "headline": "Operadores de comunicações da Proteção Civil em greve mas socorro está garantido",
+          "text": "Os operadores de comunicações da Proteção Civil entraram em greve, mas o governo garante que o socorro de emergência continua assegurado."
+        },
+        {
+          "headline": "Vamos ter uma semana de cão: dias quentes e noites tropicais",
+          "text": "O IPMA prevê uma semana de calor extremo, com temperaturas a subir significativamente e noites tropicais (mínimas acima dos 20°C) em grande parte do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Menino lusodescendente desaparecido na Venezuela após sismos",
+          "text": "Um menino de origem portuguesa continua desaparecido na Venezuela após os sismos que devastaram partes do país. A comunidade portuguesa mantém esperança de encontrar sobreviventes."
+        },
+        {
+          "headline": "Chegada de mais militares dos EUA para reforçar a ajuda na Venezuela",
+          "text": "Mais militares americanos chegaram à Venezuela para reforçar as operações de ajuda humanitária após os sismos. Comissões vão inspecionar casas e infraestruturas afetadas."
+        },
+        {
+          "headline": "Suspensas celebrações do Dia da Madeira em Caracas",
+          "text": "As celebrações do Dia da Madeira em Caracas foram suspensas devido à situação de emergência na Venezuela após os sismos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Férias podem sair caras: GNR avisa para furtos",
+          "text": "A GNR alertou para o aumento de furtos durante o período de férias e pediu aos cidadãos que redobrem a atenção com pertences pessoais e residências."
+        },
+        {
+          "headline": "Fingiam atropelamentos e roubavam idosos à saída de hospitais",
+          "text": "Um grupo fingia atropelamentos para distrair idosos à saída de hospitais e depois roubava-lhes pertences de valor."
+        },
+        {
+          "headline": "Jovem atingida por tiro no rosto junto a discoteca",
+          "text": "Uma jovem foi atingida por um tiro no rosto junto a uma discoteca. As autoridades estão a investigar o sucedido."
+        },
+        {
+          "headline": "Pais da vítima querem imóveis da 'assassina do gelo seco' para pagar indemnização",
+          "text": "Os pais da vítima da 'assassina do gelo seco' querem os imóveis da condenada para pagar a indemnização a que foram sentenciados."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Polémica! Marchas de Coimbra impedidas de atuar no Domingão da SIC",
+          "text": "As Marchas de Coimbra foram impedidas de se apresentar no programa Domingão da SIC, gerando polémica e críticas à emissora."
+        },
+        {
+          "headline": "Lixo e monos dão 'novo conceito' ao iParque de Coimbra",
+          "text": "Lixo e monos (mobiliário abandonado) têm dado uma imagem negativa ao iParque de Coimbra, com reclamações dos utilizadores."
+        },
+        {
+          "headline": "Idoso encontrado morto em Cantanhede",
+          "text": "Um idoso foi encontrado morto em Cantanhede. As circunstâncias estão a ser investigadas pelas autoridades."
+        },
+        {
+          "headline": "Carro embate em contentores e acaba na valeta em Oliveira do Hospital",
+          "text": "Um carro embateu em contentores de lixo e acabou na valeta em Oliveira do Hospital. Não houve feridos graves a registar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Portugal arranca preparação de jogo com a Croácia com todos disponíveis",
+          "text": "A seleção portuguesa iniciou a preparação para o jogo com a Croácia com todos os jogadores disponíveis, sem lesões ou baixas registadas."
+        },
+        {
+          "headline": "Benfica vence Sporting e sagra-se bicampeão nacional de futsal",
+          "text": "O Benfica derrotou o Sporting e sagrou-se bicampeão nacional de futsal, conquistando o título pelo segundo ano consecutivo."
+        },
+        {
+          "headline": "Portugal pode encontrar Espanha nos oitavos e França nas meias do Mundial 2026",
+          "text": "O caminho de Portugal no Mundial 2026 pode passar por Espanha nos oitavos de final e França nas meias, segundo os cenários de apuramento."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fenprof considera 'inaceitável' o caos nos exames",
+          "text": "O Fenprof considerou inaceitável a desresponsabilização do Governo pelo caos nos exames nacionais, exigindo medidas corretivas urgentes."
+        },
+        {
+          "headline": "Processo de classificação digital dos exames em fase de recuperação",
+          "text": "O processo de classificação digital dos exames nacionais encontra-se em fase de recuperação após os problemas técnicos verificados."
+        },
+        {
+          "headline": "Presidente de Cabo Verde recebe Medalha raramente concedida pela Universidade de Coimbra",
+          "text": "O Presidente de Cabo Verde recebeu uma medalha raramente concedida pela Universidade de Coimbra, num cerimónia solene."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PCP diz que PS deu a mão a um Governo 'derrotado e isolado' para salvar PSU",
+          "text": "O PCP criticou o PS por ter apoiado um governo 'derrotado e isolado' para salvar a Prestação Social Única, acusando-o de cedência política."
+        },
+        {
+          "headline": "Carneiro reclama vitória do PS na reforma laboral e pede a Montenegro que 'tire cabeça da areia'",
+          "text": "Rui Rio reclamou a vitória do PS na reforma laboral e PSU, pedindo a Montenegro que 'tire a cabeça da areia' e reconheça a realidade política."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Canal Conta Lá manda trabalhadores para lay-off em processo de redução de custos",
+          "text": "O programa Canal Conta Lá colocou trabalhadores em lay-off como parte de um processo de redução de custos, gerando preocupação entre os funcionários."
+        },
+        {
+          "headline": "Preparem-se: IKEA está quase a chegar a Coimbra",
+          "text": "A IKEA está quase a abrir as portas em Coimbra, com a nova loja a gerar grande expectativa na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Praia de Mira recebe elite europeia da Aquabike num espetáculo de velocidade e adrenalina",
+          "text": "A Praia de Mira recebe o campeonato europeu de Aquabike, com os melhores pilotos do continente a disputar um espetáculo de velocidade e adrenalina."
+        },
+        {
+          "headline": "Vinália transforma Podentes num autêntico arraial de vinho e cultura",
+          "text": "A Vinália transformou a aldeia de Podentes num arraial de vinho e cultura, com provas, música e tradição."
+        }
+      ]
+    },
+    {
+      "emoji": "🩺",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Stress pode alterar temporariamente a forma como o sangue coagula",
+          "text": "Um novo estudo revela que o stress pode alterar temporariamente a coagulação do sangue, potencialmente aumentando o risco cardiovascular."
+        }
+      ]
+    }
+  ]
+}
