@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo na Venezuela: prosseguem buscas por deportados sob escombros",
+          "text": "Um sismo atingiu a Venezuela e equipas de busca continuam a procurar deportados pelos EUA que ficaram sob os escombros. Equipas portuguesas de socorro estão no local numa corrida contra o tempo para resgatar sobreviventes."
+        },
+        {
+          "headline": "Primeiros portugueses repatriados da Venezuela chegaram a Figo Maduro",
+          "text": "Os primeiros cidadãos portugueses repatriados da Venezuela chegaram esta madrugada à zona de Figo Maduro, em Lisboa. Luís converteu-se no portador da notícia da morte dos conterrâneos na Venezuela."
+        },
+        {
+          "headline": "Gémeas morrem de desidratação",
+          "text": "Duas gémeas morreram de desidratação, numa notícia que choca a opinião pública."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Entrega do IRS termina hoje com 6 milhões de declarações submetidas",
+          "text": "Hoje é o último dia para entregar o IRS. Já foram submetidas mais de 6 milhões de declarações. O prazo encerra à meia-noite."
+        },
+        {
+          "headline": "Ministro da Economia quer portugueses a viver ao nível europeu dentro de 20 anos",
+          "text": "O ministro afirmou que o objetivo é que os portugueses atinjam o padrão de vida europeu no prazo de duas décadas."
+        },
+        {
+          "headline": "Espanha acaba com descontos no IVA dos combustíveis",
+          "text": "A vizinha Espanha eliminou os descontos no IVA dos combustíveis que tinham sido introduzidos como medida de crise."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Calor coloca Portugal em perigo máximo e muito elevado de incêndio",
+          "text": "A onda de calor coloca grande parte do território em perigo máximo e muito elevado de incêndio florestal. As autoridades apelam à precaução."
+        },
+        {
+          "headline": "Prazo para limpar terrenos termina e proprietários pedem tolerância",
+          "text": "O prazo legal para limpeza de terrenos termina hoje. Proprietários pedem tolerância às autoridades face às dificuldades em cumprir."
+        },
+        {
+          "headline": "Cientistas de Coimbra lançam campanha contra acácias invasoras",
+          "text": "Investigadores da Universidade de Coimbra lançaram uma campanha nacional para travar a expansão das acácias invasoras, que ameaçam a biodiversidade."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Fugitivo empurra polícia em Coimbra mas acaba detido",
+          "text": "Um fugitivo foi apanhado em Coimbra e tentou escapar empurrando um agente da polícia, mas acabou detido."
+        },
+        {
+          "headline": "Figueira da Foz: homem armado em VIP levou 3.700€ em roupa cara",
+          "text": "Um homem armado entrou numa loja VIP na Figueira da Foz e levou 3.700€ em roupa cara. Agora confronta a PSP."
+        },
+        {
+          "headline": "ERC instaura processo de contraordenação à LiveMode",
+          "text": "A Entidade Reguladora para a Comunicação Social decidiu instaurar um processo de contraordenação à LiveMode."
+        },
+        {
+          "headline": "Greve dos guardas de Vale de Judeus prolonga-se até final de agosto",
+          "text": "A greve dos guardas prisionais de Vale de Judeus vai prolongar-se até ao final de agosto, mantendo a pressão sobre o sistema penitenciário."
+        },
+        {
+          "headline": "Antiga notária presa por desviar 81 mil euros",
+          "text": "Uma antiga notária foi presa acusada de ter desviado 81 mil euros de clientes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS gastou 468 milhões em quase 20 milhões de horas extra",
+          "text": "O Serviço Nacional de Saúde gastou 468 milhões de euros em quase 20 milhões de horas extra em 2025, revelando a pressão sobre os profissionais."
+        },
+        {
+          "headline": "Utentes sem médico de família aumentam em 2025",
+          "text": "O número de utentes sem médico de família tem vindo a aumentar ao longo de 2025, agravando o problema de acesso aos cuidados primários."
+        },
+        {
+          "headline": "Figueira da Foz recebe encontro sobre o futuro da saúde na região",
+          "text": "A cidade da Figueira da Foz vai receber um encontro que pretende discutir o futuro da saúde na região Centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Governo promete facilitar autarquias em ordenamento do território",
+          "text": "O Governo prometeu em Coimbra alterações legislativas para facilitar a vida das autarquias em matéria de ordenamento do território."
+        },
+        {
+          "headline": "André Ventura acusa PSD e PS de irresponsabilidade na imigração",
+          "text": "O líder do Chega acusou por igual PSD e PS de irresponsabilidade na gestão da imigração."
+        },
+        {
+          "headline": "Governo insiste que TdC é responsável pelo aumento do custo do Hospital Oriental",
+          "text": "O Governo voltou a insistir, em Coimbra, que a TdC é a responsável pelo aumento dos custos do novo Hospital Oriental."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Câmara de Coimbra ameaça privatizar linhas dos SMTUC",
+          "text": "A Câmara de Coimbra ameaça privatizar linhas dos SMTUC se não houver acordo com os trabalhadores, numa escalada do conflito laboral."
+        },
+        {
+          "headline": "Metro Mondego vai estudar extensões do Metrobus no centro de Coimbra",
+          "text": "O Metro Mondego vai estudar extensões do Metrobus para o centro de Coimbra, ampliando a rede de transporte público na cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Couraça Challenge estreia-se em grande e conquista Coimbra",
+          "text": "O evento desportivo Couraça Challenge fez a sua estreia em Coimbra com grande adesão do público."
+        },
+        {
+          "headline": "Mealhada assinala Dia Mundial dos Pirilampos com seminário internacional",
+          "text": "A Mealhada marcou o Dia Mundial dos Pirilampos com um seminário internacional dedicado à conservação destes insetos."
+        },
+        {
+          "headline": "Oliveira do Hospital suspende banhos em duas praias fluviais",
+          "text": "O município de Oliveira do Hospital suspendeu a balneabilidade em duas praias fluviais por motivos de qualidade da água."
+        },
+        {
+          "headline": "Condeixa apresenta projeto do novo quartel dos Bombeiros Voluntários",
+          "text": "O município de Condeixa apresentou o projeto arquitetónico do novo quartel dos Bombeiros Voluntários."
+        },
+        {
+          "headline": "Pampilhosa da Serra quer conquistar o espaço no projeto Coimbra Supernova",
+          "text": "Pampilhosa da Serra quer integrar-se no novo projeto Coimbra Supernova, ligado ao setor espacial."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Contagem decrescente para as noites mais longas de Coimbra",
+          "text": "Já começou a contagem decrescente para as noites mais longas de Coimbra, com direito a fogo de artifício, concertos e muito mais."
+        },
+        {
+          "headline": "Being Gathering 2026: programa completo revelado",
+          "text": "Já há novidades sobre o Being Gathering 2026 - o programa completo do festival foi revelado."
+        },
+        {
+          "headline": "Arganil enche-se de arcos, balões e marchas populares",
+          "text": "Arganil não quer arrumar os manjericos e vai encher-se de arcos, balões e marchas populares para as festas de Santos Populares."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Paraguai elimina Alemanha nos penáltis do Mundial",
+          "text": "O Paraguai eliminou a Alemanha nos penáltis e avançou para os oitavos de final do Mundial de futebol feminino."
+        },
+        {
+          "headline": "Marrocos vence Países Baixos nos penáltis e segue nos oitavos",
+          "text": "Marrocos superou os Países Baixos nos penáltis e garantiu passagem aos oitavos de final do Mundial."
+        },
+        {
+          "headline": "Atleta de Miranda do Corvo precisa de ajuda para representar Portugal",
+          "text": "Um atleta de Miranda do Corvo precisa de apoio financeiro para poder representar Portugal em competição internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "26% dos alunos em cursos técnico-profissionais abandonaram os estudos",
+          "text": "Um quarto dos alunos inscritos em cursos técnico-profissionais abandonaram os estudos, revelando uma taxa de desistência preocupante."
+        },
+        {
+          "headline": "Cada vez mais alunos estrangeiros nos cursos superiores em Portugal",
+          "text": "O número de alunos estrangeiros nos cursos superiores em Portugal tem vindo a aumentar significativamente."
+        },
+        {
+          "headline": "Professora morta convocada para classificar exame na Figueira da Foz",
+          "text": "Uma professora que já faleceu foi convocada para classificar exames do secundário, num episódio que revela falhas no sistema."
+        }
+      ]
+    }
+  ]
+}
