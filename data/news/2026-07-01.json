@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "3 carros destruídos pelas chamas em Condeixa",
+          "text": "Três viaturas foram completamente destruídas por um incêndio que deflagrou na madrugada desta quarta-feira, na Rua Nova, em Bruscos, Condeixa-a-Nova. O alerta foi dado às 2:12 e mobilizou 10 operacionais dos Bombeiros Voluntários de Condeixa, apoiados por três veículos."
+        },
+        {
+          "headline": "Lousã encerra projeto social do PRR após apoiar 365 pessoas",
+          "text": "O Município da Lousã assinalou o encerramento formal do Projeto Radar Social, financiado pelo PRR, que reforçou a identificação e acompanhamento de pessoas em vulnerabilidade social. O projeto sinalizou situações de pobreza, isolamento e exclusão, encaminhando-as para os serviços competentes."
+        },
+        {
+          "headline": "Penela aumenta verbas para juntas de freguesia em 20%",
+          "text": "A Assembleia Municipal de Penela aprovou por unanimidade um aumento de 20% na transferência de verbas para as Juntas de Freguesia, passando de 64.570€ para 77.484€ no âmbito dos Acordos de Execução para 2026."
+        },
+        {
+          "headline": "Futebol de praia no Reconquinho coroa 'Pena Drink' campeão",
+          "text": "A equipa 'Pena Drink' venceu o Municipalito de futebol de praia na Praia Fluvial do Reconquinho, em Penacova, batendo na final o 'FC 3.ª Parte Miro' por 4-1. O torneio juntou oito equipas ao longo de dois fins de semana."
+        },
+        {
+          "headline": "Figueira da Foz promove sessão online sobre comunidade de energia renovável",
+          "text": "A ACIFF, em parceria com o Município e a cooperativa Coopérnico, promove uma sessão online nesta quinta-feira sobre a criação de uma comunidade de energia renovável no concelho, permitindo a cidadãos investir na produção de energia."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & CONSUMO",
+      "stories": [
+        {
+          "headline": "Compras na Temu e na Shein ficam mais caras: eis o que muda",
+          "text": "A União Europeia começa hoje a aplicar uma taxa aduaneira de três euros às encomendas de baixo valor provenientes de países terceiros, visando garantir maior equidade entre empresas europeias e plataformas de comércio eletrónico externas como as chinesas Temu e Shein."
+        },
+        {
+          "headline": "Arrendar casa em Coimbra ficou 4% mais caro num ano",
+          "text": "Os preços das casas para arrendar em Portugal desceram 2,7% em abril face ao ano anterior, mas em Coimbra o arrendamento ficou 4% mais caro. O custo mediano nacional era de 16,4€/m², afastando-se do máximo histórico de 17€/m² registado em outubro 2025."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Gémeas desaparecidas detidas com quilos de canábis na mala",
+          "text": "Duas irmãs gémeas de 22 anos, Leila e Laila Lourenço, dadas como desaparecidas após viagem ao Dubai, encontram-se em prisão preventiva em Genebra, Suíça. Foram detidas por autoridades alfandegárias com quilos de canábis na bagagem."
+        },
+        {
+          "headline": "Terror dos cemitérios: grupo condenado a penas até 9 anos",
+          "text": "O Tribunal de Leiria condenou quatro arguidos a penas de prisão entre 4 e 9 anos por furtos, sobretudo em cemitérios. A pena mais pesada, 9 anos, foi para um homem de 28 anos por 13 crimes. Outros quatro arguidos receberam penas suspensas."
+        },
+        {
+          "headline": "ASAE desmantela fábrica clandestina de botijas de gás",
+          "text": "A ASAE desmantelou uma unidade clandestina dedicada ao enchimento ilegal de recipientes de GPL (gases de petróleo liquefeitos). O caso foi comunicado ao DIAP da Comarca de Guimarães. O circuito paralelo de enchimento representava risco de explosão."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Bienal de Coimbra bateu recorde com 25 mil visitantes",
+          "text": "A Bienal Anozero recebeu cerca de 25 mil pessoas em Coimbra, crescendo face aos 16 mil da edição anterior. O diretor Carlos Antunes destacou a projeção internacional, com cobertura no The Guardian e New York Times. A Manifesta 17 chegará a Coimbra em 2028."
+        },
+        {
+          "headline": "Quinta das Lágrimas faz 700 anos com garden parties e cerveja assinatura",
+          "text": "A Quinta das Lágrimas assinala 700 anos desde a primeira referência documental de 1326, pela Rainha Santa Isabel. As comemorações incluem garden parties às sextas com show cooking, visitas guiadas aos jardins históricos e uma cerveja assinatura criada com a Praxis."
+        },
+        {
+          "headline": "Anadia promove verão com yoga, concertos e caminhadas nas Termas",
+          "text": "O Município de Anadia lança o programa Animação Termal em Vale da Mó, de 4 de julho a 12 de setembro, com atividades gratuitas: yoga, tai chi, banhos com som, taças tibetanas ao luar, concertos e visitas guiadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Portugal entre os países mais pessimistas da Europa sobre o futuro",
+          "text": "Portugal é o segundo país da UE onde a população mais antecipa que a qualidade de vida vai piorar nos próximos cinco anos, segundo o Eurobarómetro de primavera. Apenas 39% dos portugueses consideram que a qualidade de vida não vai mudar."
+        },
+        {
+          "headline": "Portuguues atinge marco impressionante: 1.000 dias a caminhar pela Europa",
+          "text": "Henrique Pereira, natural de Guimarães, atingiu 1.000 dias consecutivos a caminhar pela Europa, percorrendo 25 países e mais de 12 mil quilómetros a pé. O aventureiro enfrentou condições extremas, de temperaturas negativas a calor intenso."
+        },
+        {
+          "headline": "Temperatura global da superfície do mar bate recordes em junho",
+          "text": "As temperaturas globais da superfície do mar ultrapassaram os níveis recorde para esta época do ano, alcançados em 2023 e 2024, segundo dados do programa europeu Copernicus. Os valores diários registados pelo serviço C3S superaram todos os anteriores."
+        },
+        {
+          "headline": "Jogador argentino sedado após perder mulher e filhos em sismo na Venezuela",
+          "text": "O futebolista argentino Lucas Trejo está sedado após perder a mulher e os dois filhos nos sismos da Venezuela. O jogador, que atua no Marítimo de La Guaira, vive um momento de profunda fragilidade emocional sem apoio familiar direto no país."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Plano de Saúde da Região de Coimbra prevê 48 metas até 2030",
+          "text": "O Plano Supramunicipal de Saúde da Região Metropolitana de Coimbra prevê atingir 48 metas e realizar 104 ações até 2030, ambicionando aumentar os anos de vida da população com saúde e qualidade. O documento tem 182 páginas."
+        },
+        {
+          "headline": "Cientistas de Coimbra lançam campanha contra acácias invasoras",
+          "text": "Cientistas da Universidade e do Politécnico de Coimbra lançaram uma campanha de ciência-cidadã para que a população vigie as acácias-de-espigas em busca de um pequeno inseto responsável pelo controlo biológico da planta invasora."
+        },
+        {
+          "headline": "Redes sociais antes dos 16 anos podem afetar desenvolvimento das crianças",
+          "text": "Professores e psicólogos identificam impactos difíceis de reverter no desenvolvimento cognitivo e socioemocional das crianças com acesso precoce às redes sociais. A capacidade de reter atenção para aprender está entre as áreas mais afetadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "TRADIÇÃO & NATUREZA",
+      "stories": [
+        {
+          "headline": "Serra da Estrela celebra transumância com 3.000 ovelhas na montanha",
+          "text": "A Serra da Estrela voltou a ser palco da Festa da Transumância e dos Pastores, com a subida de cerca de 3.000 ovinos entre Seia e a Aldeia de São Romão. A iniciativa, promovida pelo Município de Seia, é um dos momentos mais emblemáticos do calendário pastoril."
+        },
+        {
+          "headline": "UC promove colóquio sobre as cheias do Mondego",
+          "text": "A Universidade de Coimbra promove na sexta-feira, 3 de julho, o colóquio 'As Cheias do Mondego', para analisar cientificamente os episódios de cheia registados no rio nos primeiros meses do ano e contribuir para estratégias que minimizem riscos futuros."
+        }
+      ]
+    }
+  ]
+}
