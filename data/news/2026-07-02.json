@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & TEMPO",
+      "stories": [
+        {
+          "headline": "Onda de calor infernal coloca Portugal em perigo máximo de incêndio",
+          "text": "Todo o interior Norte e Centro do país está hoje em perigo máximo de incêndio, que atinge também alguns concelhos dos distritos de Faro, Évora e Leiria, segundo o IPMA. O resto do território continental está em risco muito elevado ou elevado, à exceção de seis concelhos do litoral."
+        },
+        {
+          "headline": "Coimbra em alerta vermelho: temperaturas podem chegar aos 44 graus",
+          "text": "O distrito de Coimbra está sob alerta vermelho devido à onda de calor. As temperaturas podem atingir os 44°C nos próximos dias. O ministro alertou para dias absolutamente terríveis de risco, com temperaturas até 47 graus em algumas zonas do país."
+        },
+        {
+          "headline": "Fogo em Alfândega da Fé controlado",
+          "text": "O incêndio florestal que deflagrou em Alfândega da Fé foi dado como controlado pelas equipas de combate ao fogo."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO & TRAGÉDIAS",
+      "stories": [
+        {
+          "headline": "Sismos na Venezuela: sobe para 75 o número de portugueses e lusodescendentes mortos",
+          "text": "O número de vítimas portuguesas e lusodescendentes dos sismos na Venezuela subiu para 75. O governo português decretou um dia de luto nacional pelas vítimas."
+        },
+        {
+          "headline": "Hérman Gil soterrado após sismo na Venezuela. Heróis portugueses numa corrida contra o tempo",
+          "text": "O conhecido comentador Hérman Gil está soterrado após o sismo na Venezuela. Equipas portuguesas numa corrida contra o tempo para o salvar, mas as operações foram suspensas no centro comercial onde se encontrava."
+        },
+        {
+          "headline": "Condutor acelerou em vez de travar e mata mulher na passadeira",
+          "text": "Um condutor acidentalmente terá acelerado em vez de travar e matou uma mulher que atravessava numa passadeira. O incidente está sob investigação."
+        },
+        {
+          "headline": "Menores sofrem queda de trotinete em Cantanhede: uma vítima em estado grave",
+          "text": "Dois menores sofreram uma queda de trotinete em Cantanhede. Uma das vítimas encontra-se em estado grave e foi transportada para o hospital."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "ULS de Coimbra reforça equipas de urgência face ao aumento das temperaturas",
+          "text": "A Unidade Local de Saúde de Coimbra reforçou as equipas de urgência devido à onda de calor extrema. As autoridades de saúde apelam à população para seguir todas as instruções das autoridades e proteger-se do calor."
+        },
+        {
+          "headline": "Liga reforça rastreio do cancro da mama com duas novas unidades móveis na região Centro",
+          "text": "A Liga Portuguesa Contra o Cancro reforçou o rastreio do cancro da mama com duas novas unidades móveis na região Centro, ampliando o acesso a exames preventivos."
+        },
+        {
+          "headline": "Ordem diz que medicina dentária tem sido desaproveitada como recurso útil pelo SNS",
+          "text": "A Ordem dos Médicos Dentistas afirma que a medicina dentária tem sido desaproveitada como recurso útil pelo Serviço Nacional de Saúde, apelando a uma maior integração."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO - MUNDIAL 2026",
+      "stories": [
+        {
+          "headline": "Bélgica vence Senegal no prolongamento e garante presença nos oitavos",
+          "text": "A Bélgica garantiu a presença nos oitavos de final do Mundial 2026 ao vencer o Senegal no prolongamento."
+        },
+        {
+          "headline": "Estados Unidos nos oitavos ao resistir com 10 à Bósnia-Herzegovina",
+          "text": "Os Estados Unidos garantiram a presença nos oitavos de final do Mundial de futebol ao resistir com 10 jogadores à Bósnia-Herzegovina."
+        },
+        {
+          "headline": "Portugal enfrenta Croácia à procura de um lugar nos oitavos de final",
+          "text": "A seleção portuguesa enfrenta a Croácia à procura de um lugar nos oitavos de final do Mundial. Vitinha assumiu que Portugal tem de melhorar para ultrapassar a Croácia."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Comédia frenética com cheiro a revista vai pôr a Figueira da Foz a rir às gargalhadas",
+          "text": "Uma comédia frenética com cheiro a revista vai pôr a Figueira da Foz a rir às gargalhadas nos próximos dias."
+        },
+        {
+          "headline": "Centro de Arte Contemporânea de Coimbra com entrada livre no Dia da Cidade",
+          "text": "O Centro de Arte Contemporânea de Coimbra oferece entrada livre no Dia da Cidade, celebrando a cultura local."
+        },
+        {
+          "headline": "CIGA Festa traz novas sonoridades e energia noturna a Coimbra",
+          "text": "O CIGA Festa regressa a Coimbra trazendo novas sonoridades e energia noturna, com uma programação diversificada."
+        },
+        {
+          "headline": "A Volta ao Mundo acontece no Portugal dos Pequenitos em Coimbra",
+          "text": "A exposição A Volta ao Mundo acontece no Portugal dos Pequenitos em Coimbra, oferecendo uma viagem cultural aos visitantes."
+        },
+        {
+          "headline": "Luís Trigacheiro anima feriado municipal de Seia nos 40 anos da cidade",
+          "text": "O cantor Luís Trigacheiro anima o feriado municipal de Seia, que celebra os 40 anos da cidade com um espetáculo musical."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Região Metropolitana de Coimbra apresenta projeto pioneiro para gestão inteligente do território",
+          "text": "A Região Metropolitana de Coimbra apresentou um projeto pioneiro para gestão inteligente do território, integrando tecnologia e planeamento urbano."
+        },
+        {
+          "headline": "Exercício LIVEX testa capacidade de resposta em operações de busca e salvamento na Pampilhosa da Serra",
+          "text": "O exercício LIVEX testou a capacidade de resposta em operações de busca e salvamento na Pampilhosa da Serra, envolvendo múltiplas equipas de emergência."
+        },
+        {
+          "headline": "Programa de férias vai salvar o verão dos pais em Eiras e São Paulo de Frades",
+          "text": "A câmara lançou um programa de férias para salvar o verão dos pais em Eiras e São Paulo de Frades, oferecendo atividades para os miúdos durante as férias escolares."
+        },
+        {
+          "headline": "Tudo corre bem no Terreiro da Erva em Coimbra",
+          "text": "O Terreiro da Erva em Coimbra está a correr bem, com boa afluência de visitantes e comerciantes satisfeitos com o evento."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Tiago Grila acusado de provocar acidente e fugir",
+          "text": "Tiago Grila foi acusado de provocar um acidente e fugir do local. O caso está a decorrer nos tribunais."
+        },
+        {
+          "headline": "PJ põe fim a esquema internacional de branqueamento com ligações a meia Europa",
+          "text": "A Polícia Judiciária pôs fim a um esquema internacional de branqueamento de capitais com ligações a meia Europa, numa operação que envolveu vários países."
+        },
+        {
+          "headline": "Sexteto de Coimbra traficava haxixe com funil para carregar",
+          "text": "Um sexteto de Coimbra foi detido por traficar haxixe. O grupo tinha tudo organizado, incluindo funis para carregar a droga."
+        },
+        {
+          "headline": "Nova esquadra da PSP promete dar mais dignidade às forças policiais em Coimbra",
+          "text": "A nova esquadra da PSP em Coimbra promete dar mais dignidade às forças policiais, com instalações modernas e melhores condições de trabalho."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra de luto pela morte de antigo vice-presidente",
+          "text": "O Politécnico de Coimbra está de luto pela morte de um antigo vice-presidente da instituição."
+        },
+        {
+          "headline": "Incivilidade na Assembleia da República mais do que duplicou desde a entrada do Chega",
+          "text": "Um estudo de um docente da Universidade de Coimbra revela que a incivilidade na Assembleia da República mais do que duplicou desde a entrada do Chega no Parlamento."
+        },
+        {
+          "headline": "Redes sociais antes dos 16 anos podem estar a afetar o desenvolvimento das crianças",
+          "text": "Um estudo alerta que as redes sociais antes dos 16 anos podem estar a afetar o desenvolvimento das crianças, levantando preocupações entre pais e educadores."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Câmara de Coimbra ameaça privatizar linhas dos SMTUC",
+          "text": "A Câmara de Coimbra ameaça privatizar linhas dos SMTUC, o sistema municipal de transportes urbanos, gerando preocupação entre trabalhadores e utilizadores."
+        },
+        {
+          "headline": "Peugeot líder do mercado automóvel português em junho e no primeiro semestre",
+          "text": "A marca Peugeot foi a mais vendida em Portugal no primeiro semestre de 2026, liderando o mercado automóvel português."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "André Ventura quer que Governo se responsabilize por problemas com exames nacionais",
+          "text": "O líder do Chega, André Ventura, quer que o Governo se responsabilize pelos problemas com os exames nacionais deste ano, exigindo explicações."
+        },
+        {
+          "headline": "Governo português decreta um dia de luto nacional pelas vítimas dos sismos na Venezuela",
+          "text": "O Governo português decretou um dia de luto nacional pelas vítimas dos sismos na Venezuela, em homenagem aos portugueses e lusodescendentes que perderam a vida."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21% e preços continuam a bater recordes",
+          "text": "Coimbra disparou no mercado imobiliário, com as casas a subirem 21% e os preços a continuarem a bater recordes. A cidade é uma das onde o preço das casas mais subiu em Portugal."
+        },
+        {
+          "headline": "ADIBER empossou novos órgãos sociais para o biénio 2026/2027",
+          "text": "A ADIBER empossou os novos órgãos sociais para o biénio 2026/2027, numa cerimónia que marcou a tomada de posse dos novos corpos dirigentes."
+        }
+      ]
+    }
+  ]
+}
