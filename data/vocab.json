@@ -19317,5 +19317,159 @@
       "example_de": "Sie an die zuständigen Dienste weiterleitend",
       "example_en": "Routing them to the competent services"
     }
+  ],
+  "2026-07-02": [
+    {
+      "pt": "infernal",
+      "de": "höllisch",
+      "en": "infernal, hellish",
+      "example": "Onda de calor infernal coloca Portugal em perigo",
+      "example_de": "Höllische Hitzewelle bringt Portugal in höchste Gefahr",
+      "example_en": "Infernal heatwave puts Portugal in maximum danger"
+    },
+    {
+      "pt": "a gargalhada",
+      "de": "das Gelächter",
+      "en": "the belly laugh",
+      "example": "Vai pôr a Figueira da Foz a rir às gargalhadas",
+      "example_de": "Wird Figueira da Foz zum Lachen bringen",
+      "example_en": "Will make Figueira da Foz laugh out loud"
+    },
+    {
+      "pt": "desaproveitado",
+      "de": "ungenutzt",
+      "en": "underutilized, wasted",
+      "example": "A medicina dentária tem sido desaproveitada pelo SNS",
+      "example_de": "Die Zahnmedizin wurde vom SNS ungenutzt gelassen",
+      "example_en": "Dental medicine has been underutilized by the NHS"
+    },
+    {
+      "pt": "o rastreio",
+      "de": "das Screening",
+      "en": "the screening",
+      "example": "Liga reforça rastreio do cancro da mama",
+      "example_de": "Liga verstärkt Screening von Brustkrebs",
+      "example_en": "League strengthens breast cancer screening"
+    },
+    {
+      "pt": "a sonoridade",
+      "de": "die Klangfarbe",
+      "en": "the sonority, sound",
+      "example": "CIGA Festa traz novas sonoridades a Coimbra",
+      "example_de": "CIGA Festa bringt neue Klänge nach Coimbra",
+      "example_en": "CIGA Festa brings new sounds to Coimbra"
+    },
+    {
+      "pt": "o feriado municipal",
+      "de": "der Gemeindefeiertag",
+      "en": "the municipal holiday",
+      "example": "Luís Trigacheiro anima feriado municipal de Seia",
+      "example_de": "Luís Trigacheiro belebt den Gemeindefeiertag von Seia",
+      "example_en": "Luís Trigacheiro animates Seia municipal holiday"
+    },
+    {
+      "pt": "a incivilidade",
+      "de": "die Unhöflichkeit",
+      "en": "incivility",
+      "example": "A incivilidade na Assembleia da República duplicou",
+      "example_de": "Die Unhöflichkeit in der Nationalversammlung hat sich verdoppelt",
+      "example_en": "Incivility in the National Assembly has doubled"
+    },
+    {
+      "pt": "comprometer",
+      "de": "gefährden",
+      "en": "to compromise, jeopardize",
+      "example": "Falta de professores compromete futuro da escola pública",
+      "example_de": "Lehrermangel gefährdet die Zukunft der öffentlichen Schule",
+      "example_en": "Teacher shortage compromises the future of public schools"
+    },
+    {
+      "pt": "a corrida contra o tempo",
+      "de": "das Wettrennen gegen die Zeit",
+      "en": "the race against time",
+      "example": "Heróis portugueses numa corrida contra o tempo para salvar",
+      "example_de": "Portugiesische Helden in einem Wettrennen gegen die Zeit zur Rettung",
+      "example_en": "Portuguese heroes in a race against time to save"
+    },
+    {
+      "pt": "a dentária",
+      "de": "die zahnärztliche",
+      "en": "dental (adj. fem.)",
+      "example": "Medicina dentária tem sido desaproveitada",
+      "example_de": "Zahnmedizin wurde ungenutzt gelassen",
+      "example_en": "Dental medicine has been underutilized"
+    },
+    {
+      "pt": "a mama",
+      "de": "die Brust",
+      "en": "the breast",
+      "example": "Rastreio do cancro da mama com unidades móveis",
+      "example_de": "Brustkrebs-Screening mit mobilen Einheiten",
+      "example_en": "Breast cancer screening with mobile units"
+    },
+    {
+      "pt": "a unidade móvel",
+      "de": "die mobile Einheit",
+      "en": "the mobile unit",
+      "example": "Duas novas unidades móveis na região Centro",
+      "example_de": "Zwei neue mobile Einheiten in der Centro-Region",
+      "example_en": "Two new mobile units in the Centro region"
+    },
+    {
+      "pt": "o recurso útil",
+      "de": "die nützliche Ressource",
+      "en": "the useful resource",
+      "example": "A medicina dentária é um recurso útil pelo SNS",
+      "example_de": "Zahnmedizin ist eine nützliche Ressource des SNS",
+      "example_en": "Dental medicine is a useful resource for the NHS"
+    },
+    {
+      "pt": "pôr fim",
+      "de": "ein Ende setzen",
+      "en": "to put an end to",
+      "example": "PJ põe fim a esquema internacional de branqueamento",
+      "example_de": "PJ setzt internationalem Geldwäscheschema ein Ende",
+      "example_en": "PJ puts an end to international money laundering scheme"
+    },
+    {
+      "pt": "o órgão social",
+      "de": "das Sozialorgan",
+      "en": "the social body (corporate board)",
+      "example": "ADIBER empossou novos órgãos sociais para o biénio",
+      "example_de": "ADIBER bestätigte neue Sozialorgane für die Biennium",
+      "example_en": "ADIBER swore in new social bodies for the biennium"
+    },
+    {
+      "pt": "o imobiliário",
+      "de": "der Immobilienmarkt",
+      "en": "the real estate (sector)",
+      "example": "Coimbra dispara no imobiliário, casas sobem 21%",
+      "example_de": "Coimbra explodiert am Immobilienmarkt, Häuser steigen 21%",
+      "example_en": "Coimbra surges in real estate, houses up 21%"
+    },
+    {
+      "pt": "responsabilizar",
+      "de": "zur Verantwortung ziehen",
+      "en": "to hold accountable",
+      "example": "André Ventura quer que Governo se responsabilize",
+      "example_de": "André Ventura will, dass die Regierung zur Verantwortung gezogen wird",
+      "example_en": "André Ventura wants the Government to be held accountable"
+    },
+    {
+      "pt": "o exame nacional",
+      "de": "die nationale Prüfung",
+      "en": "the national exam",
+      "example": "Problemas com exames nacionais este ano",
+      "example_de": "Probleme mit nationalen Prüfungen dieses Jahr",
+      "example_en": "Problems with national exams this year"
+    },
+    {
+      "pt": "a rede social",
+      "de": "das soziale Netzwerk",
+      "en": "the social network",
+      "example": "Redes sociais antes dos 16 anos podem afetar o desenvolvimento",
+      "example_de": "Soziale Netzwerke vor 16 Jahren können die Entwicklung beeinträchtigen",
+      "example_en": "Social networks before age 16 may affect development"
+    }
   ]
 }
