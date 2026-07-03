@@ -19471,5 +19471,87 @@
       "example_de": "Soziale Netzwerke vor 16 Jahren können die Entwicklung beeinträchtigen",
       "example_en": "Social networks before age 16 may affect development"
     }
+  ],
+  "2026-07-03": [
+    {
+      "pt": "a imolação",
+      "de": "Selbstverbrennung",
+      "en": "self-immolation",
+      "example": "Um homem imolou-se em frente à sede da ONU.",
+      "example_de": "Ein Mann verbrannte sich vor dem UNO-Hauptsitz.",
+      "example_en": "A man set himself on fire in front of the UN headquarters."
+    },
+    {
+      "pt": "o canal de rega",
+      "de": "Bewässerungskanal",
+      "en": "irrigation canal",
+      "example": "A APA vai investir para recuperar o canal de rega do Mondego.",
+      "example_de": "Die APA wird investieren, um den Bewässerungskanal des Mondego wiederherzustellen.",
+      "example_en": "The APA will invest to recover the Mondego irrigation canal."
+    },
+    {
+      "pt": "o carrossel",
+      "de": "Karussell",
+      "en": "carousel",
+      "example": "A Feira Popular de Coimbra está de volta com carrosséis e comida.",
+      "example_de": "Die Volksmesse von Coimbra ist zurück mit Karussells und Essen.",
+      "example_en": "Coimbra's fair is back with carousels and food."
+    },
+    {
+      "pt": "ascender",
+      "de": "ansteigen/erreichen",
+      "en": "to rise to/reach",
+      "example": "O balanço revisto ascende agora a 2.595 mortos.",
+      "example_de": "Die überarbeitete Bilanz steigt nun auf 2.595 Tote.",
+      "example_en": "The revised toll now rises to 2,595 dead."
+    },
+    {
+      "pt": "qualificar-se",
+      "de": "sich qualifizieren",
+      "en": "to qualify",
+      "example": "A Suíça qualificou-se para os oitavos de final do Mundial.",
+      "example_de": "Die Schweiz qualifizierte sich für das Achtelfinale der WM.",
+      "example_en": "Switzerland qualified for the round of 16 of the World Cup."
+    },
+    {
+      "pt": "imolar-se",
+      "de": "sich verbrennen",
+      "en": "to set oneself on fire",
+      "example": "Um homem imolou-se em frente à sede da ONU.",
+      "example_de": "Ein Mann verbrannte sich vor dem UNO-Hauptsitz.",
+      "example_en": "A man set himself on fire in front of the UN headquarters."
+    },
+    {
+      "pt": "reaparecer",
+      "de": "wieder auftauchen",
+      "en": "to reappear",
+      "example": "O cavalo escapou aos ladrões e reapareceu após duas semanas.",
+      "example_de": "Das Pferd entkam den Dieben und tauchte nach zwei Wochen wieder auf.",
+      "example_en": "The horse escaped thieves and reappeared after two weeks."
+    },
+    {
+      "pt": "fortemente",
+      "de": "stark/heftig",
+      "en": "strongly/heavily",
+      "example": "A Polícia Judiciária deteve um homem fortemente suspeito.",
+      "example_de": "Die Kriminalpolizei verhaftete einen stark verdächtigen Mann.",
+      "example_en": "The police arrested a strongly suspected man."
+    },
+    {
+      "pt": "animado",
+      "de": "lebhaft/belebt",
+      "en": "lively/animated",
+      "example": "Coimbra com verão animado a dois tempos.",
+      "example_de": "Coimbra mit lebhaftem Sommer in zwei Tempi.",
+      "example_en": "Coimbra with a lively summer in two tempos."
+    },
+    {
+      "pt": "entre a vida e a morte",
+      "de": "zwischen Leben und Tod",
+      "en": "between life and death",
+      "example": "A colisão deixou um homem entre a vida e a morte.",
+      "example_de": "Die Kollision ließ einen Mann zwischen Leben und Tod.",
+      "example_en": "The collision left a man between life and death."
+    }
   ]
 }
