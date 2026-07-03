@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "TRAGÉDIAS & CRIMES",
+      "stories": [
+        {
+          "headline": "Colisão violenta mata mulher e deixa homem entre a vida e a morte",
+          "text": "Um acidente na noite de quinta-feira na localidade de Conde, Guimarães, causou a morte de uma pessoa e deixou duas outras feridas. Uma mulher perdeu a vida no local e um homem ficou em estado grave, entre a vida e a morte."
+        },
+        {
+          "headline": "Mandado por cumprir e droga no bolso: jovem detido na Figueira da Foz",
+          "text": "Um jovem de 19 anos foi detido na noite de terça-feira na Avenida Foz do Mondego, na Figueira da Foz. Tinha um mandado judicial por cumprir e droga em sua posse."
+        },
+        {
+          "headline": "Homem acusado de agredir e roubar idosos fica em prisão preventiva",
+          "text": "Um homem ficou em prisão preventiva suspeito de crimes de roubo contra idosos no concelho de Mafra. O tribunal considerou existir risco de continuação da atividade criminosa."
+        },
+        {
+          "headline": "Ódio familiar põe floresta a arder",
+          "text": "A Polícia Judiciária, através do Departamento de Investigação Criminal de Aveiro, deteve um homem fortemente suspeito de provocar um incêndio florestal por motivos de ódio familiar."
+        },
+        {
+          "headline": "Cavalo escapa a ladrões e reaparece após mistério de 2 semanas",
+          "text": "O Comando Territorial da GNR de Leiria, através do Posto Territorial de Peniche, recuperou um cavalo que tinha sido roubado duas semanas antes, após ter escapado aos ladrões."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "AMBIENTE & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Risco de incêndio dispara e ameaça Portugal de norte a sul",
+          "text": "Quase todo o território de Portugal continental enfrenta hoje perigo máximo ou muito elevado de incêndio, com exceção de meia dúzia de concelhos do litoral."
+        },
+        {
+          "headline": "Ministro deixa aviso: Forças Armadas estão prontas para prevenção, deteção e combate a incêndios",
+          "text": "O ministro da Defesa Nacional afirmou que as Forças Armadas estão prontas não apenas para ações de prevenção, mas também para deteção e combate a incêndios florestais durante o verão."
+        },
+        {
+          "headline": "OMS declara fim do surto de hantavírus ligado ao navio de cruzeiro",
+          "text": "O diretor-geral da Organização Mundial de Saúde anunciou o fim do surto de hantavírus ocorrido num navio de cruzeiro, considerando a ameaça controlada."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21% e preços continuam a bater recordes",
+          "text": "Os preços das casas em Portugal subiram 8,9% em junho face ao mesmo mês de 2025. Em Coimbra, a subida foi ainda mais acentuada, com 21% de aumento, e os preços continuam a bater recordes."
+        },
+        {
+          "headline": "Medida para desbloquear heranças levanta alerta para mais litígios",
+          "text": "A proposta do Governo para desbloquear a venda de imóveis das heranças indivisas reforça os poderes do testamenteiro, mas especialistas alertam que pode gerar mais conflitos entre herdeiros."
+        },
+        {
+          "headline": "Holanda atrai jovens portugueses à procura de melhores salários",
+          "text": "Holanda atrai jovens portugueses à procura de melhores salários, numa altura em que muitos recém-formados e trabalhadores em início de carreira procuram oportunidades fora de Portugal."
+        },
+        {
+          "headline": "PSP quer 25 mil trabalhadores até 2035",
+          "text": "O diretor nacional da Polícia de Segurança Pública, Luís Carrilho, afirmou em Leiria que até 2035 esta força policial pretende atingir os 25 mil trabalhadores."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Verão a Dois Tempos leva dezenas de espetáculos à Baixa de Coimbra",
+          "text": "O ciclo de programação Verão a Dois Tempos regressa à Baixa de Coimbra de julho a setembro, com cerca de dezenas de espetáculos entre música, teatro e dança."
+        },
+        {
+          "headline": "Feira Popular de Coimbra está de volta com carrosséis, comida e 17 dias de concertos grátis",
+          "text": "Concertos, diversões e gastronomia compõem o programa de 17 dias da Feira Popular de Coimbra, que este ano passa a ter entrada livre e concertos gratuitos."
+        },
+        {
+          "headline": "Praxis lança cerveja especial para assinalar os 700 anos da Quinta das Lágrimas",
+          "text": "A cervejaria Praxis apresentou a nova cerveja 1326, criada para assinalar os 700 anos da Quinta das Lágrimas em Coimbra."
+        },
+        {
+          "headline": "Garden Parties da Quinta das Lágrimas dão novo encanto ao verão",
+          "text": "A Quinta das Lágrimas dá início à Garden Party, uma nova experiência ao ar livre que promete encantar os visitantes durante o verão."
+        },
+        {
+          "headline": "Mais de 70 chefs (incluindo estrelas Michelin) vão invadir a Praia da Vagueira",
+          "text": "O Vagos Sensation Gourmet está de regresso à Praia da Vagueira a partir de 3 de julho, com mais de 70 chefs, incluindo estrelas Michelin, a cozinhar ao ar livre."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "APA investe cerca de milhões para recuperar canal de rega do Mondego",
+          "text": "A Agência Portuguesa do Ambiente vai investir quase quatro milhões de euros numa empreitada de reconstrução e reperfilamento do canal de rega do Mondego."
+        },
+        {
+          "headline": "Vila Nova de Poiares exige acesso direto ao IP3 e Metrobus",
+          "text": "A Associação Empresarial de Poiares exige um acesso direto ao IP3 para a zona industrial e a extensão do Metrobus, considerando as infraestruturas essenciais para o desenvolvimento."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA & SAÚDE",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra estuda efeitos do mindfulness no cérebro",
+          "text": "Uma equipa de investigação liderada pela Universidade de Coimbra está a conduzir um estudo que pretende compreender os efeitos do mindfulness no cérebro humano."
+        },
+        {
+          "headline": "Conselhos para desligar do trabalho durante as férias",
+          "text": "Especialistas da Eurofirms deixam conselhos para desligar do trabalho durante as férias, considerando-as essenciais para o descanso e recuperação física e mental."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & MUNDO",
+      "stories": [
+        {
+          "headline": "Suíça vence Argélia e segue para os oitavos do Mundial",
+          "text": "A Suíça qualificou-se para os oitavos de final do Mundial de futebol de 2026 ao vencer a Argélia, garantindo a passagem à próxima fase."
+        },
+        {
+          "headline": "Homem imola-se em frente à sede da ONU e morre",
+          "text": "Um homem imolou-se na quinta-feira em frente à sede das Nações Unidas em Nova Iorque e morreu em consequência das queimaduras sofridas."
+        },
+        {
+          "headline": "Tragédia na Venezuela já roubou 2.595 vidas",
+          "text": "O balanço revisto do duplo sismo de 24 de junho na Venezuela ascende agora a 2.595 mortos, anunciou na quinta-feira uma fonte oficial."
+        }
+      ]
+    }
+  ]
+}
