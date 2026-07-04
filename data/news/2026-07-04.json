@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "AMBIENTE & CLIMA",
+      "stories": [
+        {
+          "headline": "Fogo volta a dominar serra do Caramulo",
+          "text": "O incêndio iniciado em Vouzela às 03:04 de quinta-feira mantém-se ativo com várias frentes, sem populações em risco. Os meios estão posicionados para tentar controlar as frentes, mas tudo depende das condições meteorológicas."
+        },
+        {
+          "headline": "Onda de calor mantém Portugal Continental em alerta",
+          "text": "A Ordem dos Médicos reuniu-se com todos os diretores clínicos do país. O bastonário transmitiu tranquilidade: as instituições de saúde têm planos de contingência e já conhecem o impacto do calor nesta altura do ano. Pessoas isoladas, sobretudo idosos, não têm rede de apoio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21%",
+          "text": "Os preços das casas em Portugal subiram 8,9% em junho face ao mesmo mês de 2025. Comprar casa custava em média 3.156 euros por metro quadrado. Os preços continuam a aumentar e a renovar máximos históricos."
+        },
+        {
+          "headline": "Medida para destravar heranças levanta alerta para mais litígios",
+          "text": "A proposta do Governo reforça os poderes do testamenteiro para vender imóveis de heranças indivisas. O bastonário da Ordem dos Notários alerta que sem regulamentação adequada, os litígios podem aumentar."
+        }
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "\"É uma vergonha\" - autarca da Guarda critica cancelamento de comboios pela CP",
+          "text": "O presidente da Câmara da Guarda classificou de vergonha o cancelamento dos comboios Intercidades da tarde de sexta-feira entre a Guarda e Lisboa por causa do calor. Acusou a CP de colocar em causa a mobilidade das pessoas."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Parlamento aprova aumento para Fundo de Proteção Social do Bombeiro",
+          "text": "A Assembleia da República aprovou o aumento do montante transferido pela Proteção Civil para o Fundo de Proteção Social do Bombeiro, e o fim de restrições no reembolso de propinas e taxas na Educação. Medida aprovada por proposta do PCP."
+        },
+        {
+          "headline": "Holanda atrai jovens portugueses à procura de melhores salários",
+          "text": "A diferença salarial entre Portugal (1.073 euros mínimos) e os Países Baixos (2.295 euros) continua a pesar na decisão de muitos recém-formados. A experiência internacional e contratos mais estáveis são fatores decisivos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Segunda fase dos exames arranca em 20 de julho",
+          "text": "As provas do 9.º ano começam dia 21 (Português) e 23 (Matemática). Os exames do ensino secundário decorrem entre 21 e 24 de julho. Os resultados serão divulgados a 7 de agosto."
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Já falta pouco para a abertura do Anadia Splash",
+          "text": "O parque de diversões regressa ao Vale Santo de 18 de julho a 30 de agosto, aberto de terça a domingo. Piscinas, insufláveis, escorregas, carrossel, trampolins e festas de espuma. Entrada: 2 euros por pessoa."
+        },
+        {
+          "headline": "É hoje! Némanus inauguram a Feira Popular de Coimbra",
+          "text": "A banda Némanus inaugura esta noite a Feira Popular de Coimbra, num evento que marca o início da temporada de festas da cidade."
+        },
+        {
+          "headline": "Noite Branca e Gonçalo Capitão em primeira pessoa",
+          "text": "O presidente da Académica de Coimbra fala sobre amor, a escola Mourinho e o seu percurso à frente do clube, numa entrevista em primeira pessoa."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "\"Puseram a Argentina a chorar\" - Cabo Verde aplaude os Tubarões Azuis",
+          "text": "Apesar da derrota por 3-2 no prolongamento frente à Argentina, a multidão no largo de Quebra Canela celebrou a notoriedade conquistada por Cabo Verde. A festa já durava há vários dias e continuasse fosse qual fosse o resultado."
+        }
+      ]
+    },
+    {
+      "emoji": "🇺🇸",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Trump afiança que EUA são o país \"mais livre e mais forte da história\"",
+          "text": "O presidente norte-americano discursou no início das comemorações do 250.º aniversário da independência dos Estados Unidos, no Monumento Nacional do Monte Rushmore. Declarou: \"Somos o povo mais livre do mundo.\""
+        }
+      ]
+    }
+  ]
+}
