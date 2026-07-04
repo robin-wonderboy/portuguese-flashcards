@@ -19553,5 +19553,87 @@
       "example_de": "Die Kollision ließ einen Mann zwischen Leben und Tod.",
       "example_en": "The collision left a man between life and death."
     }
+  ],
+  "2026-07-04": [
+    {
+      "pt": "cancelar",
+      "de": "absagen",
+      "en": "to cancel",
+      "example": "Cancelamento dos comboios",
+      "example_de": "Absage der Züge",
+      "example_en": "Cancellation of trains"
+    },
+    {
+      "pt": "sobretudo",
+      "de": "vor allem",
+      "en": "above all",
+      "example": "Sobretudo idosos",
+      "example_de": "Vor allem Ältere",
+      "example_en": "Especially the elderly"
+    },
+    {
+      "pt": "o esplanada",
+      "de": "die Terrasse",
+      "en": "the terrace",
+      "example": "O bar dispõe de esplanada",
+      "example_de": "Die Bar hat eine Terrasse",
+      "example_en": "The bar has a terrace"
+    },
+    {
+      "pt": "miúdos e graúdos",
+      "de": "Klein und Groß",
+      "en": "kids and adults",
+      "example": "Animar miúdos e graúdos",
+      "example_de": "Klein und Groß unterhalten",
+      "example_en": "Entertain kids and adults"
+    },
+    {
+      "pt": "a indisponibilidade",
+      "de": "die Nichtverfügbarkeit",
+      "en": "unavailability",
+      "example": "Comunicação da indisponibilidade",
+      "example_de": "Kommunikation der Nichtverfügbarkeit",
+      "example_en": "Communication of unavailability"
+    },
+    {
+      "pt": "delegar",
+      "de": "delegieren",
+      "en": "to delegate",
+      "example": "Delegar tarefas",
+      "example_de": "Aufgaben delegieren",
+      "example_en": "To delegate tasks"
+    },
+    {
+      "pt": "a notoriedade",
+      "de": "die Bekanntheit",
+      "en": "notoriety",
+      "example": "A notoriedade conquistada",
+      "example_de": "Die erreichte Bekanntheit",
+      "example_en": "The achieved prominence"
+    },
+    {
+      "pt": "a contingência",
+      "de": "die Notfallplanung",
+      "en": "contingency",
+      "example": "Planos de contingência",
+      "example_de": "Notfallpläne",
+      "example_en": "Contingency plans"
+    },
+    {
+      "pt": "o recém-formado",
+      "de": "der frisch Absolvierte",
+      "en": "recent graduate",
+      "example": "Muitos recém-formados comparam oportunidades",
+      "example_de": "Viele frisch Absolvierte vergleichen Opportunities",
+      "example_en": "Many recent graduates compare opportunities"
+    },
+    {
+      "pt": "colocar em causa",
+      "de": "in Frage stellen",
+      "en": "to call into question",
+      "example": "Acusou a CP de colocar em causa a mobilidade",
+      "example_de": "Beschuldigte die CP, die Mobilität in Frage zu stellen",
+      "example_en": "Accused CP of calling mobility into question"
+    }
   ]
 }
