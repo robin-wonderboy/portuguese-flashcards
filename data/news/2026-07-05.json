@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏗️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Barragem de Girabolhos avança este mês",
+          "text": "A ministra do Ambiente Maria da Graça Carvalho confirmou que o concurso para a Barragem de Girabolhos será lançado durante uma visita governamental à Serra da Estrela a 15 de julho. A obra é fundamental para evitar cheias na região do Mondego."
+        },
+        {
+          "headline": "Ministra do Ambiente recebe Chave de Honra da Cidade de Coimbra",
+          "text": "A ministra Maria da Graça Carvalho recebeu a Chave de Honra da cidade de Coimbra, uma distinção que reconhece o seu trabalho na área do ambiente e energia."
+        },
+        {
+          "headline": "Dique do Mondego: já se sabe por que foi por água abaixo",
+          "text": "A rutura do dique do Mondego que causou cheias poderia ter sido evitada. Investigadores concluíram que falhas de manutenção contribuíram para o colapso da estrutura."
+        },
+        {
+          "headline": "Especialistas defendem dragagem regular do Mondego",
+          "text": "Técnicos recomendam dragagem regular entre as pontes da Rainha Santa e o Açude para prevenir problemas futuros. 'É para levar a sério', afirmam os especialistas ouvidos pelo NDC."
+        },
+        {
+          "headline": "Instituto Superior Miguel Torga muda-se para a Baixa",
+          "text": "O ISMT vai transferir-se para as novas instalações na baixa de Coimbra. A mudança está agendada e deverá ocorrer em breve, trazendo nova vida ao centro da cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Cruz Vermelha fortemente mobilizada nos incêndios",
+          "text": "A Cruz Vermelha Portuguesa está fortemente mobilizada no apoio às operações de resposta aos incêndios que afetam várias zonas do país. Equipas de voluntários estão no terreno."
+        },
+        {
+          "headline": "44 graus! Calor de assador neste fim de semana",
+          "text": "Portugal enfrenta o fim de semana provavelmente mais quente do ano, com temperaturas a atingir os 44 graus em algumas regiões. As autoridades recomendam precauções extremas."
+        },
+        {
+          "headline": "Detido homem por provocar fogo em trabalhos agrícolas",
+          "text": "Um homem foi detido por provocar um incêndio durante trabalhos agrícolas. O fumo dificultou o trabalho dos meios aéreos em Águeda."
+        },
+        {
+          "headline": "EUA alertam para perigosa onda de calor nos 250 anos",
+          "text": "Os Estados Unidos alertam para uma perigosa onda de calor que coincide com as celebrações dos 250 anos da independência. Milhões de cidadãos estão sob alerta."
+        }
+      ]
+    },
+    {
+      "emoji": "🚆",
+      "category": "MOBILIDADE & ECONOMIA",
+      "stories": [
+        {
+          "headline": "CP cancela seis ligações Intercidades pelo calor",
+          "text": "A Comboios de Portugal cancelou seis ligações Intercidades devido às temperaturas extremas. O autarca da Guarda criticou a decisão, chamando-lhe 'uma vergonha'."
+        },
+        {
+          "headline": "Mais uma subida no combustível aperta o bolso",
+          "text": "Os preços do combustível voltam a subir, apertando o bolso dos portugueses. É mais uma subida numa série de aumentos recentes."
+        },
+        {
+          "headline": "Câmara de Coimbra ameaça privatizar linhas dos SMTUC",
+          "text": "A Câmara de Coimbra ameaça privatizar linhas dos transportes urbanos SMTUC, levantando preocupações entre trabalhadores e utilizadores."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Prisão para rapazola que abusou de adolescente",
+          "text": "Um jovem foi condenado a prisão por abusar sexualmente de uma amiga adolescente incapaz de resistência. O caso chocou a comunidade local."
+        },
+        {
+          "headline": "Crime na Baixa da Banheira: canivete para degolar",
+          "text": "Um indivíduo pegou num canivete com a intenção de degolar o próximo na Baixa da Banheira. A polícia interveio a tempo."
+        },
+        {
+          "headline": "Ladrão salta de carro e rouba carteira em Coimbra",
+          "text": "Um ladrão saltou de um carro em movimento e roubou a carteira a uma mulher em Coimbra. A GNR está a investigar o caso."
+        }
+      ]
+    },
+    {
+      "emoji": "mundial",
+      "category": "DESPORTO & MUNDIAL",
+      "stories": [
+        {
+          "headline": "Marrocos é a primeira seleção nos quartos",
+          "text": "Marrocos tornou-se a primeira seleção a garantir lugar nos quartos de final do Mundial de Futebol. Uma vitória histórica para o futebol africano."
+        },
+        {
+          "headline": "Treino de Portugal arranca com 8 jogadores no estaleiro",
+          "text": "O treino da seleção portuguesa arrancou com apenas 8 jogadores disponíveis no estaleiro. Os restantes jogadores ainda não chegaram ao concentrador."
+        },
+        {
+          "headline": "Cabo Verde propõe Dia dos Tubarões Azuis",
+          "text": "O primeiro-ministro de Cabo Verde propôs a criação do Dia dos Tubarões Azuis, em homenagem à seleção nacional. A proposta foi apresentada durante o Mundial."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Portugueses descem ao inferno na Venezuela e resgatam Hernán Gil",
+          "text": "Quando já ninguém acreditava, equipas portuguesas desceram ao inferno na Venezuela e resgataram Hernán Gil, preso há uma semana. O resgate emocionou o mundo."
+        },
+        {
+          "headline": "Trump afiança que EUA são o país mais livre",
+          "text": "Donald Trump afiançou que os Estados Unidos são o país 'mais livre e mais forte da história', numa declaração durante as celebrações do 4 de julho."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "É hoje! Némanus inauguram Feira Popular de Coimbra",
+          "text": "A Feira Popular de Coimbra abre hoje com a inauguração a cargo dos Némanus. O evento promete dias de festa, música e animação na cidade."
+        },
+        {
+          "headline": "25 anos de canções de Tiago Bettencourt celebrados",
+          "text": "Tiago Bettencourt celebra 25 anos de carreira com um concerto em Coimbra. Uma noite de música e nostalgia para os fãs."
+        },
+        {
+          "headline": "Hotel no coração de Coimbra entre os melhores do mundo",
+          "text": "Um hotel no centro de Coimbra está entre os melhores classificados do mundo, segundo rankings internacionais. Um reconhecimento para a oferta hoteleira da cidade."
+        }
+      ]
+    }
+  ]
+}
