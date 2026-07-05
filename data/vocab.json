@@ -19635,5 +19635,87 @@
       "example_de": "Beschuldigte die CP, die Mobilität in Frage zu stellen",
       "example_en": "Accused CP of calling mobility into question"
     }
+  ],
+  "2025-07-05": [
+    {
+      "pt": "a dragagem",
+      "de": "die Ausbaggerung",
+      "en": "the dredging",
+      "example": "Especialistas defendem dragagem regular do Mondego.",
+      "example_de": "Experten befürworten regelmäßige Ausbaggerung des Mondego.",
+      "example_en": "Experts recommend regular dredging of the Mondego."
+    },
+    {
+      "pt": "rejeitar",
+      "de": "ablehnen",
+      "en": "to reject",
+      "example": "A Assembleia da República rejeita a proposta.",
+      "example_de": "Die Nationalversammlung lehnt den Vorschlag ab.",
+      "example_en": "The National Assembly rejects the proposal."
+    },
+    {
+      "pt": "a rede de apoio",
+      "de": "das Unterstützungsnetzwerk",
+      "en": "the support network",
+      "example": "Pessoas isoladas não têm rede de apoio.",
+      "example_de": "Isolierte Menschen haben kein Unterstützungsnetzwerk.",
+      "example_en": "Isolated people have no support network."
+    },
+    {
+      "pt": "o estaleiro",
+      "de": "die Werft",
+      "en": "the shipyard (figurative: training camp)",
+      "example": "O treino de Portugal arranca com 8 jogadores no estaleiro.",
+      "example_de": "Das Training Portugals beginnt mit 8 Spielern im Trainingslager.",
+      "example_en": "Portugals training starts with 8 players in the camp."
+    },
+    {
+      "pt": "o canivete",
+      "de": "das Taschenmesser",
+      "en": "the pocket knife",
+      "example": "Pega em canivete para degolar próximo.",
+      "example_de": "Er greift zum Taschenmesser.",
+      "example_en": "He grabs a pocket knife."
+    },
+    {
+      "pt": "o puxão de orelhas",
+      "de": "der Ohrenzieher",
+      "en": "the ear pull (scolding)",
+      "example": "Ventura pede a Montenegro que dê puxão de orelhas na educação.",
+      "example_de": "Ventura fordert von Montenegro einen Ohrenzieher in der Bildung.",
+      "example_en": "Ventura asks Montenegro for a scolding in education."
+    },
+    {
+      "pt": "descer",
+      "de": "hinabsteigen",
+      "en": "to descend/go down",
+      "example": "Portugueses descem ao inferno na Venezuela.",
+      "example_de": "Portugiesen steigen in die Hölle in Venezuela hinab.",
+      "example_en": "Portuguese descend into hell in Venezuela."
+    },
+    {
+      "pt": "o inferno",
+      "de": "die Hölle",
+      "en": "the hell",
+      "example": "Portugueses descem ao inferno na Venezuela.",
+      "example_de": "Portugiesen steigen in die Hölle Venezuelas hinab.",
+      "example_en": "Portuguese descend into hell in Venezuela."
+    },
+    {
+      "pt": "estufado",
+      "de": "geschmort",
+      "en": "stewed (cooking)",
+      "example": "Estes alunos querem mais frango estufado com massa.",
+      "example_de": "Diese Schüler wollen mehr geschmortes Huhn mit Nudeln.",
+      "example_en": "These students want more stewed chicken with pasta."
+    },
+    {
+      "pt": "a feira popular",
+      "de": "das Volksfest",
+      "en": "the popular fair",
+      "example": "Némanus inauguram a Feira Popular de Coimbra.",
+      "example_de": "Némanus eröffnen das Volksfest von Coimbra.",
+      "example_en": "Némanus inaugurate the Popular Fair of Coimbra."
+    }
   ]
 }
