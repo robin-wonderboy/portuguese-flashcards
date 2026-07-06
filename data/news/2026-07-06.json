@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "METEO & CLIMA",
+      "stories": [
+        {
+          "headline": "Depois do calor sufocante, chega um alívio mas vem acompanhado de trovoadas",
+          "text": "Esta segunda-feira marca o início de uma descida gradual das temperaturas em várias regiões do país. O litoral Norte e Centro começa a beneficiar de um alívio térmico, mas muitas zonas do interior permanecem sob temperaturas muito elevadas, com noites tropicais e possibilidade de trovoadas isoladas."
+        },
+        {
+          "headline": "Concelhos do distrito de Coimbra em perigo máximo de incêndio",
+          "text": "Vários concelhos do distrito de Coimbra encontram-se em perigo máximo de incêndio florestal, devido às temperaturas extremas e baixa humidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎪",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "A feira medieval mais antiga do país regressa a Coimbra",
+          "text": "A feira medieval mais antiga de Portugal regressa a Coimbra e promete pôr toda a gente a viajar no tempo. O evento traz recriações históricas, espetáculos e tasquinhas à cidade."
+        },
+        {
+          "headline": "É hoje! Némanus inauguram a Feira Popular de Coimbra",
+          "text": "Os Némanus inauguram esta noite a Feira Popular de Coimbra, com muita animação e música para arrancar as festas da cidade."
+        },
+        {
+          "headline": "Há gravuras com 23 000 anos no Sítio do Fariseu",
+          "text": "Arqueólogos revelam gravuras rupestres com 23 mil anos no Sítio do Fariseu, um dos mais importantes vestígios pré-históricos da região."
+        },
+        {
+          "headline": "Já falta pouco para a abertura do Anadia Splash",
+          "text": "O parque aquático Anadia Splash está quase a abrir as portas para a nova época, com novidades para as famílias."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Amigas desde pequeninas acabam detidas por tráfico de droga",
+          "text": "Duas amigas de longa data foram detidas pela GNR em flagrante por tráfico de droga. A detenção surpreendeu a comunidade local."
+        },
+        {
+          "headline": "Alexandre Quintas, o padeiro herói que salvou 2 irmãos abandonados na estrada",
+          "text": "O padeiro que salvou duas crianças abandonadas na estrada confessa que é impossível esquecer o momento. A história emocionou o país."
+        },
+        {
+          "headline": "Sobrevivente da chacina de Pedro Dias vive com bala no corpo",
+          "text": "O sobrevivente da chacina de Pedro Dias continua a viver com uma bala no corpo. O militar da GNR e as vítimas não receberam um cêntimo de indemnização."
+        },
+        {
+          "headline": "GNR já caçou 134 pessoas por crime de incêndio",
+          "text": "A GNR já identificou e deteve 134 pessoas por crime de incêndio, a maioria por negligência. As operações intensificaram-se com a época crítica de incêndios."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "REGIÃO & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Acidente na A1 em Soure faz um ferido",
+          "text": "Um acidente na autoestrada A1, em Soure, provocou um ferido. O trânsito foi condicionado durante a intervenção das autoridades."
+        },
+        {
+          "headline": "Câmara de Coimbra ameaça privatizar linhas dos SMTUC",
+          "text": "A Câmara de Coimbra ameaça privatizar linhas dos SMTUC, gerando preocupação entre trabalhadores e utilizadores dos transportes urbanos."
+        },
+        {
+          "headline": "O novo BYD Dolphin G DM-i já Rodda em Coimbra",
+          "text": "O novo modelo híbrido BYD Dolphin G DM-i já está disponível no concessionário Rodda em Coimbra, trazendo mais autonomia e tecnologia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "António Veiga Simão faleceu aos 63 anos",
+          "text": "António Veiga Simão, figura conhecida em Coimbra, faleceu aos 63 anos. O luto marcou a cidade e as instituições locais."
+        },
+        {
+          "headline": "Câmara de Mira já mira o Mundial de Aquabike",
+          "text": "O município de Mira quer receber o Mundial de Aquabike e já prepara a candidatura para acolher o evento internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Loja chinesa consumida pelas chamas",
+          "text": "Uma loja de produtos chineses foi completamente consumida pelas chamas em Portugal. Bombeiros combateram o incêndio durante horas."
+        },
+        {
+          "headline": "Sagres nas comemorações dos 250 anos da independência dos EUA",
+          "text": "O navio Sagres representa Portugal nas comemorações dos 250 anos da independência dos Estados Unidos da América."
+        },
+        {
+          "headline": "Estariam a trabalhar: duas irmãs morrem em estufa",
+          "text": "Duas irmãs foram encontradas mortas numa estufa, aparentemente enquanto trabalhavam. As causas do óbito estão em investigação."
+        },
+        {
+          "headline": "159 corpos não identificados foram sepultados na Venezuela",
+          "text": "Na Venezuela, 159 corpos não identificados foram sepultados numa vala comum, gerando indignação internacional."
+        },
+        {
+          "headline": "Novo recorde de apagões em Cuba pode deixar até 72% da ilha sem luz",
+          "text": "Cuba regista um novo recorde de apagões que pode deixar até 72% da ilha sem energia elétrica, agravando a crise no país."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Inglaterra reduzida a 10 elimina México e segue para os quartos do Mundial",
+          "text": "A Inglaterra, mesmo reduzida a dez jogadores, eliminou o México e avançou para os quartos de final do Mundial de futebol."
+        },
+        {
+          "headline": "Carlos Queiroz orgulhoso com o desempenho do Gana",
+          "text": "Carlos Queiroz disse estar orgulhoso com o desempenho do Gana no Mundial, mas revelou a insatisfação de quem quis sempre mais."
+        },
+        {
+          "headline": "Brasil sambou. Carnaval é na Noruega!",
+          "text": "O Brasil venceu a sua partida do Mundial com um samba em campo, enquanto a Noruega também brilhou, surpreendendo todos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Assembleia da República rejeita proposta do Livre para combate a cheias no Mondego",
+          "text": "O Parlamento rejeitou a proposta do partido Livre para uma estratégia integrada de combate a cheias no rio Mondego, gerando críticas da oposição."
+        },
+        {
+          "headline": "Conheça o valor da herança milionária deixada pela mulher de Joe Berardo",
+          "text": "Foi revelado o valor da herança milionária deixada pela mulher do empresário Joe Berardo, suscitando interesse público."
+        },
+        {
+          "headline": "Luís Montenegro vai a Dallas assistir ao Portugal-Espanha",
+          "text": "O primeiro-ministro Luís Montenegro vai deslocar-se a Dallas para assistir ao jogo Portugal-Espanha do Mundial de futebol."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Instituto Superior Miguel Torga muda-se para a baixa de Coimbra",
+          "text": "O Instituto Superior Miguel Torga vai mudar-se para a baixa da cidade de Coimbra, numa surpresa que gera expetativa na comunidade estudantil."
+        },
+        {
+          "headline": "Segunda fase dos exames arranca em 20 de julho",
+          "text": "A segunda fase dos exames nacionais arranca a 20 de julho, com resultados a sair a 7 de agosto para os alunos que pretendem melhorar notas."
+        },
+        {
+          "headline": "Estes alunos querem mais frango estufado com massa",
+          "text": "Uma pesquisa nas escolas revelou que os alunos preferem frango estufado com massa nos refeitórios, pedindo mais variedade no menu."
+        }
+      ]
+    }
+  ]
+}
