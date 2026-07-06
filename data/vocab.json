@@ -19717,5 +19717,103 @@
       "example_de": "Némanus eröffnen das Volksfest von Coimbra.",
       "example_en": "Némanus inaugurate the Popular Fair of Coimbra."
     }
+  ],
+  "2026-07-06": [
+    {
+      "pt": "a chacina",
+      "de": "das Gemetzel",
+      "en": "the massacre",
+      "example": "Sobrevivente da chacina de Pedro Dias",
+      "example_de": "Überlebender des Gemetzels von Pedro Dias",
+      "example_en": "Survivor of the Pedro Dias massacre"
+    },
+    {
+      "pt": "falecer",
+      "de": "versterben",
+      "en": "to pass away",
+      "example": "António Veiga Simão faleceu aos 63 anos",
+      "example_de": "António Veiga Simão verstarb im Alter von 63 Jahren",
+      "example_en": "António Veiga Simão passed away at 63"
+    },
+    {
+      "pt": "desde pequeninas",
+      "de": "seit klein auf",
+      "en": "since they were little",
+      "example": "Amigas desde pequeninas acabaram detidas",
+      "example_de": "Freundinnen seit klein auf wurden festgenommen",
+      "example_en": "Friends since they were little ended up arrested"
+    },
+    {
+      "pt": "o padeiro",
+      "de": "der Bäcker",
+      "en": "the baker",
+      "example": "O padeiro herói que salvou duas crianças",
+      "example_de": "Der Bäckerheld, der zwei Kinder rettete",
+      "example_en": "The baker hero who saved two children"
+    },
+    {
+      "pt": "a chama",
+      "de": "die Flamme",
+      "en": "the flame",
+      "example": "A loja chinesa foi consumida pelas chamas",
+      "example_de": "Der chinesische Laden wurde von den Flammen verschlungen",
+      "example_en": "The Chinese store was consumed by flames"
+    },
+    {
+      "pt": "a independência",
+      "de": "die Unabhängigkeit",
+      "en": "the independence",
+      "example": "Comemorações dos 250 anos da independência dos EUA",
+      "example_de": "Feiern zum 250. Jahrestag der Unabhängigkeit der USA",
+      "example_en": "Celebrations of 250 years of US independence"
+    },
+    {
+      "pt": "elimina",
+      "de": "schaltet aus",
+      "en": "eliminates",
+      "example": "A Inglaterra elimina o México",
+      "example_de": "England schaltet Mexiko aus",
+      "example_en": "England eliminates Mexico"
+    },
+    {
+      "pt": "orgulhoso",
+      "de": "stolz",
+      "en": "proud",
+      "example": "Carlos Queiroz está orgulhoso do desempenho",
+      "example_de": "Carlos Queiroz ist stolz auf die Leistung",
+      "example_en": "Carlos Queiroz is proud of the performance"
+    },
+    {
+      "pt": "o desempenho",
+      "de": "die Leistung",
+      "en": "the performance",
+      "example": "Orgulhoso com o desempenho do Gana",
+      "example_de": "Stolz auf die Leistung von Ghana",
+      "example_en": "Proud of Ghana's performance"
+    },
+    {
+      "pt": "a insatisfação",
+      "de": "die Unzufriedenheit",
+      "en": "the dissatisfaction",
+      "example": "A insatisfação de quem quis sempre mais",
+      "example_de": "Die Unzufriedenheit derer, die immer mehr wollten",
+      "example_en": "The dissatisfaction of those who always wanted more"
+    },
+    {
+      "pt": "sepultar",
+      "de": "beerdigen",
+      "en": "to bury",
+      "example": "159 corpos foram sepultados na Venezuela",
+      "example_de": "159 Leichen wurden in Venezuela beerdigt",
+      "example_en": "159 bodies were buried in Venezuela"
+    },
+    {
+      "pt": "o frango estufado",
+      "de": "das geschmorte Hähnchen",
+      "en": "the stewed chicken",
+      "example": "Os alunos querem mais frango estufado com massa",
+      "example_de": "Die Schüler wollen mehr geschmortes Hähnchen mit Nudeln",
+      "example_en": "The students want more stewed chicken with pasta"
+    }
   ]
 }
