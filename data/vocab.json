@@ -19815,5 +19815,77 @@
       "example_de": "Die Schüler wollen mehr geschmortes Hähnchen mit Nudeln",
       "example_en": "The students want more stewed chicken with pasta"
     }
+  ],
+  "2026-07-07": [
+    {
+      "pt": "o festivaleiro",
+      "de": "Festivalbesucher",
+      "en": "festival-goer"
+    },
+    {
+      "pt": "desiludido",
+      "de": "enttäuscht",
+      "en": "disillusioned, disappointed"
+    },
+    {
+      "pt": "a despedida",
+      "de": "Abschied, Verabschiedung",
+      "en": "farewell, send-off"
+    },
+    {
+      "pt": "fraco",
+      "de": "schwach",
+      "en": "weak, poor quality"
+    },
+    {
+      "pt": "a cabeça quente",
+      "de": "heißer Kopf, impulsiv",
+      "en": "hotheaded, in the heat of the moment"
+    },
+    {
+      "pt": "sobreaquecer",
+      "de": "überhitzen",
+      "en": "to overheat"
+    },
+    {
+      "pt": "o incendiário",
+      "de": "Brandstifter",
+      "en": "arsonist"
+    },
+    {
+      "pt": "bater recordes",
+      "de": "Rekorde brechen",
+      "en": "to break records"
+    },
+    {
+      "pt": "o gânglio linfático",
+      "de": "Lymphknoten",
+      "en": "lymph node"
+    },
+    {
+      "pt": "helitransportar",
+      "de": "mit dem Hubschrauber transportieren",
+      "en": "to transport by helicopter"
+    },
+    {
+      "pt": "o palco",
+      "de": "Bühne",
+      "en": "stage"
+    },
+    {
+      "pt": "a sanção",
+      "de": "Sanktion, Strafe",
+      "en": "sanction, penalty"
+    },
+    {
+      "pt": "a prorrogação",
+      "de": "Verlängerung",
+      "en": "extension, postponement"
+    },
+    {
+      "pt": "o decrépito",
+      "de": "verfallen, baufällig",
+      "en": "decrepit, dilapidated"
+    }
   ]
 }
