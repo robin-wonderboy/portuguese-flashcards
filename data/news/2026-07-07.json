@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO & MUNDIAL",
+      "stories": [
+        {
+          "headline": "Portugal eliminado do Mundial por Espanha (1-0) nos oitavos de final",
+          "text": "A seleção portuguesa foi afastada do Mundial 2026 após perder 1-0 frente a Espanha nos oitavos de final. Milhares de adeptos acompanharam o jogo em fan zones por todo o país, com reações de desalento e crítica à prestação da equipa."
+        },
+        {
+          "headline": "Adeptos desiludidos com despedida de \"muito fraca qualidade\"",
+          "text": "Cerca de milhar e meio de espetadores na fan zone de Oeiras expressaram desilusão com a prestação portuguesa no Mundial. Migos apelidaram a exibição de \"muito fraca qualidade\" e de mostrarem um desempenho aquém do esperado."
+        },
+        {
+          "headline": "Ronaldo não decide de cabeça quente o futuro na seleção",
+          "text": "Cristiano Ronaldo garantiu que não vai decidir impulsivamente o seu futuro internacional, sublinhando que \"não é importante agora\" e referindo os seus 23 anos ao serviço da seleção. O capitão falou aos jornalistas em Arlington, nos EUA."
+        },
+        {
+          "headline": "Martinez diz que \"não faz sentido continuar\" sem ganhar o Mundial",
+          "text": "O selecionador Roberto Martinez afirmou que chegou a Portugal para ganhar o Mundial e que sem o conseguir, não faz sentido continuar no cargo. O presidente da Federação, Pedro Proença, tem o direito de escolher o próximo treinador."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Pais das vítimas de Pedro Dias exigem que assassino cumpra pena até ao último dia",
+          "text": "Os pais das vítimas de Pedro Dias, o homem que assassinou Liliane Pinto e Luís Carlos, exigem que o assassino cumpra a pena até ao último dia. O caso continua a causar forte comoção pública."
+        },
+        {
+          "headline": "Funcionário da Câmara de Coimbra suspenso por 180 dias por assédio sexual",
+          "text": "O executivo da Câmara de Coimbra aprovou por unanimidade a suspensão por 180 dias de um funcionário do Departamento de Cultura e Turismo por assédio sexual a duas mulheres que trabalhavam na limpeza da Casa da Cultura."
+        },
+        {
+          "headline": "85 presos e 20 sob pulseira eletrónica por incêndios florestais",
+          "text": "Portugal já deteve 85 incendiários e colocou 20 sob pulseira eletrónica por crimes de incêndio florestal. As autoridades reforçam a vigilância e a zero tolerância face aos fogos deliberados."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Há 100 concelhos em perigo máximo de incêndio",
+          "text": "Cerca de uma centena de concelhos do interior norte e centro, mais 13 concelhos dos distritos de Évora, Beja e Faro, estão hoje em perigo máximo de incêndio, segundo o IPMA. Bragança, Braga, Vila Real, Porto, Viseu, Guarda e Coimbra estão entre os distritos mais afetados."
+        },
+        {
+          "headline": "Governo prolonga situação de alerta até quinta-feira",
+          "text": "O Governo decretou a prorrogação da situação de alerta até às 23:59 de quinta-feira em 10 distritos de Portugal Continental, abrangendo Vila Real, Bragança, Guarda, Viseu, Castelo Branco, Beja, Santarém, Portalegre, Évora e Faro. A decisão deve-se à manutenção da onda de calor."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "RFM SOMNII: Faltam poucos dias para milhares de festivaleiros invadirem a Figueira da Foz",
+          "text": "A contagem decrescente já começou para o RFM Somnii Intermarché, que volta a transformar a Praia do Relógio, na Figueira da Foz, num dos maiores palcos de música eletrónica da Europa. O evento atrai milhares de festivaleiros todos os anos."
+        },
+        {
+          "headline": "MeaJazz continua a crescer e reforça presença no calendário cultural português",
+          "text": "O MeaJazz - Jazz, Blues & Wine Fest voltou a afirmar-se como um dos festivais de jazz mais relevantes da região. A edição de 2026, realizada nos dias 3 e 4 de julho no Lago do Luso, registou um aumento significativo de público e confirmou a maturidade do evento."
+        },
+        {
+          "headline": "Biblioteca Municipal de Coimbra assinala centenário de Camilo Pessanha",
+          "text": "A Biblioteca Municipal de Coimbra assinala o centenário de Camilo Pessanha com uma exposição e recital dedicados ao poeta símbolo do simbolismo português."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Bombeiros de Brasfemes pedem apoio para continuar a salvar vidas",
+          "text": "Os Bombeiros Voluntários de Brasfemes lançaram um apelo à solidariedade da comunidade, lembrando que os seus operacionais deixam diariamente a família para acudir a emergências. \"Um dia a sirene pode tocar por si\", escreveu a corporação."
+        },
+        {
+          "headline": "Câmara de Coimbra ameaça privatizar linhas dos SMTUC",
+          "text": "A presidente Ana Abrunhosa reconheceu na Assembleia Municipal que o serviço dos SMTUC não está ao nível pretendido e não excluiu a privatização de algumas linhas de transporte urbano de Coimbra."
+        },
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21%",
+          "text": "Os preços das casas em Coimbra subiram 21%, continuando a bater recordes. Em Portugal, o aumento médio foi de 8,9% em junho, com o custo médio a atingir 3.156 euros por metro quadrado."
+        },
+        {
+          "headline": "Primeiros moradores da Quinta das Bicas já têm data para receber as chaves",
+          "text": "Os primeiros moradores da Quinta das Bicas, em Taveiro, vão receber em breve as chaves da sua habitação. A cerimónia contará com a presença de um convidado especial, segundo a presidente Ana Abrunhosa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Investigadores descobrem como tratar a perturbação obsessivo-compulsiva de forma mais eficaz",
+          "text": "Uma equipa da Fundação Champalimaud identificou uma rede de circuitos cerebrais que pode permitir tratamentos mais personalizados para a perturbação obsessivo-compulsiva (POC). A descoberta foi publicada na revista Biological Psychiatry."
+        },
+        {
+          "headline": "Tatuagens podem afetar (e muito) o sistema imunitário",
+          "text": "Investigadores alertam que as tatuagens podem provocar efeitos prolongados no sistema imunitário. A tinta introduzida na pele desencadeia uma resposta imunitária e parte dos pigmentos pode acumular-se nos gânglios linfáticos, com vestígios de metais pesados."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Cristiano Ronaldo surpreende criança que perdeu tudo nos sismos da Venezuela",
+          "text": "Cristiano Ronaldo enviou uma mensagem de apoio e um convite especial a Andrés, uma das crianças sobreviventes dos sismos na Venezuela. O menino, resgatado dos escombros a 30 de junho, perdeu a família na tragédia e sofreu a amputação de uma perna."
+        },
+        {
+          "headline": "Venezuela: número de mortos sobe para 3.535",
+          "text": "O balanço dos sismos que atingiram a Venezuela continua a subir, com o número de mortos a atingir 3.535. A tragédia é uma das maiores catástrofes naturais recentes na América do Sul."
+        }
+      ]
+    }
+  ]
+}
