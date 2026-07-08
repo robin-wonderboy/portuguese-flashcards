@@ -19887,5 +19887,119 @@
       "de": "verfallen, baufällig",
       "en": "decrepit, dilapidated"
     }
+  ],
+  "2026-07-08": [
+    {
+      "pt": "a varanda",
+      "de": "Balkon",
+      "en": "balcony",
+      "example": "A menina caiu de uma varanda de seis metros",
+      "example_de": "Das Mädchen fiel von einem sechs Meter hohen Balkon",
+      "example_en": "The girl fell from a six-meter balcony"
+    },
+    {
+      "pt": "helitransportada",
+      "de": "mit dem Hubschrauber transportiert",
+      "en": "airlifted by helicopter",
+      "example": "A criança foi helitransportada para o hospital de Coimbra",
+      "example_de": "Das Kind wurde mit dem Hubschrauber ins Krankenhaus von Coimbra geflogen",
+      "example_en": "The child was airlifted to the hospital in Coimbra"
+    },
+    {
+      "pt": "o penáltis",
+      "de": "Elfmeterschießen",
+      "en": "penalty shootout",
+      "example": "Suíça bate a Colômbia nos penáltis",
+      "example_de": "Schweiz schlägt Kolumbien im Elfmeterschießen",
+      "example_en": "Switzerland beats Colombia in the penalty shootout"
+    },
+    {
+      "pt": "a anulação",
+      "de": "Aufhebung, Annullierung",
+      "en": "annulment, cancellation",
+      "example": "Petição pede a anulação dos exames nacionais",
+      "example_de": "Petition fordert die Aufhebung der nationalen Prüfungen",
+      "example_en": "Petition demands the annulment of national exams"
+    },
+    {
+      "pt": "o desastre",
+      "de": "Katastrophe, Unglück",
+      "en": "disaster",
+      "example": "Iberia retoma voos após desastre na Venezuela",
+      "example_de": "Iberia nimmt Flüge nach dem Unglück in Venezuela wieder auf",
+      "example_en": "Iberia resumes flights after the disaster in Venezuela"
+    },
+    {
+      "pt": "aproximar-se",
+      "de": "sich nähern",
+      "en": "to approach, come closer",
+      "example": "Supertufão Bavi aproxima-se das Filipinas",
+      "example_de": "Super-Taifun Bavi nähert sich den Philippinen",
+      "example_en": "Super typhoon Bavi approaches the Philippines"
+    },
+    {
+      "pt": "desorganizado",
+      "de": "ungeordnet, chaotisch",
+      "en": "disorganized, messy",
+      "example": "Território desorganizado contribui para hectares ardidos",
+      "example_de": "Ungeordnetes Gebiet trägt zu verbrannten Hektar bei",
+      "example_en": "Disorganized territory contributes to burned hectares"
+    },
+    {
+      "pt": "o colecionador",
+      "de": "Sammler",
+      "en": "collector",
+      "example": "Hoje vale uma fortuna para muitos colecionadores",
+      "example_de": "Heute ist es vielen Sammlern ein Vermögen wert",
+      "example_en": "Today it's worth a fortune to many collectors"
+    },
+    {
+      "pt": "animar",
+      "de": "beleben, unterhalten",
+      "en": "to liven up, entertain",
+      "example": "Às Sextas na Praça anima Praça da Juventude em Anadia",
+      "example_de": "Freitags auf dem Platz belebt den Jugendplatz in Anadia",
+      "example_en": "Fridays in the Square liven up the Youth Square in Anadia"
+    },
+    {
+      "pt": "agravemente",
+      "de": "schwerwiegend, ernsthaft",
+      "en": "seriously, gravely",
+      "example": "Ficou agravemente ferida após cair de varanda",
+      "example_de": "Sie wurde schwer verletzt nach dem Sturz vom Balkon",
+      "example_en": "She was seriously injured after falling from a balcony"
+    },
+    {
+      "pt": "o processo disciplinar",
+      "de": "Disziplinarverfahren",
+      "en": "disciplinary proceeding",
+      "example": "Inspeção instaurou 46 processos disciplinares a elementos da PSP",
+      "example_de": "Inspektion leitete 46 Disziplinarverfahren gegen PSP-Mitglieder ein",
+      "example_en": "Inspection initiated 46 disciplinary proceedings against PSP members"
+    },
+    {
+      "pt": "fartar-se",
+      "de": "die Nase voll haben",
+      "en": "to be fed up, to have had enough",
+      "example": "Chega de casinhas - câmara quer habitações maiores",
+      "example_de": "Schluss mit den Häuschen - Gemeinde will größere Wohnungen",
+      "example_en": "Enough of tiny houses - municipality wants bigger homes"
+    },
+    {
+      "pt": "a campanha",
+      "de": "Kampagne",
+      "en": "campaign",
+      "example": "Liga Contra o Cancro lança campanha Verão com Prevenção",
+      "example_de": "Liga gegen Krebs startet Kampagne Sommer mit Prävention",
+      "example_en": "League Against Cancer launches Summer with Prevention campaign"
+    },
+    {
+      "pt": "flutuar",
+      "de": "schwimmen, treiben",
+      "en": "to float",
+      "example": "Corpo de homem encontrado a flutuar em porto de pesca",
+      "example_de": "Leiche eines Mannes schwimmend im Fischereihafen gefunden",
+      "example_en": "Body of a man found floating in a fishing port"
+    }
   ]
 }
