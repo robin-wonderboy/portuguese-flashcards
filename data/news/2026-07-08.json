@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏙️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Menina de 2 anos gravemente ferida após cair de varanda em Santa Comba Dão",
+          "text": "Uma criança de 2 anos ficou gravemente ferida no dia 6 de julho após uma queda de cerca de seis metros de altura, de uma varanda no centro de Santa Comba Dão. A menina foi helitransportada para o hospital de Coimbra, onde recebe cuidados."
+        },
+        {
+          "headline": "Miranda do Corvo reforça apoio aos estudantes do ensino superior",
+          "text": "O município de Miranda do Corvo anunciou medidas de reforço ao apoio dado aos estudantes do ensino superior, investindo em bolsas e recursos para facilitar o acesso à universidade."
+        },
+        {
+          "headline": "Bombeiros de Coja chamados para reforçar combate às chamas no Sabugal",
+          "text": "Os bombeiros de Coja foram mobilizados para o concelho do Sabugal, onde ajudaram no combate a um incêndio rural que consumiu área de mato. O fogo foi posteriormente dominado."
+        },
+        {
+          "headline": "Oásis em Arganil: um segredo que é difícil esquecer",
+          "text": "Nem toda a gente conhece este oásis em Arganil, mas quem o visita dificilmente esquece. Um espaço natural que desperta curiosidade e atrai visitantes à região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚒",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Fogo no concelho do Sabugal dominado",
+          "text": "O incêndio que deflagrou no concelho do Sabugal foi dado como dominado após a intervenção de onze meios aéreos e equipas no terreno. O calor intenso manteve Portugal em alerta por causa do risco de incêndio."
+        },
+        {
+          "headline": "Calor põe Portugal em alerta por risco de incêndio",
+          "text": "As altas temperaturas levaram as autoridades a decretar alerta em todo o território nacional devido ao elevado risco de incêndio florestal. A DGS reduziu entretanto para o nível 1 o risco do Plano Sazonal de Saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Tragédia a caminho da faculdade: estudante morre enquanto ia ver nota de exame",
+          "text": "Um estudante perdeu a vida num acidente enquanto se dirigia à faculdade para consultar a nota de um exame. A tragédia comoveu a comunidade estudantil."
+        },
+        {
+          "headline": "Pisa no acelerador por engano e mata duas pessoas com autocarro",
+          "text": "Um condutor pisou o acelerador por engano em vez do travão, provocando um acidente com um autocarro que resultou na morte de duas pessoas. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Família de bombeiros salva jovem após violento acidente de mota",
+          "text": "Uma família de bombeiros que passava pelo local conseguiu salvar um jovem após um violento acidente de mota. A intervenção rápida foi decisiva para a sobrevivência da vítima."
+        },
+        {
+          "headline": "Corpo de homem encontrado a flutuar em porto de pesca",
+          "text": "O corpo de um homem foi encontrado a flutuar no porto de pesca de Ponta Delgada, nos Açores. As autoridades estão a investigar as causas do óbito."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Inspeção instaurou 46 processos disciplinares a elementos da PSP e GNR em 2025",
+          "text": "A Inspeção-Geral das Polícias instaurou 46 processos disciplinares a elementos da PSP e GNR ao longo de 2025. O número reflete uma maior fiscalização interna das forças de segurança."
+        },
+        {
+          "headline": "Queixas contra atuação da PSP e GNR aumentaram 60% em seis anos",
+          "text": "As queixas contra a atuação das forças policiais PSP e GNR aumentaram 60% nos últimos seis anos, segundo dados divulgados. O aumento gera debate sobre fiscalização e formação dos agentes."
+        },
+        {
+          "headline": "Agride a própria mãe e fica em prisão preventiva",
+          "text": "Um indivíduo que agrediu a própria mãe foi colocado em prisão preventiva por decisão judicial. O caso chocou a comunidade local."
+        },
+        {
+          "headline": "GNR resgata cobra presa em caixa multibanco",
+          "text": "A GNR foi chamada para resgatar uma cobra que ficou presa dentro de uma caixa multibanco. A operação decorreu sem incidentes e o animal foi libertado."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Presidente da República promulga novo regime do Ensino Superior",
+          "text": "O Presidente da República promulgou o novo regime do Ensino Superior, que introduz mudanças significativas na organização e funcionamento das universidades e politécnicos portugueses."
+        },
+        {
+          "headline": "Petição pede a anulação dos exames nacionais",
+          "text": "Uma petição em circulação online pede a anulação dos exames nacionais, argumentando que o formato atual penaliza injustamente os estudantes. A petição tem recolhido apoiantes em todo o país."
+        },
+        {
+          "headline": "Universidade de Coimbra lidera projeto para assembleias de cidadãos mais inclusivas",
+          "text": "A Universidade de Coimbra lidera um projeto europeu destinado a tornar as assembleias de cidadãos mais inclusivas. O Centro de Estudos Sociais integra também um projeto para combater desigualdades no setor tecnológico."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Suíça nos quartos do Mundial ao bater a Colômbia nos penáltis",
+          "text": "A Suíça garantiu presença nos quartos de final do Mundial após vencer a Colômbia numa disputa de penáltis. A seleção suíça prossegue na competição após um jogo equilibrado."
+        },
+        {
+          "headline": "Argentina elimina Egito do Mundial depois de estar a perder por 2-0",
+          "text": "A Argentina conseguiu uma vitória histórica ao eliminar o Egito do Mundial, recuperando de uma desvantagem de 2-0. A remontada impressionou os adeptos em todo o mundo."
+        },
+        {
+          "headline": "Jorge Jesus é o favorito para treinar Portugal",
+          "text": "Jorge Jesus surge como o nome favorito para assumir a seleção portuguesa, segundo várias fontes. A decisão sobre o futuro do selecionador nacional continua a gerar debate."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Jogo de Portugal obrigou Força Aérea a voo extra para transportar Montenegro até à NATO",
+          "text": "O jogo de Portugal no Mundial obrigou a Força Aérea a fazer um voo extra para transportar o primeiro-ministro Luís Montenegro até à cimeira da NATO, devido ao sobrevoos e restrições aéreas."
+        },
+        {
+          "headline": "António José Seguro dá luz verde à reforma do INEM",
+          "text": "O primeiro-ministro António José Seguro aprovou a nova lei orgânica do INEM, introduzindo mudanças na organização do serviço de emergência médica."
+        },
+        {
+          "headline": "Ministro diz que território desorganizado contribui para hectares ardidos",
+          "text": "O ministro responsável afirmou que o território desorganizado contribui significativamente para os hectares ardidos nos incêndios florestais, defendendo uma melhor gestão do solo rural."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Número de mortos na Venezuela sobe para 3.685 após sismo",
+          "text": "O número de vítimas mortais do sismo na Venezuela subiu para 3.685, segundo as autoridades locais. Entre os mortos encontram-se 100 portugueses e lusodescendentes. A Iberia retoma voos regulares para a região."
+        },
+        {
+          "headline": "Supertufão Bavi aproxima-se das Filipinas após atingir ilha do Pacífico",
+          "text": "O supertufão Bavi, que já atingiu uma ilha do Pacífico, aproxima-se agora das Filipinas. As autoridades filipinas prepararam evacuações preventivas em zonas costeiras."
+        },
+        {
+          "headline": "Dois sismos de magnitude 5 abalam a província chinesa de Sichuan",
+          "text": "Dois sismos de magnitude 5 abalaram a província chinesa de Sichuan. Não há informações imediatas sobre vítimas ou danos significativos."
+        },
+        {
+          "headline": "Marine Le Pen será candidata às presidenciais francesas de 2027",
+          "text": "Marine Le Pen anunciou que será candidata às eleições presidenciais francesas de 2027, mantendo a sua trajetória política após resultados anteriores."
+        }
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "category": "HABITAÇÃO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Chega de casinhas: Câmara de Coimbra quer construção de habitações maiores",
+          "text": "A Câmara de Coimbra lançou a iniciativa para fomentar a construção de habitações de maiores dimensões, afastando-se do modelo de apartamentos diminutos que tem marcado o mercado imobiliário."
+        },
+        {
+          "headline": "Primeiros moradores da Quinta das Bicas já têm data para receber as chaves",
+          "text": "Os primeiros moradores do empreendimento da Quinta das Bicas já conhecem a data em que vão receber as chaves das suas novas habitações, avançando a fase de entrega das casas."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Livraria ao ar livre em Penacova tem páginas escritas pela natureza",
+          "text": "Uma livraria ao ar livre em Penacova surpreende visitantes com páginas 'escritas pela natureza'. O espaço original combina literatura e paisagem natural."
+        },
+        {
+          "headline": "Coimbra vai transformar-se numa cidade medieval",
+          "text": "Coimbra prepara-se para se transformar numa cidade medieval, com espadas, banquetes e cavaleiros. O evento promete transportar visitantes para a Idade Média."
+        },
+        {
+          "headline": "José Cid leva os seus grandes êxitos ao palco da Pampilhosa",
+          "text": "O cantor José Cid leva os seus maiores êxitos ao palco da Pampilhosa, num espetáculo que promete nostalgia e boa música para os fãs."
+        },
+        {
+          "headline": "Mangualde lança festival que une escritores, concertos e arte",
+          "text": "Mangualde lançou um novo festival que combina literatura, música e artes visuais. O evento pretende atrair um público diversificado à região."
+        }
+      ]
+    }
+  ]
+}
