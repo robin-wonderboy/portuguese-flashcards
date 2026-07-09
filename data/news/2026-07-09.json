@@ -1,0 +1,150 @@
+{
+  "date": "2026-07-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "METEO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Reviravolta no tempo: adeus calor extremo, agora prepare-se para as trovoadas",
+          "text": "Depois de vários dias de calor extremo, o estado do tempo vai mudar entre quinta e sábado. A aproximação de uma 'gota fria' (depressão isolada em altitude) vai trazer temperaturas mais frescas mas também instabilidade, com probabilidade de trovoadas nas regiões Norte e Centro."
+        },
+        {
+          "headline": "Calor mantém dezenas de concelhos no nível máximo de risco de incêndio",
+          "text": "Mais de 70 concelhos do interior Norte e Centro e uma dezena do Alentejo e Algarve estão hoje em perigo máximo de incêndio rural, segundo o IPMA. Os concelhos afetados pertencem a 12 distritos, de Bragança ao Algarve."
+        },
+        {
+          "headline": "Ondas de calor provocaram 123 óbitos em excesso",
+          "text": "As duas últimas ondas de calor provocaram 123 mortes em excesso, um valor abaixo das previsões do Instituto Nacional de Saúde. A diretora-geral da Saúde, Rita Sá Machado, alertou que será preciso esperar para perceber o impacto da mais recente onda."
+        },
+        {
+          "headline": "Junho foi o mês mais quente de sempre na Europa Ocidental",
+          "text": "Os dados confirmam que junho de 2026 bateu todos os recordes de temperatura na Europa Ocidental, consolidando uma tendência preocupante de aquecimento climático na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "REGIÃO & INCIDENTES",
+      "stories": [
+        {
+          "headline": "Autocaravana consumida pelas chamas em Vila Nova de Oliveirinha",
+          "text": "Os Bombeiros de Vila Nova de Oliveirinha foram acionados quarta-feira às 22:47 para um incêndio numa autocaravana. O incêndio já se encontra extinto e não houve feridos a registar."
+        },
+        {
+          "headline": "Fim do pesadelo para Penela: IC3 abre de forma condicionada",
+          "text": "A Infraestruturas de Portugal vai proceder sexta-feira, 10 de julho, à abertura parcial do troço do IC3 que se encontra encerrado desde fevereiro. A decisão segue diversos estudos de segurança realizados pela IP."
+        },
+        {
+          "headline": "Obelix, gato de colónia, morre após disparos de chumbo na Lousã",
+          "text": "O gato, acompanhado pela associação Louzanimales, foi encontrado gravemente ferido na Travessa de Santa Rita. Esteve internado com prognóstico reservado e precisava de cirurgia para amputação da cauda, mas não resistiu."
+        },
+        {
+          "headline": "Oliveira do Hospital prepara-se para a época mais crítica de incêndios",
+          "text": "O município reforça medidas de prevenção e combate aos incêndios florestais, preparando-se para o período mais perigoso do ano."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Chefe das Finanças da Mealhada envolvido em esquema milionário com imigrantes",
+          "text": "A PJ de Coimbra desmantelou uma alegada rede criminosa suspeita de facilitar a legalização fraudulenta de milhares de cidadãos estrangeiros. A operação levou à detenção de cinco pessoas, incluindo o responsável de uma repartição de Finanças da Mealhada e três empresários."
+        },
+        {
+          "headline": "Motorista sem carta conduzia autocarro cheio de crianças",
+          "text": "A GNR detetou um veículo pesado de passageiros com 15 crianças em situação irregular. O condutor não possuía a Carta de Qualificação de Motorista, não tinha cartão de tacógrafo e o transporte estava irregular."
+        },
+        {
+          "headline": "Namorada de Sócrates recusa falar em tribunal",
+          "text": "Lígia Correia recusou-se a prestar declarações no julgamento da Operação Marquês, invocando o direito de não testemunhar e justificando a decisão com a necessidade de proteger a relação que mantém com o antigo primeiro-ministro."
+        },
+        {
+          "headline": "Supremo confirma condenação de adeptos dos No Name Boys",
+          "text": "O Supremo Tribunal de Justiça confirmou a condenação de adeptos do grupo No Name Boys por violação agravada, mantendo as penas aplicadas em instâncias anteriores."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "PORTUGAL & TRAGÉDIAS",
+      "stories": [
+        {
+          "headline": "Carro cai de viaduto e mata 2 jovens na A4",
+          "text": "Dois jovens morreram e outros dois sobreviveram com ferimentos após um despiste na A4 em São Mamede de Infesta, madrugada de 9 de julho. A viatura caiu de um viaduto. As vítimas mortais foram confirmadas no local, os sobreviventes encaminhados ao hospital."
+        },
+        {
+          "headline": "Homem morre enquanto praticava mergulho",
+          "text": "Um homem perdeu a vida durante uma atividade de mergulho. As autoridades estão a investigar as causas do incidente."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Roberto Martínez deixa de ser selecionador de Portugal",
+          "text": "A Federação Portuguesa de Futebol oficializou a saída do selecionador no dia da chegada a Lisboa, após a eliminação de Portugal nos oitavos de final do Mundial 2026. A FPF terminou oficialmente a ligação contratual com Martínez e respetiva equipa técnica."
+        },
+        {
+          "headline": "Pepe poderá integrar equipa técnica de Jorge Jesus na seleção",
+          "text": "Após a saída de Martínez, surgem nomes para a renovação da seleção. Pepe é apontado como possível elemento da equipa técnica de Jorge Jesus, que surge como candidato a selecionador."
+        },
+        {
+          "headline": "França e Marrocos dão pontapé de saída nos quartos de final do Mundial",
+          "text": "Os quartos de final do Mundial 2026 arrancam com os jogos de França e Marrocos, duas equipas que procuram garantir lugar nas meias-finais."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra celebra 47 anos com novas residências para estudantes",
+          "text": "O IPC assinala o 47.º aniversário com cerimónia no Convento São Francisco, contando com a presença do Ministro da Educação. A celebração inclui entrega de Prémios do Politécnico e anúncio de novas residências estudantis."
+        },
+        {
+          "headline": "Alunos da Mealhada criam aplicação contra bullying",
+          "text": "A Escola Profissional Vasconcellos Lebre garantiu lugar na final nacional do Apps for Good com o projeto 'SOS - Safety on Sight', uma aplicação para combater o bullying escolar. A escola conquistou um dos lugares no Encontro Regional Norte."
+        },
+        {
+          "headline": "Agraria de Coimbra volta a atribuir bolsas aos melhores candidatos",
+          "text": "A Escola Superior Agrária de Coimbra renova o programa de bolsas para os melhores candidatos ao ensino superior, incentivando o acesso e mérito académico."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "EUA voltam a atacar o Irão",
+          "text": "Os Estados Unidos lançaram nova ofensiva militar contra alvos no sul do Irão. A operação, segundo o CENTCOM, pretende reduzir a capacidade do Irão de ameaçar a navegação no Estreito de Ormuz, uma das principais rotas mundiais de transporte de petróleo."
+        },
+        {
+          "headline": "Inferno na Venezuela: número de mortos sobe para 3.811",
+          "text": "O número de mortos pelos sismos na Venezuela subiu para 3.811, com 16.740 feridos, segundo o balanço oficial. O aumento representa 126 vítimas mortais face ao balanço anterior de domingo."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar sobe mais 3 euros",
+          "text": "O preço do cabaz alimentar essencial subiu para 256,71 euros, segundo a DECO PROteste. O conjunto de 63 produtos registou uma subida de 3,08 euros face à semana anterior, invertendo a descida da semana precedente."
+        },
+        {
+          "headline": "Garrafa de vinho mais leve do mundo, criada em Leiria, recebe prémio internacional",
+          "text": "O projeto português que criou a garrafa de 75 cl com apenas 260 gramas foi distinguido com o Red Dot: Best of the Best 2026 na categoria de Sustainable Design. A garrafa foi desenvolvida pelo LiDA da Escola Superior de Artes e Design de Leiria."
+        }
+      ]
+    }
+  ]
+}
