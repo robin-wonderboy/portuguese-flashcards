@@ -20001,5 +20001,135 @@
       "example_de": "Leiche eines Mannes schwimmend im Fischereihafen gefunden",
       "example_en": "Body of a man found floating in a fishing port"
     }
+  ],
+  "2026-07-09": [
+    {
+      "pt": "a abertura",
+      "de": "die Eröffnung, Öffnung",
+      "en": "the opening",
+      "example": "À abertura parcial do troço do IC3",
+      "example_de": "Zur teilweisen Öffnung des IC3-Abschnitts",
+      "example_en": "To the partial opening of the IC3 section"
+    },
+    {
+      "pt": "a garrafa",
+      "de": "die Flasche",
+      "en": "the bottle",
+      "example": "A garrafa de vinho mais leve do mundo",
+      "example_de": "Die leichteste Weinflasche der Welt",
+      "example_en": "The lightest wine bottle in the world"
+    },
+    {
+      "pt": "a saída",
+      "de": "der Abgang, Ausgang",
+      "en": "the exit, the departure",
+      "example": "A FPF oficializou a saída do selecionador",
+      "example_de": "Der Verband machte den Abgang des Trainers offiziell",
+      "example_en": "The FPF made the coach's departure official"
+    },
+    {
+      "pt": "o bullying",
+      "de": "das Mobbing",
+      "en": "bullying",
+      "example": "Uma aplicação para proteger os colegas do bullying",
+      "example_de": "Eine App, um Mitschüler vor Mobbing zu schützen",
+      "example_en": "An app to protect classmates from bullying"
+    },
+    {
+      "pt": "a conduta",
+      "de": "das Fahren, die Fahrt",
+      "en": "the driving, the conduct",
+      "example": "O condutor exercia a atividade sem carta",
+      "example_de": "Der Fahrer übte die Tätigkeit ohne Führerschein aus",
+      "example_en": "The driver carried out the activity without a license"
+    },
+    {
+      "pt": "o troço encerrado",
+      "de": "der gesperrte Abschnitt",
+      "en": "the closed section",
+      "example": "O troço que se encontra encerrado desde fevereiro",
+      "example_de": "Der seit Februar gesperrte Abschnitt",
+      "example_en": "The section closed since February"
+    },
+    {
+      "pt": "a carta de condução",
+      "de": "der Führerschein",
+      "en": "the driver's license",
+      "example": "O motorista sem carta conduzia autocarro cheio de crianças",
+      "example_de": "Der Fahrer ohne Führerschein lenkte einen Bus voller Kinder",
+      "example_en": "The driver without a license drove a bus full of children"
+    },
+    {
+      "pt": "encerrado",
+      "de": "gesperrt, geschlossen",
+      "en": "closed",
+      "example": "O troço que se encontra encerrado desde fevereiro",
+      "example_de": "Der seit Februar gesperrte Abschnitt",
+      "example_en": "The section closed since February"
+    },
+    {
+      "pt": "a repartição",
+      "de": "das Finanzamt, die Behörde",
+      "en": "the tax office, the department",
+      "example": "O responsável de uma repartição de Finanças da Mealhada",
+      "example_de": "Der Leiter einer Finanzbehörde in Mealhada",
+      "example_en": "The head of a tax office in Mealhada"
+    },
+    {
+      "pt": "a legalização fraudulenta",
+      "de": "die betrügerische Legalisierung",
+      "en": "the fraudulent legalization",
+      "example": "Facilitando a legalização fraudulenta de milhares de cidadãos",
+      "example_de": "Erleichterte die betrügerische Legalisierung von Tausenden Bürgern",
+      "example_en": "Facilitated the fraudulent legalization of thousands of citizens"
+    },
+    {
+      "pt": "a vítima mortal",
+      "de": "das Todesopfer",
+      "en": "the fatal victim",
+      "example": "Às vítimas mortais foi confirmado o óbito no local",
+      "example_de": "Bei den Todesopfern wurde der Tod vor Ort bestätigt",
+      "example_en": "The fatal victims were confirmed dead at the scene"
+    },
+    {
+      "pt": "prestar declarações",
+      "de": "Aussagen machen",
+      "en": "to make statements, to testify",
+      "example": "Recusou-se a prestar declarações em tribunal",
+      "example_de": "Sie weigerte sich, vor Gericht auszusagen",
+      "example_en": "She refused to testify in court"
+    },
+    {
+      "pt": "o prognóstico reservado",
+      "de": "die zurückhaltende Prognose",
+      "en": "the reserved prognosis",
+      "example": "O animal esteve internado com um prognóstico reservado",
+      "example_de": "Das Tier war mit zurückhaltender Prognose stationär",
+      "example_en": "The animal was hospitalized with a reserved prognosis"
+    },
+    {
+      "pt": "a época crítica",
+      "de": "die kritische Saison",
+      "en": "the critical season",
+      "example": "Oliveira do Hospital prepara-se para a época mais crítica dos incêndios",
+      "example_de": "Oliveira do Hospital bereitet sich auf die kritischste Waldbrandsaison vor",
+      "example_en": "Oliveira do Hospital prepares for the most critical fire season"
+    },
+    {
+      "pt": "a cacimba",
+      "de": "die drückende Hitze",
+      "en": "stifling heat",
+      "example": "O calor continua a apertar e coloca dezenas de concelhos em risco",
+      "example_de": "Die Hitze bleibt drückend und setzt Dutzende Landkreise dem Risiko aus",
+      "example_en": "The heat remains stifling and puts dozens of municipalities at risk"
+    },
+    {
+      "pt": "a Bolsa",
+      "de": "das Stipendium",
+      "en": "the scholarship, grant",
+      "example": "Agraria de Coimbra volta a atribuir bolsas aos melhores candidatos",
+      "example_de": "Agraria de Coimbra vergibt wieder Stipendien an die besten Bewerber",
+      "example_en": "Agraria de Coimbra awards scholarships again to the best candidates"
+    }
   ]
 }
