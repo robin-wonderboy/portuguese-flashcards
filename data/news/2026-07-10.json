@@ -1,0 +1,264 @@
+{
+  "date": "2026-07-10",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Do bronze à chuva (quase) em 24 horas",
+          "text": "Depois de vários dias marcados pelo tempo estável e temperaturas elevadas, o panorama meteorológico poderá mudar nos próximos dias. Uma gota fria poderá evoluir e fundir-se com uma depressão atlântica, aumentando a instabilidade em Portugal continental."
+        },
+        {
+          "headline": "Calor e vento alimentam o perigo de risco máximo de incêndio",
+          "text": "As condições meteorológicas atuais, com temperaturas elevadas e vento, mantêm o perigo de risco máximo de incêndio em várias regiões do país."
+        },
+        {
+          "headline": "Canadair não podem operar com temperaturas acima dos 38 graus",
+          "text": "Os aviões Canadair usados no combate a incêndios florestais têm limitações operacionais e não podem voar quando as temperaturas ultrapassam os 38 graus Celsius, o que complica as operações de combate em dias de calor extremo."
+        },
+        {
+          "headline": "Junho foi muito quente e seco e com duas ondas de calor",
+          "text": "O mês de junho caracterizou-se por temperaturas acima do normal e pouca precipitação, com duas ondas de calor a afetar o território continental."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "França vence Marrocos e é a primeira semi-finalista do Mundial",
+          "text": "A seleção francesa garantiu a primeira vaga nas meias-finais do Mundial ao vencer Marrocos, continuando o seu percurso na competição."
+        },
+        {
+          "headline": "Espanha e Bélgica defrontam-se no segundo jogo dos quartos do Mundial",
+          "text": "As seleções de Espanha e Bélgica defrontam-se no segundo jogo dos quartos-de-final do Mundial, num encontro altamente aguardado."
+        },
+        {
+          "headline": "Jorge Jesus vai ser apresentado como novo selecionador de Portugal",
+          "text": "O treinador Jorge Jesus será oficialmente apresentado como novo selecionador da seleção nacional portuguesa, substituindo o anterior técnico."
+        },
+        {
+          "headline": "Pepe rejeita convite para integrar equipa técnica da Seleção Nacional",
+          "text": "O antigo jogador Pepe recusou o convite para fazer parte da equipa técnica da seleção nacional, preferindo seguir outros caminhos no futebol."
+        }
+      ]
+    },
+    {
+      "emoji": "⛪",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra volta a emocionar-se com a Procissão da Penitência da Rainha Santa",
+          "text": "A cidade de Coimbra voltou a viver mais uma edição da Procissão da Penitência da Rainha Santa, com fotografias e vídeos a marcarem o momento."
+        },
+        {
+          "headline": "Humildade da Rainha Santa deve servir de exemplo para todos os cristãos",
+          "text": "A humildade da Rainha Santa Isabel foi destacada como um exemplo a seguir por todos os cristãos, durante as celebrações religiosas na cidade."
+        },
+        {
+          "headline": "Meu Super abre portas em Miranda do Corvo",
+          "text": "Um novo supermercado Meu Super abriu as portas em Miranda do Corvo, ampliando a oferta comercial no concelho."
+        },
+        {
+          "headline": "AtrapalhArte celebra 14 anos e apresenta nova programação artística em Coimbra",
+          "text": "O projeto AtrapalhArte celebra 14 anos de atividade e apresenta a sua nova programação artística, com diversas propostas culturais para a cidade de Coimbra."
+        },
+        {
+          "headline": "Aldeia e praia em Arganil: o tempo parou, a água parece cristal",
+          "text": "Uma aldeia em Arganil onde o tempo parece ter parado, com água cristalina e a serra a dominar a paisagem, é uma visita obrigatória na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Jovem baleado na barriga fica em estado grave",
+          "text": "Um jovem foi atingido por um tiro na barriga e encontra-se em estado grave no hospital. As autoridades estão a investigar o caso."
+        },
+        {
+          "headline": "Traficantes apanhados com mais de 13 mil doses de cocaína e armas ilegais em Pombal e Ansião",
+          "text": "Uma operação policial resultou na detenção de traficantes que transportavam mais de 13 mil doses de cocaína e armas ilegais, em operações nos concelhos de Pombal e Ansião."
+        },
+        {
+          "headline": "Guerra de vizinhos acaba em tentativa de morte",
+          "text": "Um conflito entre vizinhos escalou para uma tentativa de homicídio, com as autoridades a intervirem no caso."
+        },
+        {
+          "headline": "Pediu abrigo por três noites e acaba por violar mulher que o ajudou",
+          "text": "Um indivíduo que pediu abrigo por três noites a uma mulher acabou por agredi-la, num caso que chocou a comunidade local."
+        },
+        {
+          "headline": "Sete detidos em operação de combate ao tráfico de droga em Leiria",
+          "text": "Uma operação de combate ao tráfico de droga resultou na detenção de sete indivíduos em Leiria, com apreensão de substâncias ilícitas."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Pedregulho desprende-se de encosta e mata idosa após queda",
+          "text": "Um pedregulho desprendeu-se de uma encosta e atingiu uma mulher idosa, causando a sua morte após a queda. O acontecimento ocorreu numa zona de risco geológico."
+        },
+        {
+          "headline": "Crianças feridas após acidente com autocarro de transporte escolar",
+          "text": "Várias crianças ficaram feridas na sequência de um acidente envolvendo um autocarro de transporte escolar. As vítimas receberam cuidados médicos no local."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Intoxicação nas Caldas da Rainha já supera a centena de afetados",
+          "text": "O número de pessoas com sintomas de intoxicação nas Caldas da Rainha já ultrapassou a centena, com as autoridades de saúde a investigar a origem do surto."
+        },
+        {
+          "headline": "A ameaça invisível que afetou milhões durante a vaga de calor",
+          "text": "Durante a recente vaga de calor, milhões de pessoas foram afetadas por uma ameaça invisível relacionada com as altas temperaturas e a qualidade do ar."
+        },
+        {
+          "headline": "Bebé de 2 meses internada com fraturas por todo o corpo",
+          "text": "Um bebé de apenas dois meses foi internada com fraturas espalhadas pelo corpo, num caso que levanta suspeitas de maus-tratos e está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Tomar banho de água fria nos dias de calor esconde uma armadilha",
+          "text": "Especialistas alertam que tomar banho de água fria nos dias de calor extremo pode esconder riscos para a saúde, nomeadamente choque térmico e problemas circulatórios."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismos já mataram 3.899 pessoas na Venezuela",
+          "text": "Uma série de sismos na Venezuela já causou a morte de 3.899 pessoas, num dos maiores desastres naturais recentes na América do Sul."
+        },
+        {
+          "headline": "6 mortos num incêndio em Andaluzia",
+          "text": "Um incêndio em Andaluzia, sul de Espanha, provocou seis mortes, com as autoridades a lutarem para controlar as chamas."
+        },
+        {
+          "headline": "China prepara-se para chegada do tufão Bavi",
+          "text": "A China está a preparar-se para a chegada do tufão Bavi, após tempestades anteriores que fizeram já 50 mortos no país. As autoridades decretaram alertas e evacuações preventivas."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Investimento em alojamento estudantil aumenta camas para 26 mil",
+          "text": "O investimento em alojamento estudantil permitiu aumentar o número de camas disponíveis para 26 mil, melhorando as condições dos estudantes do ensino superior."
+        },
+        {
+          "headline": "Ministro da Educação recebido em Coimbra com protesto",
+          "text": "O ministro da Educação foi recebido em Coimbra com um protesto de estudantes e professores, que reclamam melhores condições no ensino."
+        },
+        {
+          "headline": "Ensino superior vai mudar: universidades e politécnicos ganham mais autonomia",
+          "text": "O ensino superior português vai sofrer mudanças, com universidades e institutos politécnicos a ganharem mais autonomia na gestão dos seus cursos e financiamento."
+        },
+        {
+          "headline": "Politécnico de Coimbra pede financiamento estável ao Governo",
+          "text": "O presidente do Politécnico de Coimbra pediu ao Governo um financiamento estável e sustentado para garantir o funcionamento da instituição."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo rejeita atrasos e garante apoios aos municípios afetados pelas tempestades",
+          "text": "O Governo garantiu que não haverá atrasos nos apoios aos municípios afetados pelas recentes tempestades, com verbas já em processo de liberação."
+        },
+        {
+          "headline": "CGTP protesta em Coimbra e exige demissão do ministro da Educação",
+          "text": "A CGTP realizou um protesto em Coimbra onde exigiu a demissão do ministro da Educação, criticando as políticas do Governo para o setor."
+        },
+        {
+          "headline": "Cabaz alimentar sobe mais 3 euros",
+          "text": "O cabaz alimentar básico subiu mais 3 euros, representando um novo golpe na carteira dos portugueses num contexto de inflação persistente."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "RFM Somnii começa esta sexta-feira e transforma a Figueira da Foz na capital da música eletrónica",
+          "text": "O festival RFM Somnii arranca esta sexta-feira e vai transformar a Figueira da Foz na capital da música eletrónica, com dezenas de artistas e milhares de espetadores esperados."
+        },
+        {
+          "headline": "Citemor está de volta com mais de três semanas de espetáculos",
+          "text": "O festival Citemor regressa com mais de três semanas de espetáculos entre Coimbra e Montemor-o-Velho, oferecendo uma programação diversificada de artes performativas."
+        },
+        {
+          "headline": "Chronosphere em Góis quer mudar os festivais em Portugal",
+          "text": "O festival Chronosphere em Góis promete inovar com zonas tranquilas, som mais baixo e espaços sensoriais, criando uma experiência mais acessível e consciente para os festival-goers."
+        },
+        {
+          "headline": "Novo disco dos Rolling Stones já disponível",
+          "text": "Os Rolling Stones lançaram um novo disco que inclui versões de temas de Amy Winehouse e Chuck Berry, disponível para audição."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Carneiro exige que Governo assegure continuidade das obras financiadas pelo PRR",
+          "text": "O político Carneiro exigiu que o Governo assegure a continuidade das obras financiadas pelo PRR (Plano de Recuperação e Resiliência), evitando paralisações."
+        },
+        {
+          "headline": "Candidatos fazem participação ao MP por causa das eleições do PS em Coimbra",
+          "text": "Candidatos às eleições do PS em Coimbra fizeram uma participação ao Ministério Público, contestando o processo eleitoral interno do partido."
+        }
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Mata do Bussaco vai ser a primeira floresta terapêutica da Península Ibérica",
+          "text": "A Mata do Bussaco, na Mealhada, vai tornar-se oficialmente a primeira floresta terapêutica da Península Ibérica, um projeto pioneiro de saúde e bem-estar através da natureza."
+        },
+        {
+          "headline": "ULS de Castelo Branco garante cobertura total de médicos de família",
+          "text": "A Unidade Local de Saúde de Castelo Branco garantiu cobertura total de médicos de família a todos os utentes, um marco importante no acesso aos cuidados de saúde."
+        },
+        {
+          "headline": "Arouca investe 9,5 milhões na Secundária de Escariz",
+          "text": "Arouca tem um projeto de 9,5 milhões de euros para remodelar e ampliar a Escola Secundária de Escariz, melhorando as condições para estudantes e professores."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "CASAS DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra: T2 já custa 230 mil euros",
+          "text": "O preço dos apartamentos T2 em Coimbra atingiu os 230 mil euros, refletindo a subida do mercado imobiliário na cidade."
+        },
+        {
+          "headline": "Chega de casinhas: Câmara de Coimbra quer habitações maiores",
+          "text": "A Câmara de Coimbra pretende incentivar a construção de habitações maiores, afastando-se do modelo de apartamentos pequenos que tem dominado o mercado."
+        }
+      ]
+    }
+  ]
+}
