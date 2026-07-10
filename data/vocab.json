@@ -20131,5 +20131,103 @@
       "example_de": "Agraria de Coimbra vergibt wieder Stipendien an die besten Bewerber",
       "example_en": "Agraria de Coimbra awards scholarships again to the best candidates"
     }
+  ],
+  "2026-07-10": [
+    {
+      "pt": "a humildade",
+      "de": "Demut",
+      "en": "humility",
+      "example": "A humildade da Rainha Santa deve servir de exemplo",
+      "example_de": "Die Demut der Rainha Santa soll als Vorbild dienen",
+      "example_en": "The humility of Queen Santa should serve as an example"
+    },
+    {
+      "pt": "desprender-se",
+      "de": "sich lösen",
+      "en": "to detach/break off",
+      "example": "Pedregulho desprende-se de encosta",
+      "example_de": "Geröll löst sich vom Hang",
+      "example_en": "Boulder detaches from hillside"
+    },
+    {
+      "pt": "o pedregulho",
+      "de": "der Geröllbrocken",
+      "en": "boulder/rock fragment",
+      "example": "Pedregulho desprende-se de encosta e mata idosa",
+      "example_de": "Geröllbrocken löst sich vom Hang und tötet ältere Frau",
+      "example_en": "Boulder detaches from hillside and kills elderly woman"
+    },
+    {
+      "pt": "defrontar-se",
+      "de": "sich gegenüberstehen",
+      "en": "to face each other",
+      "example": "Espanha e Bélgica defrontam-se nos quartos do Mundial",
+      "example_de": "Spanien und Belgien stehen sich im Viertelfinale gegenüber",
+      "example_en": "Spain and Belgium face each other in the World Cup quarterfinals"
+    },
+    {
+      "pt": "o convite",
+      "de": "die Einladung",
+      "en": "invitation",
+      "example": "Pepe rejeita convite para integrar equipa técnica da Seleção",
+      "example_de": "Pepe lehnt Einladung ab, dem Team der Nationalmannschaft beizutreten",
+      "example_en": "Pepe rejects invitation to join the national team staff"
+    },
+    {
+      "pt": "a armadilha",
+      "de": "die Falle",
+      "en": "trap/pitfall",
+      "example": "Tomar banho de água fria nos dias de calor esconde uma armadilha",
+      "example_de": "Kalt duschen an heißen Tagen birgt eine Falle",
+      "example_en": "Taking cold showers on hot days hides a trap"
+    },
+    {
+      "pt": "o tufão",
+      "de": "der Taifun",
+      "en": "typhoon",
+      "example": "China prepara-se para chegada do tufão Bavi",
+      "example_de": "China bereitet sich auf den Taifun Bavi vor",
+      "example_en": "China prepares for the arrival of typhoon Bavi"
+    },
+    {
+      "pt": "o atraso",
+      "de": "die Verspätung",
+      "en": "delay",
+      "example": "Governo rejeita atrasos e garante apoios aos municípios",
+      "example_de": "Regierung lehnt Verzögerungen ab und gewährleistet Hilfen",
+      "example_en": "Government rejects delays and guarantees support to municipalities"
+    },
+    {
+      "pt": "exigir",
+      "de": "fordern",
+      "en": "to demand/require",
+      "example": "CGTP protesta em Coimbra e exige a demissão do ministro",
+      "example_de": "CGTP protestiert in Coimbra und fordert den Rücktritt des Ministers",
+      "example_en": "CGTP protests in Coimbra and demands the minister's resignation"
+    },
+    {
+      "pt": "a intoxicação",
+      "de": "die Vergiftung",
+      "en": "intoxication/poisoning",
+      "example": "Número de afetados com sintomas de intoxicação supera a centena",
+      "example_de": "Anzahl der Betroffenen mit Vergiftungssymptomen übersteigt hundert",
+      "example_en": "Number of people affected with intoxication symptoms exceeds one hundred"
+    },
+    {
+      "pt": "baixar os braços",
+      "de": "aufgeben",
+      "en": "to give up",
+      "example": "Não vamos baixar os braços, vandalizam tenda de clube",
+      "example_de": "Wir werden nicht aufgeben, sie vandalieren das Vereinszelt",
+      "example_en": "We will not give up, they vandalize the club tent"
+    },
+    {
+      "pt": "a centena",
+      "de": "die Hundertschaft",
+      "en": "hundred (as a count/group)",
+      "example": "Número de afetados com intoxicação já supera a centena",
+      "example_de": "Anzahl der Betroffenen mit Vergiftung übersteigt bereits die Hundert",
+      "example_en": "Number of affected people with poisoning already exceeds one hundred"
+    }
   ]
 }
