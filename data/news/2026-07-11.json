@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚇",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Metro Mondego instala obra de arte na futura estação de Coimbra-B",
+          "text": "A instalação \"Les Palissades\" do artista Paul de Gobert será inaugurada este sábado na futura estação terminal do metrobus. A obra integra arte e mobilidade num dos principais pontos de acesso ao sistema de Metro Mondego."
+        },
+        {
+          "headline": "Greve trava Casino da Figueira da Foz",
+          "text": "A greve dos trabalhadores do Casino registou 80% de adesão no jogo bancado, segundo o sindicato. A paralisação está agendada para hoje e sábado, afetando o funcionamento normal daquela unidade de jogo."
+        },
+        {
+          "headline": "Cantanhede volta a destacar-se pela qualidade das suas águas balneares",
+          "text": "A presidente da Câmara içou a Bandeira Azul nas praias fluviais dos Olhos da Fervença e das Sete Fontes, e na piscina natural de Ançã. O galardão comprova o cumprimento de critérios ambientais e de qualidade da água."
+        },
+        {
+          "headline": "IP3 cortado durante três noites",
+          "text": "O troço entre Canas de Santa Maria e São Miguel de Outeiro estará cortado nas noites de 13 a 15 de julho para trabalhos de melhoria das condições de circulação, anunciou a Infraestruturas de Portugal."
+        },
+        {
+          "headline": "Amanhecer abre loja em Miranda do Corvo",
+          "text": "A cadeia de supermercados Amanhecer expandiu-se com nova unidade em Miranda do Corvo, reforçando a oferta comercial no concelho."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Traficantes apanhados pela Operação \"Lótus\" são \"máquinas a transportar\" drogas",
+          "text": "A PSP deteve sete homens na Operação Lótus, uma ação de grande dimensão envolvendo os Comandos de Leiria, Lisboa, Santarém e Coimbra. Os detidos são descritos como verdadeiras \"máquinas a transportar\" droga."
+        },
+        {
+          "headline": "Megaoperação da GNR faz cair rede de droga: 13 na prisão",
+          "text": "Dos 26 arguidos detidos pela GNR de Oliveira de Azeméis, 13 vão aguardar processo em prisão preventiva. Os 15 presentes a primeiro interrogatório no Tribunal da Feira receberam a medida de coação mais gravosa."
+        },
+        {
+          "headline": "ASAE apreende quase 21 mil litros de vinho e espumante",
+          "text": "Uma operação no Centro do país resultou na apreensão de aproximadamente 21 mil litros de vinho e espumante, no âmbito de ações de fiscalização alimentar."
+        },
+        {
+          "headline": "Tábua: Bêbado bota fogo a roulotte para matar companheiro",
+          "text": "Um homem embriagado ateou fogo a uma roulotte com a intenção de matar o seu companheiro, num incidente grave no concelho de Tábua."
+        },
+        {
+          "headline": "Maya chamada a depor no caso de violência doméstica de Nuno Homem de Sá",
+          "text": "A cantora Maya foi chamada a depor no âmbito do processo de violência doméstica que envolve o ator Nuno Homem de Sá."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Caos nos exames: professores podem ter de corrigir provas duas vezes",
+          "text": "Uma falha técnica na plataforma eletrónica poderá obrigar professores a avaliar respostas já corrigidas, denuncia o movimento MetaProf. A uma semana da afixação das notas, os constrangimentos acumulam-se."
+        },
+        {
+          "headline": "Bolsa leva investigador de Coimbra a uma das melhores universidades do mundo",
+          "text": "João Coelho, investigador de Coimbra, figura entre os 100 melhores a nível mundial e uma bolsa leva-o a uma das melhores universidades do mundo."
+        },
+        {
+          "headline": "ESTeSC atribui 16 bolsas de 1.697 euros a estudantes de Audiologia",
+          "text": "A Escola Superior de Tecnologia da Saúde de Coimbra atribuiu 16 bolsas no valor de 1.697 euros cada a novos estudantes do curso de Audiologia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Sindicato diz que sistema de chamadas do INEM colapsou",
+          "text": "O STEPH afirma que o novo sistema de chamadas do INEM colapsou, obrigando triagens em papel, mas o instituto garante que tal é \"categoricamente falso\". Técnicos relatam períodos de lentidão do software."
+        },
+        {
+          "headline": "Homem com dores no peito morre na sala de espera",
+          "text": "Um homem que se apresentou no hospital com dores no peito recebeu pulseira verde (baixa prioridade) e acabou por morrer na sala de espera, num caso que levanta questões sobre a triagem hospitalar."
+        },
+        {
+          "headline": "Europa vai enfrentar nova vaga de calor",
+          "text": "As previsões apontam para uma nova vaga de calor a afetar a Europa nos próximos dias, com temperaturas elevadas que exigem precauções adicionais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Espanha nas meias-finais do Mundial 2026",
+          "text": "A Espanha qualificou-se para as meias-finais ao vencer a Bélgica por 2-1, com um golo decisivo do suplente Mikel Merino aos 88 minutos, em Inglewood. Marca encontro com a França."
+        },
+        {
+          "headline": "Jorge Jesus apresentado como novo selecionador de Portugal",
+          "text": "O treinador afirmou ter vindo \"para ganhar\" e manifestou \"grande orgulho\" ao assumir a seleção nacional. Jesus foi apresentado hoje como novo selecionador português de futebol."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Incêndio em Andaluzia entre os mais mortíferos da Europa",
+          "text": "O incêndio em Los Gallardos, Almería, com 11 mortos, figura entre os mais mortíferos em Espanha neste século. A maioria das vítimas morreu ao tentar fugir, ficando encurralada em estradas."
+        },
+        {
+          "headline": "Sobe para 107 o número de portugueses mortos na Venezuela",
+          "text": "O número de cidadãos portugueses e lusodescendentes que morreram no duplo sismo na Venezuela subiu para 107, com 57 desaparecidos. Entre os mortos estão 19 crianças e 88 adultos."
+        },
+        {
+          "headline": "Passageiro sugado para fora de avião da Ryanair",
+          "text": "Um voo da Ryanair regressou a Salónica depois de uma janela se partir após a descolagem, provocando despressurização. Um passageiro foi parcialmente projetado para o exterior, mas foi auxiliado por outros ocupantes."
+        },
+        {
+          "headline": "Portugal envia oito toneladas de medicamentos para a Venezuela",
+          "text": "Portugal enviou oito toneladas de medicamentos para a Venezuela, no âmbito da resposta humanitária após o sismo que devastou o país sul-americano."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Empresários de Coimbra alertam Governo para riscos do novo IVA na habitação",
+          "text": "O CERC alertou que a complexidade do novo regime de IVA a 6% na construção e reabilitação pode travar o investimento e a oferta de habitação, apesar de reconhecer o objetivo positivo."
+        },
+        {
+          "headline": "Ministro das Finanças defende futuro euro digital",
+          "text": "O ministro defendeu que o euro digital vai permitir afirmar a moeda europeia face ao dólar, numa altura em que a UE debate a sua estratégia monetária digital."
+        },
+        {
+          "headline": "André Ventura critica ida de Montenegro a festival Alive",
+          "text": "O líder do Chega criticou a presença do primeiro-ministro Luís Montenegro no festival musical Alive, considerando a atitude inadequada."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Orquestra \"Maré do Amanhã\" atua em Coimbra com concerto gratuito",
+          "text": "A orquestra brasileira Maré do Amanhã apresenta-se em Coimbra num concerto de entrada livre, trazendo música clássica de inspiração social à cidade."
+        },
+        {
+          "headline": "Góis transforma-se num museu vivo com intercâmbio artístico",
+          "text": "Um intercâmbio artístico internacional está a transformar Góis num museu vivo, com intervenções que apostam no contraste entre água e fogo no âmbito do evento Oroso Arte 2026."
+        },
+        {
+          "headline": "Tapeçarias do Museu do Caramulo vão ser conjunto de interesse nacional",
+          "text": "As tapeçarias feitas nos teares de Tournai que integram a coleção do Museu do Caramulo vão ser classificadas como conjunto de interesse nacional, reconhecendo o seu valor patrimonial."
+        }
+      ]
+    }
+  ]
+}
