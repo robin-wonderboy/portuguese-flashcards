@@ -20229,5 +20229,151 @@
       "example_de": "Anzahl der Betroffenen mit Vergiftung übersteigt bereits die Hundert",
       "example_en": "Number of affected people with poisoning already exceeds one hundred"
     }
+  ],
+  "2026-07-11": [
+    {
+      "pt": "interditar",
+      "de": "sperren, verbieten",
+      "en": "to close off, to prohibit",
+      "example": "Zona de lazer de Foz do Cobrão interdita a banhos",
+      "example_de": "Erholungsgebiet von Foz do Cobrão für Baden gesperrt",
+      "example_en": "Foz do Cobrão leisure area closed for swimming"
+    },
+    {
+      "pt": "elucidar",
+      "de": "aufklären, erläutern",
+      "en": "to elucidate, to clarify",
+      "example": "PS insta Ministro da Educação a elucidar se há exames incompletos",
+      "example_de": "PS fordert Bildungsminister auf aufzuklären ob unvollständige Prüfungen vorliegen",
+      "example_en": "PS urges Education Minister to clarify if incomplete exams were graded"
+    },
+    {
+      "pt": "sugado",
+      "de": "hinausgesaugt, herausgesogen",
+      "en": "sucked out",
+      "example": "Passageiro sugado para fora de avião após janela quebrar",
+      "example_de": "Passagier hinausgesaugt aus Flugzeug nachdem Fenster brach",
+      "example_en": "Passenger sucked out of plane after window broke"
+    },
+    {
+      "pt": "a despressurização",
+      "de": "die Druckentlastung",
+      "en": "the depressurization",
+      "example": "A quebra da janela provocou a despressurização da cabine",
+      "example_de": "Der Fensterbruch verursachte die Druckentlastung der Kabine",
+      "example_en": "The window break caused cabin depressurization"
+    },
+    {
+      "pt": "o condolências",
+      "de": "das Beileid",
+      "en": "condolences",
+      "example": "Portugal transmite condolências pelos incêndios em Espanha",
+      "example_de": "Portugal drückt Beileid für die Brände in Spanien aus",
+      "example_en": "Portugal sends condolences for fires in Spain"
+    },
+    {
+      "pt": "mortífero",
+      "de": "tödlich, mörderisch",
+      "en": "deadly, lethal",
+      "example": "Incêndio em Andaluzia entre os mais mortíferos da Europa",
+      "example_de": "Brand in Andalusien unter den tödlichsten Europas",
+      "example_en": "Fire in Andalusia among the deadliest in Europe"
+    },
+    {
+      "pt": "balnear",
+      "de": "Bade-",
+      "en": "bathing (adj)",
+      "example": "Cantanhede destaca-se pela qualidade das suas águas balneares",
+      "example_de": "Cantanhede zeichnet sich durch Qualität seiner Gewässer aus",
+      "example_en": "Cantanhede stands out for its bathing water quality"
+    },
+    {
+      "pt": "a fuga de gás",
+      "de": "der Gasaustritt",
+      "en": "the gas leak",
+      "example": "Homem encontrado morto em casa após fuga de gás",
+      "example_de": "Mann tot in Wohnung nach Gasaustritt gefunden",
+      "example_en": "Man found dead at home after gas leak"
+    },
+    {
+      "pt": "a megaoperação",
+      "de": "die Großoperation",
+      "en": "the mega-operation",
+      "example": "Megaoperação da GNR faz cair rede de droga",
+      "example_de": "Großoperation der GNR zerschlägt Drogenring",
+      "example_en": "GNR mega-operation brings down drug network"
+    },
+    {
+      "pt": "afixar",
+      "de": "anbringen, aushängen",
+      "en": "to post up, to display",
+      "example": "A uma semana da afixação das notas dos exames",
+      "example_de": "Eine Woche vor dem Aushang der Prüfungsergebnisse",
+      "example_en": "A week before the posting of exam grades"
+    },
+    {
+      "pt": "o patamar",
+      "de": "die Ebene, das Niveau",
+      "en": "the level, the tier",
+      "example": "Novo Mercedes-Maybach eleva o luxo a um novo patamar",
+      "example_de": "Neuer Mercedes-Maybach hebt Luxus auf ein neues Niveau",
+      "example_en": "New Mercedes-Maybach raises luxury to a new level"
+    },
+    {
+      "pt": "a bravura",
+      "de": "die Tapferkeit",
+      "en": "bravery, courage",
+      "example": "António José Seguro elogia a bravura da equipa portuguesa",
+      "example_de": "António José Seguro lobt die Tapferkeit des portugiesischen Teams",
+      "example_en": "António José Seguro praises the bravery of the Portuguese team"
+    },
+    {
+      "pt": "bêbado",
+      "de": "betrunken",
+      "en": "drunk",
+      "example": "Bêbado bota fogo a roulotte para matar o seu companheiro",
+      "example_de": "Betrunkenen zündet Wohnwagen an um seinen Gefährten zu töten",
+      "example_en": "Drunk man sets fire to caravan to kill his companion"
+    },
+    {
+      "pt": "bota fogo",
+      "de": "zündet an, legt Feuer",
+      "en": "sets fire",
+      "example": "Bêbado bota fogo a roulotte para matar o seu companheiro",
+      "example_de": "Betrunkenen zündet Wohnwagen an",
+      "example_en": "Drunk man sets fire to caravan"
+    },
+    {
+      "pt": "a roulotte",
+      "de": "der Wohnwagen",
+      "en": "the caravan, the RV",
+      "example": "Bêbado bota fogo a roulotte para matar o seu companheiro",
+      "example_de": "Betrunkenen zündet Wohnwagen an",
+      "example_en": "Drunk man sets fire to caravan"
+    },
+    {
+      "pt": "o teare",
+      "de": "das Webstuhl",
+      "en": "the loom",
+      "example": "Tapeçarias feitas nos teares de Tournai",
+      "example_de": "Teppiche gewebt auf den Webstühlen von Tournai",
+      "example_en": "Tapestries made on the looms of Tournai"
+    },
+    {
+      "pt": "a tapeçaria",
+      "de": "die Wandteppich",
+      "en": "the tapestry",
+      "example": "Tapeçarias do Museu do Caramulo vão ser conjunto de interesse nacional",
+      "example_de": "Wandteppiche des Museu do Caramulo werden von nationalem Interesse",
+      "example_en": "Tapestries from Museu do Caramulo become of national interest"
+    },
+    {
+      "pt": "a meia-final",
+      "de": "das Halbfinale",
+      "en": "the semifinal",
+      "example": "Espanha está nas meias-finais do Mundial2026",
+      "example_de": "Spanien ist im Halbfinale der WM 2026",
+      "example_en": "Spain is in the World Cup 2026 semifinals"
+    }
   ]
 }
