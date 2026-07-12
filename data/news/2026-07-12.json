@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "SUCESSOS & CRIME",
+      "stories": [
+        {
+          "headline": "Militar da GNR perde a vida no IC2",
+          "text": "Jorge Monteiro tinha 29 anos e morreu quando fazia aquilo que sempre sonhou: servir na GNR. Filho de um antigo militar, cresceu com a farda como inspiração. O destacamento de Trânsito de Leiria perdeu um dos seus."
+        },
+        {
+          "headline": "Mulher mata marido com facada no pescoço",
+          "text": "Uma mulher de 54 anos foi detida pela Polícia Judiciária de Setúbal por suspeitas de homicídio qualificado do marido, de 57 anos, em Corroios. O crime aconteceu a 29 de junho na sequência de uma discussão entre o casal."
+        },
+        {
+          "headline": "Carro abre fogo contra dois jovens em Mem Martins",
+          "text": "Dois homens, de 24 e 25 anos, ficaram feridos na madrugada de sábado após terem sido atingidos por disparos efetuados a partir de um automóvel em andamento. Os ocupantes da viatura abriram fogo com uma caçadeira e fugiram de imediato."
+        },
+        {
+          "headline": "Fugitivo procurado pelo Brasil detido em Portugal",
+          "text": "A PSP deteve na Amadora um homem de 56 anos procurado pelas autoridades brasileiras para cumprir uma pena de 17 anos e seis meses de prisão por crime de tortura. A detenção ocorreu no cumprimento de um mandado internacional."
+        },
+        {
+          "headline": "Ordem de despejo: homem encontrado morto, mulher trancada na casa de banho",
+          "text": "Um homem de 78 anos foi encontrado morto dentro de casa e a mulher foi resgatada da casa de banho, em estado de pânico, numa habitação no Cacém. A tragédia poderá estar relacionada com uma ordem de despejo marcada para o mesmo dia."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo na Venezuela: número de mortos sobe para 4.118",
+          "text": "O número de mortos pelos sismos na Venezuela superou os quatro mil, fixando-se em 4.118, com 16.740 feridos. O balanço traduz um aumento de 219 mortos em relação ao anterior. Portugal envia oito toneladas de medicamentos."
+        },
+        {
+          "headline": "Influenciadora morre após cair do 27º andar",
+          "text": "Uma influenciadora morreu após cair do 27º andar de um edifício. As circunstâncias do incidente estão a ser investigadas."
+        },
+        {
+          "headline": "Acidente em Moçambique: pelo menos três mortos e 29 feridos",
+          "text": "Pelo menos três mortos e 29 feridos é o balanço de um acidente de viação no centro de Moçambique."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21%",
+          "text": "Os preços das casas em Portugal subiram 8,9% em junho face ao mesmo mês de 2025. Comprar casa em Coimbra: um T2 já custa 230 mil euros. A cidade garante 6,4% de retorno no imobiliário."
+        },
+        {
+          "headline": "Câmara de Coimbra quer fim das \"casinhas\"",
+          "text": "A Câmara de Coimbra quer a construção de habitações maiores, acabando com a tendência de construir apartamentos pequenos. Primeiros moradores da Quinta das Bicas já têm data para receber as chaves."
+        },
+        {
+          "headline": "Empresários alertam para riscos do novo IVA na habitação",
+          "text": "O Conselho Empresarial da Região de Coimbra alertou o Governo para os riscos do novo regime de IVA de 6% na construção, cuja complexidade pode travar o setor. Medida para destravar heranças levanta também alerta para mais litígios."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & FESTIVAIS",
+      "stories": [
+        {
+          "headline": "Já sabemos as datas do Alive 2027",
+          "text": "O festival Alive, cuja 18ª edição termina hoje, tem regresso marcado ao Passeio Marítimo de Algés em 2027, nos dias 8, 9 e 10 de julho. O recinto atingiu a lotação máxima de 56 mil pessoas na sexta-feira."
+        },
+        {
+          "headline": "Morreu Bonnie Tyler",
+          "text": "A cantora galesa Bonnie Tyler, conhecida por êxitos como \"Total Eclipse of The Heart\" e \"It's a Heartache\", morreu aos 75 anos num hospital em Portugal, anunciou a família num comunicado."
+        },
+        {
+          "headline": "Música invade o Palácio da Justiça em Coimbra",
+          "text": "Jovens talentos vão encher a Casa da Escrita de música este verão. 16 artistas prestam homenagem a João Rasteiro em Coimbra. \"Lágrimas de Sal\" em cartaz na Figueira da Foz."
+        },
+        {
+          "headline": "Festas de Ansião já têm cartaz",
+          "text": "Já há cartaz para as Festas de Ansião que promete encher a vila de música. Os The Lucky Duckies vão pôr Penacova a dançar ao som dos anos 50 e 60."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Espanha nas meias-finais do Mundial 2026",
+          "text": "A Espanha qualificou-se para as meias-finais do Mundial de futebol de 2026, marcando encontro com a França, ao vencer a Bélgica por 2-1, com um golo decisivo do suplente Mikel Merino aos 88 minutos."
+        },
+        {
+          "headline": "Inglaterra elimina Noruega",
+          "text": "A Inglaterra eliminou a Noruega no Mundial 2026, avançando no caminho rumo às meias-finais."
+        },
+        {
+          "headline": "Fernando Pimenta na Taça do Mundo de Montreal",
+          "text": "O canoeista português Fernando Pimenta representa Portugal na Taça do Mundo de Montreal."
+        },
+        {
+          "headline": "Treinador da Académica vai comandar Gigante da Colina",
+          "text": "Quem conquistou Taça na Académica vai agora treinar o Gigante da Colina, num movimento importante no futebol regional."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Caos na correção dos exames? Eduqa cria mecanismo para detetar falhas",
+          "text": "O Eduqa criou um sistema de reporte de desconformidades para os avaliadores dos exames nacionais. Professores com respostas incompletas para classificar. PS insta Ministro da Educação a elucidar a situação. Professores vão receber horas extraordinárias por esforço."
+        }
+      ]
+    },
+    {
+      "emoji": "🩺",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Sistema de chamadas do INEM colapsou? Sindicato vs instituto",
+          "text": "Um sindicato afirma que o sistema de chamadas do INEM colapsou, mas o instituto nega. Governo assegura que não haverá redução artificial de listas de espera nas cirurgias."
+        },
+        {
+          "headline": "Infeções fúngicas aumentam no verão",
+          "text": "Há duas infeções fúngicas que aumentam no verão e pode nem saber que as tem. Especialistas lançam guia prático para melhorar o diagnóstico e tratamento do lúpus em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "MOBILIDADE & REGIÃO",
+      "stories": [
+        {
+          "headline": "IP3 vai estar cortado durante três noites",
+          "text": "Atenção, condutores: a IP3 vai estar cortada durante três noites para obras. Praias da Costa Nova e da Barra voltam a hastear Bandeira Azul. Banhos voltam a ser permitidos na Praia Fluvial de Almaceda."
+        },
+        {
+          "headline": "Problema na fechadura prende pessoas em apartamento",
+          "text": "Um problema na fechadura deixou pessoas presas dentro de um apartamento em Coimbra, tendo sido necessário intervenção para as libertar."
+        }
+      ]
+    },
+    {
+      "emoji": "🗳️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente da República lamenta morte de militar da GNR",
+          "text": "O Presidente da República lamentou a morte do militar da Brigada de Trânsito da GNR. Pedro Coimbra garante papel interventivo nas escolhas para as próximas autárquicas. Há divergências sobre o funcionamento da rede de autarcas do Livre."
+        }
+      ]
+    },
+    {
+      "emoji": "🍰",
+      "category": "LIFESTYLE & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Novo paraíso de sobremesas personalizáveis em Coimbra",
+          "text": "Nasceu um novo espaço em Coimbra com fruta fresca, leite-creme caseiro e muito crumble. DOPPO celebra 1 ano a adoçar o Bairro Norton de Matos, transformando flores de magnólia num sabor de gelado irresistível."
+        },
+        {
+          "headline": "O erro imperdoável que está a arruinar a sua cerveja",
+          "text": "Descubra o erro comum que arruína a sua cerveja sem saber. Esta é a melhor fruta para guardar no congelador. Cheirar chocolate antes do treino pode melhorar o desempenho, sugere um estudo."
+        }
+      ]
+    }
+  ]
+}
