@@ -20375,5 +20375,103 @@
       "example_de": "Spanien ist im Halbfinale der WM 2026",
       "example_en": "Spain is in the World Cup 2026 semifinals"
     }
+  ],
+  "2026-07-12": [
+    {
+      "pt": "a fechadura",
+      "de": "das Schloss",
+      "en": "the lock",
+      "example": "Problema na fechadura prende pessoas dentro de apartamento",
+      "example_de": "Ein Problem mit dem Schloss sperrt Personen in einer Wohnung ein",
+      "example_en": "A lock problem traps people inside an apartment"
+    },
+    {
+      "pt": "o despejo",
+      "de": "die Räumungsklage",
+      "en": "the eviction",
+      "example": "Ordem de despejo mergulha casal no desespero",
+      "example_de": "Eine Räumungsverfügung stürzt ein Paar in Verzweiflung",
+      "example_en": "An eviction order plunges a couple into despair"
+    },
+    {
+      "pt": "indiciado",
+      "de": "angeklagt/beschuldigt",
+      "en": "indicted/accused",
+      "example": "Indiciado pela prática dos crimes de violação",
+      "example_de": "Angeklagt wegen der Begehung von Vergewaltigungsverbrechen",
+      "example_en": "Indicted for the practice of rape crimes"
+    },
+    {
+      "pt": "adocar",
+      "de": "süßen",
+      "en": "to sweeten",
+      "example": "DOPPO celebra 1 ano a adoçar o Bairro Norton de Matos",
+      "example_de": "DOPPO feiert 1 Jahr Süßes im Bairro Norton de Matos",
+      "example_en": "DOPPO celebrates 1 year sweetening the Bairro Norton de Matos"
+    },
+    {
+      "pt": "interventivo",
+      "de": "eingreifend/aktiv",
+      "en": "proactive/interventionist",
+      "example": "Pedro Coimbra garante papel interventivo nas escolhas",
+      "example_de": "Pedro Coimbra sichert eine aktive Rolle bei den Entscheidungen zu",
+      "example_en": "Pedro Coimbra ensures a proactive role in the choices"
+    },
+    {
+      "pt": "imperdoável",
+      "de": "unverzeihlich",
+      "en": "unforgivable",
+      "example": "O erro imperdoável que está a arruinar a sua cerveja",
+      "example_de": "Der unverzeihliche Fehler, der dein Bier ruiniert",
+      "example_en": "The unforgivable mistake that is ruining your beer"
+    },
+    {
+      "pt": "arruinar",
+      "de": "ruinieren",
+      "en": "to ruin",
+      "example": "O erro que está a arruinar a sua cerveja sem saber",
+      "example_de": "Der Fehler, der dein Bier ohne dein Wissen ruiniert",
+      "example_en": "The mistake that is ruining your beer without you knowing"
+    },
+    {
+      "pt": "a procuraria",
+      "de": "die Staatsanwaltschaft",
+      "en": "the prosecution/prosecutor office",
+      "example": "Fugitivo procurado pelas autoridades brasileiras",
+      "example_de": "Flüchtiger gesucht von den brasilianischen Behörden",
+      "example_en": "Fugitive wanted by Brazilian authorities"
+    },
+    {
+      "pt": "qualificar",
+      "de": "qualifizieren/einstufen",
+      "en": "to qualify/classify",
+      "example": "Detida por suspeitas de homicídio qualificado",
+      "example_de": "Festgenommen wegen Verdachts auf qualifizierten Mord",
+      "example_en": "Detained on suspicion of qualified homicide"
+    },
+    {
+      "pt": "a desconformidade",
+      "de": "die Nichtkonformität/Abweichung",
+      "en": "the non-conformity/discrepancy",
+      "example": "Eduqa criou um sistema de reporte de desconformidades",
+      "example_de": "Eduqa schuf ein Meldesystem für Abweichungen",
+      "example_en": "Eduqa created a reporting system for non-conformities"
+    },
+    {
+      "pt": "o congelador",
+      "de": "das Gefrierfach",
+      "en": "the freezer",
+      "example": "Esta é a melhor fruta para guardar no congelador",
+      "example_de": "Das ist das beste Obst für das Gefrierfach",
+      "example_en": "This is the best fruit to keep in the freezer"
+    },
+    {
+      "pt": "a farda",
+      "de": "die Uniform",
+      "en": "the uniform",
+      "example": "Jorge cresceu com a farda como inspiração",
+      "example_de": "Jorge wuchs mit der Uniform als Inspiration auf",
+      "example_en": "Jorge grew up with the uniform as inspiration"
+    }
   ]
 }
