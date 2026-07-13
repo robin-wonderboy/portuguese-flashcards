@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-13",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Já são 4.490 mortos no sismo que abalou a Venezuela",
+          "text": "O sismo que abalou a Venezuela já provocou 4.490 mortos. O número de portugueses mortos subiu para 114. A conta de Nicolas Maduro na rede social X agradeceu a ajuda ao país."
+        },
+        {
+          "headline": "Irão anuncia encerramento do Estreito de Ormuz",
+          "text": "O Irão anunciou o encerramento do Estreito de Ormuz \"até nova ordem\", numa escalada de tensão geopolítica que poderá afetar o comércio marítimo global."
+        },
+        {
+          "headline": "Vítimas mortais no incêndio florestal em Espanha sobem para 13",
+          "text": "O número de vítimas mortais no incêndio florestal em Espanha subiu para 13. Um sobrevivente relatou momentos de horror ao conduzir pelas chamas para escapar ao inferno."
+        }
+      ]
+    },
+    {
+      "emoji": "⛪",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Rainha Santa Isabel está de volta a casa",
+          "text": "A imagem da Rainha Santa Isabel regressou a Coimbra. O momento mais aguardado foi a saída do andor para a procissão solene, que levou milhares de fiéis às ruas da cidade."
+        },
+        {
+          "headline": "Lágrimas e fé: Maria e Vera cumprem promessa vestidas de Rainha Santa",
+          "text": "Duas mulheres cumpriram uma promessa vestidas de Rainha Santa Isabel, num momento de grande emoção e devoção durante as festas de Coimbra."
+        },
+        {
+          "headline": "Bispo de Coimbra apela à paz e à esperança antes da procissão",
+          "text": "O bispo de Coimbra apelou à paz e à esperança antes da procissão da Rainha Santa Isabel, numa mensagem dirigida aos fiéis e à cidade."
+        },
+        {
+          "headline": "Calor vai de férias só por alguns dias",
+          "text": "Portugal Continental deverá atravessar uma semana marcada por temperaturas relativamente amenas para a época, entre 13 e 19 de julho. O calor mais intenso permanece concentrado sobre Espanha e França."
+        },
+        {
+          "headline": "Góis transforma-se numa galeria a céu aberto",
+          "text": "Góis vai transformar-se numa galeria de arte a céu aberto, trazendo arte urbana e criatividade para as ruas da vila."
+        },
+        {
+          "headline": "É impossível visitar Penacova sem se apaixonar por esta praia fluvial",
+          "text": "Uma praia fluvial em Penacova foi destacada como destino de verão imperdível, com paisagens que conquistam qualquer visitante."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Sessão sobre provas em falta no caso de Duarte Lima acontece esta segunda-feira",
+          "text": "A sessão sobre as provas em falta no caso de Duarte Lima realiza-se esta segunda-feira, num dos momentos mais aguardados do processo judicial."
+        },
+        {
+          "headline": "Bombeiro condenado após criança sofrer queimaduras com botija de água quente",
+          "text": "Um bombeiro foi condenado após uma criança sofrer queimaduras com uma botija de água quente, num caso que chocou a comunidade."
+        },
+        {
+          "headline": "Crianças abandonadas ao sol destapam rede milionária de prostituição",
+          "text": "Crianças abandonadas ao sol levaram ao destape de uma rede milionária de prostituição, numa investigação que revelou uma operação de grande dimensão."
+        },
+        {
+          "headline": "Barrica-se com ex-companheira e bebé e acaba detido pela GNR",
+          "text": "Um homem barricou-se com a ex-companheira e um bebé, acabando detido pela GNR após uma intervenção."
+        },
+        {
+          "headline": "Bêbado ao volante mata militar da GNR e foge",
+          "text": "Um condutor embriagado matou um militar da GNR e fugiu do local, mas regressou pouco depois e acabou detido."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Homem encontrado morto após queda do 7.º andar",
+          "text": "Uma manhã de horror: um homem foi encontrado morto após uma queda do 7.º andar, num caso a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Mistério na Nazaré: homem entra no mar e nunca mais é visto",
+          "text": "Um homem entrou no mar na Nazaré e nunca mais foi visto, num caso misterioso que mobilizou autoridades locais."
+        },
+        {
+          "headline": "Sobrevivente relata momentos de horror após acidente na A4",
+          "text": "Um sobrevivente relatou os momentos de horror após um acidente que matou duas jovens na autoestrada A4."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Professores convocados para corrigir exames a 3 dias do final",
+          "text": "Professores foram convocados para corrigir exames a apenas 3 dias do final do processo, numa situação descrita como \"a mais grave\" do ano. O FNE avisou que pagar horas extra aos professores é obrigação, não prémio."
+        },
+        {
+          "headline": "ISEC promove Escola de Verão dedicada aos sistemas robóticos",
+          "text": "O ISEC promove uma Escola de Verão dedicada aos sistemas robóticos, numa iniciativa de captação de estudantes para a área da engenharia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "INEM investiga despacho polémico após morte de homem em paragem cardíaca",
+          "text": "O INEM está a investigar um despacho polémico após a morte de um homem em paragem cardíaca. Um sindicato disse que o sistema de chamadas colapsou, mas o instituto diz ser falso."
+        },
+        {
+          "headline": "Porque é que os mosquitos picam mais umas pessoas do que outras?",
+          "text": "A ciência explica porque é que os mosquitos picam mais umas pessoas do que outras, numa descoberta que pode ajudar a evitar as picadas no verão."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PS considera que primeiro-ministro falhou numa área onde não podia falhar",
+          "text": "O PS considerou que o primeiro-ministro deu \"respostas levianas\" e falhou numa área onde não podia falhar, numa crítica ao executivo."
+        },
+        {
+          "headline": "Rui Tavares despede-se da liderança do Livre",
+          "text": "Rui Tavares despediu-se da liderança do partido Livre, anunciando o fim de um ciclo político."
+        },
+        {
+          "headline": "Chega acusa ministro da Administração Interna de ameaças a André Ventura",
+          "text": "O Chega acusou o ministro da Administração Interna de ameaças a André Ventura. Luís Neves rejeitou as acusações."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Messi revolta-se com árbitro português",
+          "text": "Messi revoltou-se com um árbitro português numa partida recente, numa polémica que ganhou destaque no desporto internacional."
+        },
+        {
+          "headline": "Ex-jogador do Benfica morre em acidente de viação",
+          "text": "Um ex-jogador do Benfica morreu num acidente de viação, deixando o futebol português em luto."
+        },
+        {
+          "headline": "Fernando Pimenta na Taça do Mundo de Montreal",
+          "text": "O canoeista português Fernando Pimenta representa Portugal na Taça do Mundo de Montreal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Casal troca o Brasil por uma aldeia na região centro",
+          "text": "Um casal trocou o Brasil por uma aldeia na região centro e transformou uma quinta esquecida numa casa de sonho, numa história de mudança de vida que inspirou a comunidade local."
+        },
+        {
+          "headline": "Praias da Costa Nova e da Barra voltam a hastear Bandeira Azul",
+          "text": "As praias da Costa Nova e da Barra voltaram a hastear a Bandeira Azul e receberam o galardão de Praia Acessível, reconhecendo a qualidade das praias."
+        },
+        {
+          "headline": "Albergaria-a-Velha recupera taludes destruídos pelos incêndios de 2024",
+          "text": "Albergaria-a-Velha está a recuperar os taludes destruídos pelos incêndios de 2024, numa operação de reabilitação da paisagem florestal."
+        }
+      ]
+    },
+    {
+      "emoji": "🐕",
+      "category": "BOAS NOTÍCIAS",
+      "stories": [
+        {
+          "headline": "Cão que quase foi afogado por uma criança está pronto para encontrar um lar",
+          "text": "O cão que quase foi afogado por uma criança está agora pronto para encontrar um lar, numa história com final feliz que tocou quem acompanhou o caso."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "FESTIVAIS & LAZER",
+      "stories": [
+        {
+          "headline": "Já sabemos as datas do Alive 2027",
+          "text": "Foram anunciadas as datas do festival Alive 2027, um dos maiores eventos de música do país."
+        },
+        {
+          "headline": "Festivaleiros aproveitam ao máximo o RFM Somnii",
+          "text": "Os festivaleiros dormem, fazem festa o dia inteiro e já garantiram lugar para 2027, aproveitando ao máximo o RFM Somnii."
+        }
+      ]
+    }
+  ]
+}
