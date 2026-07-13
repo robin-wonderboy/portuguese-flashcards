@@ -20473,5 +20473,143 @@
       "example_de": "Jorge wuchs mit der Uniform als Inspiration auf",
       "example_en": "Jorge grew up with the uniform as inspiration"
     }
+  ],
+  "2026-07-13": [
+    {
+      "pt": "a lagrima",
+      "de": "die Träne",
+      "en": "the tear",
+      "example": "Houve lagrimas e fe durante a procissão",
+      "example_de": "Es gab Tränen und Glauben während der Prozession",
+      "example_en": "There were tears and faith during the procession"
+    },
+    {
+      "pt": "cumprem",
+      "de": "erfüllen",
+      "en": "they fulfill",
+      "example": "Maria e Vera cumprem promessa vestidas de Rainha Santa",
+      "example_de": "Maria und Vera erfüllen ein Versprechen",
+      "example_en": "Maria and Vera fulfill a promise dressed as Queen Saint"
+    },
+    {
+      "pt": "a quinta",
+      "de": "das Landgut",
+      "en": "the farm/estate",
+      "example": "Transformaram uma quinta esquecida numa casa de sonho",
+      "example_de": "Sie verwandelten ein vergessenes Landgut in ein Traumhaus",
+      "example_en": "They transformed a forgotten estate into a dream house"
+    },
+    {
+      "pt": "a paragem cardiaca",
+      "de": "der Herzstillstand",
+      "en": "the cardiac arrest",
+      "example": "Homem morreu em paragem cardiaca",
+      "example_de": "Mann verstarb bei Herzstillstand",
+      "example_en": "Man died in cardiac arrest"
+    },
+    {
+      "pt": "abalou",
+      "de": "erschütterte",
+      "en": "shook",
+      "example": "O sismo abalou a Venezuela",
+      "example_de": "Das Erdbeben erschütterte Venezuela",
+      "example_en": "The earthquake shook Venezuela"
+    },
+    {
+      "pt": "convocados",
+      "de": "einberufen",
+      "en": "summoned",
+      "example": "Professores convocados para corrigir exames",
+      "example_de": "Lehrer einberufen um Prüfungen zu korrigieren",
+      "example_en": "Teachers summoned to grade exams"
+    },
+    {
+      "pt": "barrica-se",
+      "de": "verschanzt sich",
+      "en": "barricades himself",
+      "example": "Homem barrica-se com ex-companheira e bebe",
+      "example_de": "Mann verschanzt sich mit Ex-Partnerin und Baby",
+      "example_en": "Man barricades himself with ex-partner and baby"
+    },
+    {
+      "pt": "destapam",
+      "de": "decken auf",
+      "en": "they uncover",
+      "example": "Criancas abandonadas ao sol destapam rede milionaria",
+      "example_de": "Vergelassene Kinder decken millionenschweres Netz auf",
+      "example_en": "Abandoned children uncover million-dollar network"
+    },
+    {
+      "pt": "revolta-se",
+      "de": "empört sich",
+      "en": "is outraged",
+      "example": "Messi revolta-se com arbitro portugues",
+      "example_de": "Messi empört sich über portugiesischen Schiedsrichter",
+      "example_en": "Messi is outraged by Portuguese referee"
+    },
+    {
+      "pt": "o arbitro",
+      "de": "der Schiedsrichter",
+      "en": "the referee",
+      "example": "Messi revolta-se com arbitro portugues",
+      "example_de": "Messi empört sich über portugiesischen Schiedsrichter",
+      "example_en": "Messi is outraged by Portuguese referee"
+    },
+    {
+      "pt": "despede-se",
+      "de": "verabschiedet sich",
+      "en": "says goodbye",
+      "example": "Rui Tavares despede-se da lideranca do Livre",
+      "example_de": "Rui Tavares verabschiedet sich von der Führung",
+      "example_en": "Rui Tavares says goodbye to Livre leadership"
+    },
+    {
+      "pt": "a fe",
+      "de": "der Glaube",
+      "en": "the faith",
+      "example": "Coimbra vive tarde de fe com a procissão",
+      "example_de": "Coimbra erlebt einen Nachmittag des Glaubens",
+      "example_en": "Coimbra lives an afternoon of faith"
+    },
+    {
+      "pt": "a promessa",
+      "de": "das Versprechen",
+      "en": "the promise",
+      "example": "Maria e Vera cumprem promessa vestidas de Rainha Santa",
+      "example_de": "Maria und Vera erfüllen ein Versprechen",
+      "example_en": "Maria and Vera fulfill a promise"
+    },
+    {
+      "pt": "rocou",
+      "de": "berührte",
+      "en": "touched/rubbed",
+      "example": "Roçou as partes intimas em varias mulheres",
+      "example_de": "Er berührte intime Teile bei mehreren Frauen",
+      "example_en": "He rubbed intimate parts on several women"
+    },
+    {
+      "pt": "a queimadura",
+      "de": "die Verbrennung",
+      "en": "the burn",
+      "example": "Crianca sofreu queimaduras com botija de agua quente",
+      "example_de": "Kind erlitt Verbrennungen durch Heisswasserflasche",
+      "example_en": "Child suffered burns from hot water bottle"
+    },
+    {
+      "pt": "o mosquito",
+      "de": "die Mücke",
+      "en": "the mosquito",
+      "example": "Porque é que os mosquitos picam mais umas pessoas",
+      "example_de": "Warum stechen Mücken manche Menschen mehr",
+      "example_en": "Why do mosquitoes bite some people more"
+    },
+    {
+      "pt": "o exame",
+      "de": "die Prüfung",
+      "en": "the exam",
+      "example": "Professores chamados para acelerar correcao dos exames",
+      "example_de": "Lehrer einberufen um Korrektur der Prüfungen zu beschleunigen",
+      "example_en": "Teachers called to speed up exam grading"
+    }
   ]
 }
