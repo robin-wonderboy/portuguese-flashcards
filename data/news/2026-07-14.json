@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Tragédia familiar: pais morrem em queda de ravina, filho de 8 anos luta pela vida em Coimbra",
+          "text": "Um homem de 48 anos e uma mulher de 47 perderam a vida num acidente com moto-quatro em Gosende, Castro Daire. O filho do casal, de oito anos, sofreu ferimentos graves e foi helitransportado para Coimbra."
+        },
+        {
+          "headline": "Identificado condutor que matou militar da GNR no IC2",
+          "text": "O suspeito tem 23 anos, reside em Rio Maior e foi notificado para comparecer esta terça-feira em tribunal. O militar da GNR foi mortalmente atropelado no IC2, no concelho de Alcobaça."
+        },
+        {
+          "headline": "Terror em Tábua: José escapa à morte depois do companheiro atear fogo à roulote",
+          "text": "Um homem escapou à morte após o seu companheiro ter ateado fogo à roulote onde pensava que ele dormia. O caso ocorreu em Tábua."
+        },
+        {
+          "headline": "Terror em hotel na Figueira da Foz: gritos e pedidos de socorro salvam jovem",
+          "text": "Gritos e pedidos de socorro de uma jovem no interior de um hotel na Figueira da Foz permitiram salvar a vítima de um namorado violento."
+        },
+        {
+          "headline": "PJ caça burlões que esvaziavam contas com um simples SMS",
+          "text": "A Polícia Judiciária deteve dois homens, de 38 e 40 anos, por fraudes com cartões bancários que lhes permitiram lucrar cerca de 100 mil euros em dois anos, dissimulados com recurso a plataformas de jogo online."
+        },
+        {
+          "headline": "Perseguição policial acaba em despiste. Condutor quase atropela dezenas de crianças",
+          "text": "Uma perseguição policial terminou em despiste após o condutor furar semáforos e fugir em contramão. O veículo quase atropelou dezenas de crianças."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Presidente de Miranda do Corvo considera \"inconcebível\" redução de serviços no Centro de Saúde",
+          "text": "A requalificação do Centro de Saúde de Miranda do Corvo foi inaugurada com investimento superior a cinco milhões de euros. O presidente da Câmara alertou que a redução de serviços após tal obra é inconcebível."
+        },
+        {
+          "headline": "Ministra da Saúde garante: SNS está pronto para o verão e Coimbra tem médicos \"como não tinha há décadas\"",
+          "text": "Ana Paula Martins garantiu que o SNS está preparado para o verão, embora possam surgir situações pontuais de contingência. Destacou que a ULS de Coimbra dispõe atualmente dos médicos necessários."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Camião deixa rasto de fogo e fecha o IP3",
+          "text": "O IP3 foi cortado nos dois sentidos entre Tondela e Santa Comba Dão devido a um incêndio. A via reabriu ao trânsito pelas 17:10."
+        },
+        {
+          "headline": "Calor faz disparar o risco de incêndio",
+          "text": "Oito concelhos dos distritos de Bragança, Guarda e Castelo Branco estão em perigo máximo de incêndio rural, segundo o IPMA."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Região de Coimbra investe 1,9 milhões em plataforma inteligente para gerir o território",
+          "text": "A Região Metropolitana de Coimbra apresentou a nova Plataforma de Gestão Urbana, que pretende revolucionar a gestão nos 18 municípios da região através de dados. O investimento é financiado a 100% pelo PRR."
+        },
+        {
+          "headline": "Ventura acusa Ministro da Administração Interna de ameaças e lança nova polémica no Governo",
+          "text": "André Ventura disse que elementos do Governo e deputados próximos do ministro relataram alegadas ameaças de Luís Neves, que o próprio já negou."
+        },
+        {
+          "headline": "Oliveira do Hospital abre candidaturas ao Orçamento Participativo Jovem com 12 mil euros",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Professores convocados para corrigir exames a 3 dias do final do processo",
+          "text": "A Missão Escola Pública denunciou que professores sem trabalho atribuído foram convocados no final da tarde de sábado para corrigir exames nacionais, a três dias do prazo para concluir o processo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Coimbra dispara no imobiliário: casas sobem 21% e preços continuam a bater recordes",
+          "text": "Os preços das casas em Portugal subiram 8,9% em junho face ao mesmo mês de 2025. Comprar casa tinha um custo de 3.156 euros por metro quadrado no final do mês."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Hortus Musicalis: 6 concertos gratuitos vão encher o Jardim Botânico de Coimbra de música",
+          "text": ""
+        },
+        {
+          "headline": "80 vozes dão nova alma ao Fado de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Cistermúsica junta grandes orquestras, Amália e novas vozes do jazz em Alcobaça",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "category": "DESPORTO & CULTURA",
+      "stories": [
+        {
+          "headline": "Bailarina de Miranda do Corvo conquista ouro em competição internacional",
+          "text": ""
+        },
+        {
+          "headline": "Nelson Évora prepara o último salto: campeão olímpico despede-se das pistas",
+          "text": "O campeão olímpico, mundial e europeu do triplo salto vai realizar em agosto o último salto da sua carreira, pondo fim a uma das trajetórias mais marcantes do desporto português."
+        },
+        {
+          "headline": "Morreu Bonnie Tyler aos 75 anos, em hospital em Portugal",
+          "text": "A cantora galesa, conhecida por êxitos como \"Total Eclipse of The Heart\" e \"It's a Heartache\", faleceu inesperadamente num hospital em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🤖",
+      "category": "TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "Inteligência artificial ganha vida em impressão 3D em workshop em Coimbra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
