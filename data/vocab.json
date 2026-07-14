@@ -20611,5 +20611,103 @@
       "example_de": "Lehrer einberufen um Korrektur der Prüfungen zu beschleunigen",
       "example_en": "Teachers called to speed up exam grading"
     }
+  ],
+  "2026-07-14": [
+    {
+      "pt": "esvaziar",
+      "de": "leeren",
+      "en": "to empty",
+      "example": "Os burlões esvaziavam contas com um SMS",
+      "example_de": "Die Betrüger leerten Konten mit einer SMS",
+      "example_en": "The scammers emptied accounts with an SMS"
+    },
+    {
+      "pt": "a roulote",
+      "de": "der Wohnwagen",
+      "en": "the caravan",
+      "example": "Atear fogo à roulote onde pensava que ele dormia",
+      "example_de": "Feuer zum Wohnwagen legen, wo er dachte, er schliefe",
+      "example_en": "Set fire to the caravan where he thought he was sleeping"
+    },
+    {
+      "pt": "inconcebível",
+      "de": "unvorstellbar",
+      "en": "inconceivable",
+      "example": "O presidente considera inconcebível a redução de serviços",
+      "example_de": "Der Präsident hält die Reduzierung von Diensten für unvorstellbar",
+      "example_en": "The president considers the reduction of services inconceivable"
+    },
+    {
+      "pt": "a trava",
+      "de": "der Bremseingriff",
+      "en": "the brake/slowdown",
+      "example": "O ritmo de crescimento teve uma trava",
+      "example_de": "Das Wachstumstempo hatte einen Bremseingriff",
+      "example_en": "The growth pace had a slowdown"
+    },
+    {
+      "pt": "a chave",
+      "de": "der Schlüssel",
+      "en": "the key",
+      "example": "Primeiros moradores já têm data para receber as chaves",
+      "example_de": "Erste Bewohner haben Datum für Schlüsselübergabe",
+      "example_en": "First residents have date to receive keys"
+    },
+    {
+      "pt": "o gemido",
+      "de": "das Stöhnen",
+      "en": "the groan/moan",
+      "example": "Gritos e gemidos salvam jovem de namorado violento",
+      "example_de": "Schreie und Stöhnen retten junge Frau vor gewalttätigem Freund",
+      "example_en": "Screams and groans save young woman from violent boyfriend"
+    },
+    {
+      "pt": "o semáforo",
+      "de": "die Ampel",
+      "en": "the traffic light",
+      "example": "Condutor fura semáforos e foge à PSP",
+      "example_de": "Fahrer ignoriert Ampeln und flieht vor PSP",
+      "example_en": "Driver runs red lights and flees PSP"
+    },
+    {
+      "pt": "furar",
+      "de": "ignorieren/durchbrechen",
+      "en": "to run through/break",
+      "example": "Condutor fura semáforos em contramão",
+      "example_de": "Fahrer ignoriert Ampeln im Gegenverkehr",
+      "example_en": "Driver runs through traffic lights in oncoming traffic"
+    },
+    {
+      "pt": "espetar-se",
+      "de": "aufprallen",
+      "en": "to crash/smash into",
+      "example": "Foge à PSP em contramão até se espetar",
+      "example_de": "Flieht vor PSP im Gegenverkehr bis er aufprallt",
+      "example_en": "Flees PSP in oncoming traffic until he crashes"
+    },
+    {
+      "pt": "o retorno",
+      "de": "die Rendite",
+      "en": "the return/yield",
+      "example": "Cidade garante 6,4% de retorno no imobiliário",
+      "example_de": "Stadt garantiert 6,4% Rendite bei Immobilien",
+      "example_en": "City guarantees 6.4% return in real estate"
+    },
+    {
+      "pt": "o entulho",
+      "de": "der Schutt",
+      "en": "the rubble/debris",
+      "example": "O camião deixou um rasto de entulho em chamas",
+      "example_de": "Der LKW hinterließ eine Spur aus brennendem Schutt",
+      "example_en": "The truck left a trail of burning debris"
+    },
+    {
+      "pt": "a batida",
+      "de": "der Zusammenstoß",
+      "en": "the crash/collision",
+      "example": "O acidente resultou numa batida frontal",
+      "example_de": "Der Unfall führte zu einem frontalen Zusammenstoß",
+      "example_en": "The accident resulted in a frontal collision"
+    }
   ]
 }
