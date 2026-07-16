@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Namorado de avó mata bebé Elisei com abanões violentos",
+          "text": "O namorado da avó do bebé Elisei confessed ter causado a morte da criança com abanões violentos porque não conseguia calá-lo. O caso chocou o país e está a ser julgado em tribunal."
+        },
+        {
+          "headline": "Tribunal manda internar homem que tentou matar vizinho com bloco de 20 quilos",
+          "text": "O coletivo de juízes do Tribunal de Coimbra considerou os factos de elevada gravidade, sublinhando que a vítima só por sorte não morreu na sequência da agressão em Miranda do Corvo. O agressor foi mandado internar."
+        }
+      ]
+    },
+    {
+      "emoji": "💧",
+      "category": "AMBIENTE & BARRAGEM DE GIRABOLHOS",
+      "stories": [
+        {
+          "headline": "\"Girabolhos podia ter evitado o colapso em Coimbra\", garante presidente da APA",
+          "text": "O concurso público para a construção do Aproveitamento Hidráulico de Fins Múltiplos de Girabolhos foi oficialmente lançado em Gouveia. O presidente da APA defendeu que a barragem será determinante para reduzir o risco de cheias no Baixo Mondego, afirmando que os colapsos de 2019 e 2026 não teriam acontecido com a barragem."
+        },
+        {
+          "headline": "\"Um novo ciclo para este território\": Gouveia recebe lançamento do concurso",
+          "text": "O autarca agradeceu à ministra do Ambiente e da Energia pela escolha de Gouveia para acolher o lançamento do concurso, considerando tratar-se de um gesto de reconhecimento para com o território."
+        },
+        {
+          "headline": "Risco máximo de incêndio atinge 50 concelhos",
+          "text": "Os concelhos em risco máximo pertencem aos distritos de Bragança, Vila Real, Viseu, Guarda, Castelo Branco, Santarém, Portalegre e Faro."
+        },
+        {
+          "headline": "Pedrógão Grande vai criar Corpo de Voluntários de Proteção Civil",
+          "text": "O município vai criar um Corpo de Voluntários de Proteção Civil após os acontecimentos de 2017 e as tempestades recentes. Já há pessoas a perguntar quando se podem inscrever."
+        }
+      ]
+    },
+    {
+      "emoji": "🏰",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "3 dias para viajar até ao tempo de D. Afonso Henriques na Feira Medieval de Coimbra",
+          "text": "A Feira Medieval de Coimbra promete três dias de viagem ao tempo de D. Afonso Henriques, com recriações históricas, mercados e espetáculos."
+        },
+        {
+          "headline": "O rio esculpiu um dos cenários mais incríveis da região Centro",
+          "text": "A poucas horas de Coimbra, um cenário natural extraordinário esculpido pelo rio ao longo dos milénios destaca-se como um dos mais incríveis da região Centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Região de Coimbra esconde regularidade e pontualidade da Busway",
+          "text": "O relatório anual da CIMRC enquanto autoridade de transportes relativo a 2025 não apresenta qualquer dado relativo a índices de regularidade e pontualidade, número de reclamações ou acidentes, para evitar uma leitura descontextualizada."
+        },
+        {
+          "headline": "Pode conduzir enquanto fala ao telemóvel em altifalante?",
+          "text": "Apesar de a utilização do telemóvel ao volante ser proibida, existem algumas exceções. Segundo o Pplware, o uso em altifalante pode enquadrar-se numa dessas exceções."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA & SAÚDE",
+      "stories": [
+        {
+          "headline": "Coimbra inventa dispositivo que reduz impacto da poluição atmosférica",
+          "text": "Um projeto de pequeno equipamento nasal reutilizável, que utiliza nanotecnologia, permite filtrar o ar em ambientes poluídos, assegurando maior bem-estar ao utilizador e melhorando o desempenho das vias respiratórias."
+        },
+        {
+          "headline": "Infarmed manda retirar protetor solar do mercado",
+          "text": "O Infarmed determinou a retirada de um protetor solar que esteve à venda em Portugal. Os consumidores que o compraram devem verificar se têm o produto em casa."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Professores vão classificar exames esta quinta-feira",
+          "text": "Cristina Mota, porta-voz do MEP, indicou conhecer relatos de colegas que receberam na quarta-feira à noite itens para classificar e que, por isso, não iam terminar essa tarefa a tempo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Parlamento aprovou IVA de 6% nas obras de renovação em áreas de reabilitação urbana",
+          "text": "A iniciativa foi aprovada por maioria na Comissão de Orçamento, Finanças e Administração Pública, à semelhança do que aconteceu na votação na generalidade em 03 de julho."
+        },
+        {
+          "headline": "Estado da Nação: Primeiro-ministro abre debate com exames no centro da polémica",
+          "text": "O debate tem uma duração aproximada de quatro horas e será aberto com uma intervenção de Luís Montenegro de até 30 minutos, sendo igualmente encerrado pelo Governo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra: T2 já custa 230 mil euros",
+          "text": "Dados do Imovirtual mostram que os preços médios dos apartamentos em Coimbra continuam a subir. Um T2 custa agora 230 mil euros no mercado primário."
+        },
+        {
+          "headline": "Trocar apartamento por moradia pode custar 300 mil euros a mais",
+          "text": "Passar de um T3 para um T4 representa atualmente um custo adicional de 100 mil euros, o maior salto entre tipologias, segundo dados do Imovirtual."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Quer estar na final do Mundial? Prepare entre 6.130 e 34.100 euros",
+          "text": "Comparecer à final do Mundial tem custos elevados, com bilhetes a variar entre 6.130 e 34.100 euros. E ainda uns trocos para a picanha ou paelha."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Horror na Venezuela: 4.829 mortos após devastadores sismos",
+          "text": "O anterior balanço, divulgado na terça-feira, indicava 4.561 vítimas mortais. O número continua a subir após os sismos devastadores."
+        }
+      ]
+    },
+    {
+      "emoji": "✝️",
+      "category": "OPINIÃO",
+      "stories": [
+        {
+          "headline": "A última procissão do \"Carlitos\"",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
