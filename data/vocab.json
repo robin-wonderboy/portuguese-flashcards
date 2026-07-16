@@ -20709,5 +20709,199 @@
       "example_de": "Der Unfall führte zu einem frontalen Zusammenstoß",
       "example_en": "The accident resulted in a frontal collision"
     }
+  ],
+  "2026-07-16": [
+    {
+      "pt": "o abanão",
+      "de": "das Schütteln",
+      "en": "the shake (violent)",
+      "example": "O bebé morreu vítima de abanões violentos",
+      "example_de": "Das Baby starb an heftigem Schütteln",
+      "example_en": "The baby died from violent shaking"
+    },
+    {
+      "pt": "internar",
+      "de": "einweisen",
+      "en": "to commit/institutionalize",
+      "example": "O tribunal mandou internar o homem",
+      "example_de": "Das Gericht ordnete die Einweisung des Mannes an",
+      "example_en": "The court ordered the man to be committed"
+    },
+    {
+      "pt": "a poluição",
+      "de": "die Verschmutzung",
+      "en": "pollution",
+      "example": "O dispositivo reduz o impacto da poluição atmosférica",
+      "example_de": "Das Gerät reduziert die Auswirkung der Luftverschmutzung",
+      "example_en": "The device reduces the impact of air pollution"
+    },
+    {
+      "pt": "classificar",
+      "de": "bewerten/klassifizieren",
+      "en": "to grade/classify",
+      "example": "Os professores vão classificar os exames",
+      "example_de": "Die Lehrer werden die Prüfungen bewerten",
+      "example_en": "Teachers will grade the exams"
+    },
+    {
+      "pt": "o IVA",
+      "de": "die Mehrwertsteuer",
+      "en": "the VAT",
+      "example": "Parlamento aprovou IVA de 6% nas obras de renovação",
+      "example_de": "Parlament billigte 6% MwSt. bei Renovierungsarbeiten",
+      "example_en": "Parliament approved 6% VAT on renovation works"
+    },
+    {
+      "pt": "a renovação",
+      "de": "die Erneuerung",
+      "en": "the renovation",
+      "example": "As obras de renovação terão IVA reduzido",
+      "example_de": "Renovierungsarbeiten erhalten ermäßigte MwSt.",
+      "example_en": "Renovation works will have reduced VAT"
+    },
+    {
+      "pt": "a moradia",
+      "de": "das Einfamilienhaus",
+      "en": "the detached house",
+      "example": "Trocar um apartamento por uma moradia pode custar 300 mil euros",
+      "example_de": "Eine Wohnung gegen ein Haus zu tauschen kann 300.000 Euro kosten",
+      "example_en": "Swapping an apartment for a house can cost 300 thousand euros"
+    },
+    {
+      "pt": "o apartamento",
+      "de": "die Wohnung",
+      "en": "the apartment",
+      "example": "Comprar um apartamento T2 em Coimbra custa 230 mil euros",
+      "example_de": "Eine 2-Zimmer-Wohnung in Coimbra kostet 230.000 Euro",
+      "example_en": "A T2 apartment in Coimbra costs 230 thousand euros"
+    },
+    {
+      "pt": "a pontualidade",
+      "de": "die Pünktlichkeit",
+      "en": "punctuality",
+      "example": "O relatório não apresenta dados sobre a pontualidade da Busway",
+      "example_de": "Der Bericht enthält keine Daten zur Pünktlichkeit von Busway",
+      "example_en": "The report doesn't include data on Busway's punctuality"
+    },
+    {
+      "pt": "o altifalante",
+      "de": "der Lautsprecher",
+      "en": "the speaker (loudspeaker)",
+      "example": "Pode conduzir enquanto fala ao telemóvel em altifalante?",
+      "example_de": "Darf man fahren, während man laut am Handy spricht?",
+      "example_en": "Can you drive while talking on the phone on speaker?"
+    },
+    {
+      "pt": "conduzir",
+      "de": "fahren/steuern",
+      "en": "to drive",
+      "example": "É proibido conduzir enquanto se fala ao telemóvel",
+      "example_de": "Es ist verboten, zu fahren und gleichzeitig zu telefonieren",
+      "example_en": "It's forbidden to drive while talking on the phone"
+    },
+    {
+      "pt": "o aproveitamento",
+      "de": "die Nutzung/Ausnutzung",
+      "en": "the utilization",
+      "example": "O aproveitamento hidráulico de Girabolhos foi lançado",
+      "example_de": "Die Wasserkraftnutzung von Girabolhos wurde gestartet",
+      "example_en": "The Girabolhos hydraulic utilization project was launched"
+    },
+    {
+      "pt": "a semelhança",
+      "de": "die Ähnlichkeit",
+      "en": "the similarity",
+      "example": "A iniciativa foi aprovada à semelhança do que aconteceu na generalidade",
+      "example_de": "Die Initiative wurde ähnlich wie in der Generalität genehmigt",
+      "example_en": "The initiative was approved similarly to the general vote"
+    },
+    {
+      "pt": "o coletivo",
+      "de": "das Kollektiv",
+      "en": "the collective (panel/group)",
+      "example": "O coletivo de juízes considerou os factos de elevada gravidade",
+      "example_de": "Das Richterkollektiv erachtete die Fakten als sehr schwerwiegend",
+      "example_en": "The panel of judges considered the facts of high gravity"
+    },
+    {
+      "pt": "a sorte",
+      "de": "das Glück",
+      "en": "luck",
+      "example": "A vítima só por sorte não morreu",
+      "example_de": "Das Opfer überlebte nur durch Glück",
+      "example_en": "The victim survived only by luck"
+    },
+    {
+      "pt": "a picanha",
+      "de": "das Picanha (Rindersteak)",
+      "en": "picanha (beef cut)",
+      "example": "Uns trocos para a picanha ou paelha",
+      "example_de": "Etwas Kleingeld für Picanha",
+      "example_en": "Some change for picanha"
+    },
+    {
+      "pt": "determinante",
+      "de": "entscheidend",
+      "en": "decisive/determinant",
+      "example": "A barragem será determinante para reduzir o risco de cheias",
+      "example_de": "Der Staudamm wird entscheidend sein, um das Hochwasserrisiko zu senken",
+      "example_en": "The dam will be decisive in reducing flood risk"
+    },
+    {
+      "pt": "a apresentação",
+      "de": "die Präsentation",
+      "en": "the presentation",
+      "example": "Durante a apresentação do projeto, o presidente da APA falou",
+      "example_de": "Während der Projektpräsentation sprach der APA-Präsident",
+      "example_en": "During the project presentation, the APA president spoke"
+    },
+    {
+      "pt": "a intervenção",
+      "de": "der Eingriff/die Rede",
+      "en": "the intervention/speech",
+      "example": "O debate será aberto com uma intervenção de Luís Montenegro",
+      "example_de": "Die Debatte wird mit einer Rede von Luís Montenegro eröffnet",
+      "example_en": "The debate will open with a speech by Luís Montenegro"
+    },
+    {
+      "pt": "o gestor",
+      "de": "der Manager/Verwalter",
+      "en": "the manager",
+      "example": "O primeiro-ministro é o gestor do debate",
+      "example_de": "Der Premierminister ist der Moderator der Debatte",
+      "example_en": "The prime minister manages the debate"
+    },
+    {
+      "pt": "reutilizável",
+      "de": "wiederverwendbar",
+      "en": "reusable",
+      "example": "O dispositivo nasal é reutilizável",
+      "example_de": "Das Nasengerät ist wiederverwendbar",
+      "example_en": "The nasal device is reusable"
+    },
+    {
+      "pt": "a gravidade",
+      "de": "die Schwere",
+      "en": "the gravity/severity",
+      "example": "O coletivo de juízes considerou os factos de elevada gravidade",
+      "example_de": "Das Richterkollektiv erachtete die Fakten als sehr schwerwiegend",
+      "example_en": "The judges considered the facts of high severity"
+    },
+    {
+      "pt": "descontextualizada",
+      "de": "aus dem Kontext gerissen",
+      "en": "decontextualized",
+      "example": "Para evitar uma leitura descontextualizada dos dados",
+      "example_de": "Um eine aus dem Kontext gerissene Lesart der Daten zu vermeiden",
+      "example_en": "To avoid a decontextualized reading of the data"
+    },
+    {
+      "pt": "a exceção",
+      "de": "die Ausnahme",
+      "en": "the exception",
+      "example": "Apesar da proibição, existem algumas exceções",
+      "example_de": "Trotz des Verbots gibt es einige Ausnahmen",
+      "example_en": "Despite the ban, there are some exceptions"
+    }
   ]
 }
