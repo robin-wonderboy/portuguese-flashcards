@@ -20903,5 +20903,95 @@
       "example_de": "Trotz des Verbots gibt es einige Ausnahmen",
       "example_en": "Despite the ban, there are some exceptions"
     }
+  ],
+  "2026-07-17": [
+    {
+      "pt": "o pregão",
+      "de": "der Marktruf",
+      "en": "town crier's call / proclamation",
+      "example": "Se ouvir pregões em Coimbra não estranhe",
+      "example_de": "Wenn du Marktrufe in Coimbra hörst, wundere dich nicht",
+      "example_en": "If you hear town crier calls in Coimbra, don't be surprised"
+    },
+    {
+      "pt": "a pauta",
+      "de": "die Notenliste",
+      "en": "grade list / exam results board",
+      "example": "As pautas podem não ser afixadas durante o dia",
+      "example_de": "Die Notenlisten werden vielleicht tagsüber nicht ausgehängt",
+      "example_en": "The grade lists may not be posted during the day"
+    },
+    {
+      "pt": "a barafunda",
+      "de": "das Chaos",
+      "en": "mess / confusion / chaos",
+      "example": "A barafunda que os socialistas consideram estar instalada nos exames",
+      "example_de": "Das Chaos, das die Sozialisten in den Prüfungen sehen",
+      "example_en": "The mess that the socialists consider to be installed in the exams"
+    },
+    {
+      "pt": "a fibra ótica",
+      "de": "das Glasfaserkabel",
+      "en": "fiber optics",
+      "example": "A fibra ótica de alta velocidade chega a Góis",
+      "example_de": "Das Hochgeschwindigkeits-Glasfaserkabel erreicht Góis",
+      "example_en": "High-speed fiber optics reaches Góis"
+    },
+    {
+      "pt": "a contaminação",
+      "de": "die Verschmutzung",
+      "en": "contamination",
+      "example": "A praia foi interditada por contaminação microbiológica",
+      "example_de": "Der Strand wurde wegen mikrobiologischer Verschmutzung gesperrt",
+      "example_en": "The beach was closed due to microbiological contamination"
+    },
+    {
+      "pt": "a recriação histórica",
+      "de": "die historische Nachstellung",
+      "en": "historical reenactment",
+      "example": "Promete três dias de recriação histórica",
+      "example_de": "Verspricht drei Tage historische Nachstellung",
+      "example_en": "Promises three days of historical reenactment"
+    },
+    {
+      "pt": "o agregado",
+      "de": "der Haushalt",
+      "en": "household",
+      "example": "Uma medida dirigida aos agregados mais vulneráveis",
+      "example_de": "Eine Maßnahme gerichtet an die verwundbarsten Haushalte",
+      "example_en": "A measure directed at the most vulnerable households"
+    },
+    {
+      "pt": "esbanjar",
+      "de": "verschwenden",
+      "en": "to waste / squander",
+      "example": "O edil recusou esbanjar dinheiro público",
+      "example_de": "Der Bürgermeister weigerte sich, öffentliches Geld zu verschwenden",
+      "example_en": "The mayor refused to squander public money"
+    },
+    {
+      "pt": "o classificador",
+      "de": "der Korrektor",
+      "en": "examiner / grader",
+      "example": "Falta de classificadores marcou o processo dos exames",
+      "example_de": "Mangel an Korrektoren kennzeichnete den Prüfungsprozess",
+      "example_en": "Lack of graders marked the exam process"
+    },
+    {
+      "pt": "adivinhar",
+      "de": "erraten",
+      "en": "to guess",
+      "example": "Nem imagina o que dá para fazer com borras de café",
+      "example_de": "Du kannst dir nicht vorstellen, was man mit Kaffeesatz machen kann",
+      "example_en": "You can't imagine what you can do with coffee grounds"
+    },
+    {
+      "pt": "a roda de guarda",
+      "de": "die Wachschicht",
+      "en": "watch / guard duty shift",
+      "example": "Os bombeiros fazem a roda de guarda no quartel",
+      "example_de": "Die Feuerwehr leistet Wachdienst in der Wache",
+      "example_en": "The firefighters are on watch duty at the station"
+    }
   ]
 }
