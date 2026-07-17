@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Sting atua pela 1ª vez numa praia europeia e escolheu a Figueira da Foz",
+          "text": "O músico britânico Sting estreia-se hoje na Figueira da Foz, num concerto na Praia do Relógio com o Oceano Atlântico em fundo. É o primeiro concerto numa praia europeia em mais de 50 anos de carreira. O evento está esgotado há vários meses e espera-se a presença de 25.000 pessoas no maior areal urbano da Europa."
+        },
+        {
+          "headline": "Feira Medieval de Coimbra regressa este fim de semana",
+          "text": "A Feira Medieval mais antiga do país regressa a Coimbra entre 17 e 19 de julho, com três dias de recriação histórica, animação e gastronomia. O tema central é o início da nacionalidade portuguesa e a figura de D. Afonso Henriques, com atividades gratuitas para toda a família."
+        },
+        {
+          "headline": "Feira Popular de Coimbra: últimos 3 dias",
+          "text": "Concertos, diversões e gastronomia compõem o programa de 17 dias da Feira Popular de Coimbra, integrada nas Festas da cidade. Estima-se que passem 300 mil pessoas pelo recinto durante o evento."
+        },
+        {
+          "headline": "Tomorrowland arranca com forte presença portuguesa",
+          "text": "O Tomorrowland, um dos maiores festivais de música eletrónica do mundo, começa hoje em Boom, na Bélgica. A 21ª edição tem uma das maiores representações portuguesas de sempre, com reforço das medidas de segurança devido ao calor."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Incêndio em Proença-a-Nova entra em fase de resolução",
+          "text": "O combate ao incêndio rural que deflagrou em Proença-a-Nova, no distrito de Castelo Branco, entrou em fase de resolução. A Estrada Nacional 351, que tinha sido encerrada para garantir a movimentação de meios, reabriu ao trânsito."
+        },
+        {
+          "headline": "Bombeiros da Região de Coimbra ajudam a combater incêndio em Proença-a-Nova",
+          "text": "Bombeiros da região de Coimbra deslocaram-se a Proença-a-Nova para ajudar no combate ao incêndio rural, numa demonstração de solidariedade entre corporações da região centro."
+        },
+        {
+          "headline": "Risco máximo de incêndio atinge 17 concelhos",
+          "text": "Dezassete concelhos dos distritos de Bragança, Castelo Branco, Santarém, Portalegre e Faro estão hoje em perigo máximo de incêndio rural, segundo o IPMA. As zonas mais afetadas incluem Bragança, Macedo de Cavaleiros, Tomar, Abrantes e Loulé."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Ciclista gravemente ferido após embate em Coimbra",
+          "text": "Um ciclista de 54 anos sofreu ferimentos graves na quarta-feira após um embate lateral entre a bicicleta e um veículo ligeiro em Coimbra. O acidente ocorreu pelas 11:00 e a vítima foi transportada para o hospital."
+        },
+        {
+          "headline": "Motociclista perde a vida em despiste na Figueira da Foz",
+          "text": "Jorge Borges, de 55 anos, é a vítima mortal do despiste de motociclo ocorrido em Lavos, na Figueira da Foz. O motociclista embateu num caixote do lixo e, metros à frente, acabou por bater num muro."
+        },
+        {
+          "headline": "Menina de 6 anos cai de varanda e é evacuada de helicóptero",
+          "text": "Uma menina de 6 anos ficou gravemente ferida após cair de uma varanda na localidade de Casal Pinheiro, nas Caldas da Rainha. O alerta foi dado por volta das 19:00 e a criança foi transportada de helicóptero para o hospital."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Milhares de alunos aguardam notas dos exames nacionais",
+          "text": "Milhares de alunos do ensino secundário aguardam hoje pela divulgação das notas dos exames nacionais. A afixação das pautas depende da classificação de todas as provas, um processo marcado por atrasos, problemas técnicos e falta de classificadores. O ministro da Educação admite que as pautas podem não ser afixadas durante o dia."
+        },
+        {
+          "headline": "Professores e pais protestam contra a digitalização",
+          "text": "Professores e pais uniram-se num protesto contra a digitalização crescente no ensino, exigindo mais recursos tradicionais e menos dependência de plataformas digitais."
+        },
+        {
+          "headline": "Universidade de Coimbra lidera projeto de inovação no ensino superior",
+          "text": "A Universidade de Coimbra vai liderar um projeto para reforçar a inovação no ensino superior, promovendo novas metodologias pedagógicas e maior integração entre instituições."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PS diz a Fernando Alexandre que já não devia ser ministro da Educação",
+          "text": "O líder parlamentar do PS disse ao ministro da Educação que, como defensor da meritocracia, sabe que já não devia ocupar o cargo tendo em conta a barafunda que os socialistas consideram estar instalada nos exames nacionais."
+        },
+        {
+          "headline": "Primeiro-ministro admite que nem tudo correu bem nos exames",
+          "text": "No debate do Estado da Nação, o primeiro-ministro admitiu que nem tudo correu bem nos exames nacionais, reconhecendo os problemas técnicos e atrasos que marcaram o processo."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Tragédia na Venezuela sobe para 4.930 mortos",
+          "text": "O número de mortos provocados pelo duplo sismo que atingiu a Venezuela em 24 de junho ultrapassou 4.900, segundo o presidente da Assembleia Nacional. O número de feridos e desalojados mantém-se nos 16.740."
+        },
+        {
+          "headline": "Tempestade no Chile deixa mais de 500 mil pessoas sem eletricidade",
+          "text": "Mais de 500.000 pessoas ficaram sem eletricidade no Chile devido a fortes chuvas e ventos violentos que afetaram dois terços das regiões do país. A tempestade provocou um ferido e 48 desalojados, devendo prolongar-se até domingo."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Estudo propõe travão à despesa das famílias com medicamentos",
+          "text": "Um estudo do Observatório da Despesa em Saúde, desenvolvido pela Nova SBE, defende a criação de um teto anual para a despesa com medicamentos. A medida dirigir-se-ia aos agregados mais vulneráveis para reduzir o impacto financeiro suportado pelas famílias portuguesas."
+        },
+        {
+          "headline": "Negócio da Glovo em Portugal vendido a fundo norte-americano",
+          "text": "O negócio da Glovo em Portugal é um dos 14 que serão vendidos ao fundo norte-americano SSW Partners pela Delivery Hero. A operação está dependente da aquisição da Delivery Hero pela Uber."
+        }
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Fibra ótica de alta velocidade chega a Góis",
+          "text": "O concelho de Góis vai beneficiar de um investimento na área da conectividade digital, com cerca de 2.500 edifícios abrangidos por uma nova rede de fibra ótica. A medida integra um investimento nacional de 360 milhões de euros em áreas brancas."
+        },
+        {
+          "headline": "Praia do Areínho em Ovar interditada a banhos",
+          "text": "A praia do Areínho, em Ovar, está interditada a banhos devido a contaminação microbiológica pela bactéria Escherichia coli, detetada em análises à água. A autarquia local informou que a situação poderá estar relacionada com factores ambientais."
+        },
+        {
+          "headline": "Bombeiros da Mealhada reforçam quartel com duas mascotes",
+          "text": "Os Bombeiros Voluntários da Mealhada passaram a contar com duas novas mascotes: Olívia e Amélia. A dupla de quatro patas promete conquistar todos os que passam pelo quartel."
+        }
+      ]
+    }
+  ]
+}
