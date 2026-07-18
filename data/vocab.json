@@ -20993,5 +20993,119 @@
       "example_de": "Die Feuerwehr leistet Wachdienst in der Wache",
       "example_en": "The firefighters are on watch duty at the station"
     }
+  ],
+  "2026-07-18": [
+    {
+      "pt": "a taxa turística",
+      "de": "die Touristensteuer",
+      "en": "the tourist tax",
+      "example": "A taxa turística vai aumentar para dois euros",
+      "example_de": "Die Touristensteuer wird auf zwei Euro steigen",
+      "example_en": "The tourist tax will increase to two euros"
+    },
+    {
+      "pt": "a dormida",
+      "de": "die Übernachtung",
+      "en": "the overnight stay",
+      "example": "A taxa é cobrada por dormida",
+      "example_de": "Die Gebühr wird pro Übernachtung erhoben",
+      "example_en": "The fee is charged per overnight stay"
+    },
+    {
+      "pt": "o cabecilha",
+      "de": "der Rädelsführer",
+      "en": "the ringleader",
+      "example": "O cabecilha da rede foi detido",
+      "example_de": "Der Rädelsführer des Netzwerks wurde festgenommen",
+      "example_en": "The ringleader of the network was arrested"
+    },
+    {
+      "pt": "a miopia",
+      "de": "die Kurzsichtigkeit",
+      "en": "myopia",
+      "example": "A miopia está a aumentar entre os jovens",
+      "example_de": "Die Kurzsichtigkeit nimmt unter Jugendlichen zu",
+      "example_en": "Myopia is increasing among young people"
+    },
+    {
+      "pt": "o consultório",
+      "de": "die Arztpraxis",
+      "en": "the medical office",
+      "example": "Vai criar um consultório da criança",
+      "example_de": "Es wird eine Kinderarztpraxis eingerichtet",
+      "example_en": "A children's medical office will be created"
+    },
+    {
+      "pt": "o ransomware",
+      "de": "die Erpressungssoftware",
+      "en": "ransomware",
+      "example": "O ataque informático foi do tipo ransomware",
+      "example_de": "Der Cyberangriff war vom Typ Erpressungssoftware",
+      "example_en": "The cyberattack was ransomware type"
+    },
+    {
+      "pt": "a borra de café",
+      "de": "der Kaffeesatz",
+      "en": "coffee grounds",
+      "example": "Dá para fazer muita coisa com borras de café",
+      "example_de": "Man kann vieles mit Kaffeesatz machen",
+      "example_en": "You can do a lot with coffee grounds"
+    },
+    {
+      "pt": "escapar por um triz",
+      "de": "knapp entkommen",
+      "en": "to escape by a hair",
+      "example": "O condutor escapou por um triz à morte",
+      "example_de": "Der Fahrer entkam knapp dem Tod",
+      "example_en": "The driver narrowly escaped death"
+    },
+    {
+      "pt": "descondicionar",
+      "de": "entkonditionieren",
+      "en": "to decondition",
+      "example": "O espetáculo procura descondicionar hábitos enraizados",
+      "example_de": "Die Vorstellung versucht eingewurzelte Gewohnheiten zu entkonditionieren",
+      "example_en": "The show seeks to decondition ingrained habits"
+    },
+    {
+      "pt": "rentabilizar",
+      "de": "rentabilisieren",
+      "en": "to make profitable",
+      "example": "Empresas com mais mulheres rentabilizam melhor a inovação",
+      "example_de": "Unternehmen mit mehr Frauen rentabilisieren Innovation besser",
+      "example_en": "Companies with more women make innovation more profitable"
+    },
+    {
+      "pt": "desfavorável",
+      "de": "ungünstig",
+      "en": "unfavorable",
+      "example": "A câmara emitiu parecer desfavorável",
+      "example_de": "Die Gemeinde gab ein ungünstiges Gutachten ab",
+      "example_en": "The municipality issued an unfavorable opinion"
+    },
+    {
+      "pt": "inesperado",
+      "de": "unerwartet",
+      "en": "unexpected",
+      "example": "Um parto inesperado na Cruz Vermelha",
+      "example_de": "Eine unerwartete Geburt beim Roten Kreuz",
+      "example_en": "An unexpected birth at the Red Cross"
+    },
+    {
+      "pt": "encarcerado",
+      "de": "eingeklemmt",
+      "en": "trapped",
+      "example": "A vítima ficou encarcerada no veículo",
+      "example_de": "Das Opfer war im Fahrzeug eingeklemmt",
+      "example_en": "The victim was trapped in the vehicle"
+    },
+    {
+      "pt": "não poupa em",
+      "de": "spart nicht an",
+      "en": "doesn't hold back on",
+      "example": "Rui Rocha não poupa elogios ao presidente",
+      "example_de": "Rui Rocha spart nicht an Lob für den Präsidenten",
+      "example_en": "Rui Rocha doesn't hold back on praise for the president"
+    }
   ]
 }
