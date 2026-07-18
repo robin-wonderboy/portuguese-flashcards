@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏥",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Bebé nasce nos braços da Cruz Vermelha da Figueira da Foz",
+          "text": "Um bebé nasceu inesperadamente na delegação da Cruz Vermelha da Figueira da Foz, antes de a mãe conseguir chegar ao hospital. Dois profissionais da instituição ajudaram no parto, num momento descrito como inesquecível."
+        },
+        {
+          "headline": "Taxa turística de Coimbra vai dobrar para 2€ por dormida",
+          "text": "O Executivo Municipal vai votar a proposta de atualização da Taxa Municipal Turística de 1€ para 2€ por dormida. O valor mantém-se abaixo do custo municipal estimado em 3,49€ por dormida."
+        },
+        {
+          "headline": "Coimbra vai criar Consultório da Criança",
+          "text": "A Câmara de Coimbra propõe um protocolo com o Instituto de Apoio à Criança para criar o Consultório da Criança, apoiando famílias e prevenindo situações de risco. Integra também o Núcleo Local da Garantia para a Infância."
+        },
+        {
+          "headline": "Gatinhos abandonados em caixote do lixo em Condeixa",
+          "text": "Cinco gatinhos bebés foram encontrados abandonados dentro de um contentor do lixo por funcionários municipais de Condeixa-a-Nova. A associação Patudos classificou o ato como extrema crueldade."
+        },
+        {
+          "headline": "Zara vai fechar no Alma Shopping em Coimbra",
+          "text": "A loja Zara no Alma Shopping encerrará até final de julho. Os motivos ainda não foram oficialmente confirmados pela administração do centro comercial."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "CRIME & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Civil e polícia atingidos em tiroteio com uma morte",
+          "text": "Um tiroteio deixou um civil e um agente da polícia atingidos, com registo de uma morte. Os detalhes sobre as circunstâncias permanecem em investigação."
+        },
+        {
+          "headline": "Líder de rede de tráfico que abastecia prisões detido pela PJ",
+          "text": "A Polícia Judiciária de Aveiro deteve o cabecilha de uma rede organizada que distribuía estupefacientes em Aveiro, Ílhavo, Albergaria-a-Velha e Estarreja, e introduzia droga no Estabelecimento Prisional de Aveiro."
+        },
+        {
+          "headline": "Piratas informáticos atacam Metro Mondego com ransomware",
+          "text": "A Metro Mondego foi alvo de um ataque informático do tipo ransomware a 6 de julho, afetando parte dos sistemas internos. A operação do serviço de transporte não foi comprometida e as autoridades foram notificadas."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Caos nos exames: ministro promete notas online ainda hoje",
+          "text": "O ministro da Educação anunciou que os alunos terão acesso aos resultados dos exames nacionais do ensino secundário através da plataforma Inovar, mesmo sem as escolas estarem abertas. Os diretores podem divulgar as notas online."
+        },
+        {
+          "headline": "Resultados das provas do 9º ano não serão afixados",
+          "text": "Os resultados das provas do 9º ano não foram afixados na sexta-feira como previsto. O ministro assumiu que o processo de avaliação não correu bem e reagiu à polémica."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "PORTUGAL & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Milagre: condutor escapa por um triz após colisão com comboio",
+          "text": "Um automóvel foi atingido por um comboio de mercadorias na passagem de nível de Marinhais, Salvaterra de Magos. O condutor ficou encarcerado mas sofreu apenas ferimentos ligeiros, sendo transportado para o Hospital de Vila Franca de Xira."
+        },
+        {
+          "headline": "Acidente aparatoso na A6 provoca um morto",
+          "text": "Uma colisão na Autoestrada 6 perto de Montemor-o-Novo fez um morto e dois feridos, cortando a circulação no sentido Elvas-Marateca durante 8 horas. A via foi depois retomada de forma condicionada."
+        }
+      ]
+    },
+    {
+      "emoji": "🚕",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "TVDE muda de regras: táxis podem entrar em plataformas como Uber",
+          "text": "Os projetos-lei do PSD e CDS-PP que revêem o regime jurídico dos TVDE foram aprovados no parlamento. Táxis passam a poder integrar plataformas como Uber. PS, IL, Livre, PCP e BE votaram contra; PAN absteve-se."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "ULS de Coimbra cria Via Verde para choque cardiogénico",
+          "text": "A Unidade Local de Saúde de Coimbra lançou a Via Verde de Choque Cardiogénico, um programa de resposta rápida a uma das emergências cardíacas mais mortais. O choque cardiogénico tem uma mortalidade elevadíssima."
+        },
+        {
+          "headline": "Miopia dispara entre os jovens portugueses",
+          "text": "Um estudo da Universidade do Minho revela aumento significativo da miopia em crianças e adolescentes portugueses, atingindo mais de 45% dos alunos do secundário. A prevalência passa de 12% (6-10 anos) para 35% nos adolescentes."
+        },
+        {
+          "headline": "Médicos dentistas vão ter carreira própria no SNS",
+          "text": "A Comissão de Saúde da Assembleia da República aprovou a criação da Carreira de Médico Dentista no Serviço Nacional de Saúde. A Ordem dos Médicos Dentistas considera o passo histórico para a profissão."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTIVAIS",
+      "stories": [
+        {
+          "headline": "Festa da Pampilhosa da Serra regressa em agosto com medronho e concertos",
+          "text": "As Festas do Concelho da Pampilhosa da Serra voltam em agosto com Fernando Daniel e Bárbara Tinoco como cabeças de cartaz. O evento promove a aproximação entre a comunidade local, a diáspora e visitantes."
+        },
+        {
+          "headline": "Festival AVANCA alarga cinema de animação a outros territórios",
+          "text": "O Festival de cinema de animação AVANCA expande-se a outras cidades e regiões, incluindo as ilhas, na sua 30ª edição. O festival decorre entre 20 de julho e agosto."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Liga Meu Super 2026/27: Académica arranca em Chaves a 8 de agosto",
+          "text": "Já são conhecidos os horários das primeiras duas jornadas da Liga Meu Super 2026/27. A Académica viaja ao reduto do GD Chaves no dia 8 de agosto às 11 horas para o arranque oficial."
+        }
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "category": "AMBIENTE & ENERGIA",
+      "stories": [
+        {
+          "headline": "Mata do Bussaco recebe Certificado Internacional de Floresta Terapêutica",
+          "text": "A Mata Nacional do Bussaco tornou-se a primeira floresta da Península Ibérica a obter o Certificado Internacional de Floresta Terapêutica. O secretário de Estado das Florestas exigiu reforço da proteção contra incêndios."
+        },
+        {
+          "headline": "Câmara do Sabugal opõe-se a zonas de aceleração de renováveis",
+          "text": "A Câmara do Sabugal emitiu parecer desfavorável ao Programa Setorial das Zonas de Aceleração de Energias Renováveis, considerando que tem de ser equilibrado e articulado com os instrumentos de gestão territorial municipal."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo atualiza desconto no ISP: 7,4 cêntimos no gasóleo",
+          "text": "O Governo aumentou o desconto sobre o preço dos combustíveis via redução de impostos: 7,4 cêntimos por litro no gasóleo e 4,6 cêntimos na gasolina. A medida responde à previsão de subida de preços pelos mercados."
+        }
+      ]
+    }
+  ]
+}
