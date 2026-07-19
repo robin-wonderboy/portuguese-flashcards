@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎪",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Feira Popular de Coimbra entra na reta final",
+          "text": "A Feira Popular de Coimbra despede-se este domingo depois de transformar a Praça da Canção num dos principais pontos de encontro do verão. A organização faz um balanço extremamente positivo, destacando o espírito de comunidade e o maior envolvimento da Câmara Municipal. Nas tasquinhas há sardinhas assadas, enguias fritas, pataniscas e até cachupa cabo-verdiana."
+        },
+        {
+          "headline": "Feira Medieval de Coimbra atrai milhares",
+          "text": "A Feira Medieval voltou a Coimbra com direito a casamento encenado e guarda de honra de D. Afonso Henriques. Uma das artes mais antigas do mundo está a conquistar miúdos e graúdos, e uma planta que afasta o mau-olhado esgotou por completo. Há comida, espadas e boa conversa tudo sem pagar."
+        },
+        {
+          "headline": "329 finalistas da ESEUC celebram no coração histórico da UC",
+          "text": "Pela primeira vez, o adeus aos finalistas da Escola Superior de Educação de Coimbra celebra-se no coração histórico da Universidade de Coimbra."
+        },
+        {
+          "headline": "Pai e filha de Montemor-o-Velho conquistam a mítica EN2",
+          "text": "Uma história de amor sobre duas rodas: pai e filha de Montemor-o-Velho aventuraram-se pela mítica Estrada Nacional 2 que cruza Portugal de norte a sul."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Ministério da Educação assegura que nenhum aluno será prejudicado",
+          "text": "O Ministério da Educação garantiu que nenhum aluno será prejudicado no acesso ao Ensino Superior por motivos não imputáveis ao próprio, após o caos nos exames nacionais. As escolas estão a receber novos ficheiros de alunos com nota em suspenso."
+        },
+        {
+          "headline": "Mariana Leitão critica teimosia e incompetência do governo",
+          "text": "Em Coimbra, a líder do CDS accusou o governo de teimosia e incompetência no processo dos exames, dizendo que Luís Neves tem de esclarecer os portugueses. O PCP também culpou Montenegro e criticou a falta de coragem do ministro da Educação."
+        },
+        {
+          "headline": "Provedora de Justiça afirma que exames têm sido objeto de várias queixas",
+          "text": "A Provedora de Justiça afirmou que a realização das provas tem sido objeto de várias queixas, acrescentando pressão política sobre o processo de avaliação."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Mulher que matou a mãe tem surto psicótico na cadeia",
+          "text": "A mulher que matou a sua mãe teve um surto psicótico na prisão e foi levada de urgência para o hospital. O caso chocou a opinião pública portuguesa."
+        },
+        {
+          "headline": "Estrangeiro detido com sortido de drogas para festival de música",
+          "text": "Um indivíduo foi detido ao entrar em Portugal com um sortido de drogas destinado a vender num festival de música. A PJ apreendeu o material na fronteira."
+        },
+        {
+          "headline": "Inspetor da PJ detido por insultar a PSP já está em liberdade",
+          "text": "O inspetor da Polícia Judiciária que foi detido por insultar agentes da PSP já foi posto em liberdade. O caso gerou tensão entre as duas forças policiais."
+        },
+        {
+          "headline": "Professor detido por abusar e pagar a alunos por conteúdos sexuais",
+          "text": "Um professor foi detido pela PJ por abusar e pagar a alunos em troca de conteúdos sexuais. O caso está a ser investigado pelas autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Trânsito condicionado na Ponte Açude no IC2 em Coimbra",
+          "text": "O trânsito na Ponte Açude no IC2 em Coimbra está condicionado durante umas duas semanas para obras de manutenção."
+        },
+        {
+          "headline": "TVDE mudam de regras e táxis podem entrar nas plataformas",
+          "text": "As novas regras para o setor TVDE permitem que os táxis entrem nas plataformas como a Uber. A mudança visa harmonizar o mercado de transporte de passageiros."
+        },
+        {
+          "headline": "Colisão frontal faz cinco feridos graves em estrada nacional",
+          "text": "Uma colisão frontal entre dois veículos numa estrada nacional deixou cinco feridos graves e condicionou o trânsito na zona."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Taxa turística vai cobrar o dobro para dormir em Coimbra",
+          "text": "A taxa turística de Coimbra vai duplicar, fazendo com que os visitantes paguem o dobro para pernoitar na cidade. A medida pretende financiar infraestruturas turísticas."
+        },
+        {
+          "headline": "Governo atualiza desconto no ISP para gasóleo e gasolina",
+          "text": "O governo atualizou o desconto no ISP para 7,4 cêntimos no gasóleo e 4,6 cêntimos na gasolina, trazendo algum alívio aos condutores."
+        },
+        {
+          "headline": "Zara vai fechar no Alma Shopping em Coimbra",
+          "text": "A loja Zara no Alma Shopping em Coimbra vai encerrar portas, deixando o centro comercial sem uma das suas âncoras de moda."
+        },
+        {
+          "headline": "Nova loja gigante para fãs de motos em Coimbra",
+          "text": "Uma nova loja gigante dedicada a motos abriu em Coimbra, oferecendo equipamento, acessórios e motociclos para os entusiastas das duas rodas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Miopia dispara entre os jovens portugueses",
+          "text": "A miopia está a aumentar de forma alarmante entre os jovens portugueses, segundo um novo estudo que alerta para os efeitos do tempo excessivo em ecrãs e da falta de luz natural."
+        },
+        {
+          "headline": "ULS de Coimbra cria Via Verde para emergências cardíacas",
+          "text": "A Unidade Local de Saúde de Coimbra criou uma Via Verde para responder a uma das emergências cardíacas mais mortais, reduzindo o tempo de tratamento e aumentando as hipóteses de sobrevivência."
+        },
+        {
+          "headline": "Médicos dentistas vão ter carreira própria no SNS",
+          "text": "Os médicos dentistas vão passar a ter uma carreira própria no Serviço Nacional de Saúde, uma mudança que procura valorizar a especialidade e melhorar o acesso aos cuidados dentários."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Fadista portuguesa leva fado ao palco principal do Tomorrowland",
+          "text": "Uma fadista portuguesa vai levar o fado ao espetáculo principal do famoso festival de música eletrónica Tomorrowland, numa combinação inesperada entre a tradição portuguesa e a música eletrónica."
+        },
+        {
+          "headline": "Festival AVANCA alarga cinema de animação a outros territórios",
+          "text": "O Festival AVANCA expande o cinema de animação a novos territórios, reforçando a sua posição como evento de referência para a sétima arte em Portugal."
+        },
+        {
+          "headline": "Grande festa da Pampilhosa da Serra regressa em agosto",
+          "text": "Medronho, queijos e concertos gratuitos: a grande festa da Pampilhosa da Serra regressa em agosto com um programa repleto de tradição e animação."
+        },
+        {
+          "headline": "A história do lombo assado de Condeixa",
+          "text": "As famílias de Condeixa levavam o lombo assado para cozinhar no forno do padeiro, uma tradição que conta a história social e gastronómica da região."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Vitória de Guimarães derrota Académica em jogo particular",
+          "text": "O Vitória de Guimarães derrotou a Académica num jogo particular de preparação para a nova época, num encontro que serviu para testar novas opções táticas."
+        },
+        {
+          "headline": "Trincão ruma aos sauditas após quatro anos no Sporting",
+          "text": "O jogador Trincão deixa o Sporting após quatro temporadas e rumou ao futebol saudita, juntando-se à vaga de jogadores que aceitam propostas lucrativas do golfo."
+        },
+        {
+          "headline": "Argentina e Espanha defrontam-se em final do Mundial inédita",
+          "text": "Argentina e Espanha defrontam-se numa final do Mundial totalmente inédita e imprevisível, num dos jogos mais aguardados da temporada internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Ativista levado à força para hospital após 20 dias de greve de fome",
+          "text": "Um ativista foi levado à força para o hospital após 20 dias de greve de fome. As autoridades decidiram intervir devido ao agravamento do seu estado de saúde."
+        },
+        {
+          "headline": "Alerta de tsunami no México após sismo de 7,3",
+          "text": "Um sismo de magnitude 7,3 abalou o México e despoletou um alerta de tsunami nas zonas costeiras. Não há ainda informações sobre vítimas ou danos significativos."
+        },
+        {
+          "headline": "2 mortos e 53 mil casas sem energia após tempestades em França",
+          "text": "Tempestades violentas em França deixaram dois mortos e 53 mil casas sem energia elétrica. As equipas de emergência continuam a trabalhar para restaurar a normalidade."
+        },
+        {
+          "headline": "Chamas não dão tréguas: loja que ardeu há 9 anos volta a arder",
+          "text": "Uma loja que já tinha sido fustigada por um grande incêndio há nove anos voltou a arder, num cenário que demonstra a crueldade das chamas que não dão tréguas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "category": "AMBIENTE & INTERIOR",
+      "stories": [
+        {
+          "headline": "Incêndio florestal em Ovar dominado",
+          "text": "O incêndio florestal que deflagrou em Ovar foi dado como dominado pelos bombeiros após horas de combate. Não se registaram vítimas."
+        },
+        {
+          "headline": "Câmara do Sabugal emite parecer desfavorável a renováveis",
+          "text": "A Câmara do Sabugal emitiu um parecer desfavorável à criação de zonas de aceleração de energias renováveis, preocupada com o impacto ambiental e paisagístico no concelho."
+        },
+        {
+          "headline": "Secretário de Estado das Florestas exige reforço da proteção no Bussaco",
+          "text": "O Secretário de Estado das Florestas não esqueceu o risco de incêndios na Mata do Bussaco e exigiu reforço da proteção, numa visita à área classificada."
+        },
+        {
+          "headline": "Morreu um dos primeiros mergulhadores dos Bombeiros de Mortágua",
+          "text": "Faleceu um dos primeiros mergulhadores dos Bombeiros de Mortágua, deixando um legado de dedicação ao serviço de socorro e à comunidade."
+        }
+      ]
+    }
+  ]
+}
