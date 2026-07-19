@@ -21107,5 +21107,111 @@
       "example_de": "Rui Rocha spart nicht an Lob für den Präsidenten",
       "example_en": "Rui Rocha doesn't hold back on praise for the president"
     }
+  ],
+  "2026-07-19": [
+    {
+      "pt": "vestir",
+      "de": "anziehen",
+      "en": "to wear/dress",
+      "example": "Coimbra veste a camisola da Feira Popular",
+      "example_de": "Coimbra zieht das Trikot der Feira Popular an",
+      "example_en": "Coimbra wears the Feira Popular jersey"
+    },
+    {
+      "pt": "a reta final",
+      "de": "die Endphase",
+      "en": "the final stretch",
+      "example": "A Feira Popular entra na reta final",
+      "example_de": "Die Feira Popular geht in die Endphase",
+      "example_en": "The Feira Popular enters the final stretch"
+    },
+    {
+      "pt": "fustigar",
+      "de": "peitschen",
+      "en": "to lash/batter",
+      "example": "A loja foi fustigada por um grande incêndio",
+      "example_de": "Das Geschäft wurde von einem großen Feuer gepeitscht",
+      "example_en": "The shop was battered by a major fire"
+    },
+    {
+      "pt": "o sortido",
+      "de": "die Auswahl",
+      "en": "the assortment",
+      "example": "Vem a Portugal com sortido de drogas",
+      "example_de": "Er kommt mit einer Auswahl an Drogen nach Portugal",
+      "example_en": "He comes to Portugal with an assortment of drugs"
+    },
+    {
+      "pt": "a greve de fome",
+      "de": "der Hungerstreik",
+      "en": "the hunger strike",
+      "example": "Ativista levado à força após 20 dias de greve de fome",
+      "example_de": "Aktivist nach 20 Tagen Hungerstreik mit Gewalt abgeführt",
+      "example_en": "Activist taken by force after 20 days of hunger strike"
+    },
+    {
+      "pt": "a teimosia",
+      "de": "die Starrköpfigkeit",
+      "en": "the stubbornness",
+      "example": "O processo dos exames revela teimosia e incompetência",
+      "example_de": "Der Prüfungsprozess zeigt Starrköpfigkeit und Inkompetenz",
+      "example_en": "The exam process reveals stubbornness and incompetence"
+    },
+    {
+      "pt": "urinar",
+      "de": "urinieren",
+      "en": "to urinate",
+      "example": "Nunca urine na piscina",
+      "example_de": "Nie ins Schwimmbad urinieren",
+      "example_en": "Never urinate in the swimming pool"
+    },
+    {
+      "pt": "a cumplicidade",
+      "de": "die Komplizenschaft",
+      "en": "the complicity",
+      "example": "Manter Luís Neves significa cumplicidade criminosa",
+      "example_de": "Luís Neves zu behalten bedeutet kriminelle Komplizenschaft",
+      "example_en": "Keeping Luís Neves means criminal complicity"
+    },
+    {
+      "pt": "o lombo",
+      "de": "der Lendenbraten",
+      "en": "the pork loin",
+      "example": "A história do lombo assado de Condeixa",
+      "example_de": "Die Geschichte des Lendenbratens von Condeixa",
+      "example_en": "The story of Condeixa roasted pork loin"
+    },
+    {
+      "pt": "assado",
+      "de": "gebraten",
+      "en": "roasted",
+      "example": "O lombo assado de Condeixa",
+      "example_de": "Der gebratene Lendenbraten von Condeixa",
+      "example_en": "The roasted pork loin of Condeixa"
+    },
+    {
+      "pt": "a borra",
+      "de": "der Trester",
+      "en": "the grounds/dregs",
+      "example": "O que dá para fazer com borras de café",
+      "example_de": "Was man mit Kaffeesatz machen kann",
+      "example_en": "What you can do with coffee grounds"
+    },
+    {
+      "pt": "derrotar",
+      "de": "besiegen",
+      "en": "to defeat",
+      "example": "Vitória de Guimarães derrota Académica",
+      "example_de": "Vitória de Guimarães besiegt Académica",
+      "example_en": "Vitória de Guimarães defeats Académica"
+    },
+    {
+      "pt": "o mau-olhado",
+      "de": "der böse Blick",
+      "en": "the evil eye",
+      "example": "Planta que afasta o mau-olhado esgota na Feira",
+      "example_de": "Pflanze die den bösen Blick abwehrt ausverkauft",
+      "example_en": "Plant that wards off the evil eye sells out at the Fair"
+    }
   ]
 }
