@@ -21213,5 +21213,183 @@
       "example_de": "Pflanze die den bösen Blick abwehrt ausverkauft",
       "example_en": "Plant that wards off the evil eye sells out at the Fair"
     }
+  ],
+  "2026-07-20": [
+    {
+      "pt": "o lume",
+      "de": "Herdplatte, offenes Feuer",
+      "en": "open fire/hearth",
+      "example": "O tacho esquecido ao lume fez cinco feridos",
+      "example_de": "Der vergessene Topf auf dem offenen Feuer verursachte fuenf Verletzte",
+      "example_en": "The forgotten pot on the open fire caused five injuries"
+    },
+    {
+      "pt": "o enfermeiro",
+      "de": "Krankenpfleger",
+      "en": "nurse",
+      "example": "O enfermeiro do INEM morreu no acidente",
+      "example_de": "Der INEM-Krankenpfleger starb bei dem Unfall",
+      "example_en": "The INEM nurse died in the accident"
+    },
+    {
+      "pt": "a junta de dilatacao",
+      "de": "Dehnungsfuge",
+      "en": "expansion joint",
+      "example": "Trabalhos de conservacao das juntas de dilatacao",
+      "example_de": "Erhaltungsarbeiten an den Dehnungsfugen",
+      "example_en": "Conservation work on the expansion joints"
+    },
+    {
+      "pt": "o requerimento",
+      "de": "Antrag, Anfrage (parlamentarisch)",
+      "en": "request, parliamentary question",
+      "example": "Aguiar-Branco respondeu a 497 requerimentos",
+      "example_de": "Aguiar-Branco beantwortete 497 Anfragen",
+      "example_en": "Aguiar-Branco answered 497 requests"
+    },
+    {
+      "pt": "rendido",
+      "de": "sich ergeben, begeistert",
+      "en": "surrendered, won over",
+      "example": "Agata rendida aos gatoes da policia",
+      "example_de": "Agata begeistert von den Polizeikatern",
+      "example_en": "Agata won over by the police cats"
+    },
+    {
+      "pt": "o gatão",
+      "de": "Kater, grosser Kater",
+      "en": "big tomcat",
+      "example": "Os gatoes da policia na Praia da Rocha",
+      "example_de": "Die Polizeikater am Praia da Rocha",
+      "example_en": "The police tomcats at Praia da Rocha"
+    },
+    {
+      "pt": "pingar",
+      "de": "tropfen, triefen",
+      "en": "to drip",
+      "example": "O ar condicionado pinga para a rua",
+      "example_de": "Die Klimaanlage tropft auf die Strasse",
+      "example_en": "The air conditioner drips onto the street"
+    },
+    {
+      "pt": "a almôndega",
+      "de": "Fleischbaellchen",
+      "en": "meatball",
+      "example": "A pequena IKEA de Coimbra vai ter almondegas?",
+      "example_de": "Wird das kleine IKEA in Coimbra Fleischbaellchen haben?",
+      "example_en": "Will the small IKEA in Coimbra have meatballs?"
+    },
+    {
+      "pt": "trocar",
+      "de": "vertauschen, tauschen",
+      "en": "to swap, mix up",
+      "example": "Alunos a receberem provas trocadas",
+      "example_de": "Schueler erhalten vertauschte Pruefungen",
+      "example_en": "Students receiving swapped exams"
+    },
+    {
+      "pt": "o pulmão",
+      "de": "Lunge",
+      "en": "lung",
+      "example": "Transplantes cardiacos e pulmonares",
+      "example_de": "Herz- und Lungentransplantationen",
+      "example_en": "Cardiac and pulmonary transplants"
+    },
+    {
+      "pt": "esquecido",
+      "de": "vergessen",
+      "en": "forgotten",
+      "example": "O tacho esquecido ao lume",
+      "example_de": "Der vergessene Kochtopf auf dem Feuer",
+      "example_en": "The forgotten cooking pot on the fire"
+    },
+    {
+      "pt": "o vinho",
+      "de": "Wein",
+      "en": "wine",
+      "example": "Festival de cinema, musica e vinho",
+      "example_de": "Festival fuer Film, Musik und Wein",
+      "example_en": "Festival of cinema, music and wine"
+    },
+    {
+      "pt": "acusar",
+      "de": "beschuldigen",
+      "en": "to accuse",
+      "example": "Condutor acusado da morte do enfermeiro",
+      "example_de": "Fahrer beschuldigt am Tod des Krankenpflegers",
+      "example_en": "Driver accused of the nurse's death"
+    },
+    {
+      "pt": "o aeroporto",
+      "de": "Flughafen",
+      "en": "airport",
+      "example": "FlixBus liga Serta aos aeroportos do Porto",
+      "example_de": "FlixBus verbindet Serta mit den Flughafen in Porto",
+      "example_en": "FlixBus connects Serta to the airports in Porto"
+    },
+    {
+      "pt": "a cantora",
+      "de": "Saengerin",
+      "en": "female singer",
+      "example": "A cantora recorda o dia em que tudo poderia ter terminado",
+      "example_de": "Die Saengerin erinnert sich an den Tag an dem alles haette enden koennen",
+      "example_en": "The singer recalls the day everything could have ended"
+    },
+    {
+      "pt": "a arma",
+      "de": "Waffe",
+      "en": "weapon",
+      "example": "Fui buscar a arma do meu marido",
+      "example_de": "Ich holte die Waffe meines Mannes",
+      "example_en": "I went to get my husband's weapon"
+    },
+    {
+      "pt": "a escassez",
+      "de": "Knappheit, Mangel",
+      "en": "scarcity, shortage",
+      "example": "A escassez de orgaos representa um desafio",
+      "example_de": "Der Mangel an Organen stellt eine Herausforderung dar",
+      "example_en": "The shortage of organs represents a challenge"
+    },
+    {
+      "pt": "a avaliação",
+      "de": "Bewertung",
+      "en": "evaluation",
+      "example": "Constrangimentos no processo de avaliacao",
+      "example_de": "Einschraenkungen im Bewertungsprozess",
+      "example_en": "Constraints in the evaluation process"
+    },
+    {
+      "pt": "o executivo municipal",
+      "de": "Stadtverwaltung",
+      "en": "municipal executive",
+      "example": "O Executivo Municipal vota a proposta",
+      "example_de": "Die Stadtverwaltung stimmt ueber den Vorschlag ab",
+      "example_en": "The Municipal Executive votes on the proposal"
+    },
+    {
+      "pt": "a atualização",
+      "de": "Aktualisierung, Erhoehung",
+      "en": "update, increase",
+      "example": "A atualizacao do valor da taxa turistica",
+      "example_de": "Die Aktualisierung des Werts der Touristensteuer",
+      "example_en": "The update of the tourist tax value"
+    },
+    {
+      "pt": "o cinema",
+      "de": "Kino",
+      "en": "cinema",
+      "example": "Festival gratuito de cinema na Praia da Tocha",
+      "example_de": "Kostenloses Filmfestival am Praia da Tocha",
+      "example_en": "Free cinema festival at Praia da Tocha"
+    },
+    {
+      "pt": "a entrada",
+      "de": "Eintritt, Eingang",
+      "en": "entrance, admission",
+      "example": "O festival tem entrada gratuita",
+      "example_de": "Das Festival hat freien Eintritt",
+      "example_en": "The festival has free entrance"
+    }
   ]
 }
