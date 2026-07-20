@@ -1,0 +1,150 @@
+{
+  "date": "2026-07-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Tacho esquecido ao lume faz 5 feridos em Coimbra",
+          "text": "Um tacho esquecido ao lume provocou um incêndio numa habitação em Coimbra, resultando em cinco feridos. A situação mobilizou os bombeiros e demonstra o perigo de distrações na cozinha durante o verão."
+        },
+        {
+          "headline": "Trânsito condicionado na Ponte Açude no IC2 (\"umas duas semanitas\")",
+          "text": "A Infraestruturas de Portugal vai realizar trabalhos de conservação das juntas de dilatação na Ponte Açude, integrada no IC2, em Coimbra. O trânsito estará condicionado durante aproximadamente duas semanas."
+        },
+        {
+          "headline": "Taxa Turística: Vai pagar o dobro para dormir em Coimbra",
+          "text": "O Executivo Municipal vota na próxima reunião a proposta de atualização do valor da Taxa Municipal Turística, atualmente fixada em um euro por dormida, para dois euros. O valor proposto mantém-se abaixo da média nacional."
+        },
+        {
+          "headline": "Comprar casa em Coimbra: T2 já custa 230 mil euros",
+          "text": "Ganhar mais um quarto pode representar um investimento adicional de até 100 mil euros para quem procura comprar casa em Portugal. Em Coimbra, um T2 já custa 230 mil euros no mercado atual."
+        },
+        {
+          "headline": "SERÁ QUE A PEQUENA IKEA DE COIMBRA VAI TER ALMÔNDEGAS?",
+          "text": "A loja no Mondego Retail Park em Taveiro abre a 30 de julho. A pergunta que todos se fazem: terá almôndegas como as grandes lojas IKEA?"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & FESTIVAIS",
+      "stories": [
+        {
+          "headline": "Atenção: piratas à solta em Buarcos durante 5 dias. Arrr!",
+          "text": "Buarcos prepara-se para voltar a vestir a pele de uma vila de piratas, aventuras e fantasia. O XIV Festival Pirata de Buarcos realiza-se entre 22 e 26 de julho, junto às muralhas, no Jardim Dr. Frazão."
+        },
+        {
+          "headline": "Festival gratuito de cinema, música e vinho na Praia da Tocha",
+          "text": "A 9ª edição do Marmostra International Film Festival realiza-se entre 24 e 26 de julho, com entrada gratuita, e espera receber cerca de mil visitantes. O festival combina cinema, música e vinho na Praia da Tocha."
+        },
+        {
+          "headline": "A ÚLTIMA PROCISSÃO DO \"CARLITOS\"",
+          "text": "Uma das figuras mais queridas das procissões locais faz a sua última aparição, marcando o fim de uma era nas tradições religiosas da região."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Condutor em contramão acusado da morte de enfermeiro do INEM",
+          "text": "O condutor que circulava em contramão foi acusado da morte do enfermeiro do INEM no acidente. O caso está a decorrer nos tribunais."
+        },
+        {
+          "headline": "TVDE mudam de regras: Táxis vão poder entrar nas plataformas como Uber",
+          "text": "Os projetos-lei do PSD e do CDS-PP que resultam na revisão da legislação relativa ao regime jurídico dos TVDE foram aprovados na globalidade no parlamento, após meses de discussão. Os táxis vão poder entrar nas plataformas como Uber."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Portugal com máximos históricos de transplantes cardíacos e pulmonares em 2025",
+          "text": "Portugal registou em 2025 máximos históricos de transplantes cardíacos e pulmonares, anunciou a presidente da Sociedade Portuguesa da Transplantação, alertando que a escassez de órgãos representa um desafio."
+        },
+        {
+          "headline": "Nega acusações de atendimento indigno e desumano no Hospital de Portimão",
+          "text": "O hospital nega as acusações de atendimento indigno e desumano que foram apresentadas contra a instituição."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "AMBIENTE & CLIMA",
+      "stories": [
+        {
+          "headline": "Calor aperta e faz disparar perigo de incêndio em Portugal",
+          "text": "O calor aperta em Portugal e faz disparar o perigo de incêndio florestal em várias regiões do país. As autoridades mantêm-se em alerta."
+        },
+        {
+          "headline": "O seu ar condicionado pinga para a rua? Pode ter um grande problema",
+          "text": "O barulho repetitivo da água a cair do ar condicionado para a rua é um cenário frequente durante o verão. Embora possa parecer um incómodo sem importância, este problema já motivou conflitos entre vizinhos."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "FlixBus liga Sertã aos aeroportos do Porto e de Sevilha",
+          "text": "O concelho da Sertã passou a integrar uma nova rota internacional da FlixBus Portugal, que estabelece ligação entre os Aeroportos do Porto e de Sevilha, reforçando as opções de mobilidade disponíveis."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Revolta nas escolas com alunos a receberem provas trocadas",
+          "text": "Depois dos problemas registados na correção dos exames nacionais, surgiram novos constrangimentos que continuam a afetar o processo de avaliação. Alunos receberam provas trocadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Aguiar-Branco respondeu a 497 requerimentos de cidadãos desde o início do mandato",
+          "text": "O presidente da Assembleia da República respondeu a 497 requerimentos de cidadãos desde o início do seu mandato, demonstrando o compromisso com a participação cívica."
+        },
+        {
+          "headline": "ÁGATA RENDIDA AOS \"GATÕES\" DA POLÍCIA",
+          "text": "A cantora Ágata mostrou-se rendida aos agentes da Polícia de Segurança Pública e partilhou nas redes sociais uma fotografia ao lado de vários polícias na Praia da Rocha, em Portimão."
+        },
+        {
+          "headline": "CANTORA RECORDA O DIA EM QUE TUDO PODERIA TER TERMINADO",
+          "text": "A cantora recorda o dia em que tudo poderia ter terminado, revelando que foi buscar a arma do seu marido num momento de crise."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Trocar um apartamento por uma moradia pode custar mais 300 mil euros... ou ficar 165 mil euros mais barato",
+          "text": "Ganhar mais um quarto pode representar um investimento adicional de até 100 mil euros para quem procura comprar casa em Portugal, mas trocar de tipologia pode ter custos muito variáveis."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Número de mortos na Venezuela sobe para 5.208",
+          "text": "O número de mortos na Venezuela continua a subir, tendo já atingido os 5.208, segundo as últimas informações."
+        }
+      ]
+    }
+  ]
+}
