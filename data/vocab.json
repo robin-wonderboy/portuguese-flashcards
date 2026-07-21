@@ -21391,5 +21391,119 @@
       "example_de": "Das Festival hat freien Eintritt",
       "example_en": "The festival has free entrance"
     }
+  ],
+  "2026-07-21": [
+    {
+      "pt": "empoleirado",
+      "de": "oben drauf hängend",
+      "en": "perched (on top of something)",
+      "example": "O Tesla ficou empoleirado no separador central",
+      "example_de": "Der Tesla hing oben auf dem Mitteltrennstreifen",
+      "example_en": "The Tesla was perched on the central divider"
+    },
+    {
+      "pt": "o derrame",
+      "de": "der Austritt, das Verschütten",
+      "en": "spill / leak",
+      "example": "O IP3 está cortado devido a derrame de resina",
+      "example_de": "Die IP3 ist wegen eines Harz-Austritts gesperrt",
+      "example_en": "The IP3 is closed due to a resin spill"
+    },
+    {
+      "pt": "cortado",
+      "de": "gesperrt, unterbrochen",
+      "en": "cut off / closed (road)",
+      "example": "A estrada continua cortada nos dois sentidos",
+      "example_de": "Die Straße bleibt in beide Richtungen gesperrt",
+      "example_en": "The road remains closed in both directions"
+    },
+    {
+      "pt": "a resina",
+      "de": "das Harz",
+      "en": "resin",
+      "example": "Houve um derrame de resina em Penacova",
+      "example_de": "Es gab einen Harz-Austritt in Penacova",
+      "example_en": "There was a resin spill in Penacova"
+    },
+    {
+      "pt": "mantém",
+      "de": "behält bei, hält aufrecht",
+      "en": "maintains / keeps up",
+      "example": "O Rei Ghob mantém o silêncio",
+      "example_de": "Rei Ghob bleibt still",
+      "example_en": "Rei Ghob maintains his silence"
+    },
+    {
+      "pt": "recusá-las",
+      "de": "sie abzulehnen",
+      "en": "to refuse them",
+      "example": "A Justiça continua a recusá-las",
+      "example_de": "Die Justiz lehnt sie weiterhin ab",
+      "example_en": "Justice continues to refuse them"
+    },
+    {
+      "pt": "a frente ribeirinha",
+      "de": "die Uferpromenade",
+      "en": "the riverfront",
+      "example": "A frente ribeirinha vai ser requalificada",
+      "example_de": "Die Uferpromenade wird saniert",
+      "example_en": "The riverfront will be rehabilitated"
+    },
+    {
+      "pt": "junta",
+      "de": "bringt zusammen, versammelt",
+      "en": "brings together / gathers",
+      "example": "O programa junta seniores em Vila Nova de Poiares",
+      "example_de": "Das Programm bringt Senioren in Vila Nova de Poiares zusammen",
+      "example_en": "The program brings together seniors in Vila Nova de Poiares"
+    },
+    {
+      "pt": "decreta",
+      "de": "verfügt, erlässt",
+      "en": "decrees / declares",
+      "example": "O Peru decreta estado de emergência",
+      "example_de": "Peru verhängt den Notstand",
+      "example_en": "Peru decrees a state of emergency"
+    },
+    {
+      "pt": "atinge",
+      "de": "erreicht, trifft",
+      "en": "reaches / hits",
+      "example": "O perigo máximo de incêndio atinge 23 concelhos",
+      "example_de": "Die maximale Brandgefahr erreicht 23 Landkreise",
+      "example_en": "Maximum fire danger reaches 23 municipalities"
+    },
+    {
+      "pt": "absolvido",
+      "de": "freigesprochen",
+      "en": "acquitted / cleared",
+      "example": "Ricardo Salgado foi absolvido de alegada corrupção no Brasil",
+      "example_de": "Ricardo Salgado wurde von angeblicher Korruption in Brasilien freigesprochen",
+      "example_en": "Ricardo Salgado was acquitted of alleged corruption in Brazil"
+    },
+    {
+      "pt": "afiança",
+      "de": "versichert, bürgt für",
+      "en": "assures / guarantees",
+      "example": "A oposição afiança que a proposta é insuficientemente fundamentada",
+      "example_de": "Die Opposition versichert, dass der Antrag unzureichend begründet sei",
+      "example_en": "The opposition assures that the proposal is insufficiently grounded"
+    },
+    {
+      "pt": "a paragem obrigatória",
+      "de": "der Pflichtstopp",
+      "en": "must-stop / mandatory stop",
+      "example": "O verão ganha uma nova paragem obrigatória",
+      "example_de": "Der Sommer bekommt einen neuen Pflichtstopp",
+      "example_en": "Summer gets a new must-stop"
+    },
+    {
+      "pt": "a saída precária",
+      "de": "der befristete Freigang",
+      "en": "temporary prison leave",
+      "example": "Ele pede saídas precárias mas a Justiça recusa",
+      "example_de": "Er beantragt befristeten Freigang, aber die Justiz lehnt ab",
+      "example_en": "He requests temporary prison leave but Justice refuses"
+    }
   ]
 }
