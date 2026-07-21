@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Tesla fica \"empoleirado\" no separador central após despiste no IC2",
+          "text": "Um acidente invulgar ocorrido na segunda-feira no IC2, junto à Benedita, no concelho de Alcobaça, despertou a curiosidade nas redes sociais. O veículo ficou numa posição pouco habitual após o despiste, empoleirado no separador central da via."
+        },
+        {
+          "headline": "IP3 continua cortado nos dois sentidos em Penacova devido a derrame de resina",
+          "text": "A estrada IP3 mantém-se fechada ao trânsito em ambos os sentidos em Penacova devido a um derrame de resina. As autoridades recomendam percursos alternativos enquanto decorre a limpeza da via."
+        },
+        {
+          "headline": "Coimbra não quer carros perto do Papa. Praça João Paulo II será espaço de permanência",
+          "text": "A Câmara de Coimbra quer transformar a Praça João Paulo II num espaço de permanência, contemplação e encontro, afastando os carros da zona junto ao Papa. O projeto prevê uma requalificação urbana da área."
+        },
+        {
+          "headline": "\"Causam o caos\". Coimbra quer aplicar taxa a autocarros que chegam em excursões",
+          "text": "A autarquia de Coimbra quer estudar a aplicação de uma taxa aos autocarros de turismo que chegam em excursões, por causarem \"caos\" no trânsito da cidade. A medida visa regular a mobilidade turística no centro."
+        },
+        {
+          "headline": "Trânsito condicionado na Ponte Açude no IC2 em Coimbra",
+          "text": "O trânsito na Ponte Açude no IC2 em Coimbra está condicionado por \"umas duas semanitas\", devido a obras de manutenção na infraestrutura."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "\"Rei Ghob\" mantém o silêncio que tortura as famílias de Tânia, Ivo e Joana",
+          "text": "O homem conhecido como \"Rei Ghob\" continua a não revelar o paradeiro dos corpos de Tânia, Ivo e Joana. Tem pedido saídas precárias, mas a Justiça continua a recusá-las. As famílias aguardam respostas há anos."
+        },
+        {
+          "headline": "Mata Armanda Pinheiro por ciúmes. Homicida escreve carta de despedida",
+          "text": "O homicida de Armanda Pinheiro alegou que a vítima \"não o deixava em paz\" e que matou por ciúmes. Escreveu uma carta de despedida antes de ser detido, confessando os factos às autoridades."
+        },
+        {
+          "headline": "PJ deteve suspeito de atear fogo junto ao Parque das Camélias",
+          "text": "A Polícia Judiciária deteve um suspeito de ter ateado fogo junto ao Parque das Camélias, em Coimbra. O suspeito foi presenteado a tribunal para primeiro interrogatório."
+        },
+        {
+          "headline": "Ricardo Salgado e restantes arguidos absolvidos de alegada corrupção no Brasil",
+          "text": "Ricardo Salgado e os restantes arguidos foram absolvidos da alegada corrupção no Brasil. O tribunal considerou não haver prova suficiente para condenação."
+        },
+        {
+          "headline": "Nova droga das redes sociais vinha pelos correios e foi travada pela PJ",
+          "text": "A PJ interceptou uma nova droga popularizada nas redes sociais que entrava em Portugal via postal. A operação conseguiu travar a distribuição da substância antes de chegar aos consumidores."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Número de mortos na Venezuela já vai em 5.278",
+          "text": "O balanço de mortos na Venezuela continua a subir, com 121 portugueses entre as vítimas dos sismos. A comunidade internacional mantém-se atenta à crise humanitária no país."
+        },
+        {
+          "headline": "Peru decreta estado de emergência em zonas afetadas por sismo",
+          "text": "O Peru decretou estado de emergência nas zonas afetadas pelo sismo recente, permitindo mobilizar recursos para auxiliar as populações. As autoridades avaliam os danos materiais."
+        },
+        {
+          "headline": "Tempestade intensa no Chile faz 10 mortos e isola 100 mil pessoas",
+          "text": "Uma tempestade intensa no Chile provocou pelo menos 10 mortos e deixou cerca de 100 mil pessoas isoladas. As autoridades trabalham para restabelecer comunicações e vias de acesso."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Perigo máximo de incêndio atinge 23 concelhos",
+          "text": "O perigo máximo de incêndio florestal atinge 23 concelhos de Portugal continental. A Proteção Civil mantém vigilância redobrada e recomenda precações à população."
+        },
+        {
+          "headline": "Jovem sofre paragem cardiorrespiratoria durante corrida e morre",
+          "text": "Um jovem sofreu paragem cardiorrespiratória durante uma corrida e acabou por não resistir. O sucedido gerou alerta sobre a importância de avaliações médicas desportivas."
+        },
+        {
+          "headline": "Proteção Civil diz que greve da força especial não afeta atividade",
+          "text": "A Proteção Civil garante que a greve da força especial de combate a incêndios não afeta a atividade operacional. O sindicato critica a posição e alerta para riscos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Coimbra avança com requalificação de frente ribeirinha entre o Rebolim e a Ponte da Portela",
+          "text": "O projeto de requalificação da frente ribeirinha entre o Rebolim e a Ponte da Portela avança, com o objetivo de valorizar a zona junto ao rio Mondego e criar novos espaços de lazer."
+        },
+        {
+          "headline": "\"Aldeias com Vida\" junta seniores em Vila Nova de Poiares",
+          "text": "O programa \"Aldeias com Vida\" está a juntar seniores em Vila Nova de Poiares, promovendo o convívio e a vida ativa nas aldeias do interior."
+        },
+        {
+          "headline": "Chefe de Equipa de Intervenção Rápida da PSP de Coimbra \"atirado para um canto\"",
+          "text": "O chefe de equipa de intervenção rápida da PSP de Coimbra foi \"atirado para um canto\" num processo que gerou polémica interna. O caso suscitou críticas sobre a gestão dos recursos humanos."
+        },
+        {
+          "headline": "6 mil hectares dos 15 mil ardidos no início do mês são de Vouzela",
+          "text": "Dos 15 mil hectares ardidos no início do mês, 6 mil são do concelho de Vouzela. Os incêndios afetaram severamente a região, com prejuízos significativos para a floresta e agricultura."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra e Critical FlyTech estabelecem parceria aeroespacial",
+          "text": "A Universidade de Coimbra e a Critical FlyTech estabeleceram uma parceria para reforçar a formação e inovação no setor aeroespacial, unindo academia e empresa."
+        },
+        {
+          "headline": "2ª fase dos exames começa esta terça-feira com incerteza dos alunos sobre notas",
+          "text": "A segunda fase dos exames nacionais arranca nesta terça-feira com incerteza dos alunos sobre as notas da primeira fase, após vários problemas reportados na avaliação."
+        },
+        {
+          "headline": "Eptoliva vai salvar ITAP",
+          "text": "A empresa Eptoliva vai salvar o ITAP (Instituto Técnico de Administração e Política), garantindo a continuidade da instituição de formação em Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "AliExpress vai recorrer da \"desproporcionada\" multa europeia de 550 milhões",
+          "text": "O AliExpress vai recorrer da multa de 550 milhões de euros aplicada pela União Europeia, classificando a penalização como \"desproporcionada\". O caso envolve alegadas violações de segurança de produtos."
+        },
+        {
+          "headline": "Há ainda 1.241 freguesias sem ponto de acesso a dinheiro vivo",
+          "text": "Cerca de 1.241 freguesias em Portugal ainda não têm qualquer ponto de acesso a dinheiro vivo, revelando a dificuldade de acesso a serviços bancários nas zonas rurais."
+        },
+        {
+          "headline": "Primark está a reduzir os preços de centenas dos seus artigos mais vendidos",
+          "text": "A Primark anunciou a redução de preços de centenas dos seus artigos mais vendidos, numa estratégia para atrair mais consumidores num período de verão."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Nem São Tomé vai resistir a um pezinho de dança em Mira",
+          "text": "O São Tomé 2026 promete animação em Mira com música e dança. O evento cultural atrai visitantes e promove as tradições locais da região."
+        },
+        {
+          "headline": "Há um novo telefilme português sobre maldições, lendas e mortes misteriosas",
+          "text": "Estreia um novo telefilme português que mistura maldições, lendas e mortes misteriosas, inspirado em tradições do imaginário popular português."
+        },
+        {
+          "headline": "Guarda vai candidatar-se a Capital Portuguesa da Cultura em 2028",
+          "text": "A cidade da Guarda vai candidatar-se a Capital Portuguesa da Cultura em 2028, apresentando um conjunto de projetos culturais para valorizar a região."
+        }
+      ]
+    }
+  ]
+}
