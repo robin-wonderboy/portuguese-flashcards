@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "METEO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Tempo louco! Coimbra sob ameaça de chuva em pleno verão",
+          "text": "Depois de vários dias marcados por temperaturas elevadas, o estado do tempo deverá sofrer uma mudança temporária a partir de sexta-feira. A aproximação de uma depressão em altitude poderá trazer aguaceiros ao litoral Norte e Centro, com uma massa de ar mais fresco a contribuir para a descida das temperaturas."
+        },
+        {
+          "headline": "Calor aperta e risco de fogo dispara",
+          "text": "Cerca de 50 concelhos do interior dos distritos de Vila Real, Viseu, Bragança, Guarda, Santarém, Portalegre, Castelo Branco e Faro estão hoje em perigo máximo de incêndio rural, segundo o IPMA. Mais de 70 concelhos adicionais encontram-se em perigo muito elevado."
+        },
+        {
+          "headline": "Sismo de 3,6 \"agita\" Évora. Sentiu?",
+          "text": "Um sismo de magnitude 3,6 na escala de Richter foi sentido no concelho de Évora, sem causar danos pessoais ou materiais. O epicentro ficou a cerca de 10 quilómetros a sul-sudeste de Évora, registado à 01:22."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "UNIVERSIDADE & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra diz que edifício da República das Marias do Loureiro não reunia condições de habitabilidade",
+          "text": "A UC garante que a decisão de denunciar o contrato de arrendamento foi tomada por razões de segurança, após uma vistoria técnica ter concluído que o edifício não reunia condições de habitabilidade. A República denunciou uma tentativa de despejo e acusa a Universidade de atuar sem apresentar alternativas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "REGIÃO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Banho de resina em praias do Mondego. Não cola!",
+          "text": "Os banhos em praias fluviais de Coimbra e Penacova estão temporariamente desaconselhados devido ao derrame de resina no IP3, estrada que continua cortada nos dois sentidos sem previsão de reabertura. As praias do Reconquinho, Rebolim, Palheiros e Zorro estão afetadas."
+        },
+        {
+          "headline": "ERSUC \"lixa\" Condeixa?",
+          "text": "O Município de Condeixa-a-Nova manifesta preocupação e desagrado relativamente às sucessivas falhas na recolha de resíduos pela ERSUC, que têm provocado acumulação de lixo junto de ecopontos do concelho. A autarquia refere que o serviço aquém do devido causa constrangimentos aos moradores."
+        },
+        {
+          "headline": "\"O lixo não mora\" na Figueira da Foz: Câmara deixa aviso e pede mudança de comportamentos",
+          "text": "A Câmara Municipal da Figueira da Foz lançou um apelo à população para travar o abandono de resíduos na via pública, alertando para o impacto ambiental, financeiro e de saúde pública provocado por este tipo de comportamentos."
+        },
+        {
+          "headline": "Coimbra abre as portas de um novo bairro. As primeiras famílias já receberam as chaves",
+          "text": "As primeiras 56 famílias assinaram os contratos de arrendamento da Quinta das Bicas, em Taveiro. Até agosto serão realojadas 128 famílias neste empreendimento financiado pelo PRR, com 268 habitações a custos controlados e investimento superior a 36 milhões de euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Papamóvel em Coimbra",
+          "text": "A Câmara de Coimbra aprovou por unanimidade o anteprojeto de requalificação da praça João Paulo II, numa empreitada de três milhões de euros que pretende reduzir o espaço dominado pelo carro. A Rotunda do Papa passará a ser um espaço de permanência, contemplação e encontro."
+        },
+        {
+          "headline": "\"Causam o caos\". Coimbra quer estudar taxa a autocarros que chegam em excursões",
+          "text": "A presidente da Câmara de Coimbra defendeu a atualização da taxa turística de um para dois euros e a criação de uma taxa para autocarros que chegam em excursões, argumentando que muitos turistas têm custos para a cidade sem pagar taxa turística."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Chantageia o próprio avô em milhares de euros com segredos íntimos",
+          "text": "Um homem recorreu à PJ de Braga depois de receber mensagens ameaçadoras de um desconhecido que afirmava conhecer detalhes comprometedores da sua vida íntima. O suspeito exigia dezenas de milhares de euros para não divulgar a informação."
+        },
+        {
+          "headline": "Ataca colega à facada e acaba apanhado pela PJ meses depois na Alemanha",
+          "text": ""
+        },
+        {
+          "headline": "Atraídos pelo dinheiro: Ex-sogros viajam do Brasil para Portugal para estrangular empreiteiro",
+          "text": ""
+        },
+        {
+          "headline": "Menino esfaqueia o pai para salvar a mãe de agressões",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Não há desculpas: EXPOH começa em Oliveira do Hospital",
+          "text": ""
+        },
+        {
+          "headline": "Festival gratuito na Pampilhosa da Serra com música e danças de sete países",
+          "text": "O Raízes Folk Fest volta a unir sete municípios do interior numa celebração da diversidade cultural, com grupos oriundos do Brasil, Colômbia, Quénia, Indonésia, Geórgia, Hungria e Portugal. Pampilhosa da Serra recebe o espetáculo no dia 10 de agosto, com entrada gratuita."
+        },
+        {
+          "headline": "São Tomé volta para resolver os seus planos até domingo. Vamos à festa em Mira?",
+          "text": ""
+        },
+        {
+          "headline": "Já há programa do Rock No Rio Febras",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🗺️",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Viseu: Antigo edifício do Serviço da Luta Anti-Tuberculosa renascerá como espaço de fruição pública",
+          "text": "O antigo edifício do SLAT passou para a posse do Município de Viseu através de um acordo com a ESTAMO. A cerimónia foi presidida pelo ministro Miguel Pinto Luz e incluiu 18 acordos com 16 municípios."
+        },
+        {
+          "headline": "Proteção Civil e Guardiões da Floresta levam prevenção às freguesias de Castelo Branco",
+          "text": "O Serviço Municipal de Proteção Civil de Castelo Branco continua uma campanha de proximidade para capacitar a população perante incêndios rurais, em conjunto com voluntários do projeto Guardiões da Floresta."
+        },
+        {
+          "headline": "Autarca diz que Alvaiázere está numa situação insustentável em matéria de comunicações",
+          "text": "O presidente da Câmara de Alvaiázere, João Paulo Guerreiro, diz que o concelho está numa situação insustentável quase seis meses após a depressão Kristin ter atingido gravemente o território, afetando as telecomunicações."
+        }
+      ]
+    }
+  ]
+}
