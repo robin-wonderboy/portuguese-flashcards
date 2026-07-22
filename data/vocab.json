@@ -21505,5 +21505,119 @@
       "example_de": "Er beantragt befristeten Freigang, aber die Justiz lehnt ab",
       "example_en": "He requests temporary prison leave but Justice refuses"
     }
+  ],
+  "2026-07-22": [
+    {
+      "pt": "a ameaça",
+      "de": "die Bedrohung",
+      "en": "the threat",
+      "example": "Coimbra sob ameaça de chuva",
+      "example_de": "Coimbra unter Bedrohung durch Regen",
+      "example_en": "Coimbra under threat of rain"
+    },
+    {
+      "pt": "habitável",
+      "de": "bewohnbar",
+      "en": "habitable",
+      "example": "Não reunia condições de habitabilidade",
+      "example_de": "Erfüllte nicht die Bewohnbarkeitsbedingungen",
+      "example_en": "Did not meet habitability conditions"
+    },
+    {
+      "pt": "desaconselhar",
+      "de": "abraten",
+      "en": "to advise against",
+      "example": "Os banhos estão desaconselhados",
+      "example_de": "Vom Baden wird abgeraten",
+      "example_en": "Swimming is advised against"
+    },
+    {
+      "pt": "estrangular",
+      "de": "erdrosseln",
+      "en": "to strangle",
+      "example": "Viajam para estrangular empreiteiro",
+      "example_de": "Reisen um den Bauunternehmer zu erdrosseln",
+      "example_en": "Travel to strangle the contractor"
+    },
+    {
+      "pt": "a recolha",
+      "de": "die Abholung",
+      "en": "the collection",
+      "example": "Falhas na recolha de resíduos",
+      "example_de": "Fehler bei der Abfallabholung",
+      "example_en": "Failures in waste collection"
+    },
+    {
+      "pt": "a excursão",
+      "de": "der Ausflug",
+      "en": "the excursion/trip",
+      "example": "Autocarros que chegam em excursões",
+      "example_de": "Busse die auf Ausflügen ankommen",
+      "example_en": "Buses arriving on excursions"
+    },
+    {
+      "pt": "a fruição",
+      "de": "die Nutzung/Genuss",
+      "en": "the enjoyment/use",
+      "example": "Espaço de fruição pública",
+      "example_de": "Öffentlicher Nutzungsraum",
+      "example_en": "Public enjoyment space"
+    },
+    {
+      "pt": "renascer",
+      "de": "wieder­entstehen",
+      "en": "to be reborn",
+      "example": "O edifício renascerá",
+      "example_de": "Das Gebäude wird wiederentstehen",
+      "example_en": "The building will be reborn"
+    },
+    {
+      "pt": "insustentável",
+      "de": "unhaltbar",
+      "en": "unsustainable",
+      "example": "Situação insustentável",
+      "example_de": "Unhaltbare Situation",
+      "example_en": "Unsustainable situation"
+    },
+    {
+      "pt": "a contemplação",
+      "de": "die Betrachtung",
+      "en": "contemplation",
+      "example": "Um espaço de permanência e contemplação",
+      "example_de": "Ein Raum des Verweilens und der Betrachtung",
+      "example_en": "A space of permanence and contemplation"
+    },
+    {
+      "pt": "oriundo",
+      "de": "stammend",
+      "en": "originating from",
+      "example": "Grupos oriundos do Brasil",
+      "example_de": "Gruppen aus Brasilien stammend",
+      "example_en": "Groups originating from Brazil"
+    },
+    {
+      "pt": "o anteprojeto",
+      "de": "der Vorentwurf",
+      "en": "the preliminary project",
+      "example": "A Câmara aprovou o anteprojeto",
+      "example_de": "Die Gemeinde genehmigte den Vorentwurf",
+      "example_en": "The municipality approved the preliminary project"
+    },
+    {
+      "pt": "a realojada",
+      "de": "die umgesiedelte Person",
+      "en": "the rehoused person",
+      "example": "128 famílias serão realojadas",
+      "example_de": "128 Familien werden umgesiedelt",
+      "example_en": "128 families will be rehoused"
+    },
+    {
+      "pt": "o ecoponto",
+      "de": "der Recyclingpunkt",
+      "en": "the recycling point",
+      "example": "Acumulação de lixo junto dos ecopontos",
+      "example_de": "Müllansammlung an den Recyclingpunkten",
+      "example_en": "Waste accumulation at recycling points"
+    }
   ]
 }
