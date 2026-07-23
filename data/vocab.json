@@ -21619,5 +21619,119 @@
       "example_de": "Müllansammlung an den Recyclingpunkten",
       "example_en": "Waste accumulation at recycling points"
     }
+  ],
+  "2026-07-23": [
+    {
+      "pt": "o desaconselhamento",
+      "de": "die Abratung",
+      "en": "the advising against",
+      "example": "o desaconselhamento de banhos nas praias fluviais",
+      "example_de": "die Abratung vom Baden an den Flussstraenden",
+      "example_en": "the advising against swimming at river beaches"
+    },
+    {
+      "pt": "unanime",
+      "de": "einstimmig",
+      "en": "unanimous",
+      "example": "a camara aprovou por unanimidade",
+      "example_de": "die Stadtverwaltung stimmte einstimmig ab",
+      "example_en": "the city council approved unanimously"
+    },
+    {
+      "pt": "contemplar",
+      "de": "betrachten, innehalten",
+      "en": "to contemplate",
+      "example": "um espaco de contemplacao e encontro",
+      "example_de": "ein Ort der Kontemplation und Begegnung",
+      "example_en": "a space of contemplation and meeting"
+    },
+    {
+      "pt": "prolongado",
+      "de": "langwierig, andauernd",
+      "en": "prolonged, extended",
+      "example": "vitima de doenca prolongada",
+      "example_de": "Opfer einer langwierigen Krankheit",
+      "example_en": "victim of a prolonged illness"
+    },
+    {
+      "pt": "a pena",
+      "de": "die Strafe",
+      "en": "the sentence, the penalty",
+      "example": "quer cumprir o resto da pena em Portugal",
+      "example_de": "will den Rest der Strafe in Portugal verbuessen",
+      "example_en": "wants to serve the rest of the sentence in Portugal"
+    },
+    {
+      "pt": "perpetuo",
+      "de": "lebenslaenglich",
+      "en": "perpetual, life",
+      "example": "condenado a prisao perpetua",
+      "example_de": "zu lebenslanger Haft verurteilt",
+      "example_en": "sentenced to life imprisonment"
+    },
+    {
+      "pt": "desafetar",
+      "de": "umwidmen, freistellen",
+      "en": "to declassify, to reallocate",
+      "example": "pedidos de desafetacao das salas de cinema",
+      "example_de": "Antraege auf Umwidmung der Kinosaale",
+      "example_en": "requests for declassification of cinema rooms"
+    },
+    {
+      "pt": "impreterivelmente",
+      "de": "unausweichlich, zwingend",
+      "en": "unfailingly, mandatorily",
+      "example": "uma decisao impreterivelmente ate novembro",
+      "example_de": "eine zwingend bis November zu treffende Entscheidung",
+      "example_en": "a decision mandatorily by November"
+    },
+    {
+      "pt": "orçar",
+      "de": "budgetieren, veranschlagen",
+      "en": "to budget, to estimate",
+      "example": "uma empreitada orcada em tres milhoes de euros",
+      "example_de": "ein Bauauftrag mit einem Budget von drei Millionen Euro",
+      "example_en": "a construction contract budgeted at three million euros"
+    },
+    {
+      "pt": "a renda",
+      "de": "die Miete",
+      "en": "the rent",
+      "example": "precos abusivos e loucos de rendas contestados",
+      "example_de": "missbraeuchliche und verrueckte Mieten kritisiert",
+      "example_en": "abusive and crazy rents criticized"
+    },
+    {
+      "pt": "o morador",
+      "de": "der Bewohner",
+      "en": "the resident",
+      "example": "o morador viu finalmente concretizado um sonho",
+      "example_de": "der Bewohner sah endlich einen Traum erfuellt",
+      "example_en": "the resident finally saw a dream come true"
+    },
+    {
+      "pt": "concretizar",
+      "de": "verwirklichen, umsetzen",
+      "en": "to realize, to materialize",
+      "example": "o morador viu finalmente concretizado um sonho",
+      "example_de": "der Bewohner sah endlich einen Traum verwirklicht",
+      "example_en": "the resident finally saw a dream realized"
+    },
+    {
+      "pt": "neurotrofico",
+      "de": "neurotrophiisch",
+      "en": "neurotrophic",
+      "example": "o fator neurotrofico derivado do cerebro",
+      "example_de": "der vom Gehirn abgeleitete neurotrophe Faktor",
+      "example_en": "the brain-derived neurotrophic factor"
+    },
+    {
+      "pt": "o ruivo",
+      "de": "der Roetzel",
+      "en": "the redhead",
+      "example": "a camisola de Vozinha",
+      "example_de": "das Trikot von Vozinha",
+      "example_en": "Vozinha jersey"
+    }
   ]
 }
