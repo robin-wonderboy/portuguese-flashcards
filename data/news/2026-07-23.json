@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Praia fluvial sem desaconselhamento de banhos após derrame de resina no IP3",
+          "text": "O desaconselhamento de banhos em praias fluviais de Coimbra e Penacova, determinado na terça-feira após um derrame de resina no IP3, foi levantado após análises à água. As praias do Reconquinho, Rebolim e Palheiros e Zorro voltam a estar disponíveis para banhos."
+        },
+        {
+          "headline": "Coimbra quer aplicar taxa a autocarros de excursões que causam caos",
+          "text": "A presidente da Câmara defendeu a atualização da taxa turística de um para dois euros e propôs estudar uma forma de aplicar taxa aos autocarros que chegam em excursões. Ana Abrunhosa afirmou que muitos turistas têm custos para a cidade sem pagarem taxa turística."
+        },
+        {
+          "headline": "Praça João Paulo II será transformada em espaço sem carros para visita do Papa",
+          "text": "A Câmara aprovou por unanimidade o anteprojeto de requalificação da praça, numa empreitada orçada em três milhões de euros. O projeto reduz o espaço dominado pelo automóvel e cria zonas de permanência, contemplação e encontro."
+        },
+        {
+          "headline": "Universidade de Coimbra defende despejo da República Baco por razões de segurança",
+          "text": "A UC garante que a decisão de denunciar o contrato de arrendamento resulta de razões de segurança sustentadas por um relatório técnico e avaliação da Proteção Civil, rejeitando que o objetivo seja acabar com as casas estudantis."
+        },
+        {
+          "headline": "Câmara de Coimbra tem novo vereador: Paulo Cardoso toma posse",
+          "text": "As férias do vereador Luís Filipe obrigaram mudanças na bancada do executivo. A escolha recaiu no antigo presidente da Junta de Freguesia de Torres do Mondego, Paulo Cardoso, que tomou posse na última reunião."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Coimbra fica sem casas para arrendar: oferta cai 58% num ano",
+          "text": "O stock de habitação disponível para arrendar em Portugal desceu 22% no segundo trimestre de 2026. Em Coimbra, a quebra foi ainda mais acentuada, com a oferta a cair 58% face ao ano anterior, segundo dados do idealista."
+        },
+        {
+          "headline": "Comprar casa em Coimbra: T2 já custa 230 mil euros",
+          "text": "Ganhar mais um quarto pode representar um investimento adicional de até 100 mil euros para quem procura comprar casa em Portugal. Os preços continuam em alta na região Centro."
+        },
+        {
+          "headline": "Fim do pesadelo para Joaquim Lamas: novas chaves na Quinta das Bicas",
+          "text": "Aos 65 anos e após três AVCs, Joaquim Lemos recebeu as chaves do novo apartamento em Taveiro após seis anos de espera. O morador chamou-lhe um sonho concretizado. A Câmara entregou as primeiras 56 chaves a famílias da Quinta das Bicas."
+        },
+        {
+          "headline": "Cabaz alimentar tem maior descida do ano e custa 251,29 euros",
+          "text": "O cabaz de 63 bens essenciais monitorizado pela Deco Proteste caiu 5,17 euros na última semana, a maior descida desde o início do ano, fixando-se nos 251,29 euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "AMBIENTE & CLIMA",
+      "stories": [
+        {
+          "headline": "Calor coloca dezenas de concelhos em alerta máximo de incêndio",
+          "text": "Cerca de 50 concelhos do interior, nos distritos de Vila Real, Viseu, Bragança, Guarda, Coimbra, Santarém, Portalegre, Castelo Branco e Faro, estão em perigo máximo de incêndio rural, segundo o IPMA. Outros 70 concelhos estão em perigo muito elevado."
+        },
+        {
+          "headline": "Ruído do trânsito associado a aumento de casos de Parkinson",
+          "text": "Um novo estudo sugere que a exposição prolongada ao ruído rodoviário poderá estar associada a um aumento do risco de desenvolver doença de Parkinson. Uma zona mais silenciosa dentro da habitação poderá funcionar como fator de proteção."
+        },
+        {
+          "headline": "Uma única ponta de cigarro contamina 1000 litros de água",
+          "text": "Estudo sublinha o impacto ambiental dos restos de cigarro, que liberam substâncias tóxicas e contaminam recursos hídricos em larga escala."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA & UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra descobre mecanismo que pode ajudar a travar a epilepsia",
+          "text": "Investigadores da UC identificaram mecanismos moleculares que explicam como a proteína BDNF contribui para o desenvolvimento da epilepsia. Os resultados foram publicados na revista Brain e abrem caminho a novas terapias."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & ENTRETENIMENTO",
+      "stories": [
+        {
+          "headline": "Morreu Luís Represas, cantor dos Trovante, aos 69 anos",
+          "text": "O cantor faleceu vítima de doença prolongada. Comemoraria este ano 50 anos de carreira, divididos entre os Trovante e a carreira a solo. Em março atuou com a banda no MEO Arena em Lisboa e no Pavilhão Rosa Mota no Porto."
+        },
+        {
+          "headline": "Alma Shopping: Governo decide até novembro sobre salas de cinema",
+          "text": "Os pedidos de desafetação de salas de cinema pendentes desde 2023 vão ter decisão impreterivelmente até novembro. O Governo estuda instrumentos financeiros para que as salas mantenham o perfil cultural."
+        },
+        {
+          "headline": "EXPOH abre portas em Oliveira do Hospital",
+          "text": "O certame reúne empresas, instituições, associações e produtores da região, afirmando-se como montra do dinamismo económico e social do concelho. Inclui cinco dias de música, gastronomia e convívio."
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "category": "INFRAESTRUTURAS & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Novo Aeroporto Luís de Camões custará entre 7,9 e 8,9 mil milhões de euros",
+          "text": "O novo aeroporto deverá abrir a partir de 2037, com construção a começar em 2029 e conclusão prevista até 2033. O investimento atualiza a estimativa anterior da ANA de 8,5 mil milhões de euros."
+        },
+        {
+          "headline": "Governo assina dez contratos-programa para 14 milhões na região Centro",
+          "text": "O ministro Castro Almeida anunciou investimentos estruturantes em municípios da região Centro, com comparticipação pública para projetos de valor elegível global de cerca de 14 milhões de euros."
+        },
+        {
+          "headline": "TVDE muda de regras: táxis podem entrar nas plataformas como Uber",
+          "text": "Os projetos-lei do PSD e CDS-PP que revêem o regime jurídico dos TVDE foram aprovados na globalidade no parlamento, após meses de discussão e audições na especialidade."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Antigo militar do Exército mata colega com 3 tiros e quer cumprir pena em Portugal",
+          "text": "Paulo Alexandre Nascimento, condenado a prisão perpétua na Irlanda por homicídio, recorreu para o Supremo Tribunal irlandês após a Comissão de Liberdade Condicional recusar novamente a transferência da pena para Portugal."
+        }
+      ]
+    }
+  ]
+}
