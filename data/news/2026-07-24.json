@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Coimbra fica sem casas para arrendar: oferta cai 58% num ano",
+          "text": "O stock de habitação disponível para arrendar em Portugal desceu 22% no segundo trimestre de 2026. Em Coimbra, a queda foi ainda mais acentuada, com a oferta a registar uma descida de 58% face ao ano anterior, tornando a cidade cada vez mais cara para estudantes e trabalhadores."
+        },
+        {
+          "headline": "Movimento pinta mural em Coimbra para \"dar voz aos problemas da habitação\"",
+          "text": "Cerca de uma dezena de jovens do movimento Porta a Porta - Casa para Todos pintaram um mural em Coimbra para denunciar a crise de habitação. \"As paredes das cidades não têm que ser mudas\", afirmaram os participantes, que querem chamar a atenção para os problemas que afetam trabalhadores e estudantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTAS",
+      "stories": [
+        {
+          "headline": "Condeixa está em festa: há concertos, tasquinhas, gladiadores e uma feira para visitar",
+          "text": "As Festas de Santa Cristina arrancaram nesta quinta-feira, 23 de julho, em Condeixa-a-Nova, com um novo recinto mais amplo junto à Escola Secundária Fernando Namora. A edição deste ano promete concertos, tasquinhas, atividades com gladiadores e uma feira pensada para garantir maior conforto e acessibilidade aos visitantes."
+        },
+        {
+          "headline": "Sushi sai do restaurante e vai diretamente para as Festas de Santa Cristina",
+          "text": "Um restaurante de Condeixa levou o sushi para as Festas de Santa Cristina, criando um novo \"vício\" entre os visitantes. A iniciativa une a tradição das tasquinhas com a cozinha japonesa, numa aposta inovadora que está a fazer sucesso."
+        },
+        {
+          "headline": "Porto de Mós homenageia calceteiros e reforça candidatura da Calçada Portuguesa à UNESCO",
+          "text": "O município de Porto de Mós assinalou o Dia Nacional do Calceteiro e da Calçada Portuguesa com uma cerimónia de homenagem aos profissionais que preservam este ofício secular. Foi apresentado um mural de arte urbana do artista Escória, reforçando a candidatura da Calçada Portuguesa a património da UNESCO."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "SOCIEDADE & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "GNR alerta: há quase 4 furtos de peças de automóveis por dia",
+          "text": "A GNR registou um aumento de 19% no furto de componentes automóveis no primeiro semestre de 2026, com uma média de quase quatro ocorrências diárias em todo o país. O alvo principal são os catalisadores, de onde é extraída platina para venda como metal precioso."
+        },
+        {
+          "headline": "Menino de 3 anos morre após cair de prédio na Maia",
+          "text": "Uma criança de 3 anos morreu após cair do segundo andar de um prédio na Maia, numa queda de cerca de seis metros. O alerta foi dado às 18:12, mobilizando de imediato os meios de socorro, mas não foi possível evitar a morte."
+        },
+        {
+          "headline": "Comunidade médica em choque após morte de duas médicas em Espanha",
+          "text": "As médicas portuguesas Teresa Pinheiro e Rita Rebelo morreram num acidente rodoviário em Formentera, Espanha. O Conselho Nacional do Médico Interno manifestou profundo pesar e o governo vai apoiar a transladação dos corpos. A comunidade médica portuguesa está de luto."
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "category": "INFRAESTRUTURAS & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Como será o novo aeroporto Luís de Camões?",
+          "text": "O novo aeroporto terá duas pistas, capacidade para 56 milhões de passageiros e um 'shuttle' direto do Oriente com viagens de 20 minutos a cada meia hora. A ANA apresentou o sumário executivo do relatório técnico, abrangendo dimensão, construção, acessibilidades, calendário e financiamento da infraestrutura."
+        },
+        {
+          "headline": "Vendas de automóveis novos na UE aumentam 5,7%",
+          "text": "As vendas de automóveis novos na União Europeia aumentaram 5,7% até junho face a 2025, com Portugal a crescer 10,5%. Foram matriculados 5,89 milhões de veículos no primeiro semestre, apesar dos ventos contrários que pesam sobre o setor."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "AMBIENTE & INTERNACIONAL",
+      "stories": [
+        {
+          "headline": "França recebe meios aéreos incluindo de Portugal para combater fogos",
+          "text": "A França ativou o mecanismo de proteção civil da União Europeia e vai receber reforços aéreos para combater incêndios, incluindo dois aviões Air Tractor portugueses e helicópteros da República Checa. O Presidente Emmanuel Macron anunciou os reforços na quinta-feira à noite."
+        },
+        {
+          "headline": "Borra de café pode tornar-se matéria-prima para biocombustível",
+          "text": "Um novo estudo revela que a borra de café pode ser transformada em matéria-prima para a produção de biocombustível, numa solução que junta sustentabilidade e inovação. A iniciativa acelera a transição para energias alternativas."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO & SAÚDE",
+      "stories": [
+        {
+          "headline": "Termina esta sexta-feira a 2ª fase dos exames nacionais",
+          "text": "A segunda fase dos exames nacionais termina hoje com as provas de Desenho A, Física e Química A e Geografia, seguidas de Inglês. Os alunos do ensino secundário terão ainda uma época especial em setembro devido aos problemas na classificação da primeira fase."
+        },
+        {
+          "headline": "Campanha nacional alerta para a importância do diagnóstico das Hepatites Virais",
+          "text": "Uma campanha nacional está a alertar os portugueses para a importância do diagnóstico precoce das hepatites virais, uma doença silenciosa que afeta milhares de pessoas em Portugal sem que estas o saibam."
+        }
+      ]
+    }
+  ]
+}
