@@ -21733,5 +21733,87 @@
       "example_de": "das Trikot von Vozinha",
       "example_en": "Vozinha jersey"
     }
+  ],
+  "2026-07-24": [
+    {
+      "pt": "o calceteiro",
+      "de": "Pflasterer",
+      "en": "cobblestone paver",
+      "example": "Homenageia os calceteiros",
+      "example_de": "Er ehrt die Pflasterer",
+      "example_en": "He honors the cobblestone pavers"
+    },
+    {
+      "pt": "chumbo",
+      "de": "Blei",
+      "en": "lead (metal)",
+      "example": "A borracha de café pode ser matéria-prima",
+      "example_de": "Kaffeesatz kann Rohstoff sein",
+      "example_en": "Coffee grounds can be raw material"
+    },
+    {
+      "pt": "transladação",
+      "de": "Überführung",
+      "en": "transfer (of bodies)",
+      "example": "A transladação dos corpos",
+      "example_de": "Die Überführung der Leichen",
+      "example_en": "The transfer of the bodies"
+    },
+    {
+      "pt": "o stock",
+      "de": "Bestand",
+      "en": "stock, supply",
+      "example": "O stock de habitação desceu",
+      "example_de": "Der Wohnungsbestand sank",
+      "example_en": "The housing stock dropped"
+    },
+    {
+      "pt": "pintar",
+      "de": "malen",
+      "en": "to paint",
+      "example": "Pintaram um mural em Coimbra",
+      "example_de": "Sie malten ein Wandbild in Coimbra",
+      "example_en": "They painted a mural in Coimbra"
+    },
+    {
+      "pt": "mudo",
+      "de": "stumm",
+      "en": "mute, silent",
+      "example": "As paredes não têm que ser mudas",
+      "example_de": "Die Wände müssen nicht stumm sein",
+      "example_en": "The walls don't have to be mute"
+    },
+    {
+      "pt": "o ofício",
+      "de": "Beruf, Handwerk",
+      "en": "trade, craft",
+      "example": "Os que preservam este ofício secular",
+      "example_de": "Die dieses alte Handwerk bewahren",
+      "example_en": "Those who preserve this ancient trade"
+    },
+    {
+      "pt": "a calçada",
+      "de": "Pflaster, Gehweg",
+      "en": "cobblestone pavement",
+      "example": "A Calçada Portuguesa à UNESCO",
+      "example_de": "Das portugiesische Pflaster zur UNESCO",
+      "example_en": "Portuguese cobblestone pavement to UNESCO"
+    },
+    {
+      "pt": "o diagnóstico",
+      "de": "Diagnose",
+      "en": "diagnosis",
+      "example": "A importância do diagnóstico",
+      "example_de": "Die Wichtigkeit der Diagnose",
+      "example_en": "The importance of diagnosis"
+    },
+    {
+      "pt": "o veículo",
+      "de": "Fahrzeug",
+      "en": "vehicle",
+      "example": "Vendas de veículos novos",
+      "example_de": "Verkauf von Neufahrzeugen",
+      "example_en": "Sales of new vehicles"
+    }
   ]
 }
