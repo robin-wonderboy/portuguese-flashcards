@@ -21815,5 +21815,111 @@
       "example_de": "Verkauf von Neufahrzeugen",
       "example_en": "Sales of new vehicles"
     }
+  ],
+  "2026-07-25": [
+    {
+      "pt": "o ensaio",
+      "de": "die Probe, der Test",
+      "en": "the rehearsal, the test",
+      "example": "Vamos ter ensaios dinâmicos com veículos Metrobus",
+      "example_de": "Wir werden dynamische Tests mit Metrobus-Fahrzeugen haben",
+      "example_en": "We will have dynamic tests with Metrobus vehicles"
+    },
+    {
+      "pt": "manifestar-se",
+      "de": "demonstrieren, sich äußern",
+      "en": "to protest, to manifest",
+      "example": "Mais de uma centena de alunos estavam a manifestar-se",
+      "example_de": "Mehr als hundert Schüler protestierten",
+      "example_en": "More than a hundred students were protesting"
+    },
+    {
+      "pt": "chumbado",
+      "de": "durchgefallen, gescheitert",
+      "en": "failed, flunked",
+      "example": "Ministro chumbado",
+      "example_de": "Minister durchgefallen",
+      "example_en": "Minister failed"
+    },
+    {
+      "pt": "envelhecer",
+      "de": "altern",
+      "en": "to age, to grow old",
+      "example": "Envelhecer com dignidade continua a depender da capacidade financeira",
+      "example_de": "Mit Würde altern hängt weiterhin von der finanziellen Kapazität ab",
+      "example_en": "Aging with dignity still depends on financial capacity"
+    },
+    {
+      "pt": "a aquisição",
+      "de": "die Übernahme, der Erwerb",
+      "en": "the acquisition",
+      "example": "Num processo de aquisição que acontecerá de forma gradual",
+      "example_de": "In einem Übernahmeprozess, der schrittweise erfolgen wird",
+      "example_en": "In an acquisition process that will happen gradually"
+    },
+    {
+      "pt": "o rocket",
+      "de": "die Rakete",
+      "en": "the rocket",
+      "example": "Uma série de testes de lançamento de rockets",
+      "example_de": "Eine Reihe von Raketenstart-Tests",
+      "example_en": "A series of rocket launch tests"
+    },
+    {
+      "pt": "a hospedeira",
+      "de": "die Stewardess",
+      "en": "the flight attendant",
+      "example": "Uma enfermeira e uma ex-hospedeira de bordo",
+      "example_de": "Eine Krankenschwester und eine ehemalige Stewardess",
+      "example_en": "A nurse and a former flight attendant"
+    },
+    {
+      "pt": "manipular",
+      "de": "manipulieren",
+      "en": "to manipulate",
+      "example": "Manipular sinais visuais e olfativos",
+      "example_de": "Visuelle und olfaktorische Signale manipulieren",
+      "example_en": "To manipulate visual and olfactory signals"
+    },
+    {
+      "pt": "olfativo",
+      "de": "olfaktorisch",
+      "en": "olfactory",
+      "example": "Manipular sinais visuais e olfativos",
+      "example_de": "Visuelle und olfaktorische Signale manipulieren",
+      "example_en": "To manipulate visual and olfactory signals"
+    },
+    {
+      "pt": "a tarja",
+      "de": "der Streifen, das Band",
+      "en": "the banner, the strip",
+      "example": "Uma tarja onde se lia: Ministro chumbado",
+      "example_de": "Ein Band, auf dem stand: Minister durchgefallen",
+      "example_en": "A banner reading: Minister failed"
+    },
+    {
+      "pt": "a sede",
+      "de": "der Hauptsitz, der Sitz",
+      "en": "the headquarters",
+      "example": "Junto à sede do Ministério da Educação",
+      "example_de": "Beim Hauptsitz des Bildungsministeriums",
+      "example_en": "Near the headquarters of the Ministry of Education"
+    },
+    {
+      "pt": "o gabinete",
+      "de": "das Büro, der Stab",
+      "en": "the office, the cabinet",
+      "example": "O governo convocou um gabinete de crise",
+      "example_de": "Die Regierung berief eine Krisenstab ein",
+      "example_en": "The government convened a crisis cabinet"
+    },
+    {
+      "pt": "a percentagem",
+      "de": "der Prozentsatz",
+      "en": "the percentage",
+      "example": "Uma pequena percentagem destes animais",
+      "example_de": "Ein kleiner Prozentsatz dieser Tiere",
+      "example_en": "A small percentage of these animals"
+    }
   ]
 }
