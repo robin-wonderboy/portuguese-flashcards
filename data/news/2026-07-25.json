@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Metrobus começa ensaios dinâmicos nos troços urbanos de Coimbra",
+          "text": "A partir de segunda-feira, 27 de julho, a Metro Mondego inicia testes com veículos Metrobus entre Portagem e Coimbra B, e entre Aeminium (beira-rio) e Praça da República. Esta fase é essencial para preparar a operação nos novos troços urbanos."
+        },
+        {
+          "headline": "PCP acusa câmara de preparar SMTUC para concessão a privados",
+          "text": "O PCP de Coimbra acusa o executivo da coligação Avançar Coimbra de preparar os transportes urbanos para uma concessão a privados, após ter sido aprovada uma redução de mais de 100 horários em 20 linhas para o mês de agosto."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & TEMPO",
+      "stories": [
+        {
+          "headline": "\"Nunca vimos nada assim\": incêndios em França retiram 110 mil pessoas",
+          "text": "Cerca de 110 mil pessoas foram retiradas devido aos incêndios florestais que devastam o sudoeste de França. O maior incêndio, na Gironda, já consumiu 14 mil hectares. O ministro do Interior francês descreveu a situação como \"completamente sem precedentes\"."
+        },
+        {
+          "headline": "E-Redes: custo da reposição da rede elétrica chega a 110 milhões de euros",
+          "text": "A reposição da rede de energia elétrica após a depressão Kristin, que atingiu sobretudo a região Centro, custa cerca de 110 milhões de euros. O valor inclui medidas para aumentar a resiliência da rede e pode ainda ser alterado."
+        },
+        {
+          "headline": "Leitão Amaro garante apoio a Pombal após tragédia das tempestades",
+          "text": "O ministro da Presidência destacou em Pombal a capacidade de resposta da comunidade após a tempestade Kristin e defendeu que o futuro passa por tornar os territórios mais resilientes e criar condições para atrair população e investimento."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Alunos e professores pedem demissão do ministro da Educação",
+          "text": "Mais de uma centena de alunos e professores manifestaram-se em Lisboa frente ao Ministério da Educação, pedindo a demissão do ministro Fernando Alexandre após as falhas técnicas na digitalização dos exames nacionais. \"Ministro chumbado\" lia-se numa tarja colocada pelos manifestantes."
+        },
+        {
+          "headline": "Cerca de um terço dos médicos em Portugal tinha menos de 35 anos em 2024",
+          "text": "O INE revelou que aproximadamente um terço dos médicos a exercer em Portugal em 2024 tinham menos de 35 anos. Os dados resultam do cruzamento de fontes como o Inquérito ao Emprego e os Quadros de Pessoal."
+        },
+        {
+          "headline": "Dia dos Avós: cuidar dos mais velhos continua a ser um desafio",
+          "text": "No Dia dos Avós, a 26 de julho, a DECO PROteste alerta que envelhecer com dignidade continua a depender da capacidade financeira. Um estudo com 694 familiares de utentes de lares revela que 79% dos idosos enfrentam dificuldades."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "POLÍCIA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PSP detém mulher no aeroporto com cocaína vinda do Brasil",
+          "text": "A PSP deteve no Aeroporto de Lisboa uma mulher de 30 anos proveniente do Brasil, com destino a Paris, que transportava 64,72 gramas de cocaína. A suspeita foi sinalizada devido a uma assistência médica ocorrida durante o voo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏨",
+      "category": "ECONOMIA & TURISMO",
+      "stories": [
+        {
+          "headline": "Sapientia Boutique Hotel muda de mãos",
+          "text": "O Grupo The Editory Collection Hotels integrou o Sapientia Boutique Hotel – Books & Wine no seu portfólio. A aquisição será gradual, com conclusão prevista até final de 2026, garantindo a continuidade dos 27 colaboradores e a identidade do hotel na Alta de Coimbra."
+        },
+        {
+          "headline": "Viseu Dão Lafões lidera crescimento turístico na região Centro",
+          "text": "A comunidade intermunicipal de Viseu Dão Lafões regista um grande crescimento da procura turística em 2026, a um ritmo superior à média do país, confirmado pelos dados do INE."
+        },
+        {
+          "headline": "Aeródromo de Castelo Branco testa tecnologia aeroespacial",
+          "text": "O Aeródromo Municipal de Castelo Branco recebeu testes de lançamento de rockets promovidos pela Skylab, uma start-up portuguesa dedicada a tecnologias para os setores aeroespacial e da defesa."
+        }
+      ]
+    },
+    {
+      "emoji": "🐻",
+      "category": "CIÊNCIA & NATUREZA",
+      "stories": [
+        {
+          "headline": "Ursos-pardos capazes de \"mentir\" para parecerem maiores",
+          "text": "Um estudo publicado no Journal of Mammalogy documenta, pela primeira vez, que uma pequena percentagem de ursos-pardos consegue manipular sinais visuais e olfativos para parecerem maiores que os rivais e evitar confrontos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Fischer-Z atuam em Portugal em setembro para 50 anos de carreira",
+          "text": "A banda rock britânica Fischer-Z atua no dia 4 de setembro no Coliseu dos Recreios em Lisboa, e no dia seguinte na Casa da Música no Porto, no âmbito dos 50 anos de carreira. Editam também um novo álbum."
+        },
+        {
+          "headline": "Enfermeira e ex-hospedeira abrem agência em Coimbra para \"criar memórias\"",
+          "text": "Uma enfermeira e uma ex-hospedeira de bordo com uma década de voos pelo mundo juntaram-se em Santa Clara para criar uma agência de acompanhamento personalizado de 24 horas."
+        },
+        {
+          "headline": "Afinal, a que horas se deve beber o último café?",
+          "text": "O café é quase um ritual obrigatório para muitos portugueses, mas o momento de consumir a última chávena do dia pode afetar a qualidade do descanso, mesmo quando a hora de deitar parece adequada."
+        }
+      ]
+    },
+    {
+      "emoji": "🕊️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Último adeus ao enfermeiro encontrado sem vida em Miranda do Corvo",
+          "text": "O enfermeiro Fernando Carvalho, de 59 anos, foi encontrado sem vida na sua residência na manhã de quinta-feira. Foi o filho quem o encontrou após estranhar não se ter levantado. O funeral realiza-se este domingo."
+        }
+      ]
+    }
+  ]
+}
