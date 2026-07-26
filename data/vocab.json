@@ -21921,5 +21921,95 @@
       "example_de": "Ein kleiner Prozentsatz dieser Tiere",
       "example_en": "A small percentage of these animals"
     }
+  ],
+  "2026-07-26": [
+    {
+      "pt": "o depósito ilegal",
+      "de": "die illegale Ablagerung",
+      "en": "illegal dumping",
+      "example": "A Junta denunciou um novo depósito ilegal na via pública",
+      "example_de": "Die Junta meldete eine neue illegale Ablagerung auf öffentlichem Weg",
+      "example_en": "The Junta reported a new illegal dumping on public road"
+    },
+    {
+      "pt": "socorrer",
+      "de": "helfen, retten",
+      "en": "to rescue, to aid",
+      "example": "Bombeiros Municipais da Lousã socorrem gato encontrado em estado crítico",
+      "example_de": "Feuerwehr von Lousã rettet eine Katze in kritischem Zustand",
+      "example_en": "Lousã firefighters rescue a cat found in critical condition"
+    },
+    {
+      "pt": "debilitado",
+      "de": "geschwächt",
+      "en": "weakened, debilitated",
+      "example": "O gato foi encontrado em estado debilitado na via pública",
+      "example_de": "Die Katze wurde geschwächt auf der öffentlichen Straße gefunden",
+      "example_en": "The cat was found weakened on the public road"
+    },
+    {
+      "pt": "equacionar",
+      "de": "abwägen, in Betracht ziehen",
+      "en": "to weigh up, to consider",
+      "example": "Ana Abrunhosa admitiu equacionar uma concessão externa",
+      "example_de": "Ana Abrunhosa räumte ein, eine externe Konzession in Betracht zu ziehen",
+      "example_en": "Ana Abrunhosa admitted considering an external concession"
+    },
+    {
+      "pt": "o aviso amarelo",
+      "de": "die gelbe Warnung",
+      "en": "the yellow warning",
+      "example": "Catorze distritos vão estar com aviso amarelo devido à temperatura máxima elevada",
+      "example_de": "Vierzehn Bezirke werden gelbe Warnung wegen hoher Temperaturen haben",
+      "example_en": "Fourteen districts will be under yellow warning due to high temperatures"
+    },
+    {
+      "pt": "o correio humano",
+      "de": "der menschliche Kurier",
+      "en": "the human courier (drug mule)",
+      "example": "As redes criminosas continuam a recrutar correios humanos",
+      "example_de": "Kriminelle Netzwerke rekrutieren weiter menschliche Kuriere",
+      "example_en": "Criminal networks continue to recruit human couriers"
+    },
+    {
+      "pt": "aliciar",
+      "de": "anlocken, ködern",
+      "en": "to lure, to entice",
+      "example": "Aliciando-os com avultadas quantias monetárias",
+      "example_de": "Indem sie sie mit beträchtlichen Geldsummen ködern",
+      "example_en": "Luring them with substantial monetary amounts"
+    },
+    {
+      "pt": "o ensaio dinâmico",
+      "de": "die dynamische Probe",
+      "en": "the dynamic test/trial",
+      "example": "Ensaios dinâmicos com veículos Metrobus nos novos troços urbanos",
+      "example_de": "Dynamische Proben mit Metrobus-Fahrzeugen in neuen Stadtabschnitten",
+      "example_en": "Dynamic trials with Metrobus vehicles in new urban sections"
+    },
+    {
+      "pt": "a deposição",
+      "de": "die Ablagerung, die Entsorgung",
+      "en": "the dumping, deposition",
+      "example": "Um caso de deposição ilegal de resíduos na via pública",
+      "example_de": "Ein Fall illegaler Ablagerung von Abfällen auf der öffentlichen Straße",
+      "example_en": "A case of illegal dumping of waste on public road"
+    },
+    {
+      "pt": "o mono",
+      "de": "der ausrangierte Gegenstand, der Schrott",
+      "en": "the junk, abandoned item",
+      "example": "Mais um depósito ilegal de monos",
+      "example_de": "Wieder eine illegale Ablagerung von Schrott",
+      "example_en": "Yet another illegal dumping of junk"
+    },
+    {
+      "pt": "a empresarialização",
+      "de": "die Privatisierung/Verbetrieblichung",
+      "en": "the corporatization",
+      "example": "O PCP apela à luta contra a empresarialização dos SMTUC",
+      "example_de": "Die PCP ruft zum Kampf gegen die Verbetrieblichung der SMTUC auf",
+      "example_en": "PCP calls for a fight against the corporatization of SMTUC"
+    }
   ]
 }
