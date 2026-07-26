@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🐱",
+      "category": "PRIMEIRA PÁGINA",
+      "stories": [
+        {
+          "headline": "Bombeiros da Lousã socorrem gato em estado crítico",
+          "text": "Os Bombeiros Municipais da Lousã foram chamados para uma ocorrência pouco habitual: o resgate de um gato encontrado em estado debilitado na via pública. O felino encontrava-se imóvel, sem reação e com aparentes ferimentos."
+        },
+        {
+          "headline": "Depósito ilegal em Cernache: \"não pode ser tratada como um aterro\"",
+          "text": "A Junta de Freguesia de Cernache voltou a denunciar um caso de deposição ilegal de resíduos na via pública, alertando para a repetição de comportamentos prejudiciais ao ambiente e à comunidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏨",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Hotel de André Sardet em Coimbra foi vendido",
+          "text": "O Sapientia Boutique Hotel, criado por André Sardet e José Manuel Portugal, vai mudar de proprietário mas continuará com a mesma identidade e equipa. O Grupo The Editory Collection Hotels integra a unidade num processo de aquisição faseado até final de 2026."
+        },
+        {
+          "headline": "Presidente de Cantanhede lança apelo a António Leitão Amaro",
+          "text": "Helena Teodósio aproveitou a presença do ministro da Presidência nas comemorações do Dia do Município para pedir uma solução que permita financiar a requalificação de escolas através do Portugal 2030 ou do Banco Europeu de Investimento."
+        },
+        {
+          "headline": "Coimbra entra em alerta devido ao calor extremo",
+          "text": "Catorze dos 18 distritos de Portugal continental vão estar com aviso amarelo na segunda-feira devido à temperatura máxima elevada, que chegará aos 41 graus em Santarém. Apenas Aveiro, Faro, Porto e Viana do Castelo escapam ao aviso."
+        },
+        {
+          "headline": "Casa da Escrita acolhe Mercearia dos Livros",
+          "text": "Nos dias 7 e 8 de agosto, a Casa da Escrita recebe a iniciativa Mercearia dos Livros, com entrada gratuita, convidando a comunidade a dar nova vida aos livros e a participar em atividades dedicadas à leitura e à partilha intergeracional."
+        },
+        {
+          "headline": "Ensaios dinâmicos com Metrobus nos novos troços urbanos",
+          "text": "A partir de segunda-feira, 27 de julho, terão início os ensaios dinâmicos com veículos Metrobus entre a Portagem e Coimbra B, e entre a beira-rio (Aeminium) e a Praça da República."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Chamas não dão tréguas em Pombal",
+          "text": "Um incêndio que deflagrou no concelho de Pombal foi combatido por 144 operacionais com cinco meios aéreos e 36 viaturas. O alerta foi dado em Netos, freguesia de Almagreira, numa zona de povoamento florestal. O fogo já está em fase de resolução."
+        },
+        {
+          "headline": "Família da bebé Sofia exige justiça",
+          "text": "Uma menina de um ano e meio morreu depois de ter sido encontrada no interior de uma viatura ligada a uma creche em Almada. A criança foi encontrada em estado grave e foram realizadas manobras de reanimação, mas o óbito acabou por ser confirmado."
+        },
+        {
+          "headline": "Bombeiros fazem parto em plena autoestrada",
+          "text": "Um bebé nasceu numa ambulância dos bombeiros de Macedo de Cavaleiros, na autoestrada transmontana A4. A grávida deslocava-se de carro próprio para a maternidade do hospital de Bragança, a cerca de 100km de distância."
+        },
+        {
+          "headline": "PCP acusa Ana Abrunhosa de preparar SMTUC para privados",
+          "text": "O PCP de Coimbra acusa o executivo de Avançar Coimbra de estar a preparar os transportes urbanos para uma concessão a privados, após aprovação de redução de mais de 100 horários em 20 linhas para agosto."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Tentou embarcar com documentos falsos e acabou detido",
+          "text": "Um homem de 34 anos de nacionalidade estrangeira foi detido no Aeroporto Francisco Sá Carneiro, no Porto, por suspeitas de uso de documentos falsos, informou a PSP."
+        },
+        {
+          "headline": "Suspeitos de transportar droga no organismo ficam em prisão preventiva",
+          "text": "A PJ deteve dois homens suspeitos de transportar droga dentro do organismo de um país sul-africano para Lisboa. A cocaína apreendida, pela sua extrema pureza, seria suficiente para 24 mil doses individuais."
+        }
+      ]
+    },
+    {
+      "emoji": "🚣",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Tomás Neves e Pedro Rodrigues conquistam ouro no mundial de remo",
+          "text": "A Junta de Freguesia de São Julião, na Figueira da Foz, felicitou o atleta Tomás Neves pela conquista do título de campeão do mundo de remo Sub-23, ao lado de Pedro Rodrigues na categoria M2x. Trata-se da primeira medalha de ouro de Portugal no escalão Sub-23 em campeonatos do mundo."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "\"Estudantes unidos jamais serão vencidos\" em manifestação no Ministério da Educação",
+          "text": "Os alunos que participaram numa manifestação falaram de \"falta de respeito\" do Governo pelo seu esforço e gritaram em frente ao Ministério da Educação, em Lisboa. Estudantes de Coimbra juntaram-se ao apelo pela demissão do ministro."
+        }
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Zara no Alma Shopping vai fechar portas em Coimbra",
+          "text": "A loja da Zara no Alma Shopping, em Coimbra, irá encerrar até ao final do mês de julho. O NDC enviou um pedido de esclarecimento à administração do centro comercial para perceber os motivos."
+        }
+      ]
+    }
+  ]
+}
