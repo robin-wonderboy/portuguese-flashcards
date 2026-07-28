@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Fogo com 3 frentes ativas na Guarda",
+          "text": "O incêndio em Rochoso, Guarda, tem três frentes ativas a ser combatidas por 320 operacionais, 90 viaturas e 11 meios aéreos. A frente mais ativa está a evoluir para a localidade de Cabreira, no concelho de Almeida."
+        },
+        {
+          "headline": "Ex-concorrente do Big Brother combate incêndios em Soure",
+          "text": "Telmo Ferreira, participante do primeiro Big Brother Portugal, mantém hoje uma vida afastada dos holofotes como bombeiro voluntário. Esteve recentemente envolvido no combate a um incêndio no concelho de Soure."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PJ faz diligências no gabinete de Ventura no Parlamento",
+          "text": "A Unidade Nacional Contraterrorismo da PJ está a fazer diligências no gabinete do presidente do Chega após André Ventura ter divulgado nas redes sociais que o espaço teria sido invadido. No vídeo veem-se documentos e objetos espalhados pelo chão."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Touro rompe vedação e ataca público - 4 feridos",
+          "text": "Um touro ultrapassou a vedação do recinto durante uma largada na Festa da Bênção do Gado em Riachos, Torres Novas. O incidente provocou quatro feridos, um dos quais em estado grave."
+        },
+        {
+          "headline": "Festival Músicas do Mundo acaba com 30 detenções",
+          "text": "A GNR de Setúbal deteve 30 pessoas durante o Festival Músicas do Mundo em Sines, 23 por suspeita de tráfico de droga. A operação decorreu entre 17 e 26 de julho."
+        },
+        {
+          "headline": "GNR e Fundação Benfica ajudam famílias afetadas pela tempestade Kristin",
+          "text": "O Comando Territorial de Coimbra da GNR, em parceria com a Fundação Benfica, entregou eletrodomésticos a famílias de Oliveira do Hospital afetadas pelos prejuízos da tempestade Kristin."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "MAR & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Nevoeiro dificulta buscas por jovem desaparecido em stand-up paddle",
+          "text": "As buscas pelo jovem que desapareceu enquanto praticava stand-up paddle na praia da Arrifana, Aljezur, foram retomadas mas o nevoeiro está a dificultar a operação por mar. A capitania aguarda condições para integrar helicóptero da Força Aérea."
+        }
+      ]
+    },
+    {
+      "emoji": "🏗️",
+      "category": "TRABALHO & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Operário em paragem cardiorrespiratória após cair de telhado",
+          "text": "Um homem de 41 anos ficou em estado grave após cair do telhado de uma habitação em Mascarenhas, Mirandela. O operário da construção civil foi helitransportada para o hospital."
+        },
+        {
+          "headline": "Antigas zonas mineiras de Nelas e Mangualde requalificadas com 4,4M€",
+          "text": "A Empresa de Desenvolvimento Mineiro vai requalificar os sistemas de gestão de água e solos contaminados nas áreas mineiras radioativas de Nelas e Mangualde, num investimento de 4,4 milhões de euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🔬",
+      "category": "CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Borra de café pode tornar-se matéria-prima para biocombustível",
+          "text": "Um estudo da Universidade Rovira i Virgili publicado na revista 'Biomass and Bioenergy' mostra que as borras de café podem ser transformadas em matéria-prima para biocombustível. O resíduo do café usado contém aproximadamente 15% de lípidos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏍️",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Góis transforma-se na capital das motos em Portugal",
+          "text": "De 13 a 16 de agosto, a vila de Góis volta a ser palco da 33.ª Concentração Motard no Parque Natural de Mototurismo. O evento é um dos mais emblemáticos encontros motards a nível nacional e internacional."
+        },
+        {
+          "headline": "Feira do Ano de Montemor-o-Velho confirma Mickael Carreira",
+          "text": "A Feira do Ano - Festas Concelhias de Montemor-o-Velho já tem o primeiro artista confirmado para a edição de 2026. Mickael Carreira regressa ao certame para um concerto no dia 31 de agosto."
+        },
+        {
+          "headline": "Praia da Leirosa: o dia perfeito de verão na Figueira da Foz",
+          "text": "A Praia da Leirosa, na freguesia de Marinha das Ondas, afirma-se como destino cada vez mais procurado. Com areal vigiado, bandeira azul hasteada e infraestruturas cuidadas, oferece mar, pinhal e tradição piscatória."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo no Japão causa pelo menos 50 feridos",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
