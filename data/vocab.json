@@ -22011,5 +22011,135 @@
       "example_de": "Die PCP ruft zum Kampf gegen die Verbetrieblichung der SMTUC auf",
       "example_en": "PCP calls for a fight against the corporatization of SMTUC"
     }
+  ],
+  "2026-07-28": [
+    {
+      "pt": "a holofote",
+      "de": "der Scheinwerfer",
+      "en": "the spotlight",
+      "example": "Mantém uma vida afastada dos holofotes",
+      "example_de": "Er führt ein Leben abseits der Scheinwerfer",
+      "example_en": "He keeps a life away from the spotlight"
+    },
+    {
+      "pt": "combatendo",
+      "de": "kämpfend",
+      "en": "fighting",
+      "example": "Envolvido no combate a um incêndio",
+      "example_de": "In den Kampf gegen einen Brand involviert",
+      "example_en": "Involved in fighting a fire"
+    },
+    {
+      "pt": "afastado",
+      "de": "abseits",
+      "en": "removed/away",
+      "example": "Vida afastada da televisão",
+      "example_de": "Leben abseits des Fernsehens",
+      "example_en": "Life away from television"
+    },
+    {
+      "pt": "afetadas",
+      "de": "betroffen",
+      "en": "affected",
+      "example": "As famílias afetadas pela tempestade",
+      "example_de": "Die betroffenen Familien",
+      "example_en": "The affected families"
+    },
+    {
+      "pt": "alegado",
+      "de": "behauptet",
+      "en": "alleged",
+      "example": "Depois de o Chega ter alegado invasão",
+      "example_de": "Nachdem die Chega eine Invasion behauptet hatte",
+      "example_en": "After Chega alleged an invasion"
+    },
+    {
+      "pt": "espalhados",
+      "de": "verstreut",
+      "en": "scattered",
+      "example": "Documentos espalhados pelo chão",
+      "example_de": "Auf dem Boden verstreute Dokumente",
+      "example_en": "Documents scattered on the floor"
+    },
+    {
+      "pt": "evoluir",
+      "de": "sich entwickeln",
+      "en": "to evolve/progress",
+      "example": "A frente mais ativa está a evoluir",
+      "example_de": "Die aktivste Front entwickelt sich",
+      "example_en": "The most active front is progressing"
+    },
+    {
+      "pt": "a vedação",
+      "de": "der Zaun",
+      "en": "the fence/enclosure",
+      "example": "O touro rompeu a vedação do recinto",
+      "example_de": "Der Stier durchbrach den Zaun",
+      "example_en": "The bull broke through the fence"
+    },
+    {
+      "pt": "hasteada",
+      "de": "gehisst",
+      "en": "hoisted/raised",
+      "example": "Com bandeira azul hasteada",
+      "example_de": "Mit gehisster blauer Flagge",
+      "example_en": "With the blue flag raised"
+    },
+    {
+      "pt": "o concorrente",
+      "de": "der Teilnehmer",
+      "en": "the contestant/participant",
+      "example": "O antigo concorrente do Big Brother",
+      "example_de": "Der ehemalige Big-Brother-Teilnehmer",
+      "example_en": "The former Big Brother contestant"
+    },
+    {
+      "pt": "a largada",
+      "de": "der Stierlauf",
+      "en": "the bull release",
+      "example": "Durante uma largada o touro rompeu a vedação",
+      "example_de": "Während eines Stierlaufs durchbrach der Stier den Zaun",
+      "example_en": "During a bull release the bull broke the fence"
+    },
+    {
+      "pt": "o operário",
+      "de": "der Arbeiter",
+      "en": "the worker",
+      "example": "O operário da construção civil caiu do telhado",
+      "example_de": "Der Bauarbeiter fiel vom Dach",
+      "example_en": "The construction worker fell from the roof"
+    },
+    {
+      "pt": "a capitania",
+      "de": "die Hafenbehörde",
+      "en": "the port authority",
+      "example": "O capitão do Porto de Lagos adiantou",
+      "example_de": "Der Hafenkapitän von Lagos erklärte",
+      "example_en": "The port captain of Lagos explained"
+    },
+    {
+      "pt": "a extração",
+      "de": "die Extraktion",
+      "en": "the extraction",
+      "example": "Um estudo que avaliou como extrair o óleo",
+      "example_de": "Eine Studie, die bewertete, wie man Öl extrahiert",
+      "example_en": "A study that evaluated how to extract oil"
+    },
+    {
+      "pt": "o investimento",
+      "de": "die Investition",
+      "en": "the investment",
+      "example": "Num investimento de 4,4 milhões de euros",
+      "example_de": "Mit einer Investition von 4,4 Millionen Euro",
+      "example_en": "An investment of 4.4 million euros"
+    },
+    {
+      "pt": "a bandeira",
+      "de": "die Flagge",
+      "en": "the flag",
+      "example": "Com bandeira azul hasteada",
+      "example_de": "Mit gehisster blauer Flagge",
+      "example_en": "With the blue flag raised"
+    }
   ]
 }
