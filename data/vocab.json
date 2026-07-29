@@ -22141,5 +22141,151 @@
       "example_de": "Mit gehisster blauer Flagge",
       "example_en": "With the blue flag raised"
     }
+  ],
+  "2026-07-29": [
+    {
+      "pt": "a salubridade",
+      "de": "die Sauberkeit/Gesundheit",
+      "en": "sanitation, salubrity",
+      "example": "A falta de salubridade está na origem do surto de hepatite A.",
+      "example_de": "Der Mangel an Sauberkeit ist der Ursprung des Hepatitis-A-Ausbruchs.",
+      "example_en": "The lack of sanitation is at the origin of the hepatitis A outbreak."
+    },
+    {
+      "pt": "a subtração",
+      "de": "die Unterschlagung",
+      "en": "embezzlement, theft",
+      "example": "Resultou na subtração de ativos digitais no valor de meio milhão.",
+      "example_de": "Resultierte in der Unterschlagung digitaler Vermögenswerte im Wert einer halben Million.",
+      "example_en": "Resulted in the theft of digital assets worth half a million."
+    },
+    {
+      "pt": "o desvio",
+      "de": "die Umleitung",
+      "en": "detour, diversion",
+      "example": "Os condutores deverão utilizar a EN343 como desvio.",
+      "example_de": "Die Fahrer sollten die EN343 als Umleitung nutzen.",
+      "example_en": "Drivers should use the EN343 as a detour."
+    },
+    {
+      "pt": "intimidar",
+      "de": "einschüchtern",
+      "en": "to intimidate",
+      "example": "O movimento foi intimidado a suspender as atividades ilegais.",
+      "example_de": "Die Bewegung wurde eingeschüchtert, die illegalen Aktivitäten einzustellen.",
+      "example_en": "The movement was intimidated into suspending its illegal activities."
+    },
+    {
+      "pt": "a burla informática",
+      "de": "der Computerbetrug",
+      "en": "computer fraud",
+      "example": "A PJ recuperou meio milhão de euros à vítima de uma burla informática.",
+      "example_de": "Die PJ erholte eine halbe Million Euro für das Opfer eines Computerbetrugs.",
+      "example_en": "The PJ recovered half a million euros for a computer fraud victim."
+    },
+    {
+      "pt": "o cibercrime",
+      "de": "die Cyberkriminalität",
+      "en": "cybercrime",
+      "example": "A Unidade Nacional de Combate ao Cibercrime identificou o suspeito.",
+      "example_de": "Die Nationale Einheit zur Bekämpfung von Cyberkriminalität identifizierte den Verdächtigen.",
+      "example_en": "The National Cybercrime Unit identified the suspect."
+    },
+    {
+      "pt": "condicionado/a",
+      "de": "eingeschränkt, bedingt",
+      "en": "restricted, conditional",
+      "example": "A circulação na ponte está condicionada para veículos pesados.",
+      "example_de": "Die Durchfahrt auf der Brücke ist für Schwerfahrzeuge eingeschränkt.",
+      "example_en": "Traffic on the bridge is restricted for heavy vehicles."
+    },
+    {
+      "pt": "a traquitana",
+      "de": "das Hickhack, das Durcheinander",
+      "en": "rigmarole, mess",
+      "example": "A traquitana política em torno dos transportes urbanos continua.",
+      "example_de": "Das politische Hickhack um die städtischen Verkehrsmittel geht weiter.",
+      "example_en": "The political rigmarole around urban transport continues."
+    },
+    {
+      "pt": "o tomilho",
+      "de": "der Thymian",
+      "en": "thyme",
+      "example": "O tomilho é uma erva aromática muito usada na cozinha portuguesa.",
+      "example_de": "Thymian ist ein in der portugiesischen Küche viel verwendetes Kraut.",
+      "example_en": "Thyme is an aromatic herb widely used in Portuguese cuisine."
+    },
+    {
+      "pt": "a tasca",
+      "de": "die Kneipe, die kleine Taverne",
+      "en": "tavern, small eatery",
+      "example": "A Expofacic terá cinco dezenas de tasquinhas durante 11 dias.",
+      "example_de": "Die Expofacic wird für 11 Tage fünf Dutzend kleine Kneipen haben.",
+      "example_en": "The Expofacic will have five dozen small taverns for 11 days."
+    },
+    {
+      "pt": "o bafio",
+      "de": "der modrige Geruch",
+      "en": "mustiness, damp smell",
+      "example": "O bafio no quarto indicava problemas de humidade.",
+      "example_de": "Der modrige Geruch im Zimmer deutete auf Feuchtigkeitsprobleme hin.",
+      "example_en": "The mustiness in the room indicated humidity problems."
+    },
+    {
+      "pt": "o fósforo",
+      "de": "das Streichholz",
+      "en": "match (fire)",
+      "example": "O incêndio pode ter começado com um fósforo mal apagado.",
+      "example_de": "Der Brand könnte mit einem schlecht gelöschten Streichholz begonnen haben.",
+      "example_en": "The fire may have started with a poorly extinguished match."
+    },
+    {
+      "pt": "o cisco",
+      "de": "die Funke",
+      "en": "spark, ember",
+      "example": "Um cisco pode incendiar uma floresta inteira.",
+      "example_de": "Eine Funke kann einen ganzen Wald entzünden.",
+      "example_en": "A spark can ignite an entire forest."
+    },
+    {
+      "pt": "o soquete",
+      "de": "die Steckdose",
+      "en": "socket, outlet",
+      "example": "O soquete da cozinha estava a dar faíscas.",
+      "example_de": "Die Steckdose in der Küche gab Funken.",
+      "example_en": "The socket in the kitchen was sparking."
+    },
+    {
+      "pt": "a sargeta",
+      "de": "die Gosse",
+      "en": "gutter, drain",
+      "example": "A sargeta entupida causou alagamentos na rua.",
+      "example_de": "Die verstopfte Gosse verursachte Überschwemmungen auf der Straße.",
+      "example_en": "The clogged gutter caused flooding in the street."
+    },
+    {
+      "pt": "o arranha-céus",
+      "de": "der Wolkenkratzer",
+      "en": "skyscraper",
+      "example": "Os arranha-céus dominam a skyline das grandes cidades.",
+      "example_de": "Wolkenkratzer dominieren die Skyline großer Städte.",
+      "example_en": "Skyscrapers dominate the skyline of big cities."
+    },
+    {
+      "pt": "o enxame",
+      "de": "der Schwarm",
+      "en": "swarm",
+      "example": "Um enxame de abelhas pousou no quintal da escola.",
+      "example_de": "Ein Bienenschwarm landete im Schulhof.",
+      "example_en": "A swarm of bees landed in the schoolyard."
+    },
+    {
+      "pt": "a almofada",
+      "de": "das Kissen",
+      "en": "pillow, cushion",
+      "example": "Colher na janela ajuda a combater a humidade no quarto.",
+      "example_de": "Ein Löffel am Fenster hilft gegen die Feuchtigkeit im Zimmer.",
+      "example_en": "A spoon at the window helps fight humidity in the bedroom."
+    }
   ]
 }
