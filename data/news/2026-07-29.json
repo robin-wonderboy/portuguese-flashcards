@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Fogo na Guarda dominado após dias de luta",
+          "text": "O incêndio que deflagrou na segunda-feira em Rochoso (Guarda) e se estendeu aos concelhos de Almeida, Pinhel e Sabugal foi dominado esta madrugada. O fogo atingiu várias localidades e mobilizou dezenas de operacionais."
+        },
+        {
+          "headline": "8 distritos em perigo máximo de incêndio",
+          "text": "Dezenas de concelhos de oito distritos do norte e centro de Portugal estão hoje em perigo máximo de incêndio, segundo o IPMA. A situação é ligeiramente melhor do que na terça-feira, mas o risco mantém-se elevado."
+        },
+        {
+          "headline": "Mortos no incêndio da Andaluzia sobem para 14",
+          "text": "Uma mulher internada com queimaduras em 70% do corpo morreu hoje em Sevilha, elevando para 14 o número de vítimas mortais do incêndio florestal na Andaluzia. O fogo continua a ser combatido no sul de Espanha."
+        },
+        {
+          "headline": "184 detidos em França por incêndios desde início do verão",
+          "text": "O ministro francês do Interior anunciou que 184 pessoas foram detidas desde o início da época de incêndios florestais por acusações relacionadas com fogos. As autoridades francesas afirmam estar totalmente decididas a combater os incendiários."
+        },
+        {
+          "headline": "Calor aperta em Coimbra, mas menos de um terço das casas tem ar condicionado",
+          "text": "Apesar das temperaturas elevadas, apenas 34% das casas em Portugal têm sistema de ar condicionado, segundo uma análise do idealista. Vila Real, Bragança e Évora lideram o ranking das casas sem refrigeração."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Coimbra entrega primeiras chaves a 56 famílias na Quinta das Bicas",
+          "text": "O ministro das Infraestruturas e Habitação, Miguel Pinto Luz, esteve em Coimbra para entregar as chaves às primeiras 56 famílias que vão viver no empreendimento municipal da Quinta das Bicas, em Taveiro. A primeira fase está concluída."
+        },
+        {
+          "headline": "Oferta de casas para arrendar em Coimbra cai 58% num ano",
+          "text": "O stock de habitação disponível para arrendar em Portugal desceu 22% no segundo trimestre de 2026. Em Coimbra, a queda foi ainda mais acentuada: 58% face ao ano anterior, reflectindo a crise habitacional que se agrava."
+        },
+        {
+          "headline": "Movimento pinta mural em Coimbra pelos problemas da habitação",
+          "text": "Cerca de uma dezena de jovens do movimento Porta a Porta - Casa para Todos pintaram um mural na cidade de Coimbra para dar voz aos problemas da habitação. As paredes das cidades não têm que ser mudas, afirmaram os organizadores."
+        },
+        {
+          "headline": "Comunistas acusam Ana Abrunhosa de preparar SMTUC para privados",
+          "text": "O PCP de Coimbra acusou o executivo de Ana Abrunhosa de estar a preparar a operação dos Transportes Urbanos para uma concessão a privados, após ter sido aprovada uma redução de mais de 100 horários para agosto."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "CRIME & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PJ recupera meio milhão de euros à vítima de burla informática",
+          "text": "A Polícia Judiciária identificou um suspeito de acesso ilegítimo e burla informática que resultou na subtração de ativos digitais no valor de meio milhão de euros. Os bens foram integralmente recuperados e restituídos à vítima."
+        },
+        {
+          "headline": "Mergulhadores da PJ descobrem 200 quilos de cocaína em navio",
+          "text": "A PJ, em cooperação com a Polícia Marítima, apreendeu cerca de 197 kg de cocaína localizada nas caixas de mar de um navio comercial. A droga estava presa ao casco do navio, uma técnica usada pelo narcotráfico internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Maioria dos alunos do 9.º ano chumba na prova de Matemática",
+          "text": "Os alunos do 9.º ano tiveram este ano piores resultados nas provas finais, com a maioria a chumbar a Matemática e a aumentar as negativas a Português. Os resultados mostram um pior desempenho face ao ano passado."
+        },
+        {
+          "headline": "Ministro admite aulas do secundário uma semana mais tarde",
+          "text": "O ministro da Educação admitiu que os alunos do ensino secundário poderão começar o próximo ano letivo uma semana mais tarde, devido aos problemas com a correção digital dos exames nacionais que prejudicaram muitos alunos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Casos de hepatite A disparam 265% em Portugal",
+          "text": "Portugal registou um aumento expressivo de casos de hepatite A, que passaram de 319 em 2024 para 1.164 em 2025. O relatório da DGS associa o aumento a surtos resultantes da falta de salubridade e à transmissão sexual."
+        },
+        {
+          "headline": "Número de bebés a nascer em Portugal voltou a crescer",
+          "text": "O número de recém-nascidos rastreados em Portugal atingiu 43.181 no primeiro semestre, mais 931 do que no mesmo período do ano passado. Os dados dizem respeito ao Programa Nacional de Rastreio Neonatal."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & REGIÃO",
+      "stories": [
+        {
+          "headline": "Ponte na EN230 com circulação condicionada para pesados",
+          "text": "A partir de 29 de julho, a circulação de veículos pesados com peso superior a 3,5 toneladas está interdita na Ponte sobre a Ribeira das Cortes, na EN230. Os condutores devem utilizar a EN343 como desvio alternativo."
+        },
+        {
+          "headline": "Bombeiros Voluntários de Leiria ainda sem apoio do Estado seis meses depois",
+          "text": "Os Bombeiros Voluntários de Leiria, cujos quartéis foram gravemente afetados pela tempestade Kristin, avançaram com obras custeadas por donativos. Seis meses depois, ainda não há garantias de apoio do Estado."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "IKEA abre primeira loja em Coimbra nesta quinta-feira",
+          "text": "A IKEA realiza a abertura oficial da sua primeira loja em Coimbra no dia 30 de julho. O investimento consolida Coimbra como principal polo económico da região Centro."
+        },
+        {
+          "headline": "Expofacic começa amanhã com noites épicas prometidas",
+          "text": "A Expofacic - Feira Agrícola, Comercial e Industrial de Cantanhede terá cerca de 200 espetáculos, mais de 600 expositores e cinco dezenas de tasquinhas durante 11 dias. Cantanhede será o palco da maior feira-festa do país."
+        },
+        {
+          "headline": "Festas do Concelho de Góis com 4 dias sem dormir",
+          "text": "O Parque de Lazer do Baião em Góis volta a ser palco das Festas do Concelho com 4 dias de animação e música. Tony Carreira sobe ao palco a 7 de agosto num concerto solidário de apoio à Associação Sara Carreira."
+        },
+        {
+          "headline": "Idoso desaparecido em Arganil encontrado vivo pelos bombeiros",
+          "text": "Um idoso de 84 anos dado como desaparecido em Sarcina, no concelho de Arganil, foi encontrado com vida após várias horas de busca. As fotos divulgadas pelos Bombeiros Voluntários de Arganil revelam a dimensão da operação de resgate."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ECONOMIA & INDÚSTRIA",
+      "stories": [
+        {
+          "headline": "Porsche vai cortar 5.000 postos de trabalho até 2035",
+          "text": "A fabricante alemã Porsche vai eliminar 5.000 postos de trabalho até 2035 no âmbito de um programa de redução de custos para superar a crise do setor automóvel. A eliminação será alcançada principalmente através de saídas naturais."
+        },
+        {
+          "headline": "Cluster do Desporto visita fábrica de quadros de bicicletas em Águeda",
+          "text": "Uma delegação liderada pelo secretário de Estado do Desporto visitou a empresa Triangle s em Águeda, considerada a melhor fábrica de quadros de bicicletas de alumínio do mundo. A visita insere-se no plano estratégico 2027-30."
+        }
+      ]
+    }
+  ]
+}
