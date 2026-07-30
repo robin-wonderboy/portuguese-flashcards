@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏢",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "A espera acabou: IKEA abre esta quinta-feira em Coimbra",
+          "text": "A IKEA realizou a pré-inauguração da primeira loja em Coimbra. Trata-se de um marco histórico para o concelho e toda a região Centro, consolidando Coimbra como principal polo económico da região. A loja abre portas a 30 de julho."
+        },
+        {
+          "headline": "Cantanhede não vai dormir: EXPOFACIC está de volta com cartaz de arromba",
+          "text": "Mais de 200 concertos e espetáculos, distribuídos por sete palcos e mais de 600 expositores, dão o tom à EXPOFACIC que arranca esta quinta-feira e dura 10 dias. É uma das maiores feiras do Centro do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS FLORESTAIS",
+      "stories": [
+        {
+          "headline": "Combate ao fogo em Valpaços reforçado durante a noite",
+          "text": "O incêndio em Valpaços, Vila Real, que eclodiu na terça-feira, continua ativo. Mais de 850 operacionais estão em terreno a tentar resolver o fogo. O combate foi reforçado durante a noite com meios adicionais."
+        },
+        {
+          "headline": "Chamas à espreita: Mais de 50 concelhos em perigo máximo de incêndio",
+          "text": "Mais de 50 concelhos do interior, de oito distritos de Portugal, enfrentam hoje perigo máximo de incêndio. As autoridades mantêm alerta redobrado dado o calor e a seca."
+        },
+        {
+          "headline": "O grande fogo perto de Bordéus não progrediu e autoridades estão otimistas",
+          "text": "O grande incêndio que em mais de uma semana queimou cerca de 42.000 hectares nas proximidades de Bordéus não progrediu. As autoridades francesas estão otimistas quanto ao controlo da situação."
+        },
+        {
+          "headline": "7 mortos em acidente de helicóptero de combate a fogos na Argentina",
+          "text": "Sete pessoas morreram num acidente de um helicóptero de combate a incêndios florestais, num parque natural no oeste da Argentina. O aparelho terá caído durante uma operação de combate."
+        }
+      ]
+    },
+    {
+      "emoji": "🐾",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "312 animais maltratados em 6 meses: GNR revela números assustadores",
+          "text": "A GNR registou, em seis meses, 312 casos de maus-tratos a animais de companhia e 159 abandonos. Desde 2024, 28 pessoas foram detidas suspeitas da prática destes crimes. O verão é a época com mais abandono de animais."
+        },
+        {
+          "headline": "Inspetor da PJ mata cão com arma de serviço",
+          "text": "Um inspetor da Polícia Judiciária terá matado um dos seus cães com vários disparos efetuados com a arma de serviço. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "O tanque que virou piscina e vai voltar a ser tanque (o milagre alentejano)",
+          "text": "O ministro da Administração Interna assegurou que não sabia que a sua propriedade no Alentejo, com um tanque transformado em piscina, se situa em área protegida. Já pediu à autarquia uma reunião para regularizar a situação. O caso foi noticiado pelo jornal Nascer do Sol."
+        },
+        {
+          "headline": "Menina de 11 anos fica esquecida numa área de serviço: autocarro arrancou sem ela",
+          "text": "Uma menina de 11 anos ficou sozinha numa área de serviço de Almodôvar, na A2, depois de o autocarro da FlixBus ter arrancado sem ela. A empresa está a ser investigada pela ocorrência."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sobe para 28 o número de mortos no sismo que atingiu o Japão",
+          "text": "O balanço das vítimas mortais do sismo de magnitude 7,1 que atingiu na terça-feira o sudoeste do Japão aumentou para 28 mortos. As operações de busca e socorro continuam."
+        },
+        {
+          "headline": "Mundo entra em dívida ecológica ao esgotar recursos anuais do planeta",
+          "text": "O mundo entra hoje em dívida ecológica, no Dia da Sobrecarga da Terra, ao esgotar os recursos naturais do planeta para este ano. A partir de agora, consumimos recursos que a Terra não consegue repor."
+        },
+        {
+          "headline": "Identificada biblioteca mais antiga da Península Ibérica numa 'villa' romana em Córdoba",
+          "text": "Uma equipa de investigação demonstrou a verdadeira função de uma sala na villa romana de Fuente Álamo, em Córdoba, até agora considerada um armazém. Trata-se da biblioteca mais antiga da Península Ibérica."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Adeus, telemóvel na escola: proibição vai chegar ao 9.º ano",
+          "text": "A proibição do uso de smartphones nas escolas será alargada aos alunos do 7.º ao 9.º anos já no próximo ano letivo. A medida já estava em vigor para o ensino primário e agora expande-se."
+        }
+      ]
+    },
+    {
+      "emoji": "🗳️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Mau tempo: 25 jovens assinam manifesto pela reabertura do debate da regionalização",
+          "text": "Vinte e cinco jovens assinaram um manifesto pela reabertura sem tabus do debate da regionalização, a propósito dos incêndios e da resposta das autoridades. O documento foi divulgado hoje."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Destino cruel: João sofre 2 acidentes no mesmo dia e hoje depende da mãe para tudo",
+          "text": "João tinha apenas 19 anos quando sofreu dois acidentes graves no espaço de poucas horas. Primeiro despistou-se ao volante, e depois sofreu outro acidente na ambulância que o transportava. Hoje depende da mãe para tudo."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "CULTURA & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "Os rebanhos descem a Serra da Estrela em agosto numa tradição com séculos de história",
+          "text": "Os rebanhos do concelho de Gouveia regressam a casa em agosto, numa celebração de uma tradição ancestral que continua a atrair visitantes. É uma das mais antigas práticas pastoris do país."
+        },
+        {
+          "headline": "População de tigres continua a crescer no Nepal e atingiu os 429",
+          "text": "A população de tigres no Nepal continua a aumentar, atingindo agora os 429 indivíduos, anunciaram as autoridades do país. É um sinal positivo para a conservação da espécie."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES",
+      "stories": [
+        {
+          "headline": "7 feridos (2 graves) em despiste de automóvel na EN18",
+          "text": "Sete pessoas ficaram feridas, duas delas com gravidade, na sequência do despiste de um automóvel na Estrada Nacional 18, em Évora. Os feridos foram transportados para o hospital."
+        },
+        {
+          "headline": "Ventos fortes causam 5 mortes no Brasil",
+          "text": "Ventos de mais de 100 quilómetros por hora provocaram pelo menos cinco mortos no Brasil, além de derrocadas e destelhamentos. As autoridades brasileiras declararam estado de emergência em várias regiões."
+        }
+      ]
+    }
+  ]
+}
