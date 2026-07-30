@@ -22287,5 +22287,119 @@
       "example_de": "Ein Löffel am Fenster hilft gegen die Feuchtigkeit im Zimmer.",
       "example_en": "A spoon at the window helps fight humidity in the bedroom."
     }
+  ],
+  "2026-07-30": [
+    {
+      "pt": "a espera acabou",
+      "de": "das Warten hat ein Ende",
+      "en": "the wait is over",
+      "example": "A espera acabou: a IKEA abre em Coimbra",
+      "example_de": "Das Warten hat ein Ende: IKEA öffnet in Coimbra",
+      "example_en": "The wait is over: IKEA opens in Coimbra"
+    },
+    {
+      "pt": "eclodir",
+      "de": "ausbrechen",
+      "en": "to erupt, to break out",
+      "example": "O fogo eclodiu na terça-feira",
+      "example_de": "Das Feuer brach am Dienstag aus",
+      "example_en": "The fire broke out on Tuesday"
+    },
+    {
+      "pt": "assustador",
+      "de": "erschreckend/beängstigend",
+      "en": "frightening, alarming",
+      "example": "A GNR revelou números assustadores",
+      "example_de": "Die GNR offenbarte erschreckende Zahlen",
+      "example_en": "The GNR revealed alarming numbers"
+    },
+    {
+      "pt": "o abandono",
+      "de": "das Aussetzen/das Verlassen",
+      "en": "abandonment",
+      "example": "O abandono de animais aumenta no verão",
+      "example_de": "Das Aussetzen von Tieren steigt im Sommer",
+      "example_en": "Animal abandonment increases in summer"
+    },
+    {
+      "pt": "progredir",
+      "de": "vorankommen/Fortschritt machen",
+      "en": "to progress, to advance",
+      "example": "O grande incêndio não progrediu",
+      "example_de": "Der große Brand ist nicht weiter vorgerückt",
+      "example_en": "The large wildfire did not progress"
+    },
+    {
+      "pt": "assinar",
+      "de": "unterzeichnen",
+      "en": "to sign",
+      "example": "25 jovens assinaram um manifesto",
+      "example_de": "25 junge Menschen unterzeichneten ein Manifest",
+      "example_en": "25 young people signed a manifesto"
+    },
+    {
+      "pt": "otimista",
+      "de": "optimistisch",
+      "en": "optimistic",
+      "example": "As autoridades estão otimistas",
+      "example_de": "Die Behörden sind optimistisch",
+      "example_en": "The authorities are optimistic"
+    },
+    {
+      "pt": "a sobrecarga",
+      "de": "die Überlastung",
+      "en": "overload, overshoot",
+      "example": "O mundo entra em dívida no Dia da Sobrecarga da Terra",
+      "example_de": "Die Welt gerät am Tag der Überlastung der Erde in Verschuldung",
+      "example_en": "The world enters debt on Earth Overshoot Day"
+    },
+    {
+      "pt": "o milagre",
+      "de": "das Wunder",
+      "en": "miracle",
+      "example": "O milagre alentejano que nem o Google viu",
+      "example_de": "Das alentejanische Wunder, das nicht einmal Google sah",
+      "example_en": "The Alentejo miracle that even Google didnt see"
+    },
+    {
+      "pt": "a regionalização",
+      "de": "die Regionalisierung",
+      "en": "regionalization",
+      "example": "Pela reabertura do debate da regionalização",
+      "example_de": "Für die Wiedereröffnung der Debatte über die Regionalisierung",
+      "example_en": "For reopening the debate on regionalization"
+    },
+    {
+      "pt": "registar",
+      "de": "erfassen/registrieren",
+      "en": "to register, to record",
+      "example": "A GNR registou 312 casos de maus-tratos",
+      "example_de": "Die GNR erfasste 312 Fälle von Tierquälerei",
+      "example_en": "The GNR registered 312 cases of animal abuse"
+    },
+    {
+      "pt": "noticiar",
+      "de": "berichten",
+      "en": "to report (news)",
+      "example": "O jornal Nascer do Sol noticiou o caso",
+      "example_de": "Die Zeitung Nascer do Sol berichtete über den Fall",
+      "example_en": "The newspaper Nascer do Sol reported the case"
+    },
+    {
+      "pt": "o recurso",
+      "de": "die Ressource",
+      "en": "resource",
+      "example": "O mundo esgotou os recursos anuais do planeta",
+      "example_de": "Die Welt hat die jährlichen Ressourcen des Planeten aufgebraucht",
+      "example_en": "The world has depleted the planet annual resources"
+    },
+    {
+      "pt": "atingir",
+      "de": "erreichen/treffen",
+      "en": "to reach, to hit",
+      "example": "O sismo atingiu o sudoeste do Japão",
+      "example_de": "Das Erdbeben traf den Südwesten Japans",
+      "example_en": "The earthquake hit southwestern Japan"
+    }
   ]
 }
