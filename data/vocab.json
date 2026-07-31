@@ -22401,5 +22401,167 @@
       "example_de": "Das Erdbeben traf den Südwesten Japans",
       "example_en": "The earthquake hit southwestern Japan"
     }
+  ],
+  "2026-07-31": [
+    {
+      "pt": "a exigência",
+      "de": "die Anforderung",
+      "en": "the requirement",
+      "example": "As exigências relativas à qualidade",
+      "example_de": "Die Anforderungen bezüglich der Qualität",
+      "example_en": "The requirements regarding quality"
+    },
+    {
+      "pt": "demolir",
+      "de": "abreißen",
+      "en": "to demolish",
+      "example": "A proposta prevê evitar 45 demolições",
+      "example_de": "Der Vorschlag sieht vor, 45 Abrisse zu vermeiden",
+      "example_en": "The proposal aims to avoid 45 demolitions"
+    },
+    {
+      "pt": "a demolição",
+      "de": "der Abriss",
+      "en": "the demolition",
+      "example": "Há quem prometa evitar demolições no concelho",
+      "example_de": "Es gibt solche, die Abrisse im Landkreis vermeiden versprechen",
+      "example_en": "Some promise to avoid demolitions in the municipality"
+    },
+    {
+      "pt": "aperender",
+      "de": "beschlagnahmen",
+      "en": "to seize/confiscate",
+      "example": "A Polícia Marítima apreendeu toneladas de cocaína",
+      "example_de": "Die Seepolizei beschlagnahmte Tonnen von Kokain",
+      "example_en": "The Maritime Police seized tons of cocaine"
+    },
+    {
+      "pt": "semear",
+      "de": "säen/verbreiten",
+      "en": "to sow/spread",
+      "example": "O ladrão semeou o medo em Coimbra",
+      "example_de": "Der Dieb verbreitete Angst in Coimbra",
+      "example_en": "The thief sowed fear in Coimbra"
+    },
+    {
+      "pt": "o esticão",
+      "de": "der Pfiff/Langfinger",
+      "en": "pickpocket sneak attack",
+      "example": "O ladrão do esticão semeou o medo",
+      "example_de": "Der Langfinger verbreitete Angst",
+      "example_en": "The pickpocket sowed fear"
+    },
+    {
+      "pt": "confined",
+      "de": "eingesperrt/eingeschlossen",
+      "en": "confined",
+      "example": "A população ficou confinada em Vale das Fontes",
+      "example_de": "Die Bevölkerung wurde im Vale das Fontes eingeschlossen",
+      "example_en": "The population was confined in Vale das Fontes"
+    },
+    {
+      "pt": "revalidar",
+      "de": "neu validieren",
+      "en": "to revalidate",
+      "example": "O Geoparque Oeste dá início à missão de revalidação da UNESCO",
+      "example_de": "Das Geopark Oeste beginnt die UNESCO-Revalidierungsmission",
+      "example_en": "Geoparque Oeste begins the UNESCO revalidation mission"
+    },
+    {
+      "pt": "a vara",
+      "de": "die Stange",
+      "en": "the rod/pole",
+      "example": "Tradicional corte da fita com uma vara",
+      "example_de": "Traditionelles Banddurchschneiden mit einer Stange",
+      "example_en": "Traditional ribbon cutting with a rod"
+    },
+    {
+      "pt": "o fuzileiro",
+      "de": "der Marineinfanterist",
+      "en": "the marine",
+      "example": "Fuzileiros da Marinha Portuguesa participaram na operação",
+      "example_de": "Marineinfanteristen der portugiesischen Marine nahmen an der Operation teil",
+      "example_en": "Marines from the Portuguese Navy participated in the operation"
+    },
+    {
+      "pt": "o jerrikan",
+      "de": "der Benzinkanister",
+      "en": "the jerrican",
+      "example": "Foram encontrados vários jerricans utilizados para transporte de combustível",
+      "example_de": "Es wurden mehrere Benzinkanister gefunden",
+      "example_en": "Several jerricans were found for fuel transport"
+    },
+    {
+      "pt": "florestal",
+      "de": "forstlich",
+      "en": "forestry/forest-related",
+      "example": "Operação de exploração florestal",
+      "example_de": "Forstwirtschaftliche Operation",
+      "example_en": "Forestry operation"
+    },
+    {
+      "pt": "o pastor",
+      "de": "der Hirte",
+      "en": "the shepherd",
+      "example": "Os participantes acompanham pastores e rebanhos",
+      "example_de": "Die Teilnehmer begleiten Hirten und Herden",
+      "example_en": "Participants accompany shepherds and flocks"
+    },
+    {
+      "pt": "o balneário",
+      "de": "die Umkleidekabine",
+      "en": "the locker room",
+      "example": "O capitão é uma das principais referências do balneário",
+      "example_de": "Der Kapitän ist eine der wichtigsten Bezugspersonen in der Kabine",
+      "example_en": "The captain is one of the main references in the locker room"
+    },
+    {
+      "pt": "o incumprimento",
+      "de": "die Nichteinhaltung",
+      "en": "the breach/non-compliance",
+      "example": "Julgado pelo incumprimento de 10 artigos dos Estatutos",
+      "example_de": "Verurteilt wegen Nichteinhaltung von 10 Statutenartikeln",
+      "example_en": "Judged for breaching 10 articles of the Statutes"
+    },
+    {
+      "pt": "a equidade",
+      "de": "die Gerechtigkeit/Chancengleichheit",
+      "en": "equity/fairness",
+      "example": "A equidade de género nos cuidados de saúde",
+      "example_de": "Die Geschlechtergerechtigkeit im Gesundheitswesen",
+      "example_en": "Gender equity in healthcare"
+    },
+    {
+      "pt": "o viés",
+      "de": "die Voreingenommenheit/der Bias",
+      "en": "the bias",
+      "example": "O impacto do viés de género na prática clínica",
+      "example_de": "Die Auswirkung des Geschlechter-Bias auf die klinische Praxis",
+      "example_en": "The impact of gender bias on clinical practice"
+    },
+    {
+      "pt": "co-construir",
+      "de": "mitgestalten",
+      "en": "to co-build/co-construct",
+      "example": "Co-construir um sistema de saúde que funcione",
+      "example_de": "Ein Gesundheitssystem mitgestalten, das funktioniert",
+      "example_en": "To co-build a health system that works"
+    },
+    {
+      "pt": "o mural",
+      "de": "das Wandbild/Mural",
+      "en": "the mural",
+      "example": "O movimento pintou um mural em Coimbra",
+      "example_de": "Die Bewegung malte ein Wandbild in Coimbra",
+      "example_en": "The movement painted a mural in Coimbra"
+    },
+    {
+      "pt": "mudo/a",
+      "de": "stumm",
+      "en": "mute/silent",
+      "example": "As paredes das cidades não têm que ser mudas",
+      "example_de": "Die Mauern der Städte müssen nicht stumm sein",
+      "example_en": "City walls don't have to be mute"
+    }
   ]
 }
