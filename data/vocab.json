@@ -22563,5 +22563,119 @@
       "example_de": "Die Mauern der Städte müssen nicht stumm sein",
       "example_en": "City walls don't have to be mute"
     }
+  ],
+  "2026-08-01": [
+    {
+      "pt": "a ovação",
+      "de": "der Applaus",
+      "en": "the ovation",
+      "example": "Recebeu uma enorme ovação do público.",
+      "example_de": "Er erhielt großen Applaus vom Publikum.",
+      "example_en": "He received a huge ovation from the audience."
+    },
+    {
+      "pt": "recompensar",
+      "de": "belohnen",
+      "en": "to reward",
+      "example": "A recompensa chegou quando entrou em palco.",
+      "example_de": "Die Belohnung kam, als er die Bühne betrat.",
+      "example_en": "The reward came when he entered the stage."
+    },
+    {
+      "pt": "o maçarico",
+      "de": "das Brenngerät",
+      "en": "the blowtorch",
+      "example": "Foi queimado com um maçarico de gás.",
+      "example_de": "Er wurde mit einem Gasbrenner verbrannt.",
+      "example_en": "He was burned with a gas blowtorch."
+    },
+    {
+      "pt": "hasteado",
+      "de": "hisst",
+      "en": "hoisted/raised",
+      "example": "A bandeira roxa é hasteada quando há perigo.",
+      "example_de": "Die lila Flagge wird gehisst, wenn Gefahr besteht.",
+      "example_en": "The purple flag is hoisted when there is danger."
+    },
+    {
+      "pt": "brindar",
+      "de": "anstoßen",
+      "en": "to toast/celebrate",
+      "example": "Há motivos para brindar.",
+      "example_de": "Es gibt Gründe zum Anstoßen.",
+      "example_en": "There are reasons to toast."
+    },
+    {
+      "pt": "o acorde",
+      "de": "der Akkord",
+      "en": "the chord",
+      "example": "Desde os primeiros acordes, o público acompanha as músicas.",
+      "example_de": "Seit den ersten Akkorden begleitet das Publikum die Lieder.",
+      "example_en": "From the first chords, the audience sings along."
+    },
+    {
+      "pt": "a plateia",
+      "de": "das Publikum",
+      "en": "the audience (in a venue)",
+      "example": "A plateia transforma o concerto numa festa.",
+      "example_de": "Das Publikum verwandelt das Konzert in ein Fest.",
+      "example_en": "The audience turns the concert into a party."
+    },
+    {
+      "pt": "a extorsão",
+      "de": "die Erpressung",
+      "en": "the extortion",
+      "example": "Foram detidos pelos crimes de rapto e extorsão.",
+      "example_de": "Sie wurden wegen Entführung und Erpressung festgenommen.",
+      "example_en": "They were arrested for kidnapping and extortion."
+    },
+    {
+      "pt": "qualificado",
+      "de": "qualifiziert",
+      "en": "qualified/aggravated",
+      "example": "Ofensas à integridade física grave qualificada.",
+      "example_de": "Schwer qualifizierte Verletzung der körperlichen Unversehrtheit.",
+      "example_en": "Aggravated qualified physical assault."
+    },
+    {
+      "pt": "a audiência",
+      "de": "die Anhörung/Verhandlung",
+      "en": "the hearing/audience",
+      "example": "Levante-se que a audiência vai começar.",
+      "example_de": "Erheben Sie sich, die Anhörung beginnt.",
+      "example_en": "Stand up, the hearing is about to begin."
+    },
+    {
+      "pt": "o ensino superior",
+      "de": "das Hochschulstudium",
+      "en": "higher education",
+      "example": "Concorrer ao ensino superior.",
+      "example_de": "Sich um einen Studienplatz bewerben.",
+      "example_en": "To apply for higher education."
+    },
+    {
+      "pt": "o jardim suspenso",
+      "de": "der hängende Garten",
+      "en": "the hanging garden",
+      "example": "Há um prédio que parece um jardim suspenso.",
+      "example_de": "Es gibt ein Gebäude, das wie ein hängender Garten aussieht.",
+      "example_en": "There's a building that looks like a hanging garden."
+    },
+    {
+      "pt": "o conselho disciplinar",
+      "de": "der Disziplinarrat",
+      "en": "the disciplinary council",
+      "example": "O Conselho Disciplinar considerou-o culpado.",
+      "example_de": "Der Disziplinarrat befand ihn für schuldig.",
+      "example_en": "The disciplinary council found him guilty."
+    },
+    {
+      "pt": "a soberania",
+      "de": "die Souveränität",
+      "en": "sovereignty",
+      "example": "A responsabilidade dos órgãos de soberania.",
+      "example_de": "Die Verantwortung der Souveränitätsorgane.",
+      "example_en": "The responsibility of the organs of sovereignty."
+    }
   ]
 }
