@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & ENTRETENIMENTO",
+      "stories": [
+        {
+          "headline": "Nininho Vaz Maia leva a EXPOFACIC à loucura",
+          "text": "A segunda noite da EXPOFACIC, em Cantanhede, está a ser vivida em ambiente de festa, com milhares de pessoas a assistir ao concerto de Nininho Vaz Maia. Os fãs chegaram cedo para garantir os melhores lugares e o artista foi recebido por uma enorme ovação. Com os telemóveis no ar, a plateia transforma o concerto numa autêntica festa."
+        },
+        {
+          "headline": "Sara Correia conquista a EXPOFACIC",
+          "text": ""
+        },
+        {
+          "headline": "Guarda celebra 20.ª edição do Festival de Blues",
+          "text": "A cidade da Guarda prepara-se para receber o 20.º Festival de Blues, entre 6 e 9 de agosto, com quatro noites de concertos gratuitos na Praça Luís de Camões. A edição comemorativa aposta numa programação internacional, abrindo com os norte-americanos Rick Estrin & The Nightcats."
+        },
+        {
+          "headline": "Cristiano Ronaldo vai estrear-se como ator em série",
+          "text": "O internacional português vai estrear-se como ator na série 'Day 1s', onde também assume funções de produtor executivo. A produção acompanha a história ficcionada de um agente de futebol de sucesso."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "POLÍCIA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Operação 'Flamma': raptado e queimado com maçarico de gás",
+          "text": "A Polícia Judiciária deteve cinco homens no concelho de Sintra, fortemente indiciados pelos crimes de rapto agravado, extorsão tentada, ofensas à integridade física grave qualificada e roubo, além de tráfico de estupefacientes. Os factos ocorreram na noite de 5 de abril de 2026, em Cascais."
+        },
+        {
+          "headline": "Operação 'Barril Fresco': Flor dos Jardins da AAC suspenso",
+          "text": "O Conselho Disciplinar da AAC considerou Francisco Flor culpado e suspendeu a sua capacidade eleitoral por quatro anos. Flor foi julgado pelo incumprimento de 10 artigos dos Estatutos, incluindo falta de capacidade em garantir o processo eleitoral e suspeita de interferências externas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & BEM-ESTAR",
+      "stories": [
+        {
+          "headline": "5 sinais de risco para a saúde emocional dos jovens no verão",
+          "text": "A psicóloga Marta Teixeira alerta para os riscos do verão na saúde emocional dos jovens devido à maior exposição do corpo e ao uso intensivo das redes sociais. Mais de um em cada dez adolescentes revela uma utilização problemática das redes sociais, segundo dados da OMS para a Europa."
+        },
+        {
+          "headline": "Pele mais sensível no verão: cuidados para evitar agravamento",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Rede Expressos: 100.000 bilhetes a 3,10€ para 31 localidades",
+          "text": "A Rede Expressos celebra 31 anos em agosto com bilhetes a 3,10€ para viajar de e para 31 localidades em Portugal. A campanha estará disponível durante os 31 dias do mês de agosto."
+        },
+        {
+          "headline": "Homens morrem mais ao volante? Explicação gera polémica",
+          "text": "Os homens continuam envolvidos em mais acidentes rodoviários graves e representam a maioria das vítimas mortais. Um sociólogo considera que justificar estes comportamentos com uma alegada maior 'confiança' masculina perpetua estereótipos de género."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Novos estatutos do INEM: quatro CODU em vez de delegações regionais",
+          "text": "Os novos Estatutos do INEM, publicados em Diário da República, preveem a transformação das atuais delegações regionais em quatro Centros de Orientação de DoentestUrgentes (CODU). Desaparecem as delegações do Norte, Centro, Lisboa/Vale do Tejo/Alentejo e Algarve."
+        },
+        {
+          "headline": "Presidente da República quer conclusões sobre caso 'Estado (es)tanque'",
+          "text": "O Presidente da República assinalou a responsabilidade dos órgãos de soberania na preservação da dignidade das instituições e pediu conclusões e apuramento de responsabilidades sobre o caso do Estado (es)tanque."
+        },
+        {
+          "headline": "Presidente deseja que alunos tenham notas a tempo para ensino superior",
+          "text": "António José Seguro alertou que os alunos que fizeram exames na primeira fase devem ter notas a tempo para concorrer ao ensino superior, afirmando ser absolutamente necessário que o processo decorra com normalidade."
+        },
+        {
+          "headline": "Espanha garante que integridade do espaço Schengen está garantida",
+          "text": "Cerca de 60.000 migrantes provenientes de Marrocos entraram ilegalmente no enclave espanhol de Ceuta. Madrid qualificou a situação como um 'ataque', mas garante que a integridade do espaço Schengen de livre circulação está absolutamente garantida."
+        }
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Arrendar casa em Coimbra está cada vez mais difícil",
+          "text": "Cada anúncio de arrendamento recebeu em média 24 contactos durante o segundo trimestre de 2026, um aumento de 36% face ao período anterior. A procura continua muito acima da oferta disponível, apesar da descida das rendas."
+        },
+        {
+          "headline": "Há um prédio em Coimbra que parece um jardim suspenso",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "AMBIENTE & NATUREZA",
+      "stories": [
+        {
+          "headline": "Pequeno mocho encontrado debilitado é salvo pela GNR",
+          "text": "Elementos do SEPNA da GNR, em Castelo Branco, foram alertados para a presença de uma ave no interior de um imóvel na Sertã. O pequeno mocho foi encontrado debilitado e recolhido para recuperação."
+        },
+        {
+          "headline": "Bandeira roxa na praia: o que significa e pode salvar vidas",
+          "text": "A bandeira roxa é hasteada quando há presença de organismos marinhos potencialmente perigosos nas águas. Ao contrário das bandeiras verde, amarela e vermelha, este sinalização é pouco conhecida mas pode ser crucial para a segurança dos banhistas."
+        },
+        {
+          "headline": "Portugal ganhou um novo dia nacional: Dia da Vinha e do Vinho",
+          "text": "O Governo instituiu o Dia Nacional da Vinha e do Vinho, a celebrar anualmente em 31 de julho. Há motivos para brindar, segundo o despacho publicado em Diário da República."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Pedro Proença reitera máxima confiança na arbitragem",
+          "text": "O presidente da FPF reiterou a máxima confiança na arbitragem portuguesa, após a divulgação 'ilegal e imoral de conversas privadas'. Proença destacou que a qualidade dos árbitros é cada vez mais reconhecida internacionalmente."
+        }
+      ]
+    }
+  ]
+}
