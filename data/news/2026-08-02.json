@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Mistério em Montemor-o-Velho: antigo basquetebolista desaparece sem deixar rasto",
+          "text": "Pedro Paiva, de 63 anos, está desaparecido desde 22 de julho, depois de ter saído de bicicleta da Figueira da Foz em direção a Montemor-o-Velho. O telemóvel deixou de dar sinais de atividade. A família lançou um apelo nas redes sociais e a GNR continua a investigar o caso."
+        },
+        {
+          "headline": "Aparatosa colisão em Mira deixa uma pessoa em estado grave",
+          "text": "Uma colisão espetacular na zona de Mira deixou uma pessoa em estado grave. Os detalhes sobre as causas do acidente continuam a ser apurados pelas autoridades."
+        },
+        {
+          "headline": "As gaiatas portuguesas que estão a conquistar o mundo e a EXPOFACIC",
+          "text": "Um projeto português de gaiotas inovadoras tem ganho projeção internacional e está em destaque na EXPOFACIC em Cantanhede."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Este domingo há Panda, José Cid e muito + na EXPOFACIC",
+          "text": "A EXPOFACIC em Cantanhede recebe este domingo um programa repleto: espetáculo do Panda, concerto de José Cid e muitas outras atrações para toda a família."
+        },
+        {
+          "headline": "Este carocha já não anda... mas é a estrela mais florida da EXPOFACIC",
+          "text": "Um antigo Volkswagen Carocha, decorado com flores, é uma das atrações mais fotografadas da feira. O veículo já não circula mas continua a encantar visitantes."
+        },
+        {
+          "headline": "Há um cocktail que está a refrescar a EXPOFACIC: 'já vendemos um montão'",
+          "text": "Uma bebida criada especificamente para a feira está a fazer sucesso. Os vendedores afirmam que já venderam uma quantidade enorme de unidades."
+        },
+        {
+          "headline": "O stand do NDC transformou-se num palco para uma serenata na EXPOFACIC",
+          "text": "O stand do Notícias de Coimbra acolheu uma serenata ao vivo, transformando-se momentaneamente num palco musical durante a feira."
+        },
+        {
+          "headline": "António Zambujo regressa a Coimbra com novo álbum",
+          "text": "O fadista António Zambujo apresenta o seu novo trabalho discográfico numa regresso a Coimbra, cidade onde tem grande afinidade."
+        },
+        {
+          "headline": "Portugal dos Pequenitos com oferta 'relâmpago' para famílias",
+          "text": "O parque temático Portugal dos Pequenitos lançou uma oferta especial de duração limitada para visitar o espaço em família."
+        },
+        {
+          "headline": "Das mãos de Licínio nascem barcos, memórias e pedaços da história da região",
+          "text": "Licínio é um artesão que constrói miniaturas de barcos tradicionais, preservando a história e a memória da região através das suas mãos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "PJ apanha jovem com mais de 500 ficheiros de pornografia infantil no telemóvel",
+          "text": "A Polícia Judiciária detetou um jovem em posse de mais de 500 ficheiros de pornografia infantil no seu telemóvel. O caso foi entregue à justiça."
+        },
+        {
+          "headline": "Juiz considera detenções ilegais e manda libertar sete suspeitos de burlas milionárias",
+          "text": "Um juiz considerou que as detenções de sete suspeitos envolvidos num esquema de burlas milionárias foram ilegais e ordenou a sua libertação."
+        },
+        {
+          "headline": "Adolescentes entraram encapuzados, ameaçam o funcionário e fogem com o dinheiro",
+          "text": "Dois adolescentes encapuzados assaltaram um estabelecimento comercial, ameaçando o funcionário antes de fugir com o dinheiro."
+        },
+        {
+          "headline": "Discussão num bar termina com segurança baleado",
+          "text": "Uma discussão num bar escalou para violência e terminou com um elemento da segurança baleado. As autoridades investigam o caso."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnico de Coimbra passa a chamar-se Universidade Politécnica",
+          "text": "É oficial: o Politécnico de Coimbra mudou de designação para Universidade Politécnica, refletindo a nova realidade do ensino superior politécnico em Portugal."
+        },
+        {
+          "headline": "Presidente da República deseja que alunos tenham notas 'a tempo' para concorrer ao ensino superior",
+          "text": "O Presidente da República manifestou preocupação com os atrasos na divulgação de notas dos exames, esperando que os alunos possam concorrer ao ensino superior na primeira fase."
+        },
+        {
+          "headline": "Três estudantes da Universidade de Coimbra assumem a nova direção da ESN Portugal",
+          "text": "Três estudantes da UC assumiram a liderança da ESN Portugal, a rede de mobilidade estudantil Erasmus."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Rede Expressos celebra 31 anos com 100.000 bilhetes a 3,10€ para 31 localidades",
+          "text": "A Rede Expressos comemora 31 anos de atividade com uma campanha especial: 100 mil bilhetes a 3,10€ para 31 destinos diferentes em Portugal."
+        },
+        {
+          "headline": "Homens morrem mais ao volante? Explicação do Código da Estrada gera polémica",
+          "text": "Uma explicação oficial do Código da Estrada sobre a maior mortalidade masculina ao volante está a gerar debate público e controvérsia."
+        },
+        {
+          "headline": "Atenção condutores: há novas regras para carregamentos elétricos",
+          "text": "Entraram em vigor novas regras para o carregamento de veículos elétricos, com mudanças que todos os condutores devem conhecer."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Mulher dá à luz menina em casa por falta de ambulâncias do INEM",
+          "text": "Uma mulher foi obrigada a dar à luz em casa porque não havia ambulâncias do INEM disponíveis. O caso volta a levantar questões sobre a resposta de emergência médica em Portugal."
+        },
+        {
+          "headline": "5 sinais de risco para a saúde emocional dos jovens no verão",
+          "text": "Especialistas alertam para cinco sinais de alerta na saúde emocional de jovens durante o período de verão, quando as rotinas escolares desaparecem."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Porto conquista Supertaça pela 25.ª vez",
+          "text": "O FC Porto conquistou a Supertaça de futebol pela 25.ª vez na sua história, mantendo a sua hegemonia nesta competição."
+        },
+        {
+          "headline": "Supertaça no 'areal' Cidade de Coimbra",
+          "text": "A Supertaça de voleibol de praia vai disputar-se no 'areal' Cidade de Coimbra, trazendo mais um evento desportivo de relevo à cidade."
+        },
+        {
+          "headline": "Académico de Viseu lamenta jogo à porta fechada no estádio da Luz com o SL Benfica",
+          "text": "O Académico de Viseu manifestou descontentamento por ter de jogar à porta fechada no estádio da Luz frente ao SL Benfica, devido a sanções."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Governo diz que 'muitos portugueses' perderam casa e negócio em França",
+          "text": "O Governo português reconheceu que muitos emigrantes portugueses perderam a sua casa e o seu negócio em França, na sequência dos incêndios que afetaram o país."
+        },
+        {
+          "headline": "Autarquias já podem concorrer a fundo para reparar danos da tempestade Kristin",
+          "text": "As autarquias afetadas pela tempestade Kristin já podem candidatar-se a um fundo de financiamento para reparar os estragos causados."
+        },
+        {
+          "headline": "Complemento Solidário para Idosos abrange mais 105 mil beneficiários em dois anos",
+          "text": "O Complemento Solidário para Idosos registou um aumento de 105 mil beneficiários no último biénio, segundo dados do Governo."
+        },
+        {
+          "headline": "Presidente da República pede conclusões rápidas no caso de Luís Neves",
+          "text": "O Presidente da República exigiu conclusões rápidas e apuramento de responsabilidades no caso relacionado com Luís Neves, referindo-se a um 'Estado estagnado'."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "França diz que fogos estão 'de um modo geral, sob controlo'",
+          "text": "As autoridades francesas declararam que os incêndios que assolaram o sul do país estão maioritariamente sob controlo, após dias de combate intenso."
+        },
+        {
+          "headline": "Espanha diz que integridade do espaço Schengen está 'absolutamente garantida'",
+          "text": "O governo espanhol garantiu que a integridade do espaço Schengen está totalmente garantida, no contexto da crise migratória europeia."
+        },
+        {
+          "headline": "Crise migratória: Portugal diz que vai reforçar vigilância nas fronteiras marítima e terrestre",
+          "text": "Portugal anunciou o reforço da vigilância nas suas fronteiras marítima e terrestre no âmbito da resposta à crise migratória europeia."
+        }
+      ]
+    },
+    {
+      "emoji": "🏭",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Na GESMO, o futuro chega à EXPOFACIC: Ford trava, conduz e chama o 112 em emergência",
+          "text": "A GESMO levou à EXPOFACIC um Ford equipado com tecnologia de condução autónoma que trava sozinho e chama automaticamente o 112 em caso de emergência."
+        },
+        {
+          "headline": "CGTP diz que Prestação Social Única apresenta violações aos princípios básicos",
+          "text": "A CGTP criticou a Prestação Social Única do Governo, considerando que viola princípios básicos de proteção social."
+        }
+      ]
+    }
+  ]
+}
