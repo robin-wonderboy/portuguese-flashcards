@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Jogador do FC Porto sofre estiramento no joelho no Estádio Cidade de Coimbra",
+          "text": "O defesa-central Jan Bednarek sofreu uma torção no joelho direito durante a Supertaça Cândido de Oliveira, disputada em Coimbra. O treinador Francesco Farioli criticou o mau estado do relvado, classificando-o de 'inaceitável' pela segurança dos atletas. O FC Porto venceu o Torreense por 1-0."
+        },
+        {
+          "headline": "Arrendar casa em Coimbra está cada vez mais difícil",
+          "text": "Cada anúncio de arrendamento recebeu em média 24 contactos no segundo trimestre de 2026, um aumento de 36% face ao ano anterior. A descida das rendas não significa que o mercado esteja menos pressionado - a procura continua muito acima da oferta."
+        },
+        {
+          "headline": "Prédio em Coimbra parece um jardim suspenso",
+          "text": "O empreendimento Papillon Nature destaca-se pela arquitetura que combina linhas curvas, madeira e vegetação, criando um edifício que se assemelha a um jardim vertical com forte ligação entre espaços interiores e exteriores."
+        },
+        {
+          "headline": "Operação 'Barril Fresco': Flor dos Jardins da AAC suspenso",
+          "text": "O Conselho Disciplinar da AAC considerou Francisco Flor culpado por incumprimento de 10 artigos dos Estatutos, suspendendo a sua capacidade eleitoral por quatro anos. O caso envolve suspeitas de interferências externas e divergências com os interesses da Associação. Flor já anunciou que vai recorrer."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "POLÍCIA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "PSP encontra droga escondida debaixo de banco e detém suspeito",
+          "text": "Um homem de 24 anos, de nacionalidade estrangeira, foi detido pela PSP da Amadora. Os agentes encontraram 379 euros em numerário, uma faca e sacos herméticos com 27,82 doses de haxixe, 3,1 doses de heroína e 78,9 doses de cocaína. O suspeito encontrava-se em situação irregular em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "category": "AVIAÇÃO & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Airbus da TAP aterra de emergência nos Açores",
+          "text": "O voo TP217, com destino a Boston, fez uma escala não programada no aeroporto das Lajes, na Terceira, devido a uma avaria técnica. A TAP afirmou que o voo seguirá para o destino final assim que possível."
+        },
+        {
+          "headline": "Rede Expressos celebra 31 anos com 100.000 bilhetes a 3,10€",
+          "text": "A campanha '31 anos, 31 dias, 31 localidades' estará disponível durante todo o mês de agosto, permitindo viajar de e para 31 localidades em Portugal a preços especiais."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "SEGURANÇA RODOVIÁRIA",
+      "stories": [
+        {
+          "headline": "Homens morrem mais ao volante? Explicação do Código da Estrada gera polémica",
+          "text": "Os dados confirmam que os homens estão envolvidos em mais acidentes rodoviários graves, mas a justificação apresentada num manual do Código da Estrada - alegada maior 'confiança' masculina - está a gerar debate. Um sociólogo considera que esta explicação perpetua estereótipos de género."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & TRADIÇÃO",
+      "stories": [
+        {
+          "headline": "Começam as Festas de La Salette: dez dias de fé, tradição e concertos",
+          "text": "O Parque de La Salette, em Oliveira de Azeméis, recebe até 10 de agosto uma das maiores manifestações religiosas da Área Metropolitana do Porto. A Procissão das Velas realiza-se às 21h00 e a Procissão do Triufo no próximo domingo. Há também caminhada, cicloturismo e atletismo."
+        },
+        {
+          "headline": "EXPOFACIC: 'É impossível comprar só 100 gramas de gomas'",
+          "text": "Uma das bancas mais populares da feira expoencial atrai multidões com gomas e doces. O brinde mais 'rock' do evento foi também destacado pelo NDC."
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "PRAIAS & MAR",
+      "stories": [
+        {
+          "headline": "Bandeira roxa na praia: o que significa?",
+          "text": "Para além das habituais bandeiras verde, amarela e vermelha, existe a bandeira roxa, hasteada para alertar os banhistas para a presença de organismos marinhos potencialmente perigosos, como medusas e caravelas-portuguesas."
+        },
+        {
+          "headline": "Polícia Marítima apreende 1.620 quilos de pescado em Aveiro",
+          "text": "A operação de fiscalização resultou na apreensão de mais de meia tonelada de pescado, no âmbito da fiscalização da atividade piscatória na região de Aveiro."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "INTERNACIONAL",
+      "stories": [
+        {
+          "headline": "Governo diz que 'muitos portugueses' perderam casa e negócio em França",
+          "text": "O secretário de Estado das Comunidades Portuguesas garantiu que não recebeu pedidos de ajuda, mas sabe que há portugueses que perderam casa e negócio devido aos incêndios na zona de Marselha. O governo está em contacto com os serviços consulares no terreno."
+        },
+        {
+          "headline": "'Fomos enganados': o drama das crianças marroquinas em Ceuta",
+          "text": "Centenas de pré-adolescentes marroquinos enchiam a zona industrial de El Tarajal, em Ceuta, atraídos pelo Instagram com indicações de como chegar a Espanha e ser acolhidos num centro de menores. Muitos admitiram ter sido enganados."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & SAÚDE",
+      "stories": [
+        {
+          "headline": "UC ajuda a criar programa contra a violência sexual nas escolas",
+          "text": "O projeto SUN concluiu um ensaio clínico em quatro escolas do Porto e Aveiro, ajudando mais de 200 jovens no combate a mitos sobre violência sexual e no aumento da empatia, formando testemunhas ativas."
+        },
+        {
+          "headline": "5 sinais de risco para a saúde emocional dos jovens no verão",
+          "text": "Especialistas alertam para sinais de risco na saúde emocional de adolescentes durante as férias de verão, período que pode trazer isolamento e ansiedade."
+        },
+        {
+          "headline": "Pele mais sensível no verão: cuidados a ter",
+          "text": "Os dermatologistas recomendam atenção redobrada com a pele durante os meses mais quentes, para evitar o agravamento de sintomas e condições cutâneas."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Juntar créditos num só: quanto pode baixar a prestação?",
+          "text": "A consolidação de créditos pode reduzir significativamente a prestação mensal, mas é importante avaliar as condições e o custo total da operação a longo prazo."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "FC Porto conquista a 25ª Supertaça em Coimbra",
+          "text": "Os azuis e brancos venceram o Torreense por 1-0 com um golo de Victor Froholdt aos 38 minutos. Bednarek juntou-se ao boletim clínico da equipa. A defesa do título de campeão começa a 9 de agosto com a receção ao Alverca."
+        }
+      ]
+    },
+    {
+      "emoji": "🎪",
+      "category": "POLÍTICA & MEDIA",
+      "stories": [
+        {
+          "headline": "'Epá' Santana Lopes! 12 sonoros 'epá' na televisão",
+          "text": "Pedro Santana Lopes voltou a provar que há hábitos que nem o tempo muda. Na emissão do programa Percepções e Realidades, o autarca da Figueira da Foz brindou os telespectadores com 12 sonoros 'epá', mantendo viva uma das expressões mais icónicas da política portuguesa."
+        }
+      ]
+    }
+  ]
+}
