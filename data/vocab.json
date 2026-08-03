@@ -22759,5 +22759,191 @@
       "pt": "apreende",
       "de": "beschlagnahmt"
     }
+  ],
+  "2026-08-03": [
+    {
+      "pt": "o estiramento",
+      "de": "Dehnung/Zerrung",
+      "en": "muscle strain",
+      "example": "O jogador sofreu um estiramento no joelho.",
+      "example_de": "Der Spieler erlitt eine Zerrung im Knie.",
+      "example_en": "The player suffered a knee strain."
+    },
+    {
+      "pt": "o quiosque",
+      "de": "Kiosk",
+      "en": "kiosk/stand",
+      "example": "O quiosque na EXPOFACIC vende gomas.",
+      "example_de": "Der Kiosk auf der EXPOFACIC verkauft Fruchtgummis.",
+      "example_en": "The kiosk at EXPOFACIC sells gummies."
+    },
+    {
+      "pt": "perder",
+      "de": "verlieren",
+      "en": "to lose",
+      "example": "Muitos portugueses perderam casa e negócio em França.",
+      "example_de": "Viele Portugiesen verloren Haus und Geschäft in Frankreich.",
+      "example_en": "Many Portuguese lost their homes and business in France."
+    },
+    {
+      "pt": "enfrentar",
+      "de": "konfrontieren",
+      "en": "to face/confront",
+      "example": "Os jovens enfrentam a violência sexual.",
+      "example_de": "Die Jugendlichen konfrontieren sexuelle Gewalt.",
+      "example_en": "Young people face sexual violence."
+    },
+    {
+      "pt": "a torção",
+      "de": "Verdrehung",
+      "en": "twist/torsion",
+      "example": "Ele teve uma torção no joelho.",
+      "example_de": "Er hatte eine Verdrehung im Knie.",
+      "example_en": "He had a torsion in his knee."
+    },
+    {
+      "pt": "o tráfico",
+      "de": "Drogenhandel",
+      "en": "trafficking",
+      "example": "O suspeito de tráfico foi detido pela PSP.",
+      "example_de": "Der Verdächtige des Drogenhandels wurde von der Polizei festgenommen.",
+      "example_en": "The trafficking suspect was detained by police."
+    },
+    {
+      "pt": "hermético",
+      "de": "luftdicht",
+      "en": "airtight",
+      "example": "A droga estava em sacos herméticos.",
+      "example_de": "Die Drogen waren in luftdichten Beuteln.",
+      "example_en": "The drugs were in airtight bags."
+    },
+    {
+      "pt": "recorrer",
+      "de": "Berufung einlegen",
+      "en": "to appeal",
+      "example": "Francisco Flor vai recorrer da decisão.",
+      "example_de": "Francisco Flor wird Berufung gegen die Entscheidung einlegen.",
+      "example_en": "Francisco Flor will appeal the decision."
+    },
+    {
+      "pt": "o telespectador",
+      "de": "Zuschauer",
+      "en": "TV viewer",
+      "example": "O autarca brindou os telespectadores com 12 sonoros epá.",
+      "example_de": "Der Bürgermeister bescherte die Zuschauer mit 12 lauten 'epá'.",
+      "example_en": "The mayor treated viewers to 12 loud 'epá'."
+    },
+    {
+      "pt": "o medusa",
+      "de": "Qualle",
+      "en": "jellyfish",
+      "example": "A bandeira roxa alerta para medusas na praia.",
+      "example_de": "Die lila Flagge warnt vor Quallen am Strand.",
+      "example_en": "The purple flag warns of jellyfish at the beach."
+    },
+    {
+      "pt": "o pré-adolescente",
+      "de": "Vorpubertierender",
+      "en": "pre-teen",
+      "example": "Centenas de pré-adolescentes marroquinos em Ceuta.",
+      "example_de": "Hunderte marokkanische Vorpubertierende in Ceuta.",
+      "example_en": "Hundreds of Moroccan pre-teens in Ceuta."
+    },
+    {
+      "pt": "o arrependimento",
+      "de": "Reue",
+      "en": "regret",
+      "example": "O suspeito não mostrou arrependimento nenhum.",
+      "example_de": "Der Verdächtige zeigte keine Reue.",
+      "example_en": "The suspect showed no regret."
+    },
+    {
+      "pt": "o credor",
+      "de": "Gläubiger",
+      "en": "creditor",
+      "example": "Juntar créditos num só pode baixar a prestação.",
+      "example_de": "Kredite zusammenlegen kann die Rate senken.",
+      "example_en": "Consolidating credits can lower the installment."
+    },
+    {
+      "pt": "o boletim clínico",
+      "de": "Krankenbericht",
+      "en": "medical report",
+      "example": "Bednarek juntou-se ao boletim clínico da equipa.",
+      "example_de": "Bednarek wurde in den Krankenbericht der Mannschaft aufgenommen.",
+      "example_en": "Bednarek joined the team's medical report."
+    },
+    {
+      "pt": "o ensaio clínico",
+      "de": "klinische Studie",
+      "en": "clinical trial",
+      "example": "O projeto concluiu um ensaio clínico em quatro escolas.",
+      "example_de": "Das Projekt schloss eine klinische Studie an vier Schulen ab.",
+      "example_en": "The project completed a clinical trial in four schools."
+    },
+    {
+      "pt": "requerer",
+      "de": "erfordern",
+      "en": "to require",
+      "example": "O processo requer recurso da decisão.",
+      "example_de": "Der Prozess erfordert Berufung gegen die Entscheidung.",
+      "example_en": "The process requires appealing the decision."
+    },
+    {
+      "pt": "o sonoro",
+      "de": "Klang",
+      "en": "sound/loud",
+      "example": "Brindou os telespectadores com 12 sonoros epá.",
+      "example_de": "Er bescherte die Zuschauer mit 12 klangvollen 'epá'.",
+      "example_en": "He treated viewers to 12 sonorous 'epá'."
+    },
+    {
+      "pt": "o pretender",
+      "de": "beabsichtigen",
+      "en": "to intend",
+      "example": "O jovem pretende recorrer da decisão.",
+      "example_de": "Der junge Mann beabsichtigt, Berufung einzulegen.",
+      "example_en": "The young man intends to appeal the decision."
+    },
+    {
+      "pt": "o consular",
+      "de": "konsularisch",
+      "en": "consular",
+      "example": "Estamos em contacto com os serviços consulares no terreno.",
+      "example_de": "Wir sind in Kontakt mit den Konsulatsdiensten vor Ort.",
+      "example_en": "We are in contact with consular services on the ground."
+    },
+    {
+      "pt": "o defesa-central",
+      "de": "Innenverteidiger",
+      "en": "center-back (football)",
+      "example": "O defesa-central Bednarek foi substituído ao intervalo.",
+      "example_de": "Der Innenverteidiger Bednarek wurde zur Halbzeit ausgewechselt.",
+      "example_en": "Center-back Bednarek was substituted at half-time."
+    },
+    {
+      "pt": "o passo",
+      "de": "Schritt",
+      "en": "step",
+      "example": "Deu um passo em frente e enfrentou o problema.",
+      "example_de": "Er machte einen Schritt nach vorne und konfrontierte das Problem.",
+      "example_en": "He took a step forward and faced the problem."
+    },
+    {
+      "pt": "a mão",
+      "de": "Hand",
+      "en": "hand",
+      "example": "A polícia encontrou a droga na sua mão.",
+      "example_de": "Die Polizei fand die Drogen in seiner Hand.",
+      "example_en": "The police found the drugs in his hand."
+    },
+    {
+      "pt": "engrandecer",
+      "de": "vergrößern",
+      "en": "to enlarge",
+      "example": "O programa engrandecer a empatia dos jovens.",
+      "example_de": "Das Programm vergrößert die Empathie der Jugendlichen.",
+      "example_en": "The program enlarges the empathy of young people."
+    }
   ]
 }
