@@ -22945,5 +22945,119 @@
       "example_de": "Das Programm vergrößert die Empathie der Jugendlichen.",
       "example_en": "The program enlarges the empathy of young people."
     }
+  ],
+  "2026-08-04": [
+    {
+      "pt": "a renaturalização",
+      "de": "Renaturierung",
+      "en": "renaturalization",
+      "example": "O projeto de renaturalização do rio Cobral está na fase final",
+      "example_de": "Das Renaturierungsprojekt des Flusses Cobral ist in der Endphase",
+      "example_en": "The renaturalization project of the Cobral river is in its final phase"
+    },
+    {
+      "pt": "destronar",
+      "de": "vom Thron stürzen",
+      "en": "to dethrone",
+      "example": "Vem para destronar os petiscos tradicionais",
+      "example_de": "Kommt, um die traditionellen Häppchen vom Thron zu stürzen",
+      "example_en": "Comes to dethrone the traditional snacks"
+    },
+    {
+      "pt": "o sargento",
+      "de": "Feldwebel",
+      "en": "sergeant",
+      "example": "O sargento morreu ao regressar de uma concentração motard",
+      "example_de": "Der Feldwebel starb auf dem Rückweg von einem Motorradtreffen",
+      "example_en": "The sergeant died returning from a motorcycle gathering"
+    },
+    {
+      "pt": "o carteirista",
+      "de": "Taschendieb",
+      "en": "pickpocket",
+      "example": "Caça aos carteiristas termina com quatro detidos",
+      "example_de": "Taschendieb-Jagd endet mit vier Festnahmen",
+      "example_en": "Pickpocket hunt ends with four arrests"
+    },
+    {
+      "pt": "a longevidade",
+      "de": "Langlebigkeit",
+      "en": "longevity",
+      "example": "Sobre o segredo da longevidade das suas canções",
+      "example_de": "Über das Geheimnis der Langlebigkeit ihrer Lieder",
+      "example_en": "About the secret of the longevity of their songs"
+    },
+    {
+      "pt": "a hidroginástica",
+      "de": "Wassergymnastik",
+      "en": "water aerobics",
+      "example": "Aulas gratuitas de hidroginástica nas piscinas",
+      "example_de": "Kostenloser Wassergymnastik-Unterricht in den Schwimmbädern",
+      "example_en": "Free water aerobics classes at the pools"
+    },
+    {
+      "pt": "o açor",
+      "de": "Azorengreifvogel",
+      "en": "goshawk (bird)",
+      "example": "Açor é salvo pela GNR na Sertã",
+      "example_de": "Azorengreifvogel wird von der GNR in der Sertã gerettet",
+      "example_en": "Goshawk rescued by GNR in Sertã"
+    },
+    {
+      "pt": "a nascente",
+      "de": "Quelle",
+      "en": "source/spring",
+      "example": "Desde a nascente até à foz",
+      "example_de": "Von der Quelle bis zur Mündung",
+      "example_en": "From the source to the mouth"
+    },
+    {
+      "pt": "a foz",
+      "de": "Mündung",
+      "en": "river mouth",
+      "example": "O rio Cobral vai ser renaturalizado da nascente até à foz",
+      "example_de": "Der Fluss Cobral wird von der Quelle bis zur Mündung renaturiert",
+      "example_en": "The Cobral river will be renaturalized from source to mouth"
+    },
+    {
+      "pt": "a digressão",
+      "de": "Tournee",
+      "en": "tour",
+      "example": "O alinhamento desta digressão é construído à volta dos grandes singles",
+      "example_de": "Das Programm dieser Tournee ist um die größten Singles herum aufgebaut",
+      "example_en": "The setlist of this tour is built around the greatest singles"
+    },
+    {
+      "pt": "a malta",
+      "de": "die Leute/Truppe",
+      "en": "the folks/crowd (informal)",
+      "example": "Vamos puxar até ao fim pela malta",
+      "example_de": "Wir ziehen bis zum Schluss mit der Truppe mit",
+      "example_en": "Well push through to the end with the crowd"
+    },
+    {
+      "pt": "a oferta formativa",
+      "de": "Ausbildungsangebot",
+      "en": "training offer/curriculum",
+      "example": "Estudantes defendem revisão da oferta formativa",
+      "example_de": "Studenten fordern Überprüfung des Ausbildungsangebots",
+      "example_en": "Students defend revision of the training offer"
+    },
+    {
+      "pt": "a concentração",
+      "de": "Treffen",
+      "en": "gathering/rally",
+      "example": "Morreu ao regressar de uma concentração motard",
+      "example_de": "Starb auf dem Rückweg von einem Motorradtreffen",
+      "example_en": "Died returning from a motorcycle gathering"
+    },
+    {
+      "pt": "a malta nova",
+      "de": "die jungen Leute",
+      "en": "the young crowd",
+      "example": "Há muita malta nova a cantar as nossas canções",
+      "example_de": "Es gibt viele junge Leute, die unsere Lieder singen",
+      "example_en": "Theres a lot of young crowd singing our songs"
+    }
   ]
 }
