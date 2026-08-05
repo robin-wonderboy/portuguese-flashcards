@@ -23059,5 +23059,95 @@
       "example_de": "Es gibt viele junge Leute, die unsere Lieder singen",
       "example_en": "Theres a lot of young crowd singing our songs"
     }
+  ],
+  "2026-08-05": [
+    {
+      "pt": "o curto-circuito",
+      "de": "der Kurzschluss",
+      "en": "the short circuit",
+      "example": "as chamas tiveram origem num curto-circuito no exaustor",
+      "example_de": "die Flammen entstanden durch einen Kurzschluss im Abzug",
+      "example_en": "the flames originated from a short circuit in the exhaust fan"
+    },
+    {
+      "pt": "o ciberataque",
+      "de": "der Cyberangriff",
+      "en": "the cyberattack",
+      "example": "Águas de Portugal sofre ciberataque",
+      "example_de": "Águas de Portugal erleidet Cyberangriff",
+      "example_en": "Águas de Portugal suffers cyberattack"
+    },
+    {
+      "pt": "intervir",
+      "de": "eingreifen/einschreiten",
+      "en": "to intervene",
+      "example": "interviu para proteger a companheira",
+      "example_de": "griff ein, um die Partnerin zu schützen",
+      "example_en": "intervened to protect his partner"
+    },
+    {
+      "pt": "reclassificar",
+      "de": "neu klassifizieren",
+      "en": "to reclassify",
+      "example": "cria e reclassifica praias",
+      "example_de": "erstellt und klassifiziert Strände neu",
+      "example_en": "creates and reclassifies beaches"
+    },
+    {
+      "pt": "protelar",
+      "de": "aufschieben/hinauszögern",
+      "en": "to delay/postpone",
+      "example": "o problema das altas hospitalares proteladas",
+      "example_de": "das Problem der aufgeschobenen Krankenhausentlassungen",
+      "example_en": "the problem of delayed hospital discharges"
+    },
+    {
+      "pt": "ostentar",
+      "de": "präsentieren/herzeigen",
+      "en": "to display/show off",
+      "example": "este espaço ostenta a Bandeira Azul",
+      "example_de": "dieser Ort präsentiert die Blaue Flagge",
+      "example_en": "this place boasts the Blue Flag"
+    },
+    {
+      "pt": "o estupaciente",
+      "de": "die Rauschmittel/Drogen",
+      "en": "narcotics/drugs",
+      "example": "condutora sob influência de estupacientes",
+      "example_de": "Fahrerin unter Einfluss von Rauschmitteln",
+      "example_en": "driver under the influence of narcotics"
+    },
+    {
+      "pt": "o progenitor",
+      "de": "der Elternteil",
+      "en": "the parent/progenitor",
+      "example": "sem a companhia dos seus progenitores",
+      "example_de": "ohne Begleitung ihrer Elternteile",
+      "example_en": "without the company of her parents"
+    },
+    {
+      "pt": "o autoproclamado",
+      "de": "der sich selbst ernannte",
+      "en": "the self-proclaimed",
+      "example": "o autoproclamado CR7 das farturas",
+      "example_de": "der sich selbst ernannte CR7 der Farturas",
+      "example_en": "the self-proclaimed CR7 of farturas"
+    },
+    {
+      "pt": "o lateral",
+      "de": "der Außenverteidiger",
+      "en": "the fullback/side player",
+      "example": "o lateral-esquerdo Hélder Lopes",
+      "example_de": "der linke Außenverteidiger Hélder Lopes",
+      "example_en": "left back Hélder Lopes"
+    },
+    {
+      "pt": "a participação",
+      "de": "die Anzeige/die Meldung",
+      "en": "the report/complaint (to authorities)",
+      "example": "aumento nas participações por violência doméstica",
+      "example_de": "Anstieg bei Anzeigen wegen häuslicher Gewalt",
+      "example_en": "increase in reports of domestic violence"
+    }
   ]
 }
