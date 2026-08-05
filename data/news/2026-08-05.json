@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "REGIÃO & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Casal com 2 bebés fica desalojado após incêndio em Oliveira do Hospital",
+          "text": "Um incêndio num exaustor de uma habitação mobilizou os meios de socorro na noite de terça-feira, 4 de agosto, no Largo Luís Vaz de Camões, em Oliveira do Hospital. As chamas tiveram origem num curto-circuito no exaustor da cozinha. O casal e os dois bebés ficaram desalojados por precaução."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "EXPOFACIC & CULTURA",
+      "stories": [
+        {
+          "headline": "O \"CR7 das farturas\" marca \"doces golos\" na Expofacic há mais de 20 anos",
+          "text": "Cristiano, o autoproclamado \"CR7 das farturas\", leva décadas a adoçar os visitantes da Expofacic e garante que o segredo do sucesso está na dedicação. É um dos rostos mais conhecidos da feira, com fãs que regressam todos os anos à sua banca."
+        },
+        {
+          "headline": "Casa cheia, leitão esgotado e uma promessa: o melhor ainda está para vir na Expofacic",
+          "text": "A Expofacic 2026 chegou ao sexto dia e entra na reta final com um balanço positivo. O presidente da Inova, Pedro Cardoso, acredita que os primeiros dias deixam bons indicadores para o que falta até ao encerramento, marcado para 9 de agosto."
+        },
+        {
+          "headline": "Cantanhede rendida a Diogo Piçarra: fãs fazem peregrinação para ver o ídolo na Expofacic",
+          "text": "Os fãs de Diogo Piçarra deslocaram-se em peso a Cantanhede para ver o artista se apresentar na Expofacic, numa verdadeira peregrinação de admiradores."
+        },
+        {
+          "headline": "João Pedro Pais promete um concerto \"do caracas\" na Expofacic",
+          "text": ""
+        },
+        {
+          "headline": "Alma de Coimbra leva a tradição académica ao Coliseu Club de Lisboa",
+          "text": ""
+        },
+        {
+          "headline": "Figueira da Foz leva música e património ao Paço de Maiorca com concerto dos Cais Sodré Funk Connection",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "CRIME & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Águas de Portugal sofre ciberataque",
+          "text": "A Águas de Portugal foi alvo de um ciberataque de elevada complexidade, que está a ser investigado pela Polícia Judiciária e pelo Centro Nacional de Cibersegurança. O ataque afetou alguns sistemas informáticos, provocando constrangimentos temporários em processos administrativos. A empresa garante que o abastecimento de água não foi comprometido."
+        },
+        {
+          "headline": "Amarrada, asfixiada e escondida durante dias: Maria Custódia Amaral viveu o inferno antes de morrer",
+          "text": "Mais de seis meses após a morte de Maria Custódia Amaral, filha da atriz Delfina Cruz, continuam a ser conhecidos novos detalhes sobre o crime que chocou o país. A agente imobiliária desapareceu sem deixar rasto e foi encontrada morta na Lagoa de Óbidos. A Polícia Judiciária deteve o principal suspeito, um homem de 35 anos."
+        },
+        {
+          "headline": "Violência doméstica sobe 13,3% e faz sete vítimas mortais em três meses",
+          "text": "As forças de segurança registaram um aumento de 13,3% nas participações por violência doméstica entre abril e junho, com mais de 7.800 casos. Sete pessoas foram assassinadas no mesmo período, segundo dados da Comissão para a Cidadania e Igualdade de Género."
+        },
+        {
+          "headline": "Menina denuncia abusos do próprio tio durante férias em Espanha",
+          "text": "A Polícia Judiciária deteve um homem de 59 anos, suspeito de dois crimes de abuso sexual de menores sobre a sua sobrinha de 15 anos. Os factos ocorreram durante um período de férias em Espanha, num contexto em que a vítima se encontrava ao cuidado dos tios."
+        },
+        {
+          "headline": "Condutora sob efeito de cocaína deixa o triatleta português Tiago Rodrigues a lutar pela vida",
+          "text": "O triatleta português Tiago Rodrigues, campeão nacional da categoria 20-24, foi atropelado no domingo em Espanha por uma condutora sob influência de estupacientes. O atleta foi transportado em estado grave para o hospital e será operado."
+        },
+        {
+          "headline": "Dono de posto de combustível e mulher detidos após agressões a militares da GNR",
+          "text": "Uma fiscalização da GNR num posto de combustível em Sesimbra terminou com duas pessoas detidas por alegadas agressões aos militares. O proprietário começou por insultar os elementos da patrulha durante a elaboração de um auto de contraordenação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "AMBIENTE & LITORAL",
+      "stories": [
+        {
+          "headline": "Governo aprova novas regras para proteger o litoral entre Ovar e a Marinha Grande",
+          "text": "A revisão do Programa da Orla Costeira reforça a proteção contra a erosão costeira, cria e reclassifica praias e atualiza as normas de gestão de cerca de 140 quilómetros de costa. A medida visa proteger pessoas, ecossistemas costeiros e infraestruturas."
+        },
+        {
+          "headline": "Praia Fluvial da Ereira: um refúgio natural com Bandeira Azul às portas de Montemor-o-Velho",
+          "text": "A Praia Fluvial do Esteiro da Ereira é um dos segredos mais bem guardados da região Centro, com um areal que faz lembrar uma praia marítima. Ostenta a Bandeira Azul e a distinção Praia com Qualidade de Ouro, galardões que refletem a qualidade ambiental e as condições oferecidas aos visitantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SAÚDE",
+      "stories": [
+        {
+          "headline": "Ministra da Saúde admite cobrar a quem não aceite vaga nos cuidados continuados",
+          "text": "A ministra da Saúde admitiu cobrar taxas nos hospitais aos utentes que recusem vaga nos cuidados continuados. A proposta do Conselho Nacional de Ética para as Ciências da Vida visa resolver o problema das altas hospitalares proteladas, quando já existe oferta de um espaço em cuidados continuados."
+        }
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "category": "VAMOS & LAZER",
+      "stories": [
+        {
+          "headline": "Cruzeiro da Ria regressa a Ovar com experiências náuticas para toda a família",
+          "text": "Nos dias 8 e 9 de agosto, o Porto de Recreio do Carregal em Ovar recebe o 62.º Cruzeiro da Ria, uma das mais antigas provas de vela da Península Ibérica, que liga Ovar a Aveiro através dos canais da Ria. O município preparou um programa complementar de animação com música, natureza e experiências náuticas para todas as idades."
+        },
+        {
+          "headline": "Motards vão invadir Góis ao som dos Xutos & Pontapés",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Defesa Hélder Lopes reforça Académica",
+          "text": "O lateral-esquerdo português Hélder Lopes, de 37 anos, que nas últimas cinco épocas alinhou nos israelitas do Hapoel Be'er Sheva, é reforço da Académica para a nova temporada. Destacou-se no Paços de Ferreira antes de rumar aos espanhóis do Las Palmas e aos gregos do AEK."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra: Preços das casas sobem 15,1% em julho",
+          "text": "Os preços das casas em Portugal subiram 8% em julho face ao mesmo mês de 2025. Apesar de o ritmo de crescimento ter abrandado face aos 8,9% de junho, os preços da habitação continuam a renovar máximos históricos, com um custo médio de 3.210 euros por metro quadrado."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Rede Expressos celebra 31 anos com 100.000 bilhetes a 3,10€ para 31 localidades",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Exames: Candidatos ao ensino superior ultrtrapassam 1.ª fase do ano passado",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
