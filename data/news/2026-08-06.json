@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Último adeus a Fátima já tem data marcada",
+          "text": "O velório de Fátima Costa, mulher de 64 anos que morreu no despiste de um autocarro dos Transportes Urbanos de Tomar, realiza-se esta quinta-feira às 18:00 na Casa Mortuária de Tomar. As cerimónias fúnebres prosseguem na sexta-feira com cerimónia religiosa marcada para as 11:00."
+        },
+        {
+          "headline": "Nuno Markl emociona-se ao recordar bombeiro que o ajudou após AVC",
+          "text": "O conhecido comunicador partilhou publicamente o momento em que recordou o bombeiro que o assistiu depois de ter sofrido um Acidente Vascular Cerebral."
+        },
+        {
+          "headline": "Calor pode tornar-se insuportável nos próximos dias",
+          "text": "Prepare-se: as previsões apontam para temperaturas extremas que podem tornar o calor insuportável em várias zonas do país."
+        },
+        {
+          "headline": "Antigo Bilhete de Identidade já não é aceite",
+          "text": "Quem planeia viajar deve estar atento: o antigo Bilhete de Identidade deixou de ser aceite como documento de viagem."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Colisão entre dois carros faz três feridos em Cantanhede",
+          "text": "Uma colisão entre duas viaturas ligeiras em Cantanhede resultou em três feridos ligeiros, segundo o Comando Sub-regional de Emergência e Proteção Civil da Região de Coimbra."
+        },
+        {
+          "headline": "Incêndio destrói 4 viaturas em Tábua",
+          "text": "Um incêndio numa garagem em Póvoa de Midões, concelho de Tábua, consumiu 4 viaturas ligeiras. Não houve feridos a registar."
+        },
+        {
+          "headline": "Expofacic entra na reta final com balanço positivo na segurança",
+          "text": "A feira de Cantanhede está a entrar na reta final com um balanço muito positivo em termos de segurança, graças a um posto de comando que vigia tudo em tempo real."
+        },
+        {
+          "headline": "Há tratores para todas as carteiras na Expofacic",
+          "text": "A Expofacic voltou a reunir uma ampla exposição de tratores, com modelos para todos os bolsos, numa das maiores feiras agrícolas do Centro do país."
+        },
+        {
+          "headline": "Cantanhede de outros tempos ganha nova vida na Biblioteca Municipal",
+          "text": "Uma exposição de fotografias antigas está a redescobrir o passado de Cantanhede nas telas da Biblioteca Municipal."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "VAMOS (LAZER & CULTURA)",
+      "stories": [
+        {
+          "headline": "Praia fluvial da Senhora da Graça: mergulho no rio e na piscina na Serra da Lousã",
+          "text": "Entre o verde da Serra da Lousã e as águas cristalinas do rio Ceira, esta praia fluvial combina tranquilidade e infraestruturas para famílias, com piscina para crianças e zona de relvado."
+        },
+        {
+          "headline": "Diogo Piçarra incendiou a Expofacic",
+          "text": "O cantor levou a sua música ao palco da Expofacic numa noite memorável que deixou o recinto em festa."
+        },
+        {
+          "headline": "Figueira da Foz celebra Dia Internacional da Juventude com ProfJam",
+          "text": "A cidade de Figueira da Foz assinala o Dia Internacional da Juventude com um concerto de ProfJam e muitas mais atividades."
+        },
+        {
+          "headline": "As noites mais bonitas de agosto vivem-se em Pampilhosa da Serra",
+          "text": "O programa de agosto em Pampilhosa da Serra promete noites inesquecíveis, com música, cultura e natureza."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Beco de Santa Maria: santuário dos traficantes de droga em Coimbra",
+          "text": "Duas detenções por suspeita de tráfico ocorreram no Beco de Santa Maria, na Baixa de Coimbra. Um homem de 33 anos foi detido durante um patrulhamento com 13 doses de cocaína na sua posse."
+        },
+        {
+          "headline": "Guardas prisionais agredidos por recluso suspeito de ter HIV",
+          "text": "Guardas prisionais foram agredidos por um recluso suspeito de ser portador do vírus HIV, num incidente que levantou preocupações de segurança."
+        },
+        {
+          "headline": "Cena de terror na Marinha Grande: homem espancado e raptado",
+          "text": "Um homem foi espancado e raptado na Marinha Grande, num caso que está a ser investigado pelas autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Rede Expressos celebra 31 anos com 100.000 bilhetes a 3,10€",
+          "text": "A Rede Expressos assinala 31 anos de atividade com uma campanha que oferece 100.000 bilhetes a 3,10€ para 31 localidades."
+        },
+        {
+          "headline": "Homens morrem mais ao volante? Código da Estrada gera polémica",
+          "text": "Uma explicação do Código da Estrada sobre a mortalidade masculina ao volante está a gerar polémica entre condutores."
+        },
+        {
+          "headline": "Novas regras para carregamentos elétricos",
+          "text": "Atenção, condutores: há novas regras para os carregamentos de veículos elétricos que mudam a forma como os utilizadores interagem com as estações de carga."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "DIÁRIO DA SAÚDE",
+      "stories": [
+        {
+          "headline": "O coração não tira férias: manter a medicação no verão é essencial",
+          "text": "Médicos alertam que interromper a medicação durante o verão pode fazer toda a diferença, especialmente para doentes cardiovasculares."
+        },
+        {
+          "headline": "Estudo da UC: grávidas preferem maior mobilidade durante o trabalho de parto",
+          "text": "Um estudo da Escola Superior de Enfermagem da Universidade de Coimbra concluiu que grávidas informadas preferem maior mobilidade e posições verticalizadas durante o trabalho de parto."
+        },
+        {
+          "headline": "Ministra da Saúde admite cobrar a quem recusa vaga nos cuidados continuados",
+          "text": "A Ministra da Saúde admita a possibilidade de cobrar a doentes que não aceitam vagas nos cuidados continuados."
+        },
+        {
+          "headline": "Foram codificadas 155 novas doenças raras em 2025",
+          "text": "O ano de 2025 ficou marcado pela codificação de 155 novas doenças raras, um passo importante para o diagnóstico e tratamento."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Carlos Rabadão toma posse como primeiro reitor da Universidade de Leiria e Oeste",
+          "text": "Carlos Rabadão tomou posse como primeiro reitor da recém-criada Universidade de Leiria e Oeste, marcando uma nova era no ensino superior da região."
+        },
+        {
+          "headline": "Professores: praticamente impossível concluir reapreciações até sexta",
+          "text": "Professores consideram praticamente impossível concluir as reapreciações de exames até sexta-feira, gerando apreensão no meio escolar."
+        },
+        {
+          "headline": "Cursos da Politécnica de Coimbra com desemprego zero",
+          "text": "Há cursos da Universidade Politécnica de Coimbra com taxa de desemprego zero, revelando forte empregabilidade dos diplomados."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Julius Johansen vence em Lisboa e é o primeiro líder da Volta a Portugal",
+          "text": "O ciclista Julius Johansen conquistou a vitória na etapa de Lisboa e tornou-se o primeiro líder da Volta a Portugal 2026."
+        },
+        {
+          "headline": "Defesa Hélder Lopes reforça a Académica",
+          "text": "O defesa Hélder Lopes foi anunciado como novo reforço da Académica de Coimbra para a época que se avizinha."
+        },
+        {
+          "headline": "Chuva de medalhas para Cantanhede nos Nacionais de Ciclismo",
+          "text": "Cantanhede conquistou sete pódios nos Campeonatos Nacionais de Ciclismo, numa prestação de destaque."
+        },
+        {
+          "headline": "Porto conquista Supertaça pela 25ª vez",
+          "text": "O FC Porto voltou a conquistar a Supertaça, somando a 25ª vitória na prova."
+        }
+      ]
+    }
+  ]
+}
