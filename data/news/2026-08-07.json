@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & ENTRETENIMENTO",
+      "stories": [
+        {
+          "headline": "Expofacic caminha para mais uma casa cheia",
+          "text": "A Expofacic em Cantanhede prepara-se para uma noite espetacular esta sexta-feira. Tudo indica que vai ser uma grande noite, com o palco principal a receber os Calema, que prometem dar 100%."
+        },
+        {
+          "headline": "Calema dão 100% no palco da Expofacic",
+          "text": "A banda Calema subiu ao palco da Expofacic com toda a energia. Amar pela metade? Nem pensar - o duo deu tudo no concerto que está a ser um dos momentos altos do festival."
+        },
+        {
+          "headline": "João Só rende-se à Expofacic",
+          "text": "O cantor João Só declarou que a Expofacic é um dos seus palcos preferidos. O artista atuou no festival levando consigo uma fã especial - Margarida, que celebrou o aniversário a subir ao palco."
+        },
+        {
+          "headline": "Tony Carreira em concerto solidário em Góis",
+          "text": "As Festas do Município de Góis arrancaram hoje com um concerto solidário de Tony Carreira, dedicado à memória de Sara Carreira e a favor da associação que tem o nome da artista."
+        },
+        {
+          "headline": "Oliveira do Hospital prepara fim de semana medieval",
+          "text": "Fogo, falcoaria e personagens históricas marcam o fim de semana medieval em Oliveira do Hospital. O evento promete transportar visitantes para a Idade Média com espetáculos e recriações."
+        },
+        {
+          "headline": "Festival Dunas de São Jacinto revela cartaz",
+          "text": "GNR, AGIR e Áurea são as estrelas confirmadas para o festival Dunas de São Jacinto. O cartaz foi divulgado e promete atrair muitos visitantes à região de Aveiro."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Menos de 1% dos fogos causaram 81% da área ardida",
+          "text": "O ICNF revelou que menos de 1% dos incêndios registados este ano causaram 81% da área ardida. O relatório provisório refere que 42% dos fogos tiveram origem em queimas e queimadas."
+        },
+        {
+          "headline": "Incêndio trava comboios na Linha da Beira Alta",
+          "text": "Um incêndio junto à via obrigou à interrupção da circulação na Linha da Beira Alta. Cerca de 200 operacionais combatem as chamas. A circulação foi entretanto retomada entre Mangualde e Gouveia."
+        },
+        {
+          "headline": "Poeiras africanas trazem chuva de lama a Portugal",
+          "text": "Uma nova vaga de poeiras do deserto do Saara atinge Portugal continental a partir de hoje, com maior intensidade prevista para sábado. O céu poderá apresentar tons acastanhados e depositar-se em superfícies."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "940 quilos de cobre, ouro e armas: GNR detém quatro",
+          "text": "Uma operação do Núcleo de Investigação Criminal da GNR em Gouveia resultou na detenção de seis homens e uma mulher por furto qualificado e recetação. Quatro suspeitos ficaram em prisão preventiva."
+        },
+        {
+          "headline": "Caso Luís Neves: Presidente da República quer auditoria rápida",
+          "text": "O Presidente da República quer resultados rápidos da auditoria à PJ. Luís Neves garante que foi ele que pediu a intervenção do Tribunal de Contas, enquanto surgem mais revelações sobre obras em casas de dirigentes."
+        },
+        {
+          "headline": "Padrão dos traficantes em Coimbra: 13 doses de haxixe",
+          "text": "A polícia encontrou na posse do suspeito 13 doses de haxixe, seguindo o padrão típico dos traficantes em Coimbra. O caso segue para tribunal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Relvado do Estádio Cidade de Coimbra sob vigilância",
+          "text": "A Liga Portugal admite mudar o local do jogo entre a Académica e o Feirense caso o relvado não apresente condições adequadas. O presidente da liga deixou a garantia após a polémica gerada pelo mau estado do campo."
+        },
+        {
+          "headline": "Lidl abre a primeira loja em Mira",
+          "text": "O Lidl Portugal inaugurou a primeira loja no concelho de Mira, num investimento de 6,5 milhões de euros que criou 22 novos postos de trabalho. O espaço fica na Rua Dr. António José de Almeida."
+        },
+        {
+          "headline": "Viseu avança com videovigilância no Centro Histórico",
+          "text": "O Município de Viseu aprovou a instalação de 54 câmaras de segurança no Centro Histórico e outras zonas, num investimento de 1,4 milhões de euros. O sistema será implementado em duas fases."
+        },
+        {
+          "headline": "Nova passagem inferior abre ao trânsito em Águeda",
+          "text": "A nova passagem inferior da ligação do PEC ao IC2 abriu ao trânsito em Águeda, melhorando a mobilidade na zona."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "ULS de Coimbra realiza primeira cirurgia do ouvido com robô em Portugal",
+          "text": "A Unidade Local de Saúde de Coimbra realizou a primeira cirurgia endoscópica do ouvido assistida por robô em Portugal. O presidente do conselho de administração destacou o orgulho em liderar a inovação em saúde."
+        },
+        {
+          "headline": "Portugal registou 680 óbitos em excesso no verão de 2026",
+          "text": "O INSA revelou 680 óbitos acima do esperado em três períodos do verão. O primeiro período ocorreu em junho, com os dados atualizados até 30 de julho."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Preços das casas em Coimbra sobem 15,1% em julho",
+          "text": "Os preços da habitação em Portugal subiram 8% em julho face ao ano anterior. Em Coimbra, a subida foi ainda mais acentuada, com 15,1%, renovando máximos históricos."
+        },
+        {
+          "headline": "Coimbra fica sem casas para arrendar: oferta cai 58%",
+          "text": "O stock de habitação para arrendar em Portugal desceu 22% no segundo trimestre. Em Coimbra, a queda da oferta foi de 58% num ano, tornando o arrendamento cada vez mais difícil."
+        },
+        {
+          "headline": "Bairrada espera aumento de 10-15% na produção de vinho",
+          "text": "A Comissão Vitivinícola da Bairrada prevê um aumento de 10% a 15% na produção de vinho face a 2025, com ótima qualidade, apesar do calor ter antecipado a vindima."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Resultados da 2ª fase dos exames divulgados hoje",
+          "text": "O Ministério da Educação confirmou que as notas da 2ª fase dos exames nacionais serão afixadas nesta sexta-feira, bem como os resultados das reapreciações da 1ª fase. As pautas serão enviadas às escolas até às 17:30."
+        },
+        {
+          "headline": "Há cursos da Politécnica de Coimbra com desemprego zero",
+          "text": "Alguns cursos da Universidade Politécnica de Coimbra registam taxa de desemprego zero entre os diplomados, revelando forte empregabilidade."
+        }
+      ]
+    }
+  ]
+}
