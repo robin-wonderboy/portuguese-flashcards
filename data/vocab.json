@@ -23287,5 +23287,103 @@
       "example_de": "Achtung, Fahrer: es gibt neue Regeln für das elektrische Aufladen.",
       "example_en": "Attention, drivers: there are new rules for electric charging."
     }
+  ],
+  "2026-08-07": [
+    {
+      "pt": "a recetação",
+      "de": "Hehlerei",
+      "en": "receiving stolen goods",
+      "example": "Suspeitos de furto e recetação",
+      "example_de": "Verdächtig auf Diebstahl und Hehlerei",
+      "example_en": "Suspected of theft and receiving stolen goods"
+    },
+    {
+      "pt": "ardido",
+      "de": "verbrannt",
+      "en": "burned",
+      "example": "81% da área ardida",
+      "example_de": "81% der verbrannten Fläche",
+      "example_en": "81% of the burned area"
+    },
+    {
+      "pt": "solidário",
+      "de": "wohltätig",
+      "en": "charitable",
+      "example": "Um concerto solidário em Góis",
+      "example_de": "Ein Wohltätigkeitskonzert in Góis",
+      "example_en": "A charity concert in Góis"
+    },
+    {
+      "pt": "pisar",
+      "de": "treten",
+      "en": "to step on",
+      "example": "O presidente pisa no acelerador",
+      "example_de": "Der Präsident tritt aufs Gaspedal",
+      "example_en": "The president steps on the accelerator"
+    },
+    {
+      "pt": "a barrela",
+      "de": "Wäschekochen",
+      "en": "clothes boiling tradition",
+      "example": "Recria a tradição da barrela",
+      "example_de": "Bildet die Barrela-Tradition nach",
+      "example_en": "Recreates the barrela tradition"
+    },
+    {
+      "pt": "a lavadeira",
+      "de": "Wäscherin",
+      "en": "washerwoman",
+      "example": "Homenagem às lavadeiras",
+      "example_de": "Hommage an die Wäscherinnen",
+      "example_en": "Tribute to the washerwomen"
+    },
+    {
+      "pt": "caminhar",
+      "de": "auf etwas zugehen",
+      "en": "to be heading towards",
+      "example": "Expofacic caminha para casa cheia",
+      "example_de": "Expofacic geht auf ein volles Haus zu",
+      "example_en": "Expofacic is heading towards a full house"
+    },
+    {
+      "pt": "a falcoaria",
+      "de": "Falknerei",
+      "en": "falconry",
+      "example": "Fogo e falcoaria em Oliveira do Hospital",
+      "example_de": "Feuer und Falknerei in Oliveira do Hospital",
+      "example_en": "Fire and falconry in Oliveira do Hospital"
+    },
+    {
+      "pt": "o entusiasmo",
+      "de": "Begeisterung",
+      "en": "enthusiasm",
+      "example": "O entusiasmo dos fãs invade a Expofacic",
+      "example_de": "Die Begeisterung der Fans überrennt die Expofacic",
+      "example_en": "The fans' enthusiasm invades the Expofacic"
+    },
+    {
+      "pt": "a cirurgia",
+      "de": "Operation",
+      "en": "surgery",
+      "example": "Primeira cirurgia do ouvido com robô",
+      "example_de": "Erste Ohroperation mit Roboter",
+      "example_en": "First ear surgery with robot"
+    },
+    {
+      "pt": "o barro",
+      "de": "Schlamm/Lehm",
+      "en": "mud/clay",
+      "example": "Vai cair barro do céu",
+      "example_de": "Es wird Schlamm vom Himmel fallen",
+      "example_en": "Mud will fall from the sky"
+    },
+    {
+      "pt": "a estância",
+      "de": "Kurort/Resort",
+      "en": "resort/spa",
+      "example": "Uma estância de luxo no Brasil",
+      "example_de": "Ein Luxusresort in Brasilien",
+      "example_en": "A luxury resort in Brazil"
+    }
   ]
 }
