@@ -23385,5 +23385,207 @@
       "example_de": "Ein Luxusresort in Brasilien",
       "example_en": "A luxury resort in Brazil"
     }
+  ],
+  "2026-08-16": [
+    {
+      "pt": "o desabamento",
+      "de": "der Einsturz",
+      "en": "collapse (of building)",
+      "example": "Desabamento de um edifício em Cali na Colômbia",
+      "example_de": "Einsturz eines Gebäudes in Cali, Kolumbien",
+      "example_en": "Building collapse in Cali, Colombia"
+    },
+    {
+      "pt": "a rentrée",
+      "de": "der politische Saisonauftakt",
+      "en": "political season opening/return",
+      "example": "Começa a época das rentrées partidárias",
+      "example_de": "Die Zeit der parteipolitischen Saisoneröffnungen beginnt",
+      "example_en": "The season of party political openings begins"
+    },
+    {
+      "pt": "desfasado",
+      "de": "abgehoben/realitätsfremd",
+      "en": "out of touch/disconnected",
+      "example": "Montenegro está mais desfasado que a Alice no País das Maravilhas",
+      "example_de": "Montenegro ist abgehobener als Alice im Wunderland",
+      "example_en": "Montenegro is more out of touch than Alice in Wonderland"
+    },
+    {
+      "pt": "a condolência",
+      "de": "das Beileid",
+      "en": "condolence",
+      "example": "Presidente da República envia condolências pelas vítimas dos sismos",
+      "example_de": "Der Präsident schickt Beileid für die Erdbebenopfer",
+      "example_en": "The President sends condolences for the earthquake victims"
+    },
+    {
+      "pt": "a magia",
+      "de": "die Magie/Zauberei",
+      "en": "magic",
+      "example": "Coimbra transforma-se na capital da magia durante seis dias",
+      "example_de": "Coimbra verwandelt sich sechs Tage lang in die Hauptstadt der Magie",
+      "example_en": "Coimbra transforms into the capital of magic for six days"
+    },
+    {
+      "pt": "o ferido grave",
+      "de": "der Schwerverletzte",
+      "en": "seriously injured person",
+      "example": "Ciclista em estado grave após colisão em Mira",
+      "example_de": "Radfahrer schwer verletzt nach Kollision in Mira",
+      "example_en": "Cyclist in serious condition after collision in Mira"
+    },
+    {
+      "pt": "a tenda",
+      "de": "das Zelt",
+      "en": "tent",
+      "example": "Motards começaram a desmontar tendas em Góis",
+      "example_de": "Motorradfahrer begannen Zelte abzubauen in Góis",
+      "example_en": "Motorcyclists started taking down tents in Góis"
+    },
+    {
+      "pt": "arrumar",
+      "de": "packen/aufräumen",
+      "en": "to pack/tidy up",
+      "example": "Arrumar bagagens e preparar o regresso a casa",
+      "example_de": "Gepäck packen und die Rückkehr nach Hause vorbereiten",
+      "example_en": "Pack luggage and prepare to return home"
+    },
+    {
+      "pt": "resistir",
+      "de": "widerstehen/überleben",
+      "en": "to resist/survive",
+      "example": "A vítima não resistiu aos ferimentos e morreu",
+      "example_de": "Das Opfer widerstand den Verletzungen nicht und starb",
+      "example_en": "The victim did not survive the injuries and died"
+    },
+    {
+      "pt": "o tórax",
+      "de": "der Brustkorb",
+      "en": "thorax/chest",
+      "example": "A vítima foi esfaqueada na zona do tórax",
+      "example_de": "Das Opfer wurde in der Brustkorbgegend erstochen",
+      "example_en": "The victim was stabbed in the chest area"
+    },
+    {
+      "pt": "a caçadeira",
+      "de": "die Schrotflinte",
+      "en": "shotgun",
+      "example": "Dispara caçadeira da janela durante rixa",
+      "example_de": "Feuert Schrotflinte aus dem Fenster während einer Schlägerei",
+      "example_en": "Fires shotgun from window during a brawl"
+    },
+    {
+      "pt": "a colega",
+      "de": "die Kollegin",
+      "en": "colleague (female)",
+      "example": "Bombeira denuncia colega por alegado assédio sexual",
+      "example_de": "Feuerwehrfrau zeigt Kollegen für angebliche sexuelle Belästigung an",
+      "example_en": "Female firefighter reports colleague for alleged sexual harassment"
+    },
+    {
+      "pt": "globalmente",
+      "de": "insgesamt/global",
+      "en": "globally/overall",
+      "example": "Balanço globalmente positivo do evento",
+      "example_de": "Insgesamt positive Bilanz des Ereignisses",
+      "example_en": "Overall positive assessment of the event"
+    },
+    {
+      "pt": "a ausência",
+      "de": "die Abwesenheit",
+      "en": "absence",
+      "example": "Apesar da ausência da VMER do INEM no dia 15",
+      "example_de": "Trotz der Abwesenheit der VMER des INEM am 15.",
+      "example_en": "Despite the absence of the INEM VMER on the 15th"
+    },
+    {
+      "pt": "o pico",
+      "de": "der Höhepunkt",
+      "en": "peak",
+      "example": "O dia 15 era o pico do evento",
+      "example_de": "Der 15. war der Höhepunkt des Ereignisses",
+      "example_en": "The 15th was the peak of the event"
+    },
+    {
+      "pt": "a negativa",
+      "de": "die Durchfallnote",
+      "en": "failing grade",
+      "example": "Maioria dos alunos volta a ter negativa nas provas do 9.º ano",
+      "example_de": "Mehrheit der Schüler hat wieder Durchfallnote in den Prüfungen der 9. Klasse",
+      "example_en": "Majority of students again get failing grade in 9th grade exams"
+    },
+    {
+      "pt": "a candidatura",
+      "de": "die Bewerbung/Kandidatur",
+      "en": "application/candidacy",
+      "example": "Coimbra abre candidaturas para levar startups à Web Summit",
+      "example_de": "Coimbra öffnet Bewerbungen um Startups zur Web Summit zu bringen",
+      "example_en": "Coimbra opens applications to take startups to Web Summit"
+    },
+    {
+      "pt": "o núcleo",
+      "de": "der Kern/das Zentrum",
+      "en": "core/center",
+      "example": "Um dos mais emblemáticos núcleos de arquitetura em xisto",
+      "example_de": "Einer der markantesten Schieferarchitekturkerne",
+      "example_en": "One of the most emblematic schist architecture centers"
+    },
+    {
+      "pt": "a arquitetura",
+      "de": "die Architektur",
+      "en": "architecture",
+      "example": "Núcleos de arquitetura em xisto do país",
+      "example_de": "Schieferarchitekturkerne des Landes",
+      "example_en": "Schist architecture centers of the country"
+    },
+    {
+      "pt": "a oliveira",
+      "de": "der Olivenbaum",
+      "en": "olive tree",
+      "example": "Arquitetura inspirada num ramo de oliveira",
+      "example_de": "Architektur inspiriert von einem Olivenbaumzweig",
+      "example_en": "Architecture inspired by an olive tree branch"
+    },
+    {
+      "pt": "o ramo",
+      "de": "der Zweig/die Branche",
+      "en": "branch (tree/profession)",
+      "example": "Inspirada num ramo de oliveira",
+      "example_de": "Inspiriert von einem Olivenbaumzweig",
+      "example_en": "Inspired by an olive tree branch"
+    },
+    {
+      "pt": "o perigo máximo",
+      "de": "maximale Gefahr",
+      "en": "maximum danger",
+      "example": "Interior Norte e Centro em perigo máximo de incêndio",
+      "example_de": "Inland Nord und Zentrum in maximaler Brandgefahr",
+      "example_en": "Inland North and Center in maximum fire danger"
+    },
+    {
+      "pt": "o distrito",
+      "de": "der Bezirk/das Distrikt",
+      "en": "district",
+      "example": "Todos os concelhos dos distritos de Bragança e da Guarda",
+      "example_de": "Alle Gemeinden der Bezirke Bragança und Guarda",
+      "example_en": "All municipalities in the districts of Bragança and Guarda"
+    },
+    {
+      "pt": "a votação",
+      "de": "die Abstimmung",
+      "en": "voting",
+      "example": "Ficaram pelo caminho na votação que definiu os sete representantes",
+      "example_de": "Sie schieden bei der Abstimmung aus, die die sieben Vertreter bestimmte",
+      "example_en": "They were eliminated in the voting that determined the seven representatives"
+    },
+    {
+      "pt": "a trigémea",
+      "de": "das Drilling",
+      "en": "triplet (female)",
+      "example": "Ana María, uma das trigémeas da família, sobreviveu",
+      "example_de": "Ana María, eine der Drillinge der Familie, überlebte",
+      "example_en": "Ana María, one of the family's triplets, survived"
+    }
   ]
 }
