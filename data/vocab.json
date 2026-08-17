@@ -23587,5 +23587,103 @@
       "example_de": "Ana María, eine der Drillinge der Familie, überlebte",
       "example_en": "Ana María, one of the family's triplets, survived"
     }
+  ],
+  "2026-08-17": [
+    {
+      "pt": "espalhar-se",
+      "de": "sich ausbreiten",
+      "en": "to spread",
+      "example": "Vai espalhar-se pelo pais",
+      "example_de": "Wird sich ueber das Land ausbreiten",
+      "example_en": "It will spread across the country"
+    },
+    {
+      "pt": "o palanque",
+      "de": "die Rednertribuene",
+      "en": "the platform/podium",
+      "example": "Do chinelo ao palanque",
+      "example_de": "Vom Hausschuh zur Rednertribuene",
+      "example_en": "From slippers to the podium"
+    },
+    {
+      "pt": "o antidoto",
+      "de": "das Gegengift",
+      "en": "the antidote",
+      "example": "Mordido por cobra so recebe antidoto",
+      "example_de": "Von Schlange gebissen erhaelt Gegengift",
+      "example_en": "Bitten by snake receives antidote"
+    },
+    {
+      "pt": "a cobra",
+      "de": "die Schlange",
+      "en": "the snake",
+      "example": "Mordido por cobra",
+      "example_de": "Von Schlange gebissen",
+      "example_en": "Bitten by snake"
+    },
+    {
+      "pt": "o chinelo",
+      "de": "der Hausschuh/Flipflop",
+      "en": "the slipper/flipflop",
+      "example": "Do chinelo ao palanque",
+      "example_de": "Vom Hausschuh zur Rednertribuene",
+      "example_en": "From slippers to the podium"
+    },
+    {
+      "pt": "o barco",
+      "de": "das Boot",
+      "en": "the boat",
+      "example": "Castelo so pode ser visitado de barco",
+      "example_de": "Burg kann nur mit dem Boot besucht werden",
+      "example_en": "Castle can only be visited by boat"
+    },
+    {
+      "pt": "o eclipse",
+      "de": "die Sonnenfinsternis",
+      "en": "the eclipse",
+      "example": "Oculos para observar o eclipse",
+      "example_de": "Brillen zur Beobachtung der Sonnenfinsternis",
+      "example_en": "Glasses to observe the eclipse"
+    },
+    {
+      "pt": "redefinir",
+      "de": "neu definieren/formen",
+      "en": "to redefine/reshape",
+      "example": "Ajuda a redefinir a silhueta",
+      "example_de": "Hilft die Silhouette zu formen",
+      "example_en": "Helps redefine your silhouette"
+    },
+    {
+      "pt": "a bolacha",
+      "de": "der Keks",
+      "en": "the cookie/biscuit",
+      "example": "Despedido por causa de umas bolachas",
+      "example_de": "Wegen Keksen entlassen",
+      "example_en": "Fired over some cookies"
+    },
+    {
+      "pt": "a casa de banho",
+      "de": "das Badezimmer",
+      "en": "the bathroom",
+      "example": "Participa em reuniao a partir da casa de banho",
+      "example_de": "Nimmt an Sitzung vom Badezimmer aus teil",
+      "example_en": "Participates in meeting from the bathroom"
+    },
+    {
+      "pt": "o sinal de transito",
+      "de": "das Verkehrsschild",
+      "en": "the traffic sign",
+      "example": "Sabe distinguir estes dois sinais de transito?",
+      "example_de": "Kannst du diese zwei Verkehrsschilder unterscheiden?",
+      "example_en": "Can you distinguish these two traffic signs?"
+    },
+    {
+      "pt": "o curriculo",
+      "de": "der Lebenslauf",
+      "en": "the curriculum/resume",
+      "example": "Professores criticam valor da correcao dos exames",
+      "example_de": "Lehrer kritisieren Wert der Pruefungskorrektur",
+      "example_en": "Teachers criticize the value of exam grading"
+    }
   ]
 }
