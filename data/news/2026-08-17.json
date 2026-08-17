@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Chamas não dão tréguas: 750 bombeiros combatem 4 incêndios",
+          "text": "Mais de 750 bombeiros combatem simultaneamente quatro incêndios activos em diferentes zonas do país. Os fogos no norte de Portugal foram reforçados com meios aéreos durante a manhã."
+        },
+        {
+          "headline": "Fogo em Torre de Moncorvo alastra para outro concelho",
+          "text": "O incêndio em Torre de Moncorvo alastrou para um concelho vizinho e já tem duas frentes activas. As equipas de combate enfrentam condições difíceis com vento e calor extremo."
+        },
+        {
+          "headline": "Centena de operacionais combate incêndio em Oliveira de Azeméis",
+          "text": "Uma centena de operacionais combate um incêndio com duas frentes em Oliveira de Azeméis. O fogo começou ontem e manteve-se activo durante a noite."
+        },
+        {
+          "headline": "Interior Norte e Centro em perigo máximo de incêndio",
+          "text": "O IPMA colocou cerca de uma centena de concelhos dos distritos de Bragança, Vila Real, Viana do Castelo, Braga, Porto, Aveiro, Viseu, Coimbra e Leiria em perigo máximo de incêndio."
+        },
+        {
+          "headline": "Nova vaga de poeiras aproxima-se de Portugal",
+          "text": "Uma nova vaga de poeiras do Saara aproxima-se de Portugal e deverá espalhar-se pelo país nas próximas horas, agravando a qualidade do ar."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Prepare-se: Coimbra vai ser a cidade mais quente!",
+          "text": "Coimbra deverá ser a cidade mais quente do país nos próximos dias. O IPMA prevê aguaceiros, trovoada e uma pequena subida da temperatura para esta segunda-feira."
+        },
+        {
+          "headline": "Praia fluvial na Lousã: mergulhar, andar de canoa e comer por cima do rio",
+          "text": "A praia fluvial da Lousã oferece oportunidades para mergulhar, andar de canoa e disfrutar de refeições num restaurante suspenso sobre o rio. Uma das opções de lazer mais procuradas nesta época."
+        },
+        {
+          "headline": "Coimbra transforma-se na capital da magia durante seis dias",
+          "text": "Coimbra recebe durante seis dias um festival de magia que transforma a cidade num palco de ilusão e encanto, com espectáculos em vários espaços da cidade."
+        },
+        {
+          "headline": "Coimbra de fora da final das Novas 7 Maravilhas de Portugal",
+          "text": "Coimbra não conseguiu chegar à final do concurso das Novas 7 Maravilhas de Portugal. O Palace Hotel da Curia, no entanto, chegou à meia-final."
+        },
+        {
+          "headline": "Estudantes portugueses criam drone autónomo para combater incêndios",
+          "text": "Estudantes portugueses desenvolveram um drone autónomo capaz de combater incêndios e salvar vidas, numa inovação que pode mudar a forma como se combate os fogos florestais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Menor baleado por 2 homens encapuzados",
+          "text": "Um menor foi baleado por dois homens encapuzados num ataque que está a ser investigado pelas autoridades. O caso ocorreu recentemente e a PJ está a desenvolver diligências."
+        },
+        {
+          "headline": "Filho de 15 anos pediu ajuda à polícia antes de matar a mãe",
+          "text": "Um jovem de 15 anos pediu ajuda à polícia antes de vir a matar a mãe. O caso levanta questões sobre a resposta das autoridades a sinais de alerta em menores."
+        },
+        {
+          "headline": "Rapaz morre esfaqueado no Cais do Sodré",
+          "text": "Um rapaz morreu após ser esfaqueado no Cais do Sodré, em Lisboa. A PJ está a desenvolver diligências para apurar as circunstâncias do crime."
+        },
+        {
+          "headline": "Dispara caçadeira da janela durante rixa e acaba detido",
+          "text": "Um homem foi detido após disparar uma caçadeira da janela durante uma rixa com vizinhos. Ninguém ficou ferido mas o indivíduo foi apresentado às autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Atriz Hayden Panettiere morre aos 36 anos",
+          "text": "A atriz Hayden Panettiere faleceu dias antes de fazer 37 anos. Conhecida por séries como Heroes e Nashville, a causa da morte não foi imediatamente divulgada."
+        },
+        {
+          "headline": "Milhares aguardam por assistência após sismo na Indonésia (54 mortos)",
+          "text": "Milhares de pessoas aguardavam ainda por assistência dias após o sismo que causou 54 mortos na Indonésia. O Presidente da República português enviou condolências pelas vítimas."
+        },
+        {
+          "headline": "Incêndios na ilha grega de Salamina provocam dois mortos",
+          "text": "Incêndios na ilha grega de Salamina provocaram dois mortos. As chamas consumiram áreas florestais e ameaçaram habitações na região."
+        },
+        {
+          "headline": "Jovem perde pais, irmãs e tio após sismo na Colômbia",
+          "text": "Um jovem perdeu os pais, irmãs e tio após um sismo na Colômbia. A tragédia pessoal entre as vítimas do abalo sísmico que afectou o país."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Homem morre no IP3 após despiste de mota",
+          "text": "Um homem morreu no IP3 após um despiste de mota. O acidente ocorreu durante a tarde e provocou cortes na via."
+        },
+        {
+          "headline": "Jovem de 25 anos morre em despiste durante a madrugada",
+          "text": "Um jovem de 25 anos morreu num despiste de viatura durante a madrugada. O acidente ocorreu numa via do interior do Centro do país."
+        },
+        {
+          "headline": "IP3 vai estar cortado durante quatro noites",
+          "text": "O IP3 vai estar cortado ao trânsito durante quatro noites para obras de conservação. Os condutores devem planear rotas alternativas."
+        },
+        {
+          "headline": "Já se paga para pôr ar nos pneus nas bombas?",
+          "text": "Circula a dúvida se já é cobrado o serviço de pôr ar nos pneus nas bombas de combustível em Portugal. O tema gerou debate nas redes sociais."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Mordido por cobra só recebe antídoto mais de 7 horas depois",
+          "text": "Um homem mordido por uma cobra só recebeu o antídoto mais de 7 horas depois do ataque, levantando questões sobre a disponibilidade de tratamentos nos hospitais."
+        },
+        {
+          "headline": "Caos nas urgências: doentes urgentes esperam quase 16 horas",
+          "text": "Doentes classificados como urgentes chegaram a esperar quase 16 horas por atendimento nos serviços de urgência, num cenário de caos que afecta vários hospitais."
+        },
+        {
+          "headline": "Medicamento frequente pode provocar danos graves no fígado",
+          "text": "Um medicamento usado com frequência pode provocar danos graves no fígado, alertam especialistas. A população é aconselhada a ter atenção à dosagem."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "PS quer rentrée como demonstração da força de uma alternativa",
+          "text": "O PS quer que a rentrée política sirva de demonstração da força de uma alternativa ao governo, tal como em 1995. Do chinelo ao palanque, começa a época das rentrées partidárias."
+        },
+        {
+          "headline": "Montenegro está mais desfasado que a Alice no País das Maravilhas",
+          "text": "O PS considerou que Montenegro está mais desfasado que a Alice no País das Maravilhas, numa crítica à política económica do governo."
+        },
+        {
+          "headline": "Insolvências disparam em Portugal e Coimbra não escapa",
+          "text": "As insolvências dispararam em Portugal e Coimbra não escapa à tendência. Os números recente mostram um aumento significativo de falências de empresas."
+        },
+        {
+          "headline": "Cerveja da Praxis conquista título mundial no World Beer Awards 2026",
+          "text": "A cerveja de Encruzado, da Praxis em parceria com Carlos Lucas, conquistou o título mundial no World Beer Awards 2026, destacando a produção cervejeira portuguesa."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Alexis Guérin vence a 87.ª edição da Volta a Portugal",
+          "text": "O ciclista Alexis Guérin é o vencedor da 87.ª edição da Volta a Portugal, numa prova que terminou este fim de semana."
+        },
+        {
+          "headline": "Cristiano Ronaldo pondera pendurar as chuteiras",
+          "text": "Cristiano Ronaldo assumiu que provavelmente esta será a sua última temporada, ponderando pendurar as chuteiras no final do ano."
+        },
+        {
+          "headline": "Arouca agarra Porto no topo da tabela",
+          "text": "O Arouca conseguiu agarrar o Porto no topo da tabela da Liga, num resultado que promete animar o início da época futebolística."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Maioria dos alunos volta a ter negativa nas provas do 9.º ano",
+          "text": "A maioria dos alunos voltou a ter negativa nas provas do 9.º ano, segundo resultados divulgados pelo Ministério da Educação."
+        },
+        {
+          "headline": "Universidade de Coimbra entre as melhores 500 do mundo",
+          "text": "A Universidade de Coimbra voltou a estar entre as melhores 500 universidades do mundo, num ranking internacional que reconhece a qualidade da instituição."
+        },
+        {
+          "headline": "Professores criticam valor da correção dos exames: 1 euro por questão",
+          "text": "Os professores criticam o valor definido pelo governo para a correção dos exames nacionais: 1 euro por questão, considerado insuficiente pelo classe docente."
+        }
+      ]
+    },
+    {
+      "emoji": "🎯",
+      "category": "SÓ VISTO!",
+      "stories": [
+        {
+          "headline": "Trabalhador despedido por causa de umas bolachas que tinha pago",
+          "text": "Um trabalhador foi despedido por causa de umas bolachas que tinha pago, num caso insólito que gerou indignação nas redes sociais."
+        },
+        {
+          "headline": "Vereadora participa em reunião oficial a partir da casa de banho",
+          "text": "Uma vereadora participou numa reunião oficial a partir da casa de banho, num momento insólito que se tornou viral."
+        },
+        {
+          "headline": "Amigas descobrem através de teste de ADN que são irmãs",
+          "text": "Duas amigas descobriram através de um teste de ADN que são na realidade irmãs, numa história que surpreendeu quem a ouviu."
+        }
+      ]
+    }
+  ]
+}
