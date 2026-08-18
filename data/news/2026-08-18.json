@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Região de Coimbra na mira das trovoadas",
+          "text": "Depois de dias marcados pelo calor, a aproximação de uma depressão isolada em altitude está a aumentar a instabilidade atmosférica, com previsão de aguaceiros fortes, trovoadas, rajadas e possibilidade de granizo."
+        },
+        {
+          "headline": "Bico do fogão fica ligado e leva dois moradores ao hospital em Coimbra",
+          "text": "Um bico do fogão que ficou ligado provocou a intoxicação de dois moradores numa habitação em Coimbra, tendo sido necessário o encaminhamento para o hospital."
+        },
+        {
+          "headline": "Atropelamento em Cantanhede",
+          "text": "Ocorreu um atropelamento em Cantanhede, com consequências ainda a apurar pelas autoridades."
+        },
+        {
+          "headline": "\"Sentinelas de Penela\" reforçam vigilância florestal durante o verão",
+          "text": "O projeto Sentinelas de Penela mantém a vigilância florestal reforçada durante a época crítica de incêndios, garantindo uma resposta mais rápida a focos de fogo no concelho."
+        },
+        {
+          "headline": "Rui Sampaio desafia Góis a construir o futuro \"com pessoas e comunidade\"",
+          "text": "O autarca Rui Sampaio lançou um desafio à população de Góis para construir o futuro do concelho apostando nas pessoas e na comunidade local."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & PORTUGAL",
+      "stories": [
+        {
+          "headline": "Fogo em Santo Tirso ativo com 4 frentes e várias projeções",
+          "text": "O incêndio florestal em Santo Tirso mantém-se ativo com quatro frentes e várias projeções, exigindo um vasto dispositivo de combate no terreno."
+        },
+        {
+          "headline": "Interior Norte e Centro em perigo máximo de incêndio",
+          "text": "O Interior Norte e Centro do país encontram-se em perigo máximo de incêndio, segundo o IPMA, devido às condições meteorológicas adversas."
+        },
+        {
+          "headline": "Casal morre tragicamente no IC5 a caminho das férias",
+          "text": "Um casal morreu tragicamente num acidente no IC5 enquanto se deslocava de férias. O sinistro provocou o encerramento temporário da via."
+        },
+        {
+          "headline": "Dominado fogo em Lamego",
+          "text": "O incêndio que deflagrou em Lamego foi dado como dominado pelos meios de combate no terreno."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "8 meses depois, cunhado é acusado de matar pescador à facada na passagem de ano na Figueira da Foz",
+          "text": "Passados oito meses sobre o crime ocorrido na passagem de ano, o cunhado da vítima foi formalmente acusado de homicídio à facada na Figueira da Foz."
+        },
+        {
+          "headline": "Enforca 3 cachorros bebés em Cantanhede e tribunal não perdoa crueldade",
+          "text": "Um indivíduo que enforcou três cachorros bebés em Cantanhede foi julgado e o tribunal não perdoou a crueldade, aplicando uma pena exemplar."
+        },
+        {
+          "headline": "Depois de matar a mãe, rapaz compra presente para a irmã de 4 anos",
+          "text": "Um jovem que matou a própria mãe foi detido e, logo após o crime, comprou um presente para a irmã mais nova de 4 anos. O caso está a correr nos tribunais."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Família troca Lisboa por aldeia de 13 habitantes na Região Centro",
+          "text": "Uma família decidiu trocar a vida na capital por uma aldeia com apenas 13 habitantes na Região Centro, buscando tranquilidade e contacto com a natureza."
+        },
+        {
+          "headline": "APA vai realizar descargas de barragem na Guarda para reforçar caudais do Mondego",
+          "text": "A Agência Portuguesa do Ambiente vai realizar descargas de uma barragem na Guarda para reforçar os caudais do rio Mondego, garantindo o equilíbrio hídrico da bacia."
+        },
+        {
+          "headline": "Covilhã transforma-se num palco de artesanato, design e criatividade",
+          "text": "A cidade da Covilhã acolhe um evento que transforma o centro histórico num palco de artesanato, design e criatividade, atraindo visitantes de toda a região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fenprof alerta: mais de 20 mil professores colocados não chegam para responder às necessidades das escolas",
+          "text": "O sindicato Fenprof alerta que, apesar de mais de 20 mil professores terem sido colocados, o número não é suficiente para cobrir as necessidades das escolas no próximo ano letivo."
+        },
+        {
+          "headline": "Estudantes portugueses criam drone autónomo para combater incêndios e salvar vidas",
+          "text": "Um grupo de estudantes portugueses desenvolveu um drone autónomo capaz de detetar e combater incêndios florestais, podendo salvar vidas em zonas de difícil acesso."
+        },
+        {
+          "headline": "Atenção novos estudantes: Festa das Latas já tem data marcada",
+          "text": "A tradicional Festa das Latas da Universidade de Coimbra, que marca a chegada dos novos estudantes, já tem data marcada para este ano."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Ordem dos Enfermeiros rejeita que novo modelo do INEM retire meios ao sistema",
+          "text": "A Ordem dos Enfermeiros rejeita o novo modelo do INEM, alertando que a reestruturação pode retirar meios importantes ao sistema de emergência médica."
+        },
+        {
+          "headline": "Mordido por cobra só recebe antídoto mais de 7 horas depois",
+          "text": "Um homem mordido por uma cobra em Portugal só recebeu o antídoto mais de 7 horas após o incidente, levantando questões sobre a disponibilidade de soros nos hospitais."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Quanto custa uma Bola de Berlim? Nas praias da Figueira da Foz chega aos 3 euros",
+          "text": "O preço da Bola de Berlim nas praias da Figueira da Foz chegou aos 3 euros, refletindo o aumento do custo de vida no litoral durante a época balnear."
+        },
+        {
+          "headline": "Combustível a preços de Espanha? Nova estação low-cost vai abrir em Coimbra",
+          "text": "Uma nova estação de serviço low-cost vai abrir em Coimbra, prometendo combustível a preços semelhantes aos praticados em Espanha."
+        }
+      ]
+    },
+    {
+      "emoji": "🏊",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Conimbricense Diogo Ribeiro bate recorde nacional de natação em Paris",
+          "text": "O nadador conimbricense Diogo Ribeiro bateu o recorde nacional de natação numa competição em Paris, consolidando o seu estatuto de referência internacional."
+        },
+        {
+          "headline": "Diogo Cancela de Miranda do Corvo bate recorde nacional nos Europeus de Natação",
+          "text": "Diogo Cancela, natural de Miranda do Corvo, estabeleceu um novo recorde nacional nos Europeus de Natação, num fim de semana de êxito para a natação portuguesa."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Artista da Figueira da Foz Pedro Maralma anuncia 1º concerto com banda após The Voice Portugal",
+          "text": "Pedro Maralma, artista da Figueira da Foz que ganhou projeção no The Voice Portugal, anunciou o seu primeiro concerto com banda, marcando uma nova fase na carreira."
+        },
+        {
+          "headline": "Milhares fizeram a festa na Pampilhosa da Serra",
+          "text": "Milhares de pessoas participaram nas festas da Pampilhosa da Serra, num ambiente de grande animação popular durante o fim de semana."
+        },
+        {
+          "headline": "Cerveja de encruzado by Carlos Lucas & Praxis conquista título mundial no World Beer Awards 2026",
+          "text": "A cerveja de encruzado, criada por Carlos Lucas em parceria com a Praxis, conquistou o título mundial no World Beer Awards 2026, distinguishing Portugal no panorama cervejeiro internacional."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Reconstrução após sismo na Colômbia custará 8 mil milhões de euros",
+          "text": "A reconstrução após o sismo que atingiu a Colômbia deverá custar cerca de 8 mil milhões de euros, segundo estimativas das autoridades locais."
+        },
+        {
+          "headline": "Trump ameaça bombardear Omã se país colocar entraves a acordo sobre estreito de Ormuz",
+          "text": "O presidente americano Donald Trump ameaçou bombardear Omã caso o país coloque entraves a um acordo sobre o estreito de Ormuz, elevando a tensão geopolítica na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "PS quer rentrée como \"demonstração da força de uma alternativa\" tal como em 1995",
+          "text": "O Partido Socialista quer que a rentrée política sirva de demonstração da força de uma alternativa ao governo, comparando o momento ao ano de 1995."
+        }
+      ]
+    }
+  ]
+}
