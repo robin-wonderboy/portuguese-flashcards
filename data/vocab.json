@@ -23822,6 +23822,86 @@
       "example": "Professor de Matemática ateia fogo a casa",
       "example_de": "Mathelehrer legt Feuer an Haus",
       "example_en": "Math teacher sets fire to house"
+    },
+    {
+      "pt": "o fumo",
+      "de": "der Rauch",
+      "en": "the smoke",
+      "example": "Cuidados essenciais para proteger a saúde do fumo dos incêndios.",
+      "example_de": "Wesentliche Vorsichtsmaßnahmen zum Schutz der Gesundheit vor Waldbrandrauch.",
+      "example_en": "Essential care to protect health from wildfire smoke."
+    },
+    {
+      "pt": "pendurar",
+      "de": "an den Nagel hängen",
+      "en": "to hang up (retire)",
+      "example": "Cristiano Ronaldo pondera pendurar as chuteiras no final da temporada.",
+      "example_de": "Cristiano Ronaldo zieht in Erwägung, die Fußballschuhe an den Nagel zu hängen.",
+      "example_en": "Cristiano Ronaldo considers hanging up his boots at the end of the season."
+    },
+    {
+      "pt": "as chuteiras",
+      "de": "die Fußballschuhe",
+      "en": "the football boots",
+      "example": "Ronaldo pondera pendurar as chuteiras no final da temporada.",
+      "example_de": "Ronaldo zieht in Erwägung, die Schuhe am Ende der Saison an den Nagel zu hängen.",
+      "example_en": "Ronaldo considers hanging up his boots at the end of the season."
+    },
+    {
+      "pt": "tragicamente",
+      "de": "tragisch",
+      "en": "tragically",
+      "example": "O casal morre tragicamente no IC5 a caminho das férias.",
+      "example_de": "Das Paar stirbt tragisch auf der IC5 auf dem Weg in den Urlaub.",
+      "example_en": "The couple dies tragically on the IC5 on the way to holidays."
+    },
+    {
+      "pt": "tranquilo",
+      "de": "ruhig",
+      "en": "tranquil",
+      "example": "Descubra um dos percursos mais tranquilos junto ao rio.",
+      "example_de": "Entdecken Sie eine der ruhigsten Routen am Fluss.",
+      "example_en": "Discover one of the most tranquil routes along the river."
+    },
+    {
+      "pt": "à pancada",
+      "de": "mit Schlägen",
+      "en": "by beating",
+      "example": "Mata o próprio irmão à pancada à frente do pai.",
+      "example_de": "Er schlägt den eigenen Bruder zu Tode vor dem Vater.",
+      "example_en": "He beats his own brother to death in front of their father."
+    },
+    {
+      "pt": "na mira de",
+      "de": "ins Visier von",
+      "en": "in the sights of",
+      "example": "A região de Coimbra está na mira das trovoadas.",
+      "example_de": "Die Region Coimbra ist ins Visier der Gewitter geraten.",
+      "example_en": "The Coimbra region is in the sights of thunderstorms."
+    },
+    {
+      "pt": "a temporada",
+      "de": "die Saison",
+      "en": "the season",
+      "example": "Ronaldo pondera pendurar as chuteiras no final da temporada.",
+      "example_de": "Ronaldo zieht in Erwägung, die Schuhe am Ende der Saison an den Nagel zu hängen.",
+      "example_en": "Ronaldo considers hanging up his boots at the end of the season."
+    },
+    {
+      "pt": "o quefazer",
+      "de": "die Aufgabe",
+      "en": "the task",
+      "example": "Os quefazeres da vida diária.",
+      "example_de": "Die Aufgaben des täglichen Lebens.",
+      "example_en": "The tasks of daily life."
+    },
+    {
+      "pt": "o essencial",
+      "de": "das Wesentliche",
+      "en": "the essential",
+      "example": "Estes são os essenciais que deve ter consigo na estrada.",
+      "example_de": "Dies sind die Essentials, die Sie auf der Straße bei sich haben sollten.",
+      "example_en": "These are the essentials you should have with you on the road."
     }
   ]
 }
