@@ -23685,5 +23685,143 @@
       "example_de": "Lehrer kritisieren Wert der Pruefungskorrektur",
       "example_en": "Teachers criticize the value of exam grading"
     }
+  ],
+  "2026-08-18": [
+    {
+      "pt": "golear",
+      "de": "deutlich besiegen",
+      "en": "to thrash, to win by many goals",
+      "example": "Benfica golea Casa Pia em Rio Maior",
+      "example_de": "Benfica besiegt Casa Pia deutlich in Rio Maior",
+      "example_en": "Benfica thrashes Casa Pia in Rio Maior"
+    },
+    {
+      "pt": "a projeção",
+      "de": "Feuerbrand/Projektion",
+      "en": "projection (fire spread), projection",
+      "example": "Fogo ativo com 4 frentes e várias projeções",
+      "example_de": "Aktives Feuer mit 4 Fronten und mehreren Projektionen",
+      "example_en": "Active fire with 4 fronts and multiple projections"
+    },
+    {
+      "pt": "o sentinela",
+      "de": "Wächter",
+      "en": "sentinel, guard, lookout",
+      "example": "Sentinelas de Penela reforçam vigilância",
+      "example_de": "Wächter von Penela verstärken Aufsicht",
+      "example_en": "Penela sentinels reinforce surveillance"
+    },
+    {
+      "pt": "o percuso",
+      "de": "Wanderweg/Strecke",
+      "en": "route, trail, path",
+      "example": "Descubra um dos percursos mais tranquilos junto ao rio Arunca",
+      "example_de": "Entdecken Sie eine der ruhigsten Wanderrouten am Fluss Arunca",
+      "example_en": "Discover one of the most peaceful trails along the Arunca river"
+    },
+    {
+      "pt": "a pancada",
+      "de": "Schlag/Prügel",
+      "en": "blow, beating",
+      "example": "Mata o próprio irmão à pancada",
+      "example_de": "Erschlägt den eigenen Bruder",
+      "example_en": "Beats his own brother to death"
+    },
+    {
+      "pt": "o cachorro",
+      "de": "Welpe",
+      "en": "puppy",
+      "example": "Enforca 3 cachorros bebés em Cantanhede",
+      "example_de": "Erhängt 3 Babywelpen in Cantanhede",
+      "example_en": "Hangs 3 baby puppies in Cantanhede"
+    },
+    {
+      "pt": "enforcar",
+      "de": "erhängen",
+      "en": "to hang, to strangle",
+      "example": "Enforca 3 cachorros bebés em Cantanhede",
+      "example_de": "Erhängt 3 Babywelpen in Cantanhede",
+      "example_en": "Hangs 3 baby puppies in Cantanhede"
+    },
+    {
+      "pt": "a descarga",
+      "de": "Ablassung/Entladung",
+      "en": "release, discharge",
+      "example": "APA vai realizar descargas de barragem",
+      "example_de": "APA wird Staudamm-Ablassungen durchführen",
+      "example_en": "APA will carry out dam releases"
+    },
+    {
+      "pt": "o adolescente",
+      "de": "Jugendlicher",
+      "en": "teenager, adolescent",
+      "example": "Tiroteio mata adolescente de 16 anos",
+      "example_de": "Schießerei tötet Jugendlichen von 16 Jahren",
+      "example_en": "Shooting kills 16-year-old teenager"
+    },
+    {
+      "pt": "o entrave",
+      "de": "Hindernis",
+      "en": "obstacle, hindrance",
+      "example": "Se país colocar entraves a acordo",
+      "example_de": "Wenn das Land Hindernisse für Abkommen schafft",
+      "example_en": "If country places obstacles to agreement"
+    },
+    {
+      "pt": "a ternura",
+      "de": "Zärtlichkeit",
+      "en": "tenderness",
+      "example": "Que ternura! Kelly Bailey e Lourenço Ortigão já são pais",
+      "example_de": "Wie zärtlich! Kelly Bailey und Lourenço Ortigão sind jetzt Eltern",
+      "example_en": "What tenderness! Kelly Bailey and Lourenço Ortigão are now parents"
+    },
+    {
+      "pt": "o chapéu",
+      "de": "Hut",
+      "en": "hat",
+      "example": "Os chapéus XXL são a nova tendência do verão",
+      "example_de": "XXL-Hüte sind der neue Trend des Sommers",
+      "example_en": "XXL hats are the new summer trend"
+    },
+    {
+      "pt": "a tendência",
+      "de": "Tendenz/Trend",
+      "en": "trend",
+      "example": "Está a fugir às tendências deste verão",
+      "example_de": "Sie entgeht den Trends dieses Sommers",
+      "example_en": "You're missing the trends of this summer"
+    },
+    {
+      "pt": "o armário",
+      "de": "Kleiderschrank",
+      "en": "wardrobe, closet",
+      "example": "Sem brilho no seu armário?",
+      "example_de": "Kein Glanz in Ihrem Kleiderschrank?",
+      "example_en": "No sparkle in your wardrobe?"
+    },
+    {
+      "pt": "o brilho",
+      "de": "Glanz",
+      "en": "shine, sparkle",
+      "example": "Sem brilho no seu armário",
+      "example_de": "Kein Glanz in Ihrem Schrank",
+      "example_en": "No sparkle in your wardrobe"
+    },
+    {
+      "pt": "o mestrado",
+      "de": "Masterstudium",
+      "en": "master's degree",
+      "example": "Professora ligada aos primeiros mestrados do ISMT",
+      "example_de": "Professorin verbunden mit den ersten Masterstudiengängen des ISMT",
+      "example_en": "Professor linked to the first master's degrees at ISMT"
+    },
+    {
+      "pt": "o professor",
+      "de": "Lehrer/Professor",
+      "en": "teacher, professor",
+      "example": "Professor de Matemática ateia fogo a casa",
+      "example_de": "Mathelehrer legt Feuer an Haus",
+      "example_en": "Math teacher sets fire to house"
+    }
   ]
 }
