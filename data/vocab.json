@@ -23903,5 +23903,119 @@
       "example_de": "Dies sind die Essentials, die Sie auf der Straße bei sich haben sollten.",
       "example_en": "These are the essentials you should have with you on the road."
     }
+  ],
+  "2026-08-19": [
+    {
+      "pt": "a surpresa",
+      "de": "Überraschung",
+      "en": "surprise",
+      "example": "Bombeiros recebem visita surpresa",
+      "example_de": "Feuerwehrleute erhalten Überraschungsbesuch",
+      "example_en": "Firefighters receive surprise visit"
+    },
+    {
+      "pt": "viciar",
+      "de": "süchtig machen",
+      "en": "to addict/hook",
+      "example": "Meta rejeita acusações de deliberadamente viciar jovens",
+      "example_de": "Meta weist Vorwürfe zurück, Jugendliche absichtlich süchtig zu machen",
+      "example_en": "Meta rejects accusations of deliberately addicting young people"
+    },
+    {
+      "pt": "a contravenção",
+      "de": "Ordnungswidrigkeit",
+      "en": "misdemeanor/infraction",
+      "example": "processos de contraordenação serão instaurados",
+      "example_de": "Ordnungswidrigkeitsverfahren werden eingeleitet",
+      "example_en": "infraction proceedings will be initiated"
+    },
+    {
+      "pt": "o patudo",
+      "de": "der Vierbeiner/Hund",
+      "en": "mutt/dog (affectionate)",
+      "example": "Um patudo aproximou-se do grupo",
+      "example_de": "Ein Vierbeiner näherte sich der Gruppe",
+      "example_en": "A mutt approached the group"
+    },
+    {
+      "pt": "a levidade",
+      "de": "die Leichtigkeit",
+      "en": "lightness/relief",
+      "example": "trouxe alguma leveza depois de horas de trabalho intenso",
+      "example_de": "brachte etwas Leichtigkeit nach Stunden intensiver Arbeit",
+      "example_en": "brought some lightness after hours of intense work"
+    },
+    {
+      "pt": "o aficionado",
+      "de": "der Fan/Begeisterte",
+      "en": "aficionado/enthusiast",
+      "example": "pretende reunir aficionados por automóveis",
+      "example_de": "soll Autofans versammeln",
+      "example_en": "aims to gather car enthusiasts"
+    },
+    {
+      "pt": "o cunhado",
+      "de": "der Schwager",
+      "en": "brother-in-law",
+      "example": "Cunhado acusado de homicídio 8 meses depois",
+      "example_de": "Schwager nach 8 Monaten des Mordes angeklagt",
+      "example_en": "Brother-in-law accused of homicide 8 months later"
+    },
+    {
+      "pt": "a habituação",
+      "de": "die Gewöhnung",
+      "en": "habituation/getting used to",
+      "example": "promovendo comportamentos aditivos",
+      "example_de": "fördernd für suchterzeugendes Verhalten",
+      "example_en": "promoting addictive behaviors"
+    },
+    {
+      "pt": "deliberadamente",
+      "de": "absichtlich",
+      "en": "deliberately",
+      "example": "deliberadamente viciar jovens",
+      "example_de": "absichtlich Jugendliche süchtig machen",
+      "example_en": "deliberately addict young people"
+    },
+    {
+      "pt": "o rendimento",
+      "de": "das Einkommen",
+      "en": "income",
+      "example": "82% do rendimento líquido familiar",
+      "example_de": "82% des Netto-Familieneinkommens",
+      "example_en": "82% of net family income"
+    },
+    {
+      "pt": "condoler-se",
+      "de": "Beileid aussprechen",
+      "en": "to condole/express sympathy",
+      "example": "Presidente envia condolências pelas vítimas",
+      "example_de": "Präsident sendet Beileid an die Opfer",
+      "example_en": "President sends condolences to victims"
+    },
+    {
+      "pt": "a fatalidade",
+      "de": "das Verhängnis/Fatalität",
+      "en": "fatality/fate",
+      "example": "morrer na estrada continua a ser uma fatalidade",
+      "example_de": "auf der Straße zu sterben bleibt ein Verhängnis",
+      "example_en": "dying on the road remains a fatality"
+    },
+    {
+      "pt": "o lutador",
+      "de": "der Kämpfer",
+      "en": "fighter",
+      "example": "1100 operacionais lutam contra três grandes incêndios",
+      "example_de": "1100 Einsatzkräfte kämpfen gegen drei Großbrände",
+      "example_en": "1100 operatives fight against three major fires"
+    },
+    {
+      "pt": "o folgo",
+      "de": "die Atempause",
+      "en": "respite/breathing room",
+      "example": "durante uma pausa para jantar",
+      "example_de": "während einer Pause zum Abendessen",
+      "example_en": "during a dinner break"
+    }
   ]
 }
