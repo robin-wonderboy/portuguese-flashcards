@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & EMERGÊNCIA",
+      "stories": [
+        {
+          "headline": "4 bombeiros feridos após acidente durante combate ao \"inferno\" em Arouca",
+          "text": "Quatro bombeiros voluntários de Arouca ficaram feridos após o despiste do veículo de combate a incêndios numa zona de difícil acesso na localidade de Pedrógão. O comandante Ricardo Fradique confirmou o acidente, embora a gravidade dos ferimentos ainda seja desconhecida."
+        },
+        {
+          "headline": "Portugal em alerta: 1.100 operacionais lutam contra três grandes incêndios",
+          "text": "O país está em estado de alerta máximo com três grandes incêndios ativos a serem combatidos por mais de mil operacionais. O primeiro-ministro Luís Montenegro esteve na sede da ANEPC em Oeiras para uma reunião de ponto de situação."
+        },
+        {
+          "headline": "Chamas assustam população em Arcos de Valdevez: 4 meios aéreos no combate",
+          "text": "Um incêndio deflagrado às 15:40 na freguesia de Rio Frio mobilizava 120 operacionais, 37 viaturas e três meios aéreos. Habitações em Miranda estiveram ameaçadas durante a tarde, mas o risco foi afastado."
+        },
+        {
+          "headline": "Bombeiros recebem visita surpresa (e muito especial) durante o combate às chamas",
+          "text": "Os Bombeiros Voluntários de Esposende estavam em Celorico de Basto a combater um incêndio florestal quando, durante uma pausa para jantar, receberam a visita inesperada de um \"patudo\" que partilhou momentos com os operacionais, trazendo leveza após horas de trabalho intenso."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Hélio Jacinto foi morto na passagem de ano na Figueira da Foz: Cunhado acusado de homicídio 8 meses depois",
+          "text": "Um jantar de família na praia da Leirosa terminou em tragédia na passagem de ano 2025/2026. Hélio Jacinto, pescador de 51 anos, foi morto à facada pelo cunhado após uma discussão. Oito meses depois, o Ministério Público acusou o homem de homicídio qualificado."
+        },
+        {
+          "headline": "Mulher vive manhã de terror após ser sequestrada",
+          "text": "Uma mulher foi encontrada em Alcabideche depois de ter sido alegadamente sequestrada durante a manhã em Torres Novas. A vítima terá sido abordada junto a uma zona comercial e obrigada a entrar numa viatura, sendo mais tarde abandonada junto ao Hiper Cascais."
+        },
+        {
+          "headline": "Rede de droga abastecia prisão de Coimbra: dois suspeitos vão para a cadeia",
+          "text": "O Tribunal da Guarda determinou prisão preventiva para dois dos 20 detidos na operação \"Tranca Segura\". O grupo fornecia estupefacientes para as cadeias da Guarda, Viseu, Coimbra e Lamego. Outros dez elementos foram proibidos de contactos e visitas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Mário Lança morre após despiste de camião betoneira",
+          "text": "Um grave acidente na Estrada Nacional 380, em Vendas Novas, terminou com a morte de Mário Lança, de 51 anos, que conduzia um camião betoneira. A morte foi lamentada publicamente pelo grupo Os Monhacas."
+        },
+        {
+          "headline": "Carro capota na Mealhada",
+          "text": "Um despiste de um carro junto das instalações dos Transportes Transbolho, na Mealhada, resultou no capotamento lateral do veículo, que ficou imobilizado fora da via. Os Bombeiros Voluntários da Mealhada prestaram assistência no local."
+        },
+        {
+          "headline": "Coimbra vai meter o pé no acelerador",
+          "text": "A Praça da Canção recebe a 2.ª edição da Mostra Auto Moto de Coimbra entre 10 e 13 de setembro, com exposições, espetáculo e competição. A Avenida Conímbriga receberá uma Super Especial no dia 12 de setembro, levando adrenalina às ruas da cidade. Entrada gratuita."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Apagão no Forum Coimbra",
+          "text": "Uma falha de energia afetou várias lojas do Forum Coimbra. As lojas ficaram sem eletricidade enquanto as luzes dos corredores continuaram a funcionar. Alguns clientes foram convidados a sair dos estabelecimentos, mas a situação foi entretanto resolvida."
+        },
+        {
+          "headline": "Mangualde aumenta fiscalização à deposição indevida de resíduos urbanos",
+          "text": "O Município de Mangualde vai reforçar até 31 de agosto a fiscalização contra a deposição indevida de resíduos urbanos junto a contentores e ecopontos, com tolerância zero para infratores. A medida surge após aumento significativo de situações irregulares."
+        },
+        {
+          "headline": "Lousã vive tarde mágica com espetáculo de circo premiado",
+          "text": "A sétima edição do Festival \"Xarivari\", promovido pela Companhia Marimbondo, decorre na Lousã de 21 a 23 de agosto. O espetáculo cómico premiado no Festival da Gran Canária é uma das propostas culturais do fim de semana."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & PAÍS",
+      "stories": [
+        {
+          "headline": "Presidente da República promulga \"lei das burcas\"",
+          "text": "O Presidente da República promulgou a lei que proíbe o uso de burca em espaços públicos, conhecida como \"lei das burcas\". A medida havia sido aprovada no Parlamento."
+        },
+        {
+          "headline": "Montenegro elogia \"trabalho extraordinário\" do ministro da Administração Interna",
+          "text": "O primeiro-ministro alertou para o \"elevado risco\" de incêndio e considerou que o ministro da Administração Interna está a fazer um \"trabalho absolutamente extraordinário\", afirmando que quem não repara na atuação do Governo está \"desfasado da realidade\"."
+        },
+        {
+          "headline": "PS quer rentrée como \"demonstração da força de uma alternativa\" tal como em 1995",
+          "text": "O PS prepara a rentrée política como uma demonstração de força, comparando o momento ao regresso político de 1995 que levou o partido ao poder."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "category": "ECONOMIA & TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "Meta rejeita acusações de deliberadamente viciar jovens em redes sociais",
+          "text": "Advogados da Meta rejeitaram as acusações de 29 estados norte-americanos de ter procurado deliberadamente viciar crianças e adolescentes no Facebook e Instagram. O julgamento iniciou-se no tribunal federal de Oakland, Califórnia, representando o maior desafio legal contra a gigante tecnológica."
+        },
+        {
+          "headline": "Coimbra entre as cidades onde a habitação mais pesa no orçamento familiar",
+          "text": "No segundo trimestre de 2026, arrendar uma casa consumia em média 82% do rendimento líquido familiar, enquanto a compra representava um esforço de 76%. Coimbra está entre as capitais de distrito onde a habitação mais pesa no orçamento."
+        },
+        {
+          "headline": "Quanto custa uma Bola de Berlim? Nas praias da Figueira da Foz chega aos 3 euros",
+          "text": "Um levantamento de 2026 revela um preço mediano de 2,20 euros para uma Bola de Berlim nas praias portuguesas, mais 20 cêntimos do que em 2025. Na Figueira da Foz, o preço chega aos 3 euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Fenprof alerta: mais de 20 mil professores colocados não chegam para as escolas",
+          "text": "A Federação Nacional dos Professores afirmou que os mais de 20 mil docentes colocados para o próximo ano letivo não correspondem às necessidades das escolas, alertando que há cada vez menos candidatos à contratação inicial."
+        },
+        {
+          "headline": "Universidade de Coimbra na corrida às Novas 7 Maravilhas",
+          "text": "A Universidade de Coimbra está entre os candidatos na final regional do Centro das Novas 7 Maravilhas de Portugal, com votação a decorrer nas Termas da Curia. Débora Monteiro, médica e madrinha da candidatura, marcou presença no evento."
+        }
+      ]
+    }
+  ]
+}
