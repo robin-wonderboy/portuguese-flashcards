@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "CRIMES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Pedro Almeida morreu esfaqueado na rua. Testemunha diz que a PSP recusou-se a ajudar",
+          "text": "A PSP abriu um inquérito para esclarecer se dois agentes recusaram prestar auxílio a um jovem de 25 anos esfaqueado a 16 de agosto em Lisboa. Pedro Almeida sofreu ferimentos no tórax junto ao Cais do Sodré e morreu no Hospital de São José."
+        },
+        {
+          "headline": "Jovem atingido a tiro em Sintra",
+          "text": "Um jovem de 21 anos foi baleado na barriga na sequência de um desentendimento entre 10 pessoas, segundo a CMTV. O incidente ocorreu esta quarta-feira em Sintra."
+        },
+        {
+          "headline": "Menino de 3 anos encontrado sozinho de madrugada entregue à Segurança Social",
+          "text": "Uma criança foi encontrada sozinha durante a madrugada e a irmã foi entregue à Segurança Social. A mãe foi localizada à hora de almoço."
+        },
+        {
+          "headline": "Ateava fogos com um isqueiro e acabou detido",
+          "text": "Um indivíduo foi detido após ateiar fogos com um isqueiro, num caso de incêndio criminoso."
+        },
+        {
+          "headline": "Tribunal agrava pena a idoso condenado pela morte de três cãos em Cantanhede",
+          "text": "O tribunal agravou a sentença aplicada a um idoso condenado pela morte de três cães no concelho de Cantanhede."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS RURAIS",
+      "stories": [
+        {
+          "headline": "Sete concelhos em perigo máximo de incêndio rural",
+          "text": "Vimioso, Miranda do Douro, Mogadouro, Carrazeda de Ansiães, Trancoso, Sabugal e Penamacor estão em perigo máximo, segundo o IPMA. Os distritos de Bragança, Guarda e Castelo Branco são os mais afetados."
+        },
+        {
+          "headline": "Fogo em Arouca reduzido a uma frente ativa",
+          "text": "O incêndio que deflagrou em Arouca foi reduzido a uma única frente ativa, após esforços de combate pelos bombeiros."
+        },
+        {
+          "headline": "Incêndio em Alijó dominado",
+          "text": "O fogo que deflagrou em Alijó foi dominado pelas equipas de combate a incêndios."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & GOVERNO",
+      "stories": [
+        {
+          "headline": "Incêndio destrói sede do Chega em Évora",
+          "text": "A sede distrital do Chega ficou totalmente destruída após um incêndio na Rua Cândido dos Reis. O fogo surgiu três horas depois de um primeiro incêndio no quadro elétrico do edifício. Não houve feridos."
+        },
+        {
+          "headline": "Governo autoriza despesa de 1,7M€ para residência da Universidade de Coimbra",
+          "text": "O Governo autorizou a Universidade de Coimbra a assumir uma despesa adicional de 1,7 milhões de euros na empreitada de adaptação do edifício Luís de Camões para residência de estudantes. A resolução foi publicada em Diário da República."
+        },
+        {
+          "headline": "Petição quer dar \"ânimo, autoestima e vigor\" a José Manuel Silva",
+          "text": "Uma petição foi lançada com o objetivo de dar apoio moral a José Manuel Silva."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Esta é a rua mais cara de Coimbra (e mais 10 com preço elevado em Portugal)",
+          "text": "A rua mais cara de Portugal tem um preço de 4.350.000 euros, na Rua das Faias em Cascais. O ranking inclui também uma rua de Coimbra entre as mais caras do país."
+        },
+        {
+          "headline": "Moradias para venda representam apenas 7,3% da construção nova",
+          "text": "A presença das moradias no mercado residencial português continua a diminuir, sobretudo na construção nova, refletindo uma tendência para apartamentos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Extramuralhas leva 23 espetáculos a Leiria",
+          "text": "Os Chamaleons, Moonspell e IAMX encabeçam o cartaz da 15.ª edição do festival Extramuralhas em Leiria. O evento reparte-se por quatro espaços da cidade, com 11 concertos de acesso livre no jardim Luís de Camões."
+        },
+        {
+          "headline": "Ruas de Lamego voltam a ser palco do festival ZigurFest",
+          "text": "O festival ZigurFest regressa a Lamego com concertos, residências e experiências partilhadas, incluindo nomes como Aires, Dan Iro, Plano Trifásico e La Familia Gitana."
+        },
+        {
+          "headline": "São Julião volta a dançar ao ritmo do Baile de Verão na Figueira da Foz",
+          "text": "A Figueira da Foz continua a animar as noites de verão com o Baile de Verão em São Julião."
+        },
+        {
+          "headline": "Alina transformou antiga casa florestal num refúgio de sonho na Figueira da Foz",
+          "text": "Uma antiga casa florestal foi transformada num novo spot de férias na Figueira da Foz, revelando o potencial de reabilitação de edifícios rurais abandonados."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Briosa invade Tondela: 5 restaurantes imperdíveis para os adeptos festejarem",
+          "text": "Com a vitória do Tondela, os adeptos encontram cinco restaurantes na cidade para festejar o resultado."
+        },
+        {
+          "headline": "Extremo Henry Addo no Tondela até 2028",
+          "text": "O extremo ganês Henry Addo é o 13.º reforço do Tondela, assinando por duas épocas com o clube beirão que disputa a II Liga."
+        }
+      ]
+    },
+    {
+      "emoji": "🐱",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Final feliz para Maria: gata desaparecida reencontra a família após resgate difícil",
+          "text": "Uma gata chamada Maria foi resgatada após passar dois meses escondida numa manilha de águas pluviais em São Silvestre, Coimbra. O resgate foi complexo mas terminou com o reencontro com a família."
+        },
+        {
+          "headline": "Penela exige à ERSUC melhorias na recolha seletiva de resíduos",
+          "text": "A Câmara de Penela exigiu à ERSUC melhorias na recolha seletiva de resíduos, notando falhas críticas no serviço prestado no concelho."
+        },
+        {
+          "headline": "Moado: a tradição doce da matança do porco que ainda resiste na região",
+          "text": "A tradição da matança do porco e do moado continua a resistir na região de Coimbra, preservando costumes ancestrais da gastronomia local."
+        },
+        {
+          "headline": "Conheça a história do Homem do Azeite em Oliveira do Hospital",
+          "text": "Uma vida dedicada aos lagares de azeite foi transformada num museu em Oliveira do Hospital, contando uma história de superação."
+        }
+      ]
+    },
+    {
+      "emoji": "📺",
+      "category": "MEDIA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "SIC diz adeus ao \"Domingão\"",
+          "text": "O programa \"Domingão\" vai chegar ao fim no final deste verão, encerrando um ciclo de seis anos de emissões ao domingo à tarde na SIC."
+        },
+        {
+          "headline": "Educação sofre mais de 4.600 ciberataques por semana",
+          "text": "A Check Point Research revela que o setor da educação sofre mais de 4.600 ciberataques semanais, e o regresso às aulas aumenta o risco."
+        }
+      ]
+    }
+  ]
+}
