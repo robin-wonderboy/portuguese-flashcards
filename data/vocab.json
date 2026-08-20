@@ -24017,5 +24017,151 @@
       "example_de": "während einer Pause zum Abendessen",
       "example_en": "during a dinner break"
     }
+  ],
+  "2026-08-20": [
+    {
+      "pt": "recusar-se",
+      "de": "sich weigern",
+      "en": "to refuse (oneself)",
+      "example": "A PSP recusou-se a ajudar",
+      "example_de": "Die Polizei weigerte sich zu helfen",
+      "example_en": "The police refused to help"
+    },
+    {
+      "pt": "a recolha seletiva",
+      "de": "Getrenntmüll-Sammlung",
+      "en": "selective waste collection",
+      "example": "Penela exige melhorias na recolha seletiva",
+      "example_de": "Penela fordert Verbesserungen der Getrenntmüll-Sammlung",
+      "example_en": "Penela demands improvements in selective waste collection"
+    },
+    {
+      "pt": "festejar",
+      "de": "feiern",
+      "en": "to celebrate",
+      "example": "Os adeptos festejaram a vitória",
+      "example_de": "Die Fans feierten den Sieg",
+      "example_en": "The fans celebrated the victory"
+    },
+    {
+      "pt": "a sentença",
+      "de": "das Urteil, die Strafe",
+      "en": "sentence, penalty",
+      "example": "O tribunal agrava a pena ao idoso",
+      "example_de": "Das Gericht verschärft die Strafe für den Senioren",
+      "example_en": "The court increases the sentence for the elderly man"
+    },
+    {
+      "pt": "a matança",
+      "de": "Schlachtung",
+      "en": "slaughter, killing",
+      "example": "A tradição da matança do porco ainda resiste",
+      "example_de": "Die Tradition der Schweineschlachtung widersteht noch",
+      "example_en": "The tradition of pig slaughter still resists"
+    },
+    {
+      "pt": "dominar",
+      "de": "beherrschen, eindämmen",
+      "en": "to contain, to control",
+      "example": "O fogo foi dominado pelos bombeiros",
+      "example_de": "Das Feuer wurde von den Feuerwehrleuten eingedämmt",
+      "example_en": "The fire was contained by the firefighters"
+    },
+    {
+      "pt": "autorizar",
+      "de": "genehmigen, erlauben",
+      "en": "to authorize",
+      "example": "O Governo autorizou a despesa adicional",
+      "example_de": "Die Regierung genehmigte die Zusatzausgabe",
+      "example_en": "The government authorized the additional expense"
+    },
+    {
+      "pt": "encabeçar",
+      "de": "anführen, leiten",
+      "en": "to headline, to lead",
+      "example": "Os Moonspell encabeçam o cartaz do festival",
+      "example_de": "Die Moonspell führen das Line-up des Festivals an",
+      "example_en": "Moonspell headline the festival lineup"
+    },
+    {
+      "pt": "a testemunha",
+      "de": "Zeuge",
+      "en": "witness",
+      "example": "Uma testemunha afirmou que a PSP recusou-se a ajudar",
+      "example_de": "Ein Zeuge sagte aus, dass die Polizei sich weigerte zu helfen",
+      "example_en": "A witness stated that the police refused to help"
+    },
+    {
+      "pt": "prestar auxílio",
+      "de": "Hilfe leisten",
+      "en": "to provide assistance",
+      "example": "Dois agentes recusaram prestar auxílio ao jovem",
+      "example_de": "Zwei Beamte weigerten sich, dem jungen Mann Hilfe zu leisten",
+      "example_en": "Two officers refused to provide assistance to the young man"
+    },
+    {
+      "pt": "a hortícola",
+      "de": "Gemüsepflanze",
+      "en": "vegetable plant",
+      "example": "Estas hortícolas devem ser semeadas já",
+      "example_de": "Diese Gemüsepflanzen sollten schon gesät werden",
+      "example_en": "These vegetable plants should be sown already"
+    },
+    {
+      "pt": "o louro",
+      "de": "Lorbeer",
+      "en": "bay leaf",
+      "example": "Que efeitos tem o louro?",
+      "example_de": "Welche Wirkungen hat der Lorbeer?",
+      "example_en": "What effects does bay leaf have?"
+    },
+    {
+      "pt": "o tempero",
+      "de": "Gewürz, Würze",
+      "en": "seasoning, spice",
+      "example": "O tempero que quase todos usam",
+      "example_de": "Das Gewürz, das fast alle benutzen",
+      "example_en": "The seasoning that almost everyone uses"
+    },
+    {
+      "pt": "a manilha",
+      "de": "Rohr, Röhre",
+      "en": "pipe, culvert",
+      "example": "A gata estava escondida numa manilha de águas pluviais",
+      "example_de": "Die Katze war in einem Regenwasserrohr versteckt",
+      "example_en": "The cat was hidden in a stormwater pipe"
+    },
+    {
+      "pt": "o quadro elétrico",
+      "de": "Schaltkasten",
+      "en": "electrical panel",
+      "example": "Um primeiro incêndio no quadro elétrico do edifício",
+      "example_de": "Ein erstes Feuer im Schaltkasten des Gebäudes",
+      "example_en": "A first fire in the building's electrical panel"
+    },
+    {
+      "pt": "repartir",
+      "de": "verteilen, aufteilen",
+      "en": "to distribute, to split",
+      "example": "O festival reparte-se por quatro espaços da cidade",
+      "example_de": "Das Festival verteilt sich auf vier Orte in der Stadt",
+      "example_en": "The festival is spread across four venues in the city"
+    },
+    {
+      "pt": "a autoestrada",
+      "de": "Autobahn",
+      "en": "highway",
+      "example": "A autoestrada foi reaberta ao trânsito",
+      "example_de": "Die Autobahn wurde für den Verkehr wieder geöffnet",
+      "example_en": "The highway was reopened to traffic"
+    },
+    {
+      "pt": "o lagar",
+      "de": "Ölpresse, Ölmühle",
+      "en": "olive press, mill",
+      "example": "Uma vida dedicada aos lagares",
+      "example_de": "Ein Leben den Ölmühlen gewidmet",
+      "example_en": "A life dedicated to olive presses"
+    }
   ]
 }
