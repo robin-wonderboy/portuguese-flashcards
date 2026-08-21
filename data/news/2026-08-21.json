@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sismo de 7,2 no Peru causa 3 feridos e danos em vários edifícios públicos",
+          "text": "Um sismo de magnitude 7,2 abalou o Peru, causando pelo menos 3 feridos e danos em vários edifícios públicos. As autoridades avaliam os estragos enquanto a população recupera do susto."
+        },
+        {
+          "headline": "Controlado na Bélgica o pior incêndio desde 1911",
+          "text": "As equipas de combate a incêndios conseguiram controlar o que é considerado o pior incêndio na Bélgica desde 1911. O fogo consumiu vastas áreas florestais antes de ser dominado."
+        },
+        {
+          "headline": "4 mortos a tiro no México após jogo de futebol",
+          "text": ""
+        },
+        {
+          "headline": "Luís Mendes é morto à facada ao tentar ajudar rapariga assediada",
+          "text": "Um homem identificado como Luís Mendes foi morto à facada quando tentava ajudar uma rapariga que estava a ser assediada. O caso chocou a comunidade local."
+        },
+        {
+          "headline": "Portugal condena ataques russos a Kiev que fizeram 16 mortos",
+          "text": "Portugal juntou-se à condenação internacional dos ataques russos contra Kiev, que resultaram em 16 mortos. O Ministério dos Negócios Estrangeiros expressou solidariedade com a Ucrânia."
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Final de agosto pode trazer chuva abundante e vento forte",
+          "text": "Os últimos dias de agosto podem ser marcados por uma mudança significativa no estado do tempo em Portugal continental. As previsões apontam para a passagem de duas depressões atlânticas, que poderão trazer chuva, vento forte e temperaturas mais baixas do que é habitual nesta altura do ano."
+        },
+        {
+          "headline": "Apenas um concelho em perigo máximo de incêndio esta sexta-feira",
+          "text": "Apesar das temperaturas elevadas, apenas um concelho do país se encontra esta sexta-feira em perigo máximo de incêndio florestal, segundo o Instituto da Conservação da Natureza."
+        },
+        {
+          "headline": "Incêndio em Vila Nova de Poiares",
+          "text": "Um incêndio florestal deflagrou em Vila Nova de Poiares, mobilizando meios de combate aéreo e terrestre para conter as chamas na região centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Torturadores procurados no Brasil detidos em Portugal. Trabalhavam com crianças",
+          "text": "Dois indivíduos procurados pelas autoridades brasileiras por tortura foram detidos em Portugal. Os suspeitos trabalhavam com crianças, o que adiciona gravidade ao caso. A extraditação está a ser analisada."
+        },
+        {
+          "headline": "Mãe deixa os filhos sozinhos por 5 dias para ir trabalhar. Menino de 3 anos encontrado sozinho a chorar",
+          "text": "Uma mãe deixou os filhos sozinhos em casa durante 5 dias para ir trabalhar. Um menino de 3 anos foi encontrado sozinho a chorar, levando à intervenção das autoridades."
+        },
+        {
+          "headline": "Veste-se de mulher e tenta assaltar ourivesaria, mas plano vai por água abaixo",
+          "text": "Um indivíduo vestiu-se de mulher e tentou assaltar uma ourivesaria, mas o plano falhou e acabou por ser detido pelas autoridades."
+        },
+        {
+          "headline": "PJ desmantela esquema de pornografia de menores e apreende telemóvel com imagens chocantes",
+          "text": "A Polícia Judiciária desmantelou um esquema de pornografia de menores, tendo apreendido um telemóvel contendo imagens chocantes. O suspeito foi presente a juiz."
+        },
+        {
+          "headline": "GNR chamado para uma ocorrência e acabou esfaqueado. Recebe 5 mil euros 8 anos depois",
+          "text": "Um militar da GNR que foi esfaqueado após ser chamado para uma ocorrência recebeu finalmente uma indemnização de 5 mil euros, 8 anos após o incidente."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo aprova 3,5 milhões para danos em zonas ribeirinhas e costeiras após comboio de tempestades",
+          "text": "O Governo aprovou uma verba de 3,5 milhões de euros para reparação de danos em zonas ribeirinhas e costeiras, na sequência do comboio de tempestades que afetou o país nas últimas semanas."
+        },
+        {
+          "headline": "Governo lança pré-aprovação de 800 áreas para projetos de energia solar e eólica",
+          "text": "O Governo lançou a pré-aprovação de 800 áreas destinadas a projetos de energia solar e eólica, num esforço para acelerar a transição energética e atrair investimento no setor das renováveis."
+        },
+        {
+          "headline": "Luís Neves usa carro apreendido pela PJ",
+          "text": "O líder político Luís Neves gerou polémica ao ser revelado que utiliza um carro apreendido pela Polícia Judiciária, levantando questões sobre a legalidade da situação."
+        },
+        {
+          "headline": "Incêndio destrói sede do Chega",
+          "text": "Um incêndio destruiu a sede do partido Chega. As causas estão a ser investigadas pelas autoridades, não se descartando a hipótese de criminalidade."
+        },
+        {
+          "headline": "81 pessoas já morreram a trabalhar este ano. Construção é o setor mais mortal",
+          "text": "Os dados revelam que 81 pessoas já morreram em acidentes de trabalho este ano em Portugal, sendo a construção civil o setor com mais vítimas mortais."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "REGIÃO & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Entrada do Metrobus no centro de Coimbra pode ser tipo 'estreito de Ormuz'",
+          "text": "A entrada do Metrobus no centro de Coimbra promete ser complicada, comparada a um 'estreito de Ormuz'. A NarrowBra tem alertado para a necessidade de os condutores verificarem se têm o seguro em dia."
+        },
+        {
+          "headline": "Cantanhede começa requalificação de duas ruas na Póvoa da Lomba",
+          "text": "A Câmara de Cantanhede iniciou as obras de requalificação de duas ruas na Póvoa da Lomba, visando melhorar as condições de mobilidade e segurança na localidade."
+        },
+        {
+          "headline": "Obras obrigam ao corte da EN8 durante 115 dias",
+          "text": "A Estrada Nacional 8 vai ser cortada ao trânsito durante 115 dias devido a obras. Os condutores terão de fazer desvios, o que deverá aumentar os tempos de viagem na região."
+        },
+        {
+          "headline": "Residentes em Viseu com transportes públicos gratuitos a partir de setembro",
+          "text": "Os residentes em Viseu terão acesso a transportes públicos gratuitos a partir de setembro, numa medida que pretende incentivar o uso de mobilidade sustentável."
+        },
+        {
+          "headline": "Águas de Portugal investe 7 milhões para reforçar abastecimento a partir de Seia",
+          "text": "A empresa Águas de Portugal vai investir 7 milhões de euros para reforçar o sistema de abastecimento de água a partir de Seia, garantindo maior segurança hídrica na região."
+        },
+        {
+          "headline": "Viseu exige ao Governo nova barragem de Fagilde",
+          "text": "O município de Viseu exige ao Governo a construção da nova barragem de Fagilde, considerada essencial para o abastecimento de água e prevenção de cheias na região."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "100 'camas sociais' no descontinuado Villa Pampilhosa Hotel. Haja Misericórdia!",
+          "text": "O descontinuado Villa Pampilhosa Hotel vai ser transformado para acolher 100 'camas sociais'. A iniciativa conta com o aplauso da Câmara de Pampilhosa e da Misericórdia."
+        },
+        {
+          "headline": "Homem elogia Hospital de Coimbra mas alerta para urgências 'completamente' cheias",
+          "text": "Um homem elogiou o atendimento no Hospital de Coimbra, mas alertou para as urgências completamente cheias, com tempos de espera que chegam a várias horas."
+        },
+        {
+          "headline": "O intestino pode esconder a chave para combater o Parkinson",
+          "text": "Investigadores sugerem que o intestino pode esconder a chave para combater a doença de Parkinson, abrindo novas perspetivas para o tratamento da condição neurodegenerativa."
+        },
+        {
+          "headline": "'Ajude a reconstruir a casa do Carlitos' em Brasfemes",
+          "text": "Uma campanha solidária foi lançada para ajudar a reconstruir a casa do Carlitos, um morador de Brasfemes que perdeu a sua habitação. A comunidade está a mobilizar-se."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Lousa celebra três atletas que brilharam na Europa",
+          "text": "O município da Lousa celebrou três atletas locais que brilharam em competições europeias: Camila Rebelo, Guilherme Costa e Francisco Caetano. O orgulho transborda na pequena localidade."
+        },
+        {
+          "headline": "Benfica cumpre e aproxima-se do objetivo Liga Europa",
+          "text": "O Benfica cumpriu os objectivos na Liga Europa, aproximando-se da fase seguinte da competição com uma vitória importante."
+        },
+        {
+          "headline": "Valsa bracarense mais forte na Liga Conferência",
+          "text": "A equipa de Braga mostrou-se mais forte na Liga Conferência, com uma vitória que fortalece a campanha europeia."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Primeiro Master of Wine português quer 'vender e trabalhar melhor' o vinho nacional",
+          "text": "O primeiro Master of Wine português quer vender e trabalhar melhor o vinho nacional, elevando o prestígio dos vinhos portugueses no mercado internacional."
+        },
+        {
+          "headline": "Joaquim comprou 'às cegas' uma casa por 200 contos no Talasnal. O resto é história",
+          "text": "Joaquim tinha apenas 19 anos quando comprou às cegas uma casa por 200 contos no Talasnal. Décadas depois, a restauração tornou-se numa história de amor pela aldeia e pela região."
+        },
+        {
+          "headline": "Góis já prepara uma nova invasão motard. Saiba as datas",
+          "text": "O concelho de Góis prepara-se para uma nova invasão de motards, um evento que atrai milhares de participantes todos os anos. As datas já foram anunciadas."
+        },
+        {
+          "headline": "Milagre Metaleiro inicia com Paradise Lost, The Haunted e Belphegor",
+          "text": "O festival Milagre Metaleiro arrancou em São Pedro do Sul com nomes pesados como Paradise Lost, The Haunted e Belphegor, atraindo fãs de metal de todo o país."
+        }
+      ]
+    }
+  ]
+}
