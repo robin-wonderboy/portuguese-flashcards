@@ -24163,5 +24163,151 @@
       "example_de": "Ein Leben den Ölmühlen gewidmet",
       "example_en": "A life dedicated to olive presses"
     }
+  ],
+  "2026-08-21": [
+    {
+      "pt": "descontinuado",
+      "de": "eingestellt, stillgelegt",
+      "en": "discontinued, decommissioned",
+      "example": "o descontinuado Villa Pampilhosa Hotel",
+      "example_de": "das stillgelegte Villa Pampilhosa Hotel",
+      "example_en": "the decommissioned Villa Pampilhosa Hotel"
+    },
+    {
+      "pt": "o aplauso",
+      "de": "Beifall",
+      "en": "applause",
+      "example": "com o aplauso da Câmara",
+      "example_de": "mit dem Beifall der Stadtverwaltung",
+      "example_en": "with the applause of the City Council"
+    },
+    {
+      "pt": "o contos",
+      "de": "Tausend (alte Währung)",
+      "en": "thousand (old Portuguese currency)",
+      "example": "uma casa por 200 contos",
+      "example_de": "ein Haus für 200 Contos",
+      "example_en": "a house for 200 contos"
+    },
+    {
+      "pt": "abundante",
+      "de": "reichlich, ergiebig",
+      "en": "abundant, plentiful",
+      "example": "chuva abundante",
+      "example_de": "reichlich Regen",
+      "example_en": "abundant rain"
+    },
+    {
+      "pt": "o esgoto",
+      "de": "Abwasserkanal",
+      "en": "sewer, drain",
+      "example": "obras obrigam ao corte da EN8",
+      "example_de": "Bauarbeiten erfordern Sperrung der EN8",
+      "example_en": "roadworks require closing EN8"
+    },
+    {
+      "pt": "o comboio de tempestades",
+      "de": "Serie von Stürmen",
+      "en": "train of storms, succession of storms",
+      "example": "após comboio de tempestades",
+      "example_de": "nach einer Serie von Stürmen",
+      "example_en": "after a train of storms"
+    },
+    {
+      "pt": "a pré-aprovação",
+      "de": "Vorabgenehmigung",
+      "en": "pre-approval",
+      "example": "pré-aprovação de 800 áreas",
+      "example_de": "Vorabgenehmigung von 800 Gebieten",
+      "example_en": "pre-approval of 800 areas"
+    },
+    {
+      "pt": "a apitadela",
+      "de": "Hupen, kurzer Pfiff",
+      "en": "a honk, a quick toot",
+      "example": "dê uma apitadela",
+      "example_de": "gib einen kurzen Hup",
+      "example_en": "give a quick honk"
+    },
+    {
+      "pt": "o motard",
+      "de": "Motorradfahrer",
+      "en": "motorcyclist, biker",
+      "example": "invasão motard",
+      "example_de": "Motorradfahrer-Invasion",
+      "example_en": "biker invasion"
+    },
+    {
+      "pt": "a azeitona",
+      "de": "Olive",
+      "en": "olive",
+      "example": "apanhar azeitonas",
+      "example_de": "Oliven pflücken",
+      "example_en": "to pick olives"
+    },
+    {
+      "pt": "haja",
+      "de": "es möge geben",
+      "en": "may there be (subjunctive of haver)",
+      "example": "Haja Misericórdia!",
+      "example_de": "Möge es Barmherzigkeit geben!",
+      "example_en": "May there be mercy!"
+    },
+    {
+      "pt": "o tormento",
+      "de": "Qual, Folter",
+      "en": "torment, torture",
+      "example": "torturadores procurados",
+      "example_de": "gesuchte Folterknechte",
+      "example_en": "wanted tormentors"
+    },
+    {
+      "pt": "encarece",
+      "de": "verteuert",
+      "en": "makes more expensive (verb encarecer)",
+      "example": "ter piscina encarece um apartamento",
+      "example_de": "Pool besitzt verteuert eine Wohnung",
+      "example_en": "having a pool makes an apartment more expensive"
+    },
+    {
+      "pt": "o sobresselente",
+      "de": "das Ersatzteil",
+      "en": "spare part",
+      "example": "Veja se tem o seguro em dia",
+      "example_de": "Schauen Sie, ob die Versicherung aktuell ist",
+      "example_en": "Check if your insurance is up to date"
+    },
+    {
+      "pt": "brilharam",
+      "de": "glänzten, strahlten",
+      "en": "shone, excelled (verb brilhar)",
+      "example": "atletas que brilharam na Europa",
+      "example_de": "Sportler die in Europa glänzten",
+      "example_en": "athletes who excelled in Europe"
+    },
+    {
+      "pt": "procurados",
+      "de": "gesucht (von Polizei)",
+      "en": "wanted (by police)",
+      "example": "torturadores procurados no Brasil",
+      "example_de": "gesuchte Folterknechte in Brasilien",
+      "example_en": "wanted tormentors in Brazil"
+    },
+    {
+      "pt": "detidos",
+      "de": "festgenommen",
+      "en": "detained, arrested",
+      "example": "detidos em Portugal",
+      "example_de": "festgenommen in Portugal",
+      "example_en": "detained in Portugal"
+    },
+    {
+      "pt": "o vinho nacional",
+      "de": "portugiesischer Wein",
+      "en": "Portuguese wine (national wine)",
+      "example": "vender e trabalhar melhor o vinho nacional",
+      "example_de": "portugiesischen Wein besser verkaufen",
+      "example_en": "sell and promote Portuguese wine better"
+    }
   ]
 }
