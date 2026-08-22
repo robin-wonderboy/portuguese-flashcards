@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica vence em Tondela num \"inferno\" preto e branco",
+          "text": "A Académica saiu vitoriosa do Estádio João Cardoso com 2-0 frente ao Tondela, golos de Zé Ricardo (autogolo aos 29') e Rui Gomes aos 90+5'. O Tondela ficou com nove jogadores após duas expulsões (guarda-redes aos 69' e Cícero aos 79'). Cerca de 1600 adeptos da Briosa fizeram a viagem, num total de 4237 espetadores."
+        },
+        {
+          "headline": "Família de Ricardo Teixeira na \"primeira linha\" a apoiar a Académica",
+          "text": "Entre os 1600 adeptos que viajaram até Tondela está a família do jogador Ricardo Teixeira, pais Jorge e Ana Paula, que fazem questão de acompanhar o filho em todos os jogos."
+        },
+        {
+          "headline": "Coimbra pintada de verde para a Supertaça",
+          "text": "A cidade de Coimbra prepara-se para receber a Supertaça, com as ruas a serem decoradas com as cores do evento."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Ventoinha ligada e parede cheia de salitre: Centro de Saúde São Martinho do Bispo em estado insustentável",
+          "text": "A Comissão de Utentes denunciou a grave falta de condições do edifício: chove no inverno, calor intenso no verão sem climatização, paredes com salitre e ventoinhas no meio das salas. A degradação compromete o atendimento a milhares de utentes e o bem-estar dos profissionais."
+        },
+        {
+          "headline": "Técnicos do INEM sob pressão: cada um atendeu 7200 chamadas por ano",
+          "text": "Dados revelam a carga excessiva sobre os técnicos do INEM, com uma média de 7200 chamadas atendidas por profissional anualmente."
+        }
+      ]
+    },
+    {
+      "emoji": "🚒",
+      "category": "INCÊNDIOS & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Tábua: Menor de 13 anos identificado por três incêndios",
+          "text": "A PJ identificou um menor de 13 anos suspeito de ter provocado três incêndios em Tábua, no interior do distrito de Coimbra. O menor não tinha noção do perigo das suas ações."
+        },
+        {
+          "headline": "Bombeiros feridos em Arouca: um teve alta, outro sai dos cuidados intensivos",
+          "text": "Dos quatro bombeiros feridos a caminho do incêndio que consumiu 1300 hectares em Arouca, um teve alta médica e outro saiu dos Cuidados Intensivos. A presidente da Câmara tem acompanhado o quadro clínico de perto."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Tentativa de assalto à mão armada em loja de ouro em Coimbra",
+          "text": "Uma tentativa de assalto à mão armada, não concretizada, ocorreu numa loja de ouro em Coimbra. Os Bombeiros Voluntários foram chamados para assistir uma mulher de 36 anos. As autoridades mobilizaram meios de emergência para o local."
+        },
+        {
+          "headline": "Cantanhede: \"Bandiditos\" identificados por roubo por esticão",
+          "text": "O Destacamento Territorial de Cantanhede identificou dois suspeitos de roubo por esticão na via pública, após diligências da GNR desenvolvidas na sequência de uma denúncia."
+        },
+        {
+          "headline": "Condenada por fogos volta a ser detida",
+          "text": "Uma mulher que havia sido condenada por provocar incêndios foi novamente detida por deitar fogo a roupa, plástico e papel na rua."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Mais uma colisão envolvendo o Metrobus",
+          "text": "Na tarde de sexta-feira, uma colisão entre o autocarro do Metro Mondego e uma carrinha ocorreu numa antiga passagem de nível da linha ferroviária da Lousã. As colisões continuam a marcar a atualidade nos três concelhos servidos pelo sistema."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Preços das casas em Coimbra sobem 15,1% em julho",
+          "text": "Os preços das casas em Portugal subiram 8% em julho face ao ano anterior. Em Coimbra, o aumento foi ainda mais expressivo, 15,1%. O preço por metro quadrado dos apartamentos chega a ser 131% superior ao das moradias."
+        },
+        {
+          "headline": "Abastecer pode ficar mais barato: Governo aumenta desconto no ISP",
+          "text": "Face à perspetiva de subida dos preços do gasóleo e gasolina, o Governo vai aumentar o desconto extraordinário no ISP em 0,11 cêntimos por litro para o gasóleo e gasolina sem chumbo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festa das Latas: bilhetes a 30 euros, venda presencial de 24 a 27 de agosto",
+          "text": "Os bilhetes custam 30 euros. Nos dias 24-26 de agosto são exclusivos para novos estudantes da UC; dia 27 começa a venda geral. A venda decorre no circuito das matrículas no Polo I da Universidade de Coimbra."
+        },
+        {
+          "headline": "SIC diz adeus ao \"Domingão\"",
+          "text": "A SIC confirmou o fim do programa \"Domingão\" no final do verão, encerrando um ciclo de seis anos desde a estreia em 2020."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Chega: continuação do ministro Luís Neves é \"insuportável\"",
+          "text": "O Chega entregou uma iniciativa parlamentar recomendando ao primeiro-ministro a exoneração do ministro da Administração Interna, na sequência de polémicas relacionadas com a sua gestão anterior da PJ."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Ataque de adolescente com espada em escola sueca",
+          "text": "Um ex-aluno de 18 anos atacou uma escola na Suécia com espada, deixando dois feridos graves e um morto. O agressor foi ferido a tiro durante a detenção pela polícia sueca."
+        }
+      ]
+    }
+  ]
+}
