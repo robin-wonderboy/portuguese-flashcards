@@ -24309,5 +24309,111 @@
       "example_de": "portugiesischen Wein besser verkaufen",
       "example_en": "sell and promote Portuguese wine better"
     }
+  ],
+  "2026-08-22": [
+    {
+      "pt": "o salitre",
+      "de": "Salpeter, Ausblühungen",
+      "en": "salt deposits, damp stains on walls",
+      "example": "A parede cheia de salitre no centro de saúde",
+      "example_de": "Die Wand voller Salpeter im Gesundheitszentrum",
+      "example_en": "The wall full of damp stains in the health center"
+    },
+    {
+      "pt": "a ventoinha",
+      "de": "Ventilator",
+      "en": "fan (portable electric fan)",
+      "example": "A ventoinha ligada no meio da sala",
+      "example_de": "Der laufende Ventilator mitten im Raum",
+      "example_en": "The running fan in the middle of the room"
+    },
+    {
+      "pt": "deitar fogo",
+      "de": "Feuer legen",
+      "en": "to set fire (to something)",
+      "example": "O menor deitou fogo sem ter noção do perigo",
+      "example_de": "Der Minderjährige legte Feuer ohne Gefahrenbewusstsein",
+      "example_en": "The minor set fire without awareness of danger"
+    },
+    {
+      "pt": "a recolha de lixo",
+      "de": "Müllabfuhr",
+      "en": "garbage collection",
+      "example": "A ERSUC reconhece dificuldades na recolha de lixo",
+      "example_de": "ERSUC erkennt Schwierigkeiten bei der Müllabfuhr",
+      "example_en": "ERSUC acknowledges difficulties in garbage collection"
+    },
+    {
+      "pt": "o guarda-redes",
+      "de": "Torwart",
+      "en": "goalkeeper",
+      "example": "O guarda-redes viu o segundo cartão amarelo",
+      "example_de": "Der Torwart bekam die zweite gelbe Karte",
+      "example_en": "The goalkeeper got a second yellow card"
+    },
+    {
+      "pt": "a alta médica",
+      "de": "Entlassung aus dem Krankenhaus",
+      "en": "discharge from hospital",
+      "example": "Um dos bombeiros feridos teve alta médica ontem",
+      "example_de": "Einer der verletzten Feuerwehrleute wurde gestern entlassen",
+      "example_en": "One of the injured firefighters was discharged yesterday"
+    },
+    {
+      "pt": "o infortúnio",
+      "de": "Missgeschick, Pech",
+      "en": "misfortune, mishap",
+      "example": "O golo surgiu de um infortúnio da defesa",
+      "example_de": "Das Tor entstand durch ein Missgeschick der Abwehr",
+      "example_en": "The goal came from a mishap by the defense"
+    },
+    {
+      "pt": "a climatização",
+      "de": "Klimaanlage, Klimatisierung",
+      "en": "air conditioning, climate control",
+      "example": "O edifício não tem sistema de climatização",
+      "example_de": "Das Gebäude hat keine Klimaanlage",
+      "example_en": "The building has no air conditioning system"
+    },
+    {
+      "pt": "a superioridade",
+      "de": "Überlegenheit",
+      "en": "superiority (numerical advantage in sports)",
+      "example": "Apesar da superioridade numérica, o jogo foi difícil",
+      "example_de": "Trotz numerischer Überlegenheit war das Spiel schwierig",
+      "example_en": "Despite numerical superiority, the game was difficult"
+    },
+    {
+      "pt": "o compromisso",
+      "de": "Verpflichtung, Zusage",
+      "en": "commitment, promise, engagement",
+      "example": "A distância entre os compromissos e a concretização",
+      "example_de": "Die Lücke zwischen den Zusagen und der Umsetzung",
+      "example_en": "The gap between commitments and implementation"
+    },
+    {
+      "pt": "a concretização",
+      "de": "Umsetzung, Verwirklichung",
+      "en": "implementation, realization",
+      "example": "A concretização no terreno demora anos",
+      "example_de": "Die Umsetzung vor Ort dauert Jahre",
+      "example_en": "Implementation on the ground takes years"
+    },
+    {
+      "pt": "o comunicado",
+      "de": "Erklärung, Pressemitteilung",
+      "en": "statement, press release",
+      "example": "A PJ adianta em comunicado a identificação do suspeito",
+      "example_de": "Die PJ teilt in einer Erklärung die Identifizierung des Verdächtigen mit",
+      "example_en": "The PJ announces in a statement the identification of the suspect"
+    },
+    {
+      "pt": "a mobilização",
+      "de": "Mobilisierung, Aufgebot",
+      "en": "mobilization, dispatch of resources",
+      "example": "A ocorrência levou à mobilização de meios de emergência",
+      "example_de": "Der Vorfall führte zur Mobilisierung von Einsatzkräften",
+      "example_en": "The incident led to the mobilization of emergency resources"
+    }
   ]
 }
