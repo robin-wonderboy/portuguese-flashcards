@@ -24415,5 +24415,135 @@
       "example_de": "Der Vorfall führte zur Mobilisierung von Einsatzkräften",
       "example_en": "The incident led to the mobilization of emergency resources"
     }
+  ],
+  "2026-08-23": [
+    {
+      "pt": "suplantar",
+      "de": "verdrängen, übertrumpfen",
+      "en": "to surpass, to overcome",
+      "example": "Sporting supera Alverca no Estádio Alvalade",
+      "example_de": "Sporting übertrumpft Alverca im Estádio Alvalade",
+      "example_en": "Sporting surpasses Alverca at Alvalade Stadium"
+    },
+    {
+      "pt": "congelado",
+      "de": "gefroren, eingefroren",
+      "en": "frozen",
+      "example": "Carga de polpa congelada escondia cocaína",
+      "example_de": "Ladung gefrorener Pulpe versteckte Kokain",
+      "example_en": "Frozen pulp cargo hid cocaine"
+    },
+    {
+      "pt": "perseguir",
+      "de": "verfolgen, nachstellen",
+      "en": "to pursue, to stalk",
+      "example": "Homem detido por perseguir e atormentar psicologicamente a ex-namorada",
+      "example_de": "Mann festgenommen für Nachstellen und psychische Quälerei der Ex",
+      "example_en": "Man arrested for stalking and psychologically tormenting ex-girlfriend"
+    },
+    {
+      "pt": "convidativo",
+      "de": "einladend, ansprechend",
+      "en": "inviting, appealing",
+      "example": "Biblioteca cria espaço convidativo para as crianças",
+      "example_de": "Bibliothek schafft ansprechenden Raum für Kinder",
+      "example_en": "Library creates inviting space for children"
+    },
+    {
+      "pt": "arrepiar",
+      "de": "Gänsehaut machen, schauern",
+      "en": "to give chills, to thrill",
+      "example": "Kura arrepiou o people presente no Festival Somnii",
+      "example_de": "Kura gab dem Publikum beim Somnii Festival Gänsehaut",
+      "example_en": "Kura gave the crowd chills at Somnii Festival"
+    },
+    {
+      "pt": "a alteração",
+      "de": "die Veränderung, die Änderung",
+      "en": "the change, the alteration",
+      "example": "Alteração significativa das condições meteorológicas",
+      "example_de": "Signifikante Veränderung der Wetterbedingungen",
+      "example_en": "Significant change in weather conditions"
+    },
+    {
+      "pt": "o matagal",
+      "de": "das Gebüsch, das Gestrüpp",
+      "en": "the thicket, the brush",
+      "example": "Queria limpar o matagal à volta da sua casa",
+      "example_de": "Wollte das Gebüsch rund um sein Haus reinigen",
+      "example_en": "Wanted to clean the brush around his house"
+    },
+    {
+      "pt": "o flagrante delito",
+      "de": "die frische Tat, auf frischer Tat",
+      "en": "in flagrante delicto, caught red-handed",
+      "example": "Incendiário detido fora de flagrante delito",
+      "example_de": "Brandstifter nicht auf frischer Tat festgenommen",
+      "example_en": "Arsonist arrested not in flagrante delicto"
+    },
+    {
+      "pt": "o onze",
+      "de": "die Startelf, die Mannschaft",
+      "en": "the starting eleven (team)",
+      "example": "Com três alterações no onze, a equipa leonina começou a vencer",
+      "example_de": "Mit drei Änderungen in der Startelf begann die Löwen-Mannschaft zu gewinnen",
+      "example_en": "With three changes in the starting eleven, the lion team started winning"
+    },
+    {
+      "pt": "o caminhão",
+      "de": "der Lastwagen, der LKW",
+      "en": "the truck, the lorry",
+      "example": "Cocaína seguia num contentor transportado por via marítima",
+      "example_de": "Kokain reiste in einem per Seefracht transportierten Container",
+      "example_en": "Cocaine traveled in a container transported by sea"
+    },
+    {
+      "pt": "a espreita",
+      "de": "die Lauer, am Lauern",
+      "en": "lurking, on the prowl",
+      "example": "Não perca esta oportunidade de saborear os pratos típicos",
+      "example_de": "Verpassen Sie nicht diese Gelegenheit, die typischen Gerichte zu probieren",
+      "example_en": "Don't miss this opportunity to taste the typical dishes"
+    },
+    {
+      "pt": "o impositivo",
+      "de": "das Verordnende",
+      "en": "imposing",
+      "example": "Festa das Latas e Imposição de Insígnias 2026",
+      "example_de": "Festa das Latas und Verleihung von Abzeichen 2026",
+      "example_en": "Festa das Latas and Imposition of Insignia 2026"
+    },
+    {
+      "pt": "a imposiçao",
+      "de": "die Verleihung, die Auferlegung",
+      "en": "the imposition, the awarding",
+      "example": "Festa das Latas e Imposição de Insígnias",
+      "example_de": "Festa das Latas und Verleihung von Abzeichen",
+      "example_en": "Festa das Latas and Imposition of Insignia"
+    },
+    {
+      "pt": "favorável",
+      "de": "günstig, positiv",
+      "en": "favorable, positive",
+      "example": "Bombeiros estão a evoluir de forma favorável",
+      "example_de": "Feuerwehrleute erholen sich günstig",
+      "example_en": "Firefighters are recovering favorably"
+    },
+    {
+      "pt": "o Percursos",
+      "de": "die Strecken, die Routen",
+      "en": "the routes, the paths",
+      "example": "As mudanças abrangem dezenas de percursos dos transportes",
+      "example_de": "Die Änderungen betreffen Dutzende von Verkehrsrouten",
+      "example_en": "The changes affect dozens of transport routes"
+    },
+    {
+      "pt": "o sossego",
+      "de": "die Ruhe, die Beschaulichkeit",
+      "en": "the peace, the quiet",
+      "example": "Petição pede regras mais apertadas para sossego público",
+      "example_de": "Petition fordert strengere Regeln für öffentliche Ruhe",
+      "example_en": "Petition demands stricter rules for public peace"
+    }
   ]
 }
