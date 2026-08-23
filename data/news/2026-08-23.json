@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Alvalade celebra: Sporting supera Alverca",
+          "text": "O Sporting venceu o Alverca este sábado, 22 de agosto, no Estádio Alvalade XXI, com três alterações no onze inicial. Luís Suarez marcou um dos golos da formação leonina, num jogo a contar para a 3.ª jornada da Liga."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "METEO & PRIMEIRA PÁGINA",
+      "stories": [
+        {
+          "headline": "Atenção! Vem aí mau tempo e há risco de inundações",
+          "text": "A Proteção Civil emitiu um comunicado a alertar para uma alteração significativa das condições meteorológicas no território continental. Depois de muitos dias de calor, um vale em altitude e sistemas depressionários vão mudar tudo, com risco de inundações."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Incêndio mobiliza meios de emergência junto à Mata Nacional do Choupal",
+          "text": "As três corporações de bombeiros da cidade de Coimbra foram chamadas para o combate a um incêndio junto à Mata Nacional do Choupal. O alerta foi dado pouco depois das 16:00, motivando o envio de elementos de todas as corporações da cidade."
+        },
+        {
+          "headline": "Em Coimbra, motard transforma Ponte Europa em palco de fogo de artifício",
+          "text": "Uma situação insólita ocorreu na noite de sexta-feira na Ponte Rainha Santa Isabel, quando um motard transformou a ponte num palco de fogo de artifício. O momento foi filmado por outros motards que o acompanhavam e circula nas redes sociais."
+        },
+        {
+          "headline": "Petição pede fim das trotinetes partilhadas em Coimbra até haver regras mais apertadas",
+          "text": "Uma petição dirigida à Câmara Municipal e à Assembleia Municipal de Coimbra exige o fim dos sistemas de trotinetes e bicicletas partilhadas sem doca. Os promotores criticam o estacionamento disperso e problemas de segurança no espaço público."
+        },
+        {
+          "headline": "Mais novos já podem brincar quando os pais vão à Biblioteca Municipal de Coimbra",
+          "text": "A Biblioteca Municipal de Coimbra criou um novo espaço dedicado às crianças, concebido para proporcionar uma experiência mais acolhedora, confortável e convidativa às famílias. Um lugar de descoberta, imaginação e encontro com os livros."
+        },
+        {
+          "headline": "Entrada do Metrobus no centro de Coimbra pode ser tipo 'estreito de Ormuz'",
+          "text": "A Câmara de Coimbra vai analisar na segunda-feira um conjunto de alterações à rede dos SMTUC, enquadradas na entrada em funcionamento do Sistema de Mobilidade do Mondego no troço central da cidade. As mudanças abrangem dezenas de percursos dos transportes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "PJ descobre segredo milionário escondido numa carga de polpa congelada",
+          "text": "Uma operação conjunta entre autoridades portuguesas e espanholas levou à detenção de um cidadão estrangeiro e à apreensão de uma grande quantidade de cocaína escondida num contentor com destino a Portugal. A investigação começou no Porto de Algeciras, na Espanha, depois de as autoridades intercetarem um contentor vindo do Equador."
+        },
+        {
+          "headline": "Acidente trágico faz um morto em Casal da Ponte",
+          "text": "Um motociclista de 38 anos morreu sábado na sequência de uma colisão com uma viatura ligeira na Rua dos Descobrimentos, em Casal da Ponte. O acidente foi confirmado pela Proteção Civil."
+        },
+        {
+          "headline": "Coloca fogo porque queria limpar o matagal à volta da sua casa",
+          "text": "Um homem de 55 anos foi detido pela Polícia Judiciária da Guarda como principal suspeito de dois incêndios florestais. O incendiário justificou o crime com a necessidade de limpar o mato que ladeava a sua habitação e propriedades rurais de terceiros."
+        },
+        {
+          "headline": "Homem detido por perseguir e atormentar psicologicamente a ex-namorada",
+          "text": "Um homem de 50 anos foi detido em Salvaterra de Magos, distrito de Santarém, por suspeita de violência psicológica sobre a ex-namorada, de 55 anos. A detenção foi feita pelo Núcleo de Investigação e Apoio a Vítimas Específicas (NIAVE) da GNR."
+        },
+        {
+          "headline": "Menor apanhado a deitar fogo junto a habitações",
+          "text": "Um menor foi apanhado a deitar fogo junto a habitações, numa situação que mobilizou autoridades locais."
+        },
+        {
+          "headline": "Garrafa de plástico no pneu pode ser uma armadilha para o assaltar",
+          "text": "O alerta descreve um esquema em que criminosos colocam uma garrafa de plástico no pneu do carro para levar os condutores a sair do veículo num momento de vulnerabilidade. A técnica não precisa de tecnologia sofisticada, apenas alguns segundos de distração."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Águeda decreta luto municipal pela morte de militar na A1 em Cantanhede",
+          "text": "O Município de Águeda decretou luto municipal pela morte de Francisco Oliveira, militar do Exército Português e natural da Piedade. O militar morreu na sequência de um acidente na A1, em Cantanhede, enquanto prestava auxílio numa ocorrência."
+        },
+        {
+          "headline": "Boas notícias para os bombeiros feridos em Arouca",
+          "text": "Três dos quatro bombeiros feridos no incêndio que consumiu 1.300 hectares de floresta em Arouca continuam internados mas estão a evoluir de forma favorável. A presidente da Câmara de Arouca descreveu o dia como 'um pouco mais animador'."
+        },
+        {
+          "headline": "Reformas em Portugal são 'sagradas', afirma António José Seguro",
+          "text": "O Presidente da República considerou que as reformas em Portugal são sagradas, lembrando que eventuais alterações às leis relativas aos sistemas de pensões competem ao Parlamento ou ao Governo. Seguro foi recebido com palmas durante o Cortejo Histórico da Romaria d'Agonia em Viana do Castelo."
+        },
+        {
+          "headline": "Morreu João Lourenço, antigo presidente da Câmara de Santa Comba Dão",
+          "text": "Faleceu João Lourenço, antigo presidente da Câmara Municipal de Santa Comba Dão."
+        },
+        {
+          "headline": "Jovem morre em capotamento de trator em Pinhel",
+          "text": "O capotamento de um trator agrícola provocou a morte a uma jovem de 17 anos em Pinhel, no distrito da Guarda. No local do acidente estão 28 operacionais, apoiados por oito viaturas e um meio aéreo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Festa das Latas tem KURA para a 'ressaca'",
+          "text": "A Comissão Organizadora da Festa das Latas e Imposição de Insígnias 2026 anunciou a atuação de KURA, nome maior da música eletrónica nacional, no Palco do Choupalinho. O DJ sobe ao palco no dia 1 de outubro, prometendo um dos momentos fortes da festa académica."
+        },
+        {
+          "headline": "DJ que esteve no Tomorrowland confirmado na Festa das Latas de Coimbra",
+          "text": "Um DJ que passou pelo Tomorrowland está confirmado na edição de 2026 da Festa das Latas de Coimbra."
+        },
+        {
+          "headline": "Praia Fluvial de Palheiros e Zorro vai transformar-se num palco de música brasileira",
+          "text": "A Praia Fluvial de Palheiros e Zorro vai receber um espetáculo de música brasileira."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Jovens universitários reúnem-se na Lousã para Escola de Verão sobre assuntos europeus",
+          "text": "A Representação da Comissão Europeia em Portugal, em parceria com o Centro Europe Direct, promove a edição de 2026 do SummerCEmp na vila da Lousã. O concelho vai acolher 40 jovens universitários provenientes de todo o país."
+        }
+      ]
+    }
+  ]
+}
