@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Coimbra na rota do mau tempo: chuva forte e trovoada ameaçam distrito",
+          "text": "Um total de 13 distritos de Portugal continental estão sob aviso amarelo por risco de aguaceiros fortes e trovoada, segundo o IPMA. Os distritos de Aveiro, Braga, Bragança, Castelo Branco, Coimbra, Guarda, Leiria, Lisboa, Porto, Santarém, Viana do Castelo, Vila Real e Viseu estarão em alerta."
+        },
+        {
+          "headline": "Chuva e trovoada obrigam a adiar fogo de artifício da Romaria d'Agonia",
+          "text": "As condições meteorológicas previstas obrigaram a organização da Romaria de Nossa Senhora d'Agonia, em Viana do Castelo, a cancelar e adiar vários momentos do último dia das celebrações, incluindo a tradicional serenata de fogo de artifício que encerra a festa."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra tem mais quartos para estudantes, mas rendas continuam nos 300 euros",
+          "text": "A menos de um mês do arranque do ano letivo, há mais quartos disponíveis para estudantes deslocados, mas o aumento da oferta face ao ano passado não se traduziu numa redução do preço das rendas. Perto de 50 mil jovens ficarão a saber no domingo onde conseguiram colocação na 1.ª fase do CNAES."
+        },
+        {
+          "headline": "Universidade Politécnica da Guarda preenche apenas metade das vagas",
+          "text": "A UPG teve 372 estudantes colocados na 1.ª fase do Concurso Nacional de Acesso de 2026, mais 94 alunos do que no ano passado. O reitor chama a atenção para a 'concorrência desleal' com as instituições da zona do litoral devido ao aumento de vagas nessas escolas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚓",
+      "category": "POLÍCIA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "GNR mete fim a rede internacional de tráfico e apreende toneladas de droga",
+          "text": "Sete pessoas foram detidas e uma grande quantidade de haxixe foi apreendida numa operação da Unidade de Controlo Costeiro e Fronteiras da GNR no Algarve. A droga foi localizada num espaço que servia de apoio a uma rede internacional de tráfico por via marítima."
+        },
+        {
+          "headline": "Detidos por tráfico de droga e posse de armas proibidas em Peniche",
+          "text": "Dois homens (27 e 39 anos) e uma mulher (30) foram detidos em Peniche pela PSP, com apreensão de 635 doses de liamba, cocaína e MDMA. A Esquadra de Peniche cumpriu mandados de busca a residências."
+        },
+        {
+          "headline": "Mais uma festa, mais disparos: homem baleado em Lisboa",
+          "text": "Uma madrugada que começou com dezenas de pessoas reunidas numa festa acabou por mobilizar as autoridades. O homem de 39 anos deu entrada no Hospital de São Francisco Xavier com ferimentos por bala num dos membros inferiores. O caso está nas mãos da Polícia Judiciária."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Menina de 6 anos morre atropelada após sair do carro para ir ter com os pais",
+          "text": "Uma criança de seis anos, de nacionalidade espanhola, morreu vítima de atropelamento rodoviário no concelho de Vila do Bispo, distrito de Faro. A família tinha parado para ver a paisagem e a menina saiu do carro para ir ter com os pais."
+        },
+        {
+          "headline": "Despiste de moto 4 na Pampilhosa da Serra",
+          "text": "Os Bombeiros Voluntários da Pampilhosa da Serra foram chamados para um despiste com um quadriciclo em Porta do Souto. O alerta teve lugar às 17:51 de domingo."
+        },
+        {
+          "headline": "Menina de 10 anos ferida em colisão na Praia de Mira",
+          "text": "Os Bombeiros Voluntários de Mira foram acionados para uma colisão entre dois veículos ligeiros na Estrada Florestal da Praia de Mira. Uma menina de 10 anos sofreu ferimentos ligeiros."
+        },
+        {
+          "headline": "Cai do telhado e é transportado para os Hospitais da Universidade de Coimbra",
+          "text": "Um homem de 58 anos sofreu ferimentos graves após cair de um telhado de grande altura na localidade do Monte, concelho da Murtosa (distrito de Aveiro)."
+        },
+        {
+          "headline": "Jovem morre em capotamento de trator em Pinhel",
+          "text": "O capotamento de um trator agrícola provocou a morte de uma jovem de 17 anos em Pinhel, distrito da Guarda. No local estiveram 28 operacionais, apoiados por oito viaturas e um meio aéreo."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "FC Porto supera desafio e isola-se na liderança da I Liga",
+          "text": "O campeão em título FC Porto isolou-se na liderança da I Liga 2026/27 ao vencer o Arouca por 2-0, na terceira jornada. Os tentos foram marcados por Gabri Veiga (67') e Borja Sainz."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Não há nada para fazer em Coimbra em agosto? Veja estas propostas até final do mês",
+          "text": "O programa cultural Verão a Dois Tempos continua em Coimbra com iniciativas entre 25 e 29 de agosto. A Casa da Escrita recebe sessões do Café Longo com entrada livre, incluindo a leitura encenada 'Mona ou Uma Leitura Possível'."
+        },
+        {
+          "headline": "Festa das Latas tem KURA no Palco do Choupalinho",
+          "text": "A Comissão Organizadora da Festa das Latas e Imposição de Insígnias 2026 anunciou KURA, nome maior da música eletrónica nacional, no Palco do Choupalinho em Coimbra. Kura regressa depois de arrepiar o público no Festival Somnii na Figueira da Foz."
+        },
+        {
+          "headline": "Praia Fluvial de Palheiros e Zorro vira palco de música brasileira",
+          "text": "O evento SertaBeijo leva centenas de pessoas às margens do rio no próximo sábado, 29 de agosto, em Torres do Mondego. O festival dedicado à música brasileira tem entrada gratuita e início às 17:00."
+        },
+        {
+          "headline": "Miranda do Corvo recebe Jorge Guerreiro na Festa das Vindimas de Lamas",
+          "text": "A XXV edição da Festa das Vindimas de Lamas realiza-se entre 18 e 20 de setembro, em Lamas, concelho de Miranda do Corvo. O programa reúne artistas locais e nomes nacionais para três dias de celebração das tradições das vindimas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "category": "REGIÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Cantanhede aposta na promoção do envelhecimento saudável",
+          "text": "O Município de Cantanhede aprovou a adesão à Rede Nacional para as Cidades e Comunidades Amigas das Pessoas Idosas. A adesão permite integrar iniciativas existentes como o Projeto Philarmonia, Universidade dos Tempos Livres e Banco de Voluntariado num modelo reconhecido internacionalmente."
+        },
+        {
+          "headline": "Mata do Bussaco é primeira 'floresta terapêutica' da Península Ibérica",
+          "text": "A Mata do Bussaco, na Mealhada, com mais de 100 hectares, foi certificada como a primeira floresta terapêutica da região. O reconhecimento é inédito na Península Ibérica."
+        },
+        {
+          "headline": "Restaurante em Oliveira do Hospital onde o azeite é rei",
+          "text": "Em Bobadela, o Museu do Azeite, semifinalista das Novas 7 Maravilhas de Portugal, alberga o restaurante Olea. O espaço destaca a gastronomia local onde o azeite vai da entrada à sobremesa."
+        },
+        {
+          "headline": "Voluntários transformam casas em lares mais confortáveis",
+          "text": "Voluntários da Associação realizam obras de beneficiação em casas sinalizadas pelo projeto Radar Social. As intervenções incluem reparações de telhados, substituição de portas e janelas, arranjo de paredes e aplicação de isolamento térmico."
+        },
+        {
+          "headline": "PSP vai gerir sistema de videovigilância em Viseu",
+          "text": "O Município de Viseu e a PSP celebraram um acordo de cooperação para o sistema de videovigilância da cidade. A Câmara financia as câmaras e a PSP operacionaliza o sistema e gere as imagens recolhidas."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Homem desaparece na albufeira do Alqueva",
+          "text": "Um homem de cerca de 45 anos desapareceu domingo à tarde na albufeira do Alqueva, concelho de Portel, distrito de Évora. As autoridades receberam o alerta às 16:47 e decorrem buscas para o encontrar."
+        },
+        {
+          "headline": "Chamas violentas numa sucata em Abrantes",
+          "text": "Quase 40 operacionais combatiam um incêndio numa sucata em Alferrarede, concelho de Abrantes. O alerta foi dado às 06h11 e não houve vítimas a registar."
+        },
+        {
+          "headline": "Homens para um lado, mulheres para o outro: a refeição que dá que falar em Mira",
+          "text": "Na aldeia de Leitões, concelho de Mira, uma tradição de 50 anos separa homens e mulheres em refeições distintas durante a festa da aldeia. Ninguém do sexo oposto pode 'invadir' a festa alheia."
+        }
+      ]
+    }
+  ]
+}
