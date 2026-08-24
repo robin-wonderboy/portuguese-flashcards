@@ -24545,5 +24545,111 @@
       "example_de": "Petition fordert strengere Regeln für öffentliche Ruhe",
       "example_en": "Petition demands stricter rules for public peace"
     }
+  ],
+  "2026-08-24": [
+    {
+      "pt": "deslocado",
+      "de": "auswärtig, verlegt",
+      "en": "displaced, away from home (student)",
+      "example": "Há mais quartos para estudantes deslocados.",
+      "example_de": "Es gibt mehr Zimmer für auswärtige Studenten.",
+      "example_en": "There are more rooms for displaced students."
+    },
+    {
+      "pt": "isolar-se",
+      "de": "sich absetzen, sich isolieren",
+      "en": "to isolate oneself, pull ahead",
+      "example": "O FC Porto isolou-se na liderança da I Liga.",
+      "example_de": "Der FC Porto setzte sich an die Spitze der I Liga ab.",
+      "example_en": "FC Porto pulled ahead at the top of the I Liga."
+    },
+    {
+      "pt": "a albufeira",
+      "de": "der Stausee",
+      "en": "the reservoir, artificial lake",
+      "example": "O homem desapareceu na albufeira do Alqueva.",
+      "example_de": "Der Mann verschwand im Stausee von Alqueva.",
+      "example_en": "The man disappeared in the Alqueva reservoir."
+    },
+    {
+      "pt": "a sucata",
+      "de": "der Schrott",
+      "en": "scrap metal, junk",
+      "example": "Quase 40 operacionais combatiam um incêndio numa sucata.",
+      "example_de": "Fast 40 Einsatzkräfte bekämpften ein Feuer in einer Schrottpresse.",
+      "example_en": "Nearly 40 operatives fought a fire at a scrap yard."
+    },
+    {
+      "pt": "a errância",
+      "de": "das Umherirren",
+      "en": "wandering, vagrancy",
+      "example": "Uma mulher em permanente errância, dividida entre a liberdade e a solidão.",
+      "example_de": "Eine Frau im ständigen Umherirren, zerrissen zwischen Freiheit und Einsamkeit.",
+      "example_en": "A woman in permanent wandering, torn between freedom and solitude."
+    },
+    {
+      "pt": "o semilfinalista",
+      "de": "der Halbfinalist",
+      "en": "semifinalist",
+      "example": "O Museu do Azeite está entre os semifinalistas das Novas 7 Maravilhas.",
+      "example_de": "Das Olivenölmuseum ist unter den Halbfinalisten der Neuen 7 Wunder.",
+      "example_en": "The Olive Oil Museum is among the semifinalists of the New 7 Wonders."
+    },
+    {
+      "pt": "a viação",
+      "de": "der Verkehr",
+      "en": "road traffic",
+      "example": "O acidente de viação teve lugar este domingo.",
+      "example_de": "Der Verkehrsunfall fand diesen Sonntag statt.",
+      "example_en": "The road traffic accident took place this Sunday."
+    },
+    {
+      "pt": "o membro inferior",
+      "de": "die untere Gliedmaße",
+      "en": "lower limb, leg",
+      "example": "O homem ficou ferido por uma bala num dos membros inferiores.",
+      "example_de": "Der Mann wurde durch einen Schuss in eine untere Gliedmaße verletzt.",
+      "example_en": "The man was injured by a bullet in a lower limb."
+    },
+    {
+      "pt": "o quadriciclo",
+      "de": "das Quad",
+      "en": "quad bike, ATV",
+      "example": "Houve um despiste com um veículo motorizado de quatro rodas.",
+      "example_de": "Es gab einen Unfall mit einem vierrädrigen Motorfahrzeug.",
+      "example_en": "There was a crash with a four-wheeled motorized vehicle."
+    },
+    {
+      "pt": "a beneficiação",
+      "de": "die Instandsetzung",
+      "en": "renovation, improvement works",
+      "example": "As casas irão sofrer obras de beneficiação.",
+      "example_de": "Die Häuser werden Instandsetzungsarbeiten unterzogen.",
+      "example_en": "The houses will undergo renovation works."
+    },
+    {
+      "pt": "a concorrência desleal",
+      "de": "der unlautere Wettbewerb",
+      "en": "unfair competition",
+      "example": "O reitor chama a atenção para a concorrência desleal com as instituições do litoral.",
+      "example_de": "Der Rektor weist auf den unlauteren Wettbewerb mit den Küsteninstitutionen hin.",
+      "example_en": "The rector draws attention to unfair competition with coastal institutions."
+    },
+    {
+      "pt": "operacionalizar",
+      "de": "operationalisieren, in Betrieb nehmen",
+      "en": "to operationalize, put into operation",
+      "example": "A PSP vai operacionalizar todo o sistema de videovigilância.",
+      "example_de": "Die PSP wird das gesamte Videoüberwachungssystem in Betrieb nehmen.",
+      "example_en": "The PSP will operationalize the entire video surveillance system."
+    },
+    {
+      "pt": "o radar social",
+      "de": "das soziale Radar",
+      "en": "social radar (community assessment)",
+      "example": "As casas foram sinalizadas pelo projeto Radar Social.",
+      "example_de": "Die Häuser wurden vom Projekt Soziales Radar markiert.",
+      "example_en": "The houses were flagged by the Social Radar project."
+    }
   ]
 }
