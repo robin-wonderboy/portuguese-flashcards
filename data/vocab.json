@@ -24651,5 +24651,127 @@
       "example_de": "Die Häuser wurden vom Projekt Soziales Radar markiert.",
       "example_en": "The houses were flagged by the Social Radar project."
     }
+  ],
+  "2026-08-25": [
+    {
+      "pt": "a tentativa",
+      "de": "Versuch",
+      "en": "attempt",
+      "example": "Uma tentativa de assalto na Avenida Fernão de Magalhães",
+      "example_de": "Ein Versuch eines Überfalls auf der Avenida Fernão de Magalhães",
+      "example_en": "An attempted robbery on Avenida Fernão de Magalhães"
+    },
+    {
+      "pt": "o pneu",
+      "de": "Reifen",
+      "en": "tire",
+      "example": "Uma garrafa de plástico no pneu pode ser uma armadilha",
+      "example_de": "Eine Plastikflasche am Reifen kann eine Falle sein",
+      "example_en": "A plastic bottle on the tire can be a trap"
+    },
+    {
+      "pt": "o criminoso",
+      "de": "Verbrecher",
+      "en": "criminal",
+      "example": "Os criminosos aproveitam apenas alguns segundos de distração",
+      "example_de": "Die Verbrecher nutzen nur wenige Sekunden Ablenkung",
+      "example_en": "The criminals take advantage of just a few seconds of distraction"
+    },
+    {
+      "pt": "a distração",
+      "de": "Ablenkung",
+      "en": "distraction",
+      "example": "Os criminosos aproveitam apenas alguns segundos de distração",
+      "example_de": "Die Verbrecher nutzen nur wenige Sekunden Ablenkung",
+      "example_en": "The criminals take advantage of just a few seconds of distraction"
+    },
+    {
+      "pt": "a artéria",
+      "de": "Verkehrsader",
+      "en": "artery, main street",
+      "example": "A histórica artéria poderá vir a receber uma zona de paragem",
+      "example_de": "Die historische Verkehrsader könnte eine Haltezone bekommen",
+      "example_en": "The historic street could receive a stopping zone"
+    },
+    {
+      "pt": "a comodidade",
+      "de": "Annehmlichkeit",
+      "en": "amenity, convenience",
+      "example": "A piscina é uma das comodidades mais valorizadas",
+      "example_de": "Der Pool ist eine der geschätztesten Annehmlichkeiten",
+      "example_en": "The pool is one of the most valued amenities"
+    },
+    {
+      "pt": "a comuna",
+      "de": "Gemeinde",
+      "en": "commune, municipality",
+      "example": "O fenómeno atingiu a comuna de Pomas",
+      "example_de": "Das Phänomen traf die Gemeinde Pomas",
+      "example_en": "The phenomenon hit the commune of Pomas"
+    },
+    {
+      "pt": "ferir",
+      "de": "verletzen",
+      "en": "to injure",
+      "example": "O tornado deixou 41 feridos, dos quais 15 foram hospitalizadas",
+      "example_de": "Der Tornado hinterließ 41 Verletzte, von denen 15 ins Krankenhaus kamen",
+      "example_en": "The tornado left 41 injured, 15 of whom were hospitalized"
+    },
+    {
+      "pt": "o lucro",
+      "de": "Gewinn",
+      "en": "profit",
+      "example": "Pedido imposto para lucros extraordinários das petrolíferas",
+      "example_de": "Forderung nach Steuer für außergewöhnliche Gewinne der Ölunternehmen",
+      "example_en": "Demand for tax on extraordinary profits of oil companies"
+    },
+    {
+      "pt": "extraordinário",
+      "de": "außergewöhnlich",
+      "en": "extraordinary",
+      "example": "Lucros extraordinários das petrolíferas",
+      "example_de": "Außergewöhnliche Gewinne der Ölunternehmen",
+      "example_en": "Extraordinary profits of oil companies"
+    },
+    {
+      "pt": "a tributação",
+      "de": "Besteuerung",
+      "en": "taxation",
+      "example": "Um novo mecanismo para a tributação dos lucros",
+      "example_de": "Ein neuer Mechanismus für die Besteuerung der Gewinne",
+      "example_en": "A new mechanism for the taxation of profits"
+    },
+    {
+      "pt": "a culpa",
+      "de": "Schuld",
+      "en": "blame, fault",
+      "example": "A culpa não pode morrer solteira",
+      "example_de": "Die Schuld kann nicht unverheiratet sterben",
+      "example_en": "The blame cannot die a spinster"
+    },
+    {
+      "pt": "o desaparecimento",
+      "de": "Verschwinden",
+      "en": "disappearance",
+      "example": "Corre o risco de deixar desaparecer a própria Gerontologia",
+      "example_de": "Es läuft Gefahr, die eigene Gerontologie verschwinden zu lassen",
+      "example_en": "It runs the risk of letting Gerontology itself disappear"
+    },
+    {
+      "pt": "dinamizar",
+      "de": "beleben, fördern",
+      "en": "to promote, to drive",
+      "example": "A Biblioteca Municipal irá dinamizar uma atividade",
+      "example_de": "Die Stadtbibliothek wird eine Aktivität fördern",
+      "example_en": "The Municipal Library will promote an activity"
+    },
+    {
+      "pt": "a palestra",
+      "de": "Vortrag",
+      "en": "lecture, talk",
+      "example": "O festival inclui um concerto, uma palestra literária e moda",
+      "example_de": "Das Festival umfasst ein Konzert, einen literarischen Vortrag und Mode",
+      "example_en": "The festival includes a concert, a literary talk and fashion"
+    }
   ]
 }
