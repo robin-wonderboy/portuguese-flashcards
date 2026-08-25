@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "SEGURANÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Tentativa de assalto na Avenida Fernão de Magalhães",
+          "text": "Um automobilista foi alvo de uma tentativa de assalto na noite de segunda-feira na cidade de Coimbra. No vídeo enviado ao NDC, vê-se um homem a tentar entrar numa carrinha pela janela do condutor."
+        },
+        {
+          "headline": "Garrafa de plástico no pneu? Atenção: pode ser uma armadilha",
+          "text": "Um alerta descreve um esquema em que criminosos colocam uma garrafa de plástico no pneu dos carros. Quando o condutor sai para verificar, fica vulnerável e é assaltado. A técnica não precisa de tecnologia sofisticada."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Entrada do Metrobus no centro de Coimbra pode ser tipo \"estreito de Ormuz\"",
+          "text": "A presidente da Câmara de Coimbra admitiu que a Rua da Sofia poderá receber uma zona de paragem para autocarros turísticos, além do Metrobus. \"Estamos a ponderar\", afirmou Ana Abrunhosa durante a reunião do executivo municipal."
+        },
+        {
+          "headline": "Rua da Sofia entra na faixa bus e turistas podem apanhar boleia",
+          "text": "A histórica artéria da Baixa de Coimbra poderá ganhar uma nova atração com a entrada na faixa bus. Os autocarros turísticos poderão ter paragem na Rua da Sofia, numa novidade admitida pela Câmara."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "\"Chove no inverno e é um forno no verão\": Utentes de centro de saúde queixam-se de falta de condições",
+          "text": "A Comissão de Utentes do Centro de Saúde de São Martinho Bispo queixa-se da degradação do edifício e da necessidade de obras urgentes. Sem sistema de climatização, o calor intensifica-se no verão e a chuva entra no inverno, prejudicando utentes e profissionais."
+        },
+        {
+          "headline": "Futuro da Gerontologia em Portugal em risco?",
+          "text": "A ANGES alerta que Portugal envelhece e precisa de profissionais qualificados em Gerontologia, mas corre o risco de deixar desaparecer a própria Gerontologia. A associação exige mudanças no acesso ao ensino superior na área."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Coimbra dispara na procura por quartos: mais 120% em apenas um ano",
+          "text": "O preço dos quartos em casas partilhadas subiu apenas 1% no segundo trimestre de 2026, face ao ano anterior, segundo o idealista. Apesar da estabilidade recente, a procura por quartos em Coimbra cresceu 120% num ano, com aumentos em 13 dos 20 municípios analisados."
+        },
+        {
+          "headline": "Ter piscina encarece um apartamento em Portugal em 68%",
+          "text": "Comprar um apartamento com piscina em Portugal é em média 68% mais caro, segundo o idealista. Apenas 9% dos apartamentos anunciados dispõem de piscina, que se consolida como uma das comodidades mais valorizadas no mercado. Coimbra é das cidades onde menos pesa este prémio."
+        },
+        {
+          "headline": "Pedido imposto para lucros extraordinários das petrolíferas",
+          "text": "Portugal e mais cinco países da UE pediram à presidência rotativa do Conselho um debate sobre um novo mecanismo europeu para tributar os lucros extraordinários das empresas petrolíferas. O conflito no Médio Oriente continua a impulsionar o aumento dos preços da energia."
+        }
+      ]
+    },
+    {
+      "emoji": "🌪️",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Tornado devasta aldeia em França e deixa 41 feridos",
+          "text": "Um tornado no sudoeste de França deixou 41 pessoas feridas, das quais 15 hospitalizadas, ao atingir a aldeia de Pomas, no departamento do Aude. Cerca de 300 casas ficaram danificadas pelo fenómeno, que ocorreu por volta das 17:20."
+        },
+        {
+          "headline": "Imagens impressionantes de uma noite de terror em Albufeira",
+          "text": "Quatro pessoas ficaram feridas, uma das quais com gravidade, na sequência de um atropelamento na Oura, Albufeira, numa zona de bares. O ferido grave e três ligeiros foram transportados para hospitais de Portimão e Faro."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica é líder isolada da Liga 2",
+          "text": "A formação estudantil ganhou os três jogos já realizados no segundo escalão do futebol nacional. O Farense empatou 1-1 com o Felgueiras e subiu ao segundo lugar, atrás da líder isolada Académica."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Festival de Curtas Metragens Gardunha Fest 2026 realiza-se no Fundão",
+          "text": "O festival regressa ao Fundão entre 28 e 30 de agosto, dedicado ao tema do paranormal. O programa inclui curtas metragens, um concerto, uma palestra literária, moda, um sunset, espiritualidade e observação astronómica."
+        },
+        {
+          "headline": "\"Estórias destas só se contam a cantar\" em Coimbra",
+          "text": "Um projeto musical sediado em Cantanhede, que cria música original inspirada nas terras e na identidade da Gândara, vai apresentar em Coimbra o seu primeiro disco. \"Será um momento de celebração da identidade e da cultura da nossa região.\""
+        },
+        {
+          "headline": "Biblioteca Municipal de Cantanhede assinala Dia do Artista",
+          "text": "A Biblioteca Municipal de Cantanhede irá dinamizar a partir de 17 de setembro uma atividade para os mais novos na sala infantojuvenil, no âmbito do Dia do Artista. A iniciativa convida as crianças a dar asas à imaginação através do desenho e da pintura."
+        },
+        {
+          "headline": "Já sabemos quando tem lugar o Festival Internacional de Guitarra do Fundão",
+          "text": "O festival de guitarra internacional tem data marcada para regressar ao Fundão, numa organização que conta com o município e o Instituto."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & AUTARQUIAS",
+      "stories": [
+        {
+          "headline": "Câmara de Óbidos contra exploração mineira na Serra d'El-Rei",
+          "text": "A Câmara Municipal de Óbidos manifestou-se contra a instalação de uma exploração mineira de caulino e argila na freguesia de Serra d'El-Rei, por considerar que o projeto trará consequências \"muito negativas\" para o território, dado que os efeitos não respeitam fronteiras administrativas."
+        },
+        {
+          "headline": "Universidade de Verão do PSD arranca com Hugo Soares",
+          "text": "A 22.ª edição da Universidade de Verão do PSD arranca hoje em Castelo de Vide com a intervenção do secretário-geral e líder parlamentar do partido, Hugo Soares. A iniciativa de formação política de jovens conta também com Paulo Cunha e Carlos Coelho."
+        }
+      ]
+    },
+    {
+      "emoji": "🐔",
+      "category": "AGRICULTURA",
+      "stories": [
+        {
+          "headline": "Tem galinhas poedeiras? Esta regra da DGAV aplica-se já em setembro",
+          "text": "A Direção-Geral de Alimentação e Veterinária determinou que os detentores de galinhas poedeiras devem comunicar o número de aves que possuem, referente aos efetivos existentes à data de 1 de setembro de 2026."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "ENTRETENIMENTO",
+      "stories": [
+        {
+          "headline": "Fã sobe ao palco para dançar com Zé Manel e acaba aos beijos com o vocalista dos Fingertips",
+          "text": ""
+        },
+        {
+          "headline": "Eurodeputado mantém amor em segredo há seis anos e é finalmente apanhado",
+          "text": ""
+        },
+        {
+          "headline": "\"Zé do Capacete\" preparado para a guerra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
