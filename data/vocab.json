@@ -24773,5 +24773,95 @@
       "example_de": "Das Festival umfasst ein Konzert, einen literarischen Vortrag und Mode",
       "example_en": "The festival includes a concert, a literary talk and fashion"
     }
+  ],
+  "2026-08-26": [
+    {
+      "pt": "compulsivo",
+      "de": "zwangsweise, obligatorisch",
+      "en": "compulsory, compulsive",
+      "example": "A transferência compulsiva de nove guardas prisionais gerou protestos.",
+      "example_de": "Die zwangsweise Versetzung von neun Gefängniswächtern löste Proteste aus.",
+      "example_en": "The compulsory transfer of nine prison guards sparked protests."
+    },
+    {
+      "pt": "calar",
+      "de": "zum Schweigen bringen, verschweigen",
+      "en": "to silence, to keep quiet",
+      "example": "A vergonha cala as vítimas de violência doméstica.",
+      "example_de": "Die Scham bringt die Opfer häuslicher Gewalt zum Schweigen.",
+      "example_en": "Shame silences the victims of domestic violence."
+    },
+    {
+      "pt": "o talão",
+      "de": "der Kassenzettel, die Quittung",
+      "en": "the receipt, the till receipt",
+      "example": "O talão do supermercado pode ajudar a poupar dinheiro.",
+      "example_de": "Der Kassenzettel beim Supermarkt kann helfen, Geld zu sparen.",
+      "example_en": "The supermarket receipt can help you save money."
+    },
+    {
+      "pt": "a poedeira",
+      "de": "die Legehenne",
+      "en": "the laying hen",
+      "example": "Tem galinhas poedeiras? Esta regra da DGAV aplica-se já em setembro.",
+      "example_de": "Hast du Legehennen? Diese Vorschrift der DGAV gilt ab September.",
+      "example_en": "Do you have laying hens? This DGAV rule applies from September."
+    },
+    {
+      "pt": "o caloiro",
+      "de": "der Studienanfänger, der Erstsemester",
+      "en": "the freshman, the first-year student",
+      "example": "Os caloiros chegam a Coimbra mas enfrentam velhos problemas de alojamento.",
+      "example_de": "Die Erstsemester kommen nach Coimbra, stehen aber vor alten Problemen bei der Unterbringung.",
+      "example_en": "Freshmen arrive in Coimbra but face old accommodation problems."
+    },
+    {
+      "pt": "o guarda-sol",
+      "de": "der Sonnenschirm",
+      "en": "the sunshade, the parasol",
+      "example": "Pode reservar um lugar na praia com um guarda-sol?",
+      "example_de": "Kann man einen Platz am Strand mit einem Sonnenschirm reservieren?",
+      "example_en": "Can you reserve a spot at the beach with a parasol?"
+    },
+    {
+      "pt": "o alcoolizado",
+      "de": "betrunken, alkoholisiert",
+      "en": "drunk, intoxicated",
+      "example": "O condutor alcoolizado fugiu depois de atropelar o menor.",
+      "example_de": "Der betrunkene Fahrer flüchtete nach dem Überfahren des Kindes.",
+      "example_en": "The drunk driver fled after running over the minor."
+    },
+    {
+      "pt": "o menor",
+      "de": "der Minderjährige",
+      "en": "the minor, the underage person",
+      "example": "Um menor português morre atropelado no Luxemburgo.",
+      "example_de": "Ein portugiesischer Minderjähriger wird in Luxemburg überfahren und stirbt.",
+      "example_en": "A Portuguese minor is run over and dies in Luxembourg."
+    },
+    {
+      "pt": "a ostra",
+      "de": "die Auster",
+      "en": "the oyster",
+      "example": "Há uma Noite Branca com piscina, DJs, ostras e gin no Fundão.",
+      "example_de": "Es gibt eine Weiße Nacht mit Pool, DJs, Austern und Gin im Fundão.",
+      "example_en": "There's a White Night with pool, DJs, oysters, and gin in Fundão."
+    },
+    {
+      "pt": "o estômago",
+      "de": "der Magen",
+      "en": "the stomach",
+      "example": "Bebe refrigerantes todos os dias? Pode estar a por o estômago em perigo.",
+      "example_de": "Trinkst du jeden Tag Erfrischungsgetränke? Das kann deinen Magen gefährden.",
+      "example_en": "Drink sodas every day? You may be putting your stomach in danger."
+    },
+    {
+      "pt": "a vacina",
+      "de": "die Impfung, der Impfstoff",
+      "en": "the vaccine, the vaccination",
+      "example": "As farmácias vão receber 3,15 euros por cada vacina na próxima campanha.",
+      "example_de": "Die Apotheken erhalten 3,15 Euro pro Impfung in der nächsten Kampagne.",
+      "example_en": "Pharmacies will receive 3.15 euros per vaccine in the next campaign."
+    }
   ]
 }
