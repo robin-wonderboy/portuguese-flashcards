@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Mau tempo em Coimbra: chuva e trovoada a caminho",
+          "text": "O tempo muda hoje em Coimbra, com chuva e trovoada previstas para as próximas horas. Saiba a que horas chega a frente fria à região."
+        },
+        {
+          "headline": "Dormir numa antiga fábrica de sabonetes? É possível",
+          "text": "Um novo alojamento abriu em Coimbra num edifício que foi antigamente uma fábrica de sabonetes. O espaço mantém elementos industriais originais e oferece uma experiência única para quem visita a cidade."
+        },
+        {
+          "headline": "Hortus Musicalis regressa ao Jardim Botânico",
+          "text": "O festival Hortus Musicalis volta ao Jardim Botânico de Coimbra com três concertos gratuitos. As performances decorrem ao ar livre, aproveitando o cenário natural do jardim histórico."
+        },
+        {
+          "headline": "Setembro traz novos sons ao Convento São Francisco",
+          "text": "O Café Curto regressa ao Convento São Francisco em setembro com nova programação. Há ainda 11 espetáculos gratuitos para descobrir no espaço ao longo do mês."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnica de Coimbra reforça apoios sociais e reduz custo da refeição",
+          "text": "A Universidade Politécnica de Coimbra anunciou o reforço dos apoios sociais aos estudantes, incluindo a redução do preço das refeições na cantina. A medida chega a tempo do regresso às aulas."
+        },
+        {
+          "headline": "Caloiros chegam a Coimbra mas enfrentam velhos problemas",
+          "text": "Os novos estudantes chegam a Coimbra para o início do ano letivo, mas o alojamento e a saúde mental continuam a ser as principais preocupações da Associação Académica. A procura por quartos disparou mais de 120% em um ano."
+        },
+        {
+          "headline": "Leonor Meira Lopes tem 15 anos e entrou em Medicina com 19,63 valores",
+          "text": "Uma jovem de apenas 15 anos foi admitida no curso de Medicina da Universidade de Coimbra com uma nota de admissão de 19,63 valores, sendo uma das mais jovens estudantes a entrar no curso este ano."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Família do sargento Diogo Duarte recebe 205 mil euros",
+          "text": "A família do 2.º Sargento Diogo Duarte, que morreu num treino do Exército, vai receber uma indemnização de 205 mil euros. O caso levantou questões sobre a segurança nos treinos militares."
+        },
+        {
+          "headline": "Vergonha e medo calam homens vítimas de violência doméstica",
+          "text": "A APAV apoiou 1.258 homens vítimas de violência doméstica em 2025. A vergonha e o medo continuam a silenciar muitas vítimas masculinas que não denunciam as agressões sofridas."
+        },
+        {
+          "headline": "Sindicato vai impugnar transferência compulsiva de guardas prisionais",
+          "text": "O sindicato anunciou que vai impugnar a transferência compulsiva de nove guardas prisionais de Odemira para Tires. A medida foi decidida pela direção-geral e contestada pelos trabalhadores."
+        },
+        {
+          "headline": "Check Point trava campanha de phishing com 9.000 organizações visadas",
+          "text": "Uma campanha de phishing que visou mais de 9.000 organizações em todo o mundo foi travada pela Check Point. Os ataques utilizavam técnicas sofisticadas de engenharia social."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "PORTUGAL & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Despiste mortal durante a madrugada junto a portagens",
+          "text": "Um homem morreu na madrugada após um despiste numa autoestrada, junto a uma zona de portagens. Os bombeiros foram acionados mas não conseguiram evitar a morte."
+        },
+        {
+          "headline": "Despiste de trator durante vindimas deixa homem em estado grave",
+          "text": "Um homem ficou em estado grave após o despiste de um trator durante as vindimas. O acidente aconteceu numa zona rural e a vítima foi transportada para o hospital."
+        },
+        {
+          "headline": "Polémica: pode reservar lugar na praia com um guarda-sol?",
+          "text": "A questão de se é legítimo reservar um lugar na praia deixando um guarda-sol a marcar o espaço está a dividir banhistas em Portugal. A prática gera debate todos os verões."
+        },
+        {
+          "headline": "10 mortos em acidentes no espaço de 7 dias",
+          "text": "As estradas portuguesas registaram 10 mortos em acidentes no espaço de apenas uma semana. O balanço preocupa as autoridades, que apelam à prudência dos condutores."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Incêndio mata 14 recém-nascidos em hospital no Paquistão",
+          "text": "Um incêndio num hospital na capital do Paquistão causou a morte de 14 recém-nascidos. As autoridades abriram um inquérito para apurar as causas da tragédia."
+        },
+        {
+          "headline": "Tornado devasta aldeia em França e deixa 41 feridos",
+          "text": "Um tornado devastou uma aldeia em França, deixando 41 feridos e causando danos materiais significativos. É um fenómeno raro no país e chamou a atenção dos meteorologistas."
+        },
+        {
+          "headline": "Panamá declara estado de emergência devido ao El Niño",
+          "text": "O Panamá declarou estado de emergência nacional devido aos efeitos do fenómeno El Niño. As secas afetaram o tráfego no Canal do Panamá, com impactos no comércio global."
+        },
+        {
+          "headline": "Menor português morre atropelado no Luxemburgo",
+          "text": "Um menor português morreu após ser atropelado no Luxemburgo por um condutor alcoolizado que fugiu do local. A Polícia está a procurar o responsável."
+        }
+      ]
+    },
+    {
+      "emoji": "🎪",
+      "category": "LAZER & REGIÃO",
+      "stories": [
+        {
+          "headline": "Montemor-o-Velho prepara 11 dias de festa com 220 expositores",
+          "text": "A Feira do Ano de Montemor-o-Velho regressa com 11 dias de festa, 220 expositores e concertos de luxo. Há ainda uma área de 1.500 metros quadrados dedicada às crianças."
+        },
+        {
+          "headline": "Eclipse parcial da Lua no UC Exploratório",
+          "text": "O UC Exploratório organiza uma madrugada diferente para observar um eclipse parcial da Lua. O evento é aberto ao público e inclui atividades de divulgação científica."
+        },
+        {
+          "headline": "Noite Branca com piscina, DJs, ostras e gin no Fundão",
+          "text": "O Fundão vai receber uma Noite Branca com piscina, DJs, ostras e gin num evento que combina gastronomia e música. A iniciativa promete uma noite diferente na Região Centro."
+        },
+        {
+          "headline": "Compraram antiga casa e transformam-na num lar de sonho",
+          "text": "Um casal comprou uma antiga casa no distrito de Coimbra e está a transformá-la num lar para idosos. O projeto combina preservação do património com uma nova função social."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Regresso às aulas aperta a carteira: gastos das famílias sobem até 18%",
+          "text": "O regresso às aulas está a custar cada vez mais às famílias portuguesas, com gastos a subir até 18% face ao ano anterior. Material escolar, livros e roupa estão entre os principais custos."
+        },
+        {
+          "headline": "Lojista de Coimbra garante que ruas pedonais desgraçaram o comércio",
+          "text": "Um lojista de Coimbra afirma que a criação de ruas pedonais no centro da cidade prejudicou o comércio local. A queixa reflete a tensão entre a pedonalização e o comércio tradicional."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Luís Neves volta a corrigir declaração de património",
+          "text": "O político Luís Neves teve de corrigir novamente a sua declaração de património, levantando questões sobre a transparência dos responsáveis políticos. É a segunda correção em pouco tempo."
+        },
+        {
+          "headline": "Atropelamento em Albufeira que causou 12 feridos foi ato isolado",
+          "text": "As autoridades classificaram o atropelamento em Albufeira que feriu 12 pessoas como um ato isolado, não havendo indícios de motivação terrorista. O ministro da Administração Interna prometeu investigação séria."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Camila Rebelo bate recorde e conquista ouro nos Jogos do Mediterrâneo",
+          "text": "A nadadora portuguesa Camila Rebelo bateu o recorde nos 100 metros e conquistou um novo ouro nos Jogos do Mediterrâneo. O resultado confirma o bom momento da atleta."
+        },
+        {
+          "headline": "Pogacar arrasa concorrência e reforça liderança na Volta a Espanha",
+          "text": "O esloveno Tadej Pogacar voltou a arrasar a concorrência na Volta a Espanha, reforçando a liderança na classificação geral. A vantagem para os perseguidores é já considerável."
+        },
+        {
+          "headline": "Académica é líder isolada da Liga 2",
+          "text": "A Associação Académica de Coimbra assumiu a liderança isolada da Liga 2, num bom início de época para a equipa da cidade. Os adeptos alimentam esperanças de subida de divisão."
+        }
+      ]
+    },
+    {
+      "emoji": "⭐",
+      "category": "FAMA",
+      "stories": [
+        {
+          "headline": "Morreu Dolly Parton",
+          "text": "A lenda da música country Dolly Parton faleceu, deixando um legado monumental na música americana e mundial. A cantora era uma das artistas mais influentes do século XX."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "22.500 euros para projetos de cuidados paliativos na Região Centro",
+          "text": "Estão disponíveis 22.500 euros para projetos de cuidados paliativos na Região Centro. As candidaturas terminam em setembro e destinam-se a instituições que apoiam doentes em fase final de vida."
+        },
+        {
+          "headline": "Farmácias vão receber 3,15 euros por cada vacina",
+          "text": "As farmácias portuguesas vão receber 3,15 euros por cada vacina administrada na próxima campanha sazonal. O valor foi acordado entre o governo e a associação dos farmacêuticos."
+        },
+        {
+          "headline": "Bebe refrigerantes todos os dias? Pode estar a por o estômago em perigo",
+          "text": "Um estudo alerta para os perigos do consumo diário de refrigerantes para o estômago. Os especialistas recomendam reduzir o consumo de bebidas açucaradas para proteger a saúde digestiva."
+        }
+      ]
+    }
+  ]
+}
