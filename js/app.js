@@ -5,7 +5,10 @@
 // Box 4: Review in 2 weeks (14 days)
 // Box 5: Review in 1 month (30 days) — mastered
 
-const BOX_INTERVALS = [0, 1, 3, 7, 14, 30]; // index = box number, 0 = unseen
+const BOX_INTERVALS = [0, 1, 3, 7, 14, 30]; // index = box number, 0 = waiting room (unseen)
+const MAX_NEW_PER_DAY = 10; // max new words pulled from waiting room per day
+const MAX_REVIEW_PER_SESSION = 20; // max due cards per review session
+const MAX_NEW_PER_SESSION = 10; // max new words per learn session
 const BOX_NAMES = ['', 'Box 1 · Daily', 'Box 2 · Every 3 days', 'Box 3 · Weekly', 'Box 4 · Bi-weekly', 'Box 5 · Monthly'];
 const BOX_INTERVAL_LABELS = ['', 'Review tomorrow', 'Review in 3 days', 'Review in 1 week', 'Review in 2 weeks', 'Mastered · review in 1 month'];
 const BOX_DOTS = ['', '🔴', '🟠', '🟡', '🟢', '🔵'];
@@ -136,14 +139,22 @@ function loadProgress() {
       const correct = p.correct || 0;
 
       let box;
-      if (total === 0) box = 1;
+      if (total === 0) box = 0; // unseen words go to waiting room, not Box 1
       else if (correct >= 12 && ratio >= 0.95) box = 5;
       else if (correct >= 8 && ratio >= 0.9) box = 4;
       else if (correct >= 5 && ratio >= 0.8) box = 3;
       else if (correct >= 3 && ratio >= 0.6) box = 2;
       else box = 1;
+      // Only words with review history get a box; truly unseen stay at 0
 
       p.box = box;
+
+      // Waiting room words (box 0) have no nextReview
+      if (box === 0) {
+        p.nextReview = null;
+        if (!p.history) p.history = [];
+        continue;
+      }
 
       // Compute nextReview from lastSeen
       let lastDate;
@@ -201,8 +212,8 @@ function getWordProgress(card) {
     progress[key] = {
       correct: 0,
       incorrect: 0,
-      box: 0,
-      nextReview: todayStr(),
+      box: 0, // 0 = waiting room (unseen)
+      nextReview: null, // not due until learned
       lastSeen: null,
       history: []
     };
@@ -266,21 +277,55 @@ function getDueCards() {
   const today = todayStr();
   return getAllCards().filter(card => {
     const p = getWordProgress(card);
-    if (p.box === 0) return false; // unseen
+    if (p.box === 0) return false; // waiting room
     if (!p.nextReview) return false;
     return p.nextReview <= today;
   }).sort((a, b) => {
-    // Sort by box ascending (Box 1 first)
-    return (getBox(a)) - (getBox(b));
+    // Sort by box ascending (Box 1 first), then oldest nextReview
+    const boxDiff = getBox(a) - getBox(b);
+    if (boxDiff !== 0) return boxDiff;
+    const pA = getWordProgress(a);
+    const pB = getWordProgress(b);
+    return (pA.nextReview || '').localeCompare(pB.nextReview || '');
   });
 }
 
 function getNewCards() {
-  const todayCards = getTodayCards();
-  return todayCards.filter(card => {
+  // All words in the waiting room (box 0), ordered by vocab date (oldest first)
+  const all = getAllCards();
+  const waiting = all.filter(card => {
     const p = getWordProgress(card);
-    return p.box === 0 || !progress[getWordKey(card)];
+    return p.box === 0;
   });
+  // Sort by vocab date - learn older words first
+  return waiting.sort((a, b) => {
+    const dateA = findVocabDate(a) || '9999';
+    const dateB = findVocabDate(b) || '9999';
+    return dateA.localeCompare(dateB);
+  });
+}
+
+function findVocabDate(card) {
+  for (const date in vocabulary) {
+    if (date === 'manual') continue;
+    if (vocabulary[date].some(c => c.pt === card.pt)) return date;
+  }
+  return null;
+}
+
+function getLearnedTodayCount() {
+  const today = todayStr();
+  let count = 0;
+  for (const key in progress) {
+    const p = progress[key];
+    if (p.history && p.history.length > 0) {
+      const firstLearn = p.history[0];
+      if (firstLearn.date === today && firstLearn.result === 'correct' && p.box > 0) {
+        count++;
+      }
+    }
+  }
+  return count;
 }
 
 function getBoxCounts() {
@@ -306,6 +351,9 @@ function renderHome() {
   const { counts, dueCounts } = getBoxCounts();
   const totalDue = dueCounts.slice(1).reduce((a, b) => a + b, 0);
   const newCards = getNewCards();
+  const learnedToday = getLearnedTodayCount();
+  const remainingToday = Math.max(0, MAX_NEW_PER_DAY - learnedToday);
+  const sessionNewCount = Math.min(remainingToday, MAX_NEW_PER_SESSION, newCards.length);
 
   // Due banner
   const banner = document.getElementById('dueBanner');
@@ -343,31 +391,37 @@ function renderHome() {
 
   // New words section
   const newSection = document.getElementById('newWordsSection');
-  if (newCards.length > 0) {
+  if (newCards.length > 0 && remainingToday > 0) {
     newSection.style.display = '';
-    document.getElementById('newWordsCount').textContent = newCards.length;
-    const todayCards = getTodayCards();
-    const dates = Object.keys(vocabulary).filter(k => /^\d{4}-\d{2}-\d{2}$/.test(k)).sort();
-    const latestDate = dates.length > 0 ? dates[dates.length - 1] : todayStr();
-    document.getElementById('newWordsDate').textContent = `from ${latestDate}`;
+    document.getElementById('newWordsCount').textContent = `${sessionNewCount} available`;
+    document.getElementById('newWordsDate').textContent = `${learnedToday}/${MAX_NEW_PER_DAY} learned today · ${newCards.length} in waiting room`;
+  } else if (newCards.length > 0 && remainingToday === 0) {
+    newSection.style.display = '';
+    document.getElementById('newWordsCount').textContent = 'Daily cap reached';
+    document.getElementById('newWordsDate').textContent = `${learnedToday}/${MAX_NEW_PER_DAY} learned today · ${newCards.length} still waiting`;
   } else {
     newSection.style.display = 'none';
   }
 
   // Action buttons
-  document.getElementById('btnReviewCount').textContent = totalDue;
-  document.getElementById('btnLearnCount').textContent = newCards.length;
+  document.getElementById('btnReviewCount').textContent = totalDue > MAX_REVIEW_PER_SESSION ? MAX_REVIEW_PER_SESSION + '+' : totalDue;
+  document.getElementById('btnLearnCount').textContent = sessionNewCount > 0 ? sessionNewCount : '0';
   document.getElementById('btnStartReview').disabled = totalDue === 0;
-  document.getElementById('btnLearnNew').disabled = newCards.length === 0;
+  document.getElementById('btnLearnNew').disabled = sessionNewCount === 0;
 }
 
 function startReviewForBox(boxNum) {
   const today = todayStr();
-  currentCards = getAllCards().filter(card => {
+  const due = getAllCards().filter(card => {
     const p = getWordProgress(card);
     return p.box === boxNum && p.nextReview && p.nextReview <= today;
-  }).sort((a, b) => getBox(a) - getBox(b));
+  }).sort((a, b) => {
+    const pA = getWordProgress(a);
+    const pB = getWordProgress(b);
+    return (pA.nextReview || '').localeCompare(pB.nextReview || '');
+  });
 
+  currentCards = due.slice(0, MAX_REVIEW_PER_SESSION);
   if (currentCards.length === 0) return;
 
   sessionMode = 'review';
@@ -375,14 +429,19 @@ function startReviewForBox(boxNum) {
 }
 
 function startReviewSession() {
-  currentCards = getDueCards();
+  const due = getDueCards();
+  currentCards = due.slice(0, MAX_REVIEW_PER_SESSION);
   if (currentCards.length === 0) return;
   sessionMode = 'review';
   startSession();
 }
 
 function startLearnNewSession() {
-  currentCards = getNewCards();
+  const newCards = getNewCards();
+  const learnedToday = getLearnedTodayCount();
+  const remaining = Math.max(0, MAX_NEW_PER_DAY - learnedToday);
+  const sessionSize = Math.min(remaining, MAX_NEW_PER_SESSION, newCards.length);
+  currentCards = newCards.slice(0, sessionSize);
   if (currentCards.length === 0) return;
   sessionMode = 'learn';
   startSession();
