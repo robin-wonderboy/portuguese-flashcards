@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Militar da GNR baleado em serviço recebe compensação de 116 mil euros",
+          "text": "Hugo Pires, militar da GNR de Coimbra, vai receber uma compensação de 116.880 euros pelos ferimentos sofridos quando foi baleado durante uma operação em Cernache. O valor foi publicado em Diário da República e está relacionado com a incapacidade total de 100% atribuída ao militar."
+        },
+        {
+          "headline": "Julgamento do mentor dos ataques de 11 de setembro começa em 2028",
+          "text": "Um juiz militar dos EUA decidiu que Khalid Sheikh Mohammed, autoproclamado mentor dos ataques de 11 de setembro de 2001, começará a ser julgado a 5 de junho de 2028. O alegado mentor e três cúmplices enfrentaram um longo processo marcado por inúmeros atrasos na Base Naval da Baía de Guantánamo."
+        },
+        {
+          "headline": "Condutor acumula 13 infrações e fica quase 1 ano sem carta",
+          "text": "Um condutor foi proibido de conduzir durante 360 dias depois de ter sido apanhado em excesso de velocidade numa autoestrada. A decisão da ANSR teve em conta o histórico do homem, que já acumulava outras 12 contraordenações semelhantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "METO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Trovoada, granizo e rajadas até 90 km/h chegam à região de Coimbra",
+          "text": "O IPMA colocou 11 distritos sob aviso amarelo devido a chuva localmente forte, queda de granizo, trovoada e vento forte. Viana do Castelo, Braga, Bragança, Vila Real, Viseu, Guarda, Castelo Branco, Porto, Aveiro, Leiria e Coimbra vão estar sob aviso amarelo devido à previsão de períodos de chuva intensa."
+        },
+        {
+          "headline": "Cadela desaparecida há 3 anos volta para a família graças ao microchip",
+          "text": "Um reencontro com final feliz: uma cadela desaparecida há 3 anos voltou para a família graças ao microchip. A história mostra a importância da identificação eletrónica de animais de estimação."
+        },
+        {
+          "headline": "Biblioteca Municipal da Figueira da Foz retoma iniciativas de leitura em setembro",
+          "text": "A Biblioteca Municipal da Figueira da Foz retoma iniciativas de leitura e poesia em setembro, incluindo sessões de Fado Contado e outros eventos culturais dedicados à literatura."
+        },
+        {
+          "headline": "Tradição e convívio marcaram festas de Nossa Senhora de Nazaré",
+          "text": "As festas de Nossa Senhora de Nazaré foram marcadas pela tradição e pelo convívio, com procissão e momentos de celebração que uniram a comunidade local."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival da Sardinha na Telha e Batata Assada na Areia na Tocha",
+          "text": "O Festival da Sardinha Assada na Telha e da Batata Assada na Areia decorre de 28 a 30 de agosto nos Jardins da Associação da Tocha, Cantanhede. O evento pretende dar a conhecer as potencialidades gastronómicas da região da Gândara. A batata assada na areia era uma prática regular na Praia da Tocha associada à faina piscatória da arte xávega."
+        },
+        {
+          "headline": "Coimbra volta a ter Café Curto no Convento São Francisco",
+          "text": "O Café Curto regressa ao Convento São Francisco com mais música emergente, trazendo novos talentos da cena musical portuguesa para o centro histórico de Coimbra."
+        },
+        {
+          "headline": "Festival das Artes de Conímbriga regressa sob o tema Terra",
+          "text": "O Festival das Artes de Conímbriga regressa a Condeixa-a-Nova sob o tema Terra, promovendo o diálogo entre arte, natureza e património na região."
+        },
+        {
+          "headline": "Exposição recorda Cantanhede antiga através de pinturas e fotografias",
+          "text": "Uma exposição de pinturas e fotografias recorda Cantanhede antiga, permitindo aos visitantes maravilhar-se com o passado da vila e a sua evolução ao longo das décadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "1.300 desaparecidos no Nepal e Tibete após enxurradas",
+          "text": "Equipas de resgate continuam a procurar mais de 1.300 pessoas desaparecidas devido às enxurradas que atingiram a região fronteiriça entre o Nepal e a China. Pelo menos 168 pessoas morreram segundo o balanço da Autoridade Nacional de Redução e Gestão de Riscos de Desastres do Nepal."
+        },
+        {
+          "headline": "Portuguesa desaparecida no Nepal encontrada sem vida",
+          "text": "A cidadã portuguesa que estava desaparecida na sequência das cheias repentinas e deslizamentos de terras no Nepal foi encontrada sem vida. A mulher encontrava-se num grupo junto a um posto fronteiriço do lado nepalês quando as fortes chuvas provocaram uma enxurrada."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Carro embate em javali, incendeia-se: pai morre carbonizado, filho em estado grave",
+          "text": "Um homem morreu carbonizado e o filho ficou gravemente ferido após um acidente na Estrada Nacional 387, em Faro do Alentejo. Pai e filho seguiam no mesmo automóvel quando o veículo embateu num javali, saiu da estrada e incendiou-se."
+        },
+        {
+          "headline": "Táxis vão poder trabalhar como TVDE a partir de setembro",
+          "text": "Os táxis vão poder passar a operar como TVDE a partir de 1 de setembro, com a entrada em vigor do novo regime jurídico do transporte através de plataformas eletrónicas. A alteração é contestada pelo setor do táxi, que promete levar o diploma ao Tribunal Constitucional."
+        },
+        {
+          "headline": "Ministra garante serviços mínimos se greve do INEM não for suspensa",
+          "text": "A ministra da Saúde anunciou que serão marcados serviços mínimos se a greve dos técnicos do INEM, marcada para 14 e 28 de setembro, não for suspensa. Ana Paula Martins confirmou a garantia sem direito a perguntas dos jornalistas."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnica de Coimbra reforça apoios sociais e reduz custo da refeição",
+          "text": "A Universidade Politécnica de Coimbra aprovou a redução do preço da refeição social para 2,40 euros, uma diminuição de 0,45€ por refeição. A medida abrange todos os estudantes da UPCoimbra e contribui para reduzir o impacto das despesas com alimentação no orçamento familiar."
+        },
+        {
+          "headline": "Caloiros chegam a Coimbra mas enfrentam velhos problemas: alojamento e saúde mental",
+          "text": "A chegada de milhares de novos estudantes a Coimbra marca o início de mais um ano letivo, mas para muitos a entrada na academia é apenas o primeiro desafio. O alojamento e a saúde mental continuam a preocupar a Associação Académica de Coimbra."
+        },
+        {
+          "headline": "Coimbra recebe cimeira sobre desafios da água em Portugal",
+          "text": "A 3ª Edição do Urban Water Summit realiza-se a 29 de outubro no Instituto Superior de Engenharia da Universidade Politécnica de Coimbra, procurando encontrar soluções para os desafios dos serviços de águas em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar desce uns cêntimos mas está muito mais caro que há 4 anos",
+          "text": "O preço do cabaz alimentar essencial registou uma ligeira descida na última semana, mas continua significativamente acima dos valores de há quatro anos. Segundo a DECO PROteste, os 63 produtos monitorizados custam agora 252,62 euros, menos 0,94 cêntimos que na semana anterior."
+        },
+        {
+          "headline": "PS responsabiliza AD, IL e Chega pelo custo de vida elevado",
+          "text": "O secretário-geral do PS, José Luís Carneiro, responsabilizou o Governo PSD/CDS, a Iniciativa Liberal e o Chega pelo aumento do custo de vida, ao rejeitarem o projeto socialista para a redução do IVA. Comerciantes afirmam que as pessoas estão com dificuldades para fazer as suas compras."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Palhinha transfere-se em definitivo do Bayern para o Benfica",
+          "text": "O médio internacional português João Palhinha transferiu-se em definitivo do Bayern Munique para o Benfica por 14 milhões de euros, assinando um contrato até junho de 2030."
+        },
+        {
+          "headline": "Antiga estrela da Académica está desaparecido",
+          "text": "As autoridades húngaras estão a tentar localizar Ákos Buzsáky, de 44 anos, antigo futebolista que representou a Académica de Coimbra. Está desaparecido há mais de uma semana, tendo sido visto pela última vez em Budapeste a 18 de agosto."
+        },
+        {
+          "headline": "Pogacar arrasa concorrência e reforça liderança na Volta a Espanha",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
