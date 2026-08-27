@@ -24863,5 +24863,167 @@
       "example_de": "Die Apotheken erhalten 3,15 Euro pro Impfung in der nächsten Kampagne.",
       "example_en": "Pharmacies will receive 3.15 euros per vaccine in the next campaign."
     }
+  ],
+  "2026-08-27": [
+    {
+      "pt": "o mentor",
+      "de": "der Drahtzieher",
+      "en": "the mastermind",
+      "example": "O mentor dos ataques de 11 de setembro será julgado em 2028",
+      "example_de": "Der Drahtzieher der Anschläge vom 11. September wird 2028 vor Gericht stehen",
+      "example_en": "The mastermind of the September 11 attacks will be tried in 2028"
+    },
+    {
+      "pt": "a compensação",
+      "de": "die Entschädigung",
+      "en": "the compensation",
+      "example": "O militar da GNR recebeu uma compensação de 116 mil euros",
+      "example_de": "Der GNR-Soldat erhielt eine Entschädigung von 116.000 Euro",
+      "example_en": "The GNR soldier received a compensation of 116 thousand euros"
+    },
+    {
+      "pt": "a enxurrada",
+      "de": "die Sturzflut",
+      "en": "the flash flood",
+      "example": "Uma enxurrada atingiu a região fronteiriça entre o Nepal e a China",
+      "example_de": "Eine Sturzflut traf die Grenzregion zwischen Nepal und China",
+      "example_en": "A flash flood hit the border region between Nepal and China"
+    },
+    {
+      "pt": "o custo de vida",
+      "de": "die Lebenshaltungskosten",
+      "en": "the cost of living",
+      "example": "O PS responsabiliza o Governo pelo custo de vida elevado",
+      "example_de": "Die PS macht die Regierung für die hohen Lebenshaltungskosten verantwortlich",
+      "example_en": "The PS holds the Government responsible for the high cost of living"
+    },
+    {
+      "pt": "a refeição social",
+      "de": "die Sozialmahlzeit",
+      "en": "the subsidized meal",
+      "example": "A UPCoimbra reduziu o preço da refeição social para 2,40 euros",
+      "example_de": "Die UPCoimbra senkte den Preis der Sozialmahlzeit auf 2,40 Euro",
+      "example_en": "UPCoimbra reduced the price of the subsidized meal to 2.40 euros"
+    },
+    {
+      "pt": "incendiar-se",
+      "de": "in Brand geraten",
+      "en": "to catch fire",
+      "example": "Após a colisão, o carro saiu da estrada e incendiou-se",
+      "example_de": "Nach dem Aufprall kam das Auto von der Straße ab und geriet in Brand",
+      "example_en": "After the collision, the car went off the road and caught fire"
+    },
+    {
+      "pt": "adear",
+      "de": "verschieben",
+      "en": "to postpone",
+      "example": "O mau tempo adiou a abertura dos stands da Feira do Livro do Porto",
+      "example_de": "Das schlechte Wetter verschob die Eröffnung der Stände der Buchmesse von Porto",
+      "example_en": "The bad weather postponed the opening of the stands at the Porto Book Fair"
+    },
+    {
+      "pt": "acumular",
+      "de": "ansammeln",
+      "en": "to accumulate",
+      "example": "O condutor acumulava 13 infrações e ficou quase um ano sem carta",
+      "example_de": "Der Fahrer häufte 13 Verstöße an und verlor fast ein Jahr seinen Führerschein",
+      "example_en": "The driver accumulated 13 violations and lost his license for almost a year"
+    },
+    {
+      "pt": "abater",
+      "de": "erschlagen",
+      "en": "to strike down",
+      "example": "O carro embateu num javali e incendiou-se",
+      "example_de": "Das Auto prallte gegen ein Wildschwein und ging in Flammen auf",
+      "example_en": "The car crashed into a wild boar and caught fire"
+    },
+    {
+      "pt": "deslocar-se",
+      "de": "sich begeben",
+      "en": "to travel to",
+      "example": "A presidente da República desloca-se ao Palácio de Belém",
+      "example_de": "Die Präsidentin der Republik begibt sich in den Palast von Belém",
+      "example_en": "The President of the Republic travels to the Palace of Belém"
+    },
+    {
+      "pt": "maravilhar",
+      "de": "sich wundern",
+      "en": "to marvel",
+      "example": "Os turistas maravilham-se com as pinturas de Cantanhede antiga",
+      "example_de": "Die Touristen wundern sich über die Gemälde des alten Cantanhede",
+      "example_en": "Tourists marvel at the paintings of old Cantanhede"
+    },
+    {
+      "pt": "proibido",
+      "de": "verboten",
+      "en": "forbidden",
+      "example": "O condutor foi proibido de conduzir durante 360 dias",
+      "example_de": "Dem Fahrer wurde 360 Tage lang das Fahren verboten",
+      "example_en": "The driver was forbidden from driving for 360 days"
+    },
+    {
+      "pt": "emergente",
+      "de": "aufstrebend",
+      "en": "emerging",
+      "example": "O Café Curto regressa com mais música emergente",
+      "example_de": "Das Café Curto kehrt mit mehr aufstrebender Musik zurück",
+      "example_en": "Café Curto returns with more emerging music"
+    },
+    {
+      "pt": "comemorativo",
+      "de": "gedenkwürdig",
+      "en": "commemorative",
+      "example": "Aveiro recebe a edição comemorativa da Feira do Livro",
+      "example_de": "Aveiro empfängt die Gedenkausgabe der Buchmesse",
+      "example_en": "Aveiro hosts the commemorative edition of the Book Fair"
+    },
+    {
+      "pt": "cruel",
+      "de": "grausam",
+      "en": "cruel",
+      "example": "Matou os três filhos - um acto cruel que chocou o país",
+      "example_de": "Sie tötete ihre drei Kinder - eine grausame Tat, die das Land schockierte",
+      "example_en": "She killed her three children - a cruel act that shocked the country"
+    },
+    {
+      "pt": "fatal",
+      "de": "tödlich",
+      "en": "fatal",
+      "example": "A portuguesa desaparecida no Nepal foi encontrada sem vida",
+      "example_de": "Die im Nepal vermisste Portugiesin wurde leblos aufgefunden",
+      "example_en": "The Portuguese woman missing in Nepal was found lifeless"
+    },
+    {
+      "pt": "sem vida",
+      "de": "lebenslos",
+      "en": "lifeless",
+      "example": "A portuguesa foi encontrada sem vida após as enxurradas",
+      "example_de": "Die Portugiesin wurde nach den Sturzfluten leblos aufgefunden",
+      "example_en": "The Portuguese woman was found lifeless after the flash floods"
+    },
+    {
+      "pt": "sob o tema",
+      "de": "unter dem Motto",
+      "en": "under the theme",
+      "example": "O Festival das Artes de Conímbriga regressa sob o tema Terra",
+      "example_de": "Das Festival der Künste von Conímbriga kehrt unter dem Motto Erde zurück",
+      "example_en": "The Festival of Arts of Conímbriga returns under the theme Earth"
+    },
+    {
+      "pt": "a custo zero",
+      "de": "kostenlos",
+      "en": "at zero cost",
+      "example": "O Académico de Viseu contrata lateral a custo zero",
+      "example_de": "Académico de Viseu verpflichtet einen Außenverteidiger kostenlos",
+      "example_en": "Académico de Viseu signs a full-back at zero cost"
+    },
+    {
+      "pt": "em definitivo",
+      "de": "endgültig",
+      "en": "permanently",
+      "example": "Palhinha transferiu-se em definitivo do Bayern para o Benfica",
+      "example_de": "Palhinha wechselte endgültig vom Bayern zu Benfica",
+      "example_en": "Palhinha transferred permanently from Bayern to Benfica"
+    }
   ]
 }
