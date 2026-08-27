@@ -24,16 +24,16 @@
         </div>
         <button class="settings-btn" onclick="toggleSettings()">⚙️</button>
     </div>
-    
+
     <!-- Tabs -->
     <div class="tabs">
-        <button class="tab active" onclick="showTab('practice')">📚 Practice</button>
-        <button class="tab" onclick="showTab('words')">📖 All Words</button>
+        <button class="tab active" id="tabHome" onclick="showTab('home', this)">📚 Boxes</button>
+        <button class="tab" id="tabWords" onclick="showTab('words', this)">📖 All Words</button>
     </div>
-    
+
     <!-- News Button -->
     <button class="news-btn hidden" id="newsBtn" onclick="toggleNews()">📰 News</button>
-    
+
     <!-- News Container -->
     <div class="news-container hidden" id="newsContainer">
         <div class="news-header">
@@ -42,67 +42,126 @@
         </div>
         <div id="newsContent"></div>
     </div>
-    
-    <!-- Practice Tab -->
-    <div id="practiceTab">
-        <div id="cardScreen">
-            <div class="progress-section">
-                <div class="progress-text">
-                    <span id="progressLabel">0 / 0</span>
-                    <span id="streakLabel">🔥 0</span>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
-                </div>
-            </div>
-            
-            <div class="card-container">
-                <div class="card" id="flashcard" onclick="flipCard()">
-                    <div class="card-face card-front">
-                        <span class="card-mastery mastery-new" id="frontMastery">New</span>
-                        <div class="card-lang" id="frontLang">Português</div>
-                        <div class="card-word" id="frontWord">Loading...</div>
-                        <button class="speak-btn" id="frontSpeak" onclick="event.stopPropagation(); speakCurrent('front')">🔊</button>
-                        <div class="card-hint">👆 Tap to reveal</div>
-                    </div>
-                    <div class="card-face card-back">
-                        <div class="card-lang" id="backLang">Deutsch</div>
-                        <div class="card-word" id="backWord">...</div>
-                        <button class="speak-btn" id="backSpeak" onclick="event.stopPropagation(); speakCurrent('back')">🔊</button>
-                        <div class="card-example" id="exampleText"></div>
-                        <div class="card-example-translation" id="exampleTranslation"></div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="controls">
-                <button class="btn-dont-know" onclick="markCard(false)">Wrong</button>
-                <button class="btn-know" onclick="markCard(true)">Correct</button>
-            </div>
+
+    <!-- ==================== HOME TAB (Leitner Boxes) ==================== -->
+    <div id="homeTab">
+        <!-- Due Review Banner -->
+        <div class="due-banner hidden" id="dueBanner">
+            <div class="due-banner-count" id="dueBannerCount">0</div>
+            <div class="due-banner-text">words due for review</div>
+            <div class="due-banner-breakdown" id="dueBannerBreakdown"></div>
         </div>
-        
-        <div id="completeScreen" class="complete-screen hidden">
-            <h2>🎉 Complete!</h2>
-            <div class="complete-score" id="finalScore">0%</div>
-            <div class="complete-message" id="finalMessage">Great job!</div>
-            
-            <div class="controls" style="justify-content: center;">
-                <button class="btn-know" onclick="restartQuiz()">Again</button>
-                <button class="btn-secondary" onclick="reviewMissed()">Review</button>
-            </div>
-            
-            <div class="review-list hidden" id="reviewList">
-                <h3>❌ Missed:</h3>
-                <div id="reviewItems"></div>
-            </div>
+
+        <!-- Box Stack -->
+        <div class="box-stack" id="boxStack">
+            <!-- Box rows rendered by JS -->
+        </div>
+
+        <!-- New Words Section -->
+        <div class="new-words-section" id="newWordsSection">
+            <div class="new-words-count" id="newWordsCount">0</div>
+            <div class="new-words-label">new words waiting</div>
+            <div class="new-words-date" id="newWordsDate"></div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="home-actions">
+            <button class="btn-review" id="btnStartReview" onclick="startReviewSession()">
+                <span class="btn-review-icon">🔄</span>
+                <span class="btn-review-text">Start Review</span>
+                <span class="btn-review-count" id="btnReviewCount">0</span>
+            </button>
+            <button class="btn-learn-new" id="btnLearnNew" onclick="startLearnNewSession()">
+                <span class="btn-learn-icon">📖</span>
+                <span class="btn-learn-text">Learn New Words</span>
+                <span class="btn-learn-count" id="btnLearnCount">0</span>
+            </button>
         </div>
     </div>
-    
-    <!-- Words Tab -->
+
+    <!-- ==================== REVIEW SCREEN ==================== -->
+    <div id="reviewScreen" class="hidden">
+        <div class="review-topbar">
+            <button class="review-back" onclick="exitReview()">← Boxes</button>
+        </div>
+
+        <div class="progress-section">
+            <div class="progress-text">
+                <span id="progressLabel">0 / 0</span>
+                <span id="streakLabel">🔥 0</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="card" id="flashcard" onclick="flipCard()">
+                <div class="card-face card-front">
+                    <span class="card-box-badge" id="frontBoxBadge">🔴 Box 1</span>
+                    <div class="card-lang" id="frontLang">Português</div>
+                    <div class="card-word" id="frontWord">Loading...</div>
+                    <button class="speak-btn" id="frontSpeak" onclick="event.stopPropagation(); speakCurrent('front')">🔊</button>
+                    <div class="card-hint">👆 Tap to reveal</div>
+                </div>
+                <div class="card-face card-back">
+                    <div class="card-lang" id="backLang">Deutsch</div>
+                    <div class="card-word" id="backWord">...</div>
+                    <button class="speak-btn" id="backSpeak" onclick="event.stopPropagation(); speakCurrent('back')">🔊</button>
+                    <div class="card-example" id="exampleText"></div>
+                    <div class="card-example-translation" id="exampleTranslation"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn-forgot" onclick="markCard(false)">
+                <span class="btn-forgot-icon">✗</span>
+                <span>Forgot</span>
+            </button>
+            <button class="btn-know-it" onclick="markCard(true)">
+                <span class="btn-know-icon">✓</span>
+                <span>Know it</span>
+            </button>
+        </div>
+        <div class="answer-hint" id="answerHint">✓ promotes to 🟠 Box 2 · ✗ back to 🔴 Box 1</div>
+    </div>
+
+    <!-- ==================== COMPLETE SCREEN ==================== -->
+    <div id="completeScreen" class="complete-screen hidden">
+        <div class="complete-icon">🎉</div>
+        <h2>Session Complete!</h2>
+        <p class="complete-reviewed">You reviewed <span id="completeReviewed">0</span> words</p>
+
+        <div class="complete-stats">
+            <div class="complete-stat promoted">
+                <div class="complete-stat-icon">⬆️</div>
+                <div class="complete-stat-value" id="completePromoted">0</div>
+                <div class="complete-stat-label">Promoted</div>
+            </div>
+            <div class="complete-stat demoted">
+                <div class="complete-stat-icon">⬇️</div>
+                <div class="complete-stat-value" id="completeDemoted">0</div>
+                <div class="complete-stat-label">Demoted</div>
+            </div>
+            <div class="complete-stat stayed">
+                <div class="complete-stat-icon">➡️</div>
+                <div class="complete-stat-value" id="completeStayed">0</div>
+                <div class="complete-stat-label">Stayed</div>
+            </div>
+        </div>
+
+        <div class="complete-next" id="completeNext"></div>
+        <div class="complete-streak" id="completeStreak"></div>
+
+        <button class="btn-back-boxes" onclick="backToBoxes()">Back to Boxes</button>
+    </div>
+
+    <!-- ==================== WORDS TAB ==================== -->
     <div id="wordsTab" class="hidden">
         <div class="word-list" id="wordList"></div>
     </div>
-    
+
     <!-- Settings Modal -->
     <div class="modal-overlay" id="settingsModal">
         <div class="modal">
@@ -110,7 +169,7 @@
                 <h2>⚙️ Settings</h2>
                 <button class="modal-close" onclick="toggleSettings()">×</button>
             </div>
-            
+
             <div class="setting-group">
                 <div class="setting-label">Card Languages</div>
                 <div class="setting-row">
@@ -127,19 +186,7 @@
                     </select>
                 </div>
             </div>
-            
-            <div class="setting-group">
-                <div class="setting-label">Word Set</div>
-                <select id="dateSelect" onchange="loadDate()" style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #3d3d5c; background: #2d2d44; color: white;">
-                    <option value="today">📰 Hoje (Today)</option>
-                    <option value="daily">📅 Daily Mix</option>
-                    <option value="random10">🎲 Random 10</option>
-                    <option value="weak">🎯 Weak Words</option>
-                    <option value="all">📚 All Words</option>
-                    <option value="manual">📝 Manual Vocab</option>
-                </select>
-            </div>
-            
+
             <div class="setting-group">
                 <div class="setting-label">Voices</div>
                 <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -168,13 +215,12 @@
                     🔀 Shuffle cards
                 </label>
             </div>
-            
+
             <div class="setting-group" style="text-align: center; opacity: 0.6; font-size: 0.8rem;">
                 <span id="lastUpdateInfo">📡 Loading...</span>
             </div>
 
             <div class="modal-actions">
-                <button class="btn-secondary" onclick="restartQuiz(); toggleSettings();">Restart Game</button>
                 <button class="btn-secondary" onclick="exportProgress()">Export Progress</button>
                 <button class="btn-secondary" onclick="document.getElementById('importFile').click()">Import Progress</button>
                 <input type="file" id="importFile" style="display:none" accept=".json" onchange="importProgress(event)">

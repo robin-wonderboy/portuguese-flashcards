@@ -1,3 +1,16 @@
+// === LEITNER BOX SPACED REPETITION SYSTEM ===
+// Box 1: Review tomorrow (1 day)
+// Box 2: Review in 3 days
+// Box 3: Review in 1 week (7 days)
+// Box 4: Review in 2 weeks (14 days)
+// Box 5: Review in 1 month (30 days) — mastered
+
+const BOX_INTERVALS = [0, 1, 3, 7, 14, 30]; // index = box number, 0 = unseen
+const BOX_NAMES = ['', 'Box 1 · Daily', 'Box 2 · Every 3 days', 'Box 3 · Weekly', 'Box 4 · Bi-weekly', 'Box 5 · Monthly'];
+const BOX_INTERVAL_LABELS = ['', 'Review tomorrow', 'Review in 3 days', 'Review in 1 week', 'Review in 2 weeks', 'Mastered · review in 1 month'];
+const BOX_DOTS = ['', '🔴', '🟠', '🟡', '🟢', '🔵'];
+const BOX_CSS_CLASSES = ['', 'box-1', 'box-2', 'box-3', 'box-4', 'box-5'];
+
 // === STATE ===
 let vocabulary = {};
 let progress = loadProgress();
@@ -5,12 +18,17 @@ let currentCards = [];
 let currentIndex = 0;
 let correctCount = 0;
 let streak = 0;
-let missedCards = [];
 let isFlipped = false;
 let frontLang = localStorage.getItem('flashcards_front_lang') || 'pt';
 let backLang = localStorage.getItem('flashcards_back_lang') || 'de';
 let newsVisible = false;
 let newsData = null;
+
+// Session tracking
+let sessionMode = 'review'; // 'review' or 'learn'
+let sessionPromoted = 0;
+let sessionDemoted = 0;
+let sessionStayed = 0;
 
 const langLabels = { pt: 'Português', de: 'Deutsch', en: 'English' };
 const langFlags = { pt: '🇵🇹', de: '🇩🇪', en: '🇬🇧' };
@@ -40,7 +58,7 @@ function speak(text, lang) {
 
   utterance.onstart = () => {
     const btn = isFlipped ? document.getElementById('backSpeak') : document.getElementById('frontSpeak');
-    btn.classList.add('speaking');
+    if (btn) btn.classList.add('speaking');
   };
   utterance.onend = () => {
     document.querySelectorAll('.speak-btn').forEach(b => b.classList.remove('speaking'));
@@ -100,11 +118,58 @@ if ('speechSynthesis' in window) {
   setTimeout(populateVoiceSelects, 100);
 }
 
-// === PROGRESS ===
+// === PROGRESS (with Leitner migration) ===
 
 function loadProgress() {
-  try { return JSON.parse(localStorage.getItem('flashcards_progress') || '{}'); }
+  let raw;
+  try { raw = JSON.parse(localStorage.getItem('flashcards_progress') || '{}'); }
   catch { return {}; }
+
+  // Migrate old format to Leitner format
+  let migrated = false;
+  for (const key in raw) {
+    const p = raw[key];
+    if (p.box === undefined) {
+      // Old format: { correct, incorrect, lastSeen }
+      const total = (p.correct || 0) + (p.incorrect || 0);
+      const ratio = total > 0 ? (p.correct || 0) / total : 0;
+      const correct = p.correct || 0;
+
+      let box;
+      if (total === 0) box = 1;
+      else if (correct >= 12 && ratio >= 0.95) box = 5;
+      else if (correct >= 8 && ratio >= 0.9) box = 4;
+      else if (correct >= 5 && ratio >= 0.8) box = 3;
+      else if (correct >= 3 && ratio >= 0.6) box = 2;
+      else box = 1;
+
+      p.box = box;
+
+      // Compute nextReview from lastSeen
+      let lastDate;
+      if (p.lastSeen) {
+        if (typeof p.lastSeen === 'number') {
+          lastDate = new Date(p.lastSeen);
+        } else {
+          lastDate = new Date(p.lastSeen);
+        }
+      } else {
+        lastDate = new Date();
+      }
+      const lastStr = lastDate.toISOString().split('T')[0];
+      p.lastSeen = lastStr;
+      p.nextReview = addDays(lastStr, BOX_INTERVALS[box]);
+
+      if (!p.history) p.history = [];
+      migrated = true;
+    }
+  }
+
+  if (migrated) {
+    try { localStorage.setItem('flashcards_progress', JSON.stringify(raw)); } catch {}
+  }
+
+  return raw;
 }
 
 function saveProgress() {
@@ -132,18 +197,40 @@ function getWordKey(card) { return card.pt; }
 
 function getWordProgress(card) {
   const key = getWordKey(card);
-  if (!progress[key]) progress[key] = { correct: 0, incorrect: 0, lastSeen: null };
+  if (!progress[key]) {
+    progress[key] = {
+      correct: 0,
+      incorrect: 0,
+      box: 0,
+      nextReview: todayStr(),
+      lastSeen: null,
+      history: []
+    };
+  }
   return progress[key];
 }
 
-function getMasteryLevel(card) {
+function getBox(card) {
   const p = getWordProgress(card);
-  const total = p.correct + p.incorrect;
-  if (total === 0) return { level: 'new', label: 'New', class: 'mastery-new' };
-  const ratio = p.correct / total;
-  if (p.correct >= 5 && ratio >= 0.8) return { level: 'mastered', label: '⭐', class: 'mastery-mastered' };
-  if (p.correct >= 3 && ratio >= 0.6) return { level: 'familiar', label: '📘', class: 'mastery-familiar' };
-  return { level: 'learning', label: '📖', class: 'mastery-learning' };
+  return p.box || 0;
+}
+
+// === DATE HELPERS ===
+
+function todayStr() {
+  return new Date().toISOString().split('T')[0];
+}
+
+function addDays(dateStr, days) {
+  const d = new Date(dateStr + 'T00:00:00');
+  d.setDate(d.getDate() + days);
+  return d.toISOString().split('T')[0];
+}
+
+function daysUntil(dateStr) {
+  const target = new Date(dateStr + 'T00:00:00');
+  const today = new Date(todayStr() + 'T00:00:00');
+  return Math.round((target - today) / 86400000);
 }
 
 // === CARD HELPERS ===
@@ -160,25 +247,373 @@ function getAllCards() {
 }
 
 function getTodayCards() {
-  const todayKey = new Date().toISOString().split('T')[0];
+  const todayKey = todayStr();
   if (vocabulary[todayKey] && vocabulary[todayKey].length > 0) return vocabulary[todayKey];
-  // Fall back to most recent date's vocab
   const dates = Object.keys(vocabulary).filter(k => /^\d{4}-\d{2}-\d{2}$/.test(k)).sort();
   if (dates.length > 0) return vocabulary[dates[dates.length - 1]] || [];
   return [];
-}
-
-function getWeakCards() {
-  return getAllCards().sort((a, b) => {
-    const pA = getWordProgress(a), pB = getWordProgress(b);
-    return (pA.correct - pA.incorrect * 2) - (pB.correct - pB.incorrect * 2);
-  });
 }
 
 function getCardText(card, lang) {
   if (lang === 'pt') return card.pt;
   if (lang === 'en') return card.en || card.de;
   return card.de;
+}
+
+// === LEITNER REVIEW QUEUE ===
+
+function getDueCards() {
+  const today = todayStr();
+  return getAllCards().filter(card => {
+    const p = getWordProgress(card);
+    if (p.box === 0) return false; // unseen
+    if (!p.nextReview) return false;
+    return p.nextReview <= today;
+  }).sort((a, b) => {
+    // Sort by box ascending (Box 1 first)
+    return (getBox(a)) - (getBox(b));
+  });
+}
+
+function getNewCards() {
+  const todayCards = getTodayCards();
+  return todayCards.filter(card => {
+    const p = getWordProgress(card);
+    return p.box === 0 || !progress[getWordKey(card)];
+  });
+}
+
+function getBoxCounts() {
+  const counts = [0, 0, 0, 0, 0, 0]; // index 0 = unseen, 1-5 = boxes
+  const dueCounts = [0, 0, 0, 0, 0, 0];
+  const today = todayStr();
+  const all = getAllCards();
+
+  for (const card of all) {
+    const p = getWordProgress(card);
+    const box = p.box || 0;
+    counts[box]++;
+    if (box > 0 && p.nextReview && p.nextReview <= today) {
+      dueCounts[box]++;
+    }
+  }
+  return { counts, dueCounts };
+}
+
+// === HOME SCREEN RENDERING ===
+
+function renderHome() {
+  const { counts, dueCounts } = getBoxCounts();
+  const totalDue = dueCounts.slice(1).reduce((a, b) => a + b, 0);
+  const newCards = getNewCards();
+
+  // Due banner
+  const banner = document.getElementById('dueBanner');
+  if (totalDue > 0) {
+    banner.classList.remove('hidden');
+    document.getElementById('dueBannerCount').textContent = totalDue;
+    const parts = [];
+    for (let b = 1; b <= 5; b++) {
+      if (dueCounts[b] > 0) parts.push(`${BOX_DOTS[b]} ${dueCounts[b]}`);
+    }
+    document.getElementById('dueBannerBreakdown').textContent = parts.join(' · ');
+  } else {
+    banner.classList.add('hidden');
+  }
+
+  // Box stack
+  const stack = document.getElementById('boxStack');
+  let html = '';
+  for (let b = 1; b <= 5; b++) {
+    const due = dueCounts[b];
+    html += `
+      <div class="box-row ${BOX_CSS_CLASSES[b]}" onclick="startReviewForBox(${b})">
+        <div class="box-row-info">
+          <div class="box-row-name">${BOX_DOTS[b]} ${BOX_NAMES[b]}</div>
+          <div class="box-row-interval">${BOX_INTERVAL_LABELS[b]}</div>
+        </div>
+        <div class="box-row-right">
+          <div class="box-row-count">${counts[b]}</div>
+          <div class="box-row-due ${due === 0 ? 'zero' : ''}">${due > 0 ? due + ' due' : 'no due'}</div>
+        </div>
+      </div>
+    `;
+  }
+  stack.innerHTML = html;
+
+  // New words section
+  const newSection = document.getElementById('newWordsSection');
+  if (newCards.length > 0) {
+    newSection.style.display = '';
+    document.getElementById('newWordsCount').textContent = newCards.length;
+    const todayCards = getTodayCards();
+    const dates = Object.keys(vocabulary).filter(k => /^\d{4}-\d{2}-\d{2}$/.test(k)).sort();
+    const latestDate = dates.length > 0 ? dates[dates.length - 1] : todayStr();
+    document.getElementById('newWordsDate').textContent = `from ${latestDate}`;
+  } else {
+    newSection.style.display = 'none';
+  }
+
+  // Action buttons
+  document.getElementById('btnReviewCount').textContent = totalDue;
+  document.getElementById('btnLearnCount').textContent = newCards.length;
+  document.getElementById('btnStartReview').disabled = totalDue === 0;
+  document.getElementById('btnLearnNew').disabled = newCards.length === 0;
+}
+
+function startReviewForBox(boxNum) {
+  const today = todayStr();
+  currentCards = getAllCards().filter(card => {
+    const p = getWordProgress(card);
+    return p.box === boxNum && p.nextReview && p.nextReview <= today;
+  }).sort((a, b) => getBox(a) - getBox(b));
+
+  if (currentCards.length === 0) return;
+
+  sessionMode = 'review';
+  startSession();
+}
+
+function startReviewSession() {
+  currentCards = getDueCards();
+  if (currentCards.length === 0) return;
+  sessionMode = 'review';
+  startSession();
+}
+
+function startLearnNewSession() {
+  currentCards = getNewCards();
+  if (currentCards.length === 0) return;
+  sessionMode = 'learn';
+  startSession();
+}
+
+function startSession() {
+  if (document.getElementById('shuffleMode').checked) shuffle(currentCards);
+  currentIndex = 0;
+  correctCount = 0;
+  streak = 0;
+  sessionPromoted = 0;
+  sessionDemoted = 0;
+  sessionStayed = 0;
+  isFlipped = false;
+
+  document.getElementById('homeTab').classList.add('hidden');
+  document.getElementById('completeScreen').classList.add('hidden');
+  document.getElementById('reviewScreen').classList.remove('hidden');
+  document.querySelector('.tabs').style.display = 'none';
+  document.querySelector('.news-btn').style.display = 'none';
+
+  showCard();
+}
+
+// === REVIEW LOGIC ===
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function showCard() {
+  if (currentIndex >= currentCards.length) { showComplete(); return; }
+
+  const card = document.getElementById('flashcard');
+  card.classList.remove('flipped', 'animate-correct', 'animate-wrong');
+  isFlipped = false;
+  showCardContent();
+  updateStats();
+  updateAnswerHint();
+}
+
+function showCardContent() {
+  if (currentIndex >= currentCards.length) return;
+  const card = currentCards[currentIndex];
+  const box = getBox(card);
+  const displayBox = box === 0 ? 1 : box; // New words show as Box 1
+
+  // Box badge
+  const badge = document.getElementById('frontBoxBadge');
+  if (sessionMode === 'learn') {
+    badge.textContent = '📖 New';
+  } else {
+    badge.textContent = `${BOX_DOTS[displayBox]} Box ${displayBox}`;
+  }
+
+  document.getElementById('frontLang').textContent = langLabels[frontLang];
+  document.getElementById('frontWord').textContent = getCardText(card, frontLang);
+  document.getElementById('backLang').textContent = langLabels[backLang];
+  document.getElementById('backWord').textContent = getCardText(card, backLang);
+  document.getElementById('exampleText').textContent = card.example ? `"${card.example}"` : '';
+
+  const exampleTrans = backLang === 'en' ? card.example_en : card.example_de;
+  document.getElementById('exampleTranslation').textContent = exampleTrans ? `(${exampleTrans})` : '';
+}
+
+function updateAnswerHint() {
+  if (currentIndex >= currentCards.length) return;
+  const card = currentCards[currentIndex];
+  const box = getBox(card);
+
+  const hint = document.getElementById('answerHint');
+  if (sessionMode === 'learn') {
+    hint.textContent = '✓ enters 🔴 Box 1 · ✗ stays new';
+    return;
+  }
+
+  if (box === 5) {
+    hint.textContent = '✓ stays in 🔵 Box 5 (mastered) · ✗ back to 🔴 Box 1';
+  } else if (box === 1) {
+    hint.textContent = `✓ promotes to ${BOX_DOTS[2]} Box 2 · ✗ stays in ${BOX_DOTS[1]} Box 1`;
+  } else {
+    const nextBox = box + 1;
+    hint.textContent = `✓ promotes to ${BOX_DOTS[nextBox]} Box ${nextBox} · ✗ back to ${BOX_DOTS[1]} Box 1`;
+  }
+}
+
+function flipCard() {
+  document.getElementById('flashcard').classList.toggle('flipped');
+  isFlipped = !isFlipped;
+}
+
+function markCard(known) {
+  const card = currentCards[currentIndex];
+  const p = getWordProgress(card);
+  const oldBox = p.box || 0;
+  const today = todayStr();
+
+  // Track history
+  if (!p.history) p.history = [];
+  p.history.push({ date: today, result: known ? 'correct' : 'wrong', box: oldBox });
+
+  if (known) {
+    correctCount++;
+    streak++;
+    p.correct = (p.correct || 0) + 1;
+
+    if (sessionMode === 'learn') {
+      // New word enters Box 1
+      p.box = 1;
+      p.nextReview = addDays(today, BOX_INTERVALS[1]);
+      sessionPromoted++; // entering the system counts as promoted
+    } else if (oldBox === 5) {
+      // Already mastered, stays in Box 5
+      p.box = 5;
+      p.nextReview = addDays(today, BOX_INTERVALS[5]);
+      sessionStayed++;
+    } else {
+      // Promote to next box
+      p.box = Math.min(oldBox + 1, 5);
+      p.nextReview = addDays(today, BOX_INTERVALS[p.box]);
+      if (p.box > oldBox) sessionPromoted++;
+      else sessionStayed++;
+    }
+  } else {
+    streak = 0;
+    p.incorrect = (p.incorrect || 0) + 1;
+
+    if (sessionMode === 'learn') {
+      // Failed a new word — stays new (box 0)
+      p.box = 0;
+      p.nextReview = today; // due immediately
+      // Don't count as demoted since it was never in a box
+    } else {
+      // Demote to Box 1
+      if (oldBox === 1) {
+        sessionStayed++; // already in box 1, stays
+      } else {
+        sessionDemoted++;
+      }
+      p.box = 1;
+      p.nextReview = addDays(today, BOX_INTERVALS[1]);
+    }
+  }
+
+  p.lastSeen = today;
+  saveProgress();
+  updateGlobalStats();
+
+  // Animate the card out
+  const cardEl = document.getElementById('flashcard');
+  const rot = isFlipped ? '180deg' : '0deg';
+  cardEl.style.setProperty('--rot', rot);
+  cardEl.classList.add(known ? 'animate-correct' : 'animate-wrong');
+
+  currentIndex++;
+  setTimeout(() => {
+    isFlipped = false;
+    showCard();
+  }, 400);
+}
+
+function updateStats() {
+  document.getElementById('progressLabel').textContent = `${currentIndex} / ${currentCards.length}`;
+  document.getElementById('streakLabel').textContent = `🔥 ${streak}`;
+  const pct = currentCards.length > 0 ? (currentIndex / currentCards.length) * 100 : 0;
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+function showComplete() {
+  document.getElementById('reviewScreen').classList.add('hidden');
+  document.getElementById('completeScreen').classList.remove('hidden');
+
+  document.getElementById('completeReviewed').textContent = currentCards.length;
+  document.getElementById('completePromoted').textContent = sessionPromoted;
+  document.getElementById('completeDemoted').textContent = sessionDemoted;
+  document.getElementById('completeStayed').textContent = sessionStayed;
+
+  // Next review info
+  const { dueCounts } = getBoxCounts();
+  const totalDue = dueCounts.slice(1).reduce((a, b) => a + b, 0);
+  if (totalDue > 0) {
+    document.getElementById('completeNext').textContent = `${totalDue} words still due for review`;
+  } else {
+    // Find next upcoming review
+    let nextDate = null;
+    for (const key in progress) {
+      const p = progress[key];
+      if (p.box > 0 && p.nextReview) {
+        if (!nextDate || p.nextReview < nextDate) nextDate = p.nextReview;
+      }
+    }
+    if (nextDate) {
+      const days = daysUntil(nextDate);
+      if (days <= 0) {
+        document.getElementById('completeNext').textContent = 'All caught up! Review again tomorrow.';
+      } else if (days === 1) {
+        document.getElementById('completeNext').textContent = 'Next review in 1 day';
+      } else {
+        document.getElementById('completeNext').textContent = `Next review in ${days} days`;
+      }
+    } else {
+      document.getElementById('completeNext').textContent = 'All caught up! 🎉';
+    }
+  }
+
+  // Streak
+  try {
+    const data = JSON.parse(localStorage.getItem('flashcards_streak') || '{}');
+    const days = data.days || 1;
+    document.getElementById('completeStreak').textContent = `🔥 ${days} day streak — keep it going!`;
+  } catch {
+    document.getElementById('completeStreak').textContent = '';
+  }
+}
+
+function exitReview() {
+  backToBoxes();
+}
+
+function backToBoxes() {
+  document.getElementById('reviewScreen').classList.add('hidden');
+  document.getElementById('completeScreen').classList.add('hidden');
+  document.getElementById('homeTab').classList.remove('hidden');
+  document.querySelector('.tabs').style.display = '';
+  if (newsData) document.getElementById('newsBtn').style.display = '';
+  renderHome();
+  updateGlobalStats();
 }
 
 // === LANGUAGE ===
@@ -227,11 +662,12 @@ function updateLastUpdateInfo() {
 
 // === TABS ===
 
-function showTab(tab) {
+function showTab(tab, btn) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  event.target.classList.add('active');
-  document.getElementById('practiceTab').classList.toggle('hidden', tab !== 'practice');
+  if (btn) btn.classList.add('active');
+  document.getElementById('homeTab').classList.toggle('hidden', tab !== 'home');
   document.getElementById('wordsTab').classList.toggle('hidden', tab !== 'words');
+  if (tab === 'home') renderHome();
   if (tab === 'words') renderWordList();
 }
 
@@ -239,7 +675,9 @@ function showTab(tab) {
 
 function renderWordList() {
   const html = getAllCards().map(card => {
-    const mastery = getMasteryLevel(card);
+    const box = getBox(card);
+    const boxLabel = box === 0 ? 'New' : `${BOX_DOTS[box]} B${box}`;
+    const boxClass = box === 0 ? 'box-0' : BOX_CSS_CLASSES[box];
     return `
       <div class="word-item">
         <div class="word-item-text">
@@ -247,151 +685,20 @@ function renderWordList() {
           <div class="word-item-de">${langFlags.de} ${card.de}</div>
           <div class="word-item-en">${langFlags.en} ${card.en || '-'}</div>
         </div>
-        <span class="word-item-mastery ${mastery.class}">${mastery.label}</span>
+        <span class="word-item-box ${boxClass}">${boxLabel}</span>
       </div>
     `;
   }).join('');
   document.getElementById('wordList').innerHTML = html;
 }
 
-// === QUIZ ===
-
-function loadDate() {
-  const mode = document.getElementById('dateSelect').value;
-  localStorage.setItem('flashcards_mode', mode);
-
-  if (mode === 'today') {
-    currentCards = getTodayCards();
-    if (currentCards.length === 0) currentCards = getAllCards().slice(0, 20);
-  } else if (mode === 'daily') {
-    currentCards = getAllCards().slice(0, 20);
-  } else if (mode === 'random10') {
-    currentCards = shuffle([...getAllCards()]).slice(0, 10);
-  } else if (mode === 'weak') {
-    currentCards = getWeakCards().slice(0, 20);
-  } else if (mode === 'all') {
-    currentCards = [...getAllCards()];
-  } else if (mode === 'manual') {
-    currentCards = [...(vocabulary['manual'] || [])];
-  } else {
-    currentCards = [...(vocabulary[mode] || [])];
-  }
-
-  restartQuiz();
-}
-
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-function restartQuiz() {
-  if (document.getElementById('shuffleMode').checked) shuffle(currentCards);
-  currentIndex = 0;
-  correctCount = 0;
-  streak = 0;
-  missedCards = [];
-  isFlipped = false;
-  document.getElementById('cardScreen').classList.remove('hidden');
-  document.getElementById('completeScreen').classList.add('hidden');
-  document.getElementById('reviewList').classList.add('hidden');
-  updateStats();
-  showCard();
-}
-
-function showCard() {
-  if (currentIndex >= currentCards.length) { showComplete(); return; }
-  document.getElementById('flashcard').classList.remove('flipped');
-  isFlipped = false;
-  showCardContent();
-  updateStats();
-}
-
-function showCardContent() {
-  if (currentIndex >= currentCards.length) return;
-  const card = currentCards[currentIndex];
-  const mastery = getMasteryLevel(card);
-
-  const masteryEl = document.getElementById('frontMastery');
-  masteryEl.textContent = mastery.label;
-  masteryEl.className = 'card-mastery ' + mastery.class;
-
-  document.getElementById('frontLang').textContent = langLabels[frontLang];
-  document.getElementById('frontWord').textContent = getCardText(card, frontLang);
-  document.getElementById('backLang').textContent = langLabels[backLang];
-  document.getElementById('backWord').textContent = getCardText(card, backLang);
-  document.getElementById('exampleText').textContent = card.example ? `"${card.example}"` : '';
-
-  const exampleTrans = backLang === 'en' ? card.example_en : card.example_de;
-  document.getElementById('exampleTranslation').textContent = exampleTrans ? `(${exampleTrans})` : '';
-}
-
-function flipCard() {
-  document.getElementById('flashcard').classList.toggle('flipped');
-  isFlipped = !isFlipped;
-}
-
-function markCard(known) {
-  const card = currentCards[currentIndex];
-  const p = getWordProgress(card);
-
-  if (known) { correctCount++; streak++; p.correct++; }
-  else { streak = 0; p.incorrect++; missedCards.push(card); }
-
-  p.lastSeen = Date.now();
-  saveProgress();
-  updateGlobalStats();
-  currentIndex++;
-  document.getElementById('flashcard').classList.remove('flipped');
-  isFlipped = false;
-  setTimeout(showCard, 300);
-}
-
-function updateStats() {
-  document.getElementById('progressLabel').textContent = `${currentIndex} / ${currentCards.length}`;
-  document.getElementById('streakLabel').textContent = `🔥 ${streak}`;
-  const pct = currentCards.length > 0 ? (currentIndex / currentCards.length) * 100 : 0;
-  document.getElementById('progressFill').style.width = pct + '%';
-}
-
-function showComplete() {
-  document.getElementById('cardScreen').classList.add('hidden');
-  document.getElementById('completeScreen').classList.remove('hidden');
-  const pct = Math.round((correctCount / currentCards.length) * 100);
-  document.getElementById('finalScore').textContent = pct + '%';
-  const msg = pct === 100 ? '🌟 Perfect!' : pct >= 80 ? '💪 Great!' : pct >= 60 ? '👍 Good!' : '📚 Keep going!';
-  document.getElementById('finalMessage').textContent = msg;
-  updateGlobalStats();
-}
-
-function reviewMissed() {
-  const list = document.getElementById('reviewList');
-  const items = document.getElementById('reviewItems');
-
-  if (missedCards.length === 0) {
-    items.innerHTML = '<p style="color:#4ade80">No missed words! 🎉</p>';
-  } else {
-    items.innerHTML = missedCards.map(card => `
-      <div class="review-item">
-        <strong>${langFlags.pt} ${card.pt}</strong><br>
-        <span style="color:#aaa">${langFlags.de} ${card.de}</span><br>
-        <span style="color:#aaa">${langFlags.en} ${card.en || '-'}</span><br>
-        <small style="color:#666">${card.example ? `"${card.example}"` : ''}</small>
-      </div>
-    `).join('');
-  }
-  list.classList.toggle('hidden');
-}
-
 // === GLOBAL STATS ===
 
 function updateGlobalStats() {
   const all = getAllCards();
-  const mastered = all.filter(c => getMasteryLevel(c).level === 'mastered').length;
-  document.getElementById('totalMastered').textContent = mastered;
+  const { counts } = getBoxCounts();
+  // Mastered = Box 5
+  document.getElementById('totalMastered').textContent = counts[5];
   document.getElementById('totalWords').textContent = all.length;
   try {
     const data = JSON.parse(localStorage.getItem('flashcards_streak') || '{}');
@@ -424,14 +731,31 @@ function importProgress(event) {
       if (!data.progress) { alert('Invalid file'); return; }
       if (confirm('Import backup? This will merge with current progress.')) {
         for (const key in data.progress) {
-          if (!progress[key]) progress[key] = data.progress[key];
-          else {
+          if (!progress[key]) {
+            progress[key] = data.progress[key];
+          } else {
+            // Merge: take the higher box, keep correct/incorrect maxes
             progress[key].correct = Math.max(progress[key].correct || 0, data.progress[key].correct || 0);
-            progress[key].incorrect = Math.min(progress[key].incorrect || 0, data.progress[key].incorrect || 0);
+            progress[key].incorrect = Math.max(progress[key].incorrect || 0, data.progress[key].incorrect || 0);
+            const importBox = data.progress[key].box || 0;
+            const localBox = progress[key].box || 0;
+            progress[key].box = Math.max(importBox, localBox);
+            // Take the later nextReview
+            if (data.progress[key].nextReview && (!progress[key].nextReview || data.progress[key].nextReview > progress[key].nextReview)) {
+              progress[key].nextReview = data.progress[key].nextReview;
+            }
+            if (data.progress[key].lastSeen && (!progress[key].lastSeen || data.progress[key].lastSeen > progress[key].lastSeen)) {
+              progress[key].lastSeen = data.progress[key].lastSeen;
+            }
+            // Merge history
+            const localHist = progress[key].history || [];
+            const importHist = data.progress[key].history || [];
+            progress[key].history = localHist.concat(importHist).slice(-50);
           }
         }
         saveProgress();
         updateGlobalStats();
+        renderHome();
         alert('Imported! 🎉');
       }
     } catch (err) { alert('Error: ' + err.message); }
@@ -441,12 +765,12 @@ function importProgress(event) {
 }
 
 function resetProgress() {
-  if (confirm('Reset all progress? Cannot be undone!')) {
+  if (confirm('Reset all progress? This will clear all box assignments and history!')) {
     localStorage.removeItem('flashcards_progress');
     localStorage.removeItem('flashcards_streak');
     progress = {};
     updateGlobalStats();
-    restartQuiz();
+    renderHome();
     toggleSettings();
   }
 }
@@ -454,7 +778,6 @@ function resetProgress() {
 // === NEWS READER ===
 
 async function checkNewsForDate(dateStr) {
-  // Try today first, then fall back up to 7 days
   for (let i = 0; i < 7; i++) {
     const d = new Date(dateStr);
     d.setDate(d.getDate() - i);
@@ -524,7 +847,6 @@ async function init() {
     vocabulary = await response.json();
   } catch (e) {
     console.error('Failed to load vocabulary:', e);
-    // Offline fallback: try service worker cache
     try {
       const cache = await caches.open('pt-vocab-v5');
       const cached = await cache.match('data/vocab.json');
@@ -543,23 +865,10 @@ async function init() {
   initLangSelectors();
   updateGlobalStats();
 
-  const today = new Date().toISOString().split('T')[0];
+  const today = todayStr();
   checkNewsForDate(today);
 
-  const select = document.getElementById('dateSelect');
-  const dates = Object.keys(vocabulary)
-    .filter(k => k !== 'manual' && /^\d{4}-\d{2}-\d{2}$/.test(k))
-    .sort((a, b) => b.localeCompare(a));
-
-  dates.forEach(d => {
-    const opt = document.createElement('option');
-    opt.value = d;
-    opt.textContent = `📰 ${d}`;
-    select.appendChild(opt);
-  });
-
-  if (vocabulary[today]) select.value = 'today';
-  loadDate();
+  renderHome();
 }
 
 init();
