@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Sobe para 472 o número de mortos na fronteira Nepal-Tibete",
+          "text": "Pelo menos 472 pessoas morreram na sequência da enxurrada devastadora registada na fronteira entre o Nepal e o Tibete. As autoridades nepalesas divulgaram o balanço provisório hoje."
+        },
+        {
+          "headline": "Nepal: Equipas tentam salvar mais de 100 trabalhadores presos em túnel",
+          "text": "Equipas de socorro continuam as operações de salvamento para tentar resgatar mais de 100 trabalhadores que ficaram presos num túnel devido à enxurrada."
+        },
+        {
+          "headline": "Milagre no Nepal: Idosa retirada com vida após ficar soterrada pela lama",
+          "text": "Uma idosa foi retirada com vida após ficar soterrada pela lama das inundações. O resgate foi considerado um verdadeiro milagre pelas equipas de socorro no terreno."
+        },
+        {
+          "headline": "Larápios roubam um dos mais valiosos tesouros da Europa",
+          "text": "O Tesouro de Villena, uma das mais importantes coleções de ourivesaria da Idade do Bronze na Europa, foi roubado durante a madrugada de um museu em Villena, na província espanhola de Alicante. O assalto foi cometido por três pessoas encapuzadas."
+        },
+        {
+          "headline": "Leste de Cuba regista apagão de grande dimensão",
+          "text": "A região leste de Cuba registou um apagão de grande dimensão, afetando milhões de pessoas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "REGIÃO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Final feliz em Condeixa: 2 póneis desaparecidos já foram encontrados",
+          "text": "Dois póneis que tinham desaparecido na zona de Anobra, no concelho de Condeixa-a-Nova, já foram localizados. A vedação do espaço onde se encontravam tinha sido destruída."
+        },
+        {
+          "headline": "Um mundo cor-de-rosa: Mãe e filha criam espaço de beleza \"instagramável\" em Coimbra",
+          "text": "Cherrying Beauty é o novo espaço dedicado à beleza em Coimbra, criado por Adriana Matias, maquilhadora há uma década, e pela filha Daniela Saltão, criadora de conteúdos e fundadora da marca de maquilhagem Cherrying."
+        },
+        {
+          "headline": "Coimbra prepara-se para dois dias de música com o Festival Les Siestes",
+          "text": "O Festival Les Siestes regressa a Coimbra nesta sexta-feira e sábado, 28 e 29 de agosto, para a sua 7.ª edição, com dois dias de música no Jardim da Sereia. Entrada gratuita, com concertos e DJ sets entre as 18h00 e a madrugada."
+        },
+        {
+          "headline": "Coimbra vai ficar sem luz este domingo",
+          "text": "A E-Redes tem programadas mais de 100 interrupções no fornecimento de eletricidade para este domingo, 30 de agosto, em vários pontos do país, incluindo localidades dos distritos de Coimbra, Leiria, Lisboa, Viseu, Beja e Setúbal."
+        },
+        {
+          "headline": "Setembro traz oficinas, histórias e criatividade para as crianças em Coimbra",
+          "text": "A Biblioteca Infantil de Coimbra e as Bibliotecas Anexas Municipais promovem durante setembro atividades para o público infantil, incluindo oficinas criativas, promoção da leitura e ocupação dos tempos livres nas férias escolares."
+        },
+        {
+          "headline": "Há um mês que ninguém sabe de Pedro Paiva",
+          "text": "Pedro Paiva, de 63 anos, está desaparecido desde 22 de julho, depois de ter saído de bicicleta da Figueira da Foz em direção a Montemor-o-Velho. Antigo jogador de basquetebol, o telemóvel deixou de dar sinais de atividade."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Burlões dos \"falsos acidentes\" já roubaram 72.540 euros este ano",
+          "text": "Na primeira metade de 2026, as burlas por falsos acidentes causaram um prejuízo acumulado de 72.540 euros às vítimas, perto do valor total de 2025. A GNR alertou para a crescente sofisticação da simulação de acidentes de viação."
+        },
+        {
+          "headline": "Diretor da PJ nega ter mentido em tribunal",
+          "text": "O diretor nacional da Polícia Judiciária, Carlos Cabreiro, mantém todas as declarações feitas em tribunal no âmbito do processo Football Leaks, depois de ter sido acusado de mentir sobre a realização de escutas não autorizadas."
+        },
+        {
+          "headline": "Polícia ferido durante assalto depois de resistir e perseguir suspeitos",
+          "text": "Um polícia ficou ferido durante um assalto depois de resistir e perseguir os suspeitos. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Encapuzados atacam dono de casa de penhores e fogem com ouro",
+          "text": "Indivíduos encapuzados atacaram o dono de uma casa de penhores e fugiram com ouro. O assalto ocorreu recentemente e está a ser investigado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Técnicos do INEM avançam para greve em setembro",
+          "text": "A greve de setembro dos técnicos de emergência pré-hospitalar vai manter-se, anunciou o presidente do sindicato STEP. A greve está marcada para 14 e 28 de setembro, embora tenha havido uma aproximação de posições com o Ministério da Saúde."
+        },
+        {
+          "headline": "Programa de rastreio gratuito à tiroide antecede Congresso Internacional",
+          "text": "Um programa de rastreio gratuito à tiroide antecede um Congresso Internacional sobre a temática, promovendo a deteção precoce de doenças da tiroide."
+        },
+        {
+          "headline": "Foi picado por uma vespa asiática? Este gesto pode ser fatal",
+          "text": "As autoridades de saúde alertam para os perigos das picadas de vespa asiática e os gestos que podem ser fatais em caso de reação alérgica."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis anunciados para venda em Portugal mantém-se nos 430.000 euros. No entanto, a região Centro lidera a subida dos preços de venda com +14,6% num ano, enquanto no arrendamento é o Norte que mais cresce, com +20%."
+        },
+        {
+          "headline": "Valor das rendas aumentou nas cidades após colocações no ensino superior",
+          "text": "O valor das rendas aumentou em várias cidades após as colocações no ensino superior, refletindo a procura crescente por quartos estudantis."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Governo reconhece fogos de Vouzela e Valpaços como catástrofe natural",
+          "text": "O Governo reconheceu os incêndios rurais de Vouzela e Valpaços como catástrofe natural e destinou dez milhões de euros para as explorações agrícolas afetadas. Nenhum apoio consegue repor uma vinha velha ou um olival centenário."
+        },
+        {
+          "headline": "PM reitera confiança no ministro da Administração Interna",
+          "text": "O primeiro-ministro reiterou confiança no ministro da Administração Interna, referindo que faz trabalho de elevadíssima qualidade e competência."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Benfica vence Aarhus e garante presença na Liga Europa",
+          "text": "O Benfica garantiu presença na fase de liga da Liga Europa ao vencer o Aarhus por 3-1 na Dinamarca. Prestianni, com um bis, e Rafa foram os marcadores dos encarnados."
+        },
+        {
+          "headline": "Sorteio pouco amigável para o Sporting na Liga dos Campeões",
+          "text": "O Sporting enfrentou um sorteio complicado na Liga dos Campeões, com adversários difíceis no seu grupo."
+        },
+        {
+          "headline": "Bernardo Pereira sagra-se campeão europeu de canoagem de mar",
+          "text": "Bernardo Pereira sagrou-se campeão europeu absoluto e sub-23 de canoagem de mar, conquistando o título europeu na modalidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎤",
+      "category": "FAMA & CULTURA",
+      "stories": [
+        {
+          "headline": "15 anos depois, a voz de Cesária Évora regressa com novo álbum",
+          "text": "A Sony Music revelou Reina da Morna, um novo álbum de gravações inéditas de Cesária Évora, 15 anos após a sua morte."
+        },
+        {
+          "headline": "Sofia Escobar e Diogo Morgado dão vida ao musical Evita",
+          "text": "Os atores Sofia Escobar e Diogo Morgado protagonizam o musical Evita, que chega a Portugal em breve."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "100 km/h nas autoestradas? A proposta que está a dar que falar",
+          "text": "Uma proposta para limitar a velocidade nas autoestradas a 100 km/h está a gerir grande debate em Portugal."
+        },
+        {
+          "headline": "Táxis vão poder trabalhar como TVDE",
+          "text": "Nova legislação permite que os táxis possam também trabalhar como TVDE, alterando as regras do setor."
+        }
+      ]
+    }
+  ]
+}
