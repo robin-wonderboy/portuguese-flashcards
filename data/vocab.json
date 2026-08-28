@@ -25025,5 +25025,87 @@
       "example_de": "Palhinha wechselte endgültig vom Bayern zu Benfica",
       "example_en": "Palhinha transferred permanently from Bayern to Benfica"
     }
+  ],
+  "2026-08-28": [
+    {
+      "pt": "soterrar",
+      "de": "verschütten / begraben",
+      "en": "to bury under rubble",
+      "example": "A idosa foi retirada com vida após ficar soterrada pela lama",
+      "example_de": "Die alte Frau wurde lebendig befreit, nachdem sie unter Schlamm begraben war",
+      "example_en": "The elderly woman was rescued alive after being buried under mud"
+    },
+    {
+      "pt": "a sofisticação",
+      "de": "die Raffinesse",
+      "en": "sophistication",
+      "example": "A GNR alertou para a crescente sofisticação da simulação de acidentes",
+      "example_de": "Die GNR warnte vor der zunehmenden Raffinesse bei simulierten Unfällen",
+      "example_en": "The GNR warned about the growing sophistication in simulated accidents"
+    },
+    {
+      "pt": "a elevação",
+      "de": "die Erhebung / Erhöhung",
+      "en": "elevation / upgrading (to city status)",
+      "example": "Oliveira do Bairro assinalou o 23.º aniversário da elevação a cidade",
+      "example_de": "Oliveira do Bairro feierte den 23. Jahrestag der Erhebung zur Stadt",
+      "example_en": "Oliveira do Bairro marked the 23rd anniversary of being elevated to city status"
+    },
+    {
+      "pt": "sagar-se",
+      "de": "sich krönen / sich erheben",
+      "en": "to be crowned / become champion",
+      "example": "Bernardo Pereira sagra-se campeão europeu absoluto de canoagem",
+      "example_de": "Bernardo Pereira krönt sich zum absoluten Europameister im Kanufahren",
+      "example_en": "Bernardo Pereira crowns himself absolute European canoeing champion"
+    },
+    {
+      "pt": "o tiroide",
+      "de": "die Schilddrüse",
+      "en": "thyroid",
+      "example": "Há um programa de rastreio gratuito à tiroide",
+      "example_de": "Es gibt ein kostenloses Schilddrüsen-Screening-Programm",
+      "example_en": "There is a free thyroid screening program"
+    },
+    {
+      "pt": "a penhores",
+      "de": "das Pfandleihhaus",
+      "en": "pawnshop",
+      "example": "Encapuzados atacam dono de casa de penhores e fogem com ouro",
+      "example_de": "Vermummte greifen den Besitzer eines Pfandleihhauses an und fliehen mit Gold",
+      "example_en": "Hooded individuals attack pawnshop owner and flee with gold"
+    },
+    {
+      "pt": "o ceboleiro",
+      "de": "der Zwiebelverkäufer",
+      "en": "onion seller (traditional)",
+      "example": "Onde andam os ceboleiros de Coimbra",
+      "example_de": "Wo sind die Zwiebelverkäufer von Coimbra",
+      "example_en": "Where are the onion sellers of Coimbra"
+    },
+    {
+      "pt": "o olival",
+      "de": "der Olivenhain",
+      "en": "olive grove",
+      "example": "Nenhum apoio consegue repor um olival centenário",
+      "example_de": "Keine Unterstützung kann einen jahrhundertealten Olivenhain ersetzen",
+      "example_en": "No support can replace a centuries-old olive grove"
+    },
+    {
+      "pt": "a autoestima",
+      "de": "das Selbstbewusstsein / Selbstwertgefühl",
+      "en": "self-esteem",
+      "example": "Petição quer dar ânimo e autoestima a José Manuel Silva",
+      "example_de": "Petition will José Manuel Silva Mut und Selbstbewusstsein geben",
+      "example_en": "Petition aims to give courage and self-esteem to José Manuel Silva"
+    },
+    {
+      "pt": "o Vigor",
+      "de": "die Tatkraft / Schwungkraft",
+      "en": "vigor / energy",
+      "example": "Petição quer dar ânimo, autoestima e vigor",
+      "example_de": "Petition will Mut, Selbstbewusstsein und Tatkraft geben",
+      "example_en": "Petition aims to give courage, self-esteem and vigor"
+    }
   ]
 }
