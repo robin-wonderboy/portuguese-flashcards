@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚧",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Tabuleiro inferior da Ponte Açude reabre ao trânsito",
+          "text": "A circulação rodoviária no tabuleiro inferior da Ponte Açude em Coimbra reabriu após estar cortada desde o início de agosto. O condicionamento deveu-se à empreitada de construção do troço Portagem-Coimbra-B do Metrobus, promovida pela Infraestruturas de Portugal."
+        },
+        {
+          "headline": "Rua da Sofia pode receber autocarros turísticos",
+          "text": "A Rua da Sofia poderá ganhar uma nova atração além do Metrobus: os autocarros turísticos. A integração na faixa BUS permitiria que turistas apanhem boleia nos autocarros turísticos que passam pela zona."
+        },
+        {
+          "headline": "Largo da Portagem tem mais batimentos por minuto",
+          "text": ""
+        },
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis anunciados para venda em Portugal mantém-se nos 430.000 euros em agosto. No entanto, o Centro lidera a subida dos preços de venda com +14.6% num ano, enquanto Coimbra especificamente registou um aumento de 17%."
+        },
+        {
+          "headline": "\"Cheguei a Coimbra. E agora?\" Guia para novos universitários",
+          "text": "Com o início do ano letivo a aproximar-se, chega um guia essencial para quem começa a vida universitária em Coimbra. A cidade prepara-se para receber milhares de novos estudantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "INCIDENTES & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Incêndio na Figueira da Foz deixa pai e duas crianças feridas",
+          "text": "Um incêndio num quarto de apartamento no Largo de São João do Vale, na Figueira da Foz, provocou três feridos ligeiros. As vítimas são um homem e duas crianças de cinco e sete anos, transportadas para o hospital por precaução."
+        },
+        {
+          "headline": "Militar da Marinha salva menina em paragem cardiorrespiratória",
+          "text": "Uma militar da Marinha Portuguesa interveio para socorrer uma menina de dois anos que entrou em paragem cardiorrespiratória após dificuldades numa praia. A Primeiro-Tenente Dália Ribeiro iniciou manobras de reanimação, contribuindo para a recuperação dos sinais vitais."
+        },
+        {
+          "headline": "Fogem da PSP em mota roubada e acabam a colidir contra um muro",
+          "text": "Uma perseguição policial terminou com a detenção de dois homens no Lumiar, em Lisboa. Os suspeitos seguiam numa mota roubada e tentaram escapar à PSP após receberem ordem de paragem. A mota acabou por colidir contra um muro."
+        },
+        {
+          "headline": "Discussão por causa de gelados acaba com dono de café no hospital",
+          "text": "O proprietário de um café no centro de Caminha ficou ferido depois de ser agredido por dois jovens. O dono surpreendeu os jovens a mexer numa arca de gelados, dando origem a uma discussão que acabou em agressão."
+        },
+        {
+          "headline": "Família de Odair exige prisão efetiva para agente da PSP",
+          "text": "A família de Odair Moniz, morto a tiro por um agente da PSP, recorreu da pena suspensa aplicada ao polícia. Pedem prisão efetiva, suspensão de funções na PSP e indemnizações mais elevadas."
+        },
+        {
+          "headline": "Tribunal Constitucional aprova decreto sobre asilo e retorno de estrangeiros",
+          "text": "O Tribunal Constitucional considerou constitucionais as normas do diploma que altera a concessão de asilo e retorno de estrangeiros. A decisão foi tomada por unanimidade após fiscalização preventiva do Presidente da República."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festa com 600 anos toma conta de Montemor-o-Velho durante 11 dias",
+          "text": "Montemor-o-Velho prepara-se para uma festa histórica que dura 11 dias e começa já no sábado. Uma tradição com séculos de história que regressa para animar a vila."
+        },
+        {
+          "headline": "\"Dão de Portas Abertas\" oferece experiências vínicas em oito quintas",
+          "text": "O evento regressa com experiências vínicas em oito quintas da região do Dão. Uma oportunidade para descobrir os vinhos da região diretamente dos produtores."
+        },
+        {
+          "headline": "Camiões, drift e música: festival fora do normal em Tábua",
+          "text": "Tábua recebe este fim de semana um festival que combina camiões, drift e música. Um evento fora do normal que promete animar a região."
+        },
+        {
+          "headline": "Festival do Azeite inspira artistas de 11 países em Almalaguês",
+          "text": "O azeite inspira um festival com artistas de 11 países e música ao vivo em Almalaguês. Um evento que celebra um dos produtos mais emblemáticos da gastronomia portuguesa."
+        },
+        {
+          "headline": "Sardinhas na telha e batatas assadas na areia na Tocha",
+          "text": "A Tocha recebe um festival onde se podem provar sardinhas na telha e batatas assadas na areia. Uma celebração das tradições gastronómicas da região costeira."
+        },
+        {
+          "headline": "Pão e petiscos em Seixo da Beira",
+          "text": "Seixo da Beira tem este fim de semana um programa dedicado a pão e petiscos. Uma viagem pelos sabores tradicionais da Beira."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Líder do Chega reconhece que segurança passou a ser prioritária em Coimbra",
+          "text": "André Ventura abordou a questão da insegurança antes de uma visita a uma instituição de solidariedade social. O tema da segurança, ou da falta dela, continua a marcar a prioridade dos discursos do líder do Chega."
+        },
+        {
+          "headline": "Trabalhadores da hotelaria saem à rua na Figueira da Foz",
+          "text": "O Sindicato de Hotelaria do Centro exigiu a revisão da contratação coletiva, incluindo salários mais justos. A ação de luta e protesto realizou-se na Figueira da Foz."
+        },
+        {
+          "headline": "Pombal junta-se à candidatura de Leiria a Capital Portuguesa da Cultura 2028",
+          "text": ""
+        },
+        {
+          "headline": "Ana sobreviveu ao inferno: baleada e esfaqueada grávida, agora pede uma casa digna",
+          "text": "Ana Cláudia Ferreira sobreviveu a um incêndio com um ano, passou por maus-tratos na infância e aos 19 foi baleada e esfaqueada grávida. Agora pede uma coisa: uma casa digna para os filhos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏀",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Portugal com histórica vitória em Espanha na corrida ao Mundial de basquetebol",
+          "text": "A seleção portuguesa de basquetebol venceu pela primeira vez a Espanha em jogos oficiais, por 95-89 em Saragoça. A formação das quinas entrou da melhor forma no Grupo I da segunda fase de qualificação para o Mundial de 2027."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "MÚSICA",
+      "stories": [
+        {
+          "headline": "15 anos depois, a voz de Cesária Évora regressa com novo álbum",
+          "text": "A Sony Music revela \"Reina da Morna\", um novo álbum de gravações inéditas de Cesária Évora. O Cabo Verde continua a celebrar a sua cantora mais emblemática."
+        },
+        {
+          "headline": "MARO interpreta Sauvignon Blanc para celebrar 5 anos dos Spotify Singles",
+          "text": "MARO é a primeira artista portuguesa a fazer parte da iniciativa Spotify Singles, interpretando \"Sauvignon Blanc\" para celebrar os 5 anos do projeto."
+        },
+        {
+          "headline": "Xico Gaiato estreia-se nos álbuns com \"A Cada Passo Que Dou\"",
+          "text": ""
+        },
+        {
+          "headline": "Faro transforma-se em palco gigante: Festival F traz 67 concertos",
+          "text": "O Festival F traz 67 concertos em três dias a Faro, transformando a cidade num palco gigante de música e cultura."
+        }
+      ]
+    }
+  ]
+}
