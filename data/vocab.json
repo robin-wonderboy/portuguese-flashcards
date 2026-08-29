@@ -25107,5 +25107,151 @@
       "example_de": "Petition will Mut, Selbstbewusstsein und Tatkraft geben",
       "example_en": "Petition aims to give courage, self-esteem and vigor"
     }
+  ],
+  "2026-08-29": [
+    {
+      "pt": "a circulação rodoviária",
+      "de": "der Straßenverkehr",
+      "en": "road traffic",
+      "example": "A circulação rodoviária no tabuleiro inferior esteve cortada.",
+      "example_de": "Der Straßenverkehr auf der unteren Ebene war gesperrt.",
+      "example_en": "Road traffic on the lower deck was closed."
+    },
+    {
+      "pt": "precaução",
+      "de": "Vorsicht",
+      "en": "precaution",
+      "example": "Os três foram transportados para o hospital por precaução.",
+      "example_de": "Die drei wurden zur Vorsicht ins Krankenhaus gebracht.",
+      "example_en": "The three were taken to hospital as a precaution."
+    },
+    {
+      "pt": "a recuperação",
+      "de": "die Erholung",
+      "en": "recovery",
+      "example": "Contribuiu para a recuperação dos sinais vitais.",
+      "example_de": "Trug zur Erholung der Vitalwerte bei.",
+      "example_en": "Contributed to the recovery of vital signs."
+    },
+    {
+      "pt": "a patrulha",
+      "de": "die Streife",
+      "en": "the patrol",
+      "example": "Uma patrulha detetou o veículo em excesso de velocidade.",
+      "example_de": "Eine Streife entdeckte das Fahrzeug mit überhöhter Geschwindigkeit.",
+      "example_en": "A patrol detected the vehicle speeding."
+    },
+    {
+      "pt": "anunciar",
+      "de": "ankündigen/bekanntgeben",
+      "en": "to announce",
+      "example": "O preço médio dos imóveis anunciados mantém-se.",
+      "example_de": "Der Durchschnittspreis der angebotenen Immobilien bleibt gleich.",
+      "example_en": "The average price of listed properties remains."
+    },
+    {
+      "pt": "distinto",
+      "de": "unterschiedlich",
+      "en": "distinct/different",
+      "example": "O barómetro revela evoluções muito distintas entre regiões.",
+      "example_de": "Der Bericht zeigt sehr unterschiedliche Entwicklungen zwischen den Regionen.",
+      "example_en": "The report reveals very distinct developments between regions."
+    },
+    {
+      "pt": "a arca",
+      "de": "die Truhe/Kühlvitrine",
+      "en": "the chest/freezer cabinet",
+      "example": "Os jovens mexiam numa arca de gelados.",
+      "example_de": "Die Jugendlichen hantierten mit einer Eis-Truhe.",
+      "example_en": "The youths were messing with a freezer cabinet of ice cream."
+    },
+    {
+      "pt": "os maus-tratos",
+      "de": "die Misshandlung",
+      "en": "abuse/mistreatment",
+      "example": "Passou por maus-tratos na infância.",
+      "example_de": "Sie erlebte in der Kindheit Misshandlungen.",
+      "example_en": "She suffered abuse in childhood."
+    },
+    {
+      "pt": "baleada",
+      "de": "erschossen",
+      "en": "shot (wounded)",
+      "example": "Foi baleada e esfaqueada quando estava grávida.",
+      "example_de": "Sie wurde erschossen und niedergestochen als sie schwanger war.",
+      "example_en": "She was shot and stabbed while pregnant."
+    },
+    {
+      "pt": "o discurso",
+      "de": "die Rede",
+      "en": "the speech",
+      "example": "A segurança continua a marcar a prioridade dos discursos.",
+      "example_de": "Sicherheit prägt weiterhin die Priorität der Reden.",
+      "example_en": "Security continues to mark the priority of speeches."
+    },
+    {
+      "pt": "babar",
+      "de": "sabbern",
+      "en": "to drool",
+      "example": "Babar durante o sono pode esconder um problema.",
+      "example_de": "Sabbern im Schlaf kann ein Problem verbergen.",
+      "example_en": "Drooling during sleep may hide a problem."
+    },
+    {
+      "pt": "o salão",
+      "de": "die Messe/Ausstellung",
+      "en": "the show/fair",
+      "example": "A Renault apresenta novo Trafic no salão IAA.",
+      "example_de": "Renault stellt den neuen Trafic auf der IAA-Messe vor.",
+      "example_en": "Renault presents the new Trafic at the IAA show."
+    },
+    {
+      "pt": "a experiência",
+      "de": "die Erfahrung/Erlebnis",
+      "en": "the experience",
+      "example": "O Dão de Portas Abertas oferece experiências vínicas.",
+      "example_de": "Die Offene-Kellertür-Aktion bietet Weinerlebnisse.",
+      "example_en": "The Open Doors event offers wine experiences."
+    },
+    {
+      "pt": "inspirar",
+      "de": "inspirieren",
+      "en": "to inspire",
+      "example": "O azeite inspira um festival com artistas de 11 países.",
+      "example_de": "Das Olivenöl inspiriert ein Festival mit Künstlern aus 11 Ländern.",
+      "example_en": "Olive oil inspires a festival with artists from 11 countries."
+    },
+    {
+      "pt": "o batimento",
+      "de": "der Herzschlag",
+      "en": "the heartbeat",
+      "example": "O Largo da Portagem tem mais batimentos por minuto.",
+      "example_de": "Der Largo da Portagem hat mehr Herzschläge pro Minute.",
+      "example_en": "Largo da Portagem has more heartbeats per minute."
+    },
+    {
+      "pt": "efetiva",
+      "de": "effektiv/wirksam",
+      "en": "effective/actual",
+      "example": "A família pede prisão efetiva para o agente.",
+      "example_de": "Die Familie fordert effektive Haft für den Beamten.",
+      "example_en": "The family demands actual prison for the officer."
+    },
+    {
+      "pt": "inseguro",
+      "de": "unsicher",
+      "en": "insecure",
+      "example": "A questão da insegurança foi tema abordado.",
+      "example_de": "Die Frage der Unsicherheit war ein behandeltes Thema.",
+      "example_en": "The issue of insecurity was a topic addressed."
+    },
+    {
+      "pt": "a contratação coletiva",
+      "de": "der Tarifvertrag",
+      "en": "collective bargaining",
+      "example": "O sindicato exigiu a revisão da contratação coletiva.",
+      "example_de": "Die Gewerkschaft forderte eine Überprüfung des Tarifvertrags.",
+      "example_en": "The union demanded a review of the collective agreement."
+    }
   ]
 }
