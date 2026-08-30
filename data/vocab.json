@@ -25253,5 +25253,111 @@
       "example_de": "Die Gewerkschaft forderte eine Überprüfung des Tarifvertrags.",
       "example_en": "The union demanded a review of the collective agreement."
     }
+  ],
+  "2026-08-30": [
+    {
+      "pt": "o clube",
+      "de": "der Verein",
+      "en": "the club",
+      "example": "Morreu o presidente do Moto Clube de Coimbra",
+      "example_de": "Der Präsident des Moto Clube de Coimbra ist gestorben",
+      "example_en": "The president of the Moto Clube de Coimbra died"
+    },
+    {
+      "pt": "desafinar",
+      "de": "falsch spielen, aus dem Takt geraten",
+      "en": "to play out of tune, to falter",
+      "example": "Briosa desafina em Coimbra e sofre primeira derrota",
+      "example_de": "Briosa spielt falsch in Coimbra und erleidet erste Niederlage",
+      "example_en": "Briosa falters in Coimbra and suffers first defeat"
+    },
+    {
+      "pt": "a bombagem",
+      "de": "das Pumpsystem",
+      "en": "the pumping system",
+      "example": "Falta uma solução para o sistema de bombagem",
+      "example_de": "Es fehlt eine Lösung für das Pumpsystem",
+      "example_en": "A solution for the pumping system is missing"
+    },
+    {
+      "pt": "a bruxa",
+      "de": "die Hexe",
+      "en": "the witch",
+      "example": "Caça às bruxas na PJ",
+      "example_de": "Hexenjagd bei der PJ",
+      "example_en": "Witch hunt at the PJ"
+    },
+    {
+      "pt": "vindimar",
+      "de": "Weinlese halten, Trauben lesen",
+      "en": "to harvest grapes",
+      "example": "Presidente da República anda a vindimar",
+      "example_de": "Der Präsident der Republik liest Trauben",
+      "example_en": "The President of the Republic is harvesting grapes"
+    },
+    {
+      "pt": "a indisciplina",
+      "de": "die Disziplinlosigkeit",
+      "en": "the indiscipline",
+      "example": "Escolas relataram menos indisciplina sem telemóveis",
+      "example_de": "Schulen meldeten weniger Disziplinlosigkeit ohne Handys",
+      "example_en": "Schools reported less indiscipline without phones"
+    },
+    {
+      "pt": "baixo (salário)",
+      "de": "niedrig (Gehalt)",
+      "en": "low (salary)",
+      "example": "Trabalhadores continuam com baixos salários",
+      "example_de": "Arbeiter haben weiterhin niedrige Gehälter",
+      "example_en": "Workers continue with low salaries"
+    },
+    {
+      "pt": "a socialização",
+      "de": "die Sozialisierung",
+      "en": "the socialization",
+      "example": "Há mais socialização sem smartphones nas escolas",
+      "example_de": "Es gibt mehr Sozialisierung ohne Smartphones in Schulen",
+      "example_en": "There is more socialization without smartphones in schools"
+    },
+    {
+      "pt": "ficar às escuras",
+      "de": "im Dunkeln sitzen",
+      "en": "to be left in the dark",
+      "example": "Várias zonas de Coimbra vão ficar às escuras",
+      "example_de": "Mehrere Zonen in Coimbra werden im Dunkeln sitzen",
+      "example_en": "Several areas of Coimbra will be left in the dark"
+    },
+    {
+      "pt": "o quilómetro",
+      "de": "der Kilometer",
+      "en": "the kilometer",
+      "example": "Fãs fazem centenas de quilómetros para ver Bárbara Bandeira",
+      "example_de": "Fans legen hunderte Kilometer zurück um Bárbara Bandeira zu sehen",
+      "example_en": "Fans travel hundreds of kilometers to see Bárbara Bandeira"
+    },
+    {
+      "pt": "o chassis",
+      "de": "das Fahrgestell",
+      "en": "the chassis",
+      "example": "Gatinho resgatado de chassis de carro em Coimbra",
+      "example_de": "Kätzchen aus Fahrgestell eines Autos in Coimbra gerettet",
+      "example_en": "Kitten rescued from car chassis in Coimbra"
+    },
+    {
+      "pt": "a sementeira",
+      "de": "die Aussaat",
+      "en": "the sowing, planting season",
+      "example": "O canal de rega foi feito para se poder fazer a sementeira",
+      "example_de": "Der Bewässerungskanal wurde gebaut damit die Aussaat erfolgen kann",
+      "example_en": "The irrigation channel was built so sowing could take place"
+    },
+    {
+      "pt": "a autogolo",
+      "de": "das Eigentor",
+      "en": "the own goal",
+      "example": "Os golos foram apontados por Kaká (autogolo) na primeira parte",
+      "example_de": "Die Tore wurden von Kaká (Eigentor) in der ersten Hälfte erzielt",
+      "example_en": "Goals were scored by Kaká (own goal) in the first half"
+    }
   ]
 }
