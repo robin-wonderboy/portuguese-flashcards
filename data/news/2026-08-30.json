@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏴",
+      "category": "PRIMEIRA PÁGINA",
+      "stories": [
+        {
+          "headline": "Morreu o Presidente do Moto Clube de Coimbra",
+          "text": "José Manuel Valença, presidente do Moto Clube de Coimbra, morreu aos 67 anos vítima de doença súbita. Ligado ao motociclismo há várias décadas, liderava o clube após também ter presidido o Mototurismo do Centro."
+        },
+        {
+          "headline": "Caminhada termina em tragédia: Filipa morre atropelada junto a cemitério",
+          "text": "Filipa Damião, de 45 anos, morreu após ser atropelada por uma viatura ligeira de mercadorias enquanto fazia uma caminhada. O acidente provocou ainda ferimentos e ocorreu junto a um cemitério."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Há zonas de Coimbra que vão ficar às escuras este domingo",
+          "text": "A E-redes programou mais de 100 interrupções no fornecimento de eletricidade para este domingo. No distrito de Coimbra, cortes previstos entre as 08:00 e as 11:00 afetam Taveiro, Ameal e a União das Freguesias de Coimbra."
+        },
+        {
+          "headline": "Bárbara Bandeira atrai fãs de centenas de quilómetros a Montemor-o-Velho",
+          "text": "Fãs percorreram centenas de quilómetros para ver Bárbara Bandeira em Montemor-o-Velho. A paixão pelos fãs não tem limites."
+        },
+        {
+          "headline": "Gatinho resgatado de chassis de carro em Coimbra precisa de nova família",
+          "text": "Um gatinho foi resgatado de dentro do chassis de um carro em Coimbra e procura agora um lar adotivo."
+        },
+        {
+          "headline": "Casas de Melo: \"A única mulher a que sou fiel é a Académica\"",
+          "text": "Uma declaração de amor e fidelidade à Académica de Coimbra feita por Casas de Melo, figura ligada ao clube."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "AMBIENTE & CHEIAS",
+      "stories": [
+        {
+          "headline": "\"Seis bombas não resolvem o problema das cheias\", avisa ministra em Montemor-o-Velho",
+          "text": "A ministra Maria da Graça Carvalho rejeitou que a simples reparação das seis bombas de bombagem do Foja resolva o problema das cheias no Baixo Mondego. Defendeu uma solução estrutural alternativa, mais eficiente, estando a APA a trabalhar no assunto."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Briosa desafina em Coimbra e sofre primeira derrota da temporada",
+          "text": "O Lusitânia de Lourosa venceu a Académica por 2-0 no Estádio Cidade de Coimbra, perante mais de 9.500 espetadores. Os golos foram apontados por Kaká (autogolo) e Miguel Teixeira nos descontos finais."
+        },
+        {
+          "headline": "Fernando Pimenta conquista medalha de ouro em K1 1.000 metros",
+          "text": "O canoísta português Fernando Pimenta conquistou a medalha de ouro na prova de K1 1.000 metros."
+        },
+        {
+          "headline": "Vuelta: Bryan Coquard vence oitava etapa; Pogacar abandona após queda",
+          "text": "Bryan Coquard venceu a oitava etapa da Vuelta, enquanto Tadej Pogacar foi forçado a abandonar após uma queda quando liderava a prova. Mas sucede na liderança a Pogacar."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "\"Caça às bruxas\" na PJ",
+          "text": "A antiga diretora do DCIAP, Cândida Almeida, considera que a sucessão de polémicas envolvendo responsáveis da Polícia Judiciária pode parecer uma \"caça às bruxas\", comparando a situação à noite das facas longas."
+        },
+        {
+          "headline": "Perseguição a alta velocidade acaba com carro em chamas",
+          "text": "Uma perseguição policial em Algés resultou num despiste que fez três feridos e levou ao corte da circulação na Avenida Brasília. O carro acabou por arder em chamas."
+        },
+        {
+          "headline": "\"Monstro\" de Santa Comba Dão vai ser libertado em 2027",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "POLÍTICA & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Seguro promulga proibição de smartphones até ao 9.º ano",
+          "text": "O Presidente da República promulgou a proibição de smartphones nas escolas até ao 9.º ano. A medida baseia-se num inquérito que revelou mais socialização e menos indisciplina onde os telemóveis não entram. As escolas têm o primeiro período para se adaptar."
+        },
+        {
+          "headline": "Avó Bete ensina caloiros da Universidade de Coimbra a sobreviver ao 1.º ano",
+          "text": "Guia essencial para os novos estudantes que chegam a Coimbra para iniciar a vida universitária."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Presidente da República anda a vindimar",
+          "text": ""
+        },
+        {
+          "headline": "Líder do Chega reconhece que segurança passou a ser prioritária em Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Turismo dá milhões mas trabalhadores continuam com baixos salários",
+          "text": "A CGTP denunciou que o crescimento do turismo se traduz em receitas e lucros para as empresas sem correspondente aumento salarial. Uma ação nacional de mobilização sindical decorreu esta semana."
+        },
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis anunciados para venda em Portugal mantém-se nos 430.000 euros em agosto. Em Coimbra, o aumento foi de 17% face ao ano anterior."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Resgate milagroso: Menina de seis anos salva após 60 horas soterrada no Nepal",
+          "text": "Uma menina de seis anos foi resgatada com vida após quase 60 horas presa debaixo de escombros no Nepal. O Nepal autorizou assistência estrangeira limitada para os resgates."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Festa com 600 anos toma conta de Montemor-o-Velho durante 11 dias",
+          "text": "A Feira do Ano regressa a Montemor-o-Velho começando já no sábado, com 11 dias de festividades."
+        },
+        {
+          "headline": "Dão de Portas Abertas regressa com experiências vínicas em oito quintas",
+          "text": "O evento regressa com provas de vinho em oito quintas da região do Dão."
+        },
+        {
+          "headline": "Festival fora do normal em Tábua: camiões, drift e música",
+          "text": "Tábua acolhe um festival que combina camiões, drift e música neste fim de semana."
+        }
+      ]
+    }
+  ]
+}
