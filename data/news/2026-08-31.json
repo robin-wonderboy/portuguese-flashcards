@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-31",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Subida brutal de temperaturas: Coimbra vai chegar aos 37°C",
+          "text": "As temperaturas máximas vão subir 10 a 12 graus Celsius em alguns locais de Portugal continental a partir de quarta-feira. Coimbra deverá chegar aos 37°C, com o pico de calor previsto para os dias 2 e 3 de setembro."
+        },
+        {
+          "headline": "Casal vive há 2 meses numa carrinha em Coimbra",
+          "text": "A União de Freguesias de Eiras e São Paulo de Frades acompanha a situação de um casal que vive há dois meses numa carrinha. As autoridades garantem que \"estas pessoas não foram abandonadas\" e que estão a ser seguidos os procedimentos de apoio social."
+        },
+        {
+          "headline": "Fuga de gás mobiliza bombeiros na Lousã",
+          "text": ""
+        },
+        {
+          "headline": "Viatura arde em Lamas",
+          "text": ""
+        },
+        {
+          "headline": "Ana Abrunhosa defende património público como resposta a situações de crise",
+          "text": "A antiga ministra defende que o património público deve ser usado como resposta a situações de crise social e económica, num discurso sobre as políticas de habitação e proteção de bens públicos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Jovem mata padrasto à facada para proteger a mãe",
+          "text": "Um jovem matou o padrasto à facada alegadamente para proteger a mãe de agressões. O caso está a ser investigado pelas autoridades e o jovem foi detido."
+        },
+        {
+          "headline": "Cocaína escondida em bifes ajuda a desmantelar rede de tráfico",
+          "text": "A cocaína escondida dentro de bifes ajudou a desmantelar uma rede de tráfico que chegava à prisão de Coimbra. A descoberta permitiu às autoridades desvendar o esquema de contrabando no estabelecimento prisional."
+        },
+        {
+          "headline": "A burla que mais vítimas faz em Portugal tem uma nova armadilha",
+          "text": "A burla que mais vítimas regista em Portugal voltou a atualizar-se com uma nova armadilha. As autoridades alertam para o aumento de esquemas de fraude online que visam particularmente idosos e utilizadores menos experientes."
+        },
+        {
+          "headline": "PSP e GNR dizem \"basta\" e admitem regressar à rua",
+          "text": "As forças de segurança PSP e GNR declararam \"basta\" e admitem regressar à rua em protesto contra as condições de trabalho e falta de apoios. A ameaça de manifestações gera preocupação junto do Governo."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "\"Diabo da poeira\" assusta ao levantar cinzas dos fogos",
+          "text": "Um fenómeno meteorológico conhecido como \"diabo da poeira\" foi captado a levantar cinzas deixadas pelos fogos florestais, assustando quem presenciou a cena. Trata-se de um redemoinho de ar que se forma em dias de muito calor."
+        },
+        {
+          "headline": "Idoso morre esmagado pelo próprio trator",
+          "text": "Um idoso morreu esmagado pelo próprio trator numa propriedade rural. O acidente ocorreu durante trabalhos agrícolas e o homem não resistiu aos ferimentos."
+        },
+        {
+          "headline": "Incêndio num hotel em Fátima mata mulher",
+          "text": "Um incêndio num hotel em Fátima causou a morte de uma mulher. Os bombeiros foram acionados mas não conseguiram salvar a vítima. As causas do incêndio estão a ser investigadas."
+        },
+        {
+          "headline": "Mulher dá à luz no Aeroporto de Lisboa",
+          "text": "Uma mulher deu à luz no Aeroporto de Lisboa, surpreendendo passageiros e funcionários. A bebé e a mãe foram assistidas no local e encontram-se bem."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Jovem português volta à vida após estar 79 minutos morto",
+          "text": "Durante férias em família, um jovem português voltou à vida após ter estado clinicamente morto durante 79 minutos. O caso está a ser descrito como um verdadeiro milagre pela equipa médica."
+        },
+        {
+          "headline": "Balanço de mortos no Nepal devido a inundações sobe para 903",
+          "text": "O novo balanço de mortos no Nepal devido a inundações e deslizamentos de terra subiu para 903. As autoridades continuam as operações de busca e resgate em várias zonas do país."
+        },
+        {
+          "headline": "Catarina é a única cientista portuguesa em expedição ao Ártico",
+          "text": "Catarina é a única cientista portuguesa a integrar uma expedição científica ao Ártico, onde vai desenvolver pesquisas sobre as alterações climáticas e os ecossistemas polares."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "TAP agrava prejuízo para 99,2 milhões no primeiro semestre",
+          "text": "A TAP agravou o prejuízo para 99,2 milhões de euros no primeiro semestre de 2026, devido principalmente à subida dos combustíveis. A companhia aérea continua a enfrentar dificuldades financeiras."
+        },
+        {
+          "headline": "Proprietários com IMI acima de 500€ têm até hoje para pagar 2ª prestação",
+          "text": "Os proprietários com IMI acima de 500 euros têm até esta segunda-feira para pagar a segunda prestação do imposto. O pagamento pode ser feito via Portal das Finanças ou nos serviços de correios."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Bragança recebida como \"cerejinha no topo do bolo\"",
+          "text": "A criação da Universidade de Bragança foi recebida com entusiasmo e descrita como a \"cerejinha no topo do bolo\" para a região de Trás-os-Montes, que passa a ter a sua própria universidade pública."
+        },
+        {
+          "headline": "Líder do PS acusa Montenegro de branquear caos nos exames nacionais",
+          "text": "O líder do PS acusa o primeiro-ministro Luís Montenegro de tentar branquear o caos nos exames nacionais. Montenegro lamentou as perturbações mas insistiu que foi o \"caminho correto\"."
+        }
+      ]
+    },
+    {
+      "emoji": "🥋",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Patrícia Sampaio conquista bronze no Grand Slam de Lausana",
+          "text": "A judoca portuguesa Patrícia Sampaio conquistou a medalha de bronze no Grand Slam de Lausana, consolidando o seu bom momento de forma rumo aos próximos compromissos internacionais."
+        },
+        {
+          "headline": "Fernando Pimenta conquista segundo ouro nos Mundiais de canoagem",
+          "text": "O canoeista português Fernando Pimenta conquistou o seu segundo ouro nos Mundiais de canoagem, confirmando o domínio português na modalidade e reforçando o estatuto de um dos melhores atletas nacionais."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "LAZER & CULTURA",
+      "stories": [
+        {
+          "headline": "Portugal dos Pequenitos prepara setembro cheio de atividades",
+          "text": "O Portugal dos Pequenitos em Coimbra prepara um mês de setembro cheio de atividades para toda a família, com workshops, visitas guiadas e animação para os mais pequenos."
+        },
+        {
+          "headline": "\"Verão a Dois Tempos\" leva música e arte a vários espaços de Coimbra",
+          "text": "A iniciativa \"Verão a Dois Tempos\" leva música e arte a vários espaços de Coimbra, prolongando a programação cultural de verão até ao final da estação."
+        }
+      ]
+    }
+  ]
+}
