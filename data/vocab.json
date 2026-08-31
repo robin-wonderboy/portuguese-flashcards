@@ -25359,5 +25359,111 @@
       "example_de": "Die Tore wurden von Kaká (Eigentor) in der ersten Hälfte erzielt",
       "example_en": "Goals were scored by Kaká (own goal) in the first half"
     }
+  ],
+  "2026-08-31": [
+    {
+      "pt": "arde",
+      "de": "brennt",
+      "en": "burns",
+      "example": "A viatura arde em Lamas",
+      "example_de": "Das Fahrzeug brennt in Lamas",
+      "example_en": "The vehicle burns in Lamas"
+    },
+    {
+      "pt": "defender",
+      "de": "verteidigen",
+      "en": "to defend",
+      "example": "Defende o património público",
+      "example_de": "Sie verteidigt das öffentliche Erbe",
+      "example_en": "She defends public heritage"
+    },
+    {
+      "pt": "dizem basta",
+      "de": "sagen Schluss",
+      "en": "say enough",
+      "example": "PSP e GNR dizem basta",
+      "example_de": "PSP und GNR sagen Schluss",
+      "example_en": "PSP and GNR say enough"
+    },
+    {
+      "pt": "as cinzas",
+      "de": "die Asche",
+      "en": "the ashes",
+      "example": "Levantar cinzas deixadas pelos fogos",
+      "example_de": "Asche aufwirbeln die von den Bränden hinterlassen wurde",
+      "example_en": "Stirring up ashes left by the fires"
+    },
+    {
+      "pt": "esmagado",
+      "de": "zerquetscht",
+      "en": "crushed",
+      "example": "Idoso morre esmagado pelo trator",
+      "example_de": "Senior stirbt zerquetscht vom Traktor",
+      "example_en": "Elderly man dies crushed by his tractor"
+    },
+    {
+      "pt": "dá à luz",
+      "de": "gebt das Leben",
+      "en": "gives birth",
+      "example": "Mulher dá à luz no aeroporto",
+      "example_de": "Frau gebärt am Flughafen",
+      "example_en": "Woman gives birth at the airport"
+    },
+    {
+      "pt": "agrava",
+      "de": "verschlimmert",
+      "en": "worsens",
+      "example": "TAP agrava prejuízo para 99 milhões",
+      "example_de": "TAP verschlimmert Verlust auf 99 Millionen",
+      "example_en": "TAP worsens loss to 99 million"
+    },
+    {
+      "pt": "branquear",
+      "de": "weißwaschen",
+      "en": "to whitewash",
+      "example": "Acusa Montenegro de tentar branquear caos",
+      "example_de": "Beschuldigt Montenegro den Chaos weißwaschen zu wollen",
+      "example_en": "Accuses Montenegro of trying to whitewash the chaos"
+    },
+    {
+      "pt": "conquista",
+      "de": "erobert/gewinnt",
+      "en": "conquers/wins",
+      "example": "Patrícia Sampaio conquista medalha de bronze",
+      "example_de": "Patrícia Sampaio gewinnt Bronzemedaille",
+      "example_en": "Patrícia Sampaio wins bronze medal"
+    },
+    {
+      "pt": "a cerejinha no topo do bolo",
+      "de": "das Tüpfelchen auf dem i",
+      "en": "the cherry on top",
+      "example": "Recebida como cerejinha no topo do bolo",
+      "example_de": "Aufgenommen wie das Tüpfelchen auf dem i",
+      "example_en": "Received as the cherry on top"
+    },
+    {
+      "pt": "o bife",
+      "de": "das Steak",
+      "en": "the steak",
+      "example": "Cocaína escondida em bifes",
+      "example_de": "Kokain versteckt in Steaks",
+      "example_en": "Cocaine hidden in steaks"
+    },
+    {
+      "pt": "a rede",
+      "de": "das Netz",
+      "en": "the network",
+      "example": "Desmantelar rede de tráfico",
+      "example_de": "Drogennetzwerk zerschlagen",
+      "example_en": "Dismantle trafficking network"
+    },
+    {
+      "pt": "o semestre",
+      "de": "das Halbjahr",
+      "en": "the semester/half-year",
+      "example": "Prejuízo no primeiro semestre",
+      "example_de": "Verlust im ersten Halbjahr",
+      "example_en": "Loss in the first semester"
+    }
   ]
 }
