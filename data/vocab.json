@@ -25465,5 +25465,95 @@
       "example_de": "Verlust im ersten Halbjahr",
       "example_en": "Loss in the first semester"
     }
+  ],
+  "2026-09-01": [
+    {
+      "pt": "impróprio",
+      "de": "ungeeignet",
+      "en": "improper / unfit",
+      "example": "Água imprópria dispara em Portugal",
+      "example_de": "Ungeeignetes Wasser schießt in Portugal hoch",
+      "example_en": "Unfit water surges in Portugal"
+    },
+    {
+      "pt": "o veículo pesado",
+      "de": "der Schwerlastwagen",
+      "en": "the heavy vehicle",
+      "example": "A colisão envolveu um veículo pesado e dois ligeiros",
+      "example_de": "Der Zusammenstoß involvierte einen Schwerlastwagen und zwei PKW",
+      "example_en": "The collision involved a heavy vehicle and two light ones"
+    },
+    {
+      "pt": "sem travões",
+      "de": "ohne Bremsen",
+      "en": "without brakes / unstoppable",
+      "example": "Calor sem travões vai chegar aos 42 graus",
+      "example_de": "Hitze ohne Bremsen erreicht 42 Grad",
+      "example_en": "Unstoppable heat will reach 42 degrees"
+    },
+    {
+      "pt": "a praia",
+      "de": "der Strand",
+      "en": "the beach",
+      "example": "Alerta nas praias por água imprópria",
+      "example_de": "Warnung an den Stränden wegen ungeeignetem Wasser",
+      "example_en": "Beach alert over unfit water"
+    },
+    {
+      "pt": "o médico de família",
+      "de": "der Hausarzt",
+      "en": "the family doctor",
+      "example": "87% dos utentes têm médico de família",
+      "example_de": "87% der Nutzer haben einen Hausarzt",
+      "example_en": "87% of users have a family doctor"
+    },
+    {
+      "pt": "a moção de censura",
+      "de": "der Misstrauensantrag",
+      "en": "the motion of censure",
+      "example": "Ventura reúne deputados para decidir moção de censura",
+      "example_de": "Ventura versammelt Abgeordnete für Misstrauensantrag",
+      "example_en": "Ventura gathers MPs for motion of censure"
+    },
+    {
+      "pt": "a bat branca",
+      "de": "der weiße Kittel",
+      "en": "the white coat",
+      "example": "Cerimónia da Bata Branca em Coimbra",
+      "example_de": "Weiße-Kittel-Zeremonie in Coimbra",
+      "example_en": "White Coat Ceremony in Coimbra"
+    },
+    {
+      "pt": "o massagista",
+      "de": "der Masseur",
+      "en": "the massage therapist",
+      "example": "Vlad Zhyrnyi é o massagista desaparecido no mar",
+      "example_de": "Vlad Zhyrnyi ist der am Meer vermisste Masseur",
+      "example_en": "Vlad Zhyrnyi is the massage therapist missing at sea"
+    },
+    {
+      "pt": "os sabores",
+      "de": "die Aromen",
+      "en": "the flavors",
+      "example": "Confraria leva os sabores de Coimbra à Feira do Vinho",
+      "example_de": "Bruderschaft bringt die Aromen Coimbras zur Weinmesse",
+      "example_en": "Confraria brings the flavors of Coimbra to the Wine Fair"
+    },
+    {
+      "pt": "o por-do-sol",
+      "de": "der Sonnenuntergang",
+      "en": "the sunset",
+      "example": "Uma festa ao pôr-do-sol para os novos alunos",
+      "example_de": "Ein Fest beim Sonnenuntergang für die neuen Studenten",
+      "example_en": "A sunset party for the new students"
+    },
+    {
+      "pt": "chegar a",
+      "de": "erreichen",
+      "en": "to reach / to arrive at",
+      "example": "Os termómetros podem chegar aos 42 graus",
+      "example_de": "Die Thermometer können 42 Grad erreichen",
+      "example_en": "Thermometers can reach 42 degrees"
+    }
   ]
 }
