@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "TRAGÉDIAS & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Choque brutal no IC8 faz dois mortos e três feridos graves",
+          "text": "Uma colisão entre um veículo pesado e dois ligeiros no IC8 em Ansião causou duas vítimas mortais e três feridos graves. A circulação foi retomada às 02:47, após a via ter sido cortada na noite de segunda-feira."
+        },
+        {
+          "headline": "Mulher morre em incêndio num hotel de Fátima",
+          "text": "Um incêndio num hotel de Fátima causou a morte de uma mulher. Uma vela acesa pode estar na origem do sinistro, segundo as autoridades. O regresso a casa acabou em tragédia para a vítima."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "POLÍCIAS & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Coimbra entre os próximos comandos a mudar com o regresso da Brigada de Trânsito",
+          "text": "A Brigada de Trânsito regressa e Coimbra está entre os comandos que vão sofrer alterações. A reestruturação visa reforçar a fiscalização nas estradas da região."
+        },
+        {
+          "headline": "Carrinha da PSP apedrejada durante patrulhamento",
+          "text": "Uma carrinha da PSP foi apedrejada durante uma ronda de patrulhamento. Não houve feridos, mas o caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Tupac Shakur: 30 anos depois, Duane Davis é acusado de mandar matar o rapper",
+          "text": ""
+        },
+        {
+          "headline": "Matou três jovens após ser rejeitado. Um dos corpos encontrado numa praia da Figueira da Foz",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Calor sem travões. Termómetros vão disparar e podem chegar aos 42ºC",
+          "text": "Portugal está sob alerta de calor extremo. As temperaturas devem subir consideravelmente ao longo da semana, com previsões a apontar para os 42 graus em algumas regiões do país."
+        },
+        {
+          "headline": "Alerta nas praias. Água imprópria dispara em Portugal e Cabedelo está entre os casos",
+          "text": "O número de praias com água imprópria para banho disparou em Portugal. Cabedelo, na Figueira da Foz, está entre os casos identificados, levantando preocupações de saúde pública."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "1.000 mortos e milhares de desaparecidos nas cheias no Nepal",
+          "text": "Cheias devastadoras no Nepal causaram já mais de mil mortos e milhares de desaparecidos. As autoridades locais struggling para fazer face à dimensão da catástrofe."
+        },
+        {
+          "headline": "Diretor salva 900 alunos minutos antes de enxurrada atingir escola no Nepal",
+          "text": "Um diretor de escola no Nepal conseguiu evacuar 900 alunos poucos minutos antes de uma enxurrada atingir o edifício. O gesto heróico evitou uma tragédia ainda maior."
+        },
+        {
+          "headline": "Pai conduz 140 quilómetros sem perceber que deixou o filho de 10 anos numa estação de serviço",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "André Ventura reúne direção e deputados para decidir moção de censura ao Governo",
+          "text": "O líder do Chega convocou a direção e os deputados do partido para decidir sobre a apresentação de uma moção de censura ao Governo, num momento de tensão política."
+        },
+        {
+          "headline": "Presidente da República promulga decreto sobre asilo e retorno de estrangeiros",
+          "text": ""
+        },
+        {
+          "headline": "PS pede audição com urgência do ministro da Economia sobre execução do PRR",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Rendas podem subir em 2027. Saiba quanto pode aumentar",
+          "text": "As rendas de casa poderão sofrer um aumento em 2027, de acordo com novas projeções. Os inquilinos devem estar atentos às mudanças na lei dos arrendamentos."
+        },
+        {
+          "headline": "Fechado há 20 anos, antigo hotel de Penacova vai voltar a receber hóspedes em 2027",
+          "text": "O antigo hotel de Penacova, encerrado há duas décadas, vai reabrir as portas em 2027. O projeto de reabilitação pretende devolver o espaço à atividade turística."
+        },
+        {
+          "headline": "Férias e culpa? Há quem não consiga desligar do trabalho",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & UNIVERSIDADE",
+      "stories": [
+        {
+          "headline": "Atenção, novos estudantes! Este é o guia para não andar perdido em Coimbra",
+          "text": "Com o início do ano letivo, chegou um guia prático para os novos estudantes de Coimbra. A cidade prepara-se para receber milhares de calouros na Universidade."
+        },
+        {
+          "headline": "\"Isto não é Académica\": presidente da AAC condena bandeira com rosto de Salazar no jogo",
+          "text": "O presidente da Associação Académica de Coimbra condenou a exibição de uma bandeira com o rosto de Salazar durante um jogo. A AAC distanciou-se do acto e classificou-o como inaceitável."
+        },
+        {
+          "headline": "Projeto de Coimbra que dá aos estudantes poder para mudar a comunidade ganha prémio internacional",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Coimbra assiste ao nascimento de uma nova geração de médicos na Cerimónia da Bata Branca",
+          "text": "A Cerimónia da Bata Branca marcou a entrada de uma nova geração de médicos em Coimbra. O evento tradicional celebra o início da carreira dos estudantes de Medicina."
+        },
+        {
+          "headline": "SNS tem 10,7 milhões de utentes e 87% têm médico de família",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Primeira semana de setembro em Coimbra vai ser mais cultural do que imagina",
+          "text": "Coimbra prepara um programa cultural intenso para a primeira semana de setembro, com eventos que vão da música ao património, prometendo surpreender residentes e visitantes."
+        },
+        {
+          "headline": "Rocketmen regressa à Praça da República. Grátis",
+          "text": "O festival Rocketmen, que muitos julgavam cancelado, volta em setembro a Coimbra. O evento regressa à Praça da República com entrada gratuita."
+        },
+        {
+          "headline": "Confraria de Almalaguês leva os sabores de Coimbra à Feira do Vinho do Dão",
+          "text": ""
+        },
+        {
+          "headline": "Com o Toy, a Feira do Mel do Espinhal é \"toda a noite\"",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Benfica derrota Estoril por 2-1",
+          "text": ""
+        },
+        {
+          "headline": "Braga vence dérbi minhoto com golo de Diego Rodrigues",
+          "text": ""
+        },
+        {
+          "headline": "Vlad Zhyrnyi é o massagista de atletas famosos que está desaparecido no mar da Praia da Ursa",
+          "text": "O massagista ucraniano, conhecido por trabalhar com atletas de renome, está desaparecido no mar da Praia da Ursa. As buscas continuam."
+        }
+      ]
+    }
+  ]
+}
