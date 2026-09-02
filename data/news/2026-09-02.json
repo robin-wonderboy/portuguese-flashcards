@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "REGIÃO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Sérgio \"Timex\" e Rui Cavalheiro morrem no IC8",
+          "text": "Dois homens de Ansião, Sérgio Monteiro (55) e Rui Cavalheiro (52), morreram numa colisão entre um camião e duas viaturas ligeiras no IC8, sentido Ansião-Pombal. O acidente provocou ainda quatro feridos, três em estado grave."
+        },
+        {
+          "headline": "Motociclista despista-se em Cantanhede",
+          "text": "Um motociclista perdeu o controlo e despistou-se em Cantanhede. Os bombeiros foram acionados para prestar socorro no local."
+        },
+        {
+          "headline": "Atropelamento em Eiras faz um ferido",
+          "text": "Um atropelamento em Eiras, na zona de Coimbra, provocou um ferido. A ocorrência mobilizou as autoridades locais."
+        },
+        {
+          "headline": "Penacova respira de alívio após incêndio",
+          "text": "O incêndio que deflagrou na Serra da Atalhada, em Penacova, foi controlado. O alerta foi dado pelas 17:06 e o ataque musculado nos primeiros instantes foi decisivo."
+        }
+      ]
+    },
+    {
+      "emoji": "☀️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Vem aí calor a sério para Coimbra",
+          "text": "Onze distritos do continente vão estar sob aviso amarelo na quinta e sexta-feira devido a tempo quente. Setembro não perdoa e traz dias de muito calor, com temperaturas a subir em todo o país."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Elevador da Glória: 1 ano depois, pouco se sabe",
+          "text": "Passado um ano sobre o descarrilamento do histórico ascensor da Glória, em Lisboa, a investigação ainda decorre. A tragédia matou 16 pessoas, na sua maioria turistas estrangeiros, e faltam indemnizações para 36 vítimas."
+        },
+        {
+          "headline": "Bombeiros despedem-se de Buddy",
+          "text": "Os bombeiros de São Mamede de Infesta despediram-se do seu cão de salvamento Buddy com a mensagem \"Até sempre, nosso menino\". A história comoveu as redes sociais."
+        },
+        {
+          "headline": "Tem 89 anos e continua na sapataria desde 1958",
+          "text": "Um homem de 89 anos, com sete filhos, continua a trabalhar atrás do balcão da sapataria que abriu em 1958. Recebeu recentemente a Medalha de Mérito pela dedicação."
+        },
+        {
+          "headline": "Pesado tomba na A23, camionista algemado",
+          "text": "Um veículo pesado tombou na A23 entre os nós de Constância, no sentido Castelo Branco-Torres Novas. O camionista ficou gravemente ferido e acabou algemado pela GNR."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "8 queixas por dia: filhos agredem pais",
+          "text": "A violência de filhos contra os próprios pais continua a preocupar as autoridades. Nos primeiros seis meses de 2026 foram registadas uma média de 8 queixas por dia em todo o país."
+        },
+        {
+          "headline": "Mata companheira à facada em hotel",
+          "text": "Um homem matou a companheira à facada num hotel. O crime chocou a comunidade local e o autor foi detido pelas autoridades."
+        },
+        {
+          "headline": "Banca improvisada: 920 artigos apreendidos e 3 detidos",
+          "text": "Uma operação numa feira resultou na apreensão de 920 artigos de uma banca improvisada e na detenção de três pessoas por venda ilegal."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER (VAMOS)",
+      "stories": [
+        {
+          "headline": "POIAR(T)ES: 4 dias de festa com chanfana e música",
+          "text": "O POIAR(T)ES vai transformar-se num palco de emoções com chanfana tradicional, música e quatro dias de festa em Poiares."
+        },
+        {
+          "headline": "Coimbra está a perder a carruagem no turismo",
+          "text": "O setor turístico de Coimbra exige reação. Quebras no movimento começaram antes do verão, com abril, maio, junho e julho a registarem pior desempenho que em 2025. Especialistas apontam para a falta de adaptação a novas tendências."
+        },
+        {
+          "headline": "Novo festival aproxima música erudita do público",
+          "text": "Um novo festival em Coimbra quer aproximar a música erudita do público geral, tornando-a mais acessível e atrativa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "\"Nada foi feito\": Governo trava 3 mil enfermeiros",
+          "text": "O Sindicato dos Enfermeiros Portugueses acusa o Governo de travar a contratação de cerca de 3000 jovens enfermeiros, apesar dos alertas enviados em junho e julho."
+        },
+        {
+          "headline": "Enxaqueca afeta 1 em cada 7 portugueses",
+          "text": "A enxaqueca afeta um em cada sete portugueses e há um sinal que não deve ser ignorado. Especialistas alertam para a importância do diagnóstico precoce."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Escolas com 2650 horários por preencher",
+          "text": "A dias do início do ano letivo, há ainda 2650 horários por preencher nas escolas portuguesas, revelando a crise de professores no sistema educativo."
+        },
+        {
+          "headline": "Estudantes de Coimbra podem estudar no Brasil",
+          "text": "Estudantes da Universidade de Coimbra podem agora estudar no Brasil e conquistar dois diplomas através de um novo programa de intercâmbio acadêmico."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra 17% mais caro",
+          "text": "O preço médio dos imóveis anunciados para venda em Portugal mantém-se nos 430.000 euros. Em Coimbra, o preço subiu 17% face ao ano anterior."
+        },
+        {
+          "headline": "Procura por quartos em Coimbra dispara 120%",
+          "text": "A procura por quartos em Coimbra aumentou 120% em apenas um ano, refletindo a pressão do mercado de arrendamento estudantil."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Cheias no Nepal: 1114 mortos, 3916 desaparecidos",
+          "text": "As cheias que atingiram o Nepal junto à fronteira com a China provocaram 1114 mortos e 3916 desaparecidos. Do lado chinês, 16 mortos e 546 desaparecidos elevam o balanço para 1130 mortos. Mais um português foi encontrado com vida."
+        },
+        {
+          "headline": "58 crianças a vender nas ruas de Díli",
+          "text": "O Instituto Nacional de Defesa dos Direitos da Criança identificou 58 crianças a vender nas ruas de Díli, Timor-Leste, entre janeiro e agosto: 17 raparigas e 41 rapazes."
+        },
+        {
+          "headline": "Trump ameaça Teerão com ataques \"muito mais fortes\"",
+          "text": "Donald Trump ameaçou o Irão com ataques \"muito mais fortes\" caso não haja cooperação nas negociações nucleares."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "75 euros de multa por atravessar passadeira com telemóvel",
+          "text": "Poderá em breve ser possível aplicar uma multa de 75 euros a peões que atravessem a passadeira agarrados ao telemóvel, numa proposta de segurança rodoviária."
+        },
+        {
+          "headline": "Supercarro português regressa ao Caramulo",
+          "text": "O supercarro português regressa ao Caramulo para novas emoções ao volante num evento de desporto automóvel."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica e Mancha Negra \"fumam o cachimbo da paz\"",
+          "text": "Académica/OAF e Mancha Negra fumaram o cachimbo da paz, pondo fim a desentendimentos entre as claques."
+        },
+        {
+          "headline": "Velódromo de Sangalhos vai ser renovado",
+          "text": "O velódromo de Sangalhos vai ser renovado para continuar a formar campeões do ciclismo português."
+        }
+      ]
+    }
+  ]
+}
