@@ -25555,5 +25555,127 @@
       "example_de": "Die Thermometer können 42 Grad erreichen",
       "example_en": "Thermometers can reach 42 degrees"
     }
+  ],
+  "2026-09-02": [
+    {
+      "pt": "o algema",
+      "de": "die Handschelle",
+      "en": "the handcuff",
+      "example": "O camionista acabou algemado após o acidente",
+      "example_de": "Der Lkw-Fahrer wurde nach dem Unfall in Handschellen gelegt",
+      "example_en": "The truck driver was handcuffed after the accident"
+    },
+    {
+      "pt": "o descarrilamento",
+      "de": "die Entgleisung",
+      "en": "the derailment",
+      "example": "O descarrilamento do elevador da Glória matou 16 pessoas",
+      "example_de": "Die Entgleisung des Glória-Aufzugs tötete 16 Menschen",
+      "example_en": "The derailment of the Glória elevator killed 16 people"
+    },
+    {
+      "pt": "perder a carruagem",
+      "de": "den Anschluss verlieren",
+      "en": "to fall behind (figurative)",
+      "example": "Coimbra está a perder a carruagem no turismo",
+      "example_de": "Coimbra verliert beim Tourismus den Anschluss",
+      "example_en": "Coimbra is falling behind in tourism"
+    },
+    {
+      "pt": "o horário",
+      "de": "der Stundenplan",
+      "en": "the schedule",
+      "example": "Escolas com 2650 horários por preencher",
+      "example_de": "Schulen mit 2650 unbelegten Stundenplänen",
+      "example_en": "Schools with 2650 unfilled schedules"
+    },
+    {
+      "pt": "o ano letivo",
+      "de": "das Schuljahr",
+      "en": "the school year",
+      "example": "Faltam dias para o início do ano letivo",
+      "example_de": "Es fehlen nur noch Tage zum Schuljahresbeginn",
+      "example_en": "Only days left until the start of the school year"
+    },
+    {
+      "pt": "a sapataria",
+      "de": "der Schuhladen",
+      "en": "the shoe shop",
+      "example": "A sapataria que abriu em 1958 ainda funciona",
+      "example_de": "Der Schuhladen, der 1958 eröffnete, funktioniert noch",
+      "example_en": "The shoe shop that opened in 1958 still works"
+    },
+    {
+      "pt": "erudito",
+      "de": "gelehrt / klassisch",
+      "en": "erudite / classical",
+      "example": "Festival quer aproximar a música erudita do público",
+      "example_de": "Festival will klassische Musik dem Publikum näherbringen",
+      "example_en": "Festival aims to bring classical music closer to the public"
+    },
+    {
+      "pt": "a banca improvisada",
+      "de": "der improvisierte Verkaufsstand",
+      "en": "the improvised stall",
+      "example": "Banca improvisada na feira acaba com 920 artigos apreendidos",
+      "example_de": "Improvisierter Stand auf dem Markt endet mit 920 beschlagnahmten Artikeln",
+      "example_en": "Improvised stall at the fair ends with 920 seized items"
+    },
+    {
+      "pt": "o velódromo",
+      "de": "die Radrennbahn",
+      "en": "the velodrome",
+      "example": "O velódromo de Sangalhos vai ser renovado",
+      "example_de": "Die Radrennbahn von Sangalhos wird renoviert",
+      "example_en": "The Sangalhos velodrome will be renovated"
+    },
+    {
+      "pt": "cauteloso",
+      "de": "vorsichtig",
+      "en": "cautious",
+      "example": "Estudo liga mindfulness a decisões financeiras mais cautelosas",
+      "example_de": "Studie verbindet Achtsamkeit mit vorsichtigeren finanziellen Entscheidungen",
+      "example_en": "Study links mindfulness to more cautious financial decisions"
+    },
+    {
+      "pt": "o cachimbo",
+      "de": "die Pfeife",
+      "en": "the pipe",
+      "example": "Académica e Mancha Negra fumam o cachimbo da paz",
+      "example_de": "Académica und Mancha Negra rauchen die Friedenspfeife",
+      "example_en": "Académica and Mancha Negra smoke the peace pipe"
+    },
+    {
+      "pt": "o ascensor",
+      "de": "der Aufzug",
+      "en": "the elevator",
+      "example": "O histórico ascensor descarrilou em 2025",
+      "example_de": "Der historische Aufzug entgleiste 2025",
+      "example_en": "The historic elevator derailed in 2025"
+    },
+    {
+      "pt": "o guarda-freio",
+      "de": "der Bremswärter",
+      "en": "the brake operator",
+      "example": "O guarda-freio André era uma das vítimas",
+      "example_de": "Der Bremswärter André war eines der Opfer",
+      "example_en": "Brake operator André was one of the victims"
+    },
+    {
+      "pt": "o rapaz",
+      "de": "der Junge",
+      "en": "the boy",
+      "example": "Foram identificadas 58 crianças: 17 raparigas e 41 rapazes",
+      "example_de": "Es wurden 58 Kinder identifiziert: 17 Mädchen und 41 Jungen",
+      "example_en": "58 children were identified: 17 girls and 41 boys"
+    },
+    {
+      "pt": "a rapariga",
+      "de": "das Mädchen",
+      "en": "the girl",
+      "example": "17 raparigas e 41 rapazes foram identificados nas ruas de Díli",
+      "example_de": "17 Mädchen und 41 Jungen wurden auf den Straßen von Díli identifiziert",
+      "example_en": "17 girls and 41 boys were identified on the streets of Dili"
+    }
   ]
 }
