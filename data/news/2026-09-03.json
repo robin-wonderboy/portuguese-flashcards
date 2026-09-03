@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra não escapa à nova vaga de calor e prepara-se para dias de \"forno\"",
+          "text": "O IPMA estendeu o aviso amarelo de tempo quente até sábado, alargando-o de 11 para 14 distritos. Coimbra está entre os distritos sob aviso amarelo entre as 10:00 de hoje e as 19:00 de sábado. As temperaturas devem atingir valores próximos dos 40 graus em várias zonas do interior."
+        },
+        {
+          "headline": "Revelados os nomes das próximas tempestades que podem atingir Portugal",
+          "text": "A nova época de nomeação de tempestades começou a 1 de setembro e prolonga-se até agosto de 2027. A lista inclui 21 nomes, entre eles Bruna, Diane, Flora e Rafael, para tempestades que afetarem Portugal e outros países do sudoeste da Europa."
+        },
+        {
+          "headline": "Colisão entre carros provoca dois feridos em Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Raposinha invade campo de futebol em Poiares e já é a \"nova mascote\"",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Assalto de madrugada deixa conservatória sem 500 cartões de cidadão e 200 passaportes",
+          "text": "A PSP está a investigar o alegado furto na Conservatória do Registo Civil de Chaves. O assalto ocorreu na madrugada de quarta-feira e, segundo o reportado aos agentes, foram furtados 500 cartões de cidadão, 200 passaportes, dois cofres, 500 euros e dois selos."
+        },
+        {
+          "headline": "Mata companheira à tesourada à frente da filha num hotel",
+          "text": ""
+        },
+        {
+          "headline": "Há um período da semana em que a GNR apanha mais condutores bêbados",
+          "text": "A GNR interceta cerca de 280 condutores por semana com taxas de alcoolemia consideradas crime, num total de 8.438 detenções entre janeiro e julho. No total, foram registados 8.856 crimes relacionados com taxas de alcoolemia nos primeiros sete meses do ano."
+        },
+        {
+          "headline": "Burlões usam nome de padre para pedir dinheiro aos fiéis",
+          "text": ""
+        },
+        {
+          "headline": "Hackers estão a usar sites oficiais para espalhar páginas falsas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Moção de censura do Chega será primeira do atual Governo e terceira contra executivos de Montenegro",
+          "text": "A moção de censura anunciada pelo Chega vai ser a primeira ao XXV Governo Constitucional, a terceira a executivos PSD/CDS-PP liderados por Luís Montenegro e a 37.ª em democracia. Esta será a quarta vez que o partido de André Ventura recorre a este instrumento."
+        },
+        {
+          "headline": "PCP defende que Governo merece censura, mas critica Chega e reserva sentido de voto",
+          "text": ""
+        },
+        {
+          "headline": "Pureza acusa Chega de \"campeonato\" da direita com moção de censura ao Governo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & HABITAÇÃO",
+      "stories": [
+        {
+          "headline": "Cabaz alimentar volta a subir e já custa mais de 254 euros",
+          "text": "O preço dos 63 produtos acompanhados pela DECO PROteste aumentou 2,11 euros numa semana. Desde janeiro, a subida já chega aos 12,91 euros. Comprar o conjunto de produtos essenciais está novamente mais caro, segundo a DECO PROteste."
+        },
+        {
+          "headline": "Coimbra dispara na procura por quartos: mais 120% em apenas um ano",
+          "text": "O preço dos quartos em casas partilhadas subiu apenas 1% no segundo trimestre de 2026, mas a procura por quartos cresceu 27%. Os preços aumentaram em 13 dos 20 municípios analisados, com Funchal e Vila Real a registar as maiores subidas (14%)."
+        },
+        {
+          "headline": "Portugal com habitação \"sistematicamente inacessível\" a compradores de rendimento médio",
+          "text": ""
+        },
+        {
+          "headline": "Descidas no preço do leite custam 72 milhões aos produtores em 2026",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Época especial de exames do ensino secundário arranca esta quinta-feira",
+          "text": ""
+        },
+        {
+          "headline": "Há cada vez mais estrangeiros a escolher Coimbra para estudar. Os números estão a bater recordes",
+          "text": "A Universidade de Coimbra prepara-se para dar as boas-vindas a mais de 1500 estudantes de mobilidade internacional no arranque do novo ano letivo. Os números ainda são provisórios, mas já apontam para um novo recorde de alunos estrangeiros recebidos pela instituição."
+        },
+        {
+          "headline": "Salário dos professores passa a depender do registo dos sumários",
+          "text": ""
+        },
+        {
+          "headline": "Nova presidente da Associação Europeia de Sociologia é de Coimbra",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Enxaqueca afeta um em cada sete portugueses e há um sinal que não deve ignorar",
+          "text": "A enxaqueca é uma doença neurológica crónica com impacto significativo na qualidade de vida. Há quem se habitue às dores de cabeça e as encare como parte da rotina, mas quando os episódios se repetem e condicionam o dia a dia, pode ser altura de deixar de normalizar os sintomas."
+        },
+        {
+          "headline": "Parkinson ganha novo tratamento na Europa com promessa de mais horas \"boas\"",
+          "text": ""
+        },
+        {
+          "headline": "Mais de metade dos sobreviventes de cancro pode perder o desejo sexual",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Arganil prepara-se para desligar o modo rotina e ligar-se à FICABEIRA",
+          "text": ""
+        },
+        {
+          "headline": "Secretário de Estado do Turismo inaugura FICABEIRA",
+          "text": ""
+        },
+        {
+          "headline": "Óbidos põe a ópera a dialogar com a fotografia entre a luz e a sombra",
+          "text": ""
+        },
+        {
+          "headline": "Coimbra entre livros, vinho e memórias: Casa da Escrita prepara um setembro cheio de histórias",
+          "text": ""
+        },
+        {
+          "headline": "\"Em setembro, semeia o teu pão\": chegou o mês das vindimas, sementeiras e primeiras chuvas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "75 euros de multa por atravessar a passadeira agarrado ao telemóvel? Poderá vir a ser possível",
+          "text": ""
+        },
+        {
+          "headline": "Atenção, camionistas: a partir deste dia vão deixar de poder usar esta estrada",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO & AUTO",
+      "stories": [
+        {
+          "headline": "Académica/OAF e Mancha Negra \"fumam\" o cachimbo da paz",
+          "text": ""
+        },
+        {
+          "headline": "Supercarro português regressa ao Caramulo para novas emoções ao volante",
+          "text": ""
+        },
+        {
+          "headline": "Académica prepara regresso à elite do rugby com Rui Carvoeira ao comando",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
