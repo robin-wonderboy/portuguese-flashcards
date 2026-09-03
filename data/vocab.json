@@ -25677,5 +25677,87 @@
       "example_de": "17 Mädchen und 41 Jungen wurden auf den Straßen von Díli identifiziert",
       "example_en": "17 girls and 41 boys were identified on the streets of Dili"
     }
+  ],
+  "2026-09-03": [
+    {
+      "pt": "a vaga de calor",
+      "de": "die Hitzewelle",
+      "en": "the heatwave",
+      "example": "Coimbra não escapa à nova vaga de calor",
+      "example_de": "Coimbra entkommt der neuen Hitzewelle nicht",
+      "example_en": "Coimbra doesnt escape the new heatwave"
+    },
+    {
+      "pt": "escapar",
+      "de": "entkommen/entrinnen",
+      "en": "to escape",
+      "example": "Coimbra não escapa à vaga de calor",
+      "example_de": "Coimbra entkommt der Hitzewelle nicht",
+      "example_en": "Coimbra doesnt escape the heatwave"
+    },
+    {
+      "pt": "o cartão de cidadão",
+      "de": "der Personalausweis",
+      "en": "the citizen card",
+      "example": "Foram furtados 500 cartões de cidadão",
+      "example_de": "Es wurden 500 Personalausweise gestohlen",
+      "example_en": "500 citizen cards were stolen"
+    },
+    {
+      "pt": "a tesourada",
+      "de": "die Messerstiche",
+      "en": "the stabbing",
+      "example": "Mata companheira à tesourada",
+      "example_de": "Ersticht seine Partnerin",
+      "example_en": "Stabs his partner"
+    },
+    {
+      "pt": "agarrado",
+      "de": "geklammert/festhalten",
+      "en": "glued/clinging",
+      "example": "Atravessar a passadeira agarrado ao telemóvel",
+      "example_de": "Über den Zebrastreifen ans Handy geklammert",
+      "example_en": "Crossing the crossing glued to the phone"
+    },
+    {
+      "pt": "o conservatória",
+      "de": "das Standesamt/Registeramt",
+      "en": "the registry office",
+      "example": "A conservatória do Registo Civil de Chaves",
+      "example_de": "Das Standesamt von Chaves",
+      "example_en": "The civil registry office of Chaves"
+    },
+    {
+      "pt": "interceptar",
+      "de": "aufhalten/kontrollieren",
+      "en": "to intercept",
+      "example": "A GNR interceta cerca de 280 condutores por semana",
+      "example_de": "Die GNR hält wöchentlich etwa 280 Fahrer an",
+      "example_en": "The GNR intercepts about 280 drivers per week"
+    },
+    {
+      "pt": "o memorial",
+      "de": "das Mahnmal",
+      "en": "the memorial",
+      "example": "As vítimas vão ser homenageadas com memorial",
+      "example_de": "Die Opfer werden mit einem Mahnmal geehrt",
+      "example_en": "The victims will be honored with a memorial"
+    },
+    {
+      "pt": "o camionista",
+      "de": "der LKW-Fahrer",
+      "en": "the truck driver",
+      "example": "Atenção, camionistas: vão deixar de poder usar esta estrada",
+      "example_de": "Achtung LKW-Fahrer: ihr dürft diese Straße nicht mehr benutzen",
+      "example_en": "Attention truck drivers: you will no longer be able to use this road"
+    },
+    {
+      "pt": "o sumário",
+      "de": "die Zusammenfassung/Stundenprotokoll",
+      "en": "the summary/lesson record",
+      "example": "O salário dos professores passa a depender do registo dos sumários",
+      "example_de": "Das Gehalt der Lehrer hängt vom Eintragen der Stundenprotokolle ab",
+      "example_en": "Teachers salary depends on recording lesson summaries"
+    }
   ]
 }
