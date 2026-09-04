@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Calor de quase 40ºC e trovoadas: o fim de semana vai ser uma loucura",
+          "text": "Portugal continental prepara-se para um fim de semana com mudanças significativas no estado do tempo. Sábado, 5 de setembro, será o dia mais instável, juntando temperaturas muito elevadas a aguaceiros, trovoadas e possibilidade de granizo. No domingo, a instabilidade deverá perder força e o calor começará a diminuir gradualmente."
+        },
+        {
+          "headline": "Concelho do distrito de Coimbra no topo do risco de incêndio",
+          "text": "O calor volta a apertar e há já um concelho do distrito de Coimbra no topo do risco de incêndio, com as autoridades a recomendarem cautela redobrada."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Pai de testemunha de tiroteio é morto com 3 tiros",
+          "text": "Um homem de 43 anos, pai de uma testemunha de um tiroteio ocorrido no verão de 2025 numa praia, foi atingido por três disparos a 21 de maio. Apesar de ter sido transportado para o hospital, não resistiu à gravidade dos ferimentos. O alegado autor do crime está identificado."
+        },
+        {
+          "headline": "Pegou fogo à floresta com um isqueiro e acabou detido pela PJ",
+          "text": "A Polícia Judiciária deteve um homem que terá provocado um incêndio florestal usando um isqueiro. O suspeito foi presentado a tribunal para aplicação de medidas de coação."
+        },
+        {
+          "headline": "Vingança acaba em sangue: 3 homens detidos por 2 homicídios",
+          "text": "Três homens foram detidos em ligação com dois homicídios num caso que as autoridades tratam como resultado de uma vingança. Os detidos foram presentados a tribunal."
+        },
+        {
+          "headline": "Anda aí um gabiru armado em estudante a dar o golpe nas residenciais de Coimbra",
+          "text": "O proprietário da Residência Moeda deixou um alerta urgente sobre uma burla envolvendo um homem de 25 anos e 1,81 metros. Este gabiru, como apelida, anda a fazer-se passar por estudante para enganar os espaços de alojamento estudantil na cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "PORTUGAL & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Auditoria à Polícia Judiciária entregue em 2026",
+          "text": "O Ministério da Justiça espera ter até ao final do ano as conclusões da auditoria à Polícia Judiciária. As auditorias e avaliações estão a decorrer com a autonomia técnica e independência legalmente asseguradas."
+        },
+        {
+          "headline": "Fisco paga 2.660 milhões em reembolsos de IRS",
+          "text": "O fisco pagou até 31 de agosto 2.590 milhões de euros em reembolsos de IRS, quase a totalidade dos 2.660 milhões previstos. O valor médio dos reembolsos está nos 980 euros."
+        },
+        {
+          "headline": "Direitos das mulheres estão a regredir, reconhece Bastonário da Ordem dos Advogados",
+          "text": "O Bastonário da Ordem dos Advogados reconheceu que os direitos das mulheres estão a regredir em Portugal, num discurso que alertou para a necessidade de medidas concretas para inverter a tendência."
+        },
+        {
+          "headline": "Bloco de Esquerda questiona Governo sobre projeto de mina de caulino para Peniche",
+          "text": "O BE questionou a ministra do Ambiente sobre se o Governo considera a concessão mineira Royal China Clay uma mais-valia ambiental e social para as comunidades da região. A pergunta foi entregue pela deputada Andreia Galvão."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & COIMBRA",
+      "stories": [
+        {
+          "headline": "Há novos estudantes a caminho de Coimbra. Vêm de 16 países diferentes",
+          "text": "Coimbra volta a ganhar sotaques de diferentes partes do mundo com a chegada de uma nova geração de estudantes internacionais. A chegada representa um novo encontro entre quem vem de fora e a comunidade académica da cidade."
+        },
+        {
+          "headline": "Universidade de Coimbra lança serviço de prescrição social",
+          "text": "A UC lança um novo Serviço de Prescrição Social em contexto universitário, aproximando os estudantes de atividades, recursos e oportunidades disponíveis na comunidade nas áreas social, cultural e de bem-estar."
+        },
+        {
+          "headline": "Académica e Mancha Negra fumam o cachimbo da paz",
+          "text": "Dirigentes do clube e da claque academista reuniram-se após o episódio da bandeira com rosto de Salazar na bancada da Mancha Negra. O grupo esclareceu que a bandeira não representa qualquer posição política coletiva."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "MOBILIDADE & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Atenção, camionistas: a partir deste dia vão deixar de poder usar esta estrada",
+          "text": "A partir de meados de setembro, determinados camiões vão deixar de poder utilizar uma das principais artérias rodoviárias do Grande Porto durante o período diurno dos dias úteis. A medida pretende retirar tráfego pesado das horas de maior movimento."
+        },
+        {
+          "headline": "A chuva pode estar a corroer tudo à nossa volta sem darmos por isso",
+          "text": "Um artigo alerta para os efeitos invisíveis da chuva na infraestrutura rodoviária e nos materiais, que podem estar a degradar-se sem que os condutores se apercebam do problema."
+        }
+      ]
+    },
+    {
+      "emoji": "🌌",
+      "category": "CIÊNCIA & MUNDO",
+      "stories": [
+        {
+          "headline": "A Lua vai escurecer quase por completo. Eis a hora exata",
+          "text": "O fenómeno começa a ser visível em Portugal por volta das 03:30 e atinge o ponto máximo às 05:12, quando cerca de 96% da Lua estará obscurecida. O resultado será um disco muito mais escuro, com tons avermelhados. Não são necessários óculos especiais, basta um local com boa visibilidade."
+        },
+        {
+          "headline": "Desaparecidos no Nepal disparam para 5.624 e mortos sobem para 1.280",
+          "text": "O balanço provisório dos desaparecidos no Nepal continua a subir, com 5.624 pessoas desaparecidas e 1.280 mortos confirmados. Do lado chinês, os meios de comunicação reportam 21 mortos e 541 desaparecidos em território tibetano."
+        }
+      ]
+    },
+    {
+      "emoji": "🎂",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Alambicada está de volta: 3 dias de comida, vinho e música em Vila Nova de Tazem",
+          "text": "Serão três dias dedicados à gastronomia, vinho, cultura, artesanato e música, com showcookings, provas de vinhos e música ao vivo. A Alambicada, prato que dá nome à feira, é uma das tradições gastronómicas mais características de Vila Nova de Tazem."
+        },
+        {
+          "headline": "1 ano depois, colegas homenageiam guarda-freio André Marques do Elevador da Glória",
+          "text": "Sindicalistas e colegas do guarda-freio André Marques, uma das 16 vítimas do descarrilamento do Elevador da Glória há um ano, depositaram uma coroa de flores no pilarete à entrada da Calçada da Glória, classificado como Monumento Nacional desde 1997."
+        },
+        {
+          "headline": "Serra da Estrela não pode continuar à espera",
+          "text": "Quatro anos depois dos incêndios devastadores de 2022 que consumiram cerca de 25 mil hectares, as declarações do Presidente da República voltaram a colocar no espaço público a distância entre os compromissos anunciados e a sua concretização no terreno."
+        }
+      ]
+    }
+  ]
+}
