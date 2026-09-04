@@ -25759,5 +25759,119 @@
       "example_de": "Das Gehalt der Lehrer hängt vom Eintragen der Stundenprotokolle ab",
       "example_en": "Teachers salary depends on recording lesson summaries"
     }
+  ],
+  "2026-09-04": [
+    {
+      "pt": "o gabiru",
+      "de": "Riese / schlaksiger Typ",
+      "en": "tall lanky guy (informal)",
+      "example": "Anda aí um gabiru armado em estudante",
+      "example_de": "Da läuft ein riesiger Typ herum, der sich als Student ausgibt",
+      "example_en": "Theres a lanky guy pretending to be a student"
+    },
+    {
+      "pt": "fumar o cachimbo da paz",
+      "de": "Friedenspfeife rauchen",
+      "en": "to smoke the peace pipe / make peace",
+      "example": "Académica e Mancha Negra fumam o cachimbo da paz",
+      "example_de": "Académica und Mancha Negra rauchen die Friedenspfeife",
+      "example_en": "Académica and Mancha Negra made peace"
+    },
+    {
+      "pt": "corroer",
+      "de": "korrodieren / zersetzen",
+      "en": "to corrode / erode",
+      "example": "A chuva pode estar a corroer tudo à nossa volta",
+      "example_de": "Der Regen könnte alles um uns herum zersetzen",
+      "example_en": "The rain may be corroding everything around us"
+    },
+    {
+      "pt": "obscurecer",
+      "de": "verdunkeln",
+      "en": "to darken / obscure",
+      "example": "A Lua vai escurecer quase por completo",
+      "example_de": "Der Mond wird fast vollständig verdunkelt",
+      "example_en": "The Moon will be almost completely darkened"
+    },
+    {
+      "pt": "a auditoria",
+      "de": "Audit / Prüfung",
+      "en": "audit",
+      "example": "Auditoria à Polícia Judiciária entregue em 2026",
+      "example_de": "Audit der Kriminalpolizei wird 2026 übergeben",
+      "example_en": "Audit of the Judicial Police to be delivered in 2026"
+    },
+    {
+      "pt": "regredir",
+      "de": "zurückschreiten / sich verschlechtern",
+      "en": "to regress / move backwards",
+      "example": "Direitos das mulheres estão a regredir",
+      "example_de": "Frauenrechte verschlechtern sich",
+      "example_en": "Womens rights are regressing"
+    },
+    {
+      "pt": "a mais-valia",
+      "de": "Mehrwert",
+      "en": "added value / benefit",
+      "example": "O BE questiona se a mina é uma mais-valia ambiental",
+      "example_de": "BE fragt, ob die Mine ein ökologischer Mehrwert ist",
+      "example_en": "BE questions if the mine is an environmental benefit"
+    },
+    {
+      "pt": "a prescrição social",
+      "de": "soziale Verschreibung",
+      "en": "social prescription",
+      "example": "UC lança serviço de prescrição social",
+      "example_de": "UC startet Service für soziale Verschreibung",
+      "example_en": "UC launches social prescription service"
+    },
+    {
+      "pt": "o showcooking",
+      "de": "Kochshow",
+      "en": "cooking demonstration",
+      "example": "Haverá showcookings e provas de vinhos",
+      "example_de": "Es wird Kochshows und Weinproben geben",
+      "example_en": "There will be cooking demos and wine tastings"
+    },
+    {
+      "pt": "armado em",
+      "de": "sich ausgeben als / tun als",
+      "en": "pretending to be / posing as",
+      "example": "Um gabiru armado em estudante",
+      "example_de": "Ein Riese, der sich als Student ausgibt",
+      "example_en": "A lanky guy posing as a student"
+    },
+    {
+      "pt": "questionar",
+      "de": "hinterfragen / befragen",
+      "en": "to question / challenge",
+      "example": "O BE questiona o Governo sobre o projeto",
+      "example_de": "BE befragt die Regierung zum Projekt",
+      "example_en": "BE questions the government about the project"
+    },
+    {
+      "pt": "o brasão",
+      "de": "Wappen",
+      "en": "coat of arms",
+      "example": "São Julião da Figueira da Foz tem novo brasão",
+      "example_de": "São Julião da Figueira da Foz hat neues Wappen",
+      "example_en": "São Julião da Figueira da Foz has a new coat of arms"
+    },
+    {
+      "pt": "o pilarete",
+      "de": "Pfeilerchen / kleiner Pfeiler",
+      "en": "small pillar / plaque post",
+      "example": "No pilarete à entrada da Calçada da Glória",
+      "example_de": "Am kleinen Pfeiler am Eingang der Calçada da Glória",
+      "example_en": "At the small pillar at the entrance of Calçada da Glória"
+    },
+    {
+      "pt": "a artéria rodoviária",
+      "de": "Verkehrsader",
+      "en": "road artery / main road",
+      "example": "Uma das principais artérias rodoviárias da região",
+      "example_de": "Eine der Hauptverkehrsadern der Region",
+      "example_en": "One of the main road arteries of the region"
+    }
   ]
 }
