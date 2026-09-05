@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "\"Tão bela e delicada como uma borboleta\": Matilde tem 15 anos e sofre com dores e feridas constantes",
+          "text": "Matilde tem 15 anos e vive com Epidermólise Bolhosa, uma doença rara que lhe provoca dores e feridas constantes. Foi criada uma angariação de fundos para ajudar a família a suportar os custos desta luta diária."
+        },
+        {
+          "headline": "Poeiras invadem Portugal e DGS recomenda cuidado redobrado",
+          "text": "A Direção-Geral da Saúde alertou para a fraca qualidade do ar devido à concentração de poeiras provenientes do norte de África. O IPMA indica que haverá poeiras em suspensão sexta e sábado. A população mais vulnerável deve ficar em casa sempre que possível."
+        },
+        {
+          "headline": "Julian Amaral estava de férias em Portugal e desapareceu. Imagens mostram jovem a cair ao rio",
+          "text": "Um jovem britânico de 23 anos está desaparecido desde a madrugada de quarta-feira, depois de ter participado numa festa a bordo de uma embarcação no rio Tejo, em Lisboa. Imagens de videovigilância mostram-no a entrar na água."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Mário Cardadeiro é de Coimbra e morreu esmagado por uma grua na Suíça",
+          "text": "Mário Cardadeiro, de 53 anos e natural de Coimbra, morreu na quarta-feira na Suíça num acidente de trabalho. Estava a instalar uma grua na traseira de um camião quando a máquina tombou e caiu sobre ele, em Le Châble, no cantão do Valais."
+        },
+        {
+          "headline": "Ambulância Mágica de Coimbra realiza o sonho de Maria: visitar o Santuário de Fátima",
+          "text": "A Ambulância Mágica da Cruz Vermelha Portuguesa em Coimbra ajudou Maria a concretizar um desejo especial: visitar o Santuário de Fátima na companhia de quem mais ama. O momento enquadra-se na missão de proporcionar experiências a pessoas em cuidados paliativos."
+        },
+        {
+          "headline": "Tábua inaugura segundo Parque de Biomassa para prevenir incêndios",
+          "text": "O Município de Tábua inaugurou o Parque de Biomassa da Venda da Serra, em Mouronho, a segunda infraestrutura deste género no concelho, destinada à receção de sobrantes florestais e agrícolas para prevenir incêndios."
+        },
+        {
+          "headline": "Miranda do Corvo prepara projeto pioneiro para produzir as \"árvores portuguesas\"",
+          "text": "A Feira da Árvore abriu em Semide com produtores e viveiristas, servindo para debater a gestão da floresta depois da tempestade Kristin e a necessidade de preparar o futuro do território."
+        },
+        {
+          "headline": "Montemor-o-Velho olha para a próxima década e aposta nas empresas, agricultura e turismo",
+          "text": "Mais de 180 empresários participaram no Colóquio do Tecido Empresarial de Montemor-o-Velho, dedicado aos desafios e oportunidades económicas do território nos próximos anos."
+        },
+        {
+          "headline": "Novo café com sabor italiano vai nascer junto ao Mondego",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Prepare a barriga e as pernas: este fim de semana é de festa na Região de Coimbra",
+          "text": "Setembro começa com vários programas espalhados pela região. Em Coimbra, o Festival da Sardinha chega à Praça da Canção com entrada livre. Há também festas populares, concertos e gastronomia por todo o território."
+        },
+        {
+          "headline": "Acendam as brasas: A sardinha saiu do mar e vem dar uma festa em Coimbra",
+          "text": "O evento \"Do Mar à Terra - Festival da Sardinha\" decorre de 4 a 6 de setembro na Praça da Canção, com a sardinha como protagonista."
+        },
+        {
+          "headline": "20 metros de bifana com queijo: Nesta localidade prepara-se um verdadeiro \"monstro\" delicioso",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Espancaram homem até à morte por ciúmes e dinheiro",
+          "text": "Dois homens, de 40 e 61 anos, começam a ser julgados no Tribunal de Viseu pela morte de António Lopes, de 60 anos, em Mangualde. As agressões terão acontecido em dois momentos, motivadas por ciúmes e tentativa de roubo."
+        },
+        {
+          "headline": "Larápios furtam torneiras de Lavadouro na Mealhada",
+          "text": "As torneiras do Lavadouro de Grada, em Barcouço, foram furtadas. A autarquia lamenta o sucedido e recorda que aquele é um espaço público, cuidado com dinheiro de todos."
+        },
+        {
+          "headline": "Tentou atropelar militar da GNR durante fuga e acabou por se despistar",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚑",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "PSP salva homem em paragem cardiorrespiratória",
+          "text": "Um homem de 57 anos sofreu uma paragem cardiorrespiratória na Rua de São Vicente, em Lisboa. Um agente da PSP iniciou manobras de reanimação com a ajuda de populares e foi utilizado um desfibrilhador semiautomático."
+        },
+        {
+          "headline": "SNS prevê estagnação: 15% dos portugueses continuarão sem médico de família até 2028",
+          "text": "O novo Quadro Global de Referência do SNS prevê a estagnação da cobertura de médicos de família nos 85,3% da população até 2028. O documento foi publicado em Diário da República."
+        },
+        {
+          "headline": "INEM aluga cinco viaturas enquanto espera pelas 275 novas prometidas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "TRAGÉDIAS & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Último adeus ao casal que morreu juntos após carro cair numa ravina acontece este sábado",
+          "text": "Duas pessoas com cerca de 80 anos morreram após o despiste de um veículo em Travanca, Cinfães. A viatura despistou-se para uma ravina de mais de 50 metros e os idosos ficaram encarcerados, tendo falecido no local."
+        }
+      ]
+    }
+  ]
+}
