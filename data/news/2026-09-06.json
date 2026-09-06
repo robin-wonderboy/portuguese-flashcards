@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚡",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Há 100 anos acendeu-se uma luz que mudou Arganil",
+          "text": "Arganil celebra o centenário da chegada da eletricidade com uma exposição que reúne documentos, fotografias e memórias de quem viveu a eletrificação do concelho. A mostra recorda um marco que transformou a vida quotidiana há um século."
+        },
+        {
+          "headline": "Debate sobre energias do futuro em Arganil",
+          "text": "O presidente da Câmara de Arganil, Luís Paulo Costa, defende que o debate sobre energias renováveis deve abrir espaço a novas ideias. A autarquia quer envolver a comunidade na transição energética do concelho."
+        },
+        {
+          "headline": "Cantanhede quer ser referência nacional no desporto adaptado",
+          "text": "O secretário de Estado do Desporto anunciou a ampliação das ofertas de prática desportiva para pessoas com deficiência. Cantanhede recebeu o primeiro Campo Paralímpico Jovem, marcando o início de um compromisso governamental."
+        },
+        {
+          "headline": "Irmãos constroem sonho juntos em Oliveira do Hospital",
+          "text": "Pedro e Miguel são irmãos e querem fazer crescer o projeto que construíram juntos em Oliveira do Hospital. A história de empreendedorismo familiar é exemplo da dinamização económica no interior."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica sofre segunda derrota consecutiva em Penafiel",
+          "text": "A Académica perdeu por 4-1 frente ao Penafiel na quinta jornada da Liga 2. O treinador António Barbosa apontou a falta de entrosamento como aspeto a corrigir, apesar de reconhecer oportunidades criadas."
+        },
+        {
+          "headline": "Benfica conquista 10.ª Supertaça feminina de futsal",
+          "text": "O Benfica voltou a imperar no futsal feminino, conquistando a 10.ª Supertaça. O domínio das águias no desporto indoor continua sem rivais à altura."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Menino de 10 anos em estado grave após colisão aparatosa",
+          "text": "Um menino de 10 anos ficou em estado grave após uma colisão aparatosa e foi helitransportado para o hospital. A GNR está a investigar as circunstâncias do acidente."
+        },
+        {
+          "headline": "Nova burla chega pelo correio e pode deixar a conta a zeros",
+          "text": "A GNR alerta para uma burla em que burlões enviam um cartão falso pelo correio, imitando a comunicação do banco. A vítima é incentivada a ativá-lo através de um QR Code, dando acesso à conta."
+        },
+        {
+          "headline": "Cinco dias depois, operacionais não desistem de encontrar mulher desaparecida",
+          "text": "Os Bombeiros Voluntários de Paredes de Coura mantêm buscas por Maria Augusta Fernandes, desaparecida desde 2 de setembro na freguesia de Rubiães. As operações decorrem em articulação com a GNR."
+        }
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Circulação de comboios interrompida na Linha do Norte",
+          "text": "A circulação ferroviária na Linha do Norte está interrompida na zona do Cartaxo devido a uma avaria na sinalização. A Infraestruturas de Portugal prevê resolução em breve."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "SNS prevê estagnação: 15% sem médico de família até 2028",
+          "text": "O novo Quadro Global de Referência do SNS prevê que a cobertura de médicos de família estagne nos 85,3% até 2028. A Ordem dos Médicos diz que o novo quadro fica muito aquém do necessário."
+        },
+        {
+          "headline": "INEM aluga cinco viaturas enquanto espera pelas 275 prometidas",
+          "text": "O INEM recorreu ao aluguer de cinco viaturas para colmatar necessidades urgentes, aguardando ainda a entrega das 275 ambulâncias prometidas pelo Governo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Montenegro admite novas medidas para travar subida dos combustíveis",
+          "text": "O primeiro-ministro indicou que o desconto no imposto sobre combustíveis soma cerca de 700 milhões de euros em 2026 e admitiu novas medidas se os preços se mantiverem elevados."
+        },
+        {
+          "headline": "TAP: Governo inicia negociações finais com Air France-KLM e Lufthansa",
+          "text": "O Governo vai iniciar negociações finais com os dois candidatos à compra de 44,9% da TAP. As ofertas têm avaliação global muito próxima, justificando negociação com ambos os concorrentes."
+        },
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço da habitação em Coimbra subiu 17% em um ano. A procura por quartos em casas partilhadas disparou 120%, num mercado sob forte pressão."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "1.500 estudantes estrangeiros escolhem Coimbra",
+          "text": "A Universidade de Coimbra recebe 1.500 estudantes estrangeiros para uma nova experiência académica. A instituição é considerada muito forte no mundo da língua portuguesa."
+        },
+        {
+          "headline": "Maioria dos alunos faltou ao exame da época especial",
+          "text": "A maioria dos alunos do secundário inscritos no primeiro dia da época especial de exames não compareceu. O fenómeno levanta questões sobre a gestão das inscrições."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Comunidade nepalesa de Coimbra promove vigília pelas vítimas das cheias",
+          "text": "A Nepal Cultural Community Coimbra realizou uma vigília com acendimento de velas em memória das vítimas das cheias de agosto no Nepal, que provocaram mais de 1.300 mortos e 5.000 desaparecidos."
+        },
+        {
+          "headline": "Sobe para 1.344 o número de mortos pelas cheias no Nepal",
+          "text": "O balanço das cheias de agosto no Nepal continua a subir, tendo já ultrapassado os 1.300 mortos. As autoridades mantêm operações de busca por desaparecidos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festa do Mel em Penela e três dias de festa em Oliveira do Conde",
+          "text": "O fim de semana traz festa à Região de Coimbra: Penela celebra o mel e Oliveira do Conde prepara três dias de vinho, música e tradição. A sardinha também chega a Coimbra para uma festa."
+        },
+        {
+          "headline": "Fado e piano juntos nas Termas da Curia",
+          "text": "As Termas da Curia recebem uma noite especial com fado e piano. O evento insere-se na programação cultural de setembro na região."
+        }
+      ]
+    }
+  ]
+}
