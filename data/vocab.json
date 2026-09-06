@@ -25915,5 +25915,95 @@
       "pt": "acender as brasas",
       "de": "die Glut anfachen"
     }
+  ],
+  "2026-09-06": [
+    {
+      "pt": "apatoso",
+      "de": "spektakulär",
+      "en": "spectacular",
+      "example": "após colisão aparatosa",
+      "example_de": "nach spektakulärem Zusammenstoß",
+      "example_en": "after spectacular collision"
+    },
+    {
+      "pt": "ampliar",
+      "de": "erweitern/ausbauen",
+      "en": "to expand",
+      "example": "ampliar as ofertas de prática desportiva",
+      "example_de": "die Sportangebote ausbauen",
+      "example_en": "expand sports practice offerings"
+    },
+    {
+      "pt": "a vigília",
+      "de": "Kerzenwache",
+      "en": "vigil",
+      "example": "promove vigília em memória das vítimas",
+      "example_de": "veranstaltet Kerzenwache zum Gedenken an die Opfer",
+      "example_en": "promotes vigil in memory of victims"
+    },
+    {
+      "pt": "negociar",
+      "de": "verhandeln",
+      "en": "to negotiate",
+      "example": "Governo inicia negociações finais",
+      "example_de": "Regierung startet finale Verhandlungen",
+      "example_en": "Government starts final negotiations"
+    },
+    {
+      "pt": "consecutivo",
+      "de": "aufeinanderfolgend",
+      "en": "consecutive",
+      "example": "segunda derrota consecutiva",
+      "example_de": "zweite aufeinanderfolgende Niederlage",
+      "example_en": "second consecutive defeat"
+    },
+    {
+      "pt": "o entrosamento",
+      "de": "Einspielung",
+      "en": "teamwork",
+      "example": "falta de equilíbrio e de entrosamento",
+      "example_de": "Mangel an Balance und Einspielung",
+      "example_en": "lack of balance and teamwork"
+    },
+    {
+      "pt": "a derreta",
+      "de": "Schmelze",
+      "en": "squander/meltdown",
+      "example": "derrete milhares de euros em cerveja",
+      "example_de": "lässt Tausende Euro in Bier schmelzen",
+      "example_en": "melts thousands of euros in beer"
+    },
+    {
+      "pt": "a frota",
+      "de": "Fuhrpark",
+      "en": "fleet",
+      "example": "gerir frotas numa região de fronteira",
+      "example_de": "Fuhrparks in einer Grenzregion verwalten",
+      "example_en": "manage fleets in a border region"
+    },
+    {
+      "pt": "aquém",
+      "de": "darunter/hinter",
+      "en": "short of/below",
+      "example": "fica muito aquém do necessário",
+      "example_de": "bleibt weit hinter dem Notwendigen",
+      "example_en": "falls far short of what is needed"
+    },
+    {
+      "pt": "o rubro",
+      "de": "Höhepunkt",
+      "en": "climax/peak",
+      "example": "levam FICTON ao rubro",
+      "example_de": "bringen FICTON zum Höhepunkt",
+      "example_en": "take FICTON to its peak"
+    },
+    {
+      "pt": "a vertente",
+      "de": "Seite/Richtung",
+      "en": "aspect/side",
+      "example": "tem vertente solidária",
+      "example_de": "hat eine solidarische Seite",
+      "example_en": "has a solidarity aspect"
+    }
   ]
 }
