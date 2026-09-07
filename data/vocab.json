@@ -26005,5 +26005,119 @@
       "example_de": "hat eine solidarische Seite",
       "example_en": "has a solidarity aspect"
     }
+  ],
+  "2026-09-07": [
+    {
+      "pt": "ferver",
+      "de": "kochen/sieden",
+      "en": "to boil",
+      "example": "A semana começa a ferver com calor intenso",
+      "example_de": "Die Woche beginnt zu kochen",
+      "example_en": "The week starts boiling with intense heat"
+    },
+    {
+      "pt": "o calor intenso",
+      "de": "die extreme Hitze",
+      "en": "intense heat",
+      "example": "Calor intenso chega aos 39 graus",
+      "example_de": "Extreme Hitze erreicht 39 Grad",
+      "example_en": "Intense heat reaches 39 degrees"
+    },
+    {
+      "pt": "falido",
+      "de": "pleitegegangen",
+      "en": "bankrupt",
+      "example": "Lobos protegidos, produtores falidos",
+      "example_de": "Wölfe geschützt, Produzenten pleite",
+      "example_en": "Wolves protected, producers bankrupt"
+    },
+    {
+      "pt": "a bondade",
+      "de": "die Güte",
+      "en": "kindness",
+      "example": "Cinderela chega para falar de bondade",
+      "example_de": "Cinderella kommt um über Güte zu sprechen",
+      "example_en": "Cinderella arrives to speak about kindness"
+    },
+    {
+      "pt": "o ambiente",
+      "de": "die Umwelt",
+      "en": "the environment",
+      "example": "Associações de defesa do ambiente",
+      "example_de": "Umweltschutzverbände",
+      "example_en": "Environmental defense associations"
+    },
+    {
+      "pt": "o taberneiro",
+      "de": "der Wirt",
+      "en": "the tavern keeper",
+      "example": "Aumentar o lucro do taberneiro",
+      "example_de": "Den Gewinn des Wirts steigern",
+      "example_en": "Increase the tavern keeper profit"
+    },
+    {
+      "pt": "a aterragem",
+      "de": "die Landung",
+      "en": "the landing",
+      "example": "O despiste ocorreu durante a aterragem",
+      "example_de": "Das Abkommen passierte während der Landung",
+      "example_en": "The skidding happened during the landing"
+    },
+    {
+      "pt": "o logótipo",
+      "de": "das Logo",
+      "en": "the logo",
+      "example": "Um avião com o logótipo da Amazon",
+      "example_de": "Ein Flugzeug mit dem Logo von Amazon",
+      "example_en": "A plane with the Amazon logo"
+    },
+    {
+      "pt": "a rejeição",
+      "de": "die Ablehnung",
+      "en": "the rejection",
+      "example": "Dar um forte sinal de rejeição",
+      "example_de": "Ein starkes Zeichen der Ablehnung geben",
+      "example_en": "Give a strong signal of rejection"
+    },
+    {
+      "pt": "a cedência",
+      "de": "die Abtretung",
+      "en": "the granting/yielding",
+      "example": "A cedência de uso de dois edifícios",
+      "example_de": "Die Abtretung der Nutzung von zwei Gebäuden",
+      "example_en": "The granting of use of two buildings"
+    },
+    {
+      "pt": "o piano",
+      "de": "das Klavier",
+      "en": "the piano",
+      "example": "Espaço online dedicado ao ensino de piano",
+      "example_de": "Online-Raum gewidmet dem Klavierunterricht",
+      "example_en": "Online space dedicated to piano teaching"
+    },
+    {
+      "pt": "o correio",
+      "de": "die Post",
+      "en": "the mail",
+      "example": "A burla chega pelo correio",
+      "example_de": "Der Betrug kommt per Post",
+      "example_en": "The scam arrives by mail"
+    },
+    {
+      "pt": "o dióxido de azoto",
+      "de": "das Stickstoffdioxid",
+      "en": "nitrogen dioxide",
+      "example": "O dióxido de azoto continua crítico",
+      "example_de": "Stickstoffdioxid bleibt kritisch",
+      "example_en": "Nitrogen dioxide remains critical"
+    },
+    {
+      "pt": "elevar",
+      "de": "anheben/erhöhen",
+      "en": "to elevate/raise",
+      "example": "As temperaturas vão manter-se elevadas",
+      "example_de": "Die Temperaturen bleiben erhöht",
+      "example_en": "Temperatures will remain elevated"
+    }
   ]
 }
