@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Semana começa a ferver: calor intenso chega aos 39°C",
+          "text": "O IPMA emitiu um aviso de tempo quente para sete distritos de Portugal continental, em vigor até às 21:00. As temperaturas podem atingir os 39°C em algumas regiões."
+        },
+        {
+          "headline": "Perigo máximo de incêndio dispara em 19 concelhos",
+          "text": "Dezanove concelhos dos distritos de Bragança, Guarda, Santarém, Portalegre e Faro estão em perigo máximo de incêndio rural. O IPMA alerta para temperaturas elevadas que aumentam o risco."
+        },
+        {
+          "headline": "Poluição dos carros continua crítica nas cidades",
+          "text": "O dióxido de azoto, poluente emitido pelos automóveis a combustão, continua a ser um poluente crítico nas zonas urbanas, alertaram associações de defesa do ambiente."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra cede dois edifícios na Baixa para o Instituto Miguel Torga",
+          "text": "A Câmara Municipal de Coimbra vai analisar amanhã a cedência de uso, a título gratuito, de dois edifícios municipais na Rua Ferreira Borges à Comunidade do Instituto Miguel Torga."
+        },
+        {
+          "headline": "Cria'ctividade regressa com programação gratuita",
+          "text": "A 13ª edição do Cria'ctividade arranca esta semana em Coimbra com mais de um mês de atividades gratuitas, pensadas como alternativa às tradicionais formas de integração académica."
+        },
+        {
+          "headline": "Oficina de Teatro de Condeixa regressa aos palcos",
+          "text": "A Oficina de Teatro de Condeixa volta aos palcos com uma nova versão do clássico de Gil Vicente."
+        },
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis anunciados para venda em Portugal mantém-se nos 430.000 euros em agosto. Em Coimbra, o aumento foi de 17% face ao ano anterior."
+        },
+        {
+          "headline": "Este é o imóvel mais caro à venda em Coimbra",
+          "text": "Considerado único, o imóvel mais caro actualmente à venda em Coimbra destaca-se pela localização e características excecionais."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Nova burla pelo correio pode deixar a conta a zeros",
+          "text": "A GNR está a alertar para uma burla que está a ganhar força em Portugal. Receber um novo cartão do banco pelo correio pode parecer normal, mas pode ser uma armadilha."
+        },
+        {
+          "headline": "BE questiona tempos de espera para psicologia no SNS",
+          "text": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no SNS, que segundo a bastonária dos psicólogos pode chegar a vários meses."
+        },
+        {
+          "headline": "Lobos protegidos, produtores falidos",
+          "text": "Mais de meia centena de pastores do Planalto Mirandês manifestaram-se em Miranda do Douro, reclamando ao Governo pagamentos atempados devido aos ataques de lobos."
+        }
+      ]
+    },
+    {
+      "emoji": "🗳️",
+      "category": "POLÍTICA & OPINIÃO",
+      "stories": [
+        {
+          "headline": "PCP classifica Governo: mestre da propaganda e da ilusão",
+          "text": "O secretário-geral do PCP acusou o Governo de preparar um assalto à Segurança Social e apelou aos trabalhadores para darem um forte sinal de rejeição."
+        },
+        {
+          "headline": "Ana Abrunhosa: A presidente de obras feitas",
+          "text": "Opinião sobre a presidente da Câmara de Coimbra, destacando as obras realizadas durante o seu mandato."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & FAMA",
+      "stories": [
+        {
+          "headline": "Maria João Pires anuncia academia online de piano",
+          "text": "A pianista portuguesa anunciou o lançamento da MJP Piano Academy, espaço online dedicado ao ensino de piano, com residências em Belgais."
+        },
+        {
+          "headline": "Pedro Tochas cancela espetáculo no Commedia a la Carte Fest",
+          "text": "O humorista cancelou a sua participação no festival de comédia."
+        },
+        {
+          "headline": "Cinderela chega a Óbidos",
+          "text": "O espetáculo chega a Óbidos para falar de bondade, poder e transformação."
+        },
+        {
+          "headline": "Castelejo celebra Santa Luzia com três dias de festa",
+          "text": "A vila celebra Santa Luzia com três dias de festa e tradição religiosa."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "5 mortos em acidente no Aeroporto de Miami com avião da Amazon",
+          "text": "Cinco pessoas morreram e outras cinco ficaram feridas no despiste de um avião de carga com o logótipo da Amazon, ocorrido durante a aterragem no Aeroporto Internacional de Miami."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académico de Viseu consegue primeira vitória",
+          "text": ""
+        },
+        {
+          "headline": "Pergunta da Semana: A Académica subirá à primeira liga?",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
