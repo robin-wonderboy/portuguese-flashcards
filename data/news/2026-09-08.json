@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & PROTEÇÃO CIVIL",
+      "stories": [
+        {
+          "headline": "Bebé de 5 meses escapa ileso de incêndio que deixa família desalojada em Condeixa",
+          "text": "Um incêndio deflagrou numa habitação multifamiliar em Alcouce, Condeixa-a-Nova, ao final da tarde de segunda-feira. O fogo teve origem na zona da churrasqueira, junto às botijas de gás. Uma família ficou desalojada, mas um bebé de 5 meses escapou ileso."
+        },
+        {
+          "headline": "Incêndio florestal na Lousã mobiliza meios de emergência",
+          "text": "Um incêndio florestal está a mobilizar meios de emergência no concelho da Lousã. O alerta foi dado pelas 20h33. No combate às chamas estão envolvidos 20 operacionais, apoiados por 6 meios terrestres."
+        },
+        {
+          "headline": "30 concelhos em perigo máximo de incêndio rural",
+          "text": "O IPMA colocou 30 concelhos dos distritos de Bragança, Guarda, Castelo Branco, Santarém, Portalegre e Faro em perigo máximo de incêndio. Mais de 50 concelhos adicionais estão em perigo muito elevado, incluindo distrito de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🚓",
+      "category": "CRIME & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "\"Cavalinhos\", contramão e fuga à PSP pelo IC2: madrugada louca acaba em detenção em Coimbra",
+          "text": "Um homem de 33 anos foi detido pela PSP por condução perigosa na madrugada de sábado em Coimbra. A detenção ocorreu pelas 1h40 na Rua da Liberdade, depois de a PSP ter sido alertada pela GNR para um motociclista em fuga."
+        },
+        {
+          "headline": "Jovem que matou avó fica em prisão preventiva",
+          "text": "O Tribunal de Sintra decidiu aplicar prisão preventiva ao jovem de 24 anos suspeito de ter matado à facada a avó no concelho de Mafra. O suspeito vai aguardar julgamento no Estabelecimento Prisional de Lisboa."
+        },
+        {
+          "headline": "Homem baleado em baile funk",
+          "text": "Um homem foi baleado durante um baile funk. A vítima foi transportada para o hospital com ferimentos por arma de fogo."
+        },
+        {
+          "headline": "Antigo patrão da Fórmula 1 detido com shotgun em Portugal",
+          "text": "Bernie Ecclestone foi detido no Aeródromo de Tires, em Cascais, depois de ter sido encontrado na posse de uma espingarda. A detenção aconteceu durante uma operação de rotina, na sequência da chegada do britânico num jato privado."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & AUTARQUIAS",
+      "stories": [
+        {
+          "headline": "Presidente de Mortágua acusado de viciar concurso para favorecer compadre",
+          "text": "O presidente da Câmara de Mortágua, Ricardo Pardal, foi acusado pelo Ministério Público de favorecer um homem próximo num processo de contratação. O beneficiário seria João Silva, gestor de marketing e responsável pela campanha autárquica de Pardal."
+        },
+        {
+          "headline": "Juntos Somos Coimbra ausenta-se e não vota em Miguel Torga",
+          "text": "O partido Juntos Somos Coimbra ausentou-se da votação relacionada com Miguel Torga, não registando voto."
+        }
+      ]
+    },
+    {
+      "emoji": "⛽",
+      "category": "ECONOMIA & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Encher o depósito nos postos do distrito de Coimbra é um \"balúrdio\"",
+          "text": "O preço do combustível ultrapassa os dois euros por litro em vários postos do distrito de Coimbra. Na A1, junto à Mealhada, os postos da BP apresentam a gasolina 95 a 2,269 euros por litro, com o gasóleo a chegar aos 2,304 euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "SOCIEDADE & IMIGRAÇÃO",
+      "stories": [
+        {
+          "headline": "Estudante da Figueira da Foz é deportado e descobre no Brasil que pedido de residência foi aprovado",
+          "text": "Kauê Matos, jovem brasileiro de 19 anos, foi deportado de Portugal para o Brasil e só depois descobriu que o seu processo de residência tinha sido aprovado. Vivia há dois anos em Portugal com a família e estudava na Figueira da Foz."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Fumo dos outros matou 1,66 milhões de pessoas em 2023",
+          "text": "Cerca de 2,71 mil milhões de pessoas estão expostas ao fumo passivo em todo o mundo, incluindo 767 milhões de crianças. Esta exposição contribuiu para 1,66 milhões de mortes em 2023, segundo um estudo global. Não existe um limite seguro de inalação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "MAU TEMPO & RECUPERAÇÃO",
+      "stories": [
+        {
+          "headline": "Beira Baixa tem aprovados 57,34 milhões para recuperação do território",
+          "text": "A CIM da Beira Baixa tem aprovada uma verba de 57,34 milhões de euros para apoiar a recuperação do território no âmbito da depressão Kristin. A região registou 2.272 candidaturas, correspondendo a 74,33 milhões de euros em prejuízos sinalizados."
+        },
+        {
+          "headline": "Leiria aprova linha financeira para estruturas residenciais comprarem geradores",
+          "text": "O município de Leiria aprovou uma linha financeira para ajudar estruturas residenciais a adquirirem geradores, no âmbito do mau tempo."
+        },
+        {
+          "headline": "Fica gravemente ferido após ser atropelado por empilhador",
+          "text": "Um homem ficou gravemente ferido após ser atropelado por um empilhador num local de trabalho."
+        }
+      ]
+    },
+    {
+      "emoji": "🐓",
+      "category": "CULTURA & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "O galo é rei: Cantanhede prepara Festival do Galo \"à Gandareza\"",
+          "text": "O Festival do Galo \"à Gandareza\" decorre de 11 a 13 de setembro na Caniceira, Tocha, Cantanhede. Organizado pela Associação de Moradores, promete três dias de gastronomia, música e convívio, valorizando a tradição gastronómica da região da Gândara."
+        },
+        {
+          "headline": "Museu do Vinho Bairrada regressa em setembro com provas, cultura e convidados",
+          "text": "O Museu do Vinho Bairrada regressa em setembro com um programa de provas, cultura e convidados especiais."
+        },
+        {
+          "headline": "Coimbra volta a ouvir blues",
+          "text": "Coimbra volta a receber um evento dedicado ao blues, com concertos programados para os próximos dias."
+        }
+      ]
+    }
+  ]
+}
