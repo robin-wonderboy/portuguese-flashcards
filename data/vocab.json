@@ -26119,5 +26119,87 @@
       "example_de": "Die Temperaturen bleiben erhöht",
       "example_en": "Temperatures will remain elevated"
     }
+  ],
+  "2026-09-08": [
+    {
+      "pt": "o balúrdio",
+      "de": "eine Menge Geld, ein Haufen",
+      "en": "a fortune, a bundle (of money)",
+      "example": "Encher o depósito é um balúrdio",
+      "example_de": "Den Tank zu füllen kostet ein Vermögen",
+      "example_en": "Filling the tank costs a fortune"
+    },
+    {
+      "pt": "desalojada",
+      "de": "obdachlos",
+      "en": "homeless, displaced",
+      "example": "A família ficou desalojada após o incêndio",
+      "example_de": "Die Familie wurde nach dem Brand obdachlos",
+      "example_en": "The family was left homeless after the fire"
+    },
+    {
+      "pt": "deportar",
+      "de": "abschieben, deportieren",
+      "en": "to deport",
+      "example": "O estudante foi deportado para o Brasil",
+      "example_de": "Der Student wurde nach Brasilien abgeschoben",
+      "example_en": "The student was deported to Brazil"
+    },
+    {
+      "pt": "a churrasqueira",
+      "de": "Grill, Grillstelle",
+      "en": "barbecue grill",
+      "example": "O fogo teve origem na zona da churrasqueira",
+      "example_de": "Das Feuer brach im Grillbereich aus",
+      "example_en": "The fire started in the barbecue area"
+    },
+    {
+      "pt": "o empilhador",
+      "de": "Gabelstapler",
+      "en": "forklift",
+      "example": "Ficou ferido após ser atropelado por um empilhador",
+      "example_de": "Er wurde verletzt, nachdem er von einem Gabelstapler überfahren wurde",
+      "example_en": "He was injured after being run over by a forklift"
+    },
+    {
+      "pt": "o compadre",
+      "de": "der Kumpan, der Komplize",
+      "en": "crony, close friend",
+      "example": "Favoreceu o compadre num concurso público",
+      "example_de": "Er bevorzugte seinen Kumpan bei einer öffentlichen Ausschreibung",
+      "example_en": "He favored his crony in a public tender"
+    },
+    {
+      "pt": "o fumo passivo",
+      "de": "Passivrauchen",
+      "en": "secondhand smoke",
+      "example": "A exposição ao fumo passivo matou milhões",
+      "example_de": "Passivrauchen hat Millionen getötet",
+      "example_en": "Exposure to secondhand smoke killed millions"
+    },
+    {
+      "pt": "o Combate às chamas",
+      "de": "die Brandbekämpfung",
+      "en": "fighting the flames",
+      "example": "No combate às chamas estão 20 operacionais",
+      "example_de": "Bei der Brandbekämpfung sind 20 Einsatzkräfte im Einsatz",
+      "example_en": "20 personnel are fighting the flames"
+    },
+    {
+      "pt": "ileso",
+      "de": "unverletzt",
+      "en": "unharmed, uninjured",
+      "example": "O bebé escapa ileso do incêndio",
+      "example_de": "Der Baby entkommt dem Brand unverletzt",
+      "example_en": "The baby escapes the fire unharmed"
+    },
+    {
+      "pt": "a espingarda",
+      "de": "die Flinte, das Gewehr",
+      "en": "shotgun",
+      "example": "Foi encontrado na posse de uma espingarda",
+      "example_de": "Er wurde im Besitz einer Flinte gefunden",
+      "example_en": "He was found in possession of a shotgun"
+    }
   ]
 }
