@@ -26201,5 +26201,111 @@
       "example_de": "Er wurde im Besitz einer Flinte gefunden",
       "example_en": "He was found in possession of a shotgun"
     }
+  ],
+  "2026-09-09": [
+    {
+      "pt": "desconfiar",
+      "de": "misstrauen, Verdacht schöpfen",
+      "en": "to distrust, to suspect",
+      "example": "É importante desconfiar de contactos inesperados",
+      "example_de": "Es ist wichtig, bei unerwarteten Kontakten misstrauisch zu sein",
+      "example_en": "It is important to be suspicious of unexpected contacts"
+    },
+    {
+      "pt": "o furtador",
+      "de": "der Dieb",
+      "en": "the thief",
+      "example": "O furtador foi detido fora de flagrante delito",
+      "example_de": "Der Dieb wurde außerhalb der frischen Tat festgenommen",
+      "example_en": "The thief was arrested outside flagrante delito"
+    },
+    {
+      "pt": "o brigadeiro",
+      "de": "der Brigadegeneral",
+      "en": "the brigadier general",
+      "example": "O brigadeiro-general assume o comando da missão",
+      "example_de": "Der Brigadegeneral übernimmt das Kommando der Mission",
+      "example_en": "The brigadier general takes command of the mission"
+    },
+    {
+      "pt": "a maçonaria",
+      "de": "die Freimaurerei",
+      "en": "freemasonry",
+      "example": "Questionaram o ministro se pertence à maçonaria",
+      "example_de": "Sie fragten den Minister, ob er der Freimaurerei angehört",
+      "example_en": "They asked the minister if he belongs to freemasonry"
+    },
+    {
+      "pt": "boquiaberto",
+      "de": "sprachlos, verblüfft",
+      "en": "open-mouthed, dumbfounded",
+      "example": "A resposta deixou todos boquiabertos",
+      "example_de": "Die Antwort ließ alle sprachlos",
+      "example_en": "The answer left everyone dumbfounded"
+    },
+    {
+      "pt": "o munícipe",
+      "de": "der Bürger, Einwohner",
+      "en": "the resident, citizen",
+      "example": "As telhas foram doadas para apoiar os munícipes",
+      "example_de": "Die Ziegel wurden gespendet, um die Einwohner zu unterstützen",
+      "example_en": "The tiles were donated to support the residents"
+    },
+    {
+      "pt": "o ciclismo",
+      "de": "der Radsport",
+      "en": "cycling",
+      "example": "O evento associa o ciclismo à promoção do território",
+      "example_de": "Das Event verbindet Radsport mit der Förderung des Gebiets",
+      "example_en": "The event associates cycling with territorial promotion"
+    },
+    {
+      "pt": "verificar",
+      "de": "überprüfen, nachprüfen",
+      "en": "to verify, to check",
+      "example": "Após verificar a necessidade, a Junta encaminha o pedido",
+      "example_de": "Nach Überprüfung des Bedarfs leitet die Behörde das Gesuch weiter",
+      "example_en": "After verifying the need, the Parish Council forwards the request"
+    },
+    {
+      "pt": "integrar",
+      "de": "integrieren, eingliedern",
+      "en": "to integrate",
+      "example": "A sessão integra os Ciclos Temáticos de Formação",
+      "example_de": "Die Sitzung ist Teil der thematischen Bildungszyklen",
+      "example_en": "The session is part of the Thematic Training Cycles"
+    },
+    {
+      "pt": "fugaz",
+      "de": "flüchtig, vergänglich",
+      "en": "fleeting, ephemeral",
+      "example": "O silêncio na sala foi fugaz mas intenso",
+      "example_de": "Die Stille im Raum war flüchtig aber intensiv",
+      "example_en": "The silence in the room was fleeting but intense"
+    },
+    {
+      "pt": "a habitabilidade",
+      "de": "die Bewohnbarkeit",
+      "en": "habitability",
+      "example": "As casas perderam habitabilidade com a tempestade",
+      "example_de": "Die Häuser verloren durch den Sturm ihre Bewohnbarkeit",
+      "example_en": "The houses lost habitability due to the storm"
+    },
+    {
+      "pt": "o armazém solidário",
+      "de": "das Hilfslager",
+      "en": "the solidarity warehouse",
+      "example": "O Município mantém telhas disponíveis no Armazém Solidário",
+      "example_de": "Die Gemeinde hält Ziegel im Hilfslager bereit",
+      "example_en": "The Municipality keeps tiles available at the Solidarity Warehouse"
+    },
+    {
+      "pt": "a janela",
+      "de": "das Fenster, das Zeitfenster",
+      "en": "the window",
+      "example": "O alerta foi dado cerca das 0:30 para a rotunda",
+      "example_de": "Der Alarm wurde gegen 0:30 Uhr für den Kreisverkehr gegeben",
+      "example_en": "The alert was given around 0:30 for the roundabout"
+    }
   ]
 }
