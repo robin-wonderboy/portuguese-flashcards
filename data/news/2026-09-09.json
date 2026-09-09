@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "COIMBRA & CIDADE",
+      "stories": [
+        {
+          "headline": "Coimbra prepara 4 dias de paixão por carros e motos",
+          "text": "A 2ª Mostra Automoto de Coimbra decorre de 10 a 13 de setembro na Praça da Canção, reunindo entusiastas, clubes e expositores. A inauguração oficial é sexta-feira às 16h00 com a presença do vereador Luís Francisco Filipe."
+        },
+        {
+          "headline": "Coimbra acorda com novas regras de trânsito",
+          "text": "A Rua da Sofia estará condicionada durante a tarde e noite de quarta-feira para implementar a nova organização de circulação na Baixa, que entra em vigor a 10 de setembro. A transformação começa às 14h00 no sentido Arnado-Praça 8 de Maio."
+        },
+        {
+          "headline": "Incêndio em cabos elétricos na Rua Direita",
+          "text": "Os Bombeiros de Coimbra foram mobilizados na terça-feira às 22h00 para um incêndio em cabos elétricos na Rua Direita. A situação foi rapidamente resolvida com meios do Batalhão de Bombeiros, Voluntários e PSP."
+        },
+        {
+          "headline": "Coimbra debate relação entre gaming e álcool",
+          "text": "A Unidade de Alcoologia de Coimbra realiza a 30 de setembro uma conferência sobre a relação entre jogo, gaming e consumo de álcool. A sessão integra a VII edição dos Ciclos Temáticos de Formação em Alcoologia."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "CRIMES & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Burlões querem pôr o seu dinheiro a \"voar\" pelo MB WAY",
+          "text": "A GNR de Coimbra alerta para burlas associadas ao MB WAY, onde os suspeitos procuram convencer as vítimas a realizar operações ou fornecer códigos de confirmação. É importante desconfiar de contactos inesperados que envolvam pedidos relacionados com a aplicação."
+        },
+        {
+          "headline": "PSP apanha jovem com faca de 32,5 centímetros em Coimbra",
+          "text": "A PSP deteve um homem de 21 anos na Avenida Fernão de Magalhães por posse de arma proibida. Na fiscalização, os polícias detetaram uma faca de grandes dimensões e óxido nitroso no interior da viatura."
+        },
+        {
+          "headline": "500 polícias serão libertados para as ruas com reorganização da PSP",
+          "text": "O ministro da Administração Interna anunciou que o plano de reorganização da PSP em Lisboa, Porto e Setúbal vai permitir libertar cerca de 500 polícias para as ruas, 200 dos quais para a capital."
+        },
+        {
+          "headline": "Escolas na mira: homem detido após onda de furtos",
+          "text": "O Comando Territorial de Setúbal deteve um homem de 38 anos suspeito de diversos furtos, maioritariamente em estabelecimentos de ensino no concelho de Almada. A investigação decorria há cerca de dois meses."
+        }
+      ]
+    },
+    {
+      "emoji": "🚴",
+      "category": "REGIÃO & DESPORTO",
+      "stories": [
+        {
+          "headline": "1000 ciclistas vão tomar conta da Lousã este fim de semana",
+          "text": "A Lousã recebe o Lousã Granfondo, evento que deverá reunir cerca de 1000 participantes. A prova principal realiza-se no domingo, 13 de setembro, com percursos que associam o ciclismo à promoção e valorização do território."
+        },
+        {
+          "headline": "Colisão entre carro e mota em Lavos, Figueira da Foz",
+          "text": "Uma colisão entre um carro e uma mota na madrugada de quarta-feira em Lavos fez um ferido que recusou transporte hospitalar. O alerta foi dado cerca das 0:30 para a Rotunda das Fábricas na EN 109."
+        },
+        {
+          "headline": "Ajude o Francisco a reconstruir a sua vida",
+          "text": "Uma campanha de angariação de fundos foi criada para ajudar Francisco Calhau, jovem atleta que ficou com mobilidade muito limitada após um grave acidente numa piscina. A iniciativa é promovida com o consentimento da família."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "PORTUGAL & POLÍTICA",
+      "stories": [
+        {
+          "headline": "General português assume comando da missão da UE em Moçambique",
+          "text": "O brigadeiro-general Sérgio Estrela assume a 14 de setembro o comando da Missão de Assistência Militar da União Europeia em Moçambique, em substituição do comodoro César Pires Correia."
+        },
+        {
+          "headline": "Questionaram Luís Neves se pertence à maçonaria",
+          "text": "Rui Rocha, da Iniciativa Liberal, questionou o ministro da Administração Interna se pertence à maçonaria durante a audição regimental. A pergunta provocou um momento de silêncio na sala e a resposta deixou todos boquiabertos."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis em Portugal mantém-se nos 430.000 euros em agosto. No entanto, a região Centro lidera a subida dos preços de venda com +14,6%, enquanto no arrendamento o Norte cresce 20%."
+        },
+        {
+          "headline": "Leiria disponibiliza telhas para reparar casas danificadas pela tempestade Kristin",
+          "text": "O Município de Leiria mantém telhas disponíveis no Armazém Solidário para apoiar munícipes cujas habitações foram afetadas pela tempestade Kristin. Os pedidos devem ser apresentados na Junta de Freguesia."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & VAMOS",
+      "stories": [
+        {
+          "headline": "Jardim Botânico despede-se da exposição \"Sou eu quando me vês\"",
+          "text": "A exposição patente na Estufa Tropical do Jardim Botânico da Universidade de Coimbra despede-se do público neste domingo, 13 de setembro, com uma tarde dedicada aos artistas que deram forma ao projeto."
+        },
+        {
+          "headline": "Família percebe que o cadáver não é o do familiar durante o velório",
+          "text": "Uma família descobriu durante o velório que o cadáver presente não correspondia ao seu familiar. O caso gerou perplexidade e levanta questões sobre a gestão funerária."
+        }
+      ]
+    }
+  ]
+}
