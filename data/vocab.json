@@ -26307,5 +26307,111 @@
       "example_de": "Der Alarm wurde gegen 0:30 Uhr für den Kreisverkehr gegeben",
       "example_en": "The alert was given around 0:30 for the roundabout"
     }
+  ],
+  "2026-09-10": [
+    {
+      "pt": "reconfigurar",
+      "de": "umkonfigurieren",
+      "en": "to reconfigure",
+      "example": "Vai obrigar a reconfigurar o trânsito",
+      "example_de": "Es wird eine Umkonfiguration des Verkehrs erfordern",
+      "example_en": "It will require reconfiguring traffic"
+    },
+    {
+      "pt": "o voluntariado",
+      "de": "das Ehrenamt",
+      "en": "volunteering",
+      "example": "O voluntariado ambiental é importante",
+      "example_de": "Umwelt-Ehrenamt ist wichtig",
+      "example_en": "Environmental volunteering is important"
+    },
+    {
+      "pt": "encantados",
+      "de": "verzaubert",
+      "en": "enchanted, delighted",
+      "example": "Entram curiosos, saem encantados",
+      "example_de": "Sie kommen neugierig rein und gehen verzaubert raus",
+      "example_en": "They come in curious and leave enchanted"
+    },
+    {
+      "pt": "aos pedaços",
+      "de": "in Stücke",
+      "en": "to pieces, falling apart",
+      "example": "A Sé Velha está a cair aos pedaços",
+      "example_de": "Die alte Kathedrale fällt in Stücke",
+      "example_en": "The Old Cathedral is falling to pieces"
+    },
+    {
+      "pt": "incendiar",
+      "de": "anzünden, in Brand setzen",
+      "en": "to set fire to",
+      "example": "O casal incendiou a casa dos vizinhos",
+      "example_de": "Das Paar setzte das Haus der Nachbarn in Brand",
+      "example_en": "The couple set fire to the neighbors' house"
+    },
+    {
+      "pt": "absolver",
+      "de": "freisprechen",
+      "en": "to acquit",
+      "example": "Os arguidos foram absolvidos",
+      "example_de": "Die Angeklagten wurden freigesprochen",
+      "example_en": "The defendants were acquitted"
+    },
+    {
+      "pt": "picar",
+      "de": "stechen",
+      "en": "to sting, to bite",
+      "example": "O homem morre picado por uma vespa",
+      "example_de": "Der Mann stirbt von einer Wespe gestochen",
+      "example_en": "The man dies stung by a wasp"
+    },
+    {
+      "pt": "preocupar",
+      "de": "beunruhigen, sorgen",
+      "en": "to worry",
+      "example": "Os custos da energia preocupam os portugueses",
+      "example_de": "Die Energiekosten beunruhigen die Portugiesen",
+      "example_en": "Energy costs worry the Portuguese"
+    },
+    {
+      "pt": "a goleada",
+      "de": "der Kantersieg",
+      "en": "the thrashing, routing (sports)",
+      "example": "O Benfica goleia o Moreirense",
+      "example_de": "Benfica schlägt Moreirense hoch",
+      "example_en": "Benfica thrashes Moreirense"
+    },
+    {
+      "pt": "o chocalho",
+      "de": "die Schelle",
+      "en": "the cowbell",
+      "example": "Os chocalhos tocam na festa",
+      "example_de": "Die Schellen klingen beim Fest",
+      "example_en": "The cowbells ring at the festival"
+    },
+    {
+      "pt": "o funicular",
+      "de": "die Standseilbahn",
+      "en": "the funicular (cable railway)",
+      "example": "A Nazaré vai ter novo funicular",
+      "example_de": "Die Nazaré bekommt eine neue Standseilbahn",
+      "example_en": "Nazaré will have a new funicular"
+    },
+    {
+      "pt": "a sanita",
+      "de": "die Toilette",
+      "en": "the toilet",
+      "example": "Fica uma eternidade na sanita",
+      "example_de": "Man bleibt eine Ewigkeit auf der Toilette",
+      "example_en": "Spending an eternity on the toilet"
+    },
+    {
+      "pt": "o descasque",
+      "de": "die Entrindung",
+      "en": "the stripping (of bark)",
+      "example": "O descasque de acácias",
+      "example_de": "Die Entrindung von Akazien",
+      "example_en": "The stripping of acacias"
+    }
   ]
 }
