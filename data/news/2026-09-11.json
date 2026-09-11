@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "11 de setembro: Há 25 anos, o mundo parou",
+          "text": "Há 25 anos, quatro aviões comerciais foram transformados em armas num dos ataques terroristas mais marcantes da história. Quase 3.000 pessoas morreram nos atentados que mudaram para sempre a geopolítica mundial."
+        },
+        {
+          "headline": "Homenagem emotiva silencia convenção republicana",
+          "text": "A homenagem às vítimas dos atentados de 11 de setembro silenciou a convenção republicana nos EUA. Trump adverteu eleitores que irão 'para o inferno' se não votarem nas intercalares."
+        },
+        {
+          "headline": "Agosto foi o mês mais quente já registado no mundo",
+          "text": "Os dados climáticos confirmam que agosto de 2026 bateu o recorde de temperatura global, continuando a tendência de aquecimento observada nos últimos anos."
+        },
+        {
+          "headline": "Mulher de Maduro pede prisão domiciliária",
+          "text": "A esposa de Nicolás Maduro pediu prisão domiciliária devido a problemas cardíacos, numa altura em que o regime venezuelano enfrenta pressões internacionais crescentes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "João de Jesus: de pescador a artesão de miniaturas",
+          "text": "João de Jesus foi pescador, comerciante e marinheiro, correu o mundo e agora transforma memórias da Praia de Mira em miniaturas de barcos de madeira, preservando o património local."
+        },
+        {
+          "headline": "Atropelamento em Cantanhede deixa homem em estado grave",
+          "text": "A vítima foi estabilizada no local e transportada para os Hospitais da Universidade de Coimbra. O alerta foi dado às 18:40 com mobilização dos Bombeiros Voluntários de Cantanhede."
+        },
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro",
+          "text": "O preço da habitação em Coimbra subiu 17% num ano. Coimbra dispara também na procura por quartos, com aumento de 120% em apenas um ano."
+        },
+        {
+          "headline": "Praia de Mira: a iguaria que nasceu das dificuldades",
+          "text": "Uma velha telha criou a melhor sardinha da Gândara. A história da Praia de Mira mostra como a criatividade nasceu da necessidade, transformando ingredientes simples numa iguaria regional."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & AMBIENTE",
+      "stories": [
+        {
+          "headline": "O calor está de volta: 2 dias de temperaturas altas",
+          "text": "O IPMA emitiu aviso amarelo por persistência de valores elevados da temperatura máxima. Évora, Santarém, Setúbal, Lisboa, Leiria, Beja, Castelo Branco, Coimbra e Portalegre estão sob aviso."
+        },
+        {
+          "headline": "Perigo máximo de incêndio dispara em 9 concelhos",
+          "text": "Sardoal, Mação, Gavião, Nisa, Portalegre, Castelo de Vide, Marvão, Monchique e Portimão estão em perigo máximo. Cerca de 70 concelhos dos distritos de Bragança, Guarda e outros estão em perigo elevado."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Aulas começam com falta de professores e proibição de smartphones",
+          "text": "O ministro da Educação reconheceu que muitos alunos vão começar as aulas sem todos os professores. Smartphones ficam proibidos até ao 9.º ano. A GNR lançou operação especial em 4.400 escolas."
+        },
+        {
+          "headline": "Ano letivo em Leiria abre com dois novos estabelecimentos",
+          "text": "A região de Leiria arranca o ano letivo com dois novos estabelecimentos de ensino, num revolvimento da oferta educativa regional."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "Começa o julgamento dos polícias da esquadra do Rato",
+          "text": "Inicia-se o julgamento dos polícias acusados de tortura na esquadra do Rato, um caso que gerou forte indignação pública."
+        },
+        {
+          "headline": "PSP agenda vários protestos por melhores salários",
+          "text": "A associação sindical da PSP marca vários protestos, denunciando 'um atropelo gritante em várias dimensões da condição policial'. O suplemento de risco e as tabelas remuneratórias continuam por cumprir. Há um abaixo-assinado e ações previstas entre 14 e 30 de setembro."
+        },
+        {
+          "headline": "Prisão preventiva para suspeito de roubos em Espinho",
+          "text": "Um dos dois suspeitos de roubos detidos em Espinho foi colocado em prisão preventiva."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Afinal, o aspartame faz mal ou não? Europa dá nova resposta",
+          "text": "O adoçante aspartame, autorizado em refrigerantes e iogurtes sem açúcar, sofre decomposição após a ingestão em duas substâncias. A Europa emitirá nova posição sobre a sua segurança."
+        },
+        {
+          "headline": "Ordem avança com propostas para fixação de médicos",
+          "text": "A Ordem dos Médicos propõe medidas para contrariar 'medidas avulsas' na fixação de profissionais, procurando soluções estruturais para o problema da retenção."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Câmara de Aveiro chumba proposta do PS para comércio local",
+          "text": "A Câmara de Aveiro rejeitou a proposta do PS para proteger e revitalizar o comércio local, gerando debate sobre o apoio ao pequeno comércio."
+        },
+        {
+          "headline": "Pombal investe 3 milhões na Zona Industrial da Guia",
+          "text": "O município do Pombal vai investir quase três milhões de euros na expansão da Zona Industrial da Guia, reforçando a atração de empresas."
+        },
+        {
+          "headline": "Carneiro critica apoio do gasóleo agrícola",
+          "text": "O apoio ao gasóleo agrícola é 'dar com uma mão e tirar com as duas', segundo Carneiro, numa crítica às políticas para o setor agrícola."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & DESPORTO",
+      "stories": [
+        {
+          "headline": "Novo Dacia Spring chega com 250 km de autonomia",
+          "text": "O modelo elétrico renovado promete 250 quilómetros de autonomia, posicionando-se como opção acessível no mercado dos elétricos."
+        },
+        {
+          "headline": "Porsche invade Coimbra e Serra da Estrela",
+          "text": "A marca alemã celebra 30 anos do Boxster com um evento que passa por Coimbra e a Serra da Estrela, reunindo entusiastas da marca."
+        },
+        {
+          "headline": "Académica prepara duelo de fogo",
+          "text": "A Académica promete uma equipa 'agressiva e proativa' para o próximo jogo. O treinador sublinha que o plantel tem 17 jogadores novos, exigindo tempo de adaptação."
+        },
+        {
+          "headline": "Benfica goleia Moreirense e Sporting vence na Champions",
+          "text": "O Benfica goleou o Moreirense e ficou a dois pontos da liderança. Os Leões deram a volta ao Galatasaray e marcaram estreia vitoriosa na Champions League."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Acrobatas a 30 metros na abertura da FICTON",
+          "text": "A abertura do festival FICTON conta com acrobatas a voar a 30 metros de altura, num espetáculo que promete impressionar o público."
+        },
+        {
+          "headline": "Boutique Doces e Cakes leva 30 sabores à FAGIC",
+          "text": "É impossível escolher só um: a pastelaria leva mais de 30 sabores de bolo à FAGIC, num desafio aos amantes de doces."
+        },
+        {
+          "headline": "Inês Aires Pereira apresenta 'Namastê' em Anadia",
+          "text": "A artista apresenta o seu novo espetáculo no Cineteatro Anadia. A cantora cancelou recentemente uma atuação num festival por não poder 'normalizar um genocídio'."
+        }
+      ]
+    }
+  ]
+}
