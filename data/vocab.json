@@ -26413,5 +26413,119 @@
       "example_de": "Die Entrindung von Akazien",
       "example_en": "The stripping of acacias"
     }
+  ],
+  "2026-09-11": [
+    {
+      "pt": "silenciar",
+      "de": "zum Schweigen bringen",
+      "en": "to silence",
+      "example": "A homenagem às vítimas silenciou a convenção republicana.",
+      "example_de": "Die Ehrung der Opfer brachte die republikanische Versammlung zum Schweigen.",
+      "example_en": "The tribute to the victims silenced the republican convention."
+    },
+    {
+      "pt": "o atentado",
+      "de": "Anschlag",
+      "en": "attack, terrorist attack",
+      "example": "Há 25 anos, os atentados de 11 de setembro mudaram o mundo.",
+      "example_de": "Vor 25 Jahren veränderten die Anschläge vom 11. September die Welt.",
+      "example_en": "25 years ago, the September 11 attacks changed the world."
+    },
+    {
+      "pt": "o reflorestamento",
+      "de": "Wiederaufforstung",
+      "en": "reforestation",
+      "example": "A Câmara de Pombal investe na expansão e reflorestamento.",
+      "example_de": "Die Stadtverwaltung von Pombal investiert in Erweiterung und Wiederaufforstung.",
+      "example_en": "The Pombal municipality invests in expansion and reforestation."
+    },
+    {
+      "pt": "a guarnição",
+      "de": "Besatzung",
+      "en": "garrison, crew",
+      "example": "A guarnição do regimento prestou homenagem ao bombeiro falecido.",
+      "example_de": "Die Besatzung des Regiments erwies dem verstorbenen Feuerwehrmann die letzte Ehre.",
+      "example_en": "The regiment's crew paid tribute to the deceased firefighter."
+    },
+    {
+      "pt": "o adoçante",
+      "de": "Süßstoff",
+      "en": "sweetener",
+      "example": "O aspartame é um adoçante autorizado em diversos alimentos.",
+      "example_de": "Aspartam ist ein in verschiedenen Lebensmitteln zugelassener Süßstoff.",
+      "example_en": "Aspartame is a sweetener authorized in various foods."
+    },
+    {
+      "pt": "a proibição",
+      "de": "Verbot",
+      "en": "prohibition, ban",
+      "example": "Há proibição de smartphones até ao 9.º ano nas escolas.",
+      "example_de": "Es gibt ein Smartphone-Verbot bis zur 9. Klasse in Schulen.",
+      "example_en": "There is a smartphone ban up to 9th grade in schools."
+    },
+    {
+      "pt": "a remuneração",
+      "de": "Vergütung",
+      "en": "remuneration, pay",
+      "example": "As tabelas remuneratórias da PSP continuam por cumprir.",
+      "example_de": "Die Vergütungstabellen der PSP bleiben weiterhin unerfüllt.",
+      "example_en": "The PSP's pay scales remain unfulfilled."
+    },
+    {
+      "pt": "o abaixo-assinado",
+      "de": "Unterschriftensammlung",
+      "en": "petition",
+      "example": "Fica disponível nas redes sociais o abaixo-assinado da ASPP.",
+      "example_de": "Die Unterschriftensammlung der ASPP ist auf den sozialen Netzwerken verfügbar.",
+      "example_en": "The ASPP's petition is available on social media."
+    },
+    {
+      "pt": "a intercalar",
+      "de": "Nachwahl",
+      "en": "by-election",
+      "example": "Trump adverte eleitores sobre o voto nas intercalares.",
+      "example_de": "Trump warnt Wähler über die Abstimmung bei den Nachwahlen.",
+      "example_en": "Trump warns voters about voting in the by-elections."
+    },
+    {
+      "pt": "o gasóleo agrícola",
+      "de": "Agrardiesel",
+      "en": "agricultural diesel",
+      "example": "O apoio do gasóleo agrícola é dar com uma mão e tirar com as duas.",
+      "example_de": "Die Unterstützung für Agrardiesel ist Geben mit einer Hand und Nehmen mit beiden.",
+      "example_en": "Agricultural diesel support is giving with one hand and taking with both."
+    },
+    {
+      "pt": "refrigerante",
+      "de": "Erfrischungsgetränk",
+      "en": "soft drink",
+      "example": "O adoçante está presente em refrigerantes sem açúcar.",
+      "example_de": "Der Süßstoff ist in zuckerfreien Erfrischungsgetränken enthalten.",
+      "example_en": "The sweetener is present in sugar-free soft drinks."
+    },
+    {
+      "pt": "o marinheiro",
+      "de": "Seemann",
+      "en": "sailor, seaman",
+      "example": "João de Jesus foi pescador, comerciante e marinheiro.",
+      "example_de": "João de Jesus war Fischer, Händler und Seemann.",
+      "example_en": "João de Jesus was a fisherman, merchant and sailor."
+    },
+    {
+      "pt": "o revolvimento",
+      "de": "Umgestaltung",
+      "en": "overhaul, reshuffle",
+      "example": "Há um revolvimento no ensino com novos estabelecimentos em Leiria.",
+      "example_de": "Es gibt eine Umgestaltung im Bildungswesen mit neuen Einrichtungen in Leiria.",
+      "example_en": "There's an overhaul in education with new establishments in Leiria."
+    },
+    {
+      "pt": "adverter",
+      "de": "warnen",
+      "en": "to warn",
+      "example": "Trump adverte eleitores que irão para o inferno.",
+      "example_de": "Trump warnt Wähler, dass sie in die Hölle kommen.",
+      "example_en": "Trump warns voters they will go to hell."
+    }
   ]
 }
