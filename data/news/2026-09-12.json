@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "OCORRÊNCIAS",
+      "stories": [
+        {
+          "headline": "5 mulheres atingidas por balsa com uvas durante vindima",
+          "text": "Cinco mulheres ficaram feridas na sexta-feira durante uma vindima em Celorico de Basto. As vítimas foram atingidas por uma balsa carregada de uvas que se encontrava num reboque de trator. O recipiente tombou, atingindo as cinco mulheres. Duas encontram-se em estado grave."
+        },
+        {
+          "headline": "Tio esfaqueia sobrinho no carro após discussão por droga",
+          "text": "A Polícia Judiciária deteve um homem de 58 anos nos Açores, indiciado por homicídio na forma tentada. Os factos ocorreram no interior da viatura do suspeito, tio da vítima, na sequência de um conflito relacionado com droga."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Mais um corte no IP3",
+          "text": "No âmbito da empreitada de duplicação do IP3 entre Coimbra e Viseu, a Infraestruturas de Portugal vai realizar trabalhos de alargamento entre os Nós de Canas de Santa Maria e São Miguel de Outeiro. Será necessário proceder ao corte temporário da circulação em vários troços noturnos."
+        },
+        {
+          "headline": "Comboio com 180 passageiros descarrila em França",
+          "text": "Um comboio regional que transportava cerca de 180 passageiros descarrilou em Cléon, na Normandia francesa. A composição fazia a ligação entre Rouen e Caen. O acidente resultou em pelo menos duas dezenas de feridos, segundo balanço provisório do Ministério dos Transportes francês."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "José Luís Carneiro em Coimbra: deixar municípios para trás é desproteger pessoas",
+          "text": "O secretário-geral do PS defendeu em Coimbra que os municípios não podem ser deixados para trás, prometendo levar as principais reivindicações dos autarcas à Convenção Autárquica Socialista. Carneiro sublinhou que sem municípios fortes não há comunidades protegidas."
+        },
+        {
+          "headline": "Preço das gasosas em foco: o que fará o Governo?",
+          "text": "A questão do preço dos combustíveis volta a estar em debate com a nova legislatura. O mercado aguarda medidas concretas do executivo sobre as gasosas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "ECONOMIA & IMOBILIÁRIO",
+      "stories": [
+        {
+          "headline": "Comprar casa em Coimbra ficou 17% mais caro num ano",
+          "text": "O preço médio dos imóveis em Portugal mantém-se nos 430.000 euros. No arrendamento, o valor médio estabilizou nos 1.300 euros mensais. O Barómetro do Imovirtual revela que a região Centro lidera a subida dos preços de venda com +14,6%, enquanto o Norte cresce 20% no arrendamento."
+        },
+        {
+          "headline": "Este é o imóvel mais caro à venda em Coimbra",
+          "text": "Um imóvel classificado como único lidera o ranking dos mais caros disponíveis no mercado imobiliário de Coimbra."
+        },
+        {
+          "headline": "Litocar reforça presença no mercado automóvel com novas marcas",
+          "text": "O concessionário Litocar expande a sua oferta com novas marcas automóveis, reforçando a sua posição no mercado regional."
+        },
+        {
+          "headline": "Novo Dacia Spring chega com 250 quilómetros de autonomia",
+          "text": "O modelo elétrico renovado da Dacia promete 250 km de autonomia, posicionando-se como uma opção acessível no segmento dos urbanos elétricos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & FICTON",
+      "stories": [
+        {
+          "headline": "Dez anos a desafiar os fundamentalismos na serra de Miranda do Corvo",
+          "text": "O Templo Ecuménico Universalista assinalou uma década de funcionamento. No espaço criado pela Fundação ADFP, inaugurou-se o alcatroamento da estrada de ligação e apresentou-se um livro comemorativo."
+        },
+        {
+          "headline": "A Doçaria da Praça está na FICTON a provocar desejos difíceis de controlar",
+          "text": "Um projeto familiar sediado em Coimbra com raízes na região de Viseu leva à feira de Tondela uma grande variedade de doces tradicionais, que estão a ser um dos destaques da FICTON."
+        },
+        {
+          "headline": "Arte feita com peças recicladas conquista FICTON em Tondela",
+          "text": "As pessoas ficam maravilhadas com as peças de arte criadas a partir de materiais reciclados, que são um dos atrativos do certame que decorre até 16 de setembro."
+        },
+        {
+          "headline": "Aurea está de volta: Back Into Love",
+          "text": "Aurea lança Back Into Love, o primeiro avanço do próximo álbum com previsão de lançamento para a primavera de 2027. A canção inaugura um novo momento criativo numa carreira que há mais de 15 anos tem a soul como marca identitária."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "FICTON vira consultório: estudantes de Medicina fazem rastreios gratuitos",
+          "text": "Um grupo de 32 estudantes de Medicina da Universidade de Coimbra, certificados pela Fundação Portuguesa de Cardiologia, oferece rastreios cardiovasculares gratuitos durante o certame em Tondela, numa ação de prevenção e sensibilização."
+        },
+        {
+          "headline": "Coimbra tem 5 semanas de atividades alternativas à praxe",
+          "text": "O Criatividade, projeto de integração dinamizado por um coletivo de estudantes, vai na 13.ª edição e propõe cinco semanas de atividades alternativas à praxe até 08 de outubro, com jantares comunitários, visitas guiadas e eventos quase diários."
+        },
+        {
+          "headline": "Escola em Porto de Mós requalificada após maior investimento público do concelho",
+          "text": "A escola foi alvo da maior requalificação alguma vez feita no concelho, representando o maior investimento público em infraestrutura educativa da zona."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Treinador da Académica não esconde revolta após derrota com Benfica B",
+          "text": "A Académica sofreu a terceira derrota consecutiva no campeonato ao perder por 3-0 frente ao Benfica B. Apesar do resultado pesado, o treinador considera que foi a melhor exibição da equipa em casa desde que assumiu o comando dos estudantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Chá e café muito quentes podem triplicar o risco de cancro do esófago",
+          "text": "Um estudo que acompanhou quase 980 mil pessoas durante 14 anos encontrou uma associação entre o consumo de bebidas muito quentes e um maior risco de desenvolver cancro do esófago. Pode valer a pena esperar alguns minutos antes de levar a chávena à boca."
+        },
+        {
+          "headline": "E se pudesse voltar a falar com quem morreu? IA abre novo capítulo no luto",
+          "text": "A inteligência artificial abre um novo capítulo no processo de luto, permitindo simular conversas com entes queridos falecidos. A tecnologia levanta questões éticas sobre o impacto psicológico nos enlutados."
+        }
+      ]
+    }
+  ]
+}
