@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-13",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Meios aéreos combatem fogo em Góis",
+          "text": "Dois helicópteros estão a combater um fogo florestal no lugar de Alagoas, concelho de Góis. O alerta foi dado às 17:48. Segundo o Comando subregional de Emergência e Proteção Civil, não há casas nas imediações do incêndio."
+        },
+        {
+          "headline": "Fogo destrói escritório de contabilidade em Coimbra",
+          "text": "Um escritório de contabilidade, junto a uma habitação, foi consumido pelas chamas na tarde de sábado. O alerta foi dado às 15:38 pelos responsáveis do espaço, que tentaram combater as chamas na fase inicial. Bombeiros Sapadores e Voluntários de Coimbra estão no local."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "METEO",
+      "stories": [
+        {
+          "headline": "Calor fora de época aperta até segunda-feira",
+          "text": "O distrito de Coimbra é um dos nove a nível nacional com aviso de alerta amarelo até ao dia 14 de setembro. O IPMA prevê temperaturas anormalmente elevadas para a época, pelo que vale a pena esperar mais alguns dias antes de tirar os casacos dos armários."
+        }
+      ]
+    },
+    {
+      "emoji": "🚦",
+      "category": "COIMBRA & TRANSPOrtES",
+      "stories": [
+        {
+          "headline": "Há muito estacionamento na baixa de Coimbra",
+          "text": "No primeiro sábado após o corte de trânsito na Rua da Sofia, devido ao início do funcionamento do Metro Mondego, a loja Cavalinho registou movimento normal. A funcionária Sandra Rei confirmou que há bastante estacionamento disponível na zona baixa."
+        },
+        {
+          "headline": "Era interessante ter os comércios abertos",
+          "text": "O responsável da Pastelaria Penta lamenta que a maioria dos espaços comerciais da Rua da Sofia estejam fechados no primeiro sábado com trânsito cortado. A artéria deixou de permitir a circulação de automóveis não autorizados, coincidindo com o início do Metrobus até à Praça da República."
+        },
+        {
+          "headline": "Tudo a postos para o Mercadinho da Margem Esquerda",
+          "text": "A 20ª edição do Mercadinho da Margem Esquerda em Coimbra tem algumas novidades previstas. O evento regressa com proposta de animação e comércio local."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & ESPETÁCULOS",
+      "stories": [
+        {
+          "headline": "Companhia Escola da Noite estreia peça em Espanha",
+          "text": "Um elenco bilingue de nove intérpretes, de ambos os lados do Minho, junta forças numa co-produção internacional histórica. A companhia coimbrã leva a sua nova peça a palcos espanhóis."
+        },
+        {
+          "headline": "FICTON abre portas em Tondela",
+          "text": "A Feira Industrial e Comercial de Tondela arrancou no dia 11 de setembro e decorre até ao dia 16, reunindo empresas, expositores e muita animação."
+        },
+        {
+          "headline": "Arte feita com peças recicladas conquista FICTON",
+          "text": "José, responsável pela J.ARTE, apresenta um trabalho artístico original baseado na reutilização de materiais. As pessoas ficam maravilhadas com as peças expostas no certame."
+        },
+        {
+          "headline": "Mar e aventura no grande ecrã da Figueira da Foz",
+          "text": "A etapa da Figueira da Foz do International Ocean Film Tour traz diferentes perspetivas sobre o oceano e reflete sobre a importância da sua preservação. Uma noite dedicada à descoberta e à inspiração."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Caseiro suspeito de matar casal para quem trabalhava",
+          "text": "A Polícia Judiciária deteve em Lagos um homem suspeito de matar um casal estrangeiro de empresários para quem trabalhava como caseiro. O suspeito ocultou os cadáveres numa cisterna. As vítimas eram um homem de 79 anos e uma mulher de 62."
+        },
+        {
+          "headline": "Tio esfaqueia sobrinho no carro após discussão por droga",
+          "text": "A PJ deteve um homem de 58 anos nos Açores, fortemente indiciado pelo crime de homicídio na forma tentada. O tio esfaqueou o sobrinho dentro de um automóvel após uma discussão relacionada com droga."
+        },
+        {
+          "headline": "Discussão sai do controlo e acaba a tiros",
+          "text": "A PJ deteve fora de flagrante delito o presumível autor de dois crimes de homicídio tentado e um de roubo, cometidos em maio num estabelecimento comercial em Almada. O suspeito efetuou diversos disparos após uma discussão e fica em prisão preventiva."
+        },
+        {
+          "headline": "Problemas das mulheres de há 50 anos persistem hoje",
+          "text": "A fundadora da UMAR, Maria Idalina Rodrigues, defende que a igualdade de género e os direitos das mulheres continuam a exigir luta, educação e mobilização. Os problemas que afetavam as mulheres há cinco décadas mantêm-se atualmente."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "category": "SÓ VISTO!",
+      "stories": [
+        {
+          "headline": "Há países a desistir de um sistema como o Volta",
+          "text": "Enquanto Portugal dá os primeiros passos na implementação do sistema Volta, França decidiu abandonar a criação de um modelo nacional de depósito e reembolso para garrafas de plástico."
+        },
+        {
+          "headline": "Existe uma competição de coveiros com prémio de 550 euros",
+          "text": "Sim, existe mesmo uma competição de coveiros. O vencedor leva para casa um prémio no valor de 550 euros."
+        },
+        {
+          "headline": "Avião sai da pista durante aterragem e fica atolado",
+          "text": "Um voo da Latam terminou de forma inesperada no Aeroporto Regional de Cascavel, no Paraná, Brasil. O avião saiu da pista depois de tocar no solo e ficou imobilizado numa zona de lama. A bordo seguiam 151 pessoas. Foi um susto."
+        }
+      ]
+    },
+    {
+      "emoji": "🚲",
+      "category": "DESPORTO & LAZER",
+      "stories": [
+        {
+          "headline": "Quase 2000 ciclistas preparam a conquista da Torre",
+          "text": "A Covilhã prepara-se para ser o centro do ciclismo nacional durante três dias, com quase 2000 ciclistas inscritos para a prova que culmina na Torre da Serra da Estrela."
+        },
+        {
+          "headline": "Porsche invade Coimbra e Serra da Estrela",
+          "text": "Em 2026 assinalam-se 30 anos do Porsche Boxster. A marca celebra com um evento que passa por Coimbra e pela Serra da Estrela, um dos modelos mais importantes da história recente da Porsche."
+        }
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "category": "ECONOMIA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Ter piscina encarece apartamento em 68%",
+          "text": "Comprar um apartamento com piscina em Portugal é, em média, 68% mais caro, segundo uma análise da idealista. Coimbra é, no entanto, das cidades onde esta comodidade menos pesa no preço final."
+        },
+        {
+          "headline": "Telemóveis proibidos até ao 9º ano",
+          "text": "A proibição do uso de smartphones nas escolas foi alargada este ano até ao 9º ano. Algumas escolas querem agora levar a regra ainda mais longe, até ao 12º ano."
+        },
+        {
+          "headline": "Peniche opõe-se à mina de caulino",
+          "text": "O presidente da Câmara Municipal de Peniche vai pedir reuniões à ministra do Ambiente e à Agência Portuguesa do Ambiente para manifestar a oposição do município ao projeto da mina de caulino previsto para o concelho."
+        },
+        {
+          "headline": "Floresta das borboletas em Moçambique ganha proteção",
+          "text": "O Monte Mabu, na província moçambicana da Zambézia, conhecido por albergar mais de 200 espécies de borboletas, passou a beneficiar de proteção legal comunitária numa área de 9.341 hectares."
+        }
+      ]
+    }
+  ]
+}
