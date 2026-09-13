@@ -26681,5 +26681,127 @@
       "example_de": "Aurea nahert sich einem zeitgenossischen Soul-Pop-Klang",
       "example_en": "Aurea approaches a contemporary soul pop sound"
     }
+  ],
+  "2026-09-13": [
+    {
+      "pt": "o caseiro",
+      "de": "Verwalter, Hausmeister",
+      "en": "caretaker, estate manager",
+      "example": "O caseiro é suspeito de matar o casal.",
+      "example_de": "Der Verwalter wird verdächtigt, das Paar getötet zu haben.",
+      "example_en": "The caretaker is suspected of killing the couple."
+    },
+    {
+      "pt": "a contabilidade",
+      "de": "Buchhaltung, Rechnungswesen",
+      "en": "accounting",
+      "example": "O fogo destruiu um escritório de contabilidade.",
+      "example_de": "Das Feuer zerstörte ein Buchhaltungsbüro.",
+      "example_en": "The fire destroyed an accounting office."
+    },
+    {
+      "pt": "o estacionamento",
+      "de": "Parkplatz",
+      "en": "parking",
+      "example": "Há muito estacionamento na baixa de Coimbra.",
+      "example_de": "Es gibt viel Parkplatz in der Unterstadt von Coimbra.",
+      "example_en": "There is plenty of parking in downtown Coimbra."
+    },
+    {
+      "pt": "fora de época",
+      "de": "aus der Saison, unzeitgemäß",
+      "en": "out of season, unseasonal",
+      "example": "O calor fora de época aperta até segunda-feira.",
+      "example_de": "Die unzeitgemäße Hitze drückt bis Montag.",
+      "example_en": "The unseasonal heat lasts until Monday."
+    },
+    {
+      "pt": "a contestação",
+      "de": "Widerstand, Protest",
+      "en": "opposition, protest",
+      "example": "Há alguma contestação à implementação do sistema Volta.",
+      "example_de": "Es gibt einigen Widerstand gegen die Einführung des Volta-Systems.",
+      "example_en": "There is some opposition to the implementation of the Volta system."
+    },
+    {
+      "pt": "atolado",
+      "de": "feststeckend, im Schlamm",
+      "en": "stuck in mud",
+      "example": "O avião ficou atolado numa zona de lama.",
+      "example_de": "Das Flugzeug blieb in einer Schlammzone stecken.",
+      "example_en": "The plane got stuck in a muddy area."
+    },
+    {
+      "pt": "albergar",
+      "de": "beherbergen, aufnehmen",
+      "en": "to house, shelter",
+      "example": "O Monte Mabu alberga espécies raras.",
+      "example_de": "Der Monte Mabu beherbergt seltene Arten.",
+      "example_en": "Mount Mabu houses rare species."
+    },
+    {
+      "pt": "a reutilização",
+      "de": "Wiederverwendung",
+      "en": "reuse, repurposing",
+      "example": "O trabalho artístico baseia-se na reutilização de materiais.",
+      "example_de": "Die künstlerische Arbeit basiert auf der Wiederverwendung von Materialien.",
+      "example_en": "The artistic work is based on the reuse of materials."
+    },
+    {
+      "pt": "o presumível",
+      "de": "der mutmaßliche",
+      "en": "presumed, alleged",
+      "example": "A PJ deteve o presumível autor dos crimes.",
+      "example_de": "Die PJ verhaftete den mutmaßlichen Täter der Verbrechen.",
+      "example_en": "The PJ arrested the presumed perpetrator of the crimes."
+    },
+    {
+      "pt": "a imediação",
+      "de": "die Nähe, Umgebung",
+      "en": "vicinity, surroundings",
+      "example": "Não há casas nas imediações deste incêndio.",
+      "example_de": "Es gibt keine Häuser in der Nähe dieses Brandes.",
+      "example_en": "There are no houses in the vicinity of this fire."
+    },
+    {
+      "pt": "a imobilização",
+      "de": "Immobilisierung, Stilllegung",
+      "en": "immobilization",
+      "example": "O avião acabou imobilizado numa zona de lama.",
+      "example_de": "Das Flugzeug wurde in einer Schlammzone immobilisiert.",
+      "example_en": "The plane was immobilized in a muddy area."
+    },
+    {
+      "pt": "a preservação",
+      "de": "Erhaltung, Schutz",
+      "en": "preservation, conservation",
+      "example": "O festival reflete sobre a importância da preservação do oceano.",
+      "example_de": "Das Festival reflektiert über die Bedeutung des Schutzes des Ozeans.",
+      "example_en": "The festival reflects on the importance of ocean preservation."
+    },
+    {
+      "pt": "difícil de controlar",
+      "de": "schwer zu kontrollieren",
+      "en": "hard to control",
+      "example": "A docaria provoca desejos difíceis de controlar.",
+      "example_de": "Die Süßwaren wecken schwer zu kontrollierende Gelüste.",
+      "example_en": "The pastries provoke hard-to-control cravings."
+    },
+    {
+      "pt": "o comerciante",
+      "de": "Kaufmann, Händler",
+      "en": "shopkeeper, merchant",
+      "example": "Os comerciantes da Rua da Sofia lamentam o corte de trânsito.",
+      "example_de": "Die Händler der Rua da Sofia beklagen die Verkehrssperre.",
+      "example_en": "The shopkeepers of Rua da Sofia lament the traffic closure."
+    },
+    {
+      "pt": "o corte",
+      "de": "Abschnitt, Sperre, Kürzung",
+      "en": "cut, closure",
+      "example": "O corte de trânsito na Rua da Sofia afeta o comércio.",
+      "example_de": "Die Verkehrssperre in der Rua da Sofia beeinträchtigt den Handel.",
+      "example_en": "The traffic closure on Rua da Sofia affects commerce."
+    }
   ]
 }
