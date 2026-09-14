@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔍",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "PJ investiga mistério: Pedro Paiva não é visto há 2 meses",
+          "text": "Pedro Paiva, de 63 anos, está desaparecido há quase dois meses depois de ter saído de casa, em Montemor-o-Velho, para andar de bicicleta até à Figueira da Foz. O último contacto conhecido aconteceu no dia 22 de julho. A PJ está a investigar o caso."
+        },
+        {
+          "headline": "Há uma \"guerra\" pelo amor a acontecer nas serras",
+          "text": "Os cervos estão na época da reprodução e os seus bramidos ecoam pelas serras. É um espetáculo sonoro que pode ser ouvido ao longe e que marca o outono na natureza portuguesa."
+        },
+        {
+          "headline": "Os sapadores florestais cumprem com apego a dura função",
+          "text": "Os sapadores florestais continuam a desempenhar o seu papel fundamental na prevenção e combate a incêndios florestais, mantendo o apego a uma missão dura mas essencial para proteger o país."
+        },
+        {
+          "headline": "Conclusão da A1 teve \"episódios caricatos\" (13 de setembro de 1991)",
+          "text": "Há 35 anos, a autoestrada A1 foi concluída com alguns episódios caricatos que ficaram na história. A obra ligou Lisboa ao Porto e mudou para sempre a mobilidade no país."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra vai transformar ruas, jardins e até hospitais em palcos de magia",
+          "text": "A cidade de Coimbra prepara-se para se transformar com espetáculos de magia em espaços invulgares, das ruas aos jardins e até hospitais, levando a arte a locais inesperados."
+        },
+        {
+          "headline": "Festival em Góis onde até as pessoas surdas vão poder \"sentir\" a música",
+          "text": "Um festival em Góis está a pioneirar a acessibilidade musical, permitindo que pessoas surdas possam sentir a música através de vibrações e tecnologias especiais."
+        },
+        {
+          "headline": "Coimbra recua aos anos 50 durante 4 dias ao som do Rockabilly",
+          "text": "Coimbra vai receber um evento que recua aos anos 50 durante quatro dias, com entrada gratuita ao som de Rockabilly, celebrando a era dourada do rock and roll."
+        },
+        {
+          "headline": "Milhares invadem a FICTON e espetáculo aéreo deixa Tondela de olhos postos no céu",
+          "text": "A FICTON está de volta a Tondela com concertos, comida e diversão à borla. Milhares de visitantes já invadiram o recinto e um espetáculo aéreo deixou a cidade de olhos postos no céu."
+        },
+        {
+          "headline": "Cantor Ney Matogrosso faz paragem gastronómica inesperada na Lousã",
+          "text": "O cantor brasileiro Ney Matogrosso surpreendeu ao fazer uma paragem gastronómica inesperada na Lousã, aproveitando a gastronomia local durante a sua passagem pela região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Motociclista não para com a ordem da GNR, atropela militar e desaparece",
+          "text": "Um motociclista desrespeitou a ordem de paragem da GNR, atropelou um militar e desapareceu do local. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Tiroteio em Área de Serviço da Alves Bandeira",
+          "text": "Ocorreu um tiroteio numa área de serviço da Alves Bandeira. As autoridades foram acionadas para o local e estão a investigar as circunstâncias do incidente."
+        },
+        {
+          "headline": "PSP fala pela primeira vez sobre acusações de \"caça aos imigrantes\"",
+          "text": "A PSP quebrou o silêncio pela primeira vez sobre as acusações de que tem feito uma \"caça aos imigrantes\", respondendo às críticas e esclarecendo a sua atuação."
+        },
+        {
+          "headline": "Mata os patrões e esconde-os numa cisterna",
+          "text": "Um homem matou os seus patrões e escondeu os corpos numa cisterna. O crime chocou a comunidade local e o suspeito foi detido pelas autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Queda fatal numa zona rochosa para homem de 67 anos",
+          "text": "Um homem de 67 anos sofreu uma queda fatal numa zona rochosa. Os bombeiros e INEM foram acionados mas não foi possível evitar a morte."
+        },
+        {
+          "headline": "Família vive horas de aflição à procura de Vera Nunes (desaparecida há 48h)",
+          "text": "A família de Vera Nunes vive horas de aflição. A mulher está desaparecida há mais de 48 horas e as buscas continuam com a participação de autoridades locais."
+        },
+        {
+          "headline": "Carro sai da estrada e acaba num campo de milho: pai morre, filho ferido",
+          "text": "Um carro saiu da estrada e acabou num campo de milho. O pai não resistiu aos ferimentos e o filho ficou ferido. O acidente está a ser apurado pela GNR."
+        },
+        {
+          "headline": "Menino de 12 anos morre no rio Douro",
+          "text": "Um menino de 12 anos morreu no rio Douro. O caso aconteceu durante o fim de semana e chocou a comunidade local."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Mulheres são minoria em governos e chegam ao poder com maior exigência técnica",
+          "text": "Um estudo revela que as mulheres continuam a ser minoria em governos e que, quando chegam ao poder, enfrentam maior exigência técnica do que os seus colegas masculinos."
+        },
+        {
+          "headline": "Livre acusa Governo de querer aprovar pacote laboral \"às postas\"",
+          "text": "O partido Livre acusou o Governo de querer aprovar o pacote laboral \"às postas\" no parlamento, criticando a pressa na discussão de medidas que afetam os trabalhadores."
+        },
+        {
+          "headline": "Depois da lavagem, chega a centrifugação! José Sócrates volta a tribunal",
+          "text": "José Sócrates volta a tribunal. Depois da fase de lavagem do processo, chega agora a \"centrifugação\" - uma nova fase que promete revelar mais detalhes sobre o caso."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra distingue dois investigadores que podem ajudar a mudar a medicina",
+          "text": "A Universidade de Coimbra distinguiu dois investigadores cujo trabalho pode ajudar a mudar a medicina, reconhecendo a excelência da investigação desenvolvida na instituição."
+        },
+        {
+          "headline": "Mil alunos por dia! O plano que pode salvar a coração de Coimbra",
+          "text": "Um plano que prevê trazer mil alunos por dia para o centro de Coimbra pode ser a solução para revitalizar o coração da cidade, combatendo o despovoamento do centro histórico."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "\"Não nos deixem morrer esquecidos\". Loriga promove vigília pela saúde",
+          "text": "Loriga promoveu uma vigília pela saúde com o mote \"Não nos deixem morrer esquecidos\", chamando a atenção para as dificuldades de acesso aos cuidados de saúde nas zonas rurais."
+        },
+        {
+          "headline": "Chá e café muito quentes podem triplicar o risco de doença mortal",
+          "text": "Um estudo revela que consumir chá e café a temperaturas muito elevadas pode triplicar o risco de desenvolver um tipo de doença mortal, alertando para os perigos de bebidas demasiado quentes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Santa Clara vence em Arouca",
+          "text": "A equipa de Santa Clara venceu em Arouca, somando mais três pontos na classificação."
+        },
+        {
+          "headline": "Jorge Fonseca dá espetáculo em Budapeste e traz prata para Portugal",
+          "text": "O judoca português Jorge Fonseca deu um espetáculo em Budapeste e conquistou a medalha de prata para Portugal, mais uma conquista internacional para o atleta."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "\"Ato malicioso\" na origem de descarrilamento de comboio em França",
+          "text": "As autoridades francesas indicam que um \"ato malicioso\" está na origem do descarrilamento de um comboio em França, descartando inicialmente a hipótese de acidente."
+        },
+        {
+          "headline": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra",
+          "text": "Os líderes dos BRICS pediram máxima contenção face à escalada da guerra, apelando à moderação e ao diálogo para evitar um agravamento do conflito."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "CGTP convoca \"grande manifestação nacional\"",
+          "text": "A CGTP convocou uma \"grande manifestação nacional\" com o objetivo de envolver os trabalhadores na discussão política, numa crítica às medidas do Governo."
+        }
+      ]
+    }
+  ]
+}
