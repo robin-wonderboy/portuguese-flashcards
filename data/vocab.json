@@ -26803,5 +26803,95 @@
       "example_de": "Die Verkehrssperre in der Rua da Sofia beeinträchtigt den Handel.",
       "example_en": "The traffic closure on Rua da Sofia affects commerce."
     }
+  ],
+  "2026-09-14": [
+    {
+      "pt": "o apego",
+      "de": "Hingabe, Anhänglichkeit",
+      "en": "dedication, attachment",
+      "example": "Os sapadores florestais cumprem com apego a dura função",
+      "example_de": "Die Waldbrandbekämpfer erfüllen mit Hingabe ihre harte Pflicht",
+      "example_en": "The firefighters fulfill their hard duty with dedication"
+    },
+    {
+      "pt": "desrespeitar",
+      "de": "missachten, nicht respektieren",
+      "en": "to disobey, to disrespect",
+      "example": "GNR atropelado por condutor que desrespeitou ordens",
+      "example_de": "GNR-Soldat von einem Fahrer überfahren, der Anweisungen missachtete",
+      "example_en": "GNR soldier run over by a driver who disobeyed orders"
+    },
+    {
+      "pt": "às postas",
+      "de": "mit Gewalt, überstürzt",
+      "en": "by force, in a rush",
+      "example": "Livre acusa Governo de querer aprovar pacote laboral às postas no parlamento",
+      "example_de": "Livre wirft der Regierung vor, das Arbeitspaket im Parlament überstürzt verabschieden zu wollen",
+      "example_en": "Livre accuses the government of wanting to rush through the labor package in parliament"
+    },
+    {
+      "pt": "a centrifugação",
+      "de": "das Schleudern, der Schleudergang",
+      "en": "the spinning (laundry), centrifugation",
+      "example": "Depois da lavagem, chega a centrifugação! José Sócrates volta a tribunal",
+      "example_de": "Nach dem Waschen kommt der Schleudergang! José Sócrates geht wieder vor Gericht",
+      "example_en": "After the washing, comes the spin cycle! José Sócrates returns to court"
+    },
+    {
+      "pt": "a contenção",
+      "de": "die Zurückhaltung, die Eindämmung",
+      "en": "restraint, containment",
+      "example": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra",
+      "example_de": "BRICS-Führer fordern maximale Zurückhaltung angesichts der Eskalation im Krieg",
+      "example_en": "BRICS leaders call for maximum restraint given the escalation in the war"
+    },
+    {
+      "pt": "a escalada",
+      "de": "die Eskalation, die Steigerung",
+      "en": "the escalation, climb",
+      "example": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra",
+      "example_de": "BRICS-Führer fordern maximale Zurückhaltung angesichts der Eskalation im Krieg",
+      "example_en": "BRICS leaders call for maximum restraint given the escalation in the war"
+    },
+    {
+      "pt": "malicioso",
+      "de": "böswillig, boshaft",
+      "en": "malicious",
+      "example": "Ato malicioso na origem de descarrilamento de comboio em França",
+      "example_de": "Böswillige Handlung war Ursache für Zugentgleisung in Frankreich",
+      "example_en": "Malicious act behind train derailment in France"
+    },
+    {
+      "pt": "a praxização",
+      "de": "das Trinitat, das Initiationsritual",
+      "en": "hazing, initiation",
+      "example": "Coimbra tem 5 semanas de atividades alternativas para estudantes que não querem ser praxados",
+      "example_de": "Coimbra hat 5 Wochen alternative Aktivitäten für Studenten, die nicht trinitiert werden wollen",
+      "example_en": "Coimbra has 5 weeks of alternative activities for students who don't want to be hazed"
+    },
+    {
+      "pt": "o sapador florestal",
+      "de": "der Waldbrandbekämpfer",
+      "en": "wildfire firefighter",
+      "example": "Os sapadores florestais cumprem com apego a dura função",
+      "example_de": "Die Waldbrandbekämpfer erfüllen mit Hingabe ihre harte Pflicht",
+      "example_en": "The wildfire firefighters fulfill their hard duty with dedication"
+    },
+    {
+      "pt": "a minoria",
+      "de": "die Minderheit",
+      "en": "the minority",
+      "example": "Mulheres são minoria em governos",
+      "example_de": "Frauen sind in Regierungen in der Minderheit",
+      "example_en": "Women are a minority in governments"
+    },
+    {
+      "pt": "o figurante",
+      "de": "der Statist (Film)",
+      "en": "the extra (film), walk-on",
+      "example": "Casting remunerado procura figurantes para filmagens promocionais",
+      "example_de": "Bezahltes Casting sucht Statisten für Werbedrehs",
+      "example_en": "Paid casting looks for extras for promotional filming"
+    }
   ]
 }
