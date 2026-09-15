@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Noite difícil em Proença-a-Nova: fogo chegou muito perto das casas",
+          "text": "Mais de 800 operacionais combatiam às 07:30 de hoje dois incêndios rurais no concelho de Proença-a-Nova, no distrito de Castelo Branco. Um dos incêndios deflagrou às 16:05 de segunda-feira em Alvito da Beira e Sobreira Formosa, e às 19:26 começou o fogo em Atalaia."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA",
+      "stories": [
+        {
+          "headline": "Encontros Mágicos: Coimbra prepara-se para 6 dias em que nada é exatamente aquilo que parece",
+          "text": "O festival internacional de magia de Coimbra traz 16 artistas e companhias de dez países a vários espaços da cidade, ao longo de seis dias. O festival celebra a sua 30.ª edição este ano, sendo hoje uma referência no setor cultural."
+        },
+        {
+          "headline": "Mário Laginha é o cabeça de cartaz da Bienal de Música do Mosteiro de Lorvão em Penacova",
+          "text": ""
+        },
+        {
+          "headline": "Da tragédia grega à crise da habitação: \"O Mal na Raiz\" estreia em Carregal do Sal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Caseiro mata casal, pede boleia para fugir e o amigo acaba por tramar",
+          "text": "O homem suspeito de ter matado um casal estrangeiro em Lagos, no Algarve, terá contado a um amigo o que tinha feito quando lhe pediu ajuda para chegar ao Hospital de Faro. O amigo acabou por alertar as autoridades, contribuindo para a detenção do homem."
+        },
+        {
+          "headline": "Pai do jovem acusado de matar a mãe começa a ser julgado por violência doméstica",
+          "text": ""
+        },
+        {
+          "headline": "Traficante tenta enterrar-se na areia para fugir à polícia",
+          "text": "Uma operação da GNR na Praia das Belharucas, em Albufeira, terminou com nove pessoas detidas, entre as quais um menor, por suspeitas relacionadas com o auxílio ao tráfico de droga. A operação decorreu durante a madrugada, entre as 4 e as 5:00 da segunda-feira."
+        },
+        {
+          "headline": "Noite de excessos: 7 condutores apanhados com álcool em Coimbra e na Figueira da Foz",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "\"Acelera, Júlio, vamos morrer aqui\": avioneta cai e atinge carro em São Pedro do Sul",
+          "text": "Um avião caiu na manhã de segunda-feira numa zona montanhosa de Pindelo dos Milagres, São Pedro do Sul, depois de o piloto ter tentado uma aterragem de emergência na sequência de uma falha no motor. Durante a aproximação ao terreno, a aeronave embateu na traseira de um automóvel que circulava num estradão, onde seguiam dois homens."
+        },
+        {
+          "headline": "Banhista pede socorro e desaparece no mar momentos depois na Costa Nova",
+          "text": "Um banhista com cerca de 40 anos desapareceu na praia da Costa Nova, em Ílhavo, depois de ter sido visto a pedir socorro na água. O alerta foi dado pelas 16:05 e as buscas decorrem com o capitão do Porto de Aveiro a coordenar as operações."
+        },
+        {
+          "headline": "Noite acaba em alívio em Penela depois do desaparecimento de uma idosa",
+          "text": "Uma idosa foi dada como desaparecida durante a madrugada na zona da Cova da Lapa, no Espinhal, concelho de Penela. O alerta levou à mobilização dos Bombeiros Voluntários de Penela e da GNR, chamados ao local por volta das 3:40. A mulher tem antecedentes de desaparecimento."
+        }
+      ]
+    },
+    {
+      "emoji": "📡",
+      "category": "TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "MEO alvo de ataque em massa mas garante que não houve acesso a dados de clientes",
+          "text": "A MEO foi alvo de um ataque em massa que provocou congestionamento e degradação da rede internacional. A operadora garantiu que conseguiu controlar rapidamente a situação e restabelecer a estabilidade do serviço, sem qualquer intrusão nem acesso a dados da MEO e seus clientes. O Downdetector registou vários relatos de avaria em serviços da MEO, Vodafone, NOS e Digi."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & PATRIMÓNIO",
+      "stories": [
+        {
+          "headline": "Castelo de Leiria é uma das Novas 7 Maravilhas de Portugal",
+          "text": "O Castelo de Leiria venceu a categoria Castelos na Grande Final Nacional, realizada no Palácio Nacional de Sintra. A distinção chega num ano marcado pelos danos provocados pela tempestade Kristin, conferindo à vitória um significado acrescido. O presidente da Câmara Gonçalo Lopes sublinhou que a eleição representa a capacidade de reerguer Leiria e a determinação do território."
+        },
+        {
+          "headline": "Soure homenageia ministra do Ambiente após tempestades",
+          "text": "A ministra do Ambiente vai ser distinguida com a Medalha de Ouro do Município de Soure durante as comemorações do Dia do Município. A homenagem reconhece o papel da governante durante o período que se seguiu ao temporal de 28 de janeiro."
+        },
+        {
+          "headline": "São Pedro do Sul quer entrar no projeto do Governo para controlar javalis",
+          "text": ""
+        },
+        {
+          "headline": "Viseu prepara novo polo tecnológico com chegada da UAVision ao aeródromo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "LAZER & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "\"São Mateus é rua, rua, rua\": cinco dias para comer, passear e dançar em Soure",
+          "text": "Soure prepara cinco dias de Festa de São Mateus com aposta no espaço público e no comércio local. A programação inclui a estreia do Mateuzinho (espaço para crianças), feiras das Cebolas e das Nozes, restauração e concertos com Némanus, Fernando Daniel, Nena e José Cid. Entrada gratuita."
+        },
+        {
+          "headline": "Queijo de cabra transmontano português eleito o melhor da Europa",
+          "text": "O Queijo de Cabra Transmontano, produzido no distrito de Bragança, ocupa o primeiro lugar entre os 100 melhores queijos de cabra da Europa segundo o TasteAtlas, com 4,4 pontos. Supera o grego Sfela e o francês Crottin de Chavignol. É descrito como um queijo firme com aroma intenso e ligeira nota picante."
+        },
+        {
+          "headline": "Já sabemos quem é o Rei do Carnaval da Mealhada",
+          "text": ""
+        },
+        {
+          "headline": "Já viu isto no Mercado de Coimbra?",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
