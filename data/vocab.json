@@ -26960,5 +26960,151 @@
       "de": "untrennbar",
       "en": "inseparable"
     }
+  ],
+  "2026-09-16": [
+    {
+      "pt": "ilesos",
+      "de": "unverletzt",
+      "en": "unharmed",
+      "example": "Escaparam ilesos ao incêndio",
+      "example_de": "Sie entkamen dem Brand unverletzt",
+      "example_en": "They escaped the fire unharmed"
+    },
+    {
+      "pt": "a multidão",
+      "de": "die Menschenmenge",
+      "en": "the crowd",
+      "example": "Penela fica pequena para a multidão",
+      "example_de": "Penela wird zu klein für die Menschenmenge",
+      "example_en": "Penela becomes too small for the crowd"
+    },
+    {
+      "pt": "preservar",
+      "de": "bewahren",
+      "en": "to preserve",
+      "example": "Mira preserva as suas tradições",
+      "example_de": "Mira bewahrt seine Traditionen",
+      "example_en": "Mira preserves its traditions"
+    },
+    {
+      "pt": "endógenos",
+      "de": "einheimisch",
+      "en": "endemic, native",
+      "example": "Produtos endógenos da região",
+      "example_de": "Einheimische Produkte der Region",
+      "example_en": "Endemic products of the region"
+    },
+    {
+      "pt": "o passageiro",
+      "de": "der Fahrgast",
+      "en": "the passenger",
+      "example": "Atenção passageiros, a linha muda",
+      "example_de": "Achtung Fahrgäste, die Linie ändert sich",
+      "example_en": "Attention passengers, the line changes"
+    },
+    {
+      "pt": "o mérito",
+      "de": "das Verdienst",
+      "en": "merit",
+      "example": "Prémios de Mérito e Excelência Escolar",
+      "example_de": "Preise für Verdienst und schulische Exzellenz",
+      "example_en": "Awards for Merit and School Excellence"
+    },
+    {
+      "pt": "a partilha",
+      "de": "das Teilen",
+      "en": "sharing",
+      "example": "Diferentes momentos de convívio e partilha",
+      "example_de": "Verschiedene Momente des Beisammenseins und Teilens",
+      "example_en": "Different moments of socializing and sharing"
+    },
+    {
+      "pt": "a resolução",
+      "de": "die Lösung",
+      "en": "resolution, solving",
+      "example": "Fogo em Proença-a-Nova em fase de resolução",
+      "example_de": "Brand in Proença-a-Nova in Lösungsphase",
+      "example_en": "Fire in Proença-a-Nova in resolution phase"
+    },
+    {
+      "pt": "a designação",
+      "de": "die Bezeichnung",
+      "en": "designation, name",
+      "example": "A linha muda de designação e horários",
+      "example_de": "Die Linie ändert Bezeichnung und Zeiten",
+      "example_en": "The line changes its designation and schedules"
+    },
+    {
+      "pt": "a frequência",
+      "de": "die Häufigkeit",
+      "en": "frequency",
+      "example": "A frequência durante os dias úteis",
+      "example_de": "Die Häufigkeit an Werktagen",
+      "example_en": "The frequency during weekdays"
+    },
+    {
+      "pt": "a proveniência",
+      "de": "die Herkunft",
+      "en": "provenance, origin",
+      "example": "Artistas de diferentes proveniências",
+      "example_de": "Künstler verschiedener Herkünfte",
+      "example_en": "Artists from different origins"
+    },
+    {
+      "pt": "o reencontro",
+      "de": "das Wiedersehen",
+      "en": "reunion",
+      "example": "É o grande momento de reencontro",
+      "example_de": "Es ist der grosse Moment des Wiedersehens",
+      "example_en": "It is the great moment of reunion"
+    },
+    {
+      "pt": "consideravelmente",
+      "de": "erheblich",
+      "en": "considerably",
+      "example": "A situação melhorou consideravelmente",
+      "example_de": "Die Situation verbesserte sich erheblich",
+      "example_en": "The situation improved considerably"
+    },
+    {
+      "pt": "a atratividade",
+      "de": "die Attraktivität",
+      "en": "attractiveness",
+      "example": "Reforçando a atratividade da cidade",
+      "example_de": "Die Attraktivität der Stadt stärkend",
+      "example_en": "Reinforcing the attractiveness of the city"
+    },
+    {
+      "pt": "as boas-vindas",
+      "de": "die Begrüssung",
+      "en": "welcome",
+      "example": "Uma festa de boas-vindas aos participantes",
+      "example_de": "Ein Begrüssungsfest für die Teilnehmer",
+      "example_en": "A welcome party for the participants"
+    },
+    {
+      "pt": "a novidade",
+      "de": "die Neuigkeit",
+      "en": "novelty, new feature",
+      "example": "Uma novidade dentro da pista de Drift",
+      "example_de": "Eine Neuigkeit auf der Drift-Strecke",
+      "example_en": "A novelty on the Drift track"
+    },
+    {
+      "pt": "identificativo",
+      "de": "identifizierend",
+      "en": "identifying",
+      "example": "Não conseguia indicar qualquer dado identificativo",
+      "example_de": "Konnte keine identifizierenden Daten angeben",
+      "example_en": "Could not provide any identifying data"
+    },
+    {
+      "pt": "o tecido associativo",
+      "de": "das Vereinswesen",
+      "en": "associative fabric",
+      "example": "A importância do certame para o tecido associativo",
+      "example_de": "Die Bedeutung der Veranstaltung für das Vereinswesen",
+      "example_en": "The importance of the event for the associative fabric"
+    }
   ]
 }
