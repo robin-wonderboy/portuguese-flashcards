@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚒",
+      "category": "INCÊNDIOS & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Fogo em Proença-a-Nova em fase de resolução",
+          "text": "O incêndio que deflagrou na segunda-feira em Alvito da Beira, no concelho de Proença-a-Nova, entrou em fase de resolução às 00:20 de hoje. A situação melhorou consideravelmente nas últimas horas, com 80% do perímetro dominado. Mobiliza 551 operacionais apoiados por 187 veículos."
+        },
+        {
+          "headline": "Escapam ilesos a incêndio num carro em Coimbra",
+          "text": "Um carro ficou destruído na sequência de um incêndio que deflagrou na noite de 15 de setembro no parque de estacionamento do McDonald's, na Avenida Fernão de Magalhães, em Coimbra. O alerta foi dado às 21:52 e os bombeiros extinguiram o fogo rapidamente. Não houve vítimas."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Idosa entra sozinha na esquadra sem saber quem é. Pulseira salvou o dia",
+          "text": "Uma idosa deslocou-se sozinha à esquadra de Matosinhos da PSP sem conseguir indicar o próprio nome ou a morada. Graças à Pulseira Estou Aqui Adultos, foi possível identificá-la e regressar em segurança a casa."
+        },
+        {
+          "headline": "Enfermeira assassina recorre ao Tribunal Europeu dos Direitos do Homem",
+          "text": "Seis anos depois do homicídio de Diogo Gonçalves, Mariana Fonseca continua a contestar a decisão dos tribunais portugueses. Foi localizada na Indonésia em março, detida no estabelecimento prisional de Tires, e agora recorre para o Tribunal Europeu dos Direitos do Homem."
+        },
+        {
+          "headline": "Suspeitos de atingir turista a tiro entregam-se à PJ",
+          "text": "Três homens suspeitos de terem baleado uma turista sueca de 42 anos na Baixa de Lisboa entregaram-se na sede da Polícia Judiciária. O caso aconteceu na manhã de 10 de agosto, na Rua Augusta, na sequência de um conflito entre os suspeitos e elementos de uma família rival."
+        },
+        {
+          "headline": "Expulso da discoteca volta armado e dispara contra o espaço",
+          "text": "A PJ deteve um homem de 21 anos suspeito de ter disparado vários tiros junto a uma discoteca em Santa Maria da Feira, um dos quais atingiu uma cliente. O suspeito tinha sido expulso por comportamento agressivo e perturbador, e regressou armado."
+        },
+        {
+          "headline": "ASPP/PSP lança petição por mais investimento na segurança",
+          "text": "A Associação Sindical dos Profissionais da Polícia promoveu uma petição que ultrapassou as mil assinaturas em 72 horas. A iniciativa alerta para a falta de polícias e meios operacionais, apontando problemas nas viaturas, equipamentos e infraestruturas da PSP."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Linha 12 dos SMTUC muda percurso e ganha mais viagens",
+          "text": "A Linha 12 dos SMTUC sofre alterações a partir de 15 de setembro, com mudanças no percurso, designação e horários. A linha, que liga Beira Rio a Taveiro, passa a servir diretamente a Quinta das Bicas. A frequência durante os dias úteis foi ajustada."
+        }
+      ]
+    },
+    {
+      "emoji": "🎶",
+      "category": "CULTURA & ESPETÁCULO",
+      "stories": [
+        {
+          "headline": "Fadista de Coimbra Carina Carvalho conquista o Funtástico da TVI",
+          "text": "A fadista Carina Carvalho, natural de Coimbra e residente em Almalaguês, conquistou uma das eliminatórias do programa Funtástico da TVI, apresentado por Manuel Luís Goucha. Conseguiu a votação máxima do público e tem lugar garantido na grande final."
+        },
+        {
+          "headline": "Coimbra transforma-se num filme dos anos 50 com rockabilly",
+          "text": "A sexta edição do festival Action Packed começa quinta-feira em Coimbra e estende-se até domingo. O evento reúne bandas e DJ europeus e norte-americanos em torno da música rockabilly dos anos 50, com concertos, feira de artigos usados, exposição de fotografia e mostra de veículos clássicos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "FESTAS & TRADIÇÃO",
+      "stories": [
+        {
+          "headline": "Festas de São Miguel esperam mais de 25 mil pessoas em Penela",
+          "text": "As Festas de São Miguel regressam a Penela de 25 a 29 de setembro, com música, expositores e tasquinhas. Com quase seis séculos de existência, integram a Feira Agrícola e Industrial e a Feira Anual das Nozes. Este ano conta com 105 expositores e palco principal numa tenda de 1.200 m²."
+        },
+        {
+          "headline": "Mira junta milhares à mesa para celebrar os sabores da Gândara",
+          "text": "A 27ª Mostra Gastronómica da Região da Gândara levou milhares de pessoas ao Largo da Barrinha, na Praia de Mira, entre 10 e 13 de setembro. Sete tasquinhas deram a conhecer pratos característicos da região, num evento que alia gastronomia, artesanato, música e saberes tradicionais."
+        },
+        {
+          "headline": "Montemor-o-Velho prepara dias de adrenalina no Motorfestival",
+          "text": "A 11ª edição do Baixo Mondego Motorfestival decorre no fim de semana de 19 e 20 de setembro no Centro Náutico de Montemor-o-Velho. O programa inclui Drift com 80 pilotos de 6 nacionalidades, 200 automóveis em exposição, street food e o tradicional Car Limbo."
+        }
+      ]
+    },
+    {
+      "emoji": "🌱",
+      "category": "COMUNIDADE & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Jardim Monte Formoso celebra cinco anos com encontro civicamente",
+          "text": "Mais de 40 pessoas juntaram-se no dia 12 de setembro no Jardim da Rua do Brasil, em Coimbra, para o encontro Quem Cuida da Cidade, promovido pelo Jardim Monte Formoso no âmbito do Dia Europeu das Comunidades Sustentáveis. O evento marcou também os cinco anos do projeto."
+        },
+        {
+          "headline": "215 alunos de Tondela distinguidos pelos resultados escolares",
+          "text": "O Município de Tondela distinguiu 215 alunos do concelho com Prémios de Mérito e Excelência Escolar. Entre os distinguidos estão 204 estudantes do 5º ao 12º ano, e três receberam prémios de Excelência por terem mantido o estatuto de alunos de mérito ao longo de todo o percurso escolar."
+        },
+        {
+          "headline": "Oliveira do Bairro promove almoço-convívio no Dia Internacional do Idoso",
+          "text": "O Município de Oliveira do Bairro vai promover no dia 1 de outubro o almoço-convívio 65 em Festa, no Espaço Inovação. A iniciativa pretende proporcionar um momento de convívio e partilha junto da população sénior do concelho. As inscrições são gratuitas mas obrigatórias."
+        }
+      ]
+    }
+  ]
+}
