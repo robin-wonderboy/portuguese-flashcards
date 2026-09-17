@@ -27106,5 +27106,103 @@
       "example_de": "Die Bedeutung der Veranstaltung für das Vereinswesen",
       "example_en": "The importance of the event for the associative fabric"
     }
+  ],
+  "2026-09-17": [
+    {
+      "pt": "percorrer",
+      "de": "durchqueren, zurücklegen",
+      "en": "to travel across / cover a distance",
+      "example": "O condutor percorreu a autoestrada em contramão",
+      "example_de": "Der Fahrer durchquerte die Autobahn in falscher Richtung",
+      "example_en": "The driver traveled the highway the wrong way"
+    },
+    {
+      "pt": "ateiar fogo",
+      "de": "Feuer legen, anzünden",
+      "en": "to set fire to",
+      "example": "A mulher ateou fogo ao marido",
+      "example_de": "Die Frau legte Feuer an ihren Mann",
+      "example_en": "The woman set fire to her husband"
+    },
+    {
+      "pt": "matar saudades",
+      "de": "Sehnsucht stillen",
+      "en": "to ease longing / miss dearly",
+      "example": "Coimbra tem cantinhos para matar saudades do Brasil",
+      "example_de": "Coimbra hat Ecken, um die Sehnsucht nach Brasilien zu stillen",
+      "example_en": "Coimbra has spots to ease the longing for Brazil"
+    },
+    {
+      "pt": "deliberar",
+      "de": "beraten, beschließen",
+      "en": "to deliberate / decide",
+      "example": "O Executivo Municipal deliberou aprovar a adjudicação",
+      "example_de": "Der Gemeinderat beschloss die Vergabe zu genehmigen",
+      "example_en": "The Municipal Executive deliberated to approve the award"
+    },
+    {
+      "pt": "a adjudicação",
+      "de": "Vergabe (von Aufträgen)",
+      "en": "awarding (of a contract)",
+      "example": "A adjudicação da empreitada foi aprovada",
+      "example_de": "Die Vergabe des Bauauftrags wurde genehmigt",
+      "example_en": "The awarding of the contract was approved"
+    },
+    {
+      "pt": "mortalmente",
+      "de": "tödlich",
+      "en": "fatally / mortally",
+      "example": "A mulher acabou atropelada mortalmente",
+      "example_de": "Die Frau wurde tödlich überfahren",
+      "example_en": "The woman was fatally run over"
+    },
+    {
+      "pt": "o anjo da guarda",
+      "de": "Schutzengel",
+      "en": "guardian angel",
+      "example": "Encontrou um anjo da guarda da PSP",
+      "example_de": "Sie fand einen Schutzengel der PSP",
+      "example_en": "She found a guardian angel from the PSP"
+    },
+    {
+      "pt": "descontraído",
+      "de": "entspannt, locker",
+      "en": "relaxed / laid-back",
+      "example": "O evento decorre num ambiente descontraído",
+      "example_de": "Das Event findet in entspannter Atmosphäre statt",
+      "example_en": "The event takes place in a relaxed atmosphere"
+    },
+    {
+      "pt": "o rosto",
+      "de": "Gesicht",
+      "en": "face",
+      "example": "Os rostos dos bombeiros que rumaram em direção à morte",
+      "example_de": "Die Gesichter der Feuerwehrleute, die in den Tod ritten",
+      "example_en": "The faces of the firefighters who rode toward death"
+    },
+    {
+      "pt": "o noctívago",
+      "de": "Nachtschwärmer",
+      "en": "night owl",
+      "example": "O rooftop atrai noctívagos em busca do pôr do sol",
+      "example_de": "Das Rooftop zieht Nachtschwärmer auf der Suche nach dem Sonnenuntergang an",
+      "example_en": "The rooftop attracts night owls in search of the sunset"
+    },
+    {
+      "pt": "avançado",
+      "de": "fortgeschritten",
+      "en": "advanced",
+      "example": "O corpo estava em avançado estado de decomposição",
+      "example_de": "Der Leichnam war in fortgeschrittenem Verwesungszustand",
+      "example_en": "The body was in an advanced state of decomposition"
+    },
+    {
+      "pt": "o autos",
+      "de": "Strafzettel, Protokoll",
+      "en": "official report / ticket",
+      "example": "A GNR elaborou 1.500 autos de contraordenação",
+      "example_de": "Die GNR stellte 1.500 Strafzettel aus",
+      "example_en": "The GNR issued 1,500 violation tickets"
+    }
   ]
 }
