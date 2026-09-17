@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Homem percorre 23 km da A17 em contramão e alcoolizado",
+          "text": "Um homem de 37 anos foi detido na madrugada desta quinta-feira depois de percorrer cerca de 23 quilómetros da A17 em contramão, no distrito de Leiria. O alerta foi dado pelas 5:30, após o condutor ter sido avistado a circular em sentido contrário na autoestrada."
+        },
+        {
+          "headline": "Ex-militar vai ser acusado de 2 homicídios",
+          "text": "Um ex-militar será acusado de dois homicídios após ter obrigado o filho de 12 anos a carregar os corpos da mãe e da madrasta. O caso choca pela frieza com que o suspeito envolveu o menor no encobrimento dos crimes."
+        },
+        {
+          "headline": "PJ investiga camionista desaparecido em Espanha",
+          "text": "A Polícia Judiciária do Centro está a investigar o desaparecimento de Tiago Miguel Silva, de 31 anos, residente em Alvaiázere. O camionista está desaparecido em Espanha há quase duas semanas, tendo o último contacto com a mãe ocorrido a 4 de setembro."
+        },
+        {
+          "headline": "Mulher ateou fogo ao marido com petróleo",
+          "text": "A PJ está a investigar um caso em que uma mulher terá usado petróleo e ateado fogo ao marido. Os detalhes do caso são escassos, mas a gravidade dos factos levou à intervenção imediata das autoridades."
+        },
+        {
+          "headline": "GNR fiscalizou 21.567 estrangeiros e fez 232 detenções",
+          "text": "A GNR fiscalizou entre janeiro e finais de agosto 21.567 estrangeiros em território nacional, efetuou 232 detenções, elaborou 1.500 autos de contraordenação e emitiu 348 notificações para abandono voluntário do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "REGIÃO & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Ponte de Verride reabre em Montemor-o-Velho",
+          "text": "A Ponte de Verride, em Montemor-o-Velho, vai reabrir à circulação rodoviária esta quinta-feira, às 08:00. A intervenção para substituir as seis juntas de dilatação avançou a um ritmo superior ao previsto, permitindo antecipar a reabertura."
+        },
+        {
+          "headline": "Praia da Tocha vai ganhar nova Marginal",
+          "text": "O Executivo Municipal aprovou a adjudicação da empreitada de requalificação da Marginal da Praia da Tocha, num investimento de 1,68 milhões de euros. A obra arranca ainda este ano, com conclusão prevista no final da primavera de 2028."
+        },
+        {
+          "headline": "Homem encontrado morto em casa na Covilhã",
+          "text": "Um homem foi encontrado morto no interior de uma habitação na Covilhã. O alerta foi dado cerca das 20:30, tendo o corpo sido encontrado em avançado estado de decomposição. A Polícia Judiciária foi acionada e ficou a investigar o caso."
+        },
+        {
+          "headline": "Mulher atropelada mortalmente em Leiria",
+          "text": "Uma mulher de cerca de 70 anos morreu após ter sido atropelada na Estrada Nacional 242, entre Leiria e Marinha Grande. A vítima terá saído do próprio automóvel devido a uma avaria, tendo sido atingida por uma viatura ligeira de mercadorias."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "São Mateus desce à terra e escolhe Soure",
+          "text": "Soure celebra o São Mateus entre 17 e 21 de setembro com cinco dias de música, animação e tradição. Os concertos incluem Némanus, Fernando Daniel e José Cid, todos com entrada gratuita. O autarca sublinha que é uma festa feita na rua, não de recinto, com a estreia do Mateuzinho para crianças e as tradicionais Feira das Cebolas e Feira das Nozes."
+        },
+        {
+          "headline": "Filarmónica Ressurreição de Mira celebra 156 anos",
+          "text": "A Filarmónica Ressurreição de Mira vai celebrar o seu 156.º aniversário no dia 26 de setembro com um Encontro de Bandas Filarmónicas no Atrium Raul Almeida. O evento junta três formações: Banda de Música de Sabrosa, Banda B. Voluntários de Ílhavo e a própria Filarmónica de Mira."
+        },
+        {
+          "headline": "Rooftop em Aveiro junta saxofone e cocktails ao pôr do sol",
+          "text": "O Maré Alta Rooftop, no Hotel do Albôi em Aveiro, recebe este domingo o Golden Hour com saxofone ao vivo de Filipe Antunes e cocktails de assinatura. O evento decorre das 17h30 às 20h30 com entrada gratuita e lugares limitados, num ambiente descontraído com vista sobre a ria."
+        }
+      ]
+    },
+    {
+      "emoji": "🧡",
+      "category": "COMUNIDADE",
+      "stories": [
+        {
+          "headline": "Vila Nova de Oliveirinha recorda 3 bombeiros mortos",
+          "text": "A comunidade de Vila Nova de Oliveirinha, em Tábua, assinala hoje a memória de três bombeiros da corporação local que morreram há dois anos no combate a um incêndio em Midões. Sónia Cláudia Melo, Susana Cristina Carvalho e Paulo Jorge Santos perderam a vida a 17 de setembro de 2024."
+        },
+        {
+          "headline": "Coimbra tem cantinhos para matar saudades do Brasil",
+          "text": "Para os estudantes brasileiros que escolheram Coimbra para estudar, há vários espaços onde é possível encontrar sabores, música e ambientes que fazem lembrar o Brasil. Entre uma aula e outra, há opções para comer, beber e conviver."
+        },
+        {
+          "headline": "Carolina de Deus encontrou anjo da guarda na PSP",
+          "text": "Carolina de Deus perdeu documentos em Leiria e acabou por encontrar um anjo da guarda na PSP que a ajudou a recuperar os pertences. Uma história que restaura a fé nas autoridades e na bondade das pessoas."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Restaurante Michelin multado por servir formigas",
+          "text": "Um tribunal sul-coreano multou em 25 milhões de won (16.950 euros) a responsável por um restaurante de duas estrelas Michelin em Seul por servir formigas como alimento. O restaurante Evett foi investigado depois de pratos com formigas terem sido servidos aos clientes."
+        }
+      ]
+    }
+  ]
+}
