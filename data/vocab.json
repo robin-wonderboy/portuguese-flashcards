@@ -27204,5 +27204,87 @@
       "example_de": "Die GNR stellte 1.500 Strafzettel aus",
       "example_en": "The GNR issued 1,500 violation tickets"
     }
+  ],
+  "2026-09-18": [
+    {
+      "pt": "desarticular",
+      "de": "zerschlagen, aufrollen",
+      "en": "to dismantle, break up (a criminal network)",
+      "example": "A PJ desarticulou uma organização criminosa transnacional",
+      "example_de": "Die PJ zerschlug eine transnationale kriminelle Organisation",
+      "example_en": "The PJ dismantled a transnational criminal organization"
+    },
+    {
+      "pt": "o funaná",
+      "de": "Funaná (kapverdischer Musikstil)",
+      "en": "funaná (Cape Verdean music genre)",
+      "example": "O funaná está garantido na primeira noite das Festas de São Mateus",
+      "example_de": "Funaná ist am ersten Abend der São-Mateus-Feste garantiert",
+      "example_en": "Funaná is guaranteed on the first night of the São Mateus festival"
+    },
+    {
+      "pt": "a sapadora",
+      "de": "Abrissziege, fressende Ziege",
+      "en": "browsing goat (used for fire prevention)",
+      "example": "Cabras sapadoras e pastores públicos apontados como solução para incêndios",
+      "example_de": "Abrissziegen und öffentliche Hirten als Lösung gegen Brände vorgeschlagen",
+      "example_en": "Browsing goats and public shepherds proposed as solution for fires"
+    },
+    {
+      "pt": "o dador",
+      "de": "Spender",
+      "en": "donor",
+      "example": "SPAC apela a novos dadores de sangue",
+      "example_de": "SPAC ruft zu neuen Blutspendern auf",
+      "example_en": "SPAC appeals to new blood donors"
+    },
+    {
+      "pt": "a convivência",
+      "de": "Zusammenleben, Geselligkeit",
+      "en": "coexistence, socializing",
+      "example": "Rita criou em Condeixa um novo espaço de criatividade e convívio",
+      "example_de": "Rita schuf in Condeixa einen neuen Raum für Kreativität und Geselligkeit",
+      "example_en": "Rita created in Condeixa a new space for creativity and socializing"
+    },
+    {
+      "pt": "a lata",
+      "de": "Dose, Blechdose",
+      "en": "can, tin",
+      "example": "A Festa das Latas lança campanha solidária para recolher bens",
+      "example_de": "Das Dosensfest startet eine Solidaritätsaktion zum Sammeln von Gütern",
+      "example_en": "The Festa das Latas launches a solidarity campaign to collect goods"
+    },
+    {
+      "pt": "o pensionista",
+      "de": "Rentner, Pensionär",
+      "en": "pensioner, retiree",
+      "example": "O suplemento será atribuído aos pensionistas que recebem até 1.611 euros",
+      "example_de": "Der Zuschuss wird Rentnern gewährt, die bis zu 1.611 Euro beziehen",
+      "example_en": "The supplement will be granted to pensioners receiving up to 1,611 euros"
+    },
+    {
+      "pt": "o bombeiro sapador",
+      "de": "Berufsfeuerwehr, Feuerwehrmann",
+      "en": "firefighter (sapador = sapper/firefighter)",
+      "example": "A linha 5 inverte a marcha junto aos Bombeiros Sapadores",
+      "example_de": "Linie 5 kehrt am Berufsbahnhof der Feuerwehr um",
+      "example_en": "Line 5 reverses direction near the Sapadores Firefighters"
+    },
+    {
+      "pt": "o deputado",
+      "de": "Abgeordneter, Parlamentarier",
+      "en": "member of parliament, deputy",
+      "example": "Os deputados do PSD eleitos por Viseu garantem que o IP3 ficará isento",
+      "example_de": "Die für Viseu gewählten PSD-Abgeordneten sichern zu, dass die IP3 mautfrei wird",
+      "example_en": "The PSD deputies elected for Viseu guarantee the IP3 will be toll-free"
+    },
+    {
+      "pt": "a ocupação",
+      "de": "Auslastung, Belegung",
+      "en": "occupancy, attendance",
+      "example": "Estádios registam ocupação histórica no arranque da temporada 2026/27",
+      "example_de": "Stadien verzeichnen historische Auslastung zum Start der Saison 2026/27",
+      "example_en": "Stadiums record historic attendance at the start of the 2026/27 season"
+    }
   ]
 }
