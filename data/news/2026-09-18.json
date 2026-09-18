@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Freguesia de Santana estreia-se no Erasmus+ com 4.º lugar e 60 mil euros",
+          "text": "A Junta de Freguesia de Santana, na Figueira da Foz, coordena pela primeira vez um projeto financiado pelo programa Erasmus+. A candidatura 'Rural Youth Pulse - From Listening to Local Power' alcançou o 4.º lugar entre 117 candidaturas, criando novas oportunidades para os jovens da comunidade."
+        },
+        {
+          "headline": "Cantanhede na rota das melhores provas de Orientação",
+          "text": ""
+        },
+        {
+          "headline": "IP3 ficará isento de portagens, garantem deputados do PSD por Viseu",
+          "text": "Os deputados do PSD eleitos por Viseu garantiram que o itinerário principal 3, que liga Viseu e Coimbra, ficará isento de portagens. As declarações do ministro das Infraestruturas tinham 'suscitado dúvidas que importa esclarecer sem equívocos'."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Jornadas Europeias do Património começam hoje com 400+ atividades",
+          "text": "Sob o mote 'Reviver, resistir, reinventar', as Jornadas Europeias do Património decorrem de hoje até 27 de setembro em Portugal, com mais de 400 atividades assinaladas pelo país. A iniciativa reflete sobre como sociedades em rápida mudança enfrentam desafios como a digitalização."
+        },
+        {
+          "headline": "A calçada portuguesa transforma-se em arte na Figueira da Foz",
+          "text": ""
+        },
+        {
+          "headline": "Festa das Latas lança campanha solidária para recolher bens",
+          "text": "A Comissão Organizadora da Festa das Latas e Imposição de Insígnias 2026 promove uma Ação Solidária de Doação de Bens entre 21 e 27 de setembro em Coimbra. A iniciativa envolve estudantes e comunidade académica na recolha de bens para pessoas em situação de vulnerabilidade."
+        },
+        {
+          "headline": "Rocketmen em Coimbra: três dias de concertos gratuitos e som alternativo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Coimbra transforma-se em pista gigante de triatlo neste domingo",
+          "text": "A Taça da Europa de Triatlo Coimbra 2026 reúne mais de mil atletas no domingo, 20 de setembro. Cortes de trânsito nas duas margens do Mondego das 08h00 às 18h30, com afetação de várias linhas de autocarro da SIT."
+        },
+        {
+          "headline": "Estádios registam ocupação histórica no arranque da temporada 2026/27",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Operação 'Anticaspa' da PJ descobre cocaína escondida em cosméticos",
+          "text": "A PJ, em cooperação com a Polícia Federal do Brasil e o BKA da Alemanha, desarticulou uma organização criminosa transnacional dedicada ao tráfico de estupefacientes. Seis suspeitos foram detidos no Brasil e na Alemanha, com apreensão de cocaína dissimulada em produtos cosméticos."
+        },
+        {
+          "headline": "Atiram em turista e ficam em prisão preventiva",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo aprova suplemento extraordinário para pensionistas",
+          "text": "O primeiro-ministro Luís Montenegro anunciou um suplemento de 100 a 200 euros para pensionistas que recebem até 1.611,39 euros, a pagar em dezembro. O anúncio foi feito em declaração ao país após o Conselho de Ministros."
+        },
+        {
+          "headline": "38 milhões em apoios aos setores mais afetados pelos combustíveis",
+          "text": "O Governo prolongou até final do ano o apoio de 10 cêntimos por litro ao gasóleo profissional e reeditou apoios a táxis, bombeiros e setor social, num pacote total de 38 milhões de euros."
+        },
+        {
+          "headline": "Sem-abrigo e o sistema Volta: oportunidade ou problema social?",
+          "text": "O sistema de depósito de garrafas e latas está a gerar preocupação entre instituições que acompanham pessoas sem-abrigo. Há relatos de quem chegou a fazer 40 euros por dia. Carlos Moedas falou num 'drama social sem precedentes' em Lisboa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Gastrenterologia pede atualização urgente da tabela do SNS",
+          "text": "A Associação Nacional de Unidades de Gastrenterologia alerta para o risco de redução da rede convencionada, pois a tabela de atos do SNS está inalterada desde 2014, apesar da evolução de custos e exigências clínicas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Cabras sapadoras e pastores públicos como solução para incêndios",
+          "text": "A diretora da associação ReflorestarPT defendeu em debate em Lisboa que ser pastor devia ser uma profissão pública para prevenir incêndios. Portugal precisa de um 'lobby pela reflorestação da floresta', afirmou."
+        }
+      ]
+    },
+    {
+      "emoji": "🌏",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Austrália vai prender turistas que ultrapassem prazo dos vistos",
+          "text": "O Governo australiano vai passar a colocar turistas que ultrapassem a duração autorizada dos vistos em detenção administrativa. O ministro do Interior Tony Burke anunciou também restrições a vistos de estudante e férias-trabalho."
+        }
+      ]
+    }
+  ]
+}
