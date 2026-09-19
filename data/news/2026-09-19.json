@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🍔",
+      "category": "GASTRONOMIA & LAZER",
+      "stories": [
+        {
+          "headline": "Smash Yard: nova tentação gastronómica junto ao rio Mondego",
+          "text": "Coimbra ganhou um novo espaço dedicado aos smash burgers junto ao Parque Verde do Mondego. O conceito baseia-se em hambúrgueres prensados na chapa, servidos em pão brioche. O proprietário, Francisco Gaspar, economista de 24 anos, promete um novo smash burger todos os meses, com a primeira novidade prevista para outubro."
+        },
+        {
+          "headline": "Termas de São Pedro do Sul abrem à noite",
+          "text": "As Termas de São Pedro do Sul voltam a abrir portas durante a noite para a AQVA Experiência Noturna, nos dias 3 e 4 de outubro. A iniciativa oferece uma experiência diferente de termalismo num ambiente dedicado ao relaxamento e bem-estar."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & FESTAS",
+      "stories": [
+        {
+          "headline": "Richie Campbell confirmado para a Festa das Latas",
+          "text": "O artista português Richie Campbell é a mais recente confirmação para a Festa das Latas e Imposição das Insígnias de Coimbra. O concerto está marcado para 3 de outubro, na terceira noite do evento que assinala o início do novo ano académico e reúne milhares de estudantes."
+        },
+        {
+          "headline": "Festa das Vindimas em Lamas celebra 25ª edição",
+          "text": "A 25ª Festa das Vindimas decorre em Lamas entre sexta-feira e domingo, com música, fado, DJ e gaiteiros. O tradicional cortejo etnográfico recria os trabalhos da vindima, incluindo o esmagar das uvas, e elegerá a Rainha das Vindimas."
+        },
+        {
+          "headline": "Ruas de Almalaguês ganham nova vida este fim de semana",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚴",
+      "category": "DESPORTO & AVENTURA",
+      "stories": [
+        {
+          "headline": "Miranda do Corvo recebe Taça de Portugal de Downhill Urbano",
+          "text": "Miranda do Corvo transforma a sua zona histórica num cenário de adrenalina este sábado com o regresso do downhill. Os ciclistas enfrentam uma descida noturna entre o Calvário e a Praça José Falcão. O fim de semana inclui ainda o Festival da Francesinha nos Oleiros do Carapinhal e a caminhada Serra a Bramar em Vila Flor."
+        },
+        {
+          "headline": "Coimbra vai ter novo complexo desportivo em Celas",
+          "text": "As obras do novo Complexo Desportivo Integrado de Celas já arrancaram. O projeto ocupa cerca de 5.600 metros quadrados e junta atividades desportivas, saúde, recuperação e bem-estar. O início dos trabalhos foi assinalado pela Câmara Municipal de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Obras do Metrobus voltam a alterar circulação em Coimbra",
+          "text": "Os trabalhos finais de pavimentação do canal do Metrobus junto à Praceta Mota Pinto e Alameda Armando Gonsalves decorrem entre 21 e 25 de setembro. Durante o período, a circulação rodoviária será assegurada pelo lado da Escola Martim de Freitas."
+        },
+        {
+          "headline": "Transportes públicos gratuitos em 14 municípios de Viseu Dão Lafões",
+          "text": "A Comunidade Intermunicipal Viseu Dão Lafões vai assinalar a Semana Europeia da Mobilidade com transportes gratuitos em 22 de setembro, Dia Europeu Sem Carros. A medida aplica-se a toda a Rede MobiViseu Dão Lafões e pretende incentivar os cidadãos a deixar o carro em casa."
+        },
+        {
+          "headline": "Camião incendeia-se na A1",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Jovem ameaça avó com arma branca e é apanhado em flagrante",
+          "text": "Um jovem de 20 anos foi detido pela GNR por ameaçar a avó com uma arma branca em Sousel, distrito de Portalegre. O suspeito foi apanhado em flagrante por violência doméstica."
+        },
+        {
+          "headline": "Fugiram da PSP em Coimbra e acabaram intercetados com 20 facas",
+          "text": ""
+        },
+        {
+          "headline": "Encontro marcado no Instagram acaba em ataque à facada",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "REGIÃO & COMUNIDADE",
+      "stories": [
+        {
+          "headline": "Mural de Guilherme Valezim descerrado no Hospital Pediátrico de Coimbra",
+          "text": "O pequeno Guilherme Valezim é o autor do mural colocado na entrada das consultas externas do Hospital Pediátrico de Coimbra. A obra representa o momento em que a criação ganha uma nova vida."
+        },
+        {
+          "headline": "Projeto Escola Feliz prepara crianças para novo ano letivo em Oliveira do Hospital",
+          "text": "A Câmara Municipal de Oliveira do Hospital promoveu a 14ª edição do Projeto Escola Feliz, envolvendo 20 crianças entre os 6 e os 12 anos. O projeto apoia alunos com dificuldades de aprendizagem através de atividades complementares."
+        },
+        {
+          "headline": "Góis leva tradição e receitas à cozinha sénior",
+          "text": "O Município de Góis promove o projeto Ao ritmo dos sabores, dirigido à população sénior. A iniciativa decorre em seis sessões dedicadas à culinária e partilha de conhecimentos, com prioridade para participantes com 65 ou mais anos."
+        },
+        {
+          "headline": "Pombal investe 2,7 milhões na recuperação de rios e ribeiras",
+          "text": "O município de Pombal vai investir 2,7 milhões de euros do Fundo Ambiental na recuperação de rios e ribeiras após as intempéries de janeiro e fevereiro. Já foram realizadas 21 intervenções de emergência, com novos trabalhos de desobstrução e limpeza previstos."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL & MUNDO",
+      "stories": [
+        {
+          "headline": "Brian Godinho morre em acidente de trabalho em Nova Iorque",
+          "text": "Brian Godinho, luso-americano de 35 anos, morreu na sequência de um acidente de trabalho num estaleiro em Manhattan. Natural de Newark, era filho de emigrantes portugueses com raízes no concelho de Anadia e trabalhava na construção civil."
+        },
+        {
+          "headline": "Alexandra sobreviveu 13 horas à deriva no Mar Vermelho",
+          "text": "Alexandra Alves Gaspar estava de férias no Egito quando um mergulho no Mar Vermelho se transformou numa situação de sobrevivência. Foi arrastada por uma forte corrente juntamente com outros 11 mergulhadores e passou cerca de 13 horas à deriva."
+        }
+      ]
+    }
+  ]
+}
