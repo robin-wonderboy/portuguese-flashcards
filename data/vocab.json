@@ -27286,5 +27286,95 @@
       "example_de": "Stadien verzeichnen historische Auslastung zum Start der Saison 2026/27",
       "example_en": "Stadiums record historic attendance at the start of the 2026/27 season"
     }
+  ],
+  "2026-09-19": [
+    {
+      "pt": "a pavimentação",
+      "de": "die Pflasterung, der Straßenbelag",
+      "en": "the paving",
+      "example": "Os trabalhos finais de pavimentação do canal do Metrobus",
+      "example_de": "Die letzten Pflasterungsarbeiten am Metrobus-Kanal",
+      "example_en": "The final paving works on the Metrobus channel"
+    },
+    {
+      "pt": "noturno",
+      "de": "nächtlich, bei Nacht",
+      "en": "nocturnal, at night",
+      "example": "Descida noturna entre o Calvário e a Praça",
+      "example_de": "Nächtliche Abfahrt zwischen dem Kalvarienberg und dem Platz",
+      "example_en": "Nighttime descent between the Calvary and the square"
+    },
+    {
+      "pt": "descerrar",
+      "de": "enthüllen, aufdecken",
+      "en": "to unveil, to uncover",
+      "example": "Antes de ter sido descerrado o mural no hospital",
+      "example_de": "Bevor das Wandbild im Krankenhaus enthüllt wurde",
+      "example_en": "Before the mural was unveiled at the hospital"
+    },
+    {
+      "pt": "incentivar",
+      "de": "anregen, ermutigen",
+      "en": "to encourage, to incentivize",
+      "example": "Pretende incentivar os cidadãos a deixarem o carro em casa",
+      "example_de": "Soll die Bürger ermutigen, das Auto zu Hause zu lassen",
+      "example_en": "Aims to encourage citizens to leave the car at home"
+    },
+    {
+      "pt": "a culinária",
+      "de": "die Kochkunst, die Küche",
+      "en": "cooking, culinary arts",
+      "example": "Gostar de cozinha, culinária e empreendedorismo",
+      "example_de": "Kochkunst und Unternehmertum mögen",
+      "example_en": "To like culinary arts and entrepreneurship"
+    },
+    {
+      "pt": "prensado",
+      "de": "gepresst",
+      "en": "pressed, smashed",
+      "example": "Hambúrgueres prensados na chapa",
+      "example_de": "Auf der Platte gepresste Burger",
+      "example_en": "Burgers pressed on the grill"
+    },
+    {
+      "pt": "a chapa",
+      "de": "die Platte, das Grillblech",
+      "en": "the grill plate, hotplate",
+      "example": "Hambúrgueres prensados na chapa",
+      "example_de": "Auf der Platte gepresste Burger",
+      "example_en": "Burgers pressed on the grill plate"
+    },
+    {
+      "pt": "a merenda",
+      "de": "die Brotzeit, das Picknick",
+      "en": "the picnic, snack area",
+      "example": "O parque de merendas do Moinho do Meio",
+      "example_de": "Der Picknick-Park der Mühle do Meio",
+      "example_en": "The picnic area of Moinho do Meio"
+    },
+    {
+      "pt": "difundir",
+      "de": "verbreiten",
+      "en": "to spread, to broadcast",
+      "example": "A língua portuguesa difundiu-se pelo mundo",
+      "example_de": "Die portugiesische Sprache verbreitete sich weltweit",
+      "example_en": "The Portuguese language spread across the world"
+    },
+    {
+      "pt": "a braza",
+      "de": "die Glut, die Kohlen",
+      "en": "embers, hot coals",
+      "example": "A tradicional sardinhada nas celebrações",
+      "example_de": "Die traditionelle Sardinen-Grillung bei den Feiern",
+      "example_en": "The traditional sardine roast at the celebrations"
+    },
+    {
+      "pt": "o termalismo",
+      "de": "das Thermalbadwesen",
+      "en": "thermalism, spa therapy",
+      "example": "Uma experiência diferente de termalismo noturno",
+      "example_de": "Eine andere nächtliche Thermalbad-Erfahrung",
+      "example_en": "A different nighttime spa therapy experience"
+    }
   ]
 }
