@@ -27376,5 +27376,119 @@
       "example_de": "Eine andere nächtliche Thermalbad-Erfahrung",
       "example_en": "A different nighttime spa therapy experience"
     }
+  ],
+  "2026-09-20": [
+    {
+      "pt": "violento",
+      "de": "gewaltsam, heftig",
+      "en": "violent, intense",
+      "example": "O fogo em Arganil está muito violento",
+      "example_de": "Das Feuer in Arganil ist sehr heftig",
+      "example_en": "The fire in Arganil is very violent"
+    },
+    {
+      "pt": "o eucaliptal",
+      "de": "der Eukalyptuswald",
+      "en": "the eucalyptus grove",
+      "example": "Uma zona de eucaliptal muito densa",
+      "example_de": "Eine sehr dichte Eukalyptuswaldzone",
+      "example_en": "A very dense eucalyptus grove area"
+    },
+    {
+      "pt": "balear",
+      "de": "schießen auf, verwunden",
+      "en": "to shoot, to wound",
+      "example": "Homem suspeito de balear jovem de 25 anos",
+      "example_de": "Mann verdächtigt, 25-Jährigen zu beschießen",
+      "example_en": "Man suspected of shooting 25-year-old"
+    },
+    {
+      "pt": "o ajuste de contas",
+      "de": "die Abrechnung, die Racheaktion",
+      "en": "the settling of scores",
+      "example": "Adolescente atacado durante alegado ajuste de contas",
+      "example_de": "Jugendlicher während angeblicher Abrechnung angegriffen",
+      "example_en": "Teenager attacked during alleged settling of scores"
+    },
+    {
+      "pt": "a extradição",
+      "de": "die Auslieferung",
+      "en": "the extradition",
+      "example": "Tribunal decide extradição de homem procurado no Brasil",
+      "example_de": "Gericht entscheidet Auslieferung eines in Brasilien gesuchten Mannes",
+      "example_en": "Court decides extradition of man wanted in Brazil"
+    },
+    {
+      "pt": "desastroso",
+      "de": "katastrophal, verheerend",
+      "en": "disastrous",
+      "example": "Políticas desastrosas do PS na imigração",
+      "example_de": "Katastrophale PS-Politik in der Einwanderung",
+      "example_en": "Disastrous PS policies on immigration"
+    },
+    {
+      "pt": "vincar",
+      "de": "betonen, unterstreichen",
+      "en": "to emphasize, to highlight",
+      "example": "PM aproveitará deslocação para vincar laços económicos",
+      "example_de": "PM wird Reise nutzen, um Wirtschaftsbeziehungen zu betonen",
+      "example_en": "PM will use trip to emphasize economic ties"
+    },
+    {
+      "pt": "enfraquecer",
+      "de": "schwächen",
+      "en": "to weaken",
+      "example": "O café pode enfraquecer os ossos",
+      "example_de": "Kaffee kann die Knochen schwächen",
+      "example_en": "Coffee can weaken bones"
+    },
+    {
+      "pt": "lavrar",
+      "de": "wüten, toben (Feuer)",
+      "en": "to rage (fire), to break out",
+      "example": "O incêndio que lavra no distrito de Coimbra",
+      "example_de": "Der Brand, der im Bezirk Coimbra wütet",
+      "example_en": "The fire raging in the district of Coimbra"
+    },
+    {
+      "pt": "a insuficiência",
+      "de": "die Unzulänglichkeit, das Defizit",
+      "en": "the insufficiency, shortfall",
+      "example": "Acusou o Governo de insuficiência de propostas reformistas",
+      "example_de": "Klagte die Regierung über unzureichende Reformvorschläge an",
+      "example_en": "Accused the Government of insufficiency of reform proposals"
+    },
+    {
+      "pt": "reformista",
+      "de": "reformatorisch",
+      "en": "reformist",
+      "example": "Insuficiência de propostas reformistas",
+      "example_de": "Mangel an reformatorischen Vorschlägen",
+      "example_en": "Lack of reformist proposals"
+    },
+    {
+      "pt": "o intercâmbio",
+      "de": "der Austausch",
+      "en": "the exchange (student/cultural)",
+      "example": "Estudantes de intercâmbio vão frequentar a instituição",
+      "example_de": "Austauschstudierende werden die Einrichtung besuchen",
+      "example_en": "Exchange students will attend the institution"
+    },
+    {
+      "pt": "fechar a porta",
+      "de": "die Tür verschließen",
+      "en": "to close the door (on someone)",
+      "example": "A justiça europeia fecha a porta às famílias",
+      "example_de": "Die europäische Justiz verschließt den Familien die Tür",
+      "example_en": "European justice closes the door on families"
+    },
+    {
+      "pt": "a lavagem de dinheiro",
+      "de": "die Geldwäsche",
+      "en": "money laundering",
+      "example": "Tribunal arquiva processo por lavagem de dinheiro",
+      "example_de": "Gericht stellt Verfahren wegen Geldwäsche ein",
+      "example_en": "Court shelves money laundering case"
+    }
   ]
 }
