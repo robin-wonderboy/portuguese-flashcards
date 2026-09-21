@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "Fogo em Miranda do Corvo em fase de rescaldo",
+          "text": "O incêndio que deflagrou no concelho de Miranda do Corvo está dominado e em fase de rescaldo. 183 operacionais permanecem no terreno, apoiados por meios aéreos."
+        },
+        {
+          "headline": "Incêndio em Tábua dominado por meios aéreos e terrestres",
+          "text": "O fogo que atingiu o concelho de Tábua cedeu aos meios de combate. A Proteção Civil confirmou o domínio do incêndio após intensas operações."
+        },
+        {
+          "headline": "Há fogo ativo em Semide",
+          "text": "As chamas não dão tréguas à região. Um novo incêndio foi reportado em Semide, mantendo os meios de combate em alerta."
+        },
+        {
+          "headline": "Fogo em Castro Daire já dominado",
+          "text": "O incêndio em Castro Daire foi dominado pelas equipas de combate, trazendo alívio à população local."
+        },
+        {
+          "headline": "Calor dispara risco de incêndio: 60+ concelhos em perigo máximo",
+          "text": "Mais de 60 concelhos de 10 distritos de Portugal continental estão em perigo máximo de incêndio rural. O IPMA prevê temperaturas elevadas na generalidade do território."
+        },
+        {
+          "headline": "O calor recusa-se a sair: Portugal ainda vai ter mais dias de verão",
+          "text": "Apesar de estarmos em setembro, as temperaturas continuam elevadas. Portugal vai viver mais alguns dias de calor antes da chegada oficial do outono."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Homem executado a tiro a metros da porta de casa",
+          "text": "Um homem de 30 anos foi morto a tiro no Bairro da Serafina, em Lisboa. O crime poderá estar relacionado com um alegado ajuste de contas. A investigação está a cargo da Polícia Judiciária."
+        },
+        {
+          "headline": "Tiroteio no Bairro da Serafina faz um morto",
+          "text": "O tiroteio ocorreu cerca das 21h30 na chamada 'rua larga'. O incidente levou ao disparo de vários tiros, resultando numa vítma mortal."
+        },
+        {
+          "headline": "Crianças aliciadas online para violência e automutilação",
+          "text": "Há portugueses envolvidos numa rede que alicia crianças online para práticas de violência e automutilação. As autoridades estão a investigar o caso."
+        },
+        {
+          "headline": "Buscas suspensas na Figueira da Foz após corpo avistado no mar",
+          "text": "Populares que caminhavam junto à praia aperceberam-se daquilo que aparentava ser um corpo a boiar. Apesar das diligências das autoridades, não foi possível encontrar o corpo, e as buscas foram suspensas."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Atenção à luz e ao gás: 1,2 milhões de famílias podem ter de mudar",
+          "text": "Mais de 1,2 milhões de famílias no mercado regulado de eletricidade e gás terão de mudar para o mercado liberalizado até dezembro de 2027. O prazo para a extinção das tarifas reguladas tem sido sucessivamente adiado."
+        },
+        {
+          "headline": "Abastecer vai voltar a doer para a próxima semana",
+          "text": "Os preços dos combustíveis devem registar nova subida na próxima semana, aumentando o custo de abastecer o depósito."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra recebe estudantes de 20 países para novo semestre na UPCoimbra",
+          "text": "A Universidade Politécnica de Coimbra recebeu mais de 150 estudantes Erasmus+ e internacionais para o primeiro semestre de 2026/2027. A receção decorreu no ISEC no âmbito da iniciativa 'Meet. Connect. Belong.'"
+        },
+        {
+          "headline": "Ministério recebeu mais de 100 novos pedidos de alunos à procura de escola",
+          "text": "A falta de vagas em escolas públicas continua a ser problema. Numa só dia chegaram ao Ministério da Educação mais de 100 novos pedidos de colocação."
+        },
+        {
+          "headline": "Festa das Latas lança campanha solidária",
+          "text": "A organização da Festa das Latas e Imposição das Insígnias lançou uma campanha para recolher bens para quem mais precisa, juntando a componente solidária à celebração académica."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Richie Campbell é a nova confirmação da Festa das Latas",
+          "text": "O artista português sobe ao palco na terceira noite do evento, marcada para 3 de outubro. A organização convidou os estudantes a prepararem-se para uma noite de música e celebração."
+        },
+        {
+          "headline": "Novo disco de Pedro Abrunhosa marca regresso do músico a Coimbra",
+          "text": "Pedro Abrunhosa regressa a Coimbra com um novo disco, marcando o retorno do músico à cidade onde tem raízes artísticas profundas."
+        },
+        {
+          "headline": "Oktoberfest: a maior festa da cerveja já começou",
+          "text": "Munique transforma-se na capital mundial da cerveja durante 16 dias. Uma caneca custa entre 14 e 15 euros este ano. Esperam-se seis milhões de visitantes e o dispositivo de segurança foi reforçado com 600 agentes policiais."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Transportes públicos gratuitos em 14 municípios de Viseu Dão Lafões",
+          "text": "No Dia Europeu Sem Carros, 22 de setembro, todas as viagens na Rede MobiViseu Dão Lafões serão gratuitas. A medida pretende incentivar os cidadãos a deixarem o carro em casa."
+        },
+        {
+          "headline": "Greve nos transportes da SIT Região de Coimbra",
+          "text": "Os trabalhadores da SIT entraram em greve, afetando os transportes públicos na Região de Coimbra. Os utilizadores devem planear as deslocações com antecedência."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Liga das Nações: Portugal arranca estágio na primeira vez de Jorge Jesus",
+          "text": "A seleção nacional começa a preparar a estreia na Liga das Nações frente ao País de Gales. Jorge Jesus convoca 25 jogadores para o seu primeiro estágio como selecionador, sucedendo a Roberto Martínez."
+        },
+        {
+          "headline": "Portugal termina em 3º lugar no Mundial de andebol em cadeira de rodas",
+          "text": "A seleção portuguesa de andebol em cadeira de rodas garantiu o terceiro lugar no Mundial, numa prestação de destaque."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Alunos sem escola levam PS a pedir ida urgente do ministro ao Parlamento",
+          "text": "O PS exigiu a comparência do ministro da Educação no Parlamento devido à crise dos alunos sem colocação. A situação tem gerado forte contestação política."
+        },
+        {
+          "headline": "Luís Montenegro diz que não será o 'pai da austeridade'",
+          "text": "O primeiro-ministro garantiu que o governo não adotará políticas de austeridade, num discurso que procura tranquilizar a opinião pública."
+        }
+      ]
+    }
+  ]
+}
