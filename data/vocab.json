@@ -27490,5 +27490,95 @@
       "example_de": "Gericht stellt Verfahren wegen Geldwäsche ein",
       "example_en": "Court shelves money laundering case"
     }
+  ],
+  "2026-09-21": [
+    {
+      "pt": "boiar",
+      "de": "treiben/schwimmen",
+      "en": "to float",
+      "example": "Populares avistaram corpo a boiar no mar.",
+      "example_de": "Anwohner sahen einen Körper im Meer treiben.",
+      "example_en": "Locals spotted a body floating in the sea."
+    },
+    {
+      "pt": "a extinção",
+      "de": "das Erlöschen/Ende",
+      "en": "the extinction/end",
+      "example": "O prazo para a extinção das tarifas reguladas tem sido adiado.",
+      "example_de": "Die Frist für das Ende der regulierten Tarife wurde verschoben.",
+      "example_en": "The deadline for the end of regulated tariffs has been postponed."
+    },
+    {
+      "pt": "sucessivamente",
+      "de": "aufeinanderfolgend",
+      "en": "successively/repeatedly",
+      "example": "O prazo tem sido sucessivamente adiado.",
+      "example_de": "Die Frist wurde bereits mehrfach verschoben.",
+      "example_en": "The deadline has been repeatedly postponed."
+    },
+    {
+      "pt": "a caneca",
+      "de": "der Krug/Humpen",
+      "en": "the mug/tankard",
+      "example": "Uma caneca pode custar 15 euros no Oktoberfest.",
+      "example_de": "Ein Humpen kann 15 Euro im Oktoberfest kosten.",
+      "example_en": "A mug can cost 15 euros at Oktoberfest."
+    },
+    {
+      "pt": "o esclarecimento",
+      "de": "die Aufklärung",
+      "en": "the clarification/identification",
+      "example": "Mantendo-se por esclarecer a identidade da pessoa avistada.",
+      "example_de": "Die Identität der gesichteten Person bleibt unaufgeklärt.",
+      "example_en": "The identity of the spotted person remains to be clarified."
+    },
+    {
+      "pt": "aperceber-se",
+      "de": "bemerken/gewahr werden",
+      "en": "to notice/realize",
+      "example": "Populares aperceberam-se daquilo que aparentava ser um corpo.",
+      "example_de": "Anwohner bemerkten, was anscheinend ein Körper war.",
+      "example_en": "Locals noticed what appeared to be a body."
+    },
+    {
+      "pt": "o martelada",
+      "de": "der Hammerschlag",
+      "en": "the hammer blow",
+      "example": "O presidente da Câmara dá a primeira martelada no barril.",
+      "example_de": "Der Bürgermeister gibt den ersten Hammerschlag auf das Fass.",
+      "example_en": "The mayor gives the first hammer blow to the barrel."
+    },
+    {
+      "pt": "remontar",
+      "de": "zurückreichen",
+      "en": "to date back",
+      "example": "A história do Oktoberfest remonta a 1810.",
+      "example_de": "Die Geschichte des Oktoberfest reicht bis 1810 zurück.",
+      "example_en": "The history of Oktoberfest dates back to 1810."
+    },
+    {
+      "pt": "o viticultor",
+      "de": "der Winzer",
+      "en": "the winemaker",
+      "example": "Fátima Lopes foi à vindima como viticultor.",
+      "example_de": "Fátima Lopes ging zur Weinlese als Winzer.",
+      "example_en": "Fátima Lopes went to the grape harvest as a winemaker."
+    },
+    {
+      "pt": "a pisa",
+      "de": "das Keltern/Treten",
+      "en": "the grape treading",
+      "example": "Não escapou à pisa da uva.",
+      "example_de": "Sie entkam nicht dem Keltern der Trauben.",
+      "example_en": "She did not escape the grape treading."
+    },
+    {
+      "pt": "a inspeção",
+      "de": "die Inspektion/Hauptuntersuchung",
+      "en": "the inspection",
+      "example": "Antes da próxima inspeção: o que vale a pena verificar no carro.",
+      "example_de": "Vor der nächsten Inspektion: was lohnt sich beim Auto zu prüfen.",
+      "example_en": "Before the next inspection: what is worth checking on the car."
+    }
   ]
 }
