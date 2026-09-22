@@ -27580,5 +27580,87 @@
       "example_de": "Vor der nächsten Inspektion: was lohnt sich beim Auto zu prüfen.",
       "example_en": "Before the next inspection: what is worth checking on the car."
     }
+  ],
+  "2026-09-22": [
+    {
+      "pt": "o depósito",
+      "de": "Tank",
+      "en": "fuel tank",
+      "example": "Encher o mesmo depósito já custa mais 35 euros.",
+      "example_de": "Den gleichen Tank zu füllen kostet jetzt 35 Euro mehr.",
+      "example_en": "Filling the same tank now costs 35 euros more."
+    },
+    {
+      "pt": "o tarifário",
+      "de": "Tarifsystem",
+      "en": "fare system / pricing",
+      "example": "O Metro Mondego simplifica o tarifário.",
+      "example_de": "Die Metro Mondego vereinfacht das Tarifsystem.",
+      "example_en": "Metro Mondego simplifies the fare system."
+    },
+    {
+      "pt": "intemporal",
+      "de": "zeitlos",
+      "en": "timeless",
+      "example": "Deixa músicas intemporais.",
+      "example_de": "Er hinterlässt zeitlose Musik.",
+      "example_en": "He leaves timeless music."
+    },
+    {
+      "pt": "ameaçou",
+      "de": "drohte",
+      "en": "threatened",
+      "example": "Ameaçou matar a companheira.",
+      "example_de": "Er drohte, seine Partnerin zu töten.",
+      "example_en": "He threatened to kill his partner."
+    },
+    {
+      "pt": "diariamente",
+      "de": "täglich",
+      "en": "daily / every day",
+      "example": "Patrulham diariamente as estradas.",
+      "example_de": "Sie patrouillieren täglich die Straßen.",
+      "example_en": "They patrol the roads daily."
+    },
+    {
+      "pt": "supramunicipal",
+      "de": "übergemeindlich",
+      "en": "cross-municipal / supra-municipal",
+      "example": "Uma proposta supramunicipal para atrair empresas.",
+      "example_de": "Ein übergemeindlicher Vorschlag, um Unternehmen anzuziehen.",
+      "example_en": "A cross-municipal proposal to attract companies."
+    },
+    {
+      "pt": "a bruma",
+      "de": "der Nebel",
+      "en": "mist / haze",
+      "example": "Uma bruma sonora cobre a cidade.",
+      "example_de": "Ein klangvoller Nebel bedeckt die Stadt.",
+      "example_en": "A sonic haze covers the city."
+    },
+    {
+      "pt": "profundo pesar",
+      "de": "tiefe Trauer",
+      "en": "deep sorrow",
+      "example": "É com profundo pesar que anunciamos a sua morte.",
+      "example_de": "Mit tiefer Trauer verkünden wir seinen Tod.",
+      "example_en": "It is with deep sorrow that we announce his death."
+    },
+    {
+      "pt": "dominado",
+      "de": "unter Kontrolle",
+      "en": "dominated / controlled",
+      "example": "O fogo em Arcos de Valdevez já está dominado.",
+      "example_de": "Das Feuer in Arcos de Valdevez ist unter Kontrolle.",
+      "example_en": "The fire in Arcos de Valdevez is under control."
+    },
+    {
+      "pt": "juntar-se",
+      "de": "sich zusammentun",
+      "en": "to join together",
+      "example": "Cantanhede, Coimbra e Mealhada juntam-se para criar área empresarial.",
+      "example_de": "Cantanhede, Coimbra und Mealhada tun sich zusammen.",
+      "example_en": "Cantanhede, Coimbra and Mealhada join together."
+    }
   ]
 }
