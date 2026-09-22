@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Jogos Sem Fronteiras regressam a Coimbra com provas no Mondego",
+          "text": "Coimbra vai transformar o Parque Verde do Mondego num grande palco de competição no dia 26 de setembro. A primeira edição dos Jogos Sem Fronteiras Coimbra 2026 reúne representantes das 18 freguesias com provas de obstáculos, gaivotas no Mondego e equipas de rapazes e raparigas."
+        },
+        {
+          "headline": "Metro Mondego simplifica tarifário e junta vários transportes num só título",
+          "text": "A Metro Mondego deixa de ter tarifário exclusivo para o Metrobus a partir de 1 de outubro, passando a funcionar apenas com o tarifário intermodal MOVE-C. A mudança permite utilizar o mesmo título para Metro Mondego, SMTUC, SIT Metropolitano e CP."
+        },
+        {
+          "headline": "Ana Abrunhosa alerta: há atos de praxe na cidade que são violência",
+          "text": "A presidente da câmara de Coimbra pediu atuação das forças policiais (PSP e Polícia Municipal) após observar atos de praxe na cidade. No debate sobre horários comerciais, considerou que existem atos que são violência e que esses não podem ser tolerados."
+        },
+        {
+          "headline": "Segurança que presta serviços na PJ apanhado com droga em casa em Coimbra",
+          "text": "Um homem foi apanhado esta segunda-feira com produto estupefaciente na sua residência em Coimbra. A PSP foi chamada ao local na sequência de uma ocorrência de violência doméstica, tendo apreendido o produto destinado a consumo do visado."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Morreu Jorge Palma aos 76 anos",
+          "text": "O músico Jorge Palma, um dos cantores e compositores mais marcantes da música portuguesa contemporânea, morreu na segunda-feira à noite, vítima de paragem cardiorrespiratória. Com uma carreira de mais de meio século, deixa temas como Frágil, Bairro do Amor e Estrela do Mar. A família pediu que seja lembrado pelas suas canções e palavras."
+        },
+        {
+          "headline": "Proteção Civil diz que fogo em Arcos de Valdevez já está dominado",
+          "text": "O incêndio que deflagrou na segunda-feira à tarde no concelho de Arcos de Valdevez, distrito de Viana do Castelo, já se encontra controlado desde as 05:27, segundo a Proteção Civil."
+        },
+        {
+          "headline": "Mais de 80 concelhos em perigo máximo de incêndio",
+          "text": "Mais de 80 concelhos do território continental encontram-se em perigo máximo de incêndio florestal, segundo os dados mais recentes da Proteção Civil."
+        },
+        {
+          "headline": "Ministra alerta para maior escassez de água no Norte e Centro",
+          "text": "A ministra do Ambiente alertou para uma maior escassez de água nas regiões Norte e Centro do país, sublinhando a necessidade de medidas de gestão e adaptação às alterações climáticas."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Encher o mesmo depósito já custa mais 35 euros",
+          "text": "Os preços dos combustíveis voltaram a subir no arranque desta semana. Colocar 50 litros no depósito custa agora cerca de 105 euros no caso da gasolina e 111 euros no gasóleo, segundo valores da DGEG e da Anarec."
+        },
+        {
+          "headline": "Cantanhede, Coimbra e Mealhada juntam-se para criar grande área empresarial de 578 hectares",
+          "text": "Os três municípios preparam uma candidatura ao PTRR para criar a Grande Área de Localização Empresarial da Região de Coimbra (G.ALE), estruturada em quatro polaridades: Pampilhosa, Marmeleira, Trouxemil-Ponte Vilela e Murtede. A proposta é supramunicipal e destina-se a atrair empresas multinacionais e investimentos estratégicos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Carro de 17 mil euros furtado de stand na Marinha Grande recuperado pela GNR",
+          "text": "A GNR recuperou um veículo no valor de 17 mil euros que tinha sido furtado de um stand na Marinha Grande."
+        },
+        {
+          "headline": "Destruiu portas e ameaçou matar companheira. Tribunal manda jovem para a prisão",
+          "text": "Um jovem que destruiu portas e ameaçou matar a companheira foi enviado para prisão por decisão do tribunal."
+        },
+        {
+          "headline": "PJ apanha dois homens com 342 mil doses de cocaína no aeroporto",
+          "text": "A Polícia Judiciária deteve dois homens no aeroporto com 342 mil doses de cocaína."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Coimbra testa novo método para detetar Alzheimer através de análise ao sangue",
+          "text": "A ULS de Coimbra lançou um projeto inovador no diagnóstico precoce do défice cognitivo e da doença de Alzheimer, envolvendo cuidados hospitalares e primários. O projeto avalia a possibilidade de implementar um marcador sanguíneo periférico nos cuidados de saúde primários."
+        },
+        {
+          "headline": "Reorganização das urgências do SNS vai durar um ano. Primeiros resultados chegam em novembro",
+          "text": "O processo de reorganização das urgências do Serviço Nacional de Saúde vai decorrer durante um ano, com os primeiros resultados previstos para novembro."
+        },
+        {
+          "headline": "Bebé de 15 meses sofre queimaduras graves com café quente",
+          "text": "Um bebé de 15 meses sofreu queimaduras graves com café quente e foi levado de helicóptero para o hospital."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Apura regressa a Coimbra com quatro palcos e 100 artistas",
+          "text": "A 7.ª edição do Festival Apura começa na quinta-feira em Coimbra com mais de 100 artistas, entrada gratuita e quatro palcos na Baixa e Alta da cidade. O tema deste ano é Bairro dos Ofícios II - Uma Bruma Sonora, com 47 propostas artísticas incluindo 23 concertos."
+        },
+        {
+          "headline": "aBAND'onados voltam a Coimbra para concerto no Liquidâmbar",
+          "text": "A banda aBAND'onados regressa aos palcos no dia 26 de setembro para um concerto no Liquidâmbar, promovendo o seu mais recente álbum com um repertório que cruza os temas do disco com a identidade rock do grupo."
+        },
+        {
+          "headline": "Descobertas duas pilastras pintadas por Columbano Bordalo Pinheiro no Museu do Caramulo",
+          "text": "A família de Abel Lacerda, fundador do Museu do Caramulo, descobriu na casa do colecionador duas pilastras de madeira pintadas por Columbano Bordalo Pinheiro, que estavam guardadas na garagem."
+        }
+      ]
+    }
+  ]
+}
