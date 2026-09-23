@@ -27662,5 +27662,127 @@
       "example_de": "Cantanhede, Coimbra und Mealhada tun sich zusammen.",
       "example_en": "Cantanhede, Coimbra and Mealhada join together."
     }
+  ],
+  "2026-09-23": [
+    {
+      "pt": "a outono",
+      "de": "Herbst",
+      "en": "autumn",
+      "example": "O outono começou à 01:05 de hoje.",
+      "example_de": "Der Herbst begann heute um 01:05.",
+      "example_en": "Autumn began at 01:05 today."
+    },
+    {
+      "pt": "mergulhado",
+      "de": "eingetaucht",
+      "en": "plunged/submerged",
+      "example": "Portugal continua mergulhado no calor.",
+      "example_de": "Portugal bleibt eingetaucht in Hitze.",
+      "example_en": "Portugal remains plunged in heat."
+    },
+    {
+      "pt": "cobrir",
+      "de": "bedecken",
+      "en": "to cover",
+      "example": "É proibido cobrir a cara em espaços públicos.",
+      "example_de": "Es ist verboten, das Gesicht im öffentlichen Raum zu bedecken.",
+      "example_en": "It is forbidden to cover your face in public spaces."
+    },
+    {
+      "pt": "o diploma",
+      "de": "Erlass/Gesetz",
+      "en": "decree/law",
+      "example": "O diploma entra hoje em vigor.",
+      "example_de": "Der Erlass tritt heute in Kraft.",
+      "example_en": "The decree takes effect today."
+    },
+    {
+      "pt": "a mala",
+      "de": "Koffer",
+      "en": "suitcase",
+      "example": "25 malas de ferramentas foram apreendidas.",
+      "example_de": "25 Koffer mit Werkzeugen wurden beschlagnahmt.",
+      "example_en": "25 suitcases of tools were seized."
+    },
+    {
+      "pt": "fabricar",
+      "de": "herstellen/fälschen",
+      "en": "to fabricate/forge",
+      "example": "PJ detém suspeito de fabricar contratos falsos.",
+      "example_de": "PJ verhaftet Verdächtigen der Fälschung von Verträgen.",
+      "example_en": "PJ arrests suspect for fabricating false contracts."
+    },
+    {
+      "pt": "provável",
+      "de": "wahrscheinlich",
+      "en": "probable/likely",
+      "example": "A médica considera pouco provável uma queda acidental.",
+      "example_de": "Die Ärztin hält einen versehentlichen Sturz für unwahrscheinlich.",
+      "example_en": "The doctor considers an accidental fall unlikely."
+    },
+    {
+      "pt": "o hematoma",
+      "de": "Bluterguss",
+      "en": "bruise/hematoma",
+      "example": "Os hematomas indicavam um impacto de grande intensidade.",
+      "example_de": "Die Blutergüsse deuteten auf einen Aufprall großer Intensität hin.",
+      "example_en": "The bruises indicated a high-intensity impact."
+    },
+    {
+      "pt": "à venda",
+      "de": "zum Verkauf",
+      "en": "for sale",
+      "example": "O concelho não está à venda.",
+      "example_de": "Der Landkreis steht nicht zum Verkauf.",
+      "example_en": "The municipality is not for sale."
+    },
+    {
+      "pt": "a contar decrescente",
+      "de": "Countdown",
+      "en": "countdown",
+      "example": "Aumenta a contagem decrescente para a Festa das Latas.",
+      "example_de": "Der Countdown für die Festa das Latas läuft.",
+      "example_en": "The countdown for the Festa das Latas is increasing."
+    },
+    {
+      "pt": "a resistência",
+      "de": "Widerstand",
+      "en": "resistance",
+      "example": "Procura convocar um imaginário ligado à esperança e à resistência.",
+      "example_de": "Sie sucht ein Bildfeld aufzurufen, das mit Hoffnung und Widerstand verbunden ist.",
+      "example_en": "It seeks to summon an imaginary linked to hope and resistance."
+    },
+    {
+      "pt": "a gravura",
+      "de": "Gravur/Schnitzerei",
+      "en": "engraving/carving",
+      "example": "Novo conjunto de gravuras rupestres em Lavacolhos.",
+      "example_de": "Neue Gruppe von Felsgravuren in Lavacolhos.",
+      "example_en": "New set of rock engravings in Lavacolhos."
+    },
+    {
+      "pt": "reformular",
+      "de": "überarbeiten/neu formulieren",
+      "en": "to reformulate/rework",
+      "example": "Considera que a reformulação do projeto não é suficiente.",
+      "example_de": "Er hält die Überarbeitung des Projekts für unzureichend.",
+      "example_en": "Considers the reformulation of the project insufficient."
+    },
+    {
+      "pt": "gratuitamente",
+      "de": "kostenlos",
+      "en": "freely/for free",
+      "example": "As piscinas abrem portas gratuitamente.",
+      "example_de": "Die Schwimmbäder öffnen kostenlos.",
+      "example_en": "The pools open for free."
+    },
+    {
+      "pt": "a oficinas",
+      "de": "Workshops",
+      "en": "workshops",
+      "example": "A programação contempla oficinas e conversas.",
+      "example_de": "Das Programm umfasst Workshops und Gespräche.",
+      "example_en": "The program includes workshops and talks."
+    }
   ]
 }
