@@ -27784,5 +27784,127 @@
       "example_de": "Das Programm umfasst Workshops und Gespräche.",
       "example_en": "The program includes workshops and talks."
     }
+  ],
+  "2026-09-24": [
+    {
+      "pt": "subornar",
+      "de": "bestechen",
+      "en": "to bribe",
+      "example": "terá tentado subornar juiz para cancelar mandados",
+      "example_de": "hat versucht, einen Richter zu bestechen",
+      "example_en": "allegedly tried to bribe a judge to cancel warrants"
+    },
+    {
+      "pt": "o empreendedor",
+      "de": "der Unternehmer",
+      "en": "the entrepreneur",
+      "example": "o Ginásio do Empreendedor, um novo projeto",
+      "example_de": "das Unternehmer-Gymnasium, ein neues Projekt",
+      "example_en": "the Entrepreneur Gym, a new project"
+    },
+    {
+      "pt": "reencontrar",
+      "de": "wiederfinden, wiedersehen",
+      "en": "to reunite, find again",
+      "example": "É o grande momento de reencontro da família penelense",
+      "example_de": "Es ist der große Moment des Wiedersehens",
+      "example_en": "It's the great reunion moment of the Penela family"
+    },
+    {
+      "pt": "a ventilação",
+      "de": "die Belüftung",
+      "en": "the ventilation",
+      "example": "sistemas de climatização e ventilação",
+      "example_de": "Klimaanlagen und Belüftungssysteme",
+      "example_en": "air conditioning and ventilation systems"
+    },
+    {
+      "pt": "a enchente",
+      "de": "die Menschenmenge / der Ansturm",
+      "en": "the crowd / surge",
+      "example": "Temos tido enchentes muito grandes nestes dias",
+      "example_de": "Wir hatten sehr große Menschenmengen an diesen Tagen",
+      "example_en": "We've had very large crowds on these days"
+    },
+    {
+      "pt": "o monte",
+      "de": "der Berg / die Anhöhe",
+      "en": "the hill / mount",
+      "example": "abandonado numa zona isolada do monte de Santa Luzia",
+      "example_de": "ausgesetzt in einer abgelegenen Gegend des Santa Luzia Hügels",
+      "example_en": "abandoned in an isolated area of Santa Luzia hill"
+    },
+    {
+      "pt": "o pontapé",
+      "de": "der Tritt / der Fußtritt",
+      "en": "the kick",
+      "example": "agredido com murros e pontapés",
+      "example_de": "angegriffen mit Fäusten und Fußtritten",
+      "example_en": "attacked with punches and kicks"
+    },
+    {
+      "pt": "o murro",
+      "de": "die Faust / der Faustschlag",
+      "en": "the punch / fist",
+      "example": "agredido com murros e pontapés",
+      "example_de": "angegriffen mit Fäusten und Tritten",
+      "example_en": "attacked with punches and kicks"
+    },
+    {
+      "pt": "a noz",
+      "de": "die Nuss",
+      "en": "the walnut",
+      "example": "a Feira Anual das Nozes, no dia 27",
+      "example_de": "der jährliche Nussmarkt, am 27.",
+      "example_en": "the Annual Walnut Fair, on the 27th"
+    },
+    {
+      "pt": "a cebola",
+      "de": "die Zwiebel",
+      "en": "the onion",
+      "example": "vendedores de cebolas e nozes",
+      "example_de": "Verkäufer von Zwiebeln und Nüssen",
+      "example_en": "sellers of onions and walnuts"
+    },
+    {
+      "pt": "o divertimento",
+      "de": "die Unterhaltung / der Spaß",
+      "en": "the entertainment / amusement",
+      "example": "instituições, empresas, artesanato, divertimentos",
+      "example_de": "Institutionen, Unternehmen, Handwerk, Unterhaltung",
+      "example_en": "institutions, companies, crafts, amusements"
+    },
+    {
+      "pt": "a literacia digital",
+      "de": "die digitale Kompetenz",
+      "en": "digital literacy",
+      "example": "Ginásio Mental, Literacia Digital, Inglês de Iniciação",
+      "example_de": "Gehirngymnastik, digitale Kompetenz, Anfängerkurs Englisch",
+      "example_en": "Mental Gym, Digital Literacy, Beginner English"
+    },
+    {
+      "pt": "o bordado",
+      "de": "die Stickerei",
+      "en": "the embroidery",
+      "example": "há ainda opções como Bordados, Artes Manuais, Pintura",
+      "example_de": "es gibt noch Optionen wie Stickerei, Handarbeit, Malerei",
+      "example_en": "there are options like embroidery, handicrafts, painting"
+    },
+    {
+      "pt": "a taxa mínima",
+      "de": "der Mindestsatz",
+      "en": "the minimum rate",
+      "example": "a manutenção da taxa mínima de 0,3% do IMI",
+      "example_de": "die Beibehaltung des Mindestsatzes von 0,3% IMI",
+      "example_en": "maintaining the minimum rate of 0.3% IMI"
+    },
+    {
+      "pt": "o jovem",
+      "de": "der Jugendliche",
+      "en": "the youth / young person",
+      "example": "desafia jovens a transformar ideias em soluções",
+      "example_de": "fordert Jugendliche heraus, Ideen in Lösungen umzuwandeln",
+      "example_en": "challenges youth to transform ideas into solutions"
+    }
   ]
 }
