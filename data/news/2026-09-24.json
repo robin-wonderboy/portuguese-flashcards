@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "São Miguel chega sexta-feira a Penela para fazer a festa",
+          "text": "As Festas de São Miguel regressam a Penela de 25 a 29 de setembro, com música, 105 expositores e tasquinhas. São esperados mais de 25 mil visitantes. O palco principal será numa tenda de 1.200 m². As festas contam com quase seis séculos de existência e integram também a Feira Agrícola e Industrial (FRAGRIP) e a Feira Anual das Nozes."
+        },
+        {
+          "headline": "MUSAS está a chegar ao fim em Condeixa (mas ainda vai a tempo)",
+          "text": "O festival cultural MUSAS termina em Condeixa após um mês de programação. Ainda há tempo para visitar os últimos eventos antes do encerramento."
+        },
+        {
+          "headline": "Os clássicos vão sair da garagem e tomar conta da Lousã",
+          "text": "Uma exposição de automóveis clássicos chega à Lousã, com os visitantes a poderem admirar as viaturas históricas que saem das garagens para as ruas da vila."
+        },
+        {
+          "headline": "Festival Internacional de Tango Argentino regressa a Castelo Branco",
+          "text": "O festival de tango volta a Castelo Branco com espetáculos, workshops e iniciativas ligadas à dança argentina."
+        },
+        {
+          "headline": "João Pessoa é o culpado pelo novo 31 na Lousã",
+          "text": "Um novo espaço de entretenimento abre na Lousã. João Pessoa é o responsável por um projeto que promete fazer com que os clientes peçam 'só mais um copo'."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Castelo Branco aprova redução do IRS e taxa mínima no IMI",
+          "text": "A Assembleia Municipal de Castelo Branco aprovou a manutenção da taxa mínima de 0,3% no IMI, a prorrogação por mais dois anos para habitação própria e permanente, e a redução da taxa de IRS de 0,75 para 0,5%. O pacote fiscal para 2027 foi aprovado por maioria com três abstenções."
+        },
+        {
+          "headline": "Miranda do Corvo desafia jovens a transformar ideias em soluções",
+          "text": "O Município de Miranda do Corvo vai implementar o Ginásio do Empreendedor, um projeto dirigido aos alunos das escolas do concelho. Os jovens serão desafiados a identificar problemas reais da comunidade e a encontrar soluções, transformando ideias em projetos concretos."
+        },
+        {
+          "headline": "Lousã junta Yoga, dança, pintura e teatro para seniores",
+          "text": "A Universidade Sénior 'Serras e Rios', na Lousã, definiu o programa para 2026/2027. Inclui Ginástica, Pilates, Yoga, Ginásio Mental, Literacia Digital, Bordados, Pintura e Teatro, entre outras atividades para a população sénior."
+        },
+        {
+          "headline": "Sara Proença nomeada para Grupo de Especialistas HEInnovate",
+          "text": "A docente de Coimbra Sara Proença foi nomeada membro do Grupo de Especialistas HEInnovate, reconhecimento internacional do seu trabalho na área do empreendedorismo e inovação no ensino superior."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Homem vai ser julgado em Coimbra por violação",
+          "text": "Um homem vai ser julgado em Coimbra acusado de ter violado a namorada do seu filho, quando esta foi passar uns dias a sua casa. O caso remete a fatos graves que serão agora apreciados em tribunal."
+        },
+        {
+          "headline": "'Rei dos Aspiradores' vive em Bali e terá tentado subornar juiz",
+          "text": "Matthias Schmelz, empresário alemão conhecido como o 'Rei dos Aspiradores', está há quase sete anos em fuga das autoridades portuguesas e foi localizado pela TVI na Indonésia. Acusado em Portugal de crimes relacionados com prostituição e aliciamento de menores, terá usado uma identidade diferente para viajar."
+        },
+        {
+          "headline": "Ministério Público faz buscas ao computador do diretor da PJ",
+          "text": "O Ministério Público efetuou buscas ao computador do diretor da Polícia Judiciária no âmbito de uma investigação em curso."
+        },
+        {
+          "headline": "Homem sequestrado, espancado e abandonado em zona isolada",
+          "text": "Um homem de cerca de 30 anos foi sequestrado por três homens em Viana do Castelo a 16 de agosto. Durante uma hora e meia, a vítima foi agredida com murros e pontapés antes de ser abandonada numa zona isolada do monte de Santa Luzia."
+        },
+        {
+          "headline": "MP pede condenação de 3 militares da Marinha por violação de segredo de Estado",
+          "text": "O Ministério Público pede a condenação de três militares da Marinha por violação de segredo de Estado, num caso que será julgado em tribunal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "'É insustentável': pais exigem solução para calor nas salas de aula",
+          "text": "Uma petição está a exigir a instalação urgente de sistemas de climatização e ventilação na Escola nº 2 da Mealhada. O documento, dirigido à direção do Agrupamento de Escolas, à Câmara Municipal e à DGEstE, é subscrito por encarregados de educação que consideram as condições térmicas insustentáveis."
+        },
+        {
+          "headline": "Guilherme, 6 anos, transforma dias no hospital num mural de esperança",
+          "text": "O Hospital Pediátrico de Coimbra inaugurou o primeiro mural do projeto Pedrinhar'te, uma iniciativa da cooperativa Pedrinhas que celebra a arte, criatividade e força das crianças. O projeto reuniu crianças, famílias, profissionais de saúde e voluntários."
+        }
+      ]
+    },
+    {
+      "emoji": "🌱",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Alpedrinha prepara dois dias dedicados às raças autóctones",
+          "text": "Alpedrinha vai dedicar dois dias à valorização das raças autóctones, com atividades que destacam a importância da preservação das espécies locais e da biodiversidade."
+        },
+        {
+          "headline": "'Quixote e Pança' leva sonhos e imaginação ao Centro Cultural Raiano",
+          "text": "A peça 'Quixote e Pança' chega ao palco do Centro Cultural Raiano, levando sonhos e imaginação ao público através de uma adaptação teatral da obra de Cervantes."
+        },
+        {
+          "headline": "Mangualde investe 160 mil euros em nova ETAR",
+          "text": "O município de Mangualde investe 160 mil euros numa nova Estação de Tratamento de Águas Residuais na Cunha Baixa, melhorando a infraestrutura sanitária do concelho."
+        }
+      ]
+    }
+  ]
+}
