@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Veranico de São Miguel está a caminho, mas mudança de tempo a seguir",
+          "text": "O veranico de São Miguel, nome dado ao período de calor tardio em setembro, está a caminho. Depois desse pico de calor, prepare-se para uma mudança no tempo com descida de temperaturas."
+        },
+        {
+          "headline": "Alerta máximo para mais de 70 concelhos - Região Centro entre as zonas mais ameaçadas",
+          "text": "Mais de 70 concelhos estão sob alerta máximo de risco de incêndio. A Região Centro está entre as zonas mais ameaçadas, com condições meteorológicas que favorecem a propagação de fogos."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS",
+      "stories": [
+        {
+          "headline": "Incêndio em Almalaguês dominado após horas de combate",
+          "text": "O incêndio que deflagrou esta quinta-feira em Almalaguês, Coimbra, está dominado após várias horas de combate. O fogo chegou a ter duas frentes ativas e mobilizou 432 bombeiros, apoiados por 129 meios terrestres e 10 meios aéreos. As operações foram dificultadas pelo terreno, marcado por zonas de mato denso e eucaliptos."
+        },
+        {
+          "headline": "Fogo em Odemira continua ativo com reforço de meios",
+          "text": "O incêndio em Odemira continua ativo, com reforço dos meios de combate no terreno. A situação mantém-se delicada devido às condições de vento e vegetação seca."
+        },
+        {
+          "headline": "Bombeira ferida com gravidade no combate às chamas em Resende",
+          "text": "Uma bombeira foi ferida com gravidade após ser atingida por uma árvore durante o combate a um incêndio em Resende. A profissional foi transportada para o hospital."
+        }
+      ]
+    },
+    {
+      "emoji": "🚛",
+      "category": "PROTESTOS & ECONOMIA",
+      "stories": [
+        {
+          "headline": "A1 em Coimbra vai encher-se de camiões em protesto contra preços dos combustíveis",
+          "text": "Uma marcha lenta organizada por empresários de terraplanagens pode juntar mais de 400 camiões a partir das 07h30, num percurso entre Paredes e Coimbra através da A42, A41 e A1. Os promotores exigem respostas concretas face ao aumento dos combustíveis. Mais de 100 empresas e 400 carros pesados estão confirmados."
+        },
+        {
+          "headline": "GNR monta operação especial para acompanhar protesto de camiões até Coimbra",
+          "text": "A GNR preparou uma operação especial para acompanhar o protesto de camiões até Coimbra, garantindo a segurança rodoviária durante a marcha lenta."
+        },
+        {
+          "headline": "Montenegro pede fim de masoquismo coletivo na ONU",
+          "text": "O primeiro-ministro português apelou nas Nações Unidas ao fim do masoquismo coletivo que está a causar a escalada dos preços dos combustíveis. Montenegro propôs uma reflexão sobre o mecanismo de formação do preço internacional do petróleo, discursando perante a 81.ª Assembleia Geral da ONU em Nova Iorque."
+        },
+        {
+          "headline": "Parlamento chumba propostas para travar aumento do custo de vida",
+          "text": "O Parlamento rejeitou as propostas apresentadas para travar o aumento do custo de vida, deixando sem resposta as medidas sugeridas pelos partidos."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Corpo de Pedro Paiva localizado - cenário de morte aponta para crime",
+          "text": "O corpo de Pedro Paiva, ciclista desaparecido há cerca de dois meses na zona de Montemor-o-Velho, foi localizado pela PJ com colaboração da GNR. Um morador encontrou o telemóvel da vítima e entregou-o às autoridades. O cenário de morte aponta para crime. A família descreveu os últimos dois meses como um período de violência imensa."
+        },
+        {
+          "headline": "Pedófilo procurado pela Interpol detido pela PSP em Portugal",
+          "text": "Um pedófilo procurado pela Interpol foi detido pela PSP em Portugal. Tinha 14 anos de prisão para cumprir e foi encontrado no território nacional."
+        },
+        {
+          "headline": "Homem acusado de matar mulher com 17 facadas diz não se recordar do crime",
+          "text": "O arguido declarou em tribunal que ficou cego e não se recorda do crime. O julgamento prossegue com a avaliação da sua credibilidade."
+        },
+        {
+          "headline": "Escuta secreta do Football Leaks leva cinco inspetores da PJ a tribunal",
+          "text": "Cinco inspetores da PJ foram levados a tribunal devido à escuta secreta no âmbito do caso Football Leaks. O caso levanta questões sobre a legalidade das escutas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "COIMBRA & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Nova Rua da Sofia divide opiniões mas estudantes não têm dúvidas",
+          "text": "Duas semanas depois da alteração da circulação na Rua da Sofia, há quem veja a nova configuração com bons olhos. Duas estudantes numa esplanada consideram que o espaço ficou mais agradável e convidativo. Uma loja brasileira diz ter ganho novos clientes após a mudança."
+        },
+        {
+          "headline": "Ana Abrunhosa tem 25 milhões de euros para a nova Escola José Falcão",
+          "text": "A ministra garantiu 25 milhões de euros para o projeto da nova Escola José Falcão em Coimbra, investimento que visa modernizar a infraestrutura escolar."
+        },
+        {
+          "headline": "Estudantes da UC podem fazer rastreio gratuito de IST antes da Latada",
+          "text": "A Universidade de Coimbra oferece rastreio gratuito de infeções sexualmente transmissíveis aos estudantes antes da Latada, promovendo a saúde pública estudantil."
+        },
+        {
+          "headline": "PSP chamada para escola em Coimbra por desentendimentos entre alunos",
+          "text": "A PSP foi chamada a uma escola em Coimbra devido a desentendimentos entre alunos. A situação foi resolvida sem incidentes maiores."
+        },
+        {
+          "headline": "Burnout ameaça universitários no regresso às aulas",
+          "text": "O regresso às aulas traz um novo risco para universitários: o burnout ameaça sobretudo os mais jovens, segundo especialistas que alertam para a pressão académica."
+        }
+      ]
+    },
+    {
+      "emoji": "🪰",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Invasão de moscas fecha sete escolas e deixa alunos sem aulas",
+          "text": "As aulas foram canceladas em várias escolas do concelho de Vagos, distrito de Aveiro, devido a uma infestação de moscas que obrigou à suspensão do serviço de refeições por falta de condições de higiene e segurança alimentar. O Agrupamento de Escolas publicou aviso no site oficial."
+        },
+        {
+          "headline": "Aveiro vai ser invadida pela luz em outubro",
+          "text": "Aveiro recebe nos dias 8, 9 e 10 de outubro a oitava edição do PRISMA Art Light Tech, festival que cruza arte, luz e tecnologia. Este ano apresenta 20 instalações da autoria de 22 artistas e coletivos de 10 nacionalidades, distribuídas por 15 espaços da cidade."
+        },
+        {
+          "headline": "Mário João Fernandes de Cernache está desaparecido",
+          "text": "Mário João Fernandes, natural de Cernache, está desaparecido. As autoridades pedem informação sobre o seu paradeiro."
+        },
+        {
+          "headline": "Ílhavo rejeita críticas do PS e garante vigilância nas praias fora da época balnear",
+          "text": "O município de Ílhavo rejeitou as críticas do PS e garantiu que mantém a vigilância nas praias fora da época balnear, garantindo a segurança dos banhistas."
+        },
+        {
+          "headline": "Mulher de 70 anos morre atropelada por carro",
+          "text": "Uma mulher de 70 anos morreu após ser atropelada por um carro. A autoridade competente investiga as circunstâncias do acidente."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Portugal vence País de Gales na estreia de Jorge Jesus",
+          "text": "Portugal, atual detentor do troféu, iniciou a edição 2026/27 da Liga das Nações com um triunfo frente ao País de Gales por 1-0. O golo de João Félix aos 22 minutos decidiu a partida no Estádio José Alvalade, marcando a estreia do selecionador Jorge Jesus no comando da Seleção Nacional."
+        },
+        {
+          "headline": "Da natação ao futebol: Lousã distingue seis atletas pelo mérito desportivo",
+          "text": "O município da Lousã distinguiu seis atletas pelo mérito desportivo, em modalidades que vão da natação ao futebol, reconhecendo o talento local."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Casal português morto pelo vizinho em França que lhes fazia a vida negra há 30 anos",
+          "text": "Alcina Calhau, de 82 anos, e Avelino Ferreira, de 85, foram mortos a tiro por um vizinho português de 90 anos em Lagor, França. O casal, natural de Alvite no concelho de Moimenta da Beira, tinha viagem marcada para Portugal mas não chegou a fazer a habitual viagem."
+        },
+        {
+          "headline": "Casa Branca barra emissoras CNN e MS NOW à chegada de Xi para jantar com Trump",
+          "text": "A Casa Branca bloqueou o acesso de jornalistas da CNN e MS NOW à chegada do presidente chinês Xi Jinping para um jantar com Trump, gerando críticas sobre a liberdade de imprensa."
+        },
+        {
+          "headline": "Sismo sacode Turquia",
+          "text": "Um sismo sacudiu a Turquia, sem informações imediatas sobre vítimas ou danos significativos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Anadia Jovem arranca esta sexta-feira",
+          "text": "O Festival Anadia Jovem começa esta sexta-feira com um programa repleto de atividades para os mais novos."
+        },
+        {
+          "headline": "Novo baloiço em Miranda do Corvo com vista de perder o fôlego",
+          "text": "Há um novo baloiço em Miranda do Corvo, no meio da serra, com uma vista descrita como de perder o fôlego. O espaço convida à contemplação da natureza."
+        },
+        {
+          "headline": "U2 estão de volta: banda comemora 50 anos com novo álbum de nome bem português",
+          "text": "Os U2 regressam com um novo álbum para celebrar 50 anos de carreira. A banda escolheu um nome bem português para o projeto, surpreendendo os fãs."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Um milhão de euros num só dia: Mounjaro está a voar das farmácias",
+          "text": "O medicamento Mounjaro para perda de peso está a voar das farmácias, gerando um milhão de euros em vendas num só dia. A procura ultrapassa as expectativas."
+        },
+        {
+          "headline": "Psicólogos deixam alerta sobre o coaching: temos o dever de proteger a saúde pública",
+          "text": "Ordem dos Psicólogos alerta para os riscos do coaching sem regulamentação, afirmando que existe o dever de proteger a saúde pública de práticas sem base científica."
+        }
+      ]
+    }
+  ]
+}
