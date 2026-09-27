@@ -28138,5 +28138,119 @@
       "pt": "o FAGRIP",
       "de": "die Jahresmesse von Penela"
     }
+  ],
+  "2026-09-27": [
+    {
+      "pt": "o sarau",
+      "de": "der Kulturabend",
+      "en": "the academic soirée/cultural evening",
+      "example": "O Sarau Académico vai decorrer na Rua da Sofia",
+      "example_de": "Der akademische Kulturabend findet in der Rua da Sofia statt",
+      "example_en": "The academic soirée will take place at Rua da Sofia"
+    },
+    {
+      "pt": "encher-se",
+      "de": "sich füllen",
+      "en": "to fill up",
+      "example": "Góis volta a encher-se de mel e castanhas",
+      "example_de": "Góis füllt sich wieder mit Honig und Kastanien",
+      "example_en": "Góis fills up again with honey and chestnuts"
+    },
+    {
+      "pt": "a funerária",
+      "de": "das Bestattungsunternehmen",
+      "en": "the funeral home",
+      "example": "A funerária foi condenada pelo tribunal",
+      "example_de": "Das Bestattungsunternehmen wurde vom Gericht verurteilt",
+      "example_en": "The funeral home was convicted by the court"
+    },
+    {
+      "pt": "atestar",
+      "de": "volltanken",
+      "en": "to fill up (fuel)",
+      "example": "Boas notícias para quem vai atestar combustíveis",
+      "example_de": "Gute Nachrichten für diejenigen die tanken gehen",
+      "example_en": "Good news for those going to fill up on fuel"
+    },
+    {
+      "pt": "a caloira",
+      "de": "die Erstsemesterin",
+      "en": "the freshman (female)",
+      "example": "É uma festa principalmente dedicada aos caloiros",
+      "example_de": "Es ist ein Fest hauptsächlich für die Erstsemester",
+      "example_en": "It is a party mainly dedicated to freshmen"
+    },
+    {
+      "pt": "entusiasmado",
+      "de": "begeistert",
+      "en": "enthusiastic",
+      "example": "Estamos super entusiasmados com a competição",
+      "example_de": "Wir sind super begeistert von dem Wettbewerb",
+      "example_en": "We are super enthusiastic about the competition"
+    },
+    {
+      "pt": "a condutora",
+      "de": "die Fahrerin",
+      "en": "the driver (female)",
+      "example": "A GNR encontrou a condutora meses depois",
+      "example_de": "Die GNR fand die Fahrerin Monate später",
+      "example_en": "The GNR found the driver months later"
+    },
+    {
+      "pt": "incendeiar",
+      "de": "anzünden/in Brand setzen",
+      "en": "to set fire to",
+      "example": "Incendeia apartamento e é apanhado pela PJ",
+      "example_de": "Er setzt eine Wohnung in Brand und wird von der PJ erwischt",
+      "example_en": "He sets an apartment on fire and is caught by the PJ"
+    },
+    {
+      "pt": "a carbonização",
+      "de": "die Verkohlung",
+      "en": "the charring/carbonization",
+      "example": "Resultou a carbonização de todo o recheio do quarto",
+      "example_de": "Es resultierte die Verkohlung der gesamten Zimmereinrichtung",
+      "example_en": "It resulted in the charring of all the bedroom contents"
+    },
+    {
+      "pt": "a falta de respeito",
+      "de": "der Respektlosigkeit",
+      "en": "the lack of respect",
+      "example": "Acusa o Governo de falta de respeito institucional",
+      "example_de": "Beschuldigt die Regierung der institutionellen Respektlosigkeit",
+      "example_en": "Accuses the Government of institutional lack of respect"
+    },
+    {
+      "pt": "a margem negocial",
+      "de": "der Verhandlungsspielraum",
+      "en": "the negotiating margin",
+      "example": "A margem negocial no Orçamento do Estado é limitada",
+      "example_de": "Der Verhandlungsspielraum im Staatshaushalt ist begrenzt",
+      "example_en": "The negotiating margin in the State Budget is limited"
+    },
+    {
+      "pt": "habituamente",
+      "de": "gewöhnlich",
+      "en": "usually",
+      "example": "Espaços habitualmente pouco acessíveis ao público",
+      "example_de": "Räume die gewöhnlich für die Öffentlichkeit wenig zugänglich sind",
+      "example_en": "Spaces usually not very accessible to the public"
+    },
+    {
+      "pt": "a apicultora",
+      "de": "die Imkerin",
+      "en": "the beekeeper (female)",
+      "example": "A feira reúne apicultores e artesãos",
+      "example_de": "Der Markt versammelt Imker und Handwerker",
+      "example_en": "The fair brings together beekeepers and artisans"
+    },
+    {
+      "pt": "em força",
+      "de": "mit voller Kraft",
+      "en": "in full force",
+      "example": "A equipa entrou em força na competição",
+      "example_de": "Das Team tratte mit voller Kraft in den Wettbewerb ein",
+      "example_en": "The team entered the competition in full force"
+    }
   ]
 }
