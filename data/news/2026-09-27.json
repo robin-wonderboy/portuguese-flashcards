@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎉",
+      "category": "FESTAS & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "Góis volta a encher-se de mel e castanhas no final de outubro",
+          "text": "A Feira dos Santos, do Mel e da Castanha está de regresso a Góis nos dias 31 de outubro e 1 de novembro. O evento vai decorrer no Pavilhão Gimnodesportivo Municipal, reunindo apicultores, artesãos e comerciantes. As inscrições para participar na feira são gratuitas e estão abertas até 16 de outubro."
+        },
+        {
+          "headline": "Latada troca noite de concertos por grande Sarau Académico na Rua da Sofia",
+          "text": "A Festa das Latas de Coimbra vai ter este ano uma quarta-feira diferente. Em vez da tradicional noite de concertos, o dia 30 de setembro será marcado por um Sarau Académico com atuações de grupos académicos e da Secção de Fado da AAC. A mudança surge depois da decisão de reduzir a duração da festa. A menos de uma semana do início, já tinham sido vendidos cerca de quatro mil bilhetes."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra recebe Jornadas Nacionais sobre envelhecimento ativo",
+          "text": "Coimbra recebe no dia 1 de outubro as IV Jornadas Nacionais de Promoção de um Envelhecimento Ativo e Bem-Sucedido. A iniciativa vai decorrer na antiga igreja do Convento São Francisco e integra a Semana do Envelhecimento Ativo 2026, entre 1 e 8 de outubro, reunindo especialistas e investigadores."
+        },
+        {
+          "headline": "Coimbra abre portas aos Torreões da Sereia para Dia Mundial do Turismo",
+          "text": "O Município de Coimbra assinala o Dia Mundial do Turismo nos dias 27 e 28 de setembro com visitas guiadas, entrada gratuita no Museu Municipal e experiências digitais de interpretação do património. Os destaques incluem visitas ao interior dos Torreões do Jardim da Sereia, espaços habitualmente pouco acessíveis ao público, e uma conferência sobre inteligência artificial no turismo."
+        },
+        {
+          "headline": "Eiras e São Paulo de Frades querem repetir vitória nos Jogos Sem Fronteiras",
+          "text": "A equipa da União de Freguesias de Eiras e São Paulo de Frades arrancou os Jogos Sem Fronteiras de Coimbra com vontade de repetir o resultado do ano passado. A equipa conseguiu o melhor tempo da primeira série no Parque Verde do Mondego."
+        },
+        {
+          "headline": "Almalaguês entra nos Jogos Sem Fronteiras com olhos postos na vitória",
+          "text": "Almalaguês é uma das freguesias que entrou na competição dos Jogos Sem Fronteiras no Parque Verde do Mondego. Apesar de ser uma nova formação, a equipa mostra-se entusiasmada e confiante. Os Jogos Sem Fronteiras aconteceram este sábado, 26 de setembro."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Combustíveis vão baixar na próxima semana",
+          "text": "Os preços dos combustíveis deverão baixar a partir de segunda-feira, 28 de setembro. O gasóleo poderá ficar cerca de seis cêntimos mais barato por litro, enquanto a gasolina deverá descer aproximadamente dois cêntimos. A previsão baseia-se na queda do preço do petróleo, que chegou a ficar abaixo dos patamares recentes."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Funerária condenada por usar identidade de jovem morto para escapar a multa",
+          "text": "O proprietário de uma funerária de Castelo Branco foi condenado pelo Tribunal depois de ter usado os dados de um jovem já falecido para evitar uma multa de trânsito. O caso aconteceu em janeiro de 2024, quando recebeu uma notificação por excesso de velocidade cometido por uma carrinha da empresa."
+        },
+        {
+          "headline": "Incendeia apartamento e é apanhado pela PJ poucas horas depois",
+          "text": "A Polícia Judiciária deteve um homem pela prática de um crime de incêndio em edifício, ocorrido num apartamento em Queluz. Do incêndio, provocado com recurso a chama direta, resultou a carbonização de todo o recheio do quarto e danos por toda a habitação."
+        },
+        {
+          "headline": "Atropelou e desapareceu sem prestar auxílio: GNR encontrou a condutora meses depois",
+          "text": "Uma mulher de 50 anos foi constituída arguida no âmbito de uma investigação relacionada com um atropelamento com fuga ocorrido em novembro de 2025, no concelho de Albufeira. A condutora foi acusada dos crimes de ofensa à integridade física, omissão de auxílio e condução perigosa."
+        }
+      ]
+    },
+    {
+      "emoji": "🚜",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Homem morre na sequência de despiste de trator em Castro Daire",
+          "text": "Um homem morreu na sequência de um despiste de um trator agrícola que ocorreu durante a tarde no concelho de Castro Daire. O alerta foi dado às 15:55, tendo estado no terreno os Bombeiros Voluntários de Castro Daire, a GNR e o INEM, que acionou um helicóptero."
+        },
+        {
+          "headline": "BUGA volta a ter uma hora de utilização gratuita em Aveiro",
+          "text": "O sistema de bicicletas gratuitas BUGA em Aveiro volta a permitir uma hora de utilização gratuita por dia aos utilizadores registados."
+        }
+      ]
+    },
+    {
+      "emoji": "🗳️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "OE2027: Livre acusa Governo de \"falta de respeito institucional\"",
+          "text": "A porta-voz do Livre acusou o Governo de falta de respeito institucional ao avisar que a margem negocial no Orçamento do Estado para 2027 é muito limitada, antes de se reunir com os partidos na próxima semana."
+        }
+      ]
+    }
+  ]
+}
