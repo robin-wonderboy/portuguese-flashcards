@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌦️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Vêm aí chuva e trovoadas, mas o verão pode voltar",
+          "text": "A última semana de setembro traz chuva, trovoadas e descida das temperaturas após semanas de calor acima do habitual. Segundo a Luso Meteo, a frente fria chega dia 28, mas outubro pode trazer uma segunda despedida do verão com temperaturas a subir novamente."
+        },
+        {
+          "headline": "Incêndio num prédio em construção em Coimbra",
+          "text": "Um incêndio deflagrou no fim da tarde de 27 de setembro numa garagem de um prédio em construção na Rua António Jardim, em Coimbra. O alerta foi dado às 16:57. As chamas atingiram materiais de um sem-abrigo. Não houve registo de feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "COIMBRA & TRADIÇÃO ACADÉMICA",
+      "stories": [
+        {
+          "headline": "Latada troca concertos por Sarau Académico na Rua da Sofia",
+          "text": "A Festa das Latas de Coimbra aposta num formato diferente este ano: em vez da tradicional noite de concertos, dia 30 de setembro haverá um Sarau Académico de várias horas na Rua da Sofia, com grupos académicos e a Secção de Fado da AAC. A vice-presidente Elsa Neves destacou que a festa é principalmente dedicada aos caloiros. Já foram vendidos cerca de quatro mil bilhetes."
+        },
+        {
+          "headline": "Rua da Sofia recebe Sarau Académico",
+          "text": "Uma das ruas mais emblemáticas de Coimbra vai ser o palco do grande Sarau Académico desta Latada, numa organização conjunta entre a Câmara Municipal e a comissão organizadora da festa."
+        }
+      ]
+    },
+    {
+      "emoji": "🥾",
+      "category": "NATUREZA & LAZER",
+      "stories": [
+        {
+          "headline": "Dois trilhos do distrito de Coimbra entre os melhor classificados",
+          "text": "O Trilho dos Moleiros na Lousã (4,8 km) e o Trilho dos Gaios em Tábua (17,3 km) entraram para a lista dos percursos melhor classificados do site Trilhos e Caminhadas. O primeiro acompanha a ribeira da Fórnea com cascatas e antigos moinhos de rodízio. O segundo atravessa passadiços junto ao rio Cavalos com rochas e galerias ripícolas onde se podem avistar guarda-rios e garças-reais."
+        },
+        {
+          "headline": "Góis volta a encher-se de mel e castanhas",
+          "text": "A Feira dos Santos, do Mel e da Castanha regressa a Góis nos dias 31 de outubro e 1 de novembro, no Pavilhão Gimnodesportivo Municipal. A feira reúne apicultores, artesãos e comerciantes. As inscrições são gratuitas e estão abertas até 16 de outubro."
+        },
+        {
+          "headline": "Rosinha em Penela: ficar em casa não é opção",
+          "text": "Penela recebe este domingo a tradicional Rosinha, com prova confirmada de que ficar parado não é opção para quem gosta de festividades locais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Leonor Cipriano quebra o silêncio 22 anos depois",
+          "text": "Leonor Cipriano falou publicamente 22 anos após o desaparecimento da filha Joana, num caso que abalou Portugal. O caso continua a ser um dos mais mediáticos da história judicial portuguesa."
+        },
+        {
+          "headline": "Atraiu ex-companheira com mentira e matou-a com arma artesanal",
+          "text": "Um homem atraiu a ex-companheira a casa com uma mentira e matou-a com uma arma artesanal. O crime está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Festival acaba à pedrada em Mem Martins: sete detidos",
+          "text": "Sete pessoas foram detidas em Mem Martins, Sintra, após arremessarem pedras contra polícias no encerramento de um evento musical. Dois agentes foram atingidos. O Comando Metropolitano de Lisboa da PSP confirmou a detenção."
+        },
+        {
+          "headline": "5 tiros contra Mini Cooper após condutor ignorar polícia",
+          "text": "A polícia disparou cinco tiros contra um Mini Cooper após o condutor ignorar ordens para parar. O incidente está sob investigação."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Colisão entre três carros mata homem de 30 anos",
+          "text": "Uma colisão envolvendo três veículos ligeiros provocou uma vítima mortal e deixou duas pessoas feridas graves em Lobão, Santa Maria da Feira. O acidente ocorreu na Rua do Comércio e mobilizou vários meios de emergência. A vítima mortal foi encontrada em paragem cardiorrespiratória."
+        },
+        {
+          "headline": "Rios e aquíferos a piorar: Zero alerta para investimento insuficiente",
+          "text": "A associação ambientalista Zero alertou para a deterioração do estado dos rios e aquíferos em Portugal continental. Os documentos do 4.º ciclo dos Planos de Gestão de Região Hidrográfica confirmam o agravamento das massas de água, sem garantias de financiamento para as medidas propostas."
+        },
+        {
+          "headline": "Tenta atropelar GNR e resiste à detenção",
+          "text": "Um homem tentou atropelar elementos da GNR e resistiu à detenção. No carro foram encontrados uma arma e cocaína. O suspeito foi detido."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Querem acabar com o Dia da Defesa Nacional",
+          "text": "O movimento Ponto de Encontro vai propor a extinção do Dia da Defesa Nacional. A proposta constará do relatório resultante dos encontros promovidos pelo movimento e será apresentada publicamente a 5 de outubro em Lisboa."
+        },
+        {
+          "headline": "PS acusa Governo de querer facilitar despejos",
+          "text": "O PS acusa o Governo de querer facilitar despejos com o novo regime do arrendamento. A polémica surge no contexto das alterações à lei da habitação."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Roaming de estrangeiros na NOS sobe 67,4%",
+          "text": "O número de utilizadores de operadores estrangeiros em roaming na rede NOS subiu 67,4% entre maio e agosto. Os dados registam utilizadores provenientes de pelo menos 144 nacionalidades diferentes, refletindo o forte turismo em Portugal."
+        },
+        {
+          "headline": "Combustíveis vão baixar na próxima semana",
+          "text": "Boas notícias para quem vai atestar o depósito: os combustíveis vão baixar na próxima semana, trazendo algum alívio para os condutores."
+        },
+        {
+          "headline": "Guarda foi o distrito com mais crescimento populacional no verão",
+          "text": "A Guarda foi o distrito com maior crescimento percentual de pessoas nos meses de verão, cerca de 80%. Lisboa foi o único distrito a perder utilizadores. Viana do Castelo (56%), Faro e Bragança (51%) seguiram-se no ranking."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "ISEC e WIT Software lançam programa de IA",
+          "text": "O Instituto Superior de Engenharia de Coimbra (ISEC) e a WIT Software criaram o programa Nexus, que pretende colocar estudantes perante problemas reais numa altura em que a inteligência artificial está a transformar o mercado de trabalho. A apresentação oficial é a 30 de setembro."
+        },
+        {
+          "headline": "Estudantes da UC podem fazer rastreio gratuito de IST",
+          "text": "Estudantes da Universidade de Coimbra podem fazer rastreio gratuito de infeções sexualmente transmissíveis antes da Latada, numa iniciativa de saúde pública."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Figueira da Foz vai ter Unidade de Cuidados Paliativos",
+          "text": "A ULS do Baixo Mondego anunciou que a Figueira da Foz vai ter uma Unidade de Cuidados Paliativos com 20 camas, na antiga Casa da Mãe. O projeto representa um investimento de 4,9 milhões de euros, com 80% assegurados por fundos comunitários."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "HISTÓRIAS DE VIDA",
+      "stories": [
+        {
+          "headline": "Martim trocou o escritório por uma mochila",
+          "text": "Martim da Costa, de Coimbra, perdeu o emprego e transformou o imprevisto em aventura. Depois de estudar Gestão na Universidade de Coimbra e em Copenhaga, partiu para a Índia e acabou por viajar pela Ásia. O que começou com vídeos para matar saudades cresceu e tornou-se uma profissão, com marcas a patrocinar conteúdo."
+        }
+      ]
+    }
+  ]
+}
