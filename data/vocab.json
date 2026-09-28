@@ -28252,5 +28252,103 @@
       "example_de": "Das Team tratte mit voller Kraft in den Wettbewerb ein",
       "example_en": "The team entered the competition in full force"
     }
+  ],
+  "2026-09-28": [
+    {
+      "pt": "o apicultor",
+      "de": "der Imker",
+      "en": "beekeeper",
+      "example": "A feira reúne apicultores e artesãos",
+      "example_de": "Der Markt versammelt Imker und Handwerker",
+      "example_en": "The fair brings together beekeepers and artisans"
+    },
+    {
+      "pt": "o aquífero",
+      "de": "der Grundwasserleiter",
+      "en": "aquifer",
+      "example": "Rios e aquíferos de Portugal estão a piorar",
+      "example_de": "Flüsse und Grundwasserleiter Portugals verschlechtern sich",
+      "example_en": "Portugal's rivers and aquifers are deteriorating"
+    },
+    {
+      "pt": "a deterioração",
+      "de": "die Verschlechterung",
+      "en": "deterioration",
+      "example": "Zero alertou para a deterioração das massas de água",
+      "example_de": "Zero warnte vor der Verschlechterung der Gewässer",
+      "example_en": "Zero warned about the deterioration of water bodies"
+    },
+    {
+      "pt": "o rodízio",
+      "de": "das Wasserrad / die Rotation",
+      "en": "water wheel / rotation",
+      "example": "Vestígios da antiga atividade dos moinhos de rodízio",
+      "example_de": "Spuren der alten Tätigkeit der Wasserradmühlen",
+      "example_en": "Remnants of the old water wheel mill activity"
+    },
+    {
+      "pt": "a levada",
+      "de": "der Bewässerungskanal",
+      "en": "irrigation channel / water channel",
+      "example": "Pelo caminho surgem pontes, levadas e pequenas cascatas",
+      "example_de": "Unterwegs tauchen Brücken, Bewässerungskanäle und kleine Wasserfälle auf",
+      "example_en": "Along the way appear bridges, irrigation channels and small waterfalls"
+    },
+    {
+      "pt": "ripícola",
+      "de": "uferbewohnend",
+      "en": "riparian (growing near rivers)",
+      "example": "Zonas de galeria ripícola junto ao rio",
+      "example_de": "Ufergalerie-Zonen am Fluss",
+      "example_en": "Riparian gallery zones by the river"
+    },
+    {
+      "pt": "o guarda-rios",
+      "de": "der Eisvogel",
+      "en": "kingfisher (bird)",
+      "example": "É possível encontrar espécies como o guarda-rios e a garça-real",
+      "example_de": "Man kann Arten wie den Eisvogel und den Graureiher finden",
+      "example_en": "You can find species like the kingfisher and the grey heron"
+    },
+    {
+      "pt": "a garça-real",
+      "de": "der Graureiher",
+      "en": "grey heron",
+      "example": "É possível encontrar o guarda-rios e a garça-real",
+      "example_de": "Man kann den Eisvogel und den Graureiher finden",
+      "example_en": "You can find the kingfisher and the grey heron"
+    },
+    {
+      "pt": "o letivo",
+      "de": "das Schuljahr / akademisch",
+      "en": "academic (school year)",
+      "example": "Logo no início do ano letivo",
+      "example_de": "Gleich zu Beginn des Schuljahres",
+      "example_en": "Right at the start of the academic year"
+    },
+    {
+      "pt": "a mochila",
+      "de": "der Rucksack",
+      "en": "backpack",
+      "example": "Trocou o escritório por uma mochila",
+      "example_de": "Tauschte das Büro gegen einen Rucksack",
+      "example_en": "Traded the office for a backpack"
+    },
+    {
+      "pt": "o imprevisto",
+      "de": "das Unvorhergesehene",
+      "en": "unexpected event / setback",
+      "example": "Viaja pelo mundo com alguns imprevistos pelo caminho",
+      "example_de": "Reist durch die Welt mit einigen Unvorhergesehenen unterwegs",
+      "example_en": "Travels the world with some unexpected events along the way"
+    },
+    {
+      "pt": "achei",
+      "de": "ich fand",
+      "en": "I thought / I found (expression)",
+      "example": "Achei que ficaria em casa",
+      "example_de": "Ich dachte, ich würde zu Hause bleiben",
+      "example_en": "I thought I'd stay home"
+    }
   ]
 }
