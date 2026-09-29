@@ -28350,5 +28350,151 @@
       "example_de": "Ich dachte, ich würde zu Hause bleiben",
       "example_en": "I thought I'd stay home"
     }
+  ],
+  "2026-09-29": [
+    {
+      "pt": "desassossegar",
+      "de": "beunruhigen",
+      "en": "to unsettle/disturb",
+      "example": "A Bienal desassossega Coimbra",
+      "example_de": "Die Biene beunruhigt Coimbra",
+      "example_en": "The Biennale unsettles Coimbra"
+    },
+    {
+      "pt": "o lanche",
+      "de": "der Nachmittagssnack",
+      "en": "the snack/afternoon tea",
+      "example": "Adeus aos lanches cheios de acucar",
+      "example_de": "Schluss mit den zuckerreichen Snacks",
+      "example_en": "Goodbye to sugar-filled snacks"
+    },
+    {
+      "pt": "abençoada",
+      "de": "gesegnet",
+      "en": "blessed",
+      "example": "Serenata molhada e serenata abençoada",
+      "example_de": "Nasse Serenade ist gesegnete Serenade",
+      "example_en": "Wet serenade is a blessed serenade"
+    },
+    {
+      "pt": "o rim",
+      "de": "die Niere",
+      "en": "the kidney",
+      "example": "Recebeu rim da mae ha 57 anos",
+      "example_de": "Bekam vor 57 Jahren Niere der Mutter",
+      "example_en": "Received kidney from mother 57 years ago"
+    },
+    {
+      "pt": "a comichão",
+      "de": "der Juckreiz",
+      "en": "the itch/itching",
+      "example": "Parasita que provoca a comichão do nadador",
+      "example_de": "Parasit der den Juckreiz des Schwimmers verursacht",
+      "example_en": "Parasite that causes swimmer's itch"
+    },
+    {
+      "pt": "ultraprocessado",
+      "de": "hochverarbeitet",
+      "en": "ultra-processed",
+      "example": "Menos alimentos ultraprocessados",
+      "example_de": "Weniger hochverarbeitete Lebensmittel",
+      "example_en": "Less ultra-processed food"
+    },
+    {
+      "pt": "assustar",
+      "de": "erschrecken",
+      "en": "to frighten/scare",
+      "example": "Incêndios em série assustam moradores",
+      "example_de": "Serienbrande erschrecken Bewohner",
+      "example_en": "Serial fires scare residents"
+    },
+    {
+      "pt": "o hífen",
+      "de": "der Bindestrich",
+      "en": "the hyphen",
+      "example": "A insuficiência dos hífenes",
+      "example_de": "Die Unzulänglichkeit der Bindestriche",
+      "example_en": "The insufficiency of hyphens"
+    },
+    {
+      "pt": "falecido",
+      "de": "verstorben",
+      "en": "deceased",
+      "example": "A mae falecida no capacete",
+      "example_de": "Die verstorbene Mutter auf dem Helm",
+      "example_en": "The deceased mother on the helmet"
+    },
+    {
+      "pt": "o degrau",
+      "de": "die Stufe",
+      "en": "the step",
+      "example": "Subiu 566 degraus com o filho as costas",
+      "example_de": "Stieg 566 Stufen mit dem Sohn auf dem Ruecken",
+      "example_en": "Climbed 566 steps with his son on his back"
+    },
+    {
+      "pt": "redutor",
+      "de": "reduzierend",
+      "en": "reductive",
+      "example": "Desacreditar rotulos redutores",
+      "example_de": "Reduzierende Etiketten entkraeften",
+      "example_en": "Discredit reductive labels"
+    },
+    {
+      "pt": "o abono",
+      "de": "das Kindergeld",
+      "en": "the child benefit/allowance",
+      "example": "Solicitou apoio para o abono de familia",
+      "example_de": "Beantragte Hilfe fuer das Kindergeld",
+      "example_en": "Requested support for child benefit"
+    },
+    {
+      "pt": "a agilidade",
+      "de": "die Beweglichkeit",
+      "en": "agility",
+      "example": "Defende mais agilidade nas decisões do Estado",
+      "example_de": "Setzt sich fuer mehr Beweglichkeit in Staatsentscheidungen ein",
+      "example_en": "Advocates more agility in State decisions"
+    },
+    {
+      "pt": "a panela",
+      "de": "der Topf",
+      "en": "the pot",
+      "example": "Sopas na panela de ferro",
+      "example_de": "Suppen im Eisentopf",
+      "example_en": "Soups in the iron pot"
+    },
+    {
+      "pt": "o gulosos",
+      "de": "die Naschkatze",
+      "en": "the sweet tooth/glutton",
+      "example": "Um paraiso para gulosos",
+      "example_de": "Ein Paradies fuer Naschkatzen",
+      "example_en": "A paradise for sweet tooths"
+    },
+    {
+      "pt": "a imputação",
+      "de": "die Beschuldigung",
+      "en": "the imputation/charge",
+      "example": "Rejeita crimes imputados",
+      "example_de": "Weist zur Last gelegte Verbrechen zurueck",
+      "example_en": "Rejects imputed crimes"
+    },
+    {
+      "pt": "a ancestralidade",
+      "de": "die Ahnenkult",
+      "en": "ancestry/ancestrality",
+      "example": "Entre o colonial, o decolonial e a ancestralidade",
+      "example_de": "Zwischen kolonial, dekolonial und Ahnenkult",
+      "example_en": "Between colonial, decolonial and ancestry"
+    },
+    {
+      "pt": "o destinos",
+      "de": "das Schicksal",
+      "en": "destiny/fate",
+      "example": "Agentes plenos dos seus destinos",
+      "example_de": "Voellige Agenten ihres Schicksals",
+      "example_en": "Full agents of their destinies"
+    }
   ]
 }
