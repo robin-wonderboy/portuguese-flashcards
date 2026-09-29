@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "REGIÃO & CLIMA",
+      "stories": [
+        {
+          "headline": "Coimbra na mira da chuva forte a partir desta tarde",
+          "text": "Oito distritos de Portugal continental estão sob aviso amarelo devido à previsão de chuva forte. Viana do Castelo, Porto e Braga com aviso entre as 15h00 de hoje e a meia-noite de quarta-feira. Vila Real e Aveiro a partir das 18h00."
+        },
+        {
+          "headline": "Cantanhede transformou-se num laboratório ao ar livre por uma noite",
+          "text": "A Universidade Politécnica de Coimbra levou a ciência e a investigação para junto da comunidade em Cantanhede, através da iniciativa \"Sente a Ciência: da Academia ao Cidadão\". O evento criou um espaço de encontro entre investigadores, estudantes, famílias e cidadãos."
+        },
+        {
+          "headline": "Serenata molhada é serenata abençoada",
+          "text": "A tradição da Serenata de Coimbra resistiu à chuva, provando que mesmo molhada é uma serenata abençoada. Os estudantes mantiveram a tradição viva apesar do clima adverso."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Incêndios em série assustam moradores em Oeiras",
+          "text": "Vários focos de incêndio foram registados durante a madrugada em diferentes artérias de Oeiras, na zona da Avenida da República. O alerta foi dado cerca das 5h30. As chamas atingiram vários ecopontos e provocaram danos numa viatura estacionada. As circunstâncias vão ser investigadas."
+        },
+        {
+          "headline": "Escolas mais violentas? Ofensas e armas atingem máximos dos últimos cinco anos",
+          "text": "O número de crimes de ofensas corporais e de armas cometidos nas escolas no último ano letivo foi o maior dos últimos cinco anos. O relatório do Programa Escola Segura da PSP revela que também aumentaram as ofensas sexuais e o tráfico de droga. As ocorrências nas escolas aumentaram para 4075 no último ano letivo."
+        },
+        {
+          "headline": "Caso gémeas: Lacerda Sales recusa acusação e rejeita crimes imputados",
+          "text": "No caso das gémeas luso-brasileiras, Lacerda Sales recusou a acusação e rejeitou os crimes que lhe foram imputados. A mãe das gémeas, Daniela Martins, terá recorrido a apoios sociais apesar de ter mais de 100 mil euros disponíveis na conta bancária."
+        },
+        {
+          "headline": "PSP e GNR contra negociações de \"polícias low-cost\"",
+          "text": "Os sindicatos da PSP e associações da GNR posicionam-se contra as negociações para uma polícia low-cost em Portugal. O ministro volta a reunir-se com os sindicatos para tentar resolver o impasse."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Afro-Portugal 2026: a Bienal que desassossega Coimbra e reimagina os caminhos do futuro",
+          "text": "Coimbra transforma-se na capital do pensamento crítico e da descolonização do futuro com a 3ª edição da Afro-Portugal. Sob o manifesto \"Afro-Quê?!\", a Bienal convoca artistas e pensadores a desmontar rótulos e interrogar o passado colonial. O evento cruza artes visuais, teatro, música e literatura, ocupando vários teatros e espaços da cidade, incluindo intervenções nas montras da Baixa de Coimbra."
+        },
+        {
+          "headline": "João Rasteiro apresenta \"A Beleza da Queda\" na Quinta das Lágrimas",
+          "text": "O artista João Rasteiro apresenta a exposição \"A Beleza da Queda\" na Quinta das Lágrimas, explorando a estética do outono."
+        },
+        {
+          "headline": "Canas de Senhorim transforma-se num cenário medieval durante três dias",
+          "text": "A vila de Canas de Senhorim recua no tempo e transforma-se num cenário medieval por três dias, com recriações históricas e atividades tradicionais."
+        },
+        {
+          "headline": "Sopas na panela de ferro e arroz doce enchem a mesa em Cantanhede e Almalaguês",
+          "text": "Cantanhede prepara uma tarde de sabores antigos com sopas na panela de ferro. Em Almalaguês, a mesa enche-se de sopas e arroz doce. Ambos os eventos celebram a gastronomia tradicional da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Portugal lidera na Europa no consumo diário de álcool",
+          "text": "Portugal é o país da União Europeia onde uma maior percentagem da população afirma consumir bebidas alcoólicas diariamente. Em 2025, 16% dos portugueses com 16 ou mais anos disseram beber álcool todos os dias, mais de três vezes acima da média europeia de 4,8%."
+        },
+        {
+          "headline": "Doou um rim à filha em 1969. Órgão continua a funcionar aos 111 anos",
+          "text": "Um rim transplantado da mãe para a filha em 1969 continua a funcionar 57 anos depois, com a recipiente já a ter 111 anos de idade. É um dos casos mais extraordinários da história da medicina."
+        },
+        {
+          "headline": "DGS lança novas regras para as creches: adeus aos lanches cheios de açúcar",
+          "text": "A DGS publicou pela primeira vez orientações nacionais para a alimentação nas creches, recomendando refeições diversificadas, porções adequadas e menos alimentos ultraprocessados, açúcar e sal. O documento pretende apoiar as instituições na disponibilização de uma alimentação nutricionalmente adequada."
+        },
+        {
+          "headline": "Coimbra sai à rua pelo Outubro Rosa a 10 de outubro",
+          "text": "Sete cidades do Centro do país, incluindo Coimbra, vão receber a 16ª edição das caminhadas \"Pequenos Passos, Grandes Gestos\" da Liga Portuguesa Contra o Cancro, no dia 10 de outubro, integradas na programação do Outubro Rosa de sensibilização para o cancro da mama."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Conselho Geral da Universidade de Coimbra rejeita integração do Instituto Miguel Torga",
+          "text": "O Conselho Geral da UC determinou que não existem condições de momento para qualquer diálogo sobre a eventual integração do Instituto Superior Miguel Torga na Universidade de Coimbra. A decisão foi tomada na reunião de sexta-feira."
+        },
+        {
+          "headline": "UPCoimbra junta comunidade académica para falar de saúde mental e bem-estar",
+          "text": "A Universidade Politécnica de Coimbra promove um encontro sobre saúde mental e bem-estar, reunindo a comunidade académica para discutir este tema cada vez mais relevante."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Novo Aeroporto de Lisboa ainda não tem preço final. Governo garante investimento 100% privado",
+          "text": "O ministro das Infraestruturas, Miguel Pinto Luz, admitiu que o custo do Novo Aeroporto de Lisboa não será conhecido enquanto o projeto não estiver definido. Garantiu total transparência no final e investimento totalmente privado."
+        },
+        {
+          "headline": "Passos Coelho defende mais agilidade nas decisões do Estado",
+          "text": "O antigo primeiro-ministro Passos Coelho defendeu maior agilidade nas decisões do Estado, durante uma intervenção pública."
+        }
+      ]
+    },
+    {
+      "emoji": "🚒",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Bombeiro Ricardo subiu os Escadórios da Humanidade com a imagem da mãe falecida no capacete",
+          "text": "O bombeiro Ricardo subiu os Escadórios da Humanidade com a fotografia da mãe falecida no capacete, numa homagem emocionante. Outro bombeiro, Diogo, subiu 566 degraus com o filho às costas para cumprir uma promessa."
+        },
+        {
+          "headline": "\"Não vamos desistir\": Mário João é de Cernache e está desaparecido",
+          "text": "Aproximadamente 40 pessoas participaram nas buscas por Mário João Guiné Fernandes, homem de 64 anos desaparecido na zona de Aveiro. As operações decorreram das 9h30 às 18h30 num terreno considerado difícil e sob temperaturas elevadas."
+        },
+        {
+          "headline": "A viagem mais bonita para estes bombeiros acabou com um bebé nos braços",
+          "text": "Uma viagem de bombeiros teve o final mais bonito: acabou com um bebé nos braços dos militares, numa história comovente que emocionou Portugal."
+        }
+      ]
+    }
+  ]
+}
