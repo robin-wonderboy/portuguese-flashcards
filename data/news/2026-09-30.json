@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎓",
+      "category": "COIMBRA & LATADA",
+      "stories": [
+        {
+          "headline": "Arranca a Latada 2026 em Coimbra",
+          "text": "Coimbra voltou a entrar em modo académico. A Festa das Latas e Imposição de Insígnias 2026 arrancou terça-feira, 29 de setembro, com a tradicional Serenata Monumental, e prolonga-se até domingo, 4 de outubro, com concertos, momentos de tradição e o aguardado Cortejo da Latada."
+        },
+        {
+          "headline": "Serenata da Latada já ecoa em Coimbra",
+          "text": "Os estudantes já estão a cantar pelas ruas da cidade, mesmo antes da Serenata começar oficialmente. O espírito académico tomou conta do Largo da Sé e ruas vizinhas."
+        },
+        {
+          "headline": "\"Nada nos pára. Seja chuva, seja vento\" - presidente da AAC",
+          "text": "O presidente da Associação Académica de Coimbra garante que os estudantes vão encher a Serenata, independentemente das condições meteorológicas. A determinação é total para mais uma edição histórica."
+        },
+        {
+          "headline": "Quarta-feira é dia de Sarau Académico",
+          "text": "Hoje, 30 de setembro, realiza-se o Sarau Académico, que este ano ganha um cenário diferente. A semana continua com o Cortejo da Latada no domingo."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Época mais crítica dos fogos termina com menos área ardida",
+          "text": "A época que mobiliza mais meios de combate aos incêndios rurais termina hoje com menos área ardida, mas com mais fogos em relação ao ano passado. A partir de quinta-feira, o dispositivo especial de combate (DECIR) passa a ter menos meios no terreno."
+        },
+        {
+          "headline": "Menos acidentes com comboios mas há um alerta que preocupa",
+          "text": "O número de acidentes significativos nas linhas ferroviárias portuguesas caiu em 2025 para o valor mais baixo dos últimos cinco anos: 25 ocorrências, menos 16,7% face a 2024. Mas as autoridades alertam para novos desafios de segurança."
+        },
+        {
+          "headline": "Viajar de Alfa Pendular fica mais barato",
+          "text": "A CP lançou uma nova campanha que torna as viagens no Alfa Pendular mais acessíveis, numa iniciativa para atrair mais passageiros ao transporte ferroviário."
+        },
+        {
+          "headline": "Acidente na A8 faz uma vítima mortal",
+          "text": "Um acidente na autoestrada A8 provocou uma vítima mortal. Os detalhes sobre as causas do sinistro estão a ser apurados pelas autoridades."
+        }
+      ]
+    },
+    {
+      "emoji": "🍖",
+      "category": "CULTURA & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Operação Chanfana: toneladas da especialidade em Poiares",
+          "text": "Vila Nova de Poiares vai transformar-se num ponto de encontro para os verdadeiros fãs de chanfana. A Confraria da Chanfana celebra 25 anos no dia 4 de outubro com distribuição gratuita. A carne é marinada 24 horas com vinho tinto, azeite, alho, colorau e malagueta, antes de ir ao forno a lenha."
+        },
+        {
+          "headline": "Sopa da pedra portuguesa no top das 20 melhores do mundo",
+          "text": "A sopa da pedra, tradicional de Almeirim, aparece em 18.º lugar no ranking das 100 melhores sopas do mundo do TasteAtlas, com 4,3 pontos. Açorda à Alentejana e caldo verde também aparecem em posições de destaque."
+        },
+        {
+          "headline": "Oink! Pork Fest em Miranda do Corvo",
+          "text": "Miranda do Corvo vai transformar-se num paraíso para bons garfos. Há porco, vinho e cerveja num festival dedicado à gastronomia local."
+        },
+        {
+          "headline": "Poetas de Montemor-o-Velho sobem ao palco",
+          "text": "O Teatro Esther de Carvalho em Montemor-o-Velho volta a dar voz aos poetas da terra, num espetáculo que celebra a tradição literária local."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Lança carro contra casal para vingar queixa de violência doméstica",
+          "text": "Uma denúncia por violência doméstica esteve na origem de uma dupla tentativa de homicídio num parque de campismo na Lourinhã. O suspeito, estrangeiro de 25 anos, esteve mais de três anos em fuga e foi detido em Miranda do Douro ao tentar escapar para Espanha."
+        },
+        {
+          "headline": "Agente da PSP atropelado durante perseguição policial",
+          "text": "Um agente da PSP foi atropelado durante uma perseguição policial. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Julgamento por alegada extorsão de 342 mil euros adiado",
+          "text": "O julgamento por alegada extorsão de 342 mil euros volta a ser adiado, num caso que se arrasta nos tribunais."
+        }
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "category": "REGIÃO & CENTRO",
+      "stories": [
+        {
+          "headline": "Mangualde apanha \"Expresso do Alto Mondego\"",
+          "text": "O projeto \"Expresso do Alto Mondego\" fez a última apresentação em Mangualde. A ideia é transformar o comboio no próprio produto turístico, onde o visitante não usa apenas o transporte para chegar a um destino, mas vive a experiência ferroviária em si."
+        },
+        {
+          "headline": "Padre e bombeiro: Daniel corre para o fogo quando a sirene toca",
+          "text": "Daniel Barroso tem 33 anos, é padre e bombeiro em Celorico da Beira. A Diocese da Guarda criou uma Capelania dos Bombeiros e nomeou-o para a missão de dar apoio espiritual aos bombeiros da diocese."
+        },
+        {
+          "headline": "Anadia recebe 100 mil euros para recuperar rios e linhas de água",
+          "text": "O município de Anadia vai receber 100 mil euros para recuperar rios e linhas de água danificados pelas tempestades recentes."
+        },
+        {
+          "headline": "Autocarro pega fogo e deixa casa danificada",
+          "text": "Um autocarro pegou fogo na região do Centro, deixando uma casa danificada. Os passageiros escaparam ilesos do incidente."
+        }
+      ]
+    }
+  ]
+}
