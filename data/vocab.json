@@ -28496,5 +28496,119 @@
       "example_de": "Voellige Agenten ihres Schicksals",
       "example_en": "Full agents of their destinies"
     }
+  ],
+  "2026-09-30": [
+    {
+      "pt": "a latada",
+      "de": "das Akademikerfest (Latada)",
+      "en": "academic festival",
+      "example": "Esta semana arranca a Latada em Coimbra",
+      "example_de": "Diese Woche startet die Latada in Coimbra",
+      "example_en": "This week the Latada kicks off in Coimbra"
+    },
+    {
+      "pt": "ecoar",
+      "de": "erklingen / widerhallen",
+      "en": "to echo",
+      "example": "A música ecoa pelas ruas",
+      "example_de": "Die Musik erklingt durch die Straßen",
+      "example_en": "The music echoes through the streets"
+    },
+    {
+      "pt": "a área ardida",
+      "de": "das verbrannte Gebiet",
+      "en": "the burned area",
+      "example": "Há menos área ardida este ano",
+      "example_de": "Es gibt weniger verbranntes Gebiet dieses Jahr",
+      "example_en": "There is less burned area this year"
+    },
+    {
+      "pt": "a confraria",
+      "de": "die Bruderschaft",
+      "en": "the brotherhood / confraternity",
+      "example": "A Confraria da Chanfana celebra 25 anos",
+      "example_de": "Die Bruderschaft der Chanfana feiert 25 Jahre",
+      "example_en": "The Chanfana Brotherhood celebrates 25 years"
+    },
+    {
+      "pt": "marinar",
+      "de": "marinieren",
+      "en": "to marinate",
+      "example": "A carne é marinada durante 24 horas",
+      "example_de": "Das Fleisch wird 24 Stunden mariniert",
+      "example_en": "The meat is marinated for 24 hours"
+    },
+    {
+      "pt": "atropelado",
+      "de": "überfahren",
+      "en": "run over (past participle)",
+      "example": "O agente da PSP foi atropelado",
+      "example_de": "Der PSP-Beamte wurde überfahren",
+      "example_en": "The PSP officer was run over"
+    },
+    {
+      "pt": "a linha de água",
+      "de": "die Wasserlinie / der Bachlauf",
+      "en": "the waterline / stream",
+      "example": "Vão recuperar as linhas de água",
+      "example_de": "Sie werden die Bachläufe wiederherstellen",
+      "example_en": "They will restore the waterlines"
+    },
+    {
+      "pt": "o forno a lenha",
+      "de": "der Holzofen",
+      "en": "the wood-fired oven",
+      "example": "A chanfana é levada ao forno a lenha",
+      "example_de": "Der Ziegenbraten kommt in den Holzofen",
+      "example_en": "The chanfana goes into the wood-fired oven"
+    },
+    {
+      "pt": "o poeta",
+      "de": "der Dichter",
+      "en": "the poet",
+      "example": "O teatro dá voz aos poetas da terra",
+      "example_de": "Das Theater gibt den Dichtern der Region eine Stimme",
+      "example_en": "The theater gives voice to local poets"
+    },
+    {
+      "pt": "a capelania",
+      "de": "die Seelsorge",
+      "en": "the chaplaincy",
+      "example": "A Diocese criou uma Capelania dos Bombeiros",
+      "example_de": "Das Bistum gründete eine Feuerwehr-Seelsorge",
+      "example_en": "The Diocese created a Firefighter Chaplaincy"
+    },
+    {
+      "pt": "o colorau",
+      "de": "der Paprika",
+      "en": "paprika (spice)",
+      "example": "A carne é temperada com colorau",
+      "example_de": "Das Fleisch wird mit Paprika gewürzt",
+      "example_en": "The meat is seasoned with paprika"
+    },
+    {
+      "pt": "a malagueta",
+      "de": "die Chilischote",
+      "en": "the chili pepper",
+      "example": "A receita leva alho, sal e malagueta",
+      "example_de": "Das Rezept enthält Knoblauch, Salz und Chilischote",
+      "example_en": "The recipe includes garlic, salt and chili pepper"
+    },
+    {
+      "pt": "a doçaria tradicional",
+      "de": "die traditionelle Süßwaren",
+      "en": "traditional pastries",
+      "example": "A tarde continua com doçaria tradicional",
+      "example_de": "Der Nachmittag geht weiter mit traditionellen Süßwaren",
+      "example_en": "The afternoon continues with traditional pastries"
+    },
+    {
+      "pt": "a overdose",
+      "de": "die Überdosis",
+      "en": "the overdose",
+      "example": "Uma verdadeira overdose de chanfana",
+      "example_de": "Eine wahre Überdosis Chanfana",
+      "example_en": "A true overdose of chanfana"
+    }
   ]
 }
