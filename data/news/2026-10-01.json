@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎉",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Que comece a festa: Está aberta a temporada das Noites do Parque da Latada",
+          "text": "As Noites do Parque da semana da Latada arrancam esta quarta-feira, 1 de outubro, em Coimbra, com quatro noites de concertos na Praça da Canção, junto ao Mondego. A festa académica prolonga-se até domingo, 4 de outubro, com um cartaz que junta música eletrónica, hip-hop, reggae, música popular e nomes incontornáveis do panorama nacional."
+        },
+        {
+          "headline": "Sarau Académico na Rua da Sofia foi uma aposta ganha",
+          "text": "A Câmara Municipal de Coimbra juntou-se à Associação Académica para levar o Sarau Académico para a Rua da Sofia, numa iniciativa que pretende aproximar os estudantes da população e dar nova vida à Baixa da cidade. Ricardo Lino, vereador da Câmara, participou no evento e revelou que também viveu esta tradição enquanto estudante."
+        },
+        {
+          "headline": "Termas do Centro lançam novo conceito Entra em Modo Termal",
+          "text": "As Termas Centro de Portugal lançaram uma nova campanha para aproximar o termalismo de públicos de todas as idades. A campanha já está presente em outdoors em vários pontos do país com mensagens como Dá descanso ao scroll e Põe o stress de molho, contrariando a ideia de que o termalismo é só para pessoas mais velhas."
+        },
+        {
+          "headline": "Nenhuma criança começa as aulas sem material em Eiras e São Paulo de Frades",
+          "text": "A União das Freguesias de Eiras e São Paulo de Frades entregou este ano material escolar a crianças do 1.º ao 6.º ano, garantindo que todas começaram o ano letivo com os recursos necessários. A iniciativa contou com o apoio do Ninho da Mariazinha, da CASPAE, da TUU e de vários particulares que contribuíram com donativos."
+        }
+      ]
+    },
+    {
+      "emoji": "📅",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Outubro vai ser em grande no Convento São Francisco",
+          "text": "O Convento São Francisco apresenta ao longo de outubro uma programação diversificada, com destaque para a 9.ª edição do Festival Correntes de Um Só Rio, de 1 a 6 de outubro. O mês inclui ainda concertos de Luísa Sobral, Adriana Calcanhotto, Noiserv e Alceu Valença, além de teatro, cinema e uma festa de encerramento marcada para 18 de outubro."
+        },
+        {
+          "headline": "Wakeboard está de volta à Sertã",
+          "text": "A praia fluvial do Trízio, na Sertã, recebe nos dias 3, 4 e 5 de outubro o Campeonato Nacional de Wakeboard, Wakeskate e Wakesurf. São esperados cerca de 100 participantes, desde jovens talentos a atletas consagrados, numa competição com acesso livre ao público e transmissão em livestream no YouTube."
+        },
+        {
+          "headline": "30 quilómetros de caminhada pela serra do Caramulo",
+          "text": "A temporada de percursos pedestres de Tondela chega ao fim no domingo, 4 de outubro, com a Grande Rota do Caramulo. O derradeiro trilho tem 30 quilómetros, dificuldade média e um desnível superior a 1000 metros. O ponto de encontro está marcado para as 08h00 junto ao Museu do Caramulo."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "GNR detém 10 pessoas e apreende duas embarcações no Algarve",
+          "text": "A GNR deteve de madrugada 10 pessoas numa operação de vigilância, depois de terem sido detetadas embarcações de alta velocidade nos concelhos de Olhão e Tavira. A operação de controlo costeiro desencadeou-se na sequência de movimentos suspeitos nas imediações."
+        },
+        {
+          "headline": "Até 300 euros de multa para quem andar de trotinete sem capacete",
+          "text": "Quem conduz uma trotinete ou bicicleta elétrica poderá passar a ter de usar capacete em Portugal. A medida foi aprovada na generalidade pela Assembleia da República e prevê coimas até 300 euros. A proposta do PSD segue agora para discussão na especialidade na Comissão de Infraestruturas."
+        },
+        {
+          "headline": "Homens em situação irregular detidos na Baixa de Coimbra",
+          "text": "O Comando Distrital da PSP de Coimbra deteve quatro homens no dia 29 de setembro, dois deles por imigração ilegal. As outras duas detenções estão associadas aos crimes de tráfico de estupefacientes e condução sem habilitação legal. Os dois homens em situação ilegal têm 28 anos e foram detidos na Baixa de Coimbra."
+        },
+        {
+          "headline": "PSP encontra 294 idosos em situação de risco durante operação de verão",
+          "text": "A PSP sinalizou este ano 461 idosos e encontrou 294 em situação de risco durante os dois meses de verão da 14.ª operação A Solidariedade Não Tem Idade. Os resultados foram revelados no Dia Internacional das Pessoas Idosas, assinalado esta quinta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "❤️",
+      "category": "SOCIEDADE",
+      "stories": [
+        {
+          "headline": "O sonho de Damião era ser polícia. A Make-A-Wish ajudou a torná-lo realidade",
+          "text": "O desejo de Damião de ser polícia tornou-se realidade num dia especial vivido ao lado da família, numa iniciativa da Make-A-Wish Portugal. A história foi partilhada no final do Mês da Sensibilização do Cancro Infantil e Juvenil, como exemplo do impacto que a concretização de um desejo pode ter na vida de uma criança com doença grave."
+        },
+        {
+          "headline": "Família lança alerta após homem desaparecer na Mealhada",
+          "text": "Um homem de 83 anos foi dado como desaparecido na noite de 30 de setembro em Ventosa do Bairro, na Mealhada. O alerta foi dado pelos familiares junto das autoridades. Segundo a GNR de Aveiro, o homem estaria a usar um casaco azul e terá saído numa bicicleta cinzenta."
+        }
+      ]
+    }
+  ]
+}
