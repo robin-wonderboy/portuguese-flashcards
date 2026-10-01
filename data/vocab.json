@@ -28610,5 +28610,79 @@
       "example_de": "Eine wahre Überdosis Chanfana",
       "example_en": "A true overdose of chanfana"
     }
+  ],
+  "2026-10-01": [
+    {
+      "pt": "derradeiro",
+      "de": "letztlich, der letzte",
+      "en": "final, ultimate",
+      "example": "O derradeiro trilho da temporada",
+      "example_de": "Der letzte Wanderweg der Saison",
+      "example_en": "The final trail of the season"
+    },
+    {
+      "pt": "contrariar",
+      "de": "entkräften, gegensteuern",
+      "en": "to counter, to go against",
+      "example": "Contrariar a ideia de que o termalismo é para idosos",
+      "example_de": "Der Idee entgegenwirken, dass Thermalismus nur für Ältere ist",
+      "example_en": "To counter the idea that thermalism is for the elderly"
+    },
+    {
+      "pt": "a especialidade",
+      "de": "Fachausschuss, Einzelheit",
+      "en": "specialty, detailed committee stage",
+      "example": "Segue agora para discussão na especialidade",
+      "example_de": "Geht nun zur Detaildiskussion im Fachausschuss",
+      "example_en": "It now goes to detailed discussion in committee"
+    },
+    {
+      "pt": "engarrafado",
+      "de": "abgefüllt",
+      "en": "bottled",
+      "example": "Águas minerais engarrafadas de Monfortinho",
+      "example_de": "Abgefülltes Mineralwasser von Monfortinho",
+      "example_en": "Bottled mineral water from Monfortinho"
+    },
+    {
+      "pt": "alimentar",
+      "de": "ernähren, speisen, Nahrungs-",
+      "en": "to feed, food-related",
+      "example": "A organização oferecerá reforço alimentar aos participantes",
+      "example_de": "Die Organisation bietet den Teilnehmern Proviant an",
+      "example_en": "The organization will offer food supplies to participants"
+    },
+    {
+      "pt": "revisitar",
+      "de": "wieder aufgreifen, neu besuchen",
+      "en": "to revisit, to go over again",
+      "example": "Revisitando alguns dos seus grandes sucessos",
+      "example_de": "Wobei er einige seiner größten Erfolge neu aufgreift",
+      "example_en": "Revisiting some of his greatest hits"
+    },
+    {
+      "pt": "o veloz",
+      "de": "schnell, flink",
+      "en": "fast, swift",
+      "example": "Foram detetadas embarcações de alta velocidade",
+      "example_de": "Es wurden schnelle Boote entdeckt",
+      "example_en": "Fast vessels were detected"
+    },
+    {
+      "pt": "o outdoors",
+      "de": "Plakatwand, Großfläche",
+      "en": "billboards, outdoor ads",
+      "example": "A campanha já está presente em outdoors em vários pontos do país",
+      "example_de": "Die Kampagne ist auf Plakatwänden im ganzen Land präsent",
+      "example_en": "The campaign is already on billboards across the country"
+    },
+    {
+      "pt": "pedestre",
+      "de": "Fußgänger-, zu Fuß",
+      "en": "pedestrian, on foot",
+      "example": "A temporada de percursos pedestres",
+      "example_de": "Die Saison der Fußgängerwege",
+      "example_en": "The pedestrian routes season"
+    }
   ]
 }
