@@ -28684,5 +28684,103 @@
       "example_de": "Die Saison der Fußgängerwege",
       "example_en": "The pedestrian routes season"
     }
+  ],
+  "2026-10-02": [
+    {
+      "pt": "a cadeira elevatória",
+      "de": "der Treppenlift",
+      "en": "the stair lift",
+      "example": "A cadeira elevatória foi destruída pela terceira vez",
+      "example_de": "Der Treppenlift wurde zum dritten Mal zerstört",
+      "example_en": "The stair lift was destroyed for the third time"
+    },
+    {
+      "pt": "paralisar",
+      "de": "lahmen, stilllegen",
+      "en": "to paralyze",
+      "example": "A greve pode paralisar escolas e serviços",
+      "example_de": "Der Streik kann Schulen und Dienste lahmlegen",
+      "example_en": "The strike can paralyze schools and services"
+    },
+    {
+      "pt": "o fio de ouro",
+      "de": "die Goldkette",
+      "en": "the gold chain",
+      "example": "Foi apanhado a roubar um fio de ouro avaliado em dois mil euros",
+      "example_de": "Er wurde beim Stehlen einer Goldkette im Wert von zweitausend Euro erwischt",
+      "example_en": "He was caught stealing a gold chain valued at two thousand euros"
+    },
+    {
+      "pt": "irreverente",
+      "de": "respektlos, frech",
+      "en": "irreverent, cheeky",
+      "example": "Variações apresentava-se de forma icónica e irreverente",
+      "example_de": "Variações trat sich ikonisch und frech auf",
+      "example_en": "Variações presented himself in an iconic and irreverent way"
+    },
+    {
+      "pt": "despercebido",
+      "de": "unbemerkt",
+      "en": "unnoticed",
+      "example": "Uma cor que não passa despercebida",
+      "example_de": "Eine Farbe, die nicht unbemerkt bleibt",
+      "example_en": "A color that doesn't go unnoticed"
+    },
+    {
+      "pt": "a perdição",
+      "de": "die Versuchung, der Untergang",
+      "en": "the temptation, the ruin",
+      "example": "Este festival é uma perdição para quem ama marisco",
+      "example_de": "Dieses Festival ist eine Versuchung für Liebhaber von Meeresfrüchten",
+      "example_en": "This festival is a temptation for seafood lovers"
+    },
+    {
+      "pt": "a solidão",
+      "de": "die Einsamkeit",
+      "en": "loneliness",
+      "example": "O ISMT promove conversa sobre ética e solidão",
+      "example_de": "Das ISMT fördert ein Gespräch über Ethik und Einsamkeit",
+      "example_en": "ISMT promotes a talk on ethics and loneliness"
+    },
+    {
+      "pt": "descer à realidade",
+      "de": "die Realität erkennen, auf den Boden zurückkommen",
+      "en": "to come down to earth, to face reality",
+      "example": "Paulo Raimundo pede à ministra que desça à realidade",
+      "example_de": "Paulo Raimundo bittet die Ministerin, die Realität zu erkennen",
+      "example_en": "Paulo Raimundo asks the minister to come down to earth"
+    },
+    {
+      "pt": "o pecado",
+      "de": "die Sünde",
+      "en": "sin",
+      "example": "O pecado da gula vai ter morada em Penacova",
+      "example_de": "Die Sünde der Völlerei wird in Penacova stattfinden",
+      "example_en": "The sin of gluttony will take place in Penacova"
+    },
+    {
+      "pt": "a gula",
+      "de": "die Völlerei, die Gefräßigkeit",
+      "en": "gluttony",
+      "example": "O pecado da gula vai ter morada em Penacova",
+      "example_de": "Die Sünde der Völlerei wird in Penacova stattfinden",
+      "example_en": "The sin of gluttony will take place in Penacova"
+    },
+    {
+      "pt": "o complemento solidário",
+      "de": "die Solidaritätszulage",
+      "en": "the solidarity supplement",
+      "example": "O Governo aprovou aumento no complemento solidário para idosos",
+      "example_de": "Die Regierung billigte eine Erhöhung der Solidaritätszulage für Senioren",
+      "example_en": "The Government approved an increase in the solidarity supplement for the elderly"
+    },
+    {
+      "pt": "o órgão de tubos",
+      "de": "die Pfeifenorgel",
+      "en": "pipe organ",
+      "example": "Um concerto comentado de órgão de tubos",
+      "example_de": "Ein kommentiertes Pfeifenorgelkonzert",
+      "example_en": "A commented pipe organ concert"
+    }
   ]
 }
