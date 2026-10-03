@@ -28782,5 +28782,111 @@
       "example_de": "Ein kommentiertes Pfeifenorgelkonzert",
       "example_en": "A commented pipe organ concert"
     }
+  ],
+  "2026-10-03": [
+    {
+      "pt": "o colchão",
+      "de": "die Matratze",
+      "en": "the mattress",
+      "example": "Decide queimar colchão na fábrica",
+      "example_de": "Er beschloss, die Matratze in der Fabrik zu verbrennen",
+      "example_en": "He decided to burn the mattress in the factory"
+    },
+    {
+      "pt": "a alcunha",
+      "de": "der Spitzname",
+      "en": "the nickname",
+      "example": "Ganhou uma curiosa alcunha",
+      "example_de": "Erhielt einen kuriosen Spitznamen",
+      "example_en": "Got a curious nickname"
+    },
+    {
+      "pt": "frenético",
+      "de": "hektisch",
+      "en": "frenetic/frantic",
+      "example": "O ritmo frenético da cidade",
+      "example_de": "Das hektische Tempo der Stadt",
+      "example_en": "The frantic pace of the city"
+    },
+    {
+      "pt": "o arranha-céu",
+      "de": "der Wolkenkratzer",
+      "en": "the skyscraper",
+      "example": "Não há arranha-céus",
+      "example_de": "Es gibt keine Wolkenkratzer",
+      "example_en": "There are no skyscrapers"
+    },
+    {
+      "pt": "regularizado",
+      "de": "geprüft/regulär",
+      "en": "regularized/up to date",
+      "example": "Tinha a inspeção regularizada",
+      "example_de": "Hatte die Prüfung auf dem neuesten Stand",
+      "example_en": "Had the inspection up to date"
+    },
+    {
+      "pt": "o caçoilo",
+      "de": "der Tontopf",
+      "en": "the clay pot",
+      "example": "Confecionada em caçoilos de barro",
+      "example_de": "Zubereitet in Tontöpfen",
+      "example_en": "Prepared in clay pots"
+    },
+    {
+      "pt": "dar o alerta",
+      "de": "Alarm schlagen",
+      "en": "to raise the alarm",
+      "example": "Estudantes dão o alerta para incêndio",
+      "example_de": "Studenten schlagen Alarm wegen Brand",
+      "example_en": "Students raise the alarm for fire"
+    },
+    {
+      "pt": "certificado",
+      "de": "zertifiziert",
+      "en": "certified",
+      "example": "Caçoilos de barro certificado",
+      "example_de": "Zertifizierte Tontöpfe",
+      "example_en": "Certified clay pots"
+    },
+    {
+      "pt": "a vereda",
+      "de": "der Pfad",
+      "en": "the trail/path",
+      "example": "Vários percursos pedestres e veredas",
+      "example_de": "Verschiedene Wanderwege und Pfade",
+      "example_en": "Various hiking routes and trails"
+    },
+    {
+      "pt": "confecionar",
+      "de": "zubereiten",
+      "en": "to prepare/cook",
+      "example": "Chanfana confecionada em caçoilos",
+      "example_de": "Chanfana zubereitet in Tontöpfen",
+      "example_en": "Chanfana prepared in clay pots"
+    },
+    {
+      "pt": "a destreza",
+      "de": "die Geschicklichkeit",
+      "en": "the skill/dexterity",
+      "example": "A destreza dos operacionais",
+      "example_de": "Die Geschicklichkeit der Einsatzkräfte",
+      "example_en": "The skill of the operatives"
+    },
+    {
+      "pt": "o vestígio",
+      "de": "die Spur/Überrest",
+      "en": "the trace/remnant",
+      "example": "Vestígios de um castro luso-romano",
+      "example_de": "Überreste einer luso-römischen Siedlung",
+      "example_en": "Traces of a Luso-Roman settlement"
+    },
+    {
+      "pt": "recorrer a",
+      "de": "zurückgreifen auf",
+      "en": "to resort to/use",
+      "example": "Tiveram de recorrer a uma escada",
+      "example_de": "Sie mussten auf eine Leiter zurückgreifen",
+      "example_en": "They had to resort to a ladder"
+    }
   ]
 }
