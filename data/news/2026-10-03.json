@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & CIDADE",
+      "stories": [
+        {
+          "headline": "Cortejo da Latada vai parar Coimbra: há mudanças no Metrobus",
+          "text": "A Metro Mondego vai alterar a operação do Metrobus no domingo, 4 de outubro, devido à realização do Cortejo da Latada. A partir das 12:00, a circulação será interrompida entre a Loja de Cidadão e a Praça da República, passando as ligações a serem realizadas a partir do terminal de Coimbra-B."
+        },
+        {
+          "headline": "Estudantes dão o alerta para incêndio que enche prédio de fumo em Coimbra",
+          "text": "Um incêndio deflagrou na noite de sexta-feira em detritos de obras numa varanda na Avenida Fernão de Magalhães. Os bombeiros tiveram dificuldade no acesso e recorreram a uma escada de gancho para chegar à zona afetada."
+        },
+        {
+          "headline": "Decide queimar colchão na antiga fábrica de porcelana de Coimbra",
+          "text": "Um morador ateou fogo a um colchão na antiga fábrica de porcelana porque os cães andavam a roê-lo. O incêndio já se encontrava extinto à chegada dos bombeiros, mas o fumo levou populares a dar o alerta."
+        },
+        {
+          "headline": "Núcleo Mondego Sul celebra 33 anos e empossa nova Junta",
+          "text": "O Núcleo Mondego Sul do Corpo Nacional de Escutas assinalou 33 anos de existência com a tomada de posse da nova Junta de Núcleo para o triénio 2026-2029. A nova equipa é liderada por Henrique Sá com o lema 'Construir com Propósito'."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "GNR trava homem com mais de 1.400 doses de droga na A5",
+          "text": "Um homem de 31 anos foi detido na Autoestrada 5, no sentido Lisboa-Cascais, por suspeita de tráfico de droga. A GNR apreendeu mais de 1.400 doses de estupefacientes durante a operação da Unidade Nacional de Trânsito."
+        },
+        {
+          "headline": "GNR apreende 2.350 litros de gasolina e embarcação de alta velocidade",
+          "text": "A GNR apreendeu 94 jerricãs com 2.350 litros de gasolina e uma embarcação de alta velocidade com quatro motores de 300 cavalos na praia da Boca do Rio, Vila do Bispo, no Algarve. A operação foi realizada pela Unidade de Controlo Costeiro e de Fronteiras."
+        },
+        {
+          "headline": "Operação Influencer: André Ventura rejeita que António Costa seja uma vítima",
+          "text": "O líder do Chega recusou que o ex-primeiro-ministro António Costa seja uma vítima por estar impedido de consultar o processo Operação Influencer, criticando o mediatismo em torno do caso e afirmando que há uma teia que já ficou evidente."
+        },
+        {
+          "headline": "Autocarro que se incendiou em Leiria tinha inspeção regularizada",
+          "text": "O autocarro da rede Mobilis que se incendiou na terça-feira tinha a inspeção feita em janeiro deste ano, sem qualquer deficiência. O veículo, cuja matrícula datava de 2005, pertencia à linha 3 dos transportes urbanos de Leiria."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Operação Chanfana: Vila Nova de Poiares prepara-se para enchente",
+          "text": "A Confraria da Chanfana realiza no domingo 4 de outubro a 'Operação Chanfana', assinalando 25 anos da confraria. Será servida chanfana gratuita confecionada em caçoilos de barro certificado, com mais de 60 voluntários. A organização admite candidatura ao Guinness World Records."
+        },
+        {
+          "headline": "Mosteiro de Lorvão recebe festa dos doces",
+          "text": "Entre 3 e 5 de outubro, o monumento em Penacova recebe a 5.ª Mostra Nacional de Doçaria Conventual, com cerca de duas dezenas de doceiros de vários pontos do país. Os pastéis de Lorvão e as nevadas estão entre as especialidades."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "João Rasteiro apresenta 'A Beleza da Queda' em Coimbra",
+          "text": "O escritor João Rasteiro apresenta o seu mais recente livro no domingo às 16:00, no Hotel Quinta das Lágrimas. A sessão conta com António Carlos Cortez e um momento musical por Fernando Meireles."
+        },
+        {
+          "headline": "Coimbra recebe concerto onde a música nasce no momento",
+          "text": "A Casa Museu Bissaya Barreto recebe este sábado às 22h00 o concerto 'Body Sound', com três artistas ligadas à música improvisada de Chicago. O espetáculo cruza viola, violoncelo e violino, construindo a música a partir da improvisação sem composição fechada. Bilhetes: 6 euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO & DESCOBERTAS",
+      "stories": [
+        {
+          "headline": "Há uma aldeia conhecida como a 'Nova York' portuguesa",
+          "text": "Em plena Covilhã, Verdelhos ganhou a curiosa alcunha de 'Nova Iorque'. Apesar do nome, não há arranha-céus nem ritmo frenético - apenas natureza, percursos pedestres e vestígios de um castro luso-romano. Há praia fluvial, barragem e formação rochosa do Aguilhão."
+        },
+        {
+          "headline": "A 'Aldeia Mágica' sem carros nem rede de telemóvel",
+          "text": "Drave, no concelho de Arouca, é uma aldeia sem eletricidade nem água canalizada, escondida entre a Serra da Freita, São Macário e Arada. Fica a 2 horas de Coimbra e parece saída de outro tempo, integrada em percursos pedestres da região."
+        },
+        {
+          "headline": "Guarda quer novas variantes da IC7 após Conselho de Ministros",
+          "text": "A Guarda recebeu a reunião do Conselho de Ministros, reforçando a agenda estratégica para o desenvolvimento da região. O autarca reivindica a IC7 e a segunda fase das obras do hospital da cidade, com o Governo a aprovar linha de financiamento para projetos do PRR em conclusão."
+        }
+      ]
+    }
+  ]
+}
