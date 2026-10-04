@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Falsa taróloga burla vítima em mais de 400 mil euros",
+          "text": "Uma falsa taróloga e o marido ficaram em prisão preventiva depois de terem sido detidos por suspeita de burlarem através da internet uma cidadã em mais de 400 mil euros. O casal estrangeiro aproveitava-se da vítima prometendo \"benzer\" e \"purificar\" dinheiro, anunciou a PJ através da Diretoria do Centro."
+        },
+        {
+          "headline": "PJ apanha mulheres com 11 quilos de cocaína no aeroporto",
+          "text": "A Polícia Judiciária deteve no Aeroporto Humberto Delgado, em Lisboa, três mulheres estrangeiras que transportavam dissimulado nas bagagens 11 quilos de cocaína com elevado grau de pureza. A operação esteve a cargo da Unidade Nacional de Combate ao Tráfico de Estupefacientes. As detidas, com idades entre os 24 e 35 anos, foram já ouvidas em primeiro interrogatório judiciário."
+        },
+        {
+          "headline": "Roubo e contrafação: GNR detém seis suspeitos em Condeixa",
+          "text": "A GNR deteve um homem de 42 anos suspeito de roubo durante uma operação no Mercado de Condeixa-a-Nova. A ação do Posto Territorial contou com o apoio dos Núcleos de Investigação Criminal de Coimbra e Cantanhede, e levou à identificação de seis indivíduos suspeitos."
+        },
+        {
+          "headline": "Vestia colete dos CTT e levantava encomendas sem pagar",
+          "text": "Dois homens foram detidos pela GNR de Silves por burla, depois de terem levantado várias encomendas dos CTT. Os suspeitos faziam-se passar por funcionários vestindo colete dos CTT, com o objetivo de levantar encomendas sem proceder ao respetivo pagamento."
+        },
+        {
+          "headline": "Ministra da Justiça analisa pedidos sobre Rui Pinto",
+          "text": "A ministra da Justiça está a analisar os pedidos relacionados com a retirada de proteção especial a Rui Pinto, responsável pelos Football Leaks."
+        }
+      ]
+    },
+    {
+      "emoji": "🚦",
+      "category": "ACIDENTES & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Agressões físicas mútuas entre passageiros e motorista da FlixBus",
+          "text": "Uma desordem junto à estação rodoviária da FlixBus, em Coimbra, terminou com agressões físicas entre dois passageiros e o motorista de um autocarro. Os meios policiais da PSP foram chamados ao local pelas 08:00 na manhã de sábado."
+        },
+        {
+          "headline": "Sorte protege peregrinos de acidente no IC2",
+          "text": "Um carro entrou em contramão no IC2, em Cernache, e embateu em duas viaturas que circulavam no sentido contrário. O acidente aconteceu numa zona onde passam peregrinos a caminho de Fátima para as celebrações do 13 de outubro. Por sorte, nenhum peregrino estava a passar no local no momento da colisão."
+        },
+        {
+          "headline": "Motociclista hospitalizado após colisão em Mira",
+          "text": "Um homem de cerca de 70 anos ficou ferido na sequência de uma colisão entre um veículo ligeiro e uma mota, na Lentisqueira, no concelho de Mira. O alerta foi dado pelas 15:36 e o ferido, condutor da mota, foi considerado ferido ligeiro e transportado para o hospital."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Montemor-o-Velho leva \"Natureza e Cor\" à Capela de Santo António",
+          "text": "A Capela de Santo António, na envolvente sul do Castelo de Montemor-o-Velho, recebe entre 7 de outubro e 31 de dezembro a exposição coletiva \"Natureza e Cor: Outono\". A mostra reúne trabalhos de pintura e escultura, colocando em diálogo diferentes formas de interpretar a natureza, a paisagem, a cor e a matéria."
+        },
+        {
+          "headline": "Há mistérios e um \"Museu Assombrado\" no Portugal dos Pequenitos",
+          "text": "O Portugal dos Pequenitos preparou uma programação especial com mistérios, enigmas e um museu assombrado para descobrir, oferecendo uma experiência diferente para famílias este fim de semana."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Vila Nova de Poiares oferece toneladas de chanfana à borla",
+          "text": "A Confraria da Chanfana celebra 25 anos com a \"Operação Chanfana\" neste 4 de outubro. Entre as 12:00 e as 18:00, a Alameda de Santo André vai receber a iniciativa onde a chanfana será distribuída gratuitamente. A tradição remonta às invasões francesas, quando freiras portuguesas cozinhavam carne de cabra ou ovelha com vinho tinto numa caçarola de barro preta. A carne é marinada durante 24 horas com vinho tinto, azeite, alho, colorau, sal e malagueta antes de ir ao forno a lenha."
+        },
+        {
+          "headline": "O melhor toucinho do céu num mosteiro perto de Coimbra",
+          "text": "O mosteiro perto de Coimbra oferece a oportunidade de provar o melhor toucinho do céu este fim de semana, numa iniciativa que celebra a doçaria conventual da região."
+        },
+        {
+          "headline": "Freira trouxe doces de Tentúgal à Mostra Nacional de Doçaria Conventual",
+          "text": "Uma freira saiu do convento e trouxe os doces mais famosos de Tentúgal à Mostra Nacional de Doçaria Conventual em Penacova, celebrando a tradição da doçaria conventual portuguesa."
+        },
+        {
+          "headline": "Rancho de leitão chega a Fiais da Telha",
+          "text": "O prato que junta duas paixões portuguesas - rancho e leitão - chega a Fiais da Telha, oferecendo uma combinação inédita de sabores tradicionais."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "TEMP & CIDADE",
+      "stories": [
+        {
+          "headline": "A chuva vai estragar o Cortejo da Latada?",
+          "text": "O cortejo da Festa das Latas, em Coimbra, realiza-se neste domingo, 4 de outubro, com a chuva e a trovoada como possibilidades ao longo do dia. Segundo o IPMA, estão previstos períodos de céu muito nublado e aguaceiros, que poderão ser acompanhados de trovoada, sobretudo durante a tarde."
+        }
+      ]
+    },
+    {
+      "emoji": "💧",
+      "category": "REGIÃO & INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "Telemetria residencial moderniza gestão de água na Sertã",
+          "text": "O Município da Sertã implementou um projeto piloto de telemetria residencial, instalando contadores eletrónicos inteligentes na Rua Ângelo Pedro Farinha. Cerca de 70 contadores volumétricos tradicionais foram substituídos por contadores inteligentes de tecnologia ultrassónica para monitorização dos consumos de água."
+        },
+        {
+          "headline": "Homem morre em incêndio na Rua Senhora da Boa Morte",
+          "text": "Um incêndio numa habitação na Rua da Senhora da Boa Morte, no centro histórico de Viseu, provocou a morte de um homem e deixou outras cinco pessoas feridas. O fogo deflagrou por volta das 23:00, tendo as chamas começado no primeiro andar."
+        }
+      ]
+    }
+  ]
+}
