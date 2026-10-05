@@ -28962,5 +28962,127 @@
       "pt": "a escultura",
       "de": "die Skulptur"
     }
+  ],
+  "2026-10-05": [
+    {
+      "pt": "a urna",
+      "de": "die Wahlurne",
+      "en": "the ballot box",
+      "example": "As urnas fecharam às 17:00 no Brasil.",
+      "example_de": "Die Wahlurnen schlossen um 17 Uhr in Brasilien.",
+      "example_en": "The ballot boxes closed at 5 PM in Brazil."
+    },
+    {
+      "pt": "subir",
+      "de": "steigen",
+      "en": "to rise, increase",
+      "example": "A criminalidade juvenil subiu 11,6% este ano.",
+      "example_de": "Die Jugendkriminalität stieg in diesem Jahr um 11,6%.",
+      "example_en": "Youth crime rose 11.6% this year."
+    },
+    {
+      "pt": "a secção de voto",
+      "de": "das Wahllokal",
+      "en": "the polling station",
+      "example": "Com 64,81% das secções de voto contadas, Flávio lidera.",
+      "example_de": "Mit 64,81% der Wahllokale gezählt führt Flávio.",
+      "example_en": "With 64.81% of polling stations counted, Flávio leads."
+    },
+    {
+      "pt": "discursar",
+      "de": "eine Rede halten",
+      "en": "to give a speech",
+      "example": "O Presidente da República discursa hoje na Praça do Município.",
+      "example_de": "Der Staatspräsident hält heute eine Rede auf dem Rathausplatz.",
+      "example_en": "The President gives a speech today at the City Hall square."
+    },
+    {
+      "pt": "a implantação",
+      "de": "die Einführung",
+      "en": "the establishment, implementation",
+      "example": "Hoje comemora-se a implantação da República em Portugal.",
+      "example_de": "Heute feiert man die Einführung der Republik in Portugal.",
+      "example_en": "Today celebrates the establishment of the Republic in Portugal."
+    },
+    {
+      "pt": "a quina",
+      "de": "der Wappenschild",
+      "en": "the shield (of Portuguese coat of arms)",
+      "example": "A equipa das quinas deu a volta ao jogo.",
+      "example_de": "Das Schild-Team drehte das Spiel.",
+      "example_en": "The shields team turned the game around."
+    },
+    {
+      "pt": "adiantar-se",
+      "de": "sich vorwagen",
+      "en": "to take the lead, go ahead",
+      "example": "A Noruega adiantou-se no marcador aos 36 minutos.",
+      "example_de": "Norwegen ging in der 36. Minute in Führung.",
+      "example_en": "Norway took the lead at the 36th minute."
+    },
+    {
+      "pt": "despido",
+      "de": "entkleidet",
+      "en": "undressed, stripped",
+      "example": "O homem foi encontrado morto e despido da cintura para baixo.",
+      "example_de": "Der Mann wurde tot und entkleidet ab der Taille gefunden.",
+      "example_en": "The man was found dead and undressed from the waist down."
+    },
+    {
+      "pt": "o antecedente criminal",
+      "de": "das Vorstrafenregister",
+      "en": "the criminal record",
+      "example": "Ambos têm antecedentes criminais no Brasil.",
+      "example_de": "Beide haben ein Vorstrafenregister in Brasilien.",
+      "example_en": "Both have criminal records in Brazil."
+    },
+    {
+      "pt": "a morcela",
+      "de": "die Blutwurst",
+      "en": "the blood sausage",
+      "example": "A confraria levou morcela e farinheira ao festival.",
+      "example_de": "Die Bruderschaft brachte Blutwurst und Mehlwurst zum Festival.",
+      "example_en": "The brotherhood brought blood sausage and flour sausage to the festival."
+    },
+    {
+      "pt": "o serrabulho",
+      "de": "der Schweinebluteintopf",
+      "en": "pig blood stew (traditional dish)",
+      "example": "O serrabulho é um prato tradicional da matança do porco.",
+      "example_de": "Serrabulho ist ein traditionelles Gericht der Schweineschlachtung.",
+      "example_en": "Serrabulho is a traditional dish from pig slaughter."
+    },
+    {
+      "pt": "a broa",
+      "de": "das Maisbrot",
+      "en": "cornbread",
+      "example": "Broa, carneiro e música tradicional animaram a Aldeia do Boco.",
+      "example_de": "Maisbrot, Hammel und traditionelle Musik belebten das Dorf Boco.",
+      "example_en": "Cornbread, mutton and traditional music livened up Boco village."
+    },
+    {
+      "pt": "a inscrição prévia",
+      "de": "die Voranmeldung",
+      "en": "prior registration",
+      "example": "A visita ao cemitério é gratuita, mediante inscrição prévia.",
+      "example_de": "Der Friedhofsbesuch ist kostenlos, gegen Voranmeldung.",
+      "example_en": "The cemetery visit is free, upon prior registration."
+    },
+    {
+      "pt": "a boavinda",
+      "de": "der Willkommensgruß",
+      "en": "the welcome",
+      "example": "O Coração da Bairrada dá as boas-vindas a quem chega.",
+      "example_de": "Das Herz der Bairrada begrüßt die Ankommenden willkommen.",
+      "example_en": "The Heart of Bairrada welcomes those who arrive."
+    },
+    {
+      "pt": "a variante",
+      "de": "die Umgehungsstraße",
+      "en": "the bypass road, variant",
+      "example": "A Guarda quer novas variantes da IC7 e mais investimento.",
+      "example_de": "Guarda will neue Umgehungsstraßen der IC7 und mehr Investitionen.",
+      "example_en": "Guarda wants new IC7 bypasses and more investment."
+    }
   ]
 }
