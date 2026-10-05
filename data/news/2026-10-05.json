@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🗳️",
+      "category": "MUNDO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Flávio Bolsonaro lidera eleições presidenciais brasileiras",
+          "text": "O candidato Flávio Bolsonaro lidera a contagem parcial com 49,58% dos votos, seguido do atual Presidente Lula da Silva com 42,25%, quando estão contadas 64,81% das secções de voto. Os números do Tribunal Superior Eleitoral começaram a ser divulgados após o fecho das urnas às 17:00 (21:00 em Lisboa)."
+        },
+        {
+          "headline": "António José Seguro discursa pela 1ª vez nas comemorações da Implantação da República",
+          "text": "O Presidente da República discursa hoje, pela primeira vez, na cerimónia de aniversário da implantação da República, na Praça do Município, em Lisboa. A intervenção será antecedida pela do presidente da Câmara, Carlos Moedas, e pelo hastear da bandeira portuguesa ao som do hino nacional."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Portugal apurado para quartos de final da Liga das Nações",
+          "text": "Portugal garantiu o apuramento para os quartos de final da Liga das Nações depois da vitória por 2-1, com reviravolta, na receção à Noruega. No Estádio do Dragão, a Noruega adiantou-se no marcador com um golo de Kristoffer Ajer aos 36 minutos, mas a equipa das quinas deu a volta e virou o jogo."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Festa das Latas: Câmara mobiliza 40 operacionais para limpar cortejo",
+          "text": "A Câmara Municipal de Coimbra tem no terreno uma operação reforçada de limpeza na Alta e Baixa da cidade, na sequência do Cortejo da Festa das Latas e Imposição de Insígnias. Os trabalhos começaram imediatamente após a saída dos estudantes do Largo D. Dinis, mobilizando 40 operacionais apoiados por meios mecânicos."
+        },
+        {
+          "headline": "Famílias juntam-se em festa para ver caloiros desfilar na Latada",
+          "text": "Famílias chegaram de várias partes do país para ver os caloiros desfilarem na Latada de Coimbra. «É um orgulho», dizem os pais que se juntam em festa para acompanhar a tradição académica que enche as ruas da cidade de cor e alegria."
+        },
+        {
+          "headline": "Cemitério da Conchada abre portas para revelar histórias e segredos",
+          "text": "A Câmara Municipal de Coimbra promove no dia 10 de outubro uma visita guiada ao Cemitério da Conchada, integrada na 5ª Semana Cultural nos Cemitérios. A iniciativa convida a descobrir o cemitério enquanto lugar de memória e património da cidade, através das histórias e personalidades que marcam este espaço inaugurado em 1860. Participação gratuita, mediante inscrição prévia."
+        }
+      ]
+    },
+    {
+      "emoji": "🥩",
+      "category": "REGIÃO & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "Da matança do porco à mesa: tradição que Miranda do Corvo quer manter viva",
+          "text": "A Confraria da Matança do Porco levou ao OINK! Pork Festival enchidos como morcela, farinheira, chouriço e serrabulho. A confraria recupera uma tradição que durante gerações foi sinónimo de convívio entre famílias e amigos. Há tradições que não se querem apenas recordar - querem-se provar, partilhar e manter vivas."
+        },
+        {
+          "headline": "Esqueça a chanfana: Miranda do Corvo quer pôr o porco no centro da mesa",
+          "text": "O OINK! Pork Festival desafia a tradição da chanfana e coloca o porco no centro da mesa em Miranda do Corvo. O evento celebra a matança do porco como património culinário regional, com pudim que leva toucinho a conquistar visitantes."
+        },
+        {
+          "headline": "Broa, carneiro e música tradicional na Aldeia do Boco",
+          "text": "A Aldeia do Boco animou o fim de semana com broa, carneiro e música tradicional. O evento trouxe vida à aldeia, celebrando costumes rurais e sabores regionais que atraem visitantes de toda a região."
+        },
+        {
+          "headline": "Toucinho do céu num mosteiro perto de Coimbra",
+          "text": "O melhor toucinho do céu encontra-se num mosteiro perto de Coimbra e pode ser provado este fim de semana. A doçaria conventual continua a ser um dos grandes atrativos gastronómicos da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Homem agredido até à morte com uma pá num quintal",
+          "text": "Um homem morreu depois de ter sido violentamente agredido com uma pá num quintal, no bairro do Talude, em Loures. O alerta foi dado aos Bombeiros de Camarate pelas 19:24. Quando chegaram ao local, os operacionais encontraram a vítima caída sobre uma rede. O óbito foi declarado no local."
+        },
+        {
+          "headline": "PJ de Coimbra detém casal que sacava dinheiro para ser «benzido»",
+          "text": "Uma falsa taróloga e o marido ficaram em prisão preventiva depois de terem sido detidos por suspeita de burlarem uma cidadã em mais de 400 mil euros. A detida promovia serviços esotéricos nas redes sociais e convencia a vítima a entregar dinheiro para ser «benzido» e «purificado». O casal exibia um estilo de vida luxuoso nas redes sociais e tem antecedentes criminais no Brasil."
+        },
+        {
+          "headline": "Jovens cometem mais crimes: novo problema está nas redes sociais",
+          "text": "A criminalidade juvenil subiu 11,6% no primeiro semestre deste ano, embora com um recuo de 44% dos delitos violentos. A GNR alerta para o aumento dos crimes no espaço digital, com o número total de participações associadas a jovens até aos 16 anos a subir de 714 para 797."
+        }
+      ]
+    },
+    {
+      "emoji": "🛡️",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Tarouca recebe novo trator para reforçar prevenção de incêndios",
+          "text": "O Município de Tarouca recebeu um novo trator destinado a reforçar os meios para a gestão de combustíveis e prevenção de incêndios rurais. A entrega decorreu na Casa do Paço de Dalvares, presidida pelo Secretário de Estado das Florestas, Rui Ladeira."
+        },
+        {
+          "headline": "Telemetria residencial moderniza gestão de água na Sertã",
+          "text": "O Município da Sertã implementou um projeto piloto de telemetria residencial com contadores eletrónicos inteligentes. Cerca de 70 contadores tradicionais foram substituídos por contadores inteligentes de tecnologia ultrassónica para monitorização dos consumos de água."
+        },
+        {
+          "headline": "Guarda quer novas variantes da IC7 e mais investimento",
+          "text": "A Guarda pretende novas variantes da IC7 e mais investimento após a reunião do Conselho de Ministros. A região reivindica melhorias nas infraestruturas rodoviárias para garantir desenvolvimento económico."
+        }
+      ]
+    }
+  ]
+}
