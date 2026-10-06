@@ -29084,5 +29084,95 @@
       "example_de": "Guarda will neue Umgehungsstraßen der IC7 und mehr Investitionen.",
       "example_en": "Guarda wants new IC7 bypasses and more investment."
     }
+  ],
+  "2026-10-06": [
+    {
+      "pt": "o caçador",
+      "de": "Jäger",
+      "en": "hunter",
+      "example": "O caçador disparou e dois militares ficaram feridos",
+      "example_de": "Der Jäger schoss und zwei Soldaten wurden verletzt",
+      "example_en": "The hunter fired and two soldiers were injured"
+    },
+    {
+      "pt": "o ricochete",
+      "de": "Abpraller, Querschläger",
+      "en": "ricochet",
+      "example": "O disparo fez ricochete e atingiu os militares",
+      "example_de": "Der Schuss prallte ab und traf die Soldaten",
+      "example_en": "The shot ricocheted and hit the soldiers"
+    },
+    {
+      "pt": "a peixeira",
+      "de": "Fischverkäuferin",
+      "en": "fishmonger (woman)",
+      "example": "A peixeira e o marido atacaram o vizinho",
+      "example_de": "Die Fischverkäuferin und ihr Mann griffen den Nachbarn an",
+      "example_en": "The fishmonger and her husband attacked the neighbor"
+    },
+    {
+      "pt": "a casta",
+      "de": "Rebsorte",
+      "en": "grape variety",
+      "example": "A Baga é uma casta tinta da Bairrada",
+      "example_de": "Baga ist eine rote Rebsorte aus der Bairrada",
+      "example_en": "Baga is a red grape variety from Bairrada"
+    },
+    {
+      "pt": "intransitável",
+      "de": "unpassierbar",
+      "en": "impassable",
+      "example": "A via está intransitável devido à derrocada",
+      "example_de": "Die Strasse ist wegen des Erdrutsches unpassierbar",
+      "example_en": "The road is impassable due to the landslide"
+    },
+    {
+      "pt": "recear",
+      "de": "befürchten, sich sorgen",
+      "en": "to fear, to worry",
+      "example": "Os moradores receiam que o socorro demore demasiado",
+      "example_de": "Die Bewohner befürchten, dass die Hilfe zu lange dauert",
+      "example_en": "The residents fear that emergency help will take too long"
+    },
+    {
+      "pt": "ganhar vida",
+      "de": "zum Leben erwachen",
+      "en": "to come to life",
+      "example": "O menino vê o sonho ganhar vida",
+      "example_de": "Der Junge sieht den Traum lebendig werden",
+      "example_en": "The boy sees his dream come to life"
+    },
+    {
+      "pt": "ficar sem um cêntimo",
+      "de": "keinen Cent mehr haben",
+      "en": "to be left without a cent",
+      "example": "Diana Fialho vai ficar sem um cêntimo",
+      "example_de": "Diana Fialho wird keinen Cent mehr haben",
+      "example_en": "Diana Fialho will be left without a cent"
+    },
+    {
+      "pt": "o marisco",
+      "de": "Meeresfrüchte",
+      "en": "seafood",
+      "example": "Há um barco carregado de marisco na Figueira da Foz",
+      "example_de": "Es gibt ein Boot voller Meeresfrüchte in Figueira da Foz",
+      "example_en": "There's a boat loaded with seafood in Figueira da Foz"
+    },
+    {
+      "pt": "a frente marítima",
+      "de": "Küstenfront, Strandpromenade",
+      "en": "seafront",
+      "example": "A estabilidade da frente marítima preocupa no inverno",
+      "example_de": "Die Stabilität der Küstenfront sorgt im Winter für Sorge",
+      "example_en": "The stability of the seafront is a winter concern"
+    },
+    {
+      "pt": "a calçadão",
+      "de": "Promenade, Boardwalk",
+      "en": "boardwalk, seaside promenade",
+      "example": "O colapso destruiu um troço da estrada e do calçadão",
+      "example_de": "Der Einsturz zerstörte ein Stück Strasse und Promenade",
+      "example_en": "The collapse destroyed a section of road and boardwalk"
+    }
   ]
 }
