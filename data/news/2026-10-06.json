@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Trovoada, vento forte e granizo assustaram a região de Coimbra",
+          "text": "A madrugada e início da manhã desta terça-feira ficaram marcados por instabilidade meteorológica em vários pontos do distrito de Coimbra, com vento forte, trovoada e queda de granizo. Os fenómenos foram sentidos em Pampilhosa da Serra, Tábua, Arganil e Lousã."
+        },
+        {
+          "headline": "Despiste na A14 em Montemor-o-Velho faz 1 ferido",
+          "text": "Um despiste de um veículo ligeiro provocou um ferido na A14, no sentido Figueira da Foz-Coimbra, na zona de Arazede. O alerta foi dado às 7:23, com mobilização dos Bombeiros Voluntários de Montemor-o-Velho, Brisa e GNR."
+        },
+        {
+          "headline": "Incêndio numa garagem em Miranda do Corvo",
+          "text": "Bombeiros deslocaram-se ao local para combater um incêndio numa garagem em Miranda do Corvo. Sem mais detalhes disponíveis (artigo subscritor)."
+        },
+        {
+          "headline": "Inverno pode agravar \"ferida\" aberta na Figueira da Foz",
+          "text": "A aproximação do inverno aumenta a preocupação com a estabilidade da frente marítima da praia do Teimoso, em Buarcos. O local permanece interditado desde o colapso de parte da arriba que destruiu um troço da estrada e do calçadão."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Estrada fechada na Pampilhosa da Serra desde a tempestade Kristin",
+          "text": "Moradores de várias aldeias receiam que a via intransitável devido a uma derrocada possa atrasar o socorro numa emergência. O desvio aumenta o tempo de viagem, preocupando sobretudo os habitantes mais idosos."
+        },
+        {
+          "headline": "Caçador dispara e dois militares da GNR ficam feridos em Castelo Branco",
+          "text": "Dois militares do SEPNA da GNR ficaram feridos durante uma operação de fiscalização cinegética na zona da Feiteira. Os militares preparavam-se para abordar um caçador quando foram atingidos por um disparo que fez ricochete."
+        },
+        {
+          "headline": "Camião despista-se e tomba na A32: autoestrada cortada num sentido",
+          "text": "Um camião despistou-se e tombou na A32, levando ao encerramento da autoestrada num dos sentidos. Equipas de emergência deslocaram-se ao local."
+        },
+        {
+          "headline": "Padre e bombeiro aos 33 anos: Daniel Barroso tem nova missão na capelania",
+          "text": "Daniel Barroso, que é simultaneamente padre e bombeiro, assumiu agora uma missão especial na nova capelania, combinando as suas duas vocações ao serviço da comunidade."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "\"Perdi o controlo\": Peixeiro e mulher atacam vizinho PSP no Prior Velho",
+          "text": "O homem envolvido em confrontos físicos com um agente da PSP de folga, numa discussão de trânsito em Loures, foi condenado a quatro anos de prisão com pena suspensa. A mulher recebeu três anos e quatro meses, igualmente suspensos."
+        },
+        {
+          "headline": "Irmã muda-se para casa de idosa de 80 anos e é acusada de lhe tirar 71 mil euros",
+          "text": "Uma irmã que se mudou para casa de uma idosa supostamente para cuidar dela acabou acusada de lhe ter subtraído 71 mil euros."
+        },
+        {
+          "headline": "Diana Fialho matou a mãe adotiva para ficar com a herança e vai ficar sem um cêntimo",
+          "text": "Diana Fialho, que matou a mãe adotiva para herdar os bens, vai ficar sem qualquer quantia da herança, segundo decisão judicial."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Avioneta aterra em campo agrícola em Serpa e piloto foge de táxi",
+          "text": "Uma avioneta aterrou inesperadamente num campo agrícola da Herdade da Lobata, em Serpa. O piloto pediu aos trabalhadores para não alertarem as autoridades e chamou um táxi, deixando 2 mil euros para trás."
+        },
+        {
+          "headline": "Fugiu da guerra e quer ser bombeiro: Vitor, 10 anos, vê o sonho ganhar vida",
+          "text": "Vitor, criança ucraniana refugiada em Merufe, Monção, desde 2022, realizou o sonho de ser bombeiro por um dia. Chegou a Portugal com os pais e nove irmãos e nunca abandonou a vontade de pertencer ao corpo de bombeiros."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "VAMOS & LAZER",
+      "stories": [
+        {
+          "headline": "Portugal mete 3 castas no top 10 das melhores da Europa: Baga da Bairrada em 6º lugar",
+          "text": "O TasteAtlas colocou a Baga, casta tinta da Bairrada, em 6º lugar no ranking das melhores castas europeias, à frente de variedades mundialmente famosas. Touriga Nacional (9º) e Tinta Roriz (10º) também figuram no top 10."
+        },
+        {
+          "headline": "Festa d'Anaia regressa à Pena, Cantanhede, nos dias 11 e 12 de outubro",
+          "text": "A aldeia da Pena, em Cantanhede, vai deixar de ser tranquila durante dois dias por uma boa razão: a Festa d'Anaia está de volta, com música, exposições e cultura da Bairrada para todos os gostos."
+        },
+        {
+          "headline": "Há 2 snacks portugueses entre os melhores do mundo",
+          "text": "Dois snacks portugueses figuram entre os melhores do mundo num ranking internacional, sendo um descrito como tendo sabor a praia e o outro como um clássico."
+        }
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Coimbra defende inovação urbana ao serviço dos problemas concretos das pessoas",
+          "text": "A presidente da Câmara Ana Abrunhosa encerrou a conferência internacional \"My City, Our Lab\" dizendo que uma cidade não é inteligente por acumular tecnologia, mas sim quando consegue usar conhecimento e criatividade para resolver problemas reais das pessoas."
+        }
+      ]
+    }
+  ]
+}
