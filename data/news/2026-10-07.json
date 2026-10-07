@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "63 pessoas desapareceram no distrito de Coimbra desde o início do ano",
+          "text": "A GNR registou 964 participações de pessoas desaparecidas em todo o país até 31 de agosto, quase quatro casos por dia. Coimbra contabiliza 63 ocorrências, ficando atrás do Porto (138), Setúbal (112), Lisboa (108) e Aveiro (108). Os números não incluem setembro nem outubro."
+        },
+        {
+          "headline": "Coimbra prepara-se para uma reviravolta no tempo",
+          "text": "Depois de dias com temperaturas mais frescas, os termómetros preparam-se para recuperar em Portugal continental. A subida deverá ser particularmente sentida esta quinta-feira, com algumas regiões a registarem diferenças de cerca de quatro graus em apenas 24 horas, segundo a Meteored."
+        },
+        {
+          "headline": "Estrada fechada em Montemor-o-Velho entre 7 e 9 de outubro",
+          "text": "O trânsito automóvel vai estar temporariamente cortado entre a Ponte de Formoselha e a Ponte de Pereira, num troço de cerca de 2,5 quilómetros, devido a trabalhos de movimentação de terras. O município apela aos automobilistas para que respeitem a sinalização e utilizem os desvios assinalados."
+        },
+        {
+          "headline": "Oliveira do Hospital celebra Feriado Municipal com concertos, castanhas e stand-up comedy",
+          "text": "O programa do feriado municipal, assinalado esta quarta-feira, inclui uma arruada pelas ruas da cidade, o hastear da bandeira, sessão solene e homenagem a cidadãos destacados. Ao longo do mês há exposição de pintura, mercado da castanha, mostra intercultural, encontro literário e uma noite de stand-up comedy com Dário Guerreiro."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra dá as boas-vindas ao novo ano letivo 2026/27",
+          "text": "A cerimónia de Abertura Solene das Aulas realiza-se esta quarta-feira na Sala Grande dos Atos, com discursos do Reitor Amílcar Falcão e do presidente da DG/AAC José Machado. A Oração de Sapiência fica a cargo de Maria Cristina Canavarro. À noite, a Orquestra Académica apresenta o concerto sinfónico \"A Inspiração da Dança\" no Teatro Académico Gil Vicente."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "PSP trava cenário de violência: homem ameaçava familiares com faca",
+          "text": "Um homem de 49 anos foi detido pela PSP em Coimbra no dia 4 de outubro, suspeito de violência doméstica. Ameaçou e agrediu familiares enquanto empunhava uma arma branca. A detenção foi divulgada pelo Comando Distrital de Coimbra da PSP."
+        },
+        {
+          "headline": "Agrediu a companheira na presença dos filhos e acabou detido pela PSP",
+          "text": "Em caso separado, a PSP deteve um homem por agredir a companheira na presença dos filhos, em Coimbra. O caso foi registado na categoria de crimes de violência doméstica."
+        },
+        {
+          "headline": "Perseguiu colega, publicou imagens falsas nua e vai mesmo para a prisão",
+          "text": "Uma mulher foi condenada a seis anos e nove meses de prisão por um crime de perseguição, num processo considerado inédito em Portugal pela natureza dos factos. A arguida, Joana Freitas, chegou a publicar imagens manipuladas da vítima nua em sites pornográficos. A decisão mantém-se depois de várias tentativas de recurso."
+        },
+        {
+          "headline": "Operação em três concelhos acaba com sete detidos e milhares de doses de droga",
+          "text": "Sete homens, com idades entre 27 e 45 anos, foram detidos por tráfico de droga nos concelhos de Marco de Canaveses, Penafiel e Vila Nova de Gaia. A operação da GNR resultou na apreensão de mais de 15.600 doses de droga."
+        },
+        {
+          "headline": "Médico acusado de violar doente durante consulta volta a ser detido",
+          "text": "Um médico acusado de violar uma doente durante uma consulta foi novamente detido. O caso voltou aos tribunais após recursos anteriores."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "7 ideias para sair de casa em Coimbra esta semana",
+          "text": "A agenda cultural do município reúne propostas de literatura, artes visuais, património e música entre 6 e 11 de outubro. Destaque para a conversa \"Deus e a Ciência\" na Biblioteca Carlos Fiolhais (7 out), a inauguração de \"Pares Ímpares II\" no CACC (8 out), Feira de Artesanato Urbano na Praça do Comércio, e o encerramento do Festival Correntes de Um Só Rio no Convento São Francisco."
+        },
+        {
+          "headline": "ModaLisboa está de volta com cinco dias de desfiles e eventos gratuitos",
+          "text": "A 67.ª ModaLisboa abre esta quarta-feira com a primeira Conferência Internacional ModaPortugal no MAAT. O calendário de apresentações de coleções começa quinta-feira no Pátio da Galé, com Béhen e AD_HOC. A edição inclui o concurso Sangue Novo para jovens designers e apresentações até domingo."
+        },
+        {
+          "headline": "Caça ao tesouro no Castelo de Penela",
+          "text": "O Castelo de Penela oferece uma experiência de caça ao tesouro, uma atividade lúdica para visitar o monumento medieval de forma divertida e interativa."
+        },
+        {
+          "headline": "Jantar ao som de Fado num palacete em Aveiro",
+          "text": "Uma experiência gastronómica em Aveiro combina jantar com 6 pratos e pairing de vinhos, acompanhados por Fado ao vivo num palacete histórico."
+        },
+        {
+          "headline": "Grande feira rural chega a Aveiro com entrada gratuita",
+          "text": "Uma grande feira rural está a chegar a Aveiro, com entrada gratuita. O evento celebra o mundo rural com produtos tradicionais, animais e atividades ligadas à agricultura."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Leiria quer agir antes da catástrofe e já tem plano para o próximo inverno",
+          "text": "O município de Leiria apresentou um plano de prevenção para o próximo inverno, procurando agir antes da ocorrência de catástrofes, numa resposta aos episódios de mau tempo que afetaram a região recentemente."
+        },
+        {
+          "headline": "Folio abre na quinta-feira e leva a Óbidos 450 autores e 300 iniciativas",
+          "text": "A Feira Literária de Óbidos (Folio) abre na quinta-feira com 450 autores e 300 iniciativas. O evento transforma a vila literária num grande palco de literatura, com encontros, lançamentos e conversas."
+        },
+        {
+          "headline": "Ciclo de filmes dedicado às mulheres no Fundão",
+          "text": "Do cinema indiano ao terror de Stephen King, o Fundão acolhe um ciclo de cinema dedicado às mulheres, com programação que percorre géneros e culturas diversas."
+        },
+        {
+          "headline": "Mau tempo: Região de Leiria pede audiência ao primeiro-ministro para agradecer apoio",
+          "text": "A região de Leiria, fortemente afetada pelo mau tempo recente, pediu audiência ao primeiro-ministro para agradecer o apoio recebido durante os episódios de precipitação intensa."
+        }
+      ]
+    }
+  ]
+}
