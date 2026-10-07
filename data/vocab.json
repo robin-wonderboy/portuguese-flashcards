@@ -29174,5 +29174,95 @@
       "example_de": "Der Einsturz zerstörte ein Stück Strasse und Promenade",
       "example_en": "The collapse destroyed a section of road and boardwalk"
     }
+  ],
+  "2026-10-07": [
+    {
+      "pt": "o feriado",
+      "de": "der Feiertag",
+      "en": "the public holiday",
+      "example": "Oliveira do Hospital celebra feriado municipal",
+      "example_de": "Oliveira do Hospital feiert Gemeindefeiertag",
+      "example_en": "Oliveira do Hospital celebrates municipal holiday"
+    },
+    {
+      "pt": "interpelar",
+      "de": "anfragen",
+      "en": "to question/interpellate",
+      "example": "Município apela aos automobilistas para que respeitem as indicações",
+      "example_de": "Gemeinde appelliert an Autofahrer, die Anweisungen zu beachten",
+      "example_en": "Municipality appeals to drivers to respect the signs"
+    },
+    {
+      "pt": "empunhar",
+      "de": "in der Hand halten",
+      "en": "to wield/hold (a weapon)",
+      "example": "Empunhava uma arma branca enquanto ameaçava familiares",
+      "example_de": "Hielt eine Blankwaffe in der Hand während er Familienmitglieder bedrohte",
+      "example_en": "Wielded a bladed weapon while threatening family members"
+    },
+    {
+      "pt": "a arruada",
+      "de": "der Festumzug",
+      "en": "the street parade",
+      "example": "A manhã fica marcada por uma arruada pelas ruas da cidade",
+      "example_de": "Der Vormittag ist geprägt von einem Festumzug durch die Straßen",
+      "example_en": "The morning is marked by a street parade through the city"
+    },
+    {
+      "pt": "solene",
+      "de": "feierlich",
+      "en": "solemn/ceremonial",
+      "example": "A sessão solene comemorativa do feriado municipal",
+      "example_de": "Die feierliche Gedenksitzung des Gemeindefeiertags",
+      "example_en": "The solemn commemorative session of the municipal holiday"
+    },
+    {
+      "pt": "agradecer",
+      "de": "danken",
+      "en": "to thank",
+      "example": "Pede audiência ao primeiro-ministro para agradecer apoio",
+      "example_de": "Bittet um Audienz beim Premierminister um Unterstützung zu danken",
+      "example_en": "Requests audience with prime minister to thank for support"
+    },
+    {
+      "pt": "o palacete",
+      "de": "der Stadtpalast",
+      "en": "the mansion/palace",
+      "example": "Jantar ao som de Fado num palacete em Aveiro",
+      "example_de": "Abendessen bei Fado in einem Stadtpalast in Aveiro",
+      "example_en": "Dinner with Fado in a mansion in Aveiro"
+    },
+    {
+      "pt": "fomentar",
+      "de": "fördern",
+      "en": "to foster/promote",
+      "example": "Encontros destinados a fomentar a reflexão e o debate",
+      "example_de": "Treffen die der Förderung von Reflexion und Debatte dienen",
+      "example_en": "Meetings aimed at fostering reflection and debate"
+    },
+    {
+      "pt": "a oraçao",
+      "de": "die Ansprache",
+      "en": "the prayer/oration",
+      "example": "A tradicional Oração de Sapiência",
+      "example_de": "Die traditionelle Weisheitsansprache",
+      "example_en": "The traditional Oration of Wisdom"
+    },
+    {
+      "pt": "o automobilista",
+      "de": "der Autofahrer",
+      "en": "the driver/motorist",
+      "example": "Apela aos automobilistas para que respeitem as indicações",
+      "example_de": "Appelliert an Autofahrer die Hinweise zu beachten",
+      "example_en": "Appeals to drivers to respect the signs"
+    },
+    {
+      "pt": "respeitar",
+      "de": "beachten",
+      "en": "to respect/follow",
+      "example": "Apela aos automobilistas para que respeitem as indicações",
+      "example_de": "Appelliert an Autofahrer die Hinweise zu beachten",
+      "example_en": "Appeals to drivers to respect the signs"
+    }
   ]
 }
