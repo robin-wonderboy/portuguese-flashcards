@@ -29264,5 +29264,111 @@
       "example_de": "Appelliert an Autofahrer die Hinweise zu beachten",
       "example_en": "Appeals to drivers to respect the signs"
     }
+  ],
+  "2026-10-08": [
+    {
+      "pt": "a folga",
+      "de": "Atempause/Entlastung",
+      "en": "breathing room/relief",
+      "example": "A carteira das famílias ganha folga em Góis",
+      "example_de": "Die Geldbörse der Familien bekommt Entlastung in Góis",
+      "example_en": "Family wallets get some relief in Góis"
+    },
+    {
+      "pt": "o encarnado",
+      "de": "der Rote (Sportfarbe)",
+      "en": "the red one (sporting color)",
+      "example": "Os encarnados anunciaram a contratação",
+      "example_de": "Die Roten gaben die Verpflichtung bekannt",
+      "example_en": "The reds announced the signing"
+    },
+    {
+      "pt": "lesar",
+      "de": "schädigen",
+      "en": "to harm/injure",
+      "example": "39 suspeitos de lesarem o Estado",
+      "example_de": "39 Verdächtige die den Staat geschädigt haben",
+      "example_en": "39 suspects of harming the State"
+    },
+    {
+      "pt": "a bengala",
+      "de": "der Stock",
+      "en": "cane/walking stick",
+      "example": "Dia Mundial da Bengala Branca",
+      "example_de": "Welttag des weißen Stocks",
+      "example_en": "World White Cane Day"
+    },
+    {
+      "pt": "vigente",
+      "de": "geltend/amtierend",
+      "en": "current/reigning",
+      "example": "A vigente vice-campeã europeia",
+      "example_de": "Die amtierende Vizeeuropameisterin",
+      "example_en": "The reigning European vice-champion"
+    },
+    {
+      "pt": "encalhar",
+      "de": "festfahren",
+      "en": "to run aground/get stuck",
+      "example": "Barco com 90 turistas encalha no rio",
+      "example_de": "Boot mit 90 Touristen fährt auf dem Fluss fest",
+      "example_en": "Boat with 90 tourists runs aground on the river"
+    },
+    {
+      "pt": "devolver",
+      "de": "zurückgeben",
+      "en": "to return/give back",
+      "example": "Decidiu devolver todo o dinheiro",
+      "example_de": "Entschieden sich, das ganze Geld zurückzugeben",
+      "example_en": "Decided to return all the money"
+    },
+    {
+      "pt": "simular",
+      "de": "simulieren/vortäuschen",
+      "en": "to simulate/fake",
+      "example": "Simulou a morte da colega",
+      "example_de": "Simulierte den Tod der Kollegin",
+      "example_en": "Faked the colleague's death"
+    },
+    {
+      "pt": "a alheira",
+      "de": "die Alheira (Wurst)",
+      "en": "alheira (Portuguese sausage)",
+      "example": "Esta alheira foi eleita a 2ª melhor do mundo",
+      "example_de": "Diese Alheira wurde zur zweitbesten der Welt gewählt",
+      "example_en": "This alheira was voted 2nd best in the world"
+    },
+    {
+      "pt": "o tubérculo",
+      "de": "der Knollen",
+      "en": "tuber",
+      "example": "Há dois tubérculos portugueses entre os melhores do mundo",
+      "example_de": "Es gibt zwei portugiesische Knollen unter den besten der Welt",
+      "example_en": "There are two Portuguese tubers among the best in the world"
+    },
+    {
+      "pt": "a derrama",
+      "de": "die Gewerbesteuer",
+      "en": "municipal surtax",
+      "example": "A não aplicação da Derrama",
+      "example_de": "Die Nichtanwendung der Gewerbesteuer",
+      "example_en": "The non-application of the municipal surtax"
+    },
+    {
+      "pt": "o avarento",
+      "de": "geizig",
+      "en": "stingy/greedy",
+      "example": "Não ficou com um único cêntimo",
+      "example_de": "Behielt keinen einzigen Cent",
+      "example_en": "Did not keep a single cent"
+    },
+    {
+      "pt": "a lancha",
+      "de": "das Schnellboot",
+      "en": "speedboat",
+      "example": "Descarga feita a partir de lanchas rápidas",
+      "example_de": "Entladung von Schnellbooten",
+      "example_en": "Unloading from speedboats"
+    }
   ]
 }
