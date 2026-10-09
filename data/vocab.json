@@ -29370,5 +29370,87 @@
       "example_de": "Entladung von Schnellbooten",
       "example_en": "Unloading from speedboats"
     }
+  ],
+  "2026-10-09": [
+    {
+      "pt": "o motociclo",
+      "de": "das Motorrad",
+      "en": "the motorcycle",
+      "example": "Foi atropelado por um motociclo.",
+      "example_de": "Er wurde von einem Motorrad überfahren.",
+      "example_en": "He was run over by a motorcycle."
+    },
+    {
+      "pt": "deparar-se",
+      "de": "auf etwas stoßen",
+      "en": "to come across",
+      "example": "Os militares depararam-se com o autocarro em chamas.",
+      "example_de": "Die Soldaten stießen auf den brennenden Bus.",
+      "example_en": "The soldiers came across the burning bus."
+    },
+    {
+      "pt": "hesitar",
+      "de": "zögern",
+      "en": "to hesitate",
+      "example": "Os militares não hesitaram em parar.",
+      "example_de": "Die Soldaten zögerten nicht anzuhalten.",
+      "example_en": "The soldiers did not hesitate to stop."
+    },
+    {
+      "pt": "o lençol",
+      "de": "das Bettlaken",
+      "en": "the bedsheet",
+      "example": "Os idosos estavam presos com lençóis.",
+      "example_de": "Die Senioren waren mit Bettlaken festgebunden.",
+      "example_en": "The elderly were tied with bedsheets."
+    },
+    {
+      "pt": "o cadeirão",
+      "de": "der Rollstuhl",
+      "en": "the wheelchair",
+      "example": "Alguns idosos estavam presos a cadeirões.",
+      "example_de": "Einige Senioren waren an Rollstühle gefesselt.",
+      "example_en": "Some elderly were tied to wheelchairs."
+    },
+    {
+      "pt": "desfalcado",
+      "de": "unterbesetzt",
+      "en": "understaffed / depleted",
+      "example": "As equipas continuam desfalcadas de recursos.",
+      "example_de": "Die Teams bleiben unterbesetzt an Ressourcen.",
+      "example_en": "The teams remain understaffed in resources."
+    },
+    {
+      "pt": "a dotação",
+      "de": "die Ausstattung / Zuteilung",
+      "en": "the allocation / staffing",
+      "example": "A dotação efetiva de recursos é insuficiente.",
+      "example_de": "Die tatsächliche Ressourcenausstattung ist unzureichend.",
+      "example_en": "The actual allocation of resources is insufficient."
+    },
+    {
+      "pt": "descongelar",
+      "de": "aufheben (Gefrorenes)",
+      "en": "to unfreeze",
+      "example": "O governo descongela o valor das propinas.",
+      "example_de": "Die Regierung hebt den Studiengebührenwert an.",
+      "example_en": "The government unfreezes the tuition fee value."
+    },
+    {
+      "pt": "alimentar-se",
+      "de": "sich ernähren",
+      "en": "to feed oneself",
+      "example": "Metade dos estudantes alimenta-se mal.",
+      "example_de": "Die Hälfte der Studenten ernährt sich schlecht.",
+      "example_en": "Half of the students feed themselves poorly."
+    },
+    {
+      "pt": "a cerveja artesanal",
+      "de": "das Craft-Bier",
+      "en": "the craft beer",
+      "example": "O festival dedica-se à cerveja artesanal.",
+      "example_de": "Das Festival ist dem Craft-Bier gewidmet.",
+      "example_en": "The festival is dedicated to craft beer."
+    }
   ]
 }
