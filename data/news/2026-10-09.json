@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚨",
+      "category": "PRIMEIRA PÁGINA",
+      "stories": [
+        {
+          "headline": "Milagre na A1: Militares salvam passageiros de autocarro em chamas",
+          "text": "Uma equipa do Regimento de Artilharia Antiaérea N.º 1 do Exército português deparou-se com um autocarro de passageiros em início de incêndio quando circulava na A1, na zona do Cartaxo. Os militares seguiam de Queluz para Coimbra e não hesitaram em parar para prestar auxílio, ajudando a garantir a segurança dos passageiros."
+        },
+        {
+          "headline": "Famosos fazem quilómetros só para provar chanfana na Lousã",
+          "text": "A Casa Velha, na Lousã, tornou-se um destino para quem procura este prato tradicional. O restaurante nasceu na década de 1980 pelas mãos de Reinaldo e Maria Emília Costa e continua hoje na família, gerido pelas filhas Márcia e Maria João. Já recebeu várias caras conhecidas do público português."
+        },
+        {
+          "headline": "Homem fica em estado grave após ser atropelado em Soure",
+          "text": "Um homem com cerca de 65 anos ficou gravemente ferido após ser atropelado por um motociclo na Estrada Nacional 342, em Soure. O alerta foi dado cerca das 20h00 de quinta-feira. A vítima encontrava-se em estado grave."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "É de Coimbra e vai liderar a PSP: Pedro Moura será o novo diretor nacional",
+          "text": "O superintendente Pedro Moura, de 59 anos, natural de Almedina, em Coimbra, será o novo diretor nacional da PSP, substituindo Luís Carrilho. É formado em Ciências Policiais pela Escola Superior de Polícia."
+        },
+        {
+          "headline": "Polícias saem à rua e exigem aumento salarial já em janeiro",
+          "text": "Os polícias exigem um aumento salarial já no próximo mês de janeiro, tendo saído à rua em protesto pelas suas reivindicações."
+        },
+        {
+          "headline": "Idosos eram presos com lençóis e fechados nos quartos em lar ilegal",
+          "text": "Uma operação da PSP encontrou 32 idosos num lar ilegal em Belas, Sintra. Alguns idosos estavam presos a cadeirões com lençóis e havia utentes fechados nos quartos durante a noite. A fiscalização contou com autoridades de saúde e Proteção Civil."
+        },
+        {
+          "headline": "Ajuste de contas na Nazaré faz 1 ferido grave. PJ investiga",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Retomada circulação na Linha da Beira Baixa após acidente que causou um morto",
+          "text": "A circulação na Linha da Beira Baixa foi retomada após um acidente em que um carro foi abalroado por um comboio, causando um morto e cortando a linha temporariamente."
+        },
+        {
+          "headline": "Coimbra leva cuidados paliativos ao Mercado Municipal D. Pedro V",
+          "text": "Docentes e estudantes da Escola Superior de Enfermagem da Universidade de Coimbra vão estar no Mercado Municipal D. Pedro V neste sábado para falar sobre cuidados paliativos, no âmbito do Dia Mundial dos Cuidados Paliativos."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Bombeiros combatem incêndio em Coimbra",
+          "text": "Um incêndio numa zona de mato mobilizou 21 operacionais apoiados por seis viaturas, na Rua Augusto Vaz Serra, em Coimbra. O alerta foi dado pelas 18h50 de quinta-feira e o incêndio já está resolvido."
+        },
+        {
+          "headline": "Mamutes e tigres \"invadem\" o Teatro da Cerca de São Bernardo este sábado",
+          "text": ""
+        },
+        {
+          "headline": "Leiria celebra 10 anos a cultivar o talento com programa para crianças sobredotadas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🍻",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Vila Nova de Poiares prepara estreia de festival de cerveja artesanal",
+          "text": "O Poyares Beer Fest realiza-se a 23 e 24 de outubro no Mercado Municipal, com sete marcas de cerveja artesanal, gastronomia e animação. A primeira edição conta com 12 Marias, Cerveja Açor, Boazona, Deuses do Malte, Mickas Craft Beer, Cervejeira Praxis e Cerveja Vadia."
+        },
+        {
+          "headline": "Coletivo de São Paulo leva \"O Avesso da Pele\" à Oficina Municipal do Teatro",
+          "text": ""
+        },
+        {
+          "headline": "Perto de Coimbra, há uma quinta com mais de 450 anos onde já dormiram reis",
+          "text": ""
+        },
+        {
+          "headline": "Iolanda, da Figueira da Foz, lançou álbum onde cabem avós, crenças e música portuguesa",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "António Leitão Amaro debate imigração na Europa na Universidade de Coimbra",
+          "text": "A UC recebe na terça-feira, dia 13, a 47.ª sessão das Conversas da Casa da Lusofonia, com o Ministro da Presidência como convidado. A conferência tem como tema \"Imigração na Europa: dilema existencial. Moderação possível?\"."
+        },
+        {
+          "headline": "Orçamento para Ensino Superior, Ciência e Inovação cai 7,6%",
+          "text": ""
+        },
+        {
+          "headline": "Governo descongela valor das propinas a partir de 2027/2028",
+          "text": ""
+        },
+        {
+          "headline": "Universidade de Coimbra estuda como combater preconceitos através da empatia",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "90% das crianças e jovens sem acesso a cuidados paliativos",
+          "text": "Quase 90% das cerca de 8.000 crianças e jovens com doença crónica avançada não têm acesso a cuidados paliativos, segundo a associação do setor. As equipas continuam desfalcadas na dotação efetiva de recursos, apesar de haver mais profissionais com formação."
+        },
+        {
+          "headline": "Metade dos estudantes alimenta-se mal e 70% dormem mal",
+          "text": ""
+        },
+        {
+          "headline": "Medicamentos essenciais podem começar a faltar: Setor exige medidas urgentes",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Pombal delibera investimento de 1,2 milhões de euros em obras no concelho",
+          "text": "O executivo da Câmara Municipal do Pombal deliberou a abertura de procedimentos para várias obras, incluindo rede de saneamento em Barbas Novas no valor de 445 mil euros."
+        },
+        {
+          "headline": "Serra da Estrela debate futuro dos seus ecossistemas em oficina aberta à comunidade",
+          "text": "O projeto SerE+ promove no dia 14 de outubro a sua terceira Oficina Colaborativa no Centro de Interpretação da Serra da Estrela, em Seia, assinalando o encerramento do primeiro ciclo participativo do projeto."
+        },
+        {
+          "headline": "Mangualde ganha novo Centro de Saúde após investimento de 1,5 milhões",
+          "text": ""
+        },
+        {
+          "headline": "CineEco está de volta a Seia com nove dias de cinema e reflexão sobre o ambiente",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
