@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-10",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra vai ter Regulamento de Espaço Público",
+          "text": "A Câmara Municipal de Coimbra aprovou o início do procedimento para elaborar o Regulamento Municipal de Espaço Público, um instrumento estratégico para promover qualidade, coerência, acessibilidade e sustentabilidade nas ruas, praças e espaços públicos do concelho."
+        },
+        {
+          "headline": "Publicidade exterior: Coimbra avança com negócio de \"outro mundo\"",
+          "text": "A Câmara aprovou a constituição de um agrupamento com a Metro Mondego para um concurso público internacional de gestão publicitária associada ao mobiliário urbano, autocarros SMTUC e Metro Mondego. Contratos de 20 anos com contrapartida estimada de 750 mil euros/ano. Prevê 350 abrigos de passageiros e seis sanitários públicos."
+        },
+        {
+          "headline": "Figueira da Foz atribui 22 casas com rendas acessíveis",
+          "text": ""
+        },
+        {
+          "headline": "Para miúdos e graúdos: há um novo espaço de jogos a caminho de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Maria Leonor tem 93 anos e é uma das mulheres mais \"ricas\" da Pampilhosa da Serra",
+          "text": "Trabalhou no campo, criou cinco filhos, oito netos e seis bisnetos. Não é rica em dinheiro, mas considera-se rica de tudo aquilo que a vida lhe deu. Nasceu na Amoreira Cimeira, onde continua a guardar recordações de uma vida marcada pelo trabalho, pela fé e pela música."
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Política traz arte, humor e música a Coimbra pelos 50 anos da Constituição",
+          "text": "Os 50 anos da Constituição vão ser o ponto de partida para o regresso do Festival Política, com 17 atividades gratuitas entre 22 e 24 de outubro. O festival pergunta o que os direitos constitucionais significam no quotidiano, através de teatro, música, humor, cinema e conversas."
+        },
+        {
+          "headline": "A Lousã quer servir 10 mil refeições no festival Sabores de Outono",
+          "text": "O Festival Gastronómico Sabores de Outono da Lousã decorre de 16 a 25 de outubro com 18 restaurantes aderentes. A abóbora é uma das apostas desta edição. Castanha, mel, chanfana, cabrito e javali voltam a estar entre os protagonistas. O autarca Vítor Carvalho destacou a importância de valorizar os produtos endógenos do concelho."
+        },
+        {
+          "headline": "Por 15€ pode provar dezenas de vinhos e ajudar quem mais precisa em Condeixa",
+          "text": ""
+        },
+        {
+          "headline": "Figueira da Foz convida a ouvir histórias enquanto saboreia um copo de vinho",
+          "text": ""
+        },
+        {
+          "headline": "Bodo da Lardosa pode entrar no Inventário Nacional do Património Cultural Imaterial",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Naufrágio de Troia: único sobrevivente condenado a 4 anos e meio com pena suspensa",
+          "text": "O Tribunal de Setúbal condenou Manuel Coelho, de 64 anos, por quatro crimes de homicídio por negligência grosseira pelo naufrágio em Troia que provocou quatro mortos em 2024. Pena de quatro anos e seis meses de prisão, suspensa por cinco anos, e indemnizações acima de 300 mil euros."
+        },
+        {
+          "headline": "Empresário que matou a mulher à facada fica em prisão preventiva",
+          "text": ""
+        },
+        {
+          "headline": "Prisão preventiva para três suspeitos de tráfico de droga em Odemira e Sines",
+          "text": ""
+        },
+        {
+          "headline": "PJ deteve homem suspeito de matar mulher em Lamego",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Homem com sarampo internado em isolamento. Mais de 400 contactos identificados",
+          "text": "Um adulto não vacinado está internado com sarampo no Hospital de Santa Maria, em Lisboa. As autoridades já vacinaram os familiares próximos. A evolução clínica é favorável. Mais de 400 contactos foram identificados."
+        },
+        {
+          "headline": "A maioria dos portugueses não sabe que vacinas deve tomar em adulto",
+          "text": ""
+        },
+        {
+          "headline": "ULS de Coimbra é a unidade de saúde com maior verba prevista para 2027",
+          "text": ""
+        },
+        {
+          "headline": "DGS muda regras de prevenção do VIH e alarga acesso a medicamento",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Movimento estudantil critica proposta do Governo e exige propinas congeladas",
+          "text": ""
+        },
+        {
+          "headline": "Ministro defende que descongelamento das propinas não afasta alunos do superior",
+          "text": ""
+        },
+        {
+          "headline": "ISMT e Fundação Mata do Bussaco juntam-se para estudar benefícios da floresta para a saúde",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & CENTRO",
+      "stories": [
+        {
+          "headline": "IP3 reaberto ao trânsito após despiste na zona de Santa Comba Dão",
+          "text": "Um despiste causou dois feridos e cortou o IP3 na zona de Santa Comba Dão. A via foi posteriormente reaberta ao trânsito."
+        },
+        {
+          "headline": "Aveiro teme atraso nas obras do Hospital e do Eixo Aveiro-Águeda",
+          "text": "A Câmara Municipal de Aveiro mantém confiança no cumprimento dos compromissos do Governo para a ampliação do Hospital de Aveiro e construção do Eixo Rodoviário Aveiro-Águeda, apesar das preocupações levantadas pela proposta de Orçamento do Estado para 2027, que não refere expressamente o investimento hospitalar."
+        },
+        {
+          "headline": "Anda a fazer isto nas rotundas? Pode estar a cometer um erro que põe todos em perigo",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏍️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Aos 19 anos, Francisca sai da Lousã para representar Portugal numa prova mundial",
+          "text": "Francisca Henriques, piloto de 19 anos natural da Lousã, prepara-se para representar Portugal na 100.ª edição dos Seis Dias de Enduro, uma das mais exigentes competições internacionais de motociclismo, que decorre no litoral alentejano até 17 de outubro. A atleta da Honda Lousãmotos integra a seleção feminina portuguesa com Joana Gonçalves e Rita Vieira."
+        }
+      ]
+    },
+    {
+      "emoji": "❤️",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Um sim muito especial: casal casa durante internamento no hospital",
+          "text": "Um utente internado no Hospital de Braga casou com a companheira numa cerimónia civil realizada no serviço de Gastroenterologia. Os profissionais de saúde adaptaram o espaço e a rotina do internamento, permitindo a presença de familiares e testemunhas sem comprometer os cuidados médicos."
+        },
+        {
+          "headline": "Vai a pé até Fátima? Santuário vai lançar certificado para peregrinos",
+          "text": ""
+        },
+        {
+          "headline": "Tradição dos sapatos de ourelo está a ser recuperada no Algarve",
+          "text": "Os tradicionais sapatos de ourelo, calçado artesanal muito usado no Algarve até à década de 1960, estão a ser recuperados graças ao Rancho Folclórico de Moncarapacho e ao Museu Municipal de Olhão. Em Olhão chegaram a existir cerca de 70 artesãs dedicadas à produção."
+        }
+      ]
+    }
+  ]
+}
