@@ -29452,5 +29452,95 @@
       "example_de": "Das Festival ist dem Craft-Bier gewidmet.",
       "example_en": "The festival is dedicated to craft beer."
     }
+  ],
+  "2026-10-10": [
+    {
+      "pt": "a renda acessível",
+      "de": "bezahlbare Miete",
+      "en": "affordable rent",
+      "example": "Figueira da Foz atribui 22 casas com rendas acessíveis",
+      "example_de": "Figueira da Foz vergibt 22 Wohnungen mit bezahlbaren Mieten",
+      "example_en": "Figueira da Foz assigns 22 houses with affordable rents"
+    },
+    {
+      "pt": "o sarampo",
+      "de": "die Masern",
+      "en": "measles",
+      "example": "Homem com sarampo está internado em isolamento",
+      "example_de": "Mann mit Masern ist in Isolierung stationär aufgenommen",
+      "example_en": "Man with measles is hospitalized in isolation"
+    },
+    {
+      "pt": "congelar",
+      "de": "einfrieren",
+      "en": "to freeze (prices)",
+      "example": "Exige propinas congeladas",
+      "example_de": "Fordert eingefrorene Studiengebühren",
+      "example_en": "Demands frozen tuition fees"
+    },
+    {
+      "pt": "a insónia",
+      "de": "die Schlaflosigkeit",
+      "en": "insomnia",
+      "example": "Ansiedade, insónias e alterações de humor",
+      "example_de": "Angst, Schlaflosigkeit und Stimmungsschwankungen",
+      "example_en": "Anxiety, insomnia and mood swings"
+    },
+    {
+      "pt": "a abóbora",
+      "de": "der Kürbis",
+      "en": "pumpkin",
+      "example": "O chef tem um plano para transformar a abóbora numa estrela à mesa",
+      "example_de": "Der Koch hat einen Plan, den Kürbis zum Star am Tisch zu machen",
+      "example_en": "The chef has a plan to make pumpkin a star at the table"
+    },
+    {
+      "pt": "a contrapartida",
+      "de": "die Gegenleistung",
+      "en": "consideration/return",
+      "example": "Estabelece uma contrapartida estimada de 750 mil euros por ano",
+      "example_de": "Es legt eine Gegenleistung von geschätzt 750.000 Euro pro Jahr fest",
+      "example_en": "It establishes an estimated return of 750 thousand euros per year"
+    },
+    {
+      "pt": "o bodo",
+      "de": "das kostenlose Essen",
+      "en": "free community meal",
+      "example": "Bodo da Lardosa pode entrar no Inventário Nacional",
+      "example_de": "Bodo da Lardosa kann ins nationale Inventar aufgenommen werden",
+      "example_en": "Bodo da Lardosa may enter the National Inventory"
+    },
+    {
+      "pt": "despistar",
+      "de": "abkommen",
+      "en": "to skid off the road",
+      "example": "IP3 reaberto após despiste na zona de Santa Comba Dão",
+      "example_de": "IP3 nach Unfall bei Santa Comba Dão wieder geöffnet",
+      "example_en": "IP3 reopened after skidding near Santa Comba Dão"
+    },
+    {
+      "pt": "o bisneto",
+      "de": "der Urenkel",
+      "en": "great-grandchild",
+      "example": "Maria Leonor tem oito netos e seis bisnetos",
+      "example_de": "Maria Leonor hat acht Enkel und sechs Urenkel",
+      "example_en": "Maria Leonor has eight grandchildren and six great-grandchildren"
+    },
+    {
+      "pt": "a artesã",
+      "de": "die Handwerkerin",
+      "en": "craftswoman",
+      "example": "Em Olhão chegaram a existir cerca de 70 artesãs",
+      "example_de": "In Olhão gab es etwa 70 Handwerkerinnen",
+      "example_en": "In Olhão there were about 70 craftswomen"
+    },
+    {
+      "pt": "o mobiliário urbano",
+      "de": "die Stadtmöblierung",
+      "en": "urban furniture/street fixtures",
+      "example": "A concessão abrange o mobiliário urbano e os autocarros",
+      "example_de": "Die Konzession umfasst Stadtmöblierung und Busse",
+      "example_en": "The concession covers urban furniture and buses"
+    }
   ]
 }
