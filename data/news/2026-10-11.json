@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Carrossel do IVA: esquema de 150 milhões deixa 11 arguidos atrás das grades",
+          "text": "O Tribunal Judicial da Comarca de Lisboa determinou prisão preventiva para 11 arguidos no âmbito da Operação \"Hermes\". A Polícia Judiciária deteve 39 suspeitos de lesarem o Estado em mais de 150 milhões de euros numa alegada fraude fiscal no comércio de telemóveis. Os restantes arguidos ficaram em liberdade sujeitos a cauções até 100 mil euros."
+        },
+        {
+          "headline": "Doente ameaça médico com faca no Hospital de Faro",
+          "text": "Um médico foi ameaçado com uma faca por um doente neste sábado no Hospital de Faro, levando à chamada urgente da PSP. O profissional de saúde não chegou a ser esfaqueado e o momento foi gravado em vídeo por testemunhas."
+        },
+        {
+          "headline": "Mulher foge pela janela após 3 semanas de cativeiro em Rio Maior",
+          "text": "Uma mulher de 50 anos, natural de Aveiro, conseguiu fugir de uma habitação em Rio Maior onde esteve sequestrada durante três semanas. Conheceu o suspeito nas redes sociais e deslocou-se voluntariamente para o encontrar, tendo sido vítima de violência física e abusos sexuais."
+        },
+        {
+          "headline": "Cuspia-lhe na cara e ameaçava matá-la: filho fica em prisão preventiva",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SINDICATOS",
+      "stories": [
+        {
+          "headline": "Ministra avisa: Portugal está a ficar para trás na inteligência artificial",
+          "text": "A ministra do Trabalho, Rosário Palma Ramalho, disse no 15.º Congresso da UGT, na Figueira da Foz, que Portugal \"parte atrás dos seus parceiros europeus\" na regulação da IA no mercado de trabalho. Defendeu que a flexibilização dos regimes laborais na Alemanha e França foi \"prudência política em ação\", não um capricho ideológico."
+        },
+        {
+          "headline": "UGT desafia Montenegro: salário mínimo nos mil euros já em janeiro",
+          "text": "O secretário-geral da UGT, Mário Mourão, desafiou o primeiro-ministro a sentar-se à mesa da Concertação Social para rever o acordo de salários e rendimentos. Alertou que qualquer alteração à legislação laboral terá de reforçar a contratação coletiva."
+        },
+        {
+          "headline": "Santana Lopes arrasa CGTP e diz que é mais difícil ser sindicalista da UGT",
+          "text": "O presidente da Câmara da Figueira da Foz considerou que \"deve ser muito mais difícil\" ser sindicalista da UGT do que pertencer a uma central sindical que \"está sempre contra\", numa alusão indireta à CGTP, na abertura do congresso da UGT."
+        },
+        {
+          "headline": "Chefes da PSP alertam para desmotivação se exigências não forem correspondidas",
+          "text": "O Sindicato Nacional da Carreira de Chefes da PSP disse estar disponível para negociar com o Governo, mas alertou para a possível desmotivação dos polícias caso as exigências não sejam correspondidas, sublinhando que \"a segurança precisa de celeridade\"."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "category": "CULTURA & CIDADE",
+      "stories": [
+        {
+          "headline": "Obra gigante em Coimbra mostra um corpo a desaparecer",
+          "text": "O Mercado Municipal D. Pedro V recebe este mês uma obra de arte de oito metros do artista Félix Mula, intitulada \"O Processo da Nadização\". O painel explora o conceito de \"nadização\" - o processo de tornar algo em nada - mostrando a decomposição progressiva de um corpo orgânico. É a última intervenção do projeto Outdoor '26."
+        },
+        {
+          "headline": "Coimbra vai ter Regulamento de Espaço Público para orientar a transformação da cidade",
+          "text": ""
+        },
+        {
+          "headline": "Casa-Museu Bissaya Barreto encerra exposição sobre Coimbra com conversa entre artistas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "❤️",
+      "category": "SOCIEDADE",
+      "stories": [
+        {
+          "headline": "A vida tirou-lhe o chão, mas Catarina recusa desistir",
+          "text": "Catarina soube que tinha cancro da mama há cerca de um ano, já passou pela quimioterapia e faz agora radioterapia. Este sábado participou pela primeira vez na caminhada \"Pequenos Passos, Grandes Gestos\" do Movimento Vencer e Viver, no âmbito do Outubro Rosa, em Coimbra, para levar uma mensagem de esperança a outras mulheres que enfrentam a mesma batalha."
+        },
+        {
+          "headline": "Nova residência para idosos em Coimbra abre portas à comunidade",
+          "text": "A nova residência tem capacidade para 40 utentes e abre portas à comunidade local."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Monteiros lideram Rally Cantanhede Marquês de Marialva",
+          "text": "A quarta edição do Rally Cantanhede Marquês de Marialva está de regresso às estradas do concelho, reunindo troços rápidos e técnicos com impacto nos campeonatos. A prova tem também uma vertente solidária, apoiando os Bombeiros e sensibilizando para a situação de duas crianças com doenças raras."
+        },
+        {
+          "headline": "Acidente cancela primeira especial do Rally de Cantanhede",
+          "text": ""
+        },
+        {
+          "headline": "FC Porto vence Marítimo por 2-1 após reviravolta e lidera com 24 pontos",
+          "text": "O FC Porto somou a oitava vitória em outras tantas jornadas da I Liga 2026/27, ao vencer o Marítimo por 2-1 com golo de Pietuszewski aos 84 minutos. O líder totaliza 24 pontos, mais seis que o Sporting e mais oito que o Benfica."
+        },
+        {
+          "headline": "Ronaldo pediu desculpas e quer voltar. Pedro Proença responde",
+          "text": "O presidente da FPF, Pedro Proença, afirmou que todas as partes querem o regresso de Cristiano Ronaldo à seleção em novembro, remetendo uma eventual sanção para o Conselho de Disciplina."
+        }
+      ]
+    },
+    {
+      "emoji": "🍂",
+      "category": "GASTRONOMIA & LAZER",
+      "stories": [
+        {
+          "headline": "Lousã quer servir 10 mil refeições no Festival de Sabores de Outono",
+          "text": "O Festival Gastronómico Sabores de Outono decorre de 16 a 25 de outubro com 18 restaurantes aderentes. A castanha, o mel, a chanfana, o cabrito e o javali voltam a ser protagonistas, e este ano a abóbora ganha destaque. O presidente da Câmara, Vítor Carvalho, destacou a importância de valorizar os produtos endógenos do concelho."
+        },
+        {
+          "headline": "Por 15€ pode provar dezenas de vinhos e ajudar quem mais precisa em Condeixa",
+          "text": ""
+        },
+        {
+          "headline": "Festival Política traz arte, humor e música a Loulé para celebrar 50 anos da Constituição",
+          "text": "O festival decorre de 22 a 24 de outubro com 17 atividades gratuitas, questionando o que os direitos constitucionais significam no quotidiano. O programa inclui teatro, música, humor, cinema, conversas e exposições."
+        }
+      ]
+    },
+    {
+      "emoji": "🦅",
+      "category": "AMBIENTE & REGIÃO",
+      "stories": [
+        {
+          "headline": "Águia eletrocutada sobrevive contra todas as probabilidades",
+          "text": "A Quercus destacou, no Dia Mundial das Aves Migratórias, o caso de uma águia-cobreira eletrocutada e recuperada no centro de Castelo Branco, que já regressou à liberdade. Cerca de 1.180 animais selvagens foram recebidos nos três centros de recuperação da associação no primeiro semestre do ano."
+        },
+        {
+          "headline": "Pescador morre afogado no rio Dão após escorregar numa pedra",
+          "text": ""
+        },
+        {
+          "headline": "Carro transforma-se numa bola de fogo na A23 junto à Guarda",
+          "text": ""
+        },
+        {
+          "headline": "Alunos de Condeixa brilham a nível nacional e conquistam dois primeiros lugares",
+          "text": "Dois alunos da Escola Básica n.º 3 de Condeixa venceram nas categorias de Inclusão e Matemática do Concurso Nacional ubbu. O agrupamento recebeu ainda o selo \"Escola Bronze\" pelo trabalho no ensino da programação e pensamento computacional."
+        }
+      ]
+    }
+  ]
+}
