@@ -29542,5 +29542,119 @@
       "example_de": "Die Konzession umfasst Stadtmöblierung und Busse",
       "example_en": "The concession covers urban furniture and buses"
     }
+  ],
+  "2026-10-11": [
+    {
+      "pt": "a vertente solidária",
+      "de": "der wohltätige Aspekt",
+      "en": "the solidarity/charity aspect",
+      "example": "O rally tem também uma vertente solidária para os bombeiros.",
+      "example_de": "Die Rallye hat auch einen wohltätigen Aspekt für die Feuerwehr.",
+      "example_en": "The rally also has a solidarity aspect for the firefighters."
+    },
+    {
+      "pt": "dissipar",
+      "de": "sich auflösen / zerstreuen",
+      "en": "to dissipate / fade away",
+      "example": "O corpo vai-se dissipando até se confundir com o solo.",
+      "example_de": "Der Körper löst sich auf, bis er mit dem Boden verschmilzt.",
+      "example_en": "The body dissipates until it blends with the ground."
+    },
+    {
+      "pt": "a desmotivação",
+      "de": "die Demotivation / Entmutigung",
+      "en": "demotivation",
+      "example": "Os chefes da PSP alertam para a desmotivação dos polícias.",
+      "example_de": "Die PSP-Chefs warnen vor der Demotivation der Polizisten.",
+      "example_en": "The PSP chiefs warn of police demotivation."
+    },
+    {
+      "pt": "eletrocutada",
+      "de": "elektrisiert / Stromschlag erlitten",
+      "en": "electrocuted",
+      "example": "A águia foi eletrocutada mas sobreviveu contra todas as probabilidades.",
+      "example_de": "Der Adler erlitt einen Stromschlag, überlebte aber gegen alle Wahrscheinlichkeiten.",
+      "example_en": "The eagle was electrocuted but survived against all odds."
+    },
+    {
+      "pt": "a flexibilização",
+      "de": "die Flexibilisierung",
+      "en": "flexibilization / deregulation",
+      "example": "A flexibilização dos regimes laborais não foi um capricho ideológico.",
+      "example_de": "Die Flexibilisierung der Arbeitsregime war keine ideologische Laune.",
+      "example_en": "The flexibilization of labor regimes was not an ideological whim."
+    },
+    {
+      "pt": "o capricho",
+      "de": "die Laune / Grille",
+      "en": "whim / caprice",
+      "example": "Não foi um capricho ideológico, mas de prudência política.",
+      "example_de": "Es war keine ideologische Laune, sondern politische Klugheit.",
+      "example_en": "It was not an ideological whim, but political prudence."
+    },
+    {
+      "pt": "a nadização",
+      "de": "das Entstehen aus dem Nichts / Vernichtung",
+      "en": "the process of becoming nothing",
+      "example": "A obra explora o conceito de nadização, o processo de tornar algo em nada.",
+      "example_de": "Das Werk erforscht das Konzept der Nihilierung, den Prozess, etwas zu nichts zu machen.",
+      "example_en": "The work explores the concept of nadization, the process of turning something into nothing."
+    },
+    {
+      "pt": "a fraude fiscal",
+      "de": "der Steuerbetrug",
+      "en": "tax fraud",
+      "example": "O esquema envolvia uma fraude fiscal qualificada de 150 milhões.",
+      "example_de": "Das Schema umfasste einen qualifizierten Steuerbetrug von 150 Millionen.",
+      "example_en": "The scheme involved qualified tax fraud of 150 million."
+    },
+    {
+      "pt": "a quimioterapia",
+      "de": "die Chemotherapie",
+      "en": "chemotherapy",
+      "example": "Catarina já fez quimioterapia e está agora a fazer radioterapia.",
+      "example_de": "Catarina hat bereits Chemotherapie gemacht und macht jetzt Bestrahlung.",
+      "example_en": "Catarina has already done chemotherapy and is now doing radiotherapy."
+    },
+    {
+      "pt": "a esperança",
+      "de": "die Hoffnung",
+      "en": "hope",
+      "example": "Catarina quer levar uma mensagem de esperança a outras mulheres.",
+      "example_de": "Catarina möchte anderen Frauen eine Botschaft der Hoffnung überbringen.",
+      "example_en": "Catarina wants to bring a message of hope to other women."
+    },
+    {
+      "pt": "a castanha",
+      "de": "die Esskastanie",
+      "en": "chestnut",
+      "example": "A castanha e o mel estão entre os protagonistas do festival.",
+      "example_de": "Die Esskastanie und der Honig gehören zu den Protagonisten des Festivals.",
+      "example_en": "The chestnut and honey are among the protagonists of the festival."
+    },
+    {
+      "pt": "a prudência",
+      "de": "die Klugheit / Vorsicht",
+      "en": "prudence / caution",
+      "example": "A flexibilização foi prudência política em ação, disse a ministra.",
+      "example_de": "Die Flexibilisierung war politische Klugheit in Aktion, sagte die Ministerin.",
+      "example_en": "Flexibilization was political prudence in action, said the minister."
+    },
+    {
+      "pt": "o pensamento computacional",
+      "de": "das computationale Denken",
+      "en": "computational thinking",
+      "example": "A iniciativa pretende desenvolver o pensamento computacional nos alunos.",
+      "example_de": "Die Initiative zielt darauf ab, das computationale Denken der Schüler zu entwickeln.",
+      "example_en": "The initiative aims to develop computational thinking in students."
+    },
+    {
+      "pt": "a insignificância",
+      "de": "die Bedeutungslosigkeit",
+      "en": "insignificance",
+      "example": "A obra reduz a presença do corpo à insignificância.",
+      "example_de": "Das Werk reduziert die Präsenz des Körpers auf Bedeutungslosigkeit.",
+      "example_en": "The artwork reduces the body's presence to insignificance."
+    }
   ]
 }
