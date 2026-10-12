@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌡️",
+      "category": "REGIÃO & CLIMA",
+      "stories": [
+        {
+          "headline": "Portugal vai ter 30ºC em pleno outubro",
+          "text": "O IPMA prevê uma subida gradual das temperaturas a partir de terça-feira, podendo atingir os 30 graus na maior parte do território, com exceção do litoral a norte do Cabo da Roca. A meteorologista Maria João Frada adiantou que terça e quarta-feira serão os dias mais quentes."
+        },
+        {
+          "headline": "Menino de 11 anos atropelado numa garagem em Condeixa",
+          "text": "Um menino de 11 anos foi atropelado no interior de uma garagem em Condeixa. O acidente ocorreu durante a tarde de domingo e mobilizou meios de socorro."
+        },
+        {
+          "headline": "Arménio já apareceu: estava desaparecido em Arganil",
+          "text": "Arménio, que estava desaparecido desde a hora de almoço em Arganil, já foi encontrado são e salvo. O alerta tinha sido dado durante a tarde de domingo."
+        },
+        {
+          "headline": "Rally de Cantanhede \"foi um show\" e deixou cartão de visita ao território",
+          "text": "A quarta edição do Rally de Cantanhede Marquês de Marialva terminou com balanço muito positivo. O vereador Adérito Machado sublinhou que o rally não é só desporto, mas também uma forma de promover o concelho e envolver as populações."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Operação \"Formíca\": PJ detém casal por burlar idoso em 400 mil euros",
+          "text": "A PJ de Leiria deteve um casal suspeito de burlar um idoso de 90 anos numa quantia que ascende aos 400 mil euros. Os factos ocorreram entre 2022 e 2026 no Entroncamento e Santarém. Os suspeitos delinearam um plano para extorquir o idoso, especialmente vulnerável."
+        },
+        {
+          "headline": "Falsos inspetores da PJ atacam em força com esquema assustador",
+          "text": "Entre janeiro de 2024 e maio de 2026, a GNR registou 193 crimes de burla através de falsos polícias, com 48 ocorrências só nos primeiros cinco meses deste ano. Os burlões usam manipulação psicológica, falsa autoridade policial e Caller ID spoofing para enganar vítimas, com 27 casos a envolverem falsos inspetores da PJ."
+        },
+        {
+          "headline": "Carrossel do IVA: esquema de 150 milhões deixa 11 arguidos atrás das grades",
+          "text": ""
+        },
+        {
+          "headline": "Filho fica em prisão preventiva após violência doméstica à mãe",
+          "text": "Um homem ficou em prisão preventiva acusado de maltratar a mãe: cuspia-lhe na cara, puxava-lhe os cabelos e ameaçava matá-la."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "PORTUGAL & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Jovem de 13 anos morre após cair de 8º andar",
+          "text": "Um jovem de 13 anos morreu na noite de domingo na sequência de uma queda do oitavo andar de um edifício em Santa Marta do Pinhal, Corroios, no concelho do Seixal. O alerta foi dado às 20:36 e o óbito declarado no local."
+        },
+        {
+          "headline": "A1 reaberta após acidente com pesado e derrame de combustível",
+          "text": "A autoestrada A1 foi cortada nos dois sentidos após um acidente com veículo pesado que provocou derrame de combustível. A via foi posteriormente reaberta ao trânsito."
+        },
+        {
+          "headline": "Carro transforma-se numa bola de fogo na A23 junto à Guarda",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "90% das crianças que precisam de cuidados paliativos estão sem resposta",
+          "text": "A Associação Portuguesa de Cuidados Paliativos alerta que entre 85% e 90% das crianças que necessitam de cuidados paliativos pediátricos não têm acesso a estes serviços. A Carta de Belém estabelece cinco prioridades incluindo acesso atempado, equipas especializadas e acompanhamento domiciliário."
+        },
+        {
+          "headline": "\"Não é preguiça\". A luta desesperada de uma menina contra a Covid Longa",
+          "text": "Vitória, 13 anos, tem diagnóstico de Covid Longa desde março, após um calvário de mais de 10 médicos e inúmeras consultas. A fadiga cada vez mais intensa e o medo do rótulo de preguiçosa marcam o seu dia a dia desde 2021."
+        },
+        {
+          "headline": "Coimbra acolhe Unidade Residencial de Transição Forense para inimputáveis",
+          "text": "Uma nova unidade residencial com 8 camas, destinada a pessoas inimputáveis na sua etapa de transição para a vida em comunidade, foi inaugurada em Coimbra. O projeto representou um investimento de 652 mil euros financiado pelo PRR."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Passos Coelho só admite regresso à vida política se PSD não for bem-sucedido",
+          "text": "O antigo primeiro-ministro admitiu ponderar um regresso à vida política ativa se o PSD não for bem-sucedido na governação, insistindo que o partido tinha obrigação de explorar um acordo de legislatura com Chega e IL."
+        },
+        {
+          "headline": "Rosa Sousa eleita presidente da UGT",
+          "text": "A social-democrata Rosa Sousa foi eleita presidente da UGT com 413 votos a favor, substituindo Lucinda Dâmaso no cargo que ocupa desde 2013. A eleição sucede após um impasse na proposta de candidato no 15.º Congresso da central sindical na Figueira da Foz."
+        },
+        {
+          "headline": "IA poderá transformar 40% dos empregos a nível global",
+          "text": "A diretora-geral do FMI, Kristalina Georgieva, afirmou em Banguecoque que a inteligência artificial deverá afetar cerca de 40% dos empregos no mundo, com os jovens entre os mais expostos à disrupção. A declaração foi feita nas Reuniões Anuais de 2026 do FMI e Banco Mundial."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Universidade de Coimbra recebe Ministro para reflexão sobre imigração",
+          "text": "A UC promove na terça-feira, dia 13, a 47.ª sessão das Conversas da Casa da Lusofonia, com conferência do Ministro da Presidência António Leitão Amaro sobre \"Imigração na Europa: dilema existencial. Moderação possível?\". A sessão integra o ciclo de comemoração dos 40 anos da adesão de Portugal à UE."
+        },
+        {
+          "headline": "Movimento estudantil critica proposta do Governo e exige propinas congeladas",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🍂",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "18 restaurantes da Lousã preparam pratos especiais para celebrar o outono",
+          "text": "De 16 a 25 de outubro, o Festival Gastronómico Sabores de Outono traz 18 restaurantes da Lousã com ementas que conjugam receitas tradicionais e novas interpretações. Castanha, abóbora e cogumelos juntam-se ao Mel DOP e Licor Beirão. A organização espera mais de 10 mil comensais."
+        },
+        {
+          "headline": "\"Caminhada do Terror\" promete noite de mistério na Figueira da Foz",
+          "text": "A 31 de outubro, a Figueira da Foz recebe a Caminhada do Terror (Halloween Walk) na floresta, com partida da Lagoa da Vela às 20:00. O evento inclui bar, sopa, sandes de porco no espeto, concurso de abóboras e sorteio de bolo temático. Inscrição 3€."
+        },
+        {
+          "headline": "Prémio Nacional de Ilustração do FÓLIO dá liberdade à arte de resistir",
+          "text": ""
+        },
+        {
+          "headline": "Festival Política traz arte, humor e música a Coimbra pelos 50 anos da Constituição",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
