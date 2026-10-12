@@ -29656,5 +29656,111 @@
       "example_de": "Das Werk reduziert die Präsenz des Körpers auf Bedeutungslosigkeit.",
       "example_en": "The artwork reduces the body's presence to insignificance."
     }
+  ],
+  "2026-10-12": [
+    {
+      "pt": "derramar",
+      "de": "verschütten",
+      "en": "to spill, to leak",
+      "example": "Acidente provoca derrame de combustível",
+      "example_de": "Unfall verursacht Kraftstoffverschüttung",
+      "example_en": "Accident causes fuel spill"
+    },
+    {
+      "pt": "extorquir",
+      "de": "erpressen",
+      "en": "to extort",
+      "example": "Delineando um plano para extorquir o idoso",
+      "example_de": "Einen Plan ausheckend, um den Senior zu erpressen",
+      "example_en": "Devising a plan to extort the elderly person"
+    },
+    {
+      "pt": "o senão",
+      "de": "der Haken",
+      "en": "the drawback, the catch",
+      "example": "Consegue resultados mas há um senão",
+      "example_de": "Erreicht Ergebnisse, aber es gibt einen Haken",
+      "example_en": "Gets results but there is a catch"
+    },
+    {
+      "pt": "assustadoramente",
+      "de": "erschreckenderweise",
+      "en": "scarily, frighteningly",
+      "example": "Assustadoramente animada",
+      "example_de": "Erschreckenderweise lebhaft",
+      "example_en": "Scarily lively"
+    },
+    {
+      "pt": "fraquejar",
+      "de": "schwächeln",
+      "en": "to falter, to weaken",
+      "example": "Não podemos fraquejar perante a dificuldade",
+      "example_de": "Wir dürfen vor Schwierigkeiten nicht schwächeln",
+      "example_en": "We must not falter in the face of difficulty"
+    },
+    {
+      "pt": "o calvário",
+      "de": "der Leidensweg",
+      "en": "the ordeal, calvary",
+      "example": "Passou por um calvário de médicos e consultas",
+      "example_de": "Sie durchlebte einen Leidensweg von Ärzten und Sprechstunden",
+      "example_en": "She went through an ordeal of doctors and appointments"
+    },
+    {
+      "pt": "delinear",
+      "de": "aushecken",
+      "en": "to plan, to devise",
+      "example": "Delineando um plano para extorquir o idoso",
+      "example_de": "Einen Plan ausheckend, um den Senior zu erpressen",
+      "example_en": "Devising a plan to extort the elderly person"
+    },
+    {
+      "pt": "o sorteio",
+      "de": "die Verlosung",
+      "en": "the raffle, draw",
+      "example": "Sorteio de um Bolo Temático",
+      "example_de": "Verlosung eines thematischen Kuchens",
+      "example_en": "Raffle of a themed cake"
+    },
+    {
+      "pt": "a disrupção",
+      "de": "die Umwälzung",
+      "en": "disruption",
+      "example": "Jovens entre os mais expostos à disrupção",
+      "example_de": "Jugendliche am stärksten der Umwälzung ausgesetzt",
+      "example_en": "Youth among the most exposed to disruption"
+    },
+    {
+      "pt": "o impasse",
+      "de": "der Stillstand",
+      "en": "the impasse, deadlock",
+      "example": "Sucede após um impasse na proposta",
+      "example_de": "Erfolgt nach einem Stillstand im Vorschlag",
+      "example_en": "Succeeds after an impasse in the proposal"
+    },
+    {
+      "pt": "a inquirição",
+      "de": "die Befragung",
+      "en": "the survey, inquiry",
+      "example": "Um recente inquérito europeu",
+      "example_de": "Eine recente europäische Befragung",
+      "example_en": "A recent European survey"
+    },
+    {
+      "pt": "a conjugação",
+      "de": "die Verbindung",
+      "en": "the combination, conjunction",
+      "example": "Atuaram em conjugação de esforços",
+      "example_de": "Sie handelten in gemeinsamer Anstrengung",
+      "example_en": "They acted in combined effort"
+    },
+    {
+      "pt": "a abolição",
+      "de": "die Abschaffung",
+      "en": "the abolition",
+      "example": "Exige abolição em todo o mundo",
+      "example_de": "Fordert Abschaffung weltweit",
+      "example_en": "Demands abolition worldwide"
+    }
   ]
 }
