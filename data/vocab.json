@@ -29762,5 +29762,103 @@
       "example_de": "Fordert Abschaffung weltweit",
       "example_en": "Demands abolition worldwide"
     }
+  ],
+  "2026-10-13": [
+    {
+      "pt": "o pelourinho",
+      "de": "der Pranger",
+      "en": "the pillory",
+      "example": "Os pelourinhos portugueses escondem histórias de poder",
+      "example_de": "Die portugiesischen Pranger verbergen Geschichten der Macht",
+      "example_en": "Portuguese pillories hide stories of power"
+    },
+    {
+      "pt": "tomar posse",
+      "de": "vereidigt werden / das Amt antreten",
+      "en": "to be sworn in / to take office",
+      "example": "O novo diretor nacional da PSP vai tomar posse esta terça-feira",
+      "example_de": "Der neue nationale Direktor der PSP wird heute vereidigt",
+      "example_en": "The new national director of the PSP will be sworn in today"
+    },
+    {
+      "pt": "o punhal",
+      "de": "der Dolch",
+      "en": "the dagger",
+      "example": "Acaba detido por causa de um punhal",
+      "example_de": "Er wird wegen eines Dolchs verhaftet",
+      "example_en": "He ends up arrested because of a dagger"
+    },
+    {
+      "pt": "o envelhecimento ativo",
+      "de": "das aktive Altern",
+      "en": "active aging",
+      "example": "Uma reflexão sobre o envelhecimento ativo",
+      "example_de": "Eine Reflexion über das aktive Altern",
+      "example_en": "A reflection on active aging"
+    },
+    {
+      "pt": "exortar",
+      "de": "ermahnen / auffordern",
+      "en": "to urge / to exhort",
+      "example": "D. José Cordeiro exortou os peregrinos a viver uma peregrinação interior",
+      "example_de": "D. José Cordeiro ermahnte die Pilger zu einer inneren Wallfahrt",
+      "example_en": "D. José Cordeiro urged the pilgrims to live an inner pilgrimage"
+    },
+    {
+      "pt": "a quebra de confiança",
+      "de": "der Vertrauensverlust",
+      "en": "the breach of trust",
+      "example": "Ministro justifica demissão com quebra de confiança",
+      "example_de": "Minister rechtfertigt Entlassung mit Vertrauensverlust",
+      "example_en": "Minister justifies dismissal with breach of trust"
+    },
+    {
+      "pt": "a retaliação",
+      "de": "die Vergeltung",
+      "en": "the retaliation",
+      "example": "Considera a exoneração um ato de retaliação",
+      "example_de": "Er betrachtet die Amtsenthebung als Vergeltungsakt",
+      "example_en": "He considers the dismissal an act of retaliation"
+    },
+    {
+      "pt": "asfixiante",
+      "de": "erstickend",
+      "en": "suffocating / stifling",
+      "example": "Acusando Luís Neves de uma interferência política asfixiante",
+      "example_de": "Er beschuldigt Luís Neves einer erstickenden politischen Einmischung",
+      "example_en": "Accusing Luís Neves of stifling political interference"
+    },
+    {
+      "pt": "o caminho florestal",
+      "de": "der Waldweg",
+      "en": "the forest path/road",
+      "example": "Tábua recupera caminhos florestais afetados pelos incêndios",
+      "example_de": "Tábua saniert von Bränden betroffene Waldwege",
+      "example_en": "Tábua recovers forest paths affected by fires"
+    },
+    {
+      "pt": "o reperfilamento",
+      "de": "die Nivellierung / die Profilierung",
+      "en": "the reprofiling / leveling",
+      "example": "Incluindo a regularização e o reperfilamento das plataformas",
+      "example_de": "Including the regularization and leveling of the platforms",
+      "example_en": "Including the regularization and reprofiling of the platforms"
+    },
+    {
+      "pt": "a bacia hidrográfica",
+      "de": "das Einzugsgebiet",
+      "en": "the river basin / watershed",
+      "example": "Debater os desafios da bacia hidrográfica do rio Mondego",
+      "example_de": "Die Herausforderungen des Einzugsgebiets des Flusses Mondego debattieren",
+      "example_en": "To discuss the challenges of the Mondego river basin"
+    },
+    {
+      "pt": "a vexação",
+      "de": "die Schikane / die Demütigung",
+      "en": "the harassment / humiliation",
+      "example": "Acusando o ministro de pressões ilegítimas",
+      "example_de": "Er beschuldigt den Minister illegitimen Drucks",
+      "example_en": "Accusing the minister of illegitimate pressure"
+    }
   ]
 }
