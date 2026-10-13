@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-13",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "POLÍCIAS & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Novo diretor nacional da PSP é de Coimbra e toma posse hoje",
+          "text": "O superintendente-chefe Pedro Moura, natural de Coimbra, toma hoje posse como novo diretor nacional da Polícia de Segurança Pública, substituindo Luís Carrilho. A cerimónia é presidida pelo primeiro-ministro Luís Montenegro no Ministério da Administração Interna."
+        },
+        {
+          "headline": "Ministro demite secretário-geral por \"quebra de confiança\"",
+          "text": "O ministro da Administração Interna, Luís Neves, justificou a demissão do secretário-geral do Ministério com \"quebra de confiança\" resultante de situações de \"particular gravidade\" que comprometeram o funcionamento dos serviços. O ex-SGMAI considerou a exoneração \"um ato de retaliação\" e acusou o ministro de \"pressões ilegítimas\" e \"interferência política asfixiante\"."
+        },
+        {
+          "headline": "Vigilante agredido por grupo no Hospital",
+          "text": "Um vigilante foi agredido por um grupo num hospital, num novo episódio de violência contra profissionais de segurança em unidades de saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🚢",
+      "category": "CRIMES",
+      "stories": [
+        {
+          "headline": "Perseguição em alto-mar: um morto e 3,7 toneladas de cocaína apreendidas",
+          "text": "Um suspeito morreu e dois foram detidos na operação \"Mare Nostrum\" da Polícia Judiciária, que apreendeu 3.700 quilos de cocaína. O diretor da PJ de Lisboa, João Oliveira, informou que o fatalidade ocorreu fruto de ferimentos graves sofridos no momento da abordagem."
+        },
+        {
+          "headline": "Homem detido em Coimbra com punhal escondido no carro",
+          "text": "Um homem de 45 anos foi detido por posse de arma proibida na madrugada de domingo, na rua Dr. António José de Almeida. A detenção ocorreu durante uma fiscalização rodoviária a uma viatura estacionada sobre uma passadeira. A polícia encontrou um punhal escondido entre o banco e a porta do condutor. O suspeito admitiu saber que era arma proibida, justificando que a transportava para defesa pessoal."
+        }
+      ]
+    },
+    {
+      "emoji": "⛪",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "130 mil peregrinos encheram Fátima numa noite de fé e oração pelo Papa",
+          "text": "O arcebispo de Braga, D. José Cordeiro, presidiu às celebrações da primeira noite da última grande Peregrinação de 2026 a Fátima, na qual se rezou pela saúde do Papa Leão XIV. Na homilia, exortou os cerca de 130 mil peregrinos reunidos na Cova da Iria a viver uma peregrinação interior, a partir de um coração aberto à mensagem de Fátima."
+        }
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Creche de Coimbra aumenta capacidade de 35 para 80 crianças",
+          "text": "A Creche «Passo a Passo», em Cruz dos Morouços, vai passar a ter capacidade para 80 crianças após uma ampliação inaugurada esta quarta-feira. A cerimónia coincide com o 58.º aniversário da Obra de Promoção Social do Distrito de Coimbra. Sob o lema «Passo a Passo, a crescer juntos», a instituição reforça a resposta às necessidades das famílias da comunidade."
+        },
+        {
+          "headline": "Tábua recupera caminhos florestais afetados pelos incêndios",
+          "text": "O Município de Tábua iniciou a 6 de outubro uma empreitada de recuperação de caminhos florestais afetados pelos incêndios rurais de setembro de 2024. A intervenção abrange cerca de 55 mil metros quadrados de pavimento, incluindo regularização e reperfilamento das plataformas, para melhorar as condições de circulação e segurança dos acessos."
+        },
+        {
+          "headline": "Projeto da Região de Coimbra é finalista dos Prémios dos Fundos Europeus",
+          "text": "O projeto FOOD CORRIDORS, liderado pela Região Metropolitana de Coimbra, é finalista da segunda edição dos Prémios dos Fundos Europeus 2026, na categoria \"Portugal + Cooperação Territorial Europeia\". A candidatura está em fase de votação pública durante o mês de outubro."
+        },
+        {
+          "headline": "Universidade Sénior de Penela arranca novo ano letivo com 70 inscritos",
+          "text": "A Universidade Sénior de Penela iniciou o novo ano letivo com 70 inscritos, promovendo a aprendizagem, o convívio e o envelhecimento ativo. A sessão de abertura contou com uma reflexão sobre o envelhecimento ativo conduzida por Cristina Almeida, professora da Universidade de Coimbra."
+        },
+        {
+          "headline": "Miranda do Corvo junta mais de 80 participantes em torneio de futebol inclusivo",
+          "text": "Mais de 80 pessoas com deficiência ou doença mental participaram na segunda edição do DIVERSIDADE CUP, um torneio de futebol inclusivo promovido pela Fundação ADFP em Miranda do Corvo. A iniciativa reuniu participantes da Fundação ADFP e do Cavalo Azul num dia dedicado ao desporto, ao convívio e à inclusão."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Irmãos conquistaram o Rally de Cantanhede juntos",
+          "text": "A dupla de irmãos António e Ana Cruz Monteiro venceu a quarta edição do Rally de Cantanhede/Marquês de Marialva, numa prova que manteve a emoção até aos últimos quilómetros. Ao volante de um Peugeot 208 T16, António Monteiro terminou com 53 minutos e 5,7 segundos, garantindo a vitória num rally que atraiu milhares de pessoas às estradas do concelho."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Viseu junta autarcas e especialistas para debater o futuro do rio Mondego",
+          "text": "Viseu recebe a 24 de outubro o 1.º Congresso do Mondego, um encontro para debater os principais desafios ambientais e de gestão da bacia hidrográfica do rio. Organizado pelo MUNDA - Movimento para a Defesa do Rio Mondego, o congresso reúne autarcas, investigadores, especialistas e associações ambientais no Auditório do IPDJ, no Fontelo."
+        },
+        {
+          "headline": "Oliveira do Bairro promove sessões gratuitas sobre saúde sexual",
+          "text": "O município de Oliveira do Bairro promove sessões gratuitas sobre saúde sexual e planeamento familiar, dirigidas à comunidade local."
+        },
+        {
+          "headline": "ERSAR distingue Idanha-a-Nova pela qualidade exemplar da água",
+          "text": "A entidade reguladora dos serviços de águas e resíduos distinguiu Idanha-a-Nova pela qualidade exemplar da água para consumo humano, num reconhecimento do investimento no sector em toda a região do Centro."
+        },
+        {
+          "headline": "Seia desafia jovens a transformar ideias em projetos para o concelho",
+          "text": "O município de Seia lançou um desafio aos jovens para transformarem ideias em projetos para o futuro do concelho, promovendo a participação cívica e o empreendedorismo juvenil."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Góis: Pelourinhos portugueses escondem histórias de poder",
+          "text": "O Município de Góis apresenta a obra \"Pelourinhos: Símbolos de Poder - Desenhos de Nunes Pereira\" a 17 de outubro, em Côja. O livro reúne desenhos dedicados aos pelourinhos, monumentos que testemunham a evolução da história do poder local e se afirmam como elementos marcantes do património histórico português. A iniciativa assinala os 120 anos do nascimento de Monsenhor Nunes Pereira."
+        },
+        {
+          "headline": "Herman José está de volta à televisão com convidados e surpresas",
+          "text": "Herman José regressa à televisão com um novo programa que promete convidados bem conhecidos e muitas surpresas."
+        },
+        {
+          "headline": "Bilhetes esgotados para Ricardo Araújo Pereira em Coimbra",
+          "text": "Os bilhetes para o espetáculo \"Verificando Se Você é Humano\" de Ricardo Araújo Pereira em Coimbra estão esgotados, mas ainda há uma oportunidade para conseguir lugar."
+        },
+        {
+          "headline": "Karyna Gomes traz a Coimbra a música da Guiné-Bissau",
+          "text": "Karyna Gomes apresenta em Coimbra um concerto intimista que celebra a música da Guiné-Bissau, numa proposta cultural que cruza tradições africanas com sonoridades contemporâneas."
+        },
+        {
+          "headline": "Outono: combinação irresistível à mesa de 8 restaurantes de Penela",
+          "text": "Oito restaurantes de Penela participam numa iniciativa gastronómica de outono, oferecendo combinações irresistíveis à mesa para promover a culinária regional."
+        },
+        {
+          "headline": "Plano perfeito para quem não resiste a um bom prato de borrego",
+          "text": "Uma proposta gastronómica dedicada ao borrego promete deliciar os amantes da cozinha tradicional portuguesa nesta época do ano."
+        }
+      ]
+    }
+  ]
+}
