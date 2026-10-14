@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Papa Leão XIV tem tumor maligno no pulmão",
+          "text": "O Papa Leão XIV foi submetido a uma cirurgia para remoção de um nódulo pulmonar, tendo sido posteriormente diagnosticado com tumor maligno. Os EUA desejaram \"força\" ao Papa. Cerca de 100 mil peregrinos rezaram em Fátima pela sua saúde, a milhares de quilómetros de Roma."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo corta retenção do IRS em 50% durante um mês",
+          "text": "A retenção do IRS na fonte vai ter um corte de 50% em novembro para refletir a descida intercalar do imposto aprovada no parlamento. Em dezembro voltam a aplicar-se as taxas atuais."
+        },
+        {
+          "headline": "PSD e PS aprovam alargamento da licença parental",
+          "text": "O PSD e o PS chegaram a acordo para alargar a licença parental paga a 100% até aos seis meses. A proposta foi aprovada na íntegra pelo grupo de trabalho parlamentar e segue agora para a comissão de Trabalho e Segurança Social."
+        },
+        {
+          "headline": "Ministro desaconselha viagens à Arábia Saudita",
+          "text": "O ministro aconselha contra viagens à Arábia Saudita após ataques a aeroportos no país."
+        },
+        {
+          "headline": "Cantanhede ganha importância no mercado mundial da canábis medicinal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Leva companheira para terreno, mata-a a tiro e tenta pôr fim à própria vida",
+          "text": "Um homem levou a sua companheira para um terreno isolado, matou-a a tiro e tentou suicidar-se dentro do carro. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Festa acaba em tiroteio: militar da GNR e dois civis feridos",
+          "text": "Um militar da GNR e dois civis ficaram feridos após um tiroteio em Alcabideche, Cascais, durante uma festa. Quatro pessoas foram detidas e três armas de fogo apreendidas."
+        },
+        {
+          "headline": "Novo diretor quer transformar a PSP numa \"polícia de todos\"",
+          "text": "O novo diretor da PSP promete uma polícia mais próxima dos cidadãos. Luís Neves comprometeu-se a \"valorizar especialmente\" os polícias que andam nas ruas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Cozinha Económica de Coimbra benze nova carrinha",
+          "text": "A ACERSI apresenta a nova carrinha de nove lugares, custou 47.861 euros e foi comprada com apoio da comunidade através da campanha \"Solidariedade em Movimento\". A bênção está marcada para sexta-feira, 16 de outubro, no Terreiro do Mendonça."
+        },
+        {
+          "headline": "Câmara de Miranda do Corvo investe em Semide e Rio Vide",
+          "text": "O município vai atribuir 39.275 euros à União de Freguesias para a construção de um hangar, seguindo-se ao investimento recente no cemitério local."
+        },
+        {
+          "headline": "Oliveira do Hospital: benção dos tratores pelo bom ano agrícola",
+          "text": "A tradição do bom ano agrícola passa pela benção dos tratores em Oliveira do Hospital, mantendo viva uma costume rural da região."
+        },
+        {
+          "headline": "Coimbra quer afirmar-se como referência mundial na área da saúde",
+          "text": "O administrador da ULS de Coimbra, Carlos Santos, defendeu que Coimbra tem todos os ativos científicos, clínicos e académicos para assumir um papel de grande relevância na agenda global da saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival Sabores de Outono na Lousã: 18 restaurantes, 10 dias",
+          "text": "De 16 a 25 de outubro, o festival gastronómico reúne 18 restaurantes com pratos de outono. Castanha, abóbora e cogumelos juntam-se ao Mel DOP Serra da Lousã e ao Licor Beirão. A organização espera mais de 10 mil comensais."
+        },
+        {
+          "headline": "Feira dos Santos, do Mel e da Castanha em Góis",
+          "text": "Nos dias 31 de outubro e 1 de novembro, Góis realiza a típica feira com música, gastronomia e o tradicional Magusto. O programa inclui a cantora Rosinha, um festival de sopas e o Rancho Folclórico Serra do Ceira."
+        },
+        {
+          "headline": "Gonçalo Cadilhe regressa a casa para conversa sobre viajar e escrever",
+          "text": "O escritor e viajante figueirense reúne-se com Nuno Camarneiro nas \"5.as de Leitura\" a 12 de novembro, na Biblioteca Municipal Pedro Fernandes Tomás, para celebrar 17 anos da iniciativa."
+        },
+        {
+          "headline": "Passadiços do Mondego recebem caminhada de dificuldade alta",
+          "text": "A Associação Geopark Estrela promove uma caminhada no sábado, 17 de outubro, entre a Barragem do Caldeirão e Videmonte, dando a conhecer o património geológico da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Politécnica de Coimbra recebe novos alunos com DJs até de madrugada",
+          "text": "Esta quarta-feira, 14 de outubro, o campus de Bencanta recebe uma festa de boas-vindas a partir das 17h00 com música, DJs e a participação das seis escolas da UPCoimbra. A festa prolonga-se até às 02h00."
+        },
+        {
+          "headline": "Universidade de Coimbra cria app para prevenir burnout em médicos internos",
+          "text": "A UC desenvolveu uma aplicação destinada a detetar sinais de burnout em médicos internos mais cedo, numa resposta ao desgaste profissional na área da saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Chef da Lousã \"ajuda a alimentar\" vitória do Sporting na Liga dos Campeões",
+          "text": "O chef Flávio, da Lousã, acompanha o Sporting nas competições europeias como responsável pelas refeições dos jogadores, garantindo refeições equilibradas e adaptadas às exigências nutricionais da alta competição."
+        },
+        {
+          "headline": "Leões rugem em França e somam segunda vitória na Liga dos Campeões",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Mulher de 93 anos morre em colisão no antigo IP5",
+          "text": "Uma mulher de 93 anos morreu na sequência de uma colisão entre dois veículos no antigo IP5. Um passageiro do outro veículo ficou em estado grave e há mais duas vítimas ligeiras."
+        }
+      ]
+    }
+  ]
+}
