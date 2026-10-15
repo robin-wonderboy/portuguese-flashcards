@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Paulo Roxo mata a mulher à facada e suicida-se",
+          "text": "Paulo Roxo matou a companheira Vanda Figueira à facada em casa, ligou a um amigo a contar tudo e depois suicidou-se. A vítima já tinha as malas no carro preparadas para se separar."
+        },
+        {
+          "headline": "GNR de folga confundidos com traficantes em tiroteio",
+          "text": "Dois militares da GNR que estavam de folga deslocaram-se à Trafaria por iniciativa própria durante uma operação de vigilância de tráfico internacional de droga. Por estarem à civil, foram confundidos com elementos ligados ao tráfico, gerando um mal-entendido de grande perigo. A operação terminou com cinco detidos."
+        },
+        {
+          "headline": "Coimbra: Mata namorada à pancada e vai ao funeral chorar",
+          "text": "Um homem matou a namorada à pancada, deu-lhe banho para ocultar os vestígios e compareceu no funeral a chorar a morte. O caso está a decorrer nos tribunais de Coimbra."
+        },
+        {
+          "headline": "Casal de idosos alvo de tentativa de carjacking",
+          "text": "Um casal de idosos foi alvo de uma tentativa de carjacking na região de Coimbra. Os assaltantes tentaram apoderar-se do veículo com os ocupantes ainda no interior."
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Sol, chuva e descida de temperaturas para o fim de semana",
+          "text": "Depois de mais um dia de calor na sexta-feira, a previsão aponta para chuva fraca e localizada no sábado, seguindo-se uma descida das temperaturas no domingo, sobretudo nas regiões Norte e Centro. As temperaturas podem baixar até 5°C segundo o modelo ECMWF."
+        },
+        {
+          "headline": "Arqueologia da Morte em destaque no Castelo de Montemor-o-Velho",
+          "text": "O Castelo de Montemor-o-Velho recebe a 31 de outubro o colóquio \"Intervenção Arqueológica: A Arqueologia da Morte\", integrado na programação cultural Castelo Sente. Entrada livre mediante reserva, limitada a 50 pessoas."
+        },
+        {
+          "headline": "Castelo de Penela com caça ao tesouro e visitas guiadas",
+          "text": "O Castelo de Penela oferece atividades de caça ao tesouro e visitas guiadas, promovendo o contacto com a história local de forma lúdica."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "AAC pede reuniões urgentes aos líderes partidários após invasão da RUC",
+          "text": "A Direção-Geral da Associação Académica de Coimbra pediu reuniões a todos os líderes dos partidos com assento parlamentar, na sequência da invasão das instalações da Rádio Universidade de Coimbra e dos gabinetes da associação ocorrida a 12 de outubro. A AAC pretende alertar os representantes políticos para a gravidade dos acontecimentos."
+        },
+        {
+          "headline": "Livro em Coimbra debate médicos, doentes e inteligência artificial",
+          "text": "O livro \"Doente e médico: uma relação intemporal\" é apresentado hoje às 18h30 na Ordem dos Médicos em Coimbra. A obra debate como a inteligência artificial está a transformar a relação clínica, do modelo paternalista à abordagem colaborativa atual, sem esquecer a dimensão central do alívio do sofrimento."
+        }
+      ]
+    },
+    {
+      "emoji": "🍂",
+      "category": "CULTURA & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Festival do Medronho em São Gião (Oliveira do Hospital)",
+          "text": "A 29 e 30 de outubro, a aldeia de São Gião recebe o Festival do Medronho, celebrando a colheita do fruto silvestre e a produção de aguardente. Haverá degustações, licores tradicionais e um almoço comunitário pelas ruas, preparado ao lume com torresmos. O festival valoriza os recursos naturais e os saberes transmitidos entre gerações."
+        },
+        {
+          "headline": "Falta um dia: Festival Sabores de Outono enche a Lousã",
+          "text": "De 16 a 25 de outubro, 18 restaurantes da Lousã apresentam ementas com castanha, abóbora, cogumelos, Mel DOP Serra da Lousã e Licor Beirão. A organização espera mais de 10 mil comensais. O festival inclui também música, teatro de marionetas e descontos em alojamento e animação turística."
+        },
+        {
+          "headline": "Miranda do Corvo: comida típica, música e passeios",
+          "text": "O fim de semana promete em Miranda do Corvo com proposta de comida típica regional, música ao vivo e passeios pela natureza."
+        },
+        {
+          "headline": "Aldeias da serra celebram o outono à mesa",
+          "text": "Há aldeias na serra onde o outono se celebra à mesa com produtos locais e tradições ancestrais. Já há datas marcadas para visitar e descobrir estes territórios vivos."
+        },
+        {
+          "headline": "Coimbra: Concerto junta rock e música clássica pela inclusão",
+          "text": "Coimbra recebe um concerto que combina rock e música clássica para celebrar a inclusão, numa iniciativa que promete uma experiência musical única."
+        },
+        {
+          "headline": "Cantanhede enche-se de música com quatro bandas filarmónicas",
+          "text": "Cantanhede vai receber um desfile com quatro bandas filarmónicas, enchemdo a vila de música e tradição."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "REGIÃO & PAÍS",
+      "stories": [
+        {
+          "headline": "Mural de Penacova apagado numa só demão de tinta",
+          "text": "O mural que desde 2021 dava as boas-vindas a quem chegava a Penacova foi coberto de cinzento a 14 de outubro. O vereador socialista João Azadinho acusa quem tomou a decisão de apagar \"a própria história\" do concelho, representando barqueiros, lavadeiras e moleiros."
+        },
+        {
+          "headline": "Jovens talentos de Soure nas meias-finais do Funtástico",
+          "text": "Jovens talentos de Soure chegaram às meias-finais do concurso Funtástico, destacando-se na competição regional."
+        },
+        {
+          "headline": "Tondela transforma Mercado Velho em fábrica de criação artística",
+          "text": "O projeto Caótica – Fábrica de Criação Artística será apresentado a 17 de outubro em Tondela. O espaço no antigo Mercado Velho terá ateliers, workshops, residências artísticas e eventos, valorizando os saberes tradicionais com o envolvimento da comunidade e das escolas."
+        },
+        {
+          "headline": "Tondela entrega desfibrilhador à GNR",
+          "text": "O município de Tondela entregou um desfibrilhador à GNR para socorrer vítimas em paragem cardíaca, reforçando a resposta de emergência no concelho."
+        },
+        {
+          "headline": "Pai de menina de 14 anos vai processar o Estado",
+          "text": "O pai de uma menina de 14 anos que viajou para Portugal para conhecer um namorado conheceu na Internet vai processar o Estado, acusando as autoridades de falha na proteção da menor."
+        },
+        {
+          "headline": "Aparatoso choque em cadeia com autocarros em Braga: 19 feridos",
+          "text": "Uma colisão em cadeia entre dois autocarros dos Transportes Urbanos de Braga e um carro ligeiro provocou 19 feridos ligeiros em frente ao Braga Parque. As vítimas, passageiros dos autocarros, foram transportadas para o Hospital de Braga."
+        }
+      ]
+    }
+  ]
+}
