@@ -29910,5 +29910,111 @@
       "pt": "o cogumelo",
       "de": "der Pilz"
     }
+  ],
+  "2026-10-15": [
+    {
+      "pt": "o barqueiro",
+      "de": "der Fährmann",
+      "en": "the boatman",
+      "example": "Os barqueiros transportavam pessoas pelo rio.",
+      "example_de": "Die Fährleute brachten Menschen über den Fluss.",
+      "example_en": "The boatmen ferried people across the river."
+    },
+    {
+      "pt": "o moleiro",
+      "de": "der Müller",
+      "en": "the miller",
+      "example": "O moleiro moía o trigo para fazer farinha.",
+      "example_de": "Der Müller mahlte den Weizen zu Mehl.",
+      "example_en": "The miller ground wheat to make flour."
+    },
+    {
+      "pt": "a demão",
+      "de": "der Anstrich",
+      "en": "the coat of paint",
+      "example": "Uma só demão de tinta cobriu o mural.",
+      "example_de": "Ein einziger Anstrich bedeckte das Wandbild.",
+      "example_en": "A single coat of paint covered the mural."
+    },
+    {
+      "pt": "o medronho",
+      "de": "die Erdbeerbaumfrucht",
+      "en": "the arbutus/strawberry tree fruit",
+      "example": "O medronho é usado para fazer aguardente.",
+      "example_de": "Die Erdbeerbaumfrucht wird zur Schnapsbereitung verwendet.",
+      "example_en": "The arbutus fruit is used to make brandy."
+    },
+    {
+      "pt": "o torresmo",
+      "de": "der Schweinespeck",
+      "en": "the pork rind/crackling",
+      "example": "Os torresmos são servidos como aperitivo.",
+      "example_de": "Die Schweinespeckstücke werden als Vorspeise serviert.",
+      "example_en": "The pork cracklings are served as an appetizer."
+    },
+    {
+      "pt": "confundir",
+      "de": "verwechseln",
+      "en": "to confuse/mix up",
+      "example": "Os militares foram confundidos com traficantes.",
+      "example_de": "Die Soldaten wurden mit Drogenhändlern verwechselt.",
+      "example_en": "The soldiers were confused with drug traffickers."
+    },
+    {
+      "pt": "o voluntarismo",
+      "de": "der Ehrenamtseifer",
+      "en": "volunteerism/overzealousness",
+      "example": "O caso evidencia os riscos do voluntarismo.",
+      "example_de": "Der Fall zeigt die Risiken des Ehrenamtseifers.",
+      "example_en": "The case highlights the risks of overzealous volunteerism."
+    },
+    {
+      "pt": "a invasão",
+      "de": "die Invasion/Besetzung",
+      "en": "the invasion/occupation",
+      "example": "A invasão das instalações da RUC provocou indignação.",
+      "example_de": "Die Besetzung der RUC-Räume löste Empörung aus.",
+      "example_en": "The invasion of the RUC facilities caused outrage."
+    },
+    {
+      "pt": "o sabão",
+      "de": "die Seife",
+      "en": "the soap",
+      "example": "As lavadeiras usavam sabão para lavar a roupa.",
+      "example_de": "Die Wäscherinnen benutzten Seife zum Waschen.",
+      "example_en": "The washerwomen used soap to wash clothes."
+    },
+    {
+      "pt": "o mal-entendido",
+      "de": "das Missverständnis",
+      "en": "the misunderstanding",
+      "example": "A presença dos militares gerou um mal-entendido.",
+      "example_de": "Die Anwesenheit der Soldaten führte zu einem Missverständnis.",
+      "example_en": "The presence of the soldiers caused a misunderstanding."
+    },
+    {
+      "pt": "valorizar",
+      "de": "aufwerten",
+      "en": "to value/enhance",
+      "example": "O festival pretende valorizar os recursos naturais.",
+      "example_de": "Das Festival soll die Naturressourcen aufwerten.",
+      "example_en": "The festival aims to enhance natural resources."
+    },
+    {
+      "pt": "o sabedor",
+      "de": "der Wissende",
+      "en": "the knower/holder of knowledge",
+      "example": "Os saberes tradicionais passam entre gerações.",
+      "example_de": "Das traditionelle Wissen wird zwischen Generationen weitergegeben.",
+      "example_en": "Traditional knowledge is passed between generations."
+    },
+    {
+      "pt": "batizado",
+      "de": "getauft/tauft auf",
+      "en": "baptized/dubbed/named",
+      "example": "O projeto foi batizado de Caótica.",
+      "example_de": "Das Projekt wurde Caótica getauft.",
+      "example_en": "The project was dubbed Caótica."
+    }
   ]
 }
