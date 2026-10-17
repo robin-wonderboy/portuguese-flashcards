@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚗",
+      "category": "COIMBRA & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Carro descontrolado vai parar à vedação do quartel dos Sapadores",
+          "text": "Um acidente ao início da noite de sexta-feira terminou com uma viatura a embater contra a vedação do Quartel do Batalhão dos Sapadores, depois de uma colisão com outro automóvel. Uma mulher de 64 anos ficou ferida e foi transportada para os Hospitais da Universidade de Coimbra."
+        },
+        {
+          "headline": "Móveis, plásticos e entulho continuam a ser despejados nas ruas de Coimbra",
+          "text": "A União das Freguesias de Assafarge e Antanhol voltou a alertar para o depósito indevido de lixo e resíduos em vários locais, apelando ao civismo da população e à colaboração na identificação dos responsáveis. A junta lamenta que as situações continuem apesar dos avisos."
+        },
+        {
+          "headline": "Como gostava que fosse o Natal em Coimbra? A cidade quer ouvir a sua opinião",
+          "text": "O Município de Coimbra lançou um formulário online para recolher ideias e opiniões sobre a programação natalícia. A iniciativa \"Vamos imaginar o Natal em Coimbra\" pretende envolver os cidadãos na preparação das celebrações."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "CLIMA & TRADIÇÃO",
+      "stories": [
+        {
+          "headline": "Calor de verão em pleno outubro deixa castanhas a arrefecer na Baixa de Coimbra",
+          "text": "O calor fora de época está a pesar nas vendas de castanha assada. Miguel Louro, vendedor na Praça 8 de Maio, mantém a dúzia a 2,50 euros apesar dos custos de combustível e carvão terem subido. A faturação ressente-se do tempo quente: \"Com este tempo não apetece castanhas\", resume, esperando uma chuvadazinha que ajude a época."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & REGIÃO",
+      "stories": [
+        {
+          "headline": "Atenção: IP3 com trânsito condicionado durante quatro horas",
+          "text": "A Infraestruturas de Portugal vai realizar trabalhos de substituição de luminárias de vapor de sódio por tecnologia LED no dia 19 de outubro, entre os km 53 e 54, na zona do Nó de Lorvão. O corte de via implica desvio provisório no sentido Coimbra-Viseu."
+        },
+        {
+          "headline": "Sertã já tem dois novos autocarros 100% elétricos ao serviço da população",
+          "text": "Dois novos autocarros elétricos circulam no concelho da Sertã, assegurando circuitos de transporte escolar de forma alternada. Os veículos entraram ao serviço no início do ano letivo e uma segunda fase poderá alargar o serviço à população em geral."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "CULTURA & TURISMO",
+      "stories": [
+        {
+          "headline": "Penacova tem uma aguardente exclusiva inspirada numa borboleta impressionante",
+          "text": "O projeto Madronhalva criou a Imperatriz, uma aguardente de medronho inspirada na borboleta-do-medronheiro, com produção limitada e garrafa a rondar os 40 euros. A aposta combina qualidade, sustentabilidade e valorização do território de Penacova."
+        },
+        {
+          "headline": "Figueira da Foz vai receber fenómeno mundial da música",
+          "text": "O cantor norte-americano Alex Warren atua pela primeira vez em Portugal a 18 de julho de 2027, na Praia do Relógio, Figueira da Foz. O concerto integra a digressão mundial Finding (More) Family On The Road e faz parte do Portugal Summer Sessions."
+        },
+        {
+          "headline": "Aldeia Natal do Portugal dos Pequenitos já tem data de abertura",
+          "text": "A Aldeia Natal regressa ao Portugal dos Pequenitos entre 27 de novembro e 3 de janeiro, com cenários renovados e surpresas. A parceria entre o parque e a Câmara Municipal de Coimbra promete uma versão reinventada do evento natalício."
+        },
+        {
+          "headline": "Zoomarine abre portas a 950 crianças para dois dias de diversão gratuita",
+          "text": "O Zoomarine Algarve recebeu cerca de 950 crianças, jovens e adultos de instituições sociais na Festa dos Sorrisos, proporcionando experiências gratuitas a quem dificilmente teria oportunidade de visitar o parque."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "Deputados italianos debatem futuro do trabalho e IA com estudantes em Coimbra",
+          "text": "O ISMT recebeu uma comitiva da comissão parlamentar italiana responsável pelas políticas de trabalho. Os estudantes puderam questionar diretamente os representantes políticos sobre os desafios do mercado laboral, formação contínua e Inteligência Artificial. O líder da delegação destacou a importância de saber dizer \"não\" e da formação ao longo da vida."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "\"Velho conhecido\" detido por incêndio florestal que consumiu três hectares",
+          "text": "Um homem de 54 anos foi detido pela PJ por suspeita de ter provocado um incêndio em Junqueira, Vale de Cambra, que consumiu três hectares de pinheiros, eucaliptos, carvalhos e giestas. As consequências não foram mais graves graças à rápida intervenção dos bombeiros."
+        },
+        {
+          "headline": "Prisão domiciliária para pai que fugiu com filha após desacatos familiares",
+          "text": ""
+        },
+        {
+          "headline": "Influenciadora manda raptar fã para recuperar 3500 euros",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "category": "AMBIENTE & FLORESTA",
+      "stories": [
+        {
+          "headline": "Anadia cria ecocentro para evitar que sobrantes florestais acabem em queimadas",
+          "text": "O Município de Anadia está a criar um Ecocentro Florestal em Avelãs de Cima, num investimento de 74 mil euros, para melhorar a gestão de resíduos vegetais e prevenir incêndios rurais. O espaço de cinco mil metros quadrados permite a deposição segura de sobrantes florestais e promove a economia circular."
+        }
+      ]
+    }
+  ]
+}
