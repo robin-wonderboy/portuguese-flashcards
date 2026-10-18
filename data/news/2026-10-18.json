@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica \"quebra o jejum\" e passa à quarta eliminatória da Taça de Portugal",
+          "text": "A Académica venceu o Amarante por 3-2, este sábado, no Estádio Cidade de Coimbra, num jogo a contar para a terceira eliminatória da Taça de Portugal. A Briosa garantiu a vitória num jogo disputado, marcado por cinco golos, e continua na luta pela prova rainha do futebol português."
+        },
+        {
+          "headline": "Uma camisola com o número 80 e um estádio a aplaudir de pé: a Briosa não esquece Toni",
+          "text": "O ex-jogador Toni regressou ao Estádio Cidade de Coimbra para uma homenagem especial. A Académica ofereceu-lhe uma camisola com o número 80 e o estádio aplaudiu de pé. \"Coimbra deixa marcas em todos aqueles que aqui passaram\", disse o antigo jogador."
+        },
+        {
+          "headline": "\"Afastar os fantasmas da Taça\". Adeptos fazem 253 km pela Briosa",
+          "text": "Um grupo de adeptos da Académica percorreu 253 quilómetros para apoiar a equipa no jogo da Taça de Portugal, numa iniciativa para \"afastar os fantasmas\" da competição."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra recebe exposição «Os Justos» com obras de artistas contemporâneos",
+          "text": "O Círculo de Artes Plásticas de Coimbra (CAPC) inaugura no dia 24 de outubro a exposição coletiva «Os Justos», com curadoria de Mafalda Ruão. A exposição reúne projetos de artistas selecionados através da Open Call 2026 e obras da coleção da instituição, e estará patente até 19 de novembro."
+        },
+        {
+          "headline": "Coimbra melhora Largo do Romal e reforça iluminação na Baixa",
+          "text": "O município concluiu intervenções no Largo do Romal e reforçou a iluminação pública na Baixa de Coimbra durante o mês de setembro. Os trabalhos incluíram também a reparação de pavimentos na envolvente do Skate Park, na Couraça de Lisboa e na Rua José Falcão."
+        },
+        {
+          "headline": "Ernesto Cabrita, guia turístico conhecido, morre em despiste de mota",
+          "text": "Ernesto Nuno Cabrita, fundador da empresa Look-Al Cultural Experiences e conhecido guia turístico de Faro, morreu na noite de sexta-feira na sequência de um acidente de mota na zona dos Caliços. O alerta foi dado pelas 20h32 e apesar dos esforços dos Bombeiros e do INEM, não resistiu."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Revelada a última gravação de Jorge Palma: uma \"Estrela\" para a eternidade",
+          "text": "A última gravação em estúdio de Jorge Palma foi divulgada este sábado, quase um mês depois da morte do músico a 21 de setembro. O artista interpretou o tema \"Estrela\" de Carminho a 24 de julho, para o projeto «NOS Canta a Outro e Não ao Mesmo»."
+        },
+        {
+          "headline": "Castanhas, cogumelos e enchidos: 11 programas para saborear o outono nas Aldeias de Xisto",
+          "text": "O outono traz às Aldeias do Xisto eventos dedicados à gastronomia e produtos tradicionais. A programação inclui o Festival Gastronómico Sabores de Outono na Lousã (16 a 25 de outubro) e o Festival Gastronómico do Achigã em Vila de Rei, entre outros."
+        },
+        {
+          "headline": "Já sabemos quando abre a Aldeia Natal do Portugal dos Pequenitos",
+          "text": "A Aldeia Natal do Portugal dos Pequenitos tem data de abertura anunciada e traz novidades e surpresas para esta época natalícia."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Matam porteiro para ficar com fortuna milionária. Afonso Belo encontrado sem vida na banheira",
+          "text": "Um caso crime chocou a região: um porteiro foi assassinado para ficar com uma fortuna milionária. Afonso Belo foi encontrado sem vida na banheira. A PJ investiga o caso."
+        },
+        {
+          "headline": "Matou e enterrou companheiro e vê pena aumentada para 14 anos",
+          "text": "Um tribunal decidiu aumentar a pena de um indivíduo que matou e enterrou o companheiro para 14 anos de prisão."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Gripe começa a atacar mais cedo e já faz aumentar a procura das urgências",
+          "text": "A procura de consultas e urgências hospitalares relacionadas com infeções respiratórias aumentou na semana passada. A Linha SNS 24 registou 73.135 atendimentos triados na semana de 5 a 11 de outubro, segundo dados da Direção-Geral da Saúde."
+        },
+        {
+          "headline": "Tarouca passa de 1 para 5 médicos de família em menos de um ano",
+          "text": "O concelho de Tarouca passou de um médico de família para cinco em menos de um ano. A nova Unidade de Saúde Familiar foi apresentada oficialmente esta sexta-feira, numa cerimónia com a presença do ministro da Presidência, António Leitão Amaro."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Colocados 52 mil estudantes no ensino superior, mais 14,8% que no ano passado",
+          "text": "Cerca de 52 mil alunos conseguiram colocação no ensino superior através do concurso nacional de acesso, terminando com mais 6.718 colocados do que no ano anterior. Os resultados da última fase foram divulgados à meia-noite de domingo."
+        },
+        {
+          "headline": "Escolas vão proibir nuggets e limitar doces a uma vez por mês",
+          "text": "Novas regras para as cantinas escolares vão proibir nuggets e limitar o consumo de doces a uma vez por mês, no âmbito de uma política de alimentação mais saudável nas escolas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "CENTRO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Arte antiga da Serra do Caramulo quer chegar à UNESCO",
+          "text": "No âmbito do Dia Internacional do Património Cultural Imaterial, foi entregue a placa que atesta a inscrição da \"Arte de Construções de Pedra Seca na Serra do Caramulo\" no Inventário Nacional do Património Cultural Imaterial. A distinção foi entregue pela vereadora da Cultura de Tondela."
+        },
+        {
+          "headline": "IL desafia Governo a disponibilizar imóveis devolutos do Estado para arrendamento",
+          "text": "A líder da Iniciativa Liberal, Mariana Leitão, desafiou o primeiro-ministro a cumprir a promessa de disponibilizar imóveis devolutos do Estado. \"Em 2024, o primeiro-ministro disse que iria pôr os imóveis à disposição em 60 dias. Passaram-se dois anos e meio\", criticou."
+        },
+        {
+          "headline": "João sobreviveu a 3 tumores e faz 700 km a pé para dar esperança a criança em Coimbra",
+          "text": "João da Silva percorreu 700 quilómetros a pé, de Faro a Melgaço, para angariar 9.400 euros destinados a apoiar uma criança em tratamento oncológico em Coimbra. A caminhada solidária começou a 21 de setembro e pretende chamar atenção para as dificuldades das famílias."
+        }
+      ]
+    },
+    {
+      "emoji": "🍺",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Parece um morango, nasce no outono e dá origem a aguardente única no mundo",
+          "text": "A Medronhalva, empresa de Penacova, espera alcançar em 2026 a maior produção de medronho desde a sua criação. A expectativa é colher pelo menos cinco toneladas do fruto e produzir entre 1.800 e 2.000 litros de aguardente de medronho."
+        }
+      ]
+    }
+  ]
+}
