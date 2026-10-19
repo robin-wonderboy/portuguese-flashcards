@@ -30172,5 +30172,87 @@
       "pt": "o rastilho",
       "de": "die Zündschnur/Lunte"
     }
+  ],
+  "2026-10-19": [
+    {
+      "pt": "o tejadilho",
+      "de": "Autodach",
+      "en": "car roof",
+      "example": "Um pormenor no tejadilho acabou por ser decisivo",
+      "example_de": "Ein Detail am Autodach erwies sich als entscheidend",
+      "example_en": "A detail on the car roof proved decisive"
+    },
+    {
+      "pt": "o refetorio",
+      "de": "Speisesaal",
+      "en": "dining hall, canteen",
+      "example": "Os refetorios escolares vao ter novas regras",
+      "example_de": "Die Schulspeiseshallen bekommen neue Regeln",
+      "example_en": "School canteens will have new rules"
+    },
+    {
+      "pt": "a leguminosa",
+      "de": "Huelsenfrucht",
+      "en": "legume, pulse",
+      "example": "Reforco da presenca de vegetais e leguminosas",
+      "example_de": "Staerkung der Praesenz von Gemuese und Huelsenfruechten",
+      "example_en": "More vegetables and legumes"
+    },
+    {
+      "pt": "desmobilizar",
+      "de": "demobilisieren, abruecken",
+      "en": "to demobilize, to stand down",
+      "example": "Apelo da policia para desmobilizacao",
+      "example_de": "Appell der Polizei zur Demobilisierung",
+      "example_en": "Police appeal to stand down"
+    },
+    {
+      "pt": "a desobediencia",
+      "de": "Ungehorsam",
+      "en": "disobedience",
+      "example": "Estavam a incorrer num crime de desobediencia",
+      "example_de": "Sie begingen ein Vergehen des Ungehorsams",
+      "example_en": "They were committing a crime of disobedience"
+    },
+    {
+      "pt": "o bagaco",
+      "de": "Trester, Traubentrester",
+      "en": "pomace, grape marc",
+      "example": "Camiao que transportava bagaco incendeia-se",
+      "example_de": "Lastwagen mit Tresterladung brennt",
+      "example_en": "Truck carrying grape marc catches fire"
+    },
+    {
+      "pt": "incendeiar-se",
+      "de": "sich entzuenden, in Brand geraten",
+      "en": "to catch fire, to go up in flames",
+      "example": "O camiao incendeia-se e corta a estrada",
+      "example_de": "Der Lastwagen geraet in Brand und blockiert die Strasse",
+      "example_en": "The truck catches fire and blocks the road"
+    },
+    {
+      "pt": "o ataque informatico",
+      "de": "Cyberangriff",
+      "en": "cyberattack",
+      "example": "A Camara de Ovar foi alvo de um ataque informatico",
+      "example_de": "Die Stadtverwaltung von Ovar war Ziel eines Cyberangriffs",
+      "example_en": "Ovar City Council was hit by a cyberattack"
+    },
+    {
+      "pt": "inoperacional",
+      "de": "nicht betriebsfaehig, lahmgelegt",
+      "en": "inoperative, non-operational",
+      "example": "O sistema esta inoperacional",
+      "example_de": "Das System ist lahmgelegt",
+      "example_en": "The system is inoperative"
+    },
+    {
+      "pt": "a Briosa",
+      "de": "die Briosa (Spitzname der Academica)",
+      "en": "the Briosa (Académica's nickname)",
+      "example": "Adeptos fazem 253 km pela Briosa",
+      "example_de": "Fans legen 253 km fuer die Briosa zurueck",
+      "example_en": "Fans travel 253 km for the Briosa"
+    }
   ]
 }
