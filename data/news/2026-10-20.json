@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "PORTUGAL & POLÍTICA",
+      "stories": [
+        {
+          "headline": "PSP avança contra Acampada de Lisboa e faz detenções",
+          "text": "O Corpo de Intervenção da PSP interveio esta madrugada para retirar as tendas da Praça D. Pedro IV, no Rossio. Pouco antes das 06:00, a PSP deu um ultimato aos manifestantes. Alguns que alegadamente resistiram foram detidos. Operação foi lançada em simultâneo com outra contra o acampamento no Porto."
+        },
+        {
+          "headline": "Acampamento desmontado no Porto perante ameaça de intervenção da PSP",
+          "text": "O acampamento de manifestantes pelo direito à habitação no Porto foi desmontado perante a ameaça de intervenção da PSP, seguindo o mesmo destino do acampamento de Lisboa."
+        },
+        {
+          "headline": "Habitação: Presidente da República pede medidas urgentes",
+          "text": "Marcelo Rebelo de Sousa apelou a um entendimento alargado entre Governo e oposição para adotar medidas urgentes e duradouras para a habitação \"com o contributo de todos\". Aguiar-Branco indeferiu entretanto o pedido de debate de urgência do partido Livre sobre o tema."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Caçador encontra restos mortais de \"Zeza\" desaparecida há seis meses em Coja",
+          "text": "Seis meses depois do desaparecimento de Maria José Costa, de 73 anos, um caçador encontrou os restos mortais junto à zona industrial de Coja, no concelho de Arganil. No local estavam também a roupa que vestia, um fio de ouro e os óculos. Maria José tinha-se deslocado da Margem Sul para Coja com o filho para passar a Páscoa."
+        },
+        {
+          "headline": "PJ detém funcionários de museu suspeitos de ficar com dinheiro dos bilhetes",
+          "text": "Dois funcionários da bilheteira de um museu em Lisboa foram detidos pela PJ, suspeitos de se apropriarem indevidamente do dinheiro dos visitantes através da emissão de bilhetes com descontos ou entradas gratuitas não aplicáveis. São investigados pelos crimes de peculato e falsidade informática."
+        },
+        {
+          "headline": "Trio suspeito de arrombar viaturas começou a ser julgado",
+          "text": "\"Tinha o vício de meter a mão aos puxadores dos carros\" - assim foi descrito o trio suspeito de arrombar viaturas que começou a ser julgado."
+        },
+        {
+          "headline": "Polícia Judiciária comemora 81 anos",
+          "text": "A PJ assinala hoje 81 anos de existência ao serviço da justiça e segurança em Portugal."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "REGIÃO & TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Colisão entre duas viaturas em Soure faz 2 feridos, um é criança",
+          "text": "Uma colisão entre dois veículos ligeiros, um deles escolar, provocou dois feridos na manhã desta terça-feira na EN342, na zona da Cavada, concelho de Soure. A criança sofreu ferimentos ligeiros. O outro condutor ficou encarcerado no veículo, sendo necessária operação de extracação."
+        },
+        {
+          "headline": "Vem aí o dia mais frio da semana: Coimbra prepara-se para temperaturas de rachar",
+          "text": "Portugal continental deverá enfrentar vários dias com temperaturas inferiores ao habitual para esta altura do ano. A descida mais expressiva espera-se na manhã de quinta-feira, 22 de outubro, quando os termómetros poderão registar valores até 6 graus Celsius abaixo da média climatológica."
+        },
+        {
+          "headline": "Exposição \"Já não há flores\" inaugura a 25 de outubro na Curia",
+          "text": ""
+        },
+        {
+          "headline": "Amanhecer abre loja em Cantanhede",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Problema de saúde mental em Portugal afeta quase um quarto da população",
+          "text": "Mais de um quinto da população portuguesa apresenta perturbações psiquiátricas. O Instituto São João de Deus vai reunir especialistas portugueses e espanhóis para debater novas formas de acompanhamento de pessoas com doença mental grave, sobretudo nas situações de maior vulnerabilidade."
+        },
+        {
+          "headline": "Falhas no sistema informático do SNS em resolução",
+          "text": "Os constrangimentos no sistema do SNS que impediam médicos de passar receitas e consultar processos clínicos começaram a ser resolvidos. Os problemas registaram-se devido a avarias no data center dos Serviços Partilhados do Ministério da Saúde."
+        },
+        {
+          "headline": "Gripe começa a atacar mais cedo e faz aumentar procura das urgências",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Greve fechou 1.370 escolas no país",
+          "text": "O Sindicato Nacional dos Profissionais da Educação (Sinape) informou que 1.370 escolas fecharam devido à greve de 24 horas dos funcionários não docentes, com uma taxa de adesão de aproximadamente 80%."
+        },
+        {
+          "headline": "Nuggets, rissóis e croquetes proibidos nas escolas",
+          "text": "Os refeitórios escolares vão ter novas regras em 2026. Ficam excluídos alimentos como nuggets, rissóis e croquetes, com redução das sobremesas doces e reforço de vegetais, peixe e leguminosas nas ementas."
+        },
+        {
+          "headline": "Universidade de Aveiro propõe modelo para empresas mais humanas na era da IA",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Grupo Volkswagen pondera congelar salários até 2030",
+          "text": "O maior grupo automóvel europeu, que integra VW, Seat, Cupra, Audi, Porsche e Skoda, está a ponderar um congelamento salarial dos trabalhadores até 2030. O objetivo é reduzir custos além da reestruturação já apresentada, segundo documentos internos revelados pelo jornal Süddeutsche Zeitung."
+        },
+        {
+          "headline": "Auchan de Eiras vai reabrir após obras com bolo grátis para clientes",
+          "text": ""
+        },
+        {
+          "headline": "Facebook acaba com limite de 5.000 amigos e mudança já chegou a Portugal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "CULTURA & GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "Penela tem nova tentação à mesa: borrego, cogumelos e pratos para descobrir",
+          "text": "A IV Semana Gastronómica do Borrego e do Cogumelo regressa a Penela entre 30 de outubro e 8 de novembro, com oito restaurantes do concelho a apresentar propostas inspiradas nestes dois produtos. A iniciativa combina receitas tradicionais com novas interpretações gastronómicas."
+        },
+        {
+          "headline": "Castanhas, cogumelos e jeropiga: o outono sabe melhor no Fundão",
+          "text": ""
+        },
+        {
+          "headline": "Feira junta doces conventuais e tentações irresistíveis em Figueiró dos Vinhos",
+          "text": ""
+        },
+        {
+          "headline": "E se fosse possível ouvir uma pintura? Alcobaça prepara concerto inspirado em Cargaleiro",
+          "text": ""
+        },
+        {
+          "headline": "Novo Mercado Municipal de Águeda abre ao público esta sexta-feira",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
