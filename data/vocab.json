@@ -30254,5 +30254,119 @@
       "example_de": "Fans legen 253 km fuer die Briosa zurueck",
       "example_en": "Fans travel 253 km for the Briosa"
     }
+  ],
+  "2026-10-20": [
+    {
+      "pt": "os restos mortais",
+      "de": "die sterblichen Überreste",
+      "en": "human remains",
+      "example": "Um caçador encontrou os restos mortais da mulher desaparecida",
+      "example_de": "Ein Jäger fand die sterblichen Überreste der vermissten Frau",
+      "example_en": "A hunter found the human remains of the missing woman"
+    },
+    {
+      "pt": "apropriar-se",
+      "de": "sich aneignen",
+      "en": "to appropriate for oneself",
+      "example": "Os funcionários apropriaram-se do dinheiro dos bilhetes",
+      "example_de": "Die Mitarbeiter haben sich das Geld der Tickets angeeignet",
+      "example_en": "The employees appropriated the ticket money"
+    },
+    {
+      "pt": "a perturbação",
+      "de": "die Störung",
+      "en": "disorder, disturbance",
+      "example": "Mais de um quinto da população apresenta perturbações psiquiátricas",
+      "example_de": "Mehr als ein Fünftel der Bevölkerung hat psychische Störungen",
+      "example_en": "More than a fifth of the population has psychiatric disorders"
+    },
+    {
+      "pt": "o refeitório",
+      "de": "die Kantine, der Speisesaal",
+      "en": "cafeteria, dining hall",
+      "example": "Os refeitórios escolares vão ter novas regras em 2026",
+      "example_de": "Die Schulkantinen bekommen 2026 neue Regeln",
+      "example_en": "School cafeterias will have new rules in 2026"
+    },
+    {
+      "pt": "desperdiçar",
+      "de": "verschwenden",
+      "en": "to waste, squander",
+      "example": "Há truques para deixar de desperdiçar comida",
+      "example_de": "Es gibt Tricks, um aufzuhören, Essen zu verschwenden",
+      "example_en": "There are tricks to stop wasting food"
+    },
+    {
+      "pt": "a jeropiga",
+      "de": "Traubensaft mit Schnaps",
+      "en": "jeropiga (local alcoholic drink)",
+      "example": "Castanhas, cogumelos e jeropiga no Fundão",
+      "example_de": "Kastanien, Pilze und Jeropiga im Fundão",
+      "example_en": "Chestnuts, mushrooms and jeropiga in Fundão"
+    },
+    {
+      "pt": "indefere",
+      "de": "lehnt ab, weist zurück",
+      "en": "rejects, dismisses (a request)",
+      "example": "Aguiar-Branco indefere pedido de debate de urgência",
+      "example_de": "Aguiar-Branco lehnt den Antrag auf Dringlichkeitsdebatte ab",
+      "example_en": "Aguiar-Branco dismisses the request for an urgent debate"
+    },
+    {
+      "pt": "a ossada",
+      "de": "das Skelett, die Gebeine",
+      "en": "skeleton, bones (remains)",
+      "example": "No local estavam também as ossadas da mulher",
+      "example_de": "Am Ort lagen auch die Gebeine der Frau",
+      "example_en": "At the site were also the woman's bones"
+    },
+    {
+      "pt": "o acampamento",
+      "de": "das Lager, das Camp",
+      "en": "camp, encampment",
+      "example": "O acampamento foi desmontado no Porto",
+      "example_de": "Das Lager wurde in Porto abgebaut",
+      "example_en": "The encampment was dismantled in Porto"
+    },
+    {
+      "pt": "o enlatado",
+      "de": "die Konservendose, das Konservenprodukt",
+      "en": "canned food, tin can",
+      "example": "Vai comprar enlatados? Estas embalagens podem esconder um risco",
+      "example_de": "Du willst Konserven kaufen? Diese Verpackungen können ein Risiko bergen",
+      "example_en": "Buying canned food? These packages may hide a risk"
+    },
+    {
+      "pt": "a falsidade informática",
+      "de": "die Computerfälschung",
+      "en": "computer fraud, digital forgery",
+      "example": "Os suspeitos são investigados pelo crime de falsidade informática",
+      "example_de": "Die Verdächtigen werden wegen Computerfälschung untersucht",
+      "example_en": "The suspects are being investigated for computer fraud"
+    },
+    {
+      "pt": "o dirigente sindical",
+      "de": "der Gewerkschaftsführer",
+      "en": "union leader",
+      "example": "O dirigente sindical disse que 1.370 escolas fecharam",
+      "example_de": "Der Gewerkschaftsführer sagte, dass 1.370 Schulen geschlossen wurden",
+      "example_en": "The union leader said 1,370 schools closed"
+    },
+    {
+      "pt": "a reestruturação",
+      "de": "die Umstrukturierung",
+      "en": "restructuring",
+      "example": "A empresa pretende reduzir custos além da reestruturação já apresentada",
+      "example_de": "Das Unternehmen will Kosten über die bereits vorgestellte Umstrukturierung hinaus senken",
+      "example_en": "The company aims to cut costs beyond the already announced restructuring"
+    },
+    {
+      "pt": "as leguminosas",
+      "de": "die Hülsenfrüchte",
+      "en": "legumes, pulses",
+      "example": "As novas regras reforçam a presença de vegetais, peixe e leguminosas",
+      "example_de": "Die neuen Regeln stärken die Präsenz von Gemüse, Fisch und Hülsenfrüchten",
+      "example_en": "The new rules reinforce the presence of vegetables, fish and legumes"
+    }
   ]
 }
