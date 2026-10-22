@@ -30470,5 +30470,159 @@
       "de": "der Platz",
       "en": "the square"
     }
+  ],
+  "2026-10-22": [
+    {
+      "pt": "ensanguentado",
+      "de": "blutverschmiert",
+      "en": "bloodstained",
+      "example": "Saiu de casa ensanguentado após o crime",
+      "example_de": "Er kam blutverschmiert nach dem Verbrechen aus dem Haus",
+      "example_en": "He left the house bloodstained after the crime"
+    },
+    {
+      "pt": "o calçado",
+      "de": "Schuhwerk",
+      "en": "footwear",
+      "example": "Fábrica de calçado em Santa Maria da Feira",
+      "example_de": "Schuhfabrik in Santa Maria da Feira",
+      "example_en": "Footwear factory in Santa Maria da Feira"
+    },
+    {
+      "pt": "a petisqueira",
+      "de": "Tapas-Bar",
+      "en": "tapas bar",
+      "example": "A Petisqueira dos Navegadores recebeu Sérgio Godinho",
+      "example_de": "Die Tapas-Bar dos Navegadores empfing Sérgio Godinho",
+      "example_en": "The Petisqueira dos Navegadores welcomed Sérgio Godinho"
+    },
+    {
+      "pt": "o padastro",
+      "de": "Stiefvater",
+      "en": "stepfather",
+      "example": "O padastro entra no quarto para abusar da enteada",
+      "example_de": "Der Stiefvater betritt das Zimmer, um die Stieftochter zu missbrauchen",
+      "example_en": "The stepfather enters the bedroom to abuse the stepdaughter"
+    },
+    {
+      "pt": "mendigar",
+      "de": "betteln",
+      "en": "to beg",
+      "example": "Obrigavam a menina a mendigar",
+      "example_de": "Sie zwangen das Mädchen zu betteln",
+      "example_en": "They forced the girl to beg"
+    },
+    {
+      "pt": "a caça",
+      "de": "Jagd/Suche",
+      "en": "hunt/search",
+      "example": "Uma caça aos doces para Halloween",
+      "example_de": "Eine Süßigkeitenjagd für Halloween",
+      "example_en": "A candy hunt for Halloween"
+    },
+    {
+      "pt": "a companheira",
+      "de": "Partnerin/Lebensgefährtin",
+      "en": "partner/companion",
+      "example": "Matou a companheira à facada",
+      "example_de": "Er erstach seine Lebensgefährtin",
+      "example_en": "He stabbed his partner to death"
+    },
+    {
+      "pt": "a exploração",
+      "de": "Betrieb/Nutzung",
+      "en": "operation/exploitation",
+      "example": "A exploração do bar da praia fluvial",
+      "example_de": "Der Betrieb der Bar am Flussstrand",
+      "example_en": "The operation of the river beach bar"
+    },
+    {
+      "pt": "o cantor",
+      "de": "Sänger",
+      "en": "singer",
+      "example": "O cantor e compositor Sérgio Godinho em Coimbra",
+      "example_de": "Der Sänger und Komponist Sérgio Godinho in Coimbra",
+      "example_en": "The singer and composer Sérgio Godinho in Coimbra"
+    },
+    {
+      "pt": "o compositor",
+      "de": "Komponist",
+      "en": "composer",
+      "example": "Sérgio Godinho é compositor de canções que marcaram gerações",
+      "example_de": "Sérgio Godinho ist Komponist von Liedern, die Generationen prägten",
+      "example_en": "Sérgio Godinho is a composer of songs that marked generations"
+    },
+    {
+      "pt": "a cerveja",
+      "de": "Bier",
+      "en": "beer",
+      "example": "Festival dedicado à cerveja artesanal em Vila Nova de Poiares",
+      "example_de": "Festival für Handwerksbier in Vila Nova de Poiares",
+      "example_en": "Festival dedicated to craft beer in Vila Nova de Poiares"
+    },
+    {
+      "pt": "a oficina",
+      "de": "Workshop",
+      "en": "workshop",
+      "example": "A oficina de ilustração e escrita criativa",
+      "example_de": "Der Workshop für Illustration und kreatives Schreiben",
+      "example_en": "The workshop on illustration and creative writing"
+    },
+    {
+      "pt": "rural",
+      "de": "ländlich",
+      "en": "rural",
+      "example": "Combate a incêndios rurais durante o verão",
+      "example_de": "Bekämpfung von ländlichen Bränden während des Sommers",
+      "example_en": "Fighting rural fires during summer"
+    },
+    {
+      "pt": "o entretenimento",
+      "de": "Unterhaltung",
+      "en": "entertainment",
+      "example": "Momentos de entretenimento no centro de Vila Nova de Poiares",
+      "example_de": "Unterhaltungsmomente im Zentrum von Vila Nova de Poiares",
+      "example_en": "Entertainment moments in the center of Vila Nova de Poiares"
+    },
+    {
+      "pt": "o corporativo",
+      "de": "Unternehmens-",
+      "en": "corporate",
+      "example": "Congresso sobre ética corporativa e interesse público",
+      "example_de": "Kongress über Unternehmensethik und öffentliches Interesse",
+      "example_en": "Congress on corporate ethics and public interest"
+    },
+    {
+      "pt": "a ética",
+      "de": "Ethik",
+      "en": "ethics",
+      "example": "Debater os mecanismos de ética corporativa",
+      "example_de": "Die Mechanismen der Unternehmensethik debattieren",
+      "example_en": "To debate the mechanisms of corporate ethics"
+    },
+    {
+      "pt": "a narração",
+      "de": "Erzählung",
+      "en": "narration",
+      "example": "Uma sessão de narração oral conduzida por Maria José Carvalho",
+      "example_de": "Eine Sitzung des mündlichen Erzählens geleitet von Maria José Carvalho",
+      "example_en": "A session of oral narration led by Maria José Carvalho"
+    },
+    {
+      "pt": "o presa",
+      "de": "Gefangene/Eingeklemmte",
+      "en": "captive/trapped person",
+      "example": "A trabalhadora ficou presa num tear",
+      "example_de": "Die Arbeiterin blieb in einem Webstuhl eingeklemmt",
+      "example_en": "The worker got trapped in a loom"
+    },
+    {
+      "pt": "a infantojuvenil",
+      "de": "Kinder- und Jugend-",
+      "en": "children and youth (adj)",
+      "example": "A Sala Infantojuvenil da Biblioteca Municipal",
+      "example_de": "Der Kinder- und Jugendraum der Stadtbibliothek",
+      "example_en": "The children and youth room of the Municipal Library"
+    }
   ]
 }
