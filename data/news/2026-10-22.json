@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌊",
+      "category": "METEO & ALERTAS",
+      "stories": [
+        {
+          "headline": "Mar agitado: Distrito de Coimbra em alerta para ondas de 5 metros",
+          "text": "O IPMA emitiu aviso amarelo para os distritos do litoral norte (Porto, Viana, Leiria, Aveiro, Coimbra e Braga) devido a agitação marítima forte. O alerta está em vigor entre as 09:00 e as 21:00 de sexta-feira, com previsão de ondas de noroeste até 5 metros."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Proteção Civil avalia dispositivo: mais fogos, menos área ardida",
+          "text": "A Proteção Civil faz hoje uma avaliação ao Dispositivo Especial de Combate a Incêndios Rurais (DECIR). Este ano a área ardida diminuiu 72% face a 2025, mas os fogos aumentaram quase 6%. Deflagraram 8.573 fogos que consumiram 74.560 hectares."
+        },
+        {
+          "headline": "Tragédia em fábrica de tecelagem: trabalhadora morre aos 52 anos",
+          "text": "Maria José Silva, de 52 anos, morreu na manhã de quarta-feira num acidente de trabalho numa fábrica de tecelagem em Celeirós, Braga. A trabalhadora terá ficado presa num tear enquanto desempenhava as suas funções. As autoridades estão a investigar o caso."
+        },
+        {
+          "headline": "Fogo atinge armazém de fábrica de calçado em Santa Maria da Feira",
+          "text": "Um incêndio deflagrou num armazém de uma fábrica de calçado em Arrifana, Santa Maria da Feira. O alerta foi dado às 04:56 e o fogo dado como dominado às 06:20, sem causar vítimas. Os edifícios principais da fábrica não foram afetados."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Sai de casa ensanguentado após matar companheira à facada em Mafra",
+          "text": "Uma mulher de 40 anos morreu após ser esfaqueada pelo companheiro, de 35, no apartamento onde ambos viviam. O crime ocorreu ao final da tarde de quarta-feira e está a ser investigado no âmbito da violência doméstica. O homem saiu de casa ensanguentado e descalço."
+        },
+        {
+          "headline": "Filha de José Manuel Anes começa a ser julgada por homicídio tentado",
+          "text": "Ana Anes, de 54 anos, começa a ser julgada a 11 de novembro no Campus de Justiça, em Lisboa, por homicídio simples na forma tentada. José Manuel Anes, antigo presidente do OSCOT, tentou que a filha fosse também acusada de posse ilegal de arma, mas o pedido não foi aceite."
+        },
+        {
+          "headline": "Padastro abusa de enteada de 9 anos enquanto mãe e irmão dormem",
+          "text": "Um padastro entrou no quarto para abusar da enteada de 9 anos enquanto a mãe e o irmão estavam a dormir, num caso ocorrido na Meda. Em separado, pais acusados de abusar da filha de 13 anos obrigavam a menina a mendigar."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Sérgio Godinho visitou restaurante em Coimbra",
+          "text": "Sérgio Godinho, um dos nomes incontornáveis da música portuguesa, esteve na Petisqueira dos Navegadores, em Coimbra. O restaurante partilhou uma mensagem de agradecimento, destacando que o cantor e compositor construiu uma carreira de décadas, com canções que integram o património cultural do país."
+        },
+        {
+          "headline": "Figueira da Foz celebra Halloween com bruxas, abóboras falantes e mistério",
+          "text": "A Biblioteca Municipal e o Quartel da Imagem promovem atividades no dia 31 de outubro. Há oficinas de ilustração, sessões de narração oral com contos de bruxas, e uma iniciativa noturna chamada 'Há qualquer coisa no Sal' no Núcleo Museológico do Sal, com duas horas de mistério e tradições populares."
+        },
+        {
+          "headline": "Bussaco recebe congresso internacional sobre ética corporativa",
+          "text": "O Instituto Superior Miguel Torga e o Conselho Regional de Administração do Rio de Janeiro organizam, a 10 de novembro, o 1.º Congresso Internacional de Gestores e Administradores, dedicado à ética corporativa e interesse público. O encontro decorre na Mata do Bussaco e reúne especialistas de Portugal e do Brasil."
+        }
+      ]
+    },
+    {
+      "emoji": "🍺",
+      "category": "EVENTOS & REGIÃO",
+      "stories": [
+        {
+          "headline": "Poyares Beer Fest chega a Vila Nova de Poiares",
+          "text": "Vila Nova de Poiares vai receber pela primeira vez um festival dedicado à cerveja artesanal, nos dias 23 e 24 de outubro, no Mercado Municipal. Sete marcas participam, incluindo Deuses do Malte e Cervejeira Praxis, com gastronomia e animação."
+        },
+        {
+          "headline": "Bar/restaurante da Praia Fluvial de Alvares adjudicado",
+          "text": "O Município de Góis adjudicou à entidade Burgo do Saber o arrendamento e a exploração do bar/restaurante de apoio à Praia Fluvial de Alvares. O contrato entra em vigor a 1 de novembro, pelo período de um ano com possibilidade de renovação até quatro vezes."
+        },
+        {
+          "headline": "Escola Cantina Salazar abre sexta-feira em Santa Comba Dão",
+          "text": "Após mais de 20 anos de polémica, o Centro Interpretativo do Estado Novo - Regime e Resistência abre portas na sexta-feira à tarde, no Vimieiro. O projeto dará nova vida à antiga escola modelo do Estado Novo, sendo avaliado pelo que realmente é e não pelo que alguns temiam que fosse."
+        }
+      ]
+    }
+  ]
+}
