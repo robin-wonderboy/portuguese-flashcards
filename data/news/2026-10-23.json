@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIO EM MONTEMOR-O-VELHO",
+      "stories": [
+        {
+          "headline": "Explosões e fumo negro assustam moradores de prédio em Montemor-o-Velho",
+          "text": "Duas explosões antecedem um incêndio numa garagem de um prédio na Urbanização da Quinta de São Luís, em Pereira, no concelho de Montemor-o-Velho. O fogo provoca uma intensa coluna de fumo negro e deixa os moradores em sobressalto, enquanto os bombeiros continuam a combater as chamas quase duas horas depois do alerta, dado às 19:15 de quinta-feira."
+        },
+        {
+          "headline": "Produtos inflamáveis dificultaram combate ao incêndio",
+          "text": "A presença de materiais inflamáveis no interior da garagem dificultou o combate às chamas e levou os operacionais a retirar o conteúdo para permitir a ventilação do prédio. O edifício foi evacuado e os bombeiros permaneceram no local durante várias horas."
+        },
+        {
+          "headline": "Fumo impede moradores de regressar a casa",
+          "text": "Apesar de o incêndio já estar extinto, a concentração de fumo no edifício levou vários residentes a procurar abrigo em casa de familiares. A noite de 22 de outubro foi de preocupação para os moradores da Quinta de São Luís."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Jovem de 17 anos esfaqueado por grupo de encapuzados",
+          "text": "Um jovem de 17 anos foi transportado para o hospital depois de ter sido vítima de um ataque com arma branca no Bairro de São José, em Camarate. Testemunhas relatam que o rapaz terá sido atacado por quatro indivíduos encapuzados, sofrendo ferimentos no tórax, costas, braço e cabeça. A vítima foi encaminhada para o Hospital Dona Estefânia, em Lisboa."
+        },
+        {
+          "headline": "Mulher procurada no Brasil por tráfico detida em Portugal",
+          "text": "Uma mulher de 34 anos, procurada pelas autoridades brasileiras por crimes relacionados com o tráfico de droga e associação criminosa, foi detida pela Polícia Judiciária numa cidade da região Centro, onde trabalhava. A detenção foi realizada ao abrigo de um mandado internacional da INTERPOL e a mulher vai ser ouvida no Tribunal de Coimbra."
+        },
+        {
+          "headline": "Homem detido com milhares de ficheiros de abusos sexuais de crianças",
+          "text": "Uma investigação iniciada em novembro de 2025 levou a Polícia Judiciária até um homem suspeito de partilhar conteúdos de abusos sexuais de crianças na Internet. Na sequência de uma busca domiciliária, as autoridades encontraram mais de sete mil ficheiros com imagens e vídeos, alguns de crianças de tenra idade."
+        },
+        {
+          "headline": "Juiz exige meio milhão de euros a trabalhadora sexual",
+          "text": "Um juiz exigiu o pagamento de meio milhão de euros a uma trabalhadora sexual no âmbito de um processo judicial. O caso decorre no Tribunal de Coimbra."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Lucro da Navigator cai mais de 44% até setembro",
+          "text": "A Navigator totalizou 65,4 milhões de euros de lucro nos primeiros nove meses do ano, uma descida de 44,8% relativamente ao período homólogo de 2025. O EBITDA cedeu 29,3% para 212,2 milhões de euros, segundo comunicado enviado à CMVM."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "19 municípios para um só palco: Coimbra prepara espetáculo que celebra a diversidade",
+          "text": "Cerca de 200 participantes dos 19 municípios da Região Metropolitana de Coimbra vão subir ao palco do Convento São Francisco no sábado, 24 de outubro, para o espetáculo «Nós 19 - O Som de Todos». A iniciativa, com entrada gratuita, promove a inclusão social, a integração de migrantes e o diálogo intercultural através da música, reunindo pessoas de diferentes nacionalidades, culturas e idades."
+        },
+        {
+          "headline": "Camilo Pessanha regressa a Coimbra num recital com som, vídeo e dança",
+          "text": "A Cooperativa Bonifrates estreia no dia 28 de outubro, no Teatro Académico de Gil Vicente, a versão para palco do recital «Miragens do Nada - um olhar sobre a poesia de Camilo Pessanha». O espetáculo assinala o centenário da morte do autor de Clepsydra, nascido em Coimbra em 1867 e morto em Macau em 1926, e combina poesia com efeitos sonoros, vídeo e movimento corporal."
+        },
+        {
+          "headline": "Órgão de tubos vai ecoar num dos mosteiros mais emblemáticos de Miranda do Corvo",
+          "text": "O mosteiro de Miranda do Corvo recebe um concerto de órgão de tubos, promovendo a música erudita num dos espaços mais emblemáticos da região."
+        },
+        {
+          "headline": "Aula de Zumba fecha a convenção Soul Fitness na Mealhada",
+          "text": "Uma aula de Zumba aberta a todos encerra a convenção Soul Fitness que decorre na Mealhada, promovendo a atividade física e o convívio."
+        }
+      ]
+    },
+    {
+      "emoji": "🍺",
+      "category": "GASTRONOMIA & FESTIVAIS",
+      "stories": [
+        {
+          "headline": "Poyares Beer Fest: primeiro festival de cerveja artesanal em Vila Nova de Poiares",
+          "text": "Vila Nova de Poiares recebe pela primeira vez um festival dedicado à cerveja artesanal. O Poyares Beer Fest realiza-se nos dias 23 e 24 de outubro, no Mercado Municipal, com sete marcas participantes, gastronomia e animação. Os visitantes podem conhecer e provar diferentes cervejas artesanais durante dois dias de convívio."
+        },
+        {
+          "headline": "Festival do Negalho: iguaria tradicional em destaque em Cantanhede",
+          "text": "O negalho, uma iguaria tradicional da gastronomia da região Centro, está em destaque durante três dias em Enxofães, Cantanhede. O prato tem como ingrediente principal o bucho de cabra velha, recheado com carne de vaca, carne de porco, chouriço e condimentos. Depois de recheado e cosido, o bucho é levado ao forno numa caçoila de barro. O festival decorre de 23 a 25 de outubro."
+        }
+      ]
+    },
+    {
+      "emoji": "📺",
+      "category": "TELEVISÃO & TURISMO",
+      "stories": [
+        {
+          "headline": "João Manzarra e Ana Guiomar descobrem os encantos da Mealhada",
+          "text": "A Mata Nacional do Bussaco foi o cenário escolhido para receber dois rostos bem conhecidos da televisão portuguesa. As gravações integram a iniciativa «Desapareça 48H no Centro de Portugal», promovida para dar a conhecer os destinos e experiências da região Centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Clássicos, Legends e Turismos decidem o campeão nacional na 35.ª Rampa do Caramulo",
+          "text": "Este sábado e domingo, 24 e 25 de outubro, 51 pilotos disputam a 35.ª Rampa do Caramulo, no concelho de Tondela. A prova encerra a temporada do Campeonato de Portugal de Montanha, com três títulos nacionais ainda por decidir."
+        }
+      ]
+    },
+    {
+      "emoji": "🫧",
+      "category": "COMUNIDADE",
+      "stories": [
+        {
+          "headline": "Santa Casa da Misericórdia da Mealhada de luto pela morte de Daniela Ferreira",
+          "text": "A Santa Casa da Misericórdia da Mealhada está de luto pela morte de uma colaboradora, Daniela Ferreira, que exercia funções na área administrativa do Hospital Misericórdia da Mealhada. A instituição lamentou profundamente a perda e publicou uma mensagem de solidariedade nas redes sociais."
+        }
+      ]
+    }
+  ]
+}
