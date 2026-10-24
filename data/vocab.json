@@ -30794,5 +30794,87 @@
       "example_de": "Das Projekt soll die Reiseziele des Zentrums von Portugal bekannt machen.",
       "example_en": "The project aims to promote the destinations of Central Portugal."
     }
+  ],
+  "2026-10-24": [
+    {
+      "pt": "o lote",
+      "de": "das Grundstück, der Bauplatz",
+      "en": "the plot of land",
+      "example": "Condeixa não tem lotes industriais",
+      "example_de": "Condeixa hat keine Industrieplots",
+      "example_en": "Condeixa has no industrial plots"
+    },
+    {
+      "pt": "relatar",
+      "de": "berichten, schildern",
+      "en": "to report, to recount",
+      "example": "Os moradores relatam explosões",
+      "example_de": "Die Bewohner berichten von Explosionen",
+      "example_en": "The residents report explosions"
+    },
+    {
+      "pt": "potente",
+      "de": "stark, leistungsstark",
+      "en": "powerful",
+      "example": "Encontraram motores potentes no armazém",
+      "example_de": "Sie fanden leistungsstarke Motoren im Lager",
+      "example_en": "They found powerful engines in the warehouse"
+    },
+    {
+      "pt": "a luta",
+      "de": "der Kampf",
+      "en": "the fight, the struggle",
+      "example": "Unem forças para mudar a luta contra o cancro",
+      "example_de": "Sie vereinen Kräfte, um den Kampf gegen Krebs zu verändern",
+      "example_en": "They join forces to change the fight against cancer"
+    },
+    {
+      "pt": "atentamente",
+      "de": "aufmerksam, sorgfältig",
+      "en": "attentively, closely",
+      "example": "A Segurança Interna acompanha atentamente os apelos",
+      "example_de": "Die innere Sicherheit verfolgt die Aufrufe aufmerksam",
+      "example_en": "Internal Security closely monitors the appeals"
+    },
+    {
+      "pt": "o empreiteiro",
+      "de": "der Bauunternehmer",
+      "en": "the contractor",
+      "example": "Livre quer ouvir o empreiteiro na comissão",
+      "example_de": "Livre will den Bauunternehmer in der Kommission hören",
+      "example_en": "Livre wants to hear the contractor in the committee"
+    },
+    {
+      "pt": "a coesão",
+      "de": "der Zusammenhalt",
+      "en": "cohesion",
+      "example": "Seguro convoca conselho sobre coesão social",
+      "example_de": "Seguro beruft den Rat über sozialen Zusammenhalt",
+      "example_en": "Seguro convenes council on social cohesion"
+    },
+    {
+      "pt": "o autocolante",
+      "de": "der Aufkleber",
+      "en": "the sticker",
+      "example": "Sinal de trânsito coberto por autocolantes",
+      "example_de": "Verkehrszeichen bedeckt mit Aufklebern",
+      "example_en": "Traffic sign covered with stickers"
+    },
+    {
+      "pt": "o bootcamp",
+      "de": "das Trainingslager, der Intensivkurs",
+      "en": "the bootcamp",
+      "example": "O primeiro bootcamp realiza-se em novembro",
+      "example_de": "Das erste Trainingslager findet im November statt",
+      "example_en": "The first bootcamp takes place in November"
+    },
+    {
+      "pt": "a filarmónica",
+      "de": "die Blaskapelle, die Philharmonie",
+      "en": "the philharmonic band",
+      "example": "A tradição das filarmónicas com novas linguagens",
+      "example_de": "Die Tradition der Blaskapellen mit neuen Sprachen",
+      "example_en": "The tradition of philharmonic bands with new languages"
+    }
   ]
 }
