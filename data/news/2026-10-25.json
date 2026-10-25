@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & MÚSICA",
+      "stories": [
+        {
+          "headline": "Espetáculo \"Nós 19\" deixa Coimbra \"de alma cheia\"",
+          "text": "O Grande Auditório do Convento de São Francisco viveu uma noite marcada pela emoção e pelo sentido de comunidade. A orquestra comunitária \"Nós 19 - O Som de Todos\" juntou cerca de 200 pessoas dos 19 municípios da Região de Coimbra, sob a direção artística de Tim Steiner. O projeto integra migrantes através da criação artística e do diálogo entre culturas."
+        },
+        {
+          "headline": "Rodrigo Ribeiro, de Cantanhede, toca para 1200 pessoas na orquestra \"Nós 19\"",
+          "text": "Um jovem de Cantanhede foi um dos 200 músicos que subiram ao palco do Convento São Francisco. Entrou no projeto por sugestão do professor de música e confessou nervosismo: \"As minhas mãos costumam começar a tremer quando eu tenho muitas pessoas a assistir. Hoje são quase 1200 pessoas. Vai ser a maior audiência que eu alguma vez tive.\""
+        },
+        {
+          "headline": "Exposição \"Os Justos\" chega ao CAPC em Coimbra",
+          "text": "O Círculo de Artes Plásticas de Coimbra apresenta uma exposição coletiva inspirada no poema de Jorge Luis Borges, sobre o valor das pequenas ações do quotidiano. Com curadoria de Mafalda Ruão, a mostra estará patente até 19 de dezembro, com visitas mediadas e sessões de convivência criativa com os artistas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "HABITAÇÃO & POLÍTICA",
+      "stories": [
+        {
+          "headline": "Manifestação em Coimbra pelo direito à habitação",
+          "text": "Cerca de duas centenas de pessoas manifestaram-se na Praça 8 de Maio, gritando \"Eu quero um teto, eu quero um chão, quero o direito à habitação\". Uma das reivindicações é derrotar a lei dos despejos. Os manifestantes começaram a concentrar-se na Baixa depois das 15:30."
+        },
+        {
+          "headline": "José Luís Carneiro: Governo deve \"colocar na gaveta\" a nova lei do arrendamento",
+          "text": "O líder do PS esteve em Coimbra onde criticou a falta de respostas do Governo à crise habitacional. Desafiou o primeiro-ministro a retirar a proposta de lei das rendas, que considera que \"lança a insegurança\" entre jovens e famílias. O PS propõe uma garantia pública para o arrendamento e a isenção de mais-valias para quem venda imóveis para habitação permanente. Referiu ainda que \"não chega só andar a procurar bodes expiatórios\" face à falta de 90 mil trabalhadores na construção civil."
+        },
+        {
+          "headline": "PS leva a Coimbra propostas para o Orçamento do Estado",
+          "text": "O secretário-geral do PS reuniu-se com militantes distritais socialistas para apresentar a visão do partido sobre o Orçamento. Defendeu medidas de emergência na habitação, processos de licenciamento mais céleres e identificação rápida de solos disponíveis para construção pública, privada e cooperativa."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Guarda prisional vai parar ao hospital após ataque de recluso",
+          "text": "Um guarda prisional ficou com lesão craniana após agressão violenta por um recluso considerado perigoso no Estabelecimento Prisional de Pinheiro da Cruz, em Grândola. O preso aplicou um golpe \"mata-leão\" e desferiu vários murros na cabeça do guarda, que estava sozinho a vigiá-lo durante o recreio devido à falta de efetivos. O sindicato alerta para os riscos associados às condições de segurança nas prisões."
+        },
+        {
+          "headline": "Jovem de 17 anos esfaqueado por 4 encapuzados em Camarate",
+          "text": "Um adolescente foi esfaqueado pelo menos oito vezes durante um assalto protagonizado por quatro indivíduos encapuzados. O jovem estava sentado num banco de jardim com um amigo quando foi surpreendido pelos suspeitos, na Travessa de Camarate, concelho de Loures."
+        },
+        {
+          "headline": "GNR detém pais suspeitos de maltratar filho de 3 anos, mas juiz concede liberdade",
+          "text": "Um menino de três anos foi retirado aos pais em Vendas Novas, depois de o casal ter sido detido pela GNR por suspeitas de violência física e psicológica. A investigação decorria desde agosto, na sequência de uma denúncia anónima. No entanto, o juiz decidiu pela liberdade dos arguidos."
+        },
+        {
+          "headline": "Cinco toneladas de haxixe apreendidas no rio Guadiana",
+          "text": "Uma operação conjunta entre autoridades espanholas e portuguesas permitiu apreender cinco toneladas de haxixe no rio Guadiana, depois de uma embarcação de alta velocidade ter sido detetada a entrar no curso de água. Os tripulantes lançaram a droga à água e escaparam por terra. A ação envolveu a Guardia Civil, GNR e Polícia Marítima."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "REGIÃO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Movimento luta pela gestão democrática da bacia hidrográfica do Mondego",
+          "text": "O MUNDA - Movimento Unidade e Defesa da Bacia Hidrográfica do Mondego exigiu que a gestão do rio seja democrática e não fique só sob a tutela da Agência Portuguesa do Ambiente (APA). O movimento critica que a APA \"ignora olimpicamente\" os congressos sobre o tema."
+        },
+        {
+          "headline": "48 migrantes cruzam-se com a Polícia Marítima portuguesa na Grécia",
+          "text": "A Polícia Marítima portuguesa foi mobilizada para uma operação de assistência a migrantes na ilha de Gavdos, na Grécia, depois de as autoridades gregas alertarem para uma embarcação nas imediações da praia de Tripiti."
+        }
+      ]
+    },
+    {
+      "emoji": "🍂",
+      "category": "LAZER & VAMOS",
+      "stories": [
+        {
+          "headline": "Festa da Castanha e Colcurinho Epic Trail em Oliveira do Hospital",
+          "text": "A Aldeia das Dez recebe este fim de semana a 22ª edição da Festa da Castanha, com o tradicional magusto na caruma e concurso de sopas. Em paralelo, o Colcurinho Epic Trail leva 350 atletas aos trilhos da Serra do Açor, combinando desporto, gastronomia e paisagens de cortar a respiração."
+        },
+        {
+          "headline": "Poyares Beer Fest: festival de cerveja artesanal termina hoje em Vila Nova de Poiares",
+          "text": "A primeira edição do Poyares Beer Fest decorre no Mercado Municipal de Vila Nova de Poiares, com sete marcas nacionais de cerveja artesanal, gastronomia e animação. Uma iniciativa que pretende valorizar o setor e aproximar produtores e consumidores."
+        },
+        {
+          "headline": "PeddyPet na Figueira da Foz: atividade para famílias com animais",
+          "text": "A Câmara da Figueira da Foz organiza no dia 7 de novembro o PeddyPet, um peddy-paper familiar dedicado aos animais, no Parque das Abadias. A iniciativa pretende sensibilizar miúdos e graúdos para a importância de proteger os animais e promover comportamentos responsáveis. Os cães também podem participar."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Piscina Municipal da Covilhã reabre após obras de 1,4 milhões",
+          "text": "A infraestrutura foi reaberta este sábado após uma intervenção superior a 1,4 milhões de euros que melhorou as condições de segurança, conforto e eficiência energética. A requalificação foi assinalada no âmbito das comemorações dos 840 anos de História da cidade."
+        },
+        {
+          "headline": "Leiria leva teatro e música às escolas contra bullying",
+          "text": "O Município de Leiria promoveu a iniciativa \"Na Base do Respeito\" na Escola Secundária Francisco Rodrigues Lobo, para sensibilizar jovens para a importância do respeito pela diferença e da construção de relações saudáveis e livres de violência."
+        }
+      ]
+    }
+  ]
+}
