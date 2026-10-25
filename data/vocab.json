@@ -30876,5 +30876,103 @@
       "example_de": "Die Tradition der Blaskapellen mit neuen Sprachen",
       "example_en": "The tradition of philharmonic bands with new languages"
     }
+  ],
+  "2026-10-25": [
+    {
+      "pt": "a caruma",
+      "de": "das Falllaub, die Streu",
+      "en": "fallen leaves/needles",
+      "example": "o magusto na caruma recupera os costumes de outono",
+      "example_de": "das Kastanienrösten im Laub belebt die Herbstbräuche wieder",
+      "example_en": "the chestnut roasting in the leaves revives autumn customs"
+    },
+    {
+      "pt": "de alma cheia",
+      "de": "mit voller Seele, gerührt",
+      "en": "with a full heart, deeply moved",
+      "example": "o espetáculo deixa Coimbra de alma cheia",
+      "example_de": "die Vorstellung lässt Coimbra mit voller Seele",
+      "example_en": "the show leaves Coimbra with a full heart"
+    },
+    {
+      "pt": "colocar na gaveta",
+      "de": "zu den Akten legen",
+      "en": "to shelve, to put aside",
+      "example": "o Governo deve colocar na gaveta a nova lei",
+      "example_de": "die Regierung sollte das neue Gesetz zu den Akten legen",
+      "example_en": "the government should shelve the new law"
+    },
+    {
+      "pt": "maltratar",
+      "de": "misshandeln",
+      "en": "to mistreat, to abuse",
+      "example": "pais suspeitos de maltratar filho de 3 anos",
+      "example_de": "Eltern verdächtigt, ihr 3-jähriges Kind zu misshandeln",
+      "example_en": "parents suspected of abusing their 3-year-old child"
+    },
+    {
+      "pt": "imobilizar",
+      "de": "immobilisieren, überwältigen",
+      "en": "to immobilize, to restrain",
+      "example": "foi necessário imobilizar o agressor",
+      "example_de": "es war nötig, den Angreifer zu überwältigen",
+      "example_en": "it was necessary to restrain the attacker"
+    },
+    {
+      "pt": "o mata-leão",
+      "de": "der Würgegriff",
+      "en": "sleeper hold, chokehold",
+      "example": "aplicou-lhe um golpe conhecido como mata-leão",
+      "example_de": "verpasste ihm einen Griff bekannt als Würgegriff",
+      "example_en": "applied a hold known as a chokehold"
+    },
+    {
+      "pt": "a lesão craniana",
+      "de": "die Schädelverletzung",
+      "en": "cranial injury",
+      "example": "foi transferido para o Hospital devido à lesão craniana",
+      "example_de": "wurde aufgrund der Schädelverletzung ins Krankenhaus verlegt",
+      "example_en": "was transferred to the hospital due to the cranial injury"
+    },
+    {
+      "pt": "a denúncia anónima",
+      "de": "die anonyme Anzeige",
+      "en": "anonymous report",
+      "example": "a investigação decorreu na sequência de uma denúncia anónima",
+      "example_de": "die Untersuchung folgte auf eine anonyme Anzeige",
+      "example_en": "the investigation followed an anonymous report"
+    },
+    {
+      "pt": "o bode expiatório",
+      "de": "der Sündenbock",
+      "en": "scapegoat",
+      "example": "não chega só andar a procurar bodes expiatórios",
+      "example_de": "es reicht nicht, nur nach Sündenböcken zu suchen",
+      "example_en": "it is not enough to just look for scapegoats"
+    },
+    {
+      "pt": "o proprietário",
+      "de": "der Eigentümer, der Vermieter",
+      "en": "landlord, owner",
+      "example": "dar segurança a inquilinos e proprietários",
+      "example_de": "Sicherheit für Mieter und Eigentümer geben",
+      "example_en": "give security to tenants and landlords"
+    },
+    {
+      "pt": "o quotidiano",
+      "de": "der Alltag",
+      "en": "daily life, everyday life",
+      "example": "o valor das pequenas ações do quotidiano",
+      "example_de": "der Wert der kleinen Alltagsaktionen",
+      "example_en": "the value of small everyday actions"
+    },
+    {
+      "pt": "o cato",
+      "de": "die Kaktee",
+      "en": "cactus",
+      "example": "vasos com catos e pano branco",
+      "example_de": "Töpfe mit Kakteen und weißem Tuch",
+      "example_en": "pots with cacti and white cloth"
+    }
   ]
 }
