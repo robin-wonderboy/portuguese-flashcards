@@ -30974,5 +30974,103 @@
       "example_de": "Töpfe mit Kakteen und weißem Tuch",
       "example_en": "pots with cacti and white cloth"
     }
+  ],
+  "2026-10-26": [
+    {
+      "pt": "a rotatividade",
+      "de": "die Umschlagshäufigkeit",
+      "en": "the turnover/rotation",
+      "example": "O novo modelo pretende melhorar a rotatividade dos lugares.",
+      "example_de": "Das neue Modell soll die Umschlagshäufigkeit der Parkplätze verbessern.",
+      "example_en": "The new model aims to improve parking spot turnover."
+    },
+    {
+      "pt": "a peregrina",
+      "de": "die Pilgerin",
+      "en": "the female pilgrim",
+      "example": "A vitima era uma peregrina do Caminho de Santiago.",
+      "example_de": "Das Opfer war eine Pilgerin auf dem Jakobsweg.",
+      "example_en": "The victim was a female pilgrim on the Camino de Santiago."
+    },
+    {
+      "pt": "o feirao",
+      "de": "der große Markt",
+      "en": "the big fair/marketplace",
+      "example": "O feirao na Lousa ja tem compradores a levar carros para casa.",
+      "example_de": "Der große Markt in Lousã hat schon Käufer, die Autos mit nach Hause nehmen.",
+      "example_en": "The big fair in Lousã already has buyers taking cars home."
+    },
+    {
+      "pt": "a maldicao",
+      "de": "der Fluch",
+      "en": "the curse",
+      "example": "E a maldicao de Natal a moda de Mirandela.",
+      "example_de": "Es ist der Weihnachtsfluch nach Mirandela-Art.",
+      "example_en": "It's the Christmas curse Mirandela-style."
+    },
+    {
+      "pt": "o esqueleto",
+      "de": "das Skelett",
+      "en": "the skeleton",
+      "example": "A Serta prepara esqueletos curiosos para o Halloween.",
+      "example_de": "Die Sertã bereitet neugierige Skelette für Halloween vor.",
+      "example_en": "Sertã prepares curious skeletons for Halloween."
+    },
+    {
+      "pt": "o convento",
+      "de": "das Kloster",
+      "en": "the convent",
+      "example": "Os sabores que nasceram nos conventos vao adocar Alcobaça.",
+      "example_de": "Die Süßigkeiten, die in Klöstern entstanden, werden Alcobaça versüßen.",
+      "example_en": "The flavors born in convents will sweeten Alcobaça."
+    },
+    {
+      "pt": "a filhose",
+      "de": "der fritierte Teigfladen",
+      "en": "the filhós (fried pastry)",
+      "example": "Ha uma festa com bola de carne, filhoses e sopa de castanha.",
+      "example_de": "Es gibt ein Fest mit Fleischbrot, fritierten Teigfladen und Kastaniensuppe.",
+      "example_en": "There's a party with meat bread, filhós pastries and chestnut soup."
+    },
+    {
+      "pt": "leiloar",
+      "de": "versteigern",
+      "en": "to auction",
+      "example": "O sutia da irma famosa vai ser leiloado.",
+      "example_de": "Der Büstenhalter der berühmten Schwester wird versteigert.",
+      "example_en": "The famous sister's bra will be auctioned."
+    },
+    {
+      "pt": "infetar",
+      "de": "infizieren",
+      "en": "to infect",
+      "example": "Um virus conhecido ha decadas infetou um ser humano pela primeira vez.",
+      "example_de": "Ein seit Jahrzehnten bekanntes Virus hat erstmals einen Menschen infiziert.",
+      "example_en": "A virus known for decades infected a human for the first time."
+    },
+    {
+      "pt": "a sopa de castanha",
+      "de": "die Kastaniensuppe",
+      "en": "the chestnut soup",
+      "example": "Ha uma festa com bola de carne, filhoses e sopa de castanha.",
+      "example_de": "Es gibt ein Fest mit Fleischbrot, fritierten Teigfladen und Kastaniensuppe.",
+      "example_en": "There's a party with meat bread, filhós pastries and chestnut soup."
+    },
+    {
+      "pt": "a violacao",
+      "de": "die Vergewaltigung",
+      "en": "the rape",
+      "example": "O autor e suspeito de um crime de violacao.",
+      "example_de": "Der Täter ist verdächtig eines Vergewaltigungsdelikts.",
+      "example_en": "The perpetrator is suspected of a rape crime."
+    },
+    {
+      "pt": "a volta",
+      "de": "die Runde/Stichwahl",
+      "en": "the round (election)",
+      "example": "Lula da Silva foi reeleito na segunda volta das eleicoes.",
+      "example_de": "Lula da Silva wurde in der zweiten Stichwahl der Wahlen wiedergewählt.",
+      "example_en": "Lula da Silva was reelected in the second round of the elections."
+    }
   ]
 }
