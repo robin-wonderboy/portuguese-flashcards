@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Influenciadora manda raptar namorado virtual por 3500€",
+          "text": "Uma influenciadora digital de 26 anos, residente em Portimão, é suspeita de ter planeado o rapto de um jovem que conheceu nas redes sociais. O动机 seria recuperar 3500 euros transferidos para umas férias na Grécia depois de um desentendimento."
+        },
+        {
+          "headline": "PSP constitui arguido brasileiro que quer atacar casa do PM",
+          "text": "A PSP identificou e constituiu arguido o jovem que alegadamente terá incentivado um ataque à residência do primeiro-ministro durante uma intervenção na acampada da Praça D. João I, no Porto. O jovem foi intercetado pelas 16h30."
+        },
+        {
+          "headline": "Fé interrompida pelo terror no Caminho de Santiago",
+          "text": "A PJ deteve um homem de 59 anos, fora de flagrante delito, como presumível autor de um crime de violação e roubo ocorridos em agosto em Vila do Conde. A vítima era uma peregrina estrangeira de 39 anos, abordada durante o percurso."
+        },
+        {
+          "headline": "Profissionais da Justiça assinam carta aberta pela manifestação",
+          "text": ""
+        },
+        {
+          "headline": "Aministia Internacional preocupada com uso excessivo de força",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE & TRÂNSITO",
+      "stories": [
+        {
+          "headline": "Coimbra avança com novo sistema de estacionamento inteligente",
+          "text": "A Câmara de Coimbra analisa hoje a abertura do concurso público para o novo Sistema de Estacionamento Inteligente na Via Pública. O modelo pretende combater o incumprimento, melhorar a rotatividade e tornar o estacionamento mais simples através de sensores."
+        },
+        {
+          "headline": "Feirão da Lousã: compradores já levam carros para casa",
+          "text": "O feirão de automóveis na Lousã ainda mal abriu e já há compradores a levar carros para casa."
+        },
+        {
+          "headline": "Excesso de velocidade pode passar a ser crime em Portugal",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES & PORTUGAL",
+      "stories": [
+        {
+          "headline": "Javali mata jovem motociclista de 22 anos em Nelas",
+          "text": "Um homem de 22 anos morreu após uma colisão entre o seu motociclo e um javali. O óbito foi declarado no local pela equipa da VMER de Viseu."
+        },
+        {
+          "headline": "Tragédia na A28: mulher de 40 anos não resiste após despiste de mota",
+          "text": ""
+        },
+        {
+          "headline": "Domingo negro: homem de 57 anos morre esmagado por viatura",
+          "text": ""
+        },
+        {
+          "headline": "Família internada após intoxicação em casa",
+          "text": "Um casal e dois filhos menores foram transportados para o Hospital Sousa Martins, na Guarda, após sofrerem uma intoxicação dentro de casa. A família vivenciou momentos de aflição na noite de sábado."
+        },
+        {
+          "headline": "Homem de 76 anos resgatado de emergência de navio de passageiros",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Dá LULA! Lula da Silva reeleito para quarto mandato",
+          "text": "Luiz Inácio Lula da Silva foi reeleito na segunda volta das presidenciais do Brasil com 51,75% dos votos. Conseguiu 63.388.523 votos contra 59.099.143 de Flávio Bolsonaro, sendo o primeiro candidato a vencer depois de ter perdido na primeira volta."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académico de Viseu rasga Sporting (maldição de Natal à moda de Mirandela)",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "REGIÃO & CULTURA",
+      "stories": [
+        {
+          "headline": "Expofacic avaliada: resultados muito positivos em Cantanhede",
+          "text": "Um inquérito de satisfação revela avaliação muito positiva da Expofacic 2026, realizada em Cantanhede entre 30 de julho e 9 de agosto. Os resultados deixam boas perspetivas para a próxima edição em 2027."
+        },
+        {
+          "headline": "Coimbra recebe encontros para descobrir a Índia através do yoga e Gandhi",
+          "text": ""
+        },
+        {
+          "headline": "Bombeiro de Oliveira do Hospital conquista 1º lugar no Firestorm Challenge 2026",
+          "text": ""
+        },
+        {
+          "headline": "Centro comercial da Figueira da Foz celebra 25 anos com novidades",
+          "text": ""
+        },
+        {
+          "headline": "José Redondo e a história do rugby na Lousã há 53 anos",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎉",
+      "category": "VAMOS (LAZER & GASTRONOMIA)",
+      "stories": [
+        {
+          "headline": "Sabores conventuais vão adoçar 4 dias em Alcobaça",
+          "text": "Os sabores que nasceram nos conventos vão adoçar quatro dias de festa em Alcobaça."
+        },
+        {
+          "headline": "Festa de montanha com bola de carne, filhoses e sopa de castanha",
+          "text": ""
+        },
+        {
+          "headline": "Nunca provou lampantana? 13 restaurantes em Mortágua",
+          "text": ""
+        },
+        {
+          "headline": "Sertã prepara manhã de Halloween com máscaras de arrepiar",
+          "text": "A Sertã prepara uma manhã de Halloween para os mais novos com esqueletos curiosos e máscaras de arrepiar."
+        },
+        {
+          "headline": "Festival de cerveja artesanal termina hoje em Vila Nova de Poiares",
+          "text": ""
+        },
+        {
+          "headline": "Rodrigo Ribeiro toca para 1200 pessoas na orquestra Nós 19",
+          "text": ""
+        },
+        {
+          "headline": "Atividade para patudos na Figueira da Foz",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "📋",
+      "category": "SÓ VISTO!",
+      "stories": [
+        {
+          "headline": "Miss criada por IA vence concurso por Portugal",
+          "text": ""
+        },
+        {
+          "headline": "Sara Sampaio aos beijos com herói do Mundial",
+          "text": ""
+        },
+        {
+          "headline": "Vírus conhecido há décadas infeta humano pela 1ª vez",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
