@@ -31072,5 +31072,103 @@
       "example_de": "Lula da Silva wurde in der zweiten Stichwahl der Wahlen wiedergewählt.",
       "example_en": "Lula da Silva was reelected in the second round of the elections."
     }
+  ],
+  "2026-10-27": [
+    {
+      "pt": "a fasquia",
+      "de": "die Messlatte, der Anspruch",
+      "en": "the benchmark, the standard",
+      "example": "Rodda Collection eleva a fasquia do mercado de seminovos",
+      "example_de": "Rodda Collection hebt die Messlatte für den Gebrauchtwagenmarkt",
+      "example_en": "Rodda Collection raises the benchmark for the luxury used car market"
+    },
+    {
+      "pt": "a novela",
+      "de": "die Seifenoper, das Drama",
+      "en": "the soap opera, the drama",
+      "example": "Ana Abrunhosa recusa alimentar esta novela",
+      "example_de": "Ana Abrunhosa weigert sich, dieses Drama zu schüren",
+      "example_en": "Ana Abrunhosa refuses to fuel this drama"
+    },
+    {
+      "pt": "dourado",
+      "de": "golden",
+      "en": "golden",
+      "example": "o bosque fica dourado no outono",
+      "example_de": "der Hain wird im Herbst golden",
+      "example_en": "the grove turns golden in autumn"
+    },
+    {
+      "pt": "o bosque",
+      "de": "der Hain, das Wäldchen",
+      "en": "the grove, the small forest",
+      "example": "há um bosque na Serra da Estrela",
+      "example_de": "es gibt einen Hain in der Serra da Estrela",
+      "example_en": "there is a grove in the Serra da Estrela"
+    },
+    {
+      "pt": "a faia",
+      "de": "die Buche (Baum)",
+      "en": "the beech tree",
+      "example": "as faias de Manteigas",
+      "example_de": "die Buchen von Manteigas",
+      "example_en": "the beech trees of Manteigas"
+    },
+    {
+      "pt": "acobreado",
+      "de": "kupferfarben",
+      "en": "copper-colored",
+      "example": "tons dourados, avermelhados e acobreados",
+      "example_de": "goldene, rötliche und kupferfarbene Töne",
+      "example_en": "golden, reddish and copper-colored tones"
+    },
+    {
+      "pt": "despojado",
+      "de": "schlicht, reduziert",
+      "en": "stripped-down, bare",
+      "example": "num ambiente próximo e despojado",
+      "example_de": "in einer nahen und schlichten Atmosphäre",
+      "example_en": "in an intimate and stripped-down setting"
+    },
+    {
+      "pt": "a distinção",
+      "de": "die Auszeichnung",
+      "en": "the distinction, the honor",
+      "example": "bombeiros recebem distinção do Presidente da República",
+      "example_de": "Feuerwehrleute erhalten Auszeichnung des Präsidenten",
+      "example_en": "firefighters receive distinction from the President"
+    },
+    {
+      "pt": "extremamente",
+      "de": "äußerst, extrem",
+      "en": "extremely",
+      "example": "processo extremamente complexo",
+      "example_de": "äußerst komplexer Prozess",
+      "example_en": "extremely complex process"
+    },
+    {
+      "pt": "o seminovo",
+      "de": "der Gebrauchtwagen, das Gebrauchtfahrzeug",
+      "en": "the used car, the pre-owned vehicle",
+      "example": "mercado de seminovos de luxo",
+      "example_de": "Markt für luxuriöse Gebrauchtwagen",
+      "example_en": "luxury used car market"
+    },
+    {
+      "pt": "videomapping",
+      "de": "die Videoprojektion",
+      "en": "video mapping",
+      "example": "Murtosa assinala um século com música e videomapping",
+      "example_de": "Murtosa markiert ein Jahrhundert mit Musik und Videoprojektion",
+      "example_en": "Murtosa marks a century with music and video mapping"
+    },
+    {
+      "pt": "a orquestra",
+      "de": "das Orchester",
+      "en": "the orchestra",
+      "example": "nova orquestra das Aldeias do Xisto",
+      "example_de": "neues Orchester der Schieferdörfer",
+      "example_en": "new orchestra of the Schist Villages"
+    }
   ]
 }
