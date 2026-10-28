@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "REGIÃO & TEMPO",
+      "stories": [
+        {
+          "headline": "Fenómeno raro pode mudar o tempo em Portugal",
+          "text": "As previsões meteorológicas apontam para uma possível perturbação invulgar do vórtice polar no início de novembro. Este fenómeno poderá influenciar a circulação atmosférica no Hemisfério Norte e abrir caminho a mudanças no estado do tempo em Portugal, embora não haja garantias de chuva."
+        },
+        {
+          "headline": "Quem é o Beirolês? Personagem leva encantos da região Centro às redes sociais",
+          "text": "Uma personagem inspirada na identidade beirã está a conquistar espaço nas redes sociais, levando tradições, expressões e recantos da região Centro a cada vez mais pessoas. Quem lhe dá vida prefere ficar nos bastidores, deixando que seja a própria personagem a contar a história."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & POLÍTICA LOCAL",
+      "stories": [
+        {
+          "headline": "Alexandre Gomes candidata-se à liderança da Associação Académica de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Em Coimbra cantaram e dançaram pelos direitos a um teto e à manifestação",
+          "text": ""
+        },
+        {
+          "headline": "Menos burocracia e mais alunos abrangidos: Lousã muda regras dos apoios universitários",
+          "text": "Os estudantes do ensino superior residentes na Lousã poderão beneficiar de um processo de candidatura mais simples e de regras adaptadas às diferentes formas de frequência universitária. A Câmara aprovou alterações nos critérios de rendimento e na documentação exigida."
+        },
+        {
+          "headline": "Vereadores do PSD dizem que há falta de rigor na Câmara de Leiria",
+          "text": "Os três vereadores do PSD criticaram erros constantes nos concursos de obras da autarquia de maioria socialista. Nuno Serrano exemplificou com uma adjudicação de 4,6 milhões de euros cuja instrução estava toda errada, com cláusulas inexistentes e prazos de pagamento contraditórios."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "2 homens assaltam supermercado e um ameaça funcionários com arma",
+          "text": "Dois homens assaltaram um supermercado em Valbom, Gondomar, na noite de terça-feira, levando uma quantia em dinheiro. O crime aconteceu cerca das 20h30 quando o estabelecimento se preparava para encerrar. Um dos assaltantes ameaçou funcionários com uma arma."
+        },
+        {
+          "headline": "Burlona mais procurada de Espanha ataca hotéis em Coimbra",
+          "text": "A Polícia Judiciária deteve em Lisboa uma cidadã estrangeira de 30 anos, procurada pelas autoridades de Espanha para cumprir uma pena de um ano e nove meses por burla. A detida tinha atacado hotéis em Coimbra em setembro, no âmbito de uma operação de cooperação internacional."
+        },
+        {
+          "headline": "Guardas prisionais anunciam greve geral de 17 de novembro a 3 de janeiro",
+          "text": "O Sindicato Nacional do Corpo da Guarda Prisional anunciou uma greve geral de quase um mês e meio. A greve vai colocar a maioria dos reclusos fechados nas celas 22 horas por dia, com exceção dos serviços mínimos e do trabalho urgente dos grupos de intervenção e cinotécnico."
+        },
+        {
+          "headline": "PSP divulga vídeo nas redes sociais para mostrar agressões aos polícias",
+          "text": ""
+        },
+        {
+          "headline": "Manifestantes têm até 6 de novembro para decidir se pagam ou vão a julgamento",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Bombeiros acionados para incêndio que atingiu barracões com animais: nem todos sobreviveram",
+          "text": ""
+        },
+        {
+          "headline": "Homem de 57 anos não resiste após viatura cair ao Rio Douro",
+          "text": ""
+        },
+        {
+          "headline": "Portugal entre os 5 países da UE com mais mortes na estrada",
+          "text": ""
+        },
+        {
+          "headline": "Pesca da sardinha muda as regras e há mais limites",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "AVC deixa milhares de portugueses a precisar de ajuda e plano continua por concretizar",
+          "text": ""
+        },
+        {
+          "headline": "Doença de Newcastle detetada em Portugal",
+          "text": ""
+        },
+        {
+          "headline": "Portugal regista 19 casos de sarampo este ano",
+          "text": ""
+        },
+        {
+          "headline": "Infestação de carraças em hospital obriga a adiar cirurgias e transferir doentes",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Incêndios, habitação e 50 anos da Constituição em destaque no Festival Política em Coimbra",
+          "text": "O Festival Política regressa a Coimbra de 12 a 14 de novembro no Convento São Francisco, com música, humor, cinema e conversas. O evento de entrada gratuita assinala os 50 anos da Constituição e inclui interpretação em língua gestual portuguesa."
+        },
+        {
+          "headline": "Borrego e cogumelos à mesa: razão para visitar Penela entre 30 outubro e 8 novembro",
+          "text": "A IV Semana Gastronómica do Borrego e do Cogumelo regressa a Penela com oito restaurantes do concelho a apresentar propostas inspiradas nestes dois produtos. A iniciativa combina receitas tradicionais com novas interpretações gastronómicas."
+        },
+        {
+          "headline": "Fãs de sarrabulho: semana inteira dedicada a esta iguaria na Lousã",
+          "text": ""
+        },
+        {
+          "headline": "Castelo Assombrado regressa a Porto de Mós",
+          "text": ""
+        },
+        {
+          "headline": "Perlim arranca com 400 drones a iluminar Santa Maria da Feira",
+          "text": ""
+        },
+        {
+          "headline": "Há muito para descobrir na Casa da Escrita em novembro",
+          "text": ""
+        },
+        {
+          "headline": "Loriga volta a ser palco internacional do circo contemporâneo com espetáculo Clow(n)d",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Grupo Rodda lança Rodda Collection apontando ao mercado de seminovos de luxo",
+          "text": ""
+        },
+        {
+          "headline": "Coimbra avança com novo sistema de estacionamento inteligente",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
