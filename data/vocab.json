@@ -31170,5 +31170,87 @@
       "example_de": "neues Orchester der Schieferdörfer",
       "example_en": "new orchestra of the Schist Villages"
     }
+  ],
+  "2026-10-28": [
+    {
+      "pt": "alcançar",
+      "de": "erreichen",
+      "en": "to reach",
+      "example": "A paciência atingiu o limite",
+      "example_de": "Die Geduld hat die Grenze erreicht",
+      "example_en": "Patience has reached the limit"
+    },
+    {
+      "pt": "o encanto",
+      "de": "der Charme",
+      "en": "the charm",
+      "example": "Leva os encantos da região Centro para as redes",
+      "example_de": "Er bringt den Charme der Zentralregion ins Netz",
+      "example_en": "He takes the charms of the Centro region to social media"
+    },
+    {
+      "pt": "descontrolar",
+      "de": "außer Kontrolle geraten",
+      "en": "to lose control",
+      "example": "A queima de vegetação acabou por se descontrolar",
+      "example_de": "Das Verbrennen von Pflanzen geriet außer Kontrolle",
+      "example_en": "The burning of vegetation ended up getting out of control"
+    },
+    {
+      "pt": "adjudicar",
+      "de": "vergeben/auftragsvergeben",
+      "en": "to award a contract",
+      "example": "A adjudicação de um ajuste direto de 4,6 milhões",
+      "example_de": "Die Direktvergabe von 4,6 Millionen",
+      "example_en": "The direct award of 4.6 million"
+    },
+    {
+      "pt": "a carraça",
+      "de": "die Zecke",
+      "en": "the tick",
+      "example": "Infestação de carraças em hospital",
+      "example_de": "Zeckenbefall in einem Krankenhaus",
+      "example_en": "Tick infestation in a hospital"
+    },
+    {
+      "pt": "o vórtice",
+      "de": "der Wirbel",
+      "en": "the vortex",
+      "example": "Uma perturbação invulgar do vórtice polar",
+      "example_de": "Eine ungewöhnliche Störung des Polarwirbels",
+      "example_en": "An unusual disturbance of the polar vortex"
+    },
+    {
+      "pt": "o pasto",
+      "de": "die Weide",
+      "en": "the pasture",
+      "example": "Um incêndio consumiu uma área de pasto e mato",
+      "example_de": "Ein Brand zerstörte ein Weide- und Buschland",
+      "example_en": "A fire consumed an area of pasture and brushland"
+    },
+    {
+      "pt": "instruir",
+      "de": "anweisen/vorbereiten",
+      "en": "to instruct/process",
+      "example": "Os processos são muitas vezes mal instruídos",
+      "example_de": "Die Verfahren sind oft schlecht vorbereitet",
+      "example_en": "The processes are often poorly prepared"
+    },
+    {
+      "pt": "a reclassificação",
+      "de": "die Umklassifizierung",
+      "en": "the reclassification",
+      "example": "Processo de reclassificação do Monte de São Bartolomeu",
+      "example_de": "Umklassifizierungsverfahren für den Monte de São Bartolomeu",
+      "example_en": "Reclassification process for Monte de São Bartolomeu"
+    },
+    {
+      "pt": "o cinotécnico",
+      "de": "der Spürhundführer",
+      "en": "the canine handler",
+      "example": "Trabalho urgente dos grupos de intervenção e cinotécnico",
+      "example_de": "Dringende Arbeit der Interventions- und Spürhundgruppen",
+      "example_en": "Urgent work of intervention and canine groups"
+    }
   ]
 }
