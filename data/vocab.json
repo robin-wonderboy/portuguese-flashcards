@@ -31252,5 +31252,87 @@
       "example_de": "Dringende Arbeit der Interventions- und Spürhundgruppen",
       "example_en": "Urgent work of intervention and canine groups"
     }
+  ],
+  "2026-10-29": [
+    {
+      "pt": "pregar",
+      "de": "Streiche spielen",
+      "en": "to play a trick",
+      "example": "O tempo vai pregar uma partida de Halloween",
+      "example_de": "Das Wetter wird Halloween einen Streich spielen",
+      "example_en": "The weather will play a Halloween trick"
+    },
+    {
+      "pt": "o anticiclone",
+      "de": "das Hochdruckgebiet",
+      "en": "the anticyclone",
+      "example": "Um anticiclone robusto vai manter o tempo seco",
+      "example_de": "Ein robustes Hochdruckgebiet wird das trockene Wetter erhalten",
+      "example_en": "A robust anticyclone will keep the weather dry"
+    },
+    {
+      "pt": "exorbitante",
+      "de": "astronomisch",
+      "en": "outrageous",
+      "example": "Denunciam-se rendas exorbitantes na cidade dos estudantes",
+      "example_de": "Man denunziert astronomische Mieten in der Studentenstadt",
+      "example_en": "They denounce outrageous rents in the student city"
+    },
+    {
+      "pt": "o recreio",
+      "de": "die Pause",
+      "en": "the school break",
+      "example": "O recreio também ensina, diz a autarca",
+      "example_de": "Die Pause lehrt auch, sagt die Lokalpolitikerin",
+      "example_en": "The break also teaches, says the local official"
+    },
+    {
+      "pt": "o magistrado",
+      "de": "der Richter",
+      "en": "the magistrate",
+      "example": "Coimbra precisa de 25 a 30 magistrados",
+      "example_de": "Coimbra braucht 25 bis 30 Richter",
+      "example_en": "Coimbra needs 25 to 30 magistrates"
+    },
+    {
+      "pt": "a vanguarda",
+      "de": "die Vorhut",
+      "en": "the forefront",
+      "example": "A AAC deve assumir a vanguarda da luta estudantil",
+      "example_de": "Die AAC sollte die Vorhut des studentischen Kampfes übernehmen",
+      "example_en": "The AAC should take the forefront of the student struggle"
+    },
+    {
+      "pt": "a audácia",
+      "de": "die Kühnheit",
+      "en": "boldness",
+      "example": "Carlos César quer mais audácia fiscal com grandes empresas",
+      "example_de": "Carlos César will mehr steuerliche Kühnheit bei Großunternehmen",
+      "example_en": "Carlos César wants more tax boldness with large companies"
+    },
+    {
+      "pt": "o chapiteau",
+      "de": "das Zirkuszelt",
+      "en": "the big top tent",
+      "example": "O grande chapiteau ficará instalado na Praça da Canção",
+      "example_de": "Das große Zirkuszelt wird auf der Praça da Canção stehen",
+      "example_en": "The big top tent will be set up at Praça da Canção"
+    },
+    {
+      "pt": "a mula",
+      "de": "das Drogenmädel",
+      "en": "the mule (money launderer)",
+      "example": "O recrutador e a mula que movimenta o dinheiro",
+      "example_de": "Der Anwerber und das Mädel, das Geld bewegt",
+      "example_en": "The recruiter and the mule who moves the money"
+    },
+    {
+      "pt": "silvestre",
+      "de": "wild",
+      "en": "wild",
+      "example": "A colheita do fruto silvestre está no centro da celebração",
+      "example_de": "Die Ernte der wilden Frucht steht im Mittelpunkt der Feier",
+      "example_en": "The harvest of the wild fruit is at the center of the celebration"
+    }
   ]
 }
