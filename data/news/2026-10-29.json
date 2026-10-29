@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Orçamento do Estado 2027 aprovado na generalidade",
+          "text": "A proposta do Governo de Orçamento do Estado para 2027 foi aprovada na generalidade na Assembleia da República, com votos a favor de PSD e CDS-PP e abstenções de PS, PAN e JPP. Chega, IL, Livre, PCP e BE votaram contra."
+        },
+        {
+          "headline": "Presidente da República recebe partidos sobre coesão social",
+          "text": "Marcelo Rebelo de Sousa convocou os partidos para discutir coesão social, num momento de tensão política marcado pelos protestos na habitação e educação."
+        },
+        {
+          "headline": "Carlos César critica Governo e pede mais audácia fiscal",
+          "text": "O líder do PS no Parlamento quer travar os ganhos do Governo com combustíveis e exige mais audácia fiscal com as grandes empresas. Acusou ainda o executivo de ter ativado intolerância contra os protestos."
+        },
+        {
+          "headline": "Montenegro falou com Sánchez sobre vítimas do acidente em Espanha",
+          "text": "O primeiro-ministro Luís Montenegro contactou Pedro Sánchez mas ainda não tem detalhes sobre a nacionalidade das vítimas do acidente em Espanha que motivou um apelo urgente para doação de sangue."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Candidatura à AAC promete propinas gratuitas e mais residências",
+          "text": "José Pedro Sousa Fernandes encabeça a candidatura 'Avançamos pela Académica - Tradição e Luta' à Direção-Geral da AAC. O movimento defende ensino superior público e gratuito, mais bolsas e residências, e apresentou-se após a manifestação estudantil contra o aumento das propinas."
+        },
+        {
+          "headline": "Estudantes da UC saem à rua contra propinas e habitação",
+          "text": "Estudantes da Universidade de Coimbra manifestaram-se contra o aumento das propinas e as dificuldades na habitação. 'Uma pessoa não consegue viver assim', denunciam-se rendas exorbitantes na cidade dos estudantes."
+        },
+        {
+          "headline": "Alunos da UC vão poder estagiar na função pública de Macau",
+          "text": "A Universidade de Coimbra celebrou acordo que permite aos seus alunos realizar estágios na função pública de Macau, alargando oportunidades internacionais."
+        },
+        {
+          "headline": "Pampilhosa da Serra participa em encontro 'Escola Sem Muros'",
+          "text": "A vice-presidente Alexandra Tomé integrou a mesa-redonda 'Afinal, quem é responsável pelo recreio?' no II Encontro Nacional do Grupo de Trabalho Escola Sem Muros, na Madeira."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Polícias e GNR saem à rua: \"A situação não pode continuar\"",
+          "text": "A ASPP/PSP e a APG/GNR realizam hoje em Lisboa uma manifestação nacional para exigir aumentos salariais, revisão das carreiras e melhorias nas condições de trabalho. O protesto começa às 17:30 no Largo do Carmo."
+        },
+        {
+          "headline": "Novo site ajuda a não cair em 64 burlas em Portugal",
+          "text": "O site AlertaFraude.pt reúne 64 esquemas de burla e fraude, da burla do MB WAY ao carrossel do IVA. Oferece um assistente de quatro perguntas que dá um veredicto, e explica cada burla em linguagem simples. A regra central: 'Se há pressa, pode ser fraude'."
+        },
+        {
+          "headline": "\"Dono\" da TVI acusado de fraude fiscal conhece decisão",
+          "text": "Mário Ferreira, empresário detentor da Mystic Invest, conhece esta quinta-feira a decisão judicial sobre fraude fiscal qualificada na venda do navio Atlântida em 2015 a uma sociedade constituída em Malta."
+        },
+        {
+          "headline": "Coimbra precisa de 25 a 30 magistrados, alerta sindicato",
+          "text": "O sindicato dos magistrados alerta para a falta de efetivos no tribunal de Coimbra, exigindo o reforço urgente de 25 a 30 magistrados."
+        },
+        {
+          "headline": "\"Mataciclo\" avariado: comprador leva com pedra e facada",
+          "text": "A Polícia Judiciária deteve dois suspeitos de 23 e 25 anos, fortemente indiciados de homicídio qualificado tentado contra um jovem de 17 anos em Setúbal, relacionado com a compra de um mataciclo avariado."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Governo apoia até 80% na compra de carros elétricos para carenciados",
+          "text": "A ministra do Ambiente e Energia anunciou apoios à aquisição de veículos elétricos dirigidos aos mais carenciados, abrangendo cerca de 20 mil veículos com comparticipação até 80%, durante o debate do OE2027."
+        },
+        {
+          "headline": "Veterinários entregam petição para baixar IVA",
+          "text": "A Ordem dos Médicos Veterinários entregou na Assembleia da República uma petição com cerca de 8.000 assinaturas para reduzir o IVA dos serviços veterinários de 23% para 6%."
+        },
+        {
+          "headline": "Greve de sexta-feira na CP desconvocada",
+          "text": "O Sindicato Ferroviário da Revisão Comercial Itinerante suspendeu o pré-aviso de greve após desenvolvimentos positivos numa reunião com o Ministério das Infraestruturas e Habitação."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "TEMPO & SAÚDE",
+      "stories": [
+        {
+          "headline": "Halloween com tempo seco e até 27 graus em Coimbra",
+          "text": "Um anticiclone robusto vai manter tempo seco, céu pouco nublado e temperaturas acima do habitual para esta altura do ano. Em algumas localidades os termómetros poderão chegar aos 27 graus Celsius."
+        },
+        {
+          "headline": "INEM regista média de 26 casos suspeitos de AVC por dia",
+          "text": "O INEM sinalizou mais de 6.700 casos suspeitos de acidente vascular cerebral este ano, uma média de 26 por dia. Os números têm vindo a aumentar desde 2024."
+        },
+        {
+          "headline": "Hospital CUF Coimbra faz simulacro de incêndio",
+          "text": "O Hospital CUF Coimbra realiza um simulacro de incêndio. A administração pede à população para não ter medo - trata-se apenas de um exercício de segurança."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Antigos Orfeonistas recebem título de sócia honorária da UC",
+          "text": "O reitor Amílcar Falcão recebeu o título de sócia honorária do Coro de Antigos Orfeonistas em cerimónia na Biblioteca Joanina. O grupo interpretou oito temas, um em estreia, e prepara uma bolsa de mestrado para recuperar património musical de Coimbra."
+        },
+        {
+          "headline": "Coimbra em Blues regressa com concertos inéditos",
+          "text": "O festival Coimbra em Blues regressa nos dias 5 e 6 de novembro com curadoria de Paulo Furtado (The Legendary Tigerman). Destaque para Ray & Tó Trips a tocarem Robert Johnson e o novo disco de Cabrita, em estreia absoluta."
+        },
+        {
+          "headline": "Super Circo chega a Coimbra com 'SPLENDEUR'",
+          "text": "O Super Circo instala o seu grande chapiteau na Praça da Canção de 6 a 8 de novembro. A produção 'SPLENDEUR' combina tradição circense com tecnologia, luzes e ilusão, e já conquistou mais de 50 mil espectadores."
+        },
+        {
+          "headline": "Festival do Medronho em São Gião",
+          "text": "A aldeia de São Gião, em Oliveira do Hospital, recebe nos dias 30 e 31 de outubro o Festival do Medronho, com degustações de aguardente, licores tradicionais e um almoço comunitário com torresmos preparado em cozinha de fogo."
+        },
+        {
+          "headline": "Novo disco junta seis décadas de música popular portuguesa",
+          "text": "Foi lançado em Coimbra um novo disco que reúne seis décadas de música popular portuguesa, num projeto que celebra a tradição musical do país."
+        }
+      ]
+    },
+    {
+      "emoji": "🏭",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Celorico da Beira acolhe unidade industrial de drones",
+          "text": "A Vertical Connect adquiriu quatro lotes no parque empresarial da A25 para produzir drones de elevada capacidade e plataformas eVTOL. O investimento é de 30 milhões de euros e deverá criar 50 postos de trabalho numa fase inicial."
+        },
+        {
+          "headline": "Espaço de fisioterapia e bem-estar na Figueira da Foz",
+          "text": "Sara Lima transformou um espaço investido pela avó há 30 anos num sonho, criando um espaço de fisioterapia e bem-estar na Figueira da Foz."
+        }
+      ]
+    }
+  ]
+}
