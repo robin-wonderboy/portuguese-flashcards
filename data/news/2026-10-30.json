@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-30",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "O tempo vai surpreender: primeiro chega o calor, depois vem a chuva",
+          "text": "O fim de semana de Halloween e Dia de Todos os Santos deverá ter condições favoráveis em Portugal continental, com céu pouco nublado. O IPMA prevê dois dias de bom tempo, embora possam surgir nuvens no litoral."
+        },
+        {
+          "headline": "Colégio de Coimbra entra no top 10 nacional",
+          "text": "Os alunos das escolas públicas melhoraram o desempenho nos exames nacionais em 2025, mas os colégios privados voltam a destacar-se no ranking geral. A primeira escola pública surge apenas em 38.º lugar entre quase 600 estabelecimentos."
+        },
+        {
+          "headline": "Município da Lousã apoia transportes para seniores",
+          "text": "A Câmara da Lousã aprovou um apoio financeiro até 600 euros à Santa Casa da Misericórdia para comparticipar custos de transporte associados a passeios para seniores."
+        },
+        {
+          "headline": "Mealhada transforma-se num ponto de encontro para apaixonados por cinema",
+          "text": "Os IV Encontros de Cinema na Mealhada decorrem nos dias 6 e 7 de novembro, organizados pelo Cineteatro Messias em parceria com o CineClube Gândara Bairrada."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Liliana Pimentel defende reforma da lei eleitoral das autarquias",
+          "text": "A nova presidente da AMAI apontou o combate legislativo como eixo de atuação, exigindo uma reforma urgente da Lei Eleitoral dos Órgãos das Autarquias Locais. Defendeu igualdade e participou de uma conferência em Condeixa-a-Nova."
+        },
+        {
+          "headline": "Rui Moreira critica a lentidão do Estado",
+          "text": "Em conferência em Condeixa-a-Nova, Rui Moreira alertou para a desilusão dos cidadãos com a política. Liliana Pimentel destacou que a democracia não termina quando as urnas fecham, defendendo maior proximidade entre eleitos e populações."
+        },
+        {
+          "headline": "Deputados da OesteCim contra exploração mineira e central de biometano",
+          "text": "A Assembleia Intermunicipal do Oeste aprovou por unanimidade moções de rejeição a projetos de exploração mineira em Peniche e de uma central de biometano em Alenquer."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "GNR intensifica fiscalização nas estradas até domingo",
+          "text": "A GNR lançou a operação Todos os Santos 2026, intensificando patrulhamento e fiscalização nas estradas com maior tráfego. O objetivo é reduzir a sinistralidade e garantir a fluidez do trânsito durante o fim de semana prolongado."
+        },
+        {
+          "headline": "Polícias e guardas protestam em Lisboa por melhores salários",
+          "text": ""
+        },
+        {
+          "headline": "Casal acusado de matar idoso atirou-o a um poço ainda vivo",
+          "text": "O casal acusado de roubar, sequestrar e matar um homem de 80 anos em Aljustrel começa a ser julgado na terça-feira no Tribunal de Beja. O crime ocorreu em janeiro deste ano."
+        },
+        {
+          "headline": "Repreendidos por barulho, espancaram morador com murros e pontapés",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Português Nelson Bernard confirmado como vítima mortal do acidente ferroviário em Toledo",
+          "text": "Nelson Bernardino, de 49 anos, natural de Serpa e residente profissional em Madrid, morreu na colisão entre dois comboios de alta velocidade em Espanha. Trabalhava numa empresa ferroviária e tinha sido promovido recentemente. O acidente, ocorrido em Urda, província de Toledo, deixou pelo menos 69 mortos e dezenas de feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra recebe sessão de cinema com bruxas e rituais",
+          "text": "A Casa do Cinema de Coimbra exibe no sábado, 31 de outubro, o documentário A Lenda das Bruxas (1969). A sessão inclui conversa com Shirley Cabral, bruxa e sacerdotisa, e João R. Pais, programador do ciclo Cinema, Bruxaria e Superstição."
+        },
+        {
+          "headline": "Penela dedica 10 dias ao borrego e ao cogumelo",
+          "text": "A IV Semana Gastronómica do Borrego e do Cogumelo regressa a Penela de 30 de outubro a 8 de novembro, com oito restaurantes a apresentar propostas inspiradas nestes dois sabores de outono. A iniciativa combina receitas tradicionais com novas interpretações gastronómicas."
+        },
+        {
+          "headline": "Ópera e humor marcam novembro em Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Miguel Torga em destaque na Biblioteca Municipal de Coimbra",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
