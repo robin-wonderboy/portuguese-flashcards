@@ -31334,5 +31334,111 @@
       "example_de": "Die Ernte der wilden Frucht steht im Mittelpunkt der Feier",
       "example_en": "The harvest of the wild fruit is at the center of the celebration"
     }
+  ],
+  "2026-10-30": [
+    {
+      "pt": "intensificar",
+      "de": "verstärken",
+      "en": "to intensify",
+      "example": "A GNR vai intensificar o patrulhamento",
+      "example_de": "Die GNR wird die Streifen verstärken",
+      "example_en": "The GNR will intensify patrolling"
+    },
+    {
+      "pt": "a lentidão",
+      "de": "die Trägheit",
+      "en": "the slowness",
+      "example": "critica a lentidão do Estado",
+      "example_de": "kritisiert die Trägheit des Staates",
+      "example_en": "criticizes the slowness of the State"
+    },
+    {
+      "pt": "a desilusão",
+      "de": "die Enttäuschung",
+      "en": "the disillusionment",
+      "example": "alerta para a desilusão dos cidadãos",
+      "example_de": "warnt vor der Enttäuschung der Bürger",
+      "example_en": "warns about citizens' disillusionment"
+    },
+    {
+      "pt": "a bruxaria",
+      "de": "die Hexerei",
+      "en": "witchcraft",
+      "example": "o culto e prática da bruxaria",
+      "example_de": "der Kult und die Praxis der Hexerei",
+      "example_en": "the cult and practice of witchcraft"
+    },
+    {
+      "pt": "a adivinhação",
+      "de": "die Wahrsagerei",
+      "en": "divination",
+      "example": "ritos de iniciação e adivinhação",
+      "example_de": "Einweihungsriten und Wahrsagerei",
+      "example_en": "initiation rites and divination"
+    },
+    {
+      "pt": "o poço",
+      "de": "der Brunnen",
+      "en": "the well",
+      "example": "atirou-o a um poço ainda vivo",
+      "example_de": "warf ihn lebendig in einen Brunnen",
+      "example_en": "threw him into a well still alive"
+    },
+    {
+      "pt": "a exploração mineira",
+      "de": "der Bergbau",
+      "en": "mining exploitation",
+      "example": "contra a exploração mineira",
+      "example_de": "gegen den Bergbau",
+      "example_en": "against mining exploitation"
+    },
+    {
+      "pt": "comparticipar",
+      "de": "sich beteiligen",
+      "en": "to co-finance",
+      "example": "comparticipar os custos de transporte",
+      "example_de": "die Transportkosten mitfinanzieren",
+      "example_en": "co-finance transport costs"
+    },
+    {
+      "pt": "a fluidez",
+      "de": "der Verkehrsfluss",
+      "en": "the flow (of traffic)",
+      "example": "garantir a fluidez do trânsito",
+      "example_de": "den Verkehrsfluss gewährleisten",
+      "example_en": "ensure traffic flow"
+    },
+    {
+      "pt": "a traseira",
+      "de": "das Heck",
+      "en": "the rear",
+      "example": "embateu na traseira de uma composição",
+      "example_de": "prallte auf das Heck eines Zuges",
+      "example_en": "crashed into the rear of a train"
+    },
+    {
+      "pt": "a proximidade",
+      "de": "die Nähe",
+      "en": "the closeness/proximity",
+      "example": "a proximidade é uma característica do poder local",
+      "example_de": "die Nähe ist ein Merkmal der lokalen Macht",
+      "example_en": "proximity is a feature of local power"
+    },
+    {
+      "pt": "escutar",
+      "de": "zuhören",
+      "en": "to listen",
+      "example": "é necessário saber escutar",
+      "example_de": "es ist nötig, zuhören zu können",
+      "example_en": "it is necessary to know how to listen"
+    },
+    {
+      "pt": "a moção",
+      "de": "der Antrag",
+      "en": "the motion",
+      "example": "moções de rejeição",
+      "example_de": "Ablehnungsanträge",
+      "example_en": "motions of rejection"
+    }
   ]
 }
