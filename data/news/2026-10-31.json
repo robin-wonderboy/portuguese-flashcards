@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-31",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Incêndio num exaustor em Santa Clara manda 4 pessoas para o hospital",
+          "text": "Um incêndio numa cozinha de um apartamento na Rua Volta das Calçadas de Baixo, em Santa Clara, feriu quatro pessoas na noite de 30 de outubro. Duas vítimas tentaram combater as chamas com extintores e acabaram por inalar fumos e pó químico, sendo transportadas para o hospital."
+        },
+        {
+          "headline": "Idoso projetado de trator após despiste em Condeixa",
+          "text": "Um idoso foi projetado de um trator na sequência de um despiste em Condeixa. O acidente ocorreu na região e o homem necessitou de assistência médica."
+        },
+        {
+          "headline": "Cortes de luz em Coimbra neste domingo de manhã",
+          "text": "A E-Redes programou uma interrupção no fornecimento de energia entre as 08:00 e as 12:00 de domingo, 1 de novembro, na União das Freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu). O código postal abrangido é o 3000-176. Seis outros municípios do país também terão cortes."
+        },
+        {
+          "headline": "Ponte Pedro e Inês reabre a peões",
+          "text": "A Ponte Pedro e Inês, uma das mais bonitas de Coimbra, reabriu esta tarde à circulação pedonal após trabalhos de conservação, monitorização estrutural e limpeza. O Município confirmou a reabertura nas redes sociais."
+        },
+        {
+          "headline": "A abóbora não serve só para o Halloween",
+          "text": "Com o Halloween a chegar, o Notícias de Coimbra partilha receitas deliciosas com abóbora que provam que este fruto vai muito para além das decorações de outono."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Agente da PSP esfaqueado no Martim Moniz",
+          "text": "Um agente da Polícia de Segurança Pública foi esfaqueado na noite de sexta-feira na Praça do Martim Moniz, em Lisboa, quando tentava separar uma desordem entre vários indivíduos. O polícia pertence à Divisão de Segurança de Transportes Públicos."
+        },
+        {
+          "headline": "Polícia Judiciária investiga pagamentos aos bombeiros de Coruche",
+          "text": "A Polícia Judiciária está a investigar pagamentos supostamente irregulares aos bombeiros de Coruche. A investigação decorre neste momento."
+        },
+        {
+          "headline": "Idoso procurado pela Suécia detido em Portugal por negócio de 9 milhões",
+          "text": "Um idoso que era procurado pela Suécia foi detido em Portugal no âmbito de um negócio de 9 milhões. A detenção foi realizada pelas autoridades portuguesas em cooperação com a justiça sueca."
+        },
+        {
+          "headline": "Brigada de Trânsito da GNR deverá começar nos primeiros meses de 2027",
+          "text": "A nova Brigada de Trânsito da GNR deverá arrancar nos primeiros meses de 2027, segundo informações avançadas. A medida procura reorganizar a fiscalização nas estradas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "category": "PORTUGAL & POLÍTICA",
+      "stories": [
+        {
+          "headline": "PSP recua: drones da comunicação social já podem filmar no Rossio",
+          "text": "Depois de a proibição gerar polémica, a PSP reverteu a decisão que impedia os órgãos de comunicação social de utilizar drones para captar imagens da manifestação pela habitação no Rossio. SIC, CNN e CMTV tinham denunciado a restrição, que invocava razões de segurança."
+        },
+        {
+          "headline": "Bastonadas em vez de casas: Acampada de Lisboa atira-se ao Governo",
+          "text": "O movimento Acampada de Lisboa acusou o Governo de preferir a repressão policial à resolução da crise da habitação. \"Este Governo prefere as bastonadas a resolver o problema da crise da habitação\", afirmou o porta-voz João Veloso, no 14.º dia de acampamento no Rossio."
+        },
+        {
+          "headline": "José Manuel Pureza denuncia consenso negativo nos vistos gold e borlas fiscais",
+          "text": "Em Coimbra, José Manuel Pureza denunciou um \"consenso muito negativo\" relativamente aos vistos gold e às borlas fiscais, criticando a orientação política recente sobre estes temas."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "VAMOS & LAZER",
+      "stories": [
+        {
+          "headline": "Fim de Semana da Lampantana em Mortágua com vinho oferecido",
+          "text": "13 restaurantes de Mortágua servem a famosa Lampantana - carne de ovelha assada em caçoila de barro e forno a lenha - de 30 de outubro a 1 de novembro. O vinho tinto local é oferta do município. No ano passado foram servidas mais de 3500 doses. A tradição remonta às Invasões Francesas."
+        },
+        {
+          "headline": "Castelo Mágico de Montemor-o-Velho regressa a 28 de novembro",
+          "text": "O evento natalício Castelo Mágico volta ao Castelo de Montemor-o-Velho de 28 de novembro a 23 de dezembro. A organização promete aventuras, animação e momentos de diversão para famílias, com o Nico e amigos a preparar o regresso."
+        },
+        {
+          "headline": "Dia das Febras em Montemor-o-Velho",
+          "text": "O \"Dia das Febras\" está quase a começar e promete animar uma localidade em Montemor-o-Velho, com a habitual festa popular."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "CULTURA & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Museu da Chapelaria eleito Museu do Ano 2026",
+          "text": "O Museu da Chapelaria em São João da Madeira foi distinguido pela Associação Portuguesa de Museologia como Museu do Ano 2026. É o único museu da Península Ibérica dedicado à história do chapéu. Recebeu 370.000 visitantes desde 2005 e reabriu em 2025 com conteúdos em Braille e soluções multissensoriais."
+        },
+        {
+          "headline": "História da Universidade de Coimbra com mais de 100 anos distinguida",
+          "text": "A Associação Portuguesa de Museologia revelou os vencedores dos prémios anuais numa cerimónia em Sesimbra. A Universidade de Coimbra foi distinguida pelo seu trabalho de preservação e memória histórica."
+        },
+        {
+          "headline": "Estudantes exigem fim dos exames nacionais por penalizarem alunos mais pobres",
+          "text": "Estudantes portugueses exigem o fim dos exames nacionais, argumentando que penalizam os alunos mais pobres. A reivindicação surge no debate sobre o sistema de avaliação educativo."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Leões voltam a rugir: Sporting vence Casa Pia por 2-0",
+          "text": "O Sporting regressou às vitórias na I Liga impondo-se ao Casa Pia por 2-0 em Rio Maior, no jogo inaugural da 10.ª jornada. Golos de Pedro Lima aos 13 minutos e Geny Catamo no tempo de desconto."
+        },
+        {
+          "headline": "Académica vai a Vizela para vencer mas António Barbosa avisa: será difícil",
+          "text": "A Académica desloca-se a Vizela com intenções de vencer, mas o treinador António Barbosa deixa aviso de que \"será muito difícil\" conseguir o resultado."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "category": "ECONOMIA & TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "União Europeia prepara mudança nos telemóveis: baterias removíveis?",
+          "text": "A partir de 18 de fevereiro de 2027, entram em aplicação novas regras da União Europeia sobre substituição de baterias de equipamentos eletrónicos. A questão é se os telemóveis vão mesmo ter de voltar a ter baterias removíveis como nos modelos antigos."
+        },
+        {
+          "headline": "Nova taxa para compras na Temu, Shein e AliExpress",
+          "text": "Está a caminho uma nova taxa sobre as compras realizadas em plataformas como Temu, Shein e AliExpress, no âmbito das mudanças nas regras de comércio eletrónico."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Português Nelson Bernard é vítima mortal de acidente ferroviário em Toledo",
+          "text": "Está confirmado que o português Nelson Bernard é uma das vítimas mortais do acidente ferroviário em Toledo, Espanha. Tinha acabado de conquistar uma promoção profissional quando a tragédia ocorreu."
+        },
+        {
+          "headline": "Bloco de Netanyahu vence eleições mas sem maioria para governar",
+          "text": "O bloco liderado por Benjamin Netanyahu venceu as eleições em Israel, mas não conseguiu garantir a maioria necessária para governar, abrindo um período de incerteza política."
+        }
+      ]
+    }
+  ]
+}
