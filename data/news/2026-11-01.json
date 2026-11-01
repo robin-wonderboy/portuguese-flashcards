@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-01",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "Treze manifestantes detidos e 13 polícias feridos nas acampadas de Lisboa e Porto",
+          "text": "A PSP deteve 13 manifestantes (6 em Lisboa, 7 no Porto) e registou 13 polícias feridos na intervenção nas acampadas pelo direito à habitação. O porta-voz justificou o uso da força após manifestantes atirarem tintas e petardos contra a polícia. Um polícia à paisana chegou a retirar a arma de fogo no Porto."
+        },
+        {
+          "headline": "Deita fogos nas traseiras do comando da PSP de Coimbra",
+          "text": "A PJ deteve um homem de 37 anos, suspeito de pelo menos quatro crimes de incêndio em Coimbra nos últimos dois meses. Os últimos fogos ocorreram na área florestal atrás do Comando Distrital da PSP. Os prejuízos num incêndio urbano na Rua António Jardim estimam-se em mais de 20 mil euros."
+        },
+        {
+          "headline": "Jovem de 17 anos esfaqueado no peito após discussão",
+          "text": "Um jovem de 17 anos ficou gravemente ferido após ser esfaqueado por outro de 21 anos, em Vila Viçosa, Évora. A agressão aconteceu por volta das 23h na sequência de um desentendimento. O suspeito foi detido pela GNR."
+        },
+        {
+          "headline": "Fugiu do Brasil após tentar matar um homem, apanhado em Portugal",
+          "text": "A GNR deteve em Olhão um homem de 49 anos condenado por tentativa de homicídio no Brasil em 2019. Encontrava-se foragido ao abrigo de um mandado de detenção internacional."
+        },
+        {
+          "headline": "GNR terá mandado parar autocarro para passageira sair onde lhe dava mais jeito",
+          "text": "Um militar da GNR terá ordenado a paragem de um autocarro da FlixBus entre Lisboa e Sines para que uma passageira saísse num local mais próximo de casa. A GNR já abriu um processo de averiguações."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "André Ventura reeleito presidente do CHEGA com 98% dos votos",
+          "text": "André Ventura foi reeleito presidente do Chega com 98% dos votos em eleições diretas onde foi o único candidato. A 7.ª Convenção Nacional do partido está marcada para 20 a 22 de novembro no Entroncamento."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Ponte Pedro e Inês reabre com madeira renovada e sem pichagens",
+          "text": "Depois de quase um mês fechada, a Ponte Pedro e Inês reabriu à circulação pedonal. Esteve encerrada desde o início de outubro para trabalhos de monitorização estrutural e conservação programados pela Câmara Municipal de Coimbra."
+        },
+        {
+          "headline": "Matobra faz 60 anos e assinala data com leilão solidário",
+          "text": "A Matobra celebra 60 anos de atividade com 60 cadeiras decoradas por instituições e empresas que vão a leilão para angariar fundos a favor da Associação Rodinhas, que apoia crianças com doença oncológica e respetivas famílias."
+        },
+        {
+          "headline": "Viagem acaba em susto para 3 idosos após despiste em Coimbra",
+          "text": "Um despiste de um veículo ligeiro em Rios Frios, Coimbra, provocou três feridos ligeiros: duas mulheres de 86 e 84 anos e um homem de 76. As vítimas foram transportadas para os Hospitais da Universidade de Coimbra."
+        },
+        {
+          "headline": "Oliveira do Hospital: moradores podem desenhar o postal de Natal",
+          "text": "A autarquia de Oliveira do Hospital lançou um desafio aberto a todos os moradores para desenhar o postal de Natal oficial do concelho."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "IC8 com cortes e trânsito alternado na Sertã",
+          "text": "O IC8 vai ter condicionamentos de trânsito na zona da Sertã devido a trabalhos da Infraestruturas de Portugal. A intervenção faz parte de uma empreitada de reparação de pavimentos nos concelhos afetados pela calamidade decretada após as intempéries deste ano."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Castelo Mágico regressa a Montemor-o-Velho de 28 nov a 23 dez",
+          "text": "A 9.ª edição do Castelo Mágico transforma o Castelo de Montemor-o-Velho num cenário de sonho natalício. O evento promete surpresas para miúdos e graúdos, com animação, o Pai Natal e atividades que se estendem pela vila."
+        },
+        {
+          "headline": "Descobertas recuam presença humana no Vale do Côa para lá dos 27 mil anos",
+          "text": "Arqueólogos da Fundação Côa Parque encontraram centenas de fragmentos de materiais de pigmentação com mais de 27 mil anos na Rocha 3 do sítio da Penascosa. Os achados levantam a hipótese de que os homens do Paleolítico também pintavam as rochas que hoje conhecemos gravadas."
+        }
+      ]
+    }
+  ]
+}
