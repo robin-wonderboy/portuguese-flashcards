@@ -31517,5 +31517,87 @@
       "de": "die Blindenschrift",
       "en": "Braille"
     }
+  ],
+  "2026-11-01": [
+    {
+      "pt": "o petardo",
+      "de": "Böller",
+      "en": "firecracker",
+      "example": "Os manifestantes atiraram petardos contra a polícia",
+      "example_de": "Die Demonstranten warfen Böller gegen die Polizei",
+      "example_en": "The demonstrators threw firecrackers at the police"
+    },
+    {
+      "pt": "à paisana",
+      "de": "in Zivil",
+      "en": "in plain clothes, undercover",
+      "example": "Três polícias estavam numa unidade à paisana",
+      "example_de": "Drei Polizisten waren in einer Zivileinheit",
+      "example_en": "Three police officers were in a plainclothes unit"
+    },
+    {
+      "pt": "a pichagem",
+      "de": "Graffiti, Schmiererei",
+      "en": "graffiti (PT-PT)",
+      "example": "A ponte reabriu sem pichagens",
+      "example_de": "Die Brücke wurde ohne Graffiti wiedereröffnet",
+      "example_en": "The bridge reopened without graffiti"
+    },
+    {
+      "pt": "foragido",
+      "de": "flüchtig, auf der Flucht",
+      "en": "fugitive, on the run",
+      "example": "O homem encontrava-se foragido à justiça",
+      "example_de": "Der Mann war auf der Flucht vor der Justiz",
+      "example_en": "The man was a fugitive from justice"
+    },
+    {
+      "pt": "o engenho incendiário",
+      "de": "Brandvorrichtung",
+      "en": "incendiary device",
+      "example": "Utilizou engenhos incendiários de fabrico artesanal",
+      "example_de": "Er verwendete selbstgemachte Brandvorrichtungen",
+      "example_en": "He used homemade incendiary devices"
+    },
+    {
+      "pt": "a mediação",
+      "de": "Vermittlung",
+      "en": "mediation",
+      "example": "Houve um período mais longo de mediação",
+      "example_de": "Es gab eine längere Vermittlungsphase",
+      "example_en": "There was a longer period of mediation"
+    },
+    {
+      "pt": "o descanso",
+      "de": "Ruhe",
+      "en": "rest, quiet",
+      "example": "As concentrações punham em causa o direito ao descanso",
+      "example_de": "Die Versammlungen beeinträchtigten das Recht auf Ruhe",
+      "example_en": "The gatherings compromised the right to rest"
+    },
+    {
+      "pt": "a muralha",
+      "de": "Mauer, Stadtmauer",
+      "en": "wall, ramparts",
+      "example": "A magia estende-se para lá das muralhas",
+      "example_de": "Die Magie erstreckt sich über die Mauern hinaus",
+      "example_en": "The magic extends beyond the walls"
+    },
+    {
+      "pt": "a pigmentação",
+      "de": "Pigmentierung, Färbung",
+      "en": "pigmentation, coloring",
+      "example": "Fragmentos de materiais de pigmentação",
+      "example_de": "Fragmente von Pigmentierungsmaterialien",
+      "example_en": "Fragments of pigmentation materials"
+    },
+    {
+      "pt": "de fabrico artesanal",
+      "de": "selbstgemacht, handgefertigt",
+      "en": "homemade, hand-crafted",
+      "example": "Engenhos incendiários de fabrico artesanal",
+      "example_de": "Selbstgemachte Brandvorrichtungen",
+      "example_en": "Homemade incendiary devices"
+    }
   ]
 }
