@@ -31599,5 +31599,127 @@
       "example_de": "Selbstgemachte Brandvorrichtungen",
       "example_en": "Homemade incendiary devices"
     }
+  ],
+  "2026-11-02": [
+    {
+      "pt": "a brusca",
+      "de": "plötzlich",
+      "en": "abrupt",
+      "example": "Vem aí uma mudança brusca no tempo",
+      "example_de": "Ein plötzlicher Wetterwechsel kommt",
+      "example_en": "An abrupt weather change is coming"
+    },
+    {
+      "pt": "buzinar",
+      "de": "hupen",
+      "en": "to honk",
+      "example": "Condutores buzinaram em solidariedade",
+      "example_de": "Autofahrer hupten solidarisch",
+      "example_en": "Drivers honked in solidarity"
+    },
+    {
+      "pt": "o triciclo",
+      "de": "das Dreirad",
+      "en": "tricycle",
+      "example": "Parte triciclo no corpo da companheira",
+      "example_de": "Wirft Dreirad auf den Körper der Partnerin",
+      "example_en": "Throws tricycle at partner's body"
+    },
+    {
+      "pt": "enveredar",
+      "de": "sich begeben/eintreten",
+      "en": "to venture/go into",
+      "example": "Enveredar por novas técnicas de animação",
+      "example_de": "Sich auf neue Animationstechniken einlassen",
+      "example_en": "To venture into new animation techniques"
+    },
+    {
+      "pt": "o senhorio",
+      "de": "der Vermieter",
+      "en": "landlord",
+      "example": "Suspeita de matar senhorio à facada",
+      "example_de": "Verdächtig den Vermieter erstochen zu haben",
+      "example_en": "Suspected of stabbing landlord to death"
+    },
+    {
+      "pt": "o requeijão",
+      "de": "der Ricotta/Ziegenfrischkäse",
+      "en": "ricotta/fresh cheese",
+      "example": "Requeijões e queijos de cabra e de ovelha",
+      "example_de": "Ricotta und Ziegen- und Schafskäse",
+      "example_en": "Ricotta and goat and sheep cheese"
+    },
+    {
+      "pt": "a vicissitude",
+      "de": "die Widrigkeit/Unbill",
+      "en": "vicissitude/hardship",
+      "example": "As vicissitudes referidas na Portaria",
+      "example_de": "Die in der Verordnung erwähnten Widrigkeiten",
+      "example_en": "The hardships referred to in the ordinance"
+    },
+    {
+      "pt": "a alçada",
+      "de": "die Zuständigkeit/Aufsicht",
+      "en": "jurisdiction/oversight",
+      "example": "Após 17 anos sob a alçada pública",
+      "example_de": "Nach 17 Jahren unter öffentlicher Aufsicht",
+      "example_en": "After 17 years under public oversight"
+    },
+    {
+      "pt": "o vínculo",
+      "de": "die Bindung/der Vertrag",
+      "en": "bond/contract/link",
+      "example": "Mantêm a antiguidade do respetivo vínculo laboral",
+      "example_de": "Behalten die Anciennität ihres Arbeitsvertrags",
+      "example_en": "Keep the seniority of their employment contract"
+    },
+    {
+      "pt": "estipular",
+      "de": "festlegen/bestimmen",
+      "en": "to stipulate/specify",
+      "example": "O protocolo estipula os cuidados de saúde a prestar",
+      "example_de": "Das Protokoll legt die zu erbringenden Gesundheitsdienste fest",
+      "example_en": "The protocol stipulates the healthcare services to be provided"
+    },
+    {
+      "pt": "a antiguidade",
+      "de": "die Anciennität/Dienstzeit",
+      "en": "seniority",
+      "example": "Mantêm a antiguidade do respetivo vínculo laboral",
+      "example_de": "Behalten die Anciennität ihres Arbeitsvertrags",
+      "example_en": "Keep the seniority of their employment contract"
+    },
+    {
+      "pt": "a ramificação",
+      "de": "die Verzweigung",
+      "en": "branch/outgrowth",
+      "example": "Uma ramificação de serviços bancários na aldeia",
+      "example_de": "Eine Verzweigung von Bankdienstleistungen im Dorf",
+      "example_en": "A branch of banking services in the village"
+    },
+    {
+      "pt": "o mote",
+      "de": "das Motto/der Wahlspruch",
+      "en": "motto/theme",
+      "example": "O mote da iniciativa é Tradição que se saboreia",
+      "example_de": "Das Motto der Initiative ist Tradition die man schmeckt",
+      "example_en": "The initiative's motto is Tradition you can taste"
+    },
+    {
+      "pt": "a racha",
+      "de": "der Riss/gespalten",
+      "en": "crack/split",
+      "example": "Batata à Racha é um prato tradicional",
+      "example_de": "Kartoffel gespalten ist ein traditionelles Gericht",
+      "example_en": "Split potato is a traditional dish"
+    },
+    {
+      "pt": "a pretensão",
+      "de": "der Anspruch",
+      "en": "claim/pretension",
+      "example": "Sem pretensão de privilégios",
+      "example_de": "Ohne Anspruch auf Privilegien",
+      "example_en": "Without claiming privileges"
+    }
   ]
 }
