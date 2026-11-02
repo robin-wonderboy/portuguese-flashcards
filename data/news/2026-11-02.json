@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-02",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌤️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "O calor tem os dias contados. Vem aí uma mudança brusca no tempo",
+          "text": "Depois de vários dias com temperaturas acima do habitual e tempo seco, novembro traz uma mudança. A primeira semana do mês será marcada por madrugadas frias, possibilidade de geada e regresso da chuva a partir do próximo fim de semana."
+        },
+        {
+          "headline": "Incêndio na entrada de garagem junto ao antigo Hospital Pediátrico de Coimbra",
+          "text": "O alerta foi dado depois das 15h00 de domingo. Sapadores Bombeiros e Bombeiros Voluntários de Coimbra deslocaram-se à Avenida Bissaya Barreto, onde equipamentos colocados junto a uma garagem estavam a arder."
+        },
+        {
+          "headline": "Criança transportada para o Hospital Pediátrico após colisão na Lousã",
+          "text": "Um acidente entre um veículo ligeiro e um motociclo causou feridos em três pessoas, uma delas menor. O sinistro ocorreu na EN 342, sentido Miranda do Corvo/Lousã, pouco antes das 11h00 de domingo."
+        },
+        {
+          "headline": "Manhã agitada em Tábua. Acidente na EN 337 deixa mulher ferida",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "Suspeita de matar senhorio à facada diz que tentou defender-se de abuso sexual",
+          "text": "A jovem de 18 anos que matou o senhorio à facada e se entregou à GNR alega que agiu em legítima defesa contra abuso sexual. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Parte triciclo no corpo da companheira e mulher consegue escapar para pedir ajuda",
+          "text": ""
+        },
+        {
+          "headline": "PSP passa multas a condutores que buzinaram em solidariedade com manifestantes em Lisboa",
+          "text": "A PSP multou condutores que buzinaram em sinal de solidariedade com os manifestantes das acampadas pelo direito à habitação, numa operação de desocupação do espaço público."
+        },
+        {
+          "headline": "Detidos nas acampadas de Lisboa e do Porto presentes a tribunal",
+          "text": "As 13 pessoas detidas durante a intervenção policial que desmontou as acampadas em Lisboa e no Porto vão ser presentes a tribunal para primeiro interrogatório judicial. A PSP dispersou os manifestantes e removeu as tendas na madrugada de domingo."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Sporting \"despacha\" Rui Borges",
+          "text": "O treinador Rui Borges deixou o comando técnico do Sporting, com o qual tinha contrato até junho de 2028. Conduziu os leões ao título nacional e Taça de Portugal em 2024/25, mas na época passada terminou a Liga em segundo e perdeu a final da Taça contra o Torreense."
+        },
+        {
+          "headline": "Matilde Gaspar conquistou o seu primeiro título de campeã mundial",
+          "text": "A atleta da Associação de Paralisia Cerebral de Coimbra (APCC) conquistou o ouro nos 200 metros bruços no Campeonato do Mundo de Natação para Síndrome de Down, em Albufeira. Aos 20 anos, Matilde soma já dois recordes mundiais e 13 medalhas em grandes competições."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA & LAZER",
+      "stories": [
+        {
+          "headline": "O sarrabulho está a conquistar a Lousã e só tem até domingo para o provar",
+          "text": "A Semana do Sarrabulho decorre de 1 a 8 de novembro em Foz de Arouce/Casal de Ermio, na Lousã. Dois restaurantes aderentes celebram uma das iguarias mais tradicionais da cozinha portuguesa, com o mote \"Tradição que se saboreia\"."
+        },
+        {
+          "headline": "Feira do Porco e do Enchido em Meruge (Oliveira do Hospital)",
+          "text": "Nos dias 7 e 8 de novembro, a aldeia de Meruge recebe a 23.ª edição desta feira emblemática. Arroz da Suã, Torresmos na Caçoila, Porco Bísaro no Espeto e chouriças feitas ao vivo são alguns dos destaques num evento que celebra o património rural da região."
+        },
+        {
+          "headline": "Pastelarias da região de Coimbra com os melhores bolos especiais de Natal",
+          "text": "Quatro medalhas de prata e três de bronze foram atribuídas a pastelarias de Coimbra, Figueira da Foz e Tentúgal no Concurso Nacional de Bolos Especiais de Natal. Destaque para a Trança de Natal da Pastelaria Visconde e a Lampreia de Ovos da Pastelaria Dionísio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Hospital de S. João da Madeira começa a funcionar sob gestão da Misericórdia",
+          "text": "O hospital passa hoje para gestão privada da Santa Casa da Misericórdia, recebendo do Estado 13,85 milhões de euros anuais. O Sindicato dos Médicos do Norte questiona as vantagens do acordo e exige garantias sobre os vínculos laborais dos profissionais."
+        },
+        {
+          "headline": "Bombeiros de Leiria: \"O Estado não pode desistir deles\"",
+          "text": "O presidente da Federação dos Bombeiros do Distrito de Leiria alertou o ministro da Administração Interna para a falta de apoio às corporações afetadas pela depressão Kristin. Os bombeiros não pedem privilégios, mas não podem continuar à espera."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "INFRAESTRUTURAS",
+      "stories": [
+        {
+          "headline": "IC8 com cortes e trânsito alternado na Sertã",
+          "text": "O IC8 vai ter condicionamentos de trânsito na Sertã devido a trabalhos de intervenção em pavimentos da Infraestruturas de Portugal, no âmbito da calamidade decretada após as intempéries deste ano."
+        },
+        {
+          "headline": "Freguesia de Vila de Rei passa a levantar dinheiro na Junta de Freguesia",
+          "text": "São João do Peso, no concelho de Vila de Rei, tem desde 22 de outubro o serviço \"Multibanco + Perto\". Os moradores podem fazer operações bancárias essenciais na sede da Junta de Freguesia sem ter de sair da aldeia."
+        }
+      ]
+    }
+  ]
+}
