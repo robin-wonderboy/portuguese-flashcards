@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-03",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Mordia a companheira e ameaçou-a com uma catana em Tábua",
+          "text": "Um homem residente em Tábua foi condenado a dois anos e dez meses de prisão, com pena suspensa, por violência doméstica. As agressões físicas e psicológicas prolongaram-se durante cerca de seis anos, entre abril de 2018 e maio de 2024. O arguido mordia as pernas da vítima e apagava cigarros no seu corpo."
+        },
+        {
+          "headline": "Homem procurado há sete anos por desviar 20 milhões de euros detido em Portugal",
+          "text": "A Polícia Judiciária deteve, em Braga, um cidadão estrangeiro de 56 anos procurado pelas autoridades do Vietname por suspeita de burla. A detenção foi feita no cumprimento de um mandado internacional da Interpol. O homem estava foragido há cerca de sete anos."
+        },
+        {
+          "headline": "Jovem de 18 anos leva faca de casa para negociar quarto e mata o senhorio",
+          "text": ""
+        },
+        {
+          "headline": "Ligava repetidamente para o 112 com falsos alertas e é condenada a 2 anos de prisão",
+          "text": "Uma mulher foi condenada a um ano e dez meses de prisão por realizar falsas chamadas para o número de emergência 112, na região do Gerês. Os alertas não correspondiam a situações reais de perigo e obrigaram à mobilização de meios de socorro."
+        },
+        {
+          "headline": "Atrai mulher desempregada com promessa de trabalho no Dubai e obrigou-a a prostituir-se",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🌤️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Depressão a caminho: primeiro o frio quase gelado, depois a chuva",
+          "text": "Depois de várias semanas com tempo seco e temperaturas amenas, Portugal continental prepara-se para uma mudança. A primeira semana de novembro traz uma descida das temperaturas, seguida do regresso da chuva com maior intensidade a partir de sexta-feira, 6 de novembro."
+        },
+        {
+          "headline": "Mercado D. Pedro V em Coimbra faz 159 anos com festa especial",
+          "text": "A Câmara Municipal de Coimbra assinala os 159 anos do Mercado Municipal D. Pedro V com programação dedicada à memória e identidade do espaço, à gastronomia e ao início do Natal. O aniversário celebra-se a 17 de novembro, com iniciativas de saúde, atividades para famílias, música e a abertura do Mercado Encantado."
+        },
+        {
+          "headline": "Ator da Figueira da Foz Gabriel Castilho em A Bela e o Monstro",
+          "text": "O ator Gabriel Castilho, da Figueira da Foz, vai dar vida a uma personagem da produção A Bela e o Monstro, numa estreia na sua cidade natal."
+        },
+        {
+          "headline": "Coimbra recebe congresso internacional dedicado à educação e treino de cães",
+          "text": "O 6.º Congresso da APETCÃO decorre nos dias 14 e 15 de novembro, na Escola Secundária D. Duarte, com a participação do treinador internacional Kamal Fernandez. Reúne especialistas nacionais e internacionais dedicados ao comportamento e educação canina."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO & SOLIDARIEDADE",
+      "stories": [
+        {
+          "headline": "Trail de Mortágua juntou centenas numa causa solidária",
+          "text": "A 5.ª edição do Trail de Mortágua reuniu mais de 300 atletas no dia 1 de novembro, numa iniciativa do Núcleo do Sporting Clube de Portugal de Mortágua. A prova teve duas distâncias (22 e 14 km) e também uma caminhada, aliando o desporto à solidariedade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Concertos, humor e literatura: Coimbra tem uma semana cheia de planos",
+          "text": "A agenda cultural de Coimbra desta semana cruza música, literatura, artes visuais e património. Destaques incluem a celebração do Dia do Saxofonista, o regresso do ciclo Sabores da Escrita dedicado a Camilo Pessanha, e Ricardo Araújo Pereira no Convento São Francisco."
+        },
+        {
+          "headline": "Bolo Rei de Tentúgal conquistou ouro com sonhos e doce de abóbora",
+          "text": "O Moinho Novo, em Tentúgal, conquistou quatro medalhas no 15.º Concurso Nacional de Bolo Rei, incluindo um ouro pelo Bolo Rei de Sonho, que combina massa lêveda, doce de abóbora, sonhos e noz. Arrecadou ainda duas pratas e um bronze."
+        },
+        {
+          "headline": "Três clássicos de Natal, três medalhas para pastelaria de Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Feira de Tábua junta queijos, enchidos, doces e vinhos em março",
+          "text": "A Tábua de Queijos e Sabores da Beira regressa nos dias 6 e 7 de março de 2027, no Multiusos de Tábua, com mostra gastronómica, artesanato e espaços dedicados às artes e ofícios da região."
+        },
+        {
+          "headline": "História de Sara, perseguida pela Inquisição, em visita em Coimbra",
+          "text": ""
+        },
+        {
+          "headline": "Fim de semana de vinho e música em Idanha-a-Nova",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Bebidas energéticas ligadas a paragens cardíacas e enfartes em jovens",
+          "text": "Um estudo com mais de 28 mil relatos de eventos adversos apresentados à FDA nos Estados Unidos associa bebidas energéticas e produtos estimulantes com cafeína a paragens cardíacas e enfartes em adultos jovens, especialmente dos 18 aos 34 anos."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "AMBIENTE & CIÊNCIA",
+      "stories": [
+        {
+          "headline": "Fundão leva ao Chipre soluções para enfrentar as alterações climáticas",
+          "text": "O Município do Fundão apresentou no Chipre projetos de adaptação às alterações climáticas, durante o DesirMED Adaptation Festival em Larnaca, no âmbito do projeto europeu DesirMED financiado pelo Horizonte Europa."
+        },
+        {
+          "headline": "8 montarias ao javali marcadas para Vila Nova de Foz Côa até fevereiro",
+          "text": ""
+        },
+        {
+          "headline": "Crianças vão transformar Oliveira de Azeméis numa parada musical de Natal",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
