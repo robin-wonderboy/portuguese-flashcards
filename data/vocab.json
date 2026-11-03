@@ -31721,5 +31721,183 @@
       "example_de": "Ohne Anspruch auf Privilegien",
       "example_en": "Without claiming privileges"
     }
+  ],
+  "2026-11-03": [
+    {
+      "pt": "a catana",
+      "de": "das Katana (Schwert)",
+      "en": "the katana (sword)",
+      "example": "Ameacou-a com uma catana em Tabua",
+      "example_de": "Er bedrohte sie mit einem Katana in Tabua",
+      "example_en": "He threatened her with a katana in Tabua"
+    },
+    {
+      "pt": "apagar",
+      "de": "ausmachen",
+      "en": "to extinguish/put out",
+      "example": "Apagava cigarros no corpo da vitima",
+      "example_de": "Er loeschte Zigaretten am Koerper des Opfers",
+      "example_en": "He put out cigarettes on the victim's body"
+    },
+    {
+      "pt": "o cigarro",
+      "de": "die Zigarette",
+      "en": "the cigarette",
+      "example": "Apagava cigarros no corpo dela",
+      "example_de": "Er loeschte Zigaretten an ihrem Koerper",
+      "example_en": "He put out cigarettes on her body"
+    },
+    {
+      "pt": "amenos",
+      "de": "mild",
+      "en": "mild/pleasant",
+      "example": "Temperaturas relativamente amenas",
+      "example_de": "Relativ milde Temperaturen",
+      "example_en": "Relatively mild temperatures"
+    },
+    {
+      "pt": "o treino",
+      "de": "das Training",
+      "en": "the training",
+      "example": "Congresso dedicado a educacao e treino de caes",
+      "example_de": "Kongress gewidmet Erziehung und Training von Hunden",
+      "example_en": "Congress dedicated to dog education and training"
+    },
+    {
+      "pt": "o cão",
+      "de": "der Hund",
+      "en": "the dog",
+      "example": "Educacao e treino de caes em Coimbra",
+      "example_de": "Erziehung und Training von Hunden in Coimbra",
+      "example_en": "Dog education and training in Coimbra"
+    },
+    {
+      "pt": "solidária",
+      "de": "solidarisch/wohltätig",
+      "en": "charitable/solidary",
+      "example": "Uma causa solidaria juntou centenas de pessoas",
+      "example_de": "Ein wohltaetiges Anliegen versammelte Hunderte von Menschen",
+      "example_en": "A charitable cause gathered hundreds of people"
+    },
+    {
+      "pt": "a pastelaria",
+      "de": "die Konditorei",
+      "en": "the pastry shop",
+      "example": "Esta pastelaria de Coimbra esta de parabens",
+      "example_de": "Diese Konditorei aus Coimbra hat Grund zum Feiern",
+      "example_en": "This pastry shop from Coimbra deserves congratulations"
+    },
+    {
+      "pt": "de parabens",
+      "de": "Grund zum Feiern",
+      "en": "congratulations-worthy",
+      "example": "Esta pastelaria esta de parabens",
+      "example_de": "Diese Konditorei hat Grund zum Feiern",
+      "example_en": "This pastry shop deserves congratulations"
+    },
+    {
+      "pt": "repetidamente",
+      "de": "wiederholt",
+      "en": "repeatedly",
+      "example": "Ligava repetidamente para o 112",
+      "example_de": "Rief wiederholt die 112 an",
+      "example_en": "Called 112 repeatedly"
+    },
+    {
+      "pt": "desempregada",
+      "de": "arbeitslos",
+      "en": "unemployed",
+      "example": "Atrai mulher desempregada com promessa de trabalho",
+      "example_de": "Lockt arbeitslose Frau mit Versprechen von Arbeit",
+      "example_en": "Lures unemployed woman with promise of work"
+    },
+    {
+      "pt": "o Natal",
+      "de": "das Weihnachten",
+      "en": "Christmas",
+      "example": "Inclui a abertura do Mercado Encantado de Natal",
+      "example_de": "Umfasst die Eroeffnung des verzauberten Weihnachtsmarktes",
+      "example_en": "Includes the opening of the enchanted Christmas market"
+    },
+    {
+      "pt": "encantado",
+      "de": "verzaubert",
+      "en": "enchanted",
+      "example": "A abertura do Mercado Encantado",
+      "example_de": "Die Eroeffnung des verzauberten Marktes",
+      "example_en": "The opening of the enchanted market"
+    },
+    {
+      "pt": "a adaptação",
+      "de": "die Anpassung",
+      "en": "adaptation",
+      "example": "Projetos de adaptacao as alteracoes climaticas",
+      "example_de": "Projekte zur Anpassung an den Klimawandel",
+      "example_en": "Climate change adaptation projects"
+    },
+    {
+      "pt": "a personagem",
+      "de": "die Figur/Person",
+      "en": "the character",
+      "example": "Vai dar vida a uma personagem de A Bela e o Monstro",
+      "example_de": "Wird eine Figur aus Die Schoene und das Biest spielen",
+      "example_en": "Will play a character from Beauty and the Beast"
+    },
+    {
+      "pt": "dar vida a",
+      "de": "zum Leben erwecken",
+      "en": "to bring to life",
+      "example": "Ator vai dar vida a uma personagem",
+      "example_de": "Schauspieler wird eine Figur zum Leben erwecken",
+      "example_en": "Actor will bring a character to life"
+    },
+    {
+      "pt": "perseguida",
+      "de": "verfolgt",
+      "en": "persecuted",
+      "example": "A historia de Sara perseguida pela Inquisicao",
+      "example_de": "Die Geschichte von Sara verfolgt von der Inquisition",
+      "example_en": "The story of Sara persecuted by the Inquisition"
+    },
+    {
+      "pt": "a bebida",
+      "de": "das Getraenk",
+      "en": "the drink",
+      "example": "Bebidas energeticas e produtos estimulantes",
+      "example_de": "Energydrinks und Stimulanzien",
+      "example_en": "Energy drinks and stimulant products"
+    },
+    {
+      "pt": "estimulante",
+      "de": "anregend/stimulierend",
+      "en": "stimulant",
+      "example": "Produtos estimulantes que contem cafeina",
+      "example_de": "Stimulierende Produkte die Koffein enthalten",
+      "example_en": "Stimulant products containing caffeine"
+    },
+    {
+      "pt": "a cafeína",
+      "de": "das Koffein",
+      "en": "caffeine",
+      "example": "Produtos estimulantes com cafeina",
+      "example_de": "Stimulierende Produkte mit Koffein",
+      "example_en": "Stimulant products with caffeine"
+    },
+    {
+      "pt": "a parada",
+      "de": "der Umzug/Parade",
+      "en": "the parade",
+      "example": "Criancas vao transformar a cidade numa parada musical",
+      "example_de": "Kinder werden die Stadt in einen musikalischen Umzug verwandeln",
+      "example_en": "Children will transform the city into a musical parade"
+    },
+    {
+      "pt": "musical",
+      "de": "musikalisch",
+      "en": "musical",
+      "example": "Enorme parada musical de Natal",
+      "example_de": "Enormer musikalischer Weihnachtsumzug",
+      "example_en": "Enormous Christmas musical parade"
+    }
   ]
 }
