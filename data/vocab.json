@@ -31899,5 +31899,95 @@
       "example_de": "Enormer musikalischer Weihnachtsumzug",
       "example_en": "Enormous Christmas musical parade"
     }
+  ],
+  "2026-11-04": [
+    {
+      "pt": "o refrego",
+      "de": "die Verstärkung",
+      "en": "the reinforcement",
+      "example": "A Câmara reforça o apoio à associação",
+      "example_de": "Die Stadtverwaltung verstärkt die Unterstützung für den Verein",
+      "example_en": "The city council reinforces support for the association"
+    },
+    {
+      "pt": "a adenda",
+      "de": "der Nachtrag",
+      "en": "the addendum",
+      "example": "Foi assinada uma adenda ao protocolo",
+      "example_de": "Ein Nachtrag zum Protokoll wurde unterzeichnet",
+      "example_en": "An addendum to the protocol was signed"
+    },
+    {
+      "pt": "a escapadinha",
+      "de": "der Kurztrip",
+      "en": "the short getaway",
+      "example": "Uma escapadinha de Natal em família",
+      "example_de": "Ein Weihnachtskurztrip mit der Familie",
+      "example_en": "A Christmas family getaway"
+    },
+    {
+      "pt": "descontrolar-se",
+      "de": "außer Kontrolle geraten",
+      "en": "to get out of control",
+      "example": "A queima descontrolou-se e deu origem ao incêndio",
+      "example_de": "Das Feuer geriet außer Kontrolle und löste den Waldbrand aus",
+      "example_en": "The fire got out of control and caused the wildfire"
+    },
+    {
+      "pt": "avultado",
+      "de": "beträchtlich",
+      "en": "considerable, substantial",
+      "example": "Conseguiram escapar com uma quantia avultada",
+      "example_de": "Sie konnten mit einem beträchtlichen Betrag entkommen",
+      "example_en": "They escaped with a considerable amount of money"
+    },
+    {
+      "pt": "regressar em força",
+      "de": "mit voller Wucht zurückkehren",
+      "en": "to return in full force",
+      "example": "A chuva regressa em força a Portugal",
+      "example_de": "Der Regen kehrt mit voller Wucht nach Portugal zurück",
+      "example_en": "The rain returns in full force to Portugal"
+    },
+    {
+      "pt": "o rio atmosférico",
+      "de": "der atmosphärische Fluss",
+      "en": "the atmospheric river",
+      "example": "A chegada de um rio atmosférico proveniente das Caraíbas",
+      "example_de": "Die Ankunft eines atmosphärischen Flusses aus der Karibik",
+      "example_en": "The arrival of an atmospheric river from the Caribbean"
+    },
+    {
+      "pt": "pacífico",
+      "de": "friedlich",
+      "en": "peaceful",
+      "example": "Portugal é um país pacífico",
+      "example_de": "Portugal ist ein friedliches Land",
+      "example_en": "Portugal is a peaceful country"
+    },
+    {
+      "pt": "arrastar-se",
+      "de": "sich hinziehen",
+      "en": "to drag on",
+      "example": "A crise na habitação arrasta-se há mais de uma década",
+      "example_de": "Die Wohnungskrise zieht sich seit über einem Jahrzehnt hin",
+      "example_en": "The housing crisis has been dragging on for over a decade"
+    },
+    {
+      "pt": "a inalação",
+      "de": "die Einatmung",
+      "en": "inhalation",
+      "example": "Dois bombeiros sofreram ferimentos por inalação de fumos",
+      "example_de": "Zwei Feuerwehrleute erlitten Verletzungen durch Einatmen von Rauch",
+      "example_en": "Two firefighters were injured by smoke inhalation"
+    },
+    {
+      "pt": "desintegrar-se",
+      "de": "sich zersetzen, sich auflösen",
+      "en": "to disintegrate",
+      "example": "O equipamento desintegra-se quase por completo na atmosfera",
+      "example_de": "Das Gerät zersetzt sich fast vollständig in der Atmosphäre",
+      "example_en": "The equipment disintegrates almost completely in the atmosphere"
+    }
   ]
 }
