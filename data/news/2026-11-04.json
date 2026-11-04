@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-04",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "INCÊNDIOS & CLIMA",
+      "stories": [
+        {
+          "headline": "2 bombeiros feridos no fogo de Fornos de Algodres",
+          "text": "O incêndio que deflagrou em Fornos de Algodres era combatido por quase 500 operacionais e mantinha uma frente ativa. Dois bombeiros sofreram ferimentos ligeiros por inalação de fumos."
+        },
+        {
+          "headline": "Dominado fogo de Fornos de Algodres",
+          "text": "O incêndio foi dado como dominado pelas equipas de combate, após intensas horas de trabalho durante a noite."
+        },
+        {
+          "headline": "Homem detido por provocar incêndio com queima de sobrantes",
+          "text": "Um homem de 66 anos foi detido pela GNR em Carrazeda de Ansiães após uma queima de sobrantes se ter descontrolado e dado origem a um incêndio florestal. O suspeito foi constituído arguido."
+        },
+        {
+          "headline": "Chuva regressa em força a Portugal a partir de sexta-feira",
+          "text": "Portugal continental prepara-se para o regresso da chuva a partir de sexta-feira, 6 de novembro. As previsões apontam para a chegada de um rio atmosférico proveniente das Caraíbas, que poderá reforçar a precipitação entre domingo e terça-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Coveiro que não sabe ler nem escrever burlou com MB Way",
+          "text": "Um homem fez-se passar por interessado na compra de artigos na Internet e conseguiu retirar 14.700 euros de cinco pessoas através de uma burla com MB Way. Entre as vítimas estava um antigo militar da GNR, de 65 anos, que ficou praticamente sem dinheiro."
+        },
+        {
+          "headline": "Gangue armado ataca carrinha de valores e foge com milhares de euros",
+          "text": "Um grupo de homens armados assaltou uma carrinha de transporte de valores na Póvoa de Santa Iria, concelho de Vila Franca de Xira. O assalto aconteceu junto a um café cerca das 11h00 e os suspeitos escaparam com uma quantia avultada de dinheiro."
+        },
+        {
+          "headline": "Viu a PSP e levantou suspeitas. Mochila escondia 51 doses de cocaína",
+          "text": "Um homem de 53 anos foi detido pela PSP na avenida Cidade Aeminium, em Coimbra, por suspeita de tráfico de droga. A detenção aconteceu durante uma ação de patrulhamento preventivo de rotina por uma Equipa de Intervenção Rápida."
+        },
+        {
+          "headline": "Detido na Póvoa de Lanhoso para cumprir pena efetiva de três anos por furto",
+          "text": "Um homem foi detido para cumprir uma pena efetiva de três anos de prisão por furto."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Montenegro reage aos protestos e afirma que crise na habitação é um problema antigo",
+          "text": "O primeiro-ministro Luís Montenegro afirmou que já falou com os líderes dos maiores partidos da oposição sobre a crise na habitação. Reconheceu que o acesso à habitação se tem agravado há mais de uma década e destacou medidas do Governo, afirmando que Portugal é um país pacífico."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Telescópio da NASA vai cair esta quarta-feira na Terra",
+          "text": "A NASA alertou que o telescópio espacial Swift vai cair hoje sem controlo, prevendo que o equipamento se desintegre quase por completo ao atravessar a atmosfera. Estima que eventuais fragmentos remanescentes caiam numa área desconhecida, após quase 22 anos de missão."
+        },
+        {
+          "headline": "Tragédia em campo: Jesús de Miguel não resiste a choque violento",
+          "text": "Um homem faleceu após um choque violento durante um evento desportivo em campo. A mulher assistiu a tudo com a filha ao colo."
+        }
+      ]
+    },
+    {
+      "emoji": "🐾",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Lousã reforça apoio à associação que ajuda animais abandonados",
+          "text": "A Câmara Municipal da Lousã aprovou um reforço financeiro de 1.275 euros à Louzanimales através de uma adenda ao protocolo de colaboração. O reforço responde ao aumento de pedidos de apoio para processos de adoção e ações no centro de acolhimento."
+        },
+        {
+          "headline": "Coimbra recebe dois concertos que cruzam guitarras, poesia e música experimental",
+          "text": "O ciclo «As Guitarras Não Têm Saudade» regressa nos dias 5 e 7 de novembro com atuações de Geologist, membro dos Animal Collective, e do projeto IT DEEL. Os bilhetes custam oito euros por concerto."
+        },
+        {
+          "headline": "Filme nomeado para os Óscares chega às escolas pela mão do Caminhos do Cinema Português",
+          "text": "Um filme nomeado para os Óscares vai ser exibido nas escolas através do Caminhos do Cinema Português."
+        }
+      ]
+    },
+    {
+      "emoji": "🍖",
+      "category": "GASTRONOMIA & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "O sabor das antigas matanças do porco está de volta a Cantanhede",
+          "text": "O sarrabulho à Bairrada é o protagonista de três dias de festa em Murtede, Cantanhede, entre 20 e 22 de novembro. A iniciativa recupera uma tradição antiga marcada pela comida, pelo convívio e pelas memórias de outros tempos."
+        },
+        {
+          "headline": "O sarrabulho está de volta à mesa na Lousã",
+          "text": "O sarrabulho regressa à mesa nesta zona da Lousã e ainda vai a tempo de provar."
+        },
+        {
+          "headline": "Outono tem um sabor especial na feira tradicional de Tentúgal",
+          "text": "A feira tradicional de Tentúgal celebra o outono com sabores típicos da região."
+        },
+        {
+          "headline": "Festa com castanhas, pão quente e concertinas esconde-se na serra",
+          "text": "É no meio da serra que se esconde uma festa com castanhas, pão quente e concertinas."
+        },
+        {
+          "headline": "Desculpa deliciosa para visitar Penela (só até dia 8 de novembro)",
+          "text": "Há uma razão deliciosa para visitar Penela, mas só tem até dia 8 de novembro."
+        }
+      ]
+    }
+  ]
+}
