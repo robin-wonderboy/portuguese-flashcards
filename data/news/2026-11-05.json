@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-05",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Portugal vai levar um \"banho\": chuva forte e ventos a caminho",
+          "text": "Portugal continental deverá enfrentar um episódio de chuva forte e persistente a partir de sexta-feira, 6 de novembro, com agravamento previsto para o início da próxima semana. Uma extensa depressão atlântica transporta grandes quantidades de humidade em direção à Península Ibérica, e os ventos podem transformar os próximos dias num problema."
+        },
+        {
+          "headline": "Carrinha consumida pelas chamas em Cantanhede",
+          "text": "Uma carrinha incendiou-se na manhã de quinta-feira na EN234, em Póvoa da Lomba, concelho de Cantanhede. O alerta foi dado por volta das 7h30, mobilizando os Bombeiros Voluntários de Cantanhede. Não houve registo de feridos."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA & LAZER",
+      "stories": [
+        {
+          "headline": "10 dias de perdição para os fãs de bacalhau: Semana do Bacalhau em Coimbra",
+          "text": "Entre 5 e 15 de novembro, 39 restaurantes de Coimbra servem bacalhau para \"todos os gostos e feitios\". A iniciativa, promovida pela APBC e AHRESP com apoio do Município, pretende compensar a quebra do turismo entre o verão e o Natal. Cada restaurante pagou 20 euros que reverterá integralmente para o Centro Social e Cultural 25 de Abril na Rua da Sofia."
+        },
+        {
+          "headline": "Outono tem castanhas, jeropiga e baile na Serra da Gardunha",
+          "text": "A 28ª edição da Rota dos Castanheiros realiza-se no dia 8 de novembro em Alcongosta, Fundão. A caminhada atravessa soutos de castanheiros e inclui magusto com jeropiga, baile e atelier de fuligem. Inscrições obrigatórias, com participação gratuita para residentes em Alcongosta."
+        },
+        {
+          "headline": "Já há datas para visitar a aldeia de Natal mais ecológica de Portugal",
+          "text": "A aldeia de Cabeça, no concelho de Seia, transforma-se em Aldeia de Natal entre 5 de dezembro de 2026 e 6 de janeiro de 2027. Na 13ª edição, os 170 habitantes voltam a criar enfeites com materiais naturais e reciclados - giestas, videiras, ramos de pinheiro e canas de milho - numa aposta na sustentabilidade."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Duarte Lima começa a ser julgado pelo homicídio de Rosalina Ribeiro",
+          "text": "O julgamento do ex-deputado do PSD Duarte Lima, acusado do homicídio de Rosalina Ribeiro há 17 anos, começou esta tarde no Tribunal de Sintra. O primeiro dia está reservado para a audição do arguido, que deverá optar pelo silêncio depois de se identificar perante o coletivo de juízes."
+        },
+        {
+          "headline": "PJ apanha suspeito de atear nove incêndios em Tondela",
+          "text": "A Polícia Judiciária deteve um homem de 56 anos, suspeito de provocar nove incêndios florestais no concelho de Tondela, distrito de Viseu. As ignições ocorreram desde meados de agosto, com episódios recentes nos primeiros dias de novembro. Os incêndios deflagraram em zonas próximas de áreas habitacionais."
+        },
+        {
+          "headline": "Habitação: Ministra da Justiça defende bom senso na interpretação da decisão judicial",
+          "text": "Rita Alarcão Júdice defendeu \"bom senso\" na aplicação da decisão do tribunal administrativo sobre o direito a acampar nos protestos pela habitação. Admite \"excessos de parte a parte\" e pede equilíbrio, numa audição parlamentar de discussão do Orçamento do Estado."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Portugueses são a 7ª população da UE que mais sente aumento do custo de vida",
+          "text": "Segundo um inquérito do Banco Europeu de Investimento, 68% dos inquiridos em Portugal afirmam que o seu poder de compra caiu significativamente no último ano. Portugal é a sétima população da União Europeia que mais sentiu o aumento do custo de vida."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Idoso com pulseira amarela morre após esperar 12 horas nas urgências",
+          "text": "Um homem de 87 anos morreu na sala de espera do Hospital de Portimão após aguardar cerca de 12 horas por uma primeira observação médica. O idoso deu entrada pelas 17h00 de terça-feira com dores abdominais e vómitos, tendo sido classificado na triagem com pulseira amarela."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & ENTRETENIMENTO",
+      "stories": [
+        {
+          "headline": "Virgem Suta apresentam novo álbum em Miranda do Corvo este sábado",
+          "text": "Os Virgem Suta passam por Miranda do Corvo no sábado, 7 de novembro, para apresentar o novo álbum \"Sala de Estar\" em formato acústico, na Casa das Artes às 21h30. Nuno Figueiredo e Jorge Benvinda revisitam canções marcantes como \"Linhas Cruzadas\" e \"Dança de Balcão\", além dos quatro singles recentes. A banda segue depois para o Coliseu Club em Lisboa no dia 8."
+        },
+        {
+          "headline": "Do papel ao digital: exposição em Condeixa mostra evolução da arqueologia",
+          "text": "Condeixa-a-Nova inaugura esta quinta-feira a exposição \"Do Manual ao Digital: a Evolução do Registo Arqueológico\", no Museu PO.RO.S. A mostra resulta de uma parceria entre a CCDR Centro e o Município, e estará patente ao público até 18 de abril de 2027. O programa inclui visita guiada a Conímbriga e conversa com arqueólogos."
+        },
+        {
+          "headline": "Ana Guiomar e João Manzarra desafiados a desaparecer na Região Centro",
+          "text": "Ana Guiomar, João Manzarra e João Kopke partiram à descoberta do Centro de Portugal numa viagem de 48 horas sem saber a próxima aventura. A viagem marcou-se por provas, gastronomia, património e contacto com a natureza, promovendo os recantos mais especiais do território."
+        }
+      ]
+    }
+  ]
+}
