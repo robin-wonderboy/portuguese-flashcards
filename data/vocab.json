@@ -31989,5 +31989,119 @@
       "example_de": "Das Gerät zersetzt sich fast vollständig in der Atmosphäre",
       "example_en": "The equipment disintegrates almost completely in the atmosphere"
     }
+  ],
+  "2026-11-05": [
+    {
+      "pt": "consumido",
+      "de": "verzehrt/aufgefressen",
+      "en": "consumed/devoured",
+      "example": "A carrinha foi consumida pelas chamas",
+      "example_de": "Der Transporter wurde von den Flammen verschlungen",
+      "example_en": "The van was consumed by flames"
+    },
+    {
+      "pt": "o souto",
+      "de": "Kastanienhain",
+      "en": "chestnut grove",
+      "example": "Atravessando soutos de castanheiros",
+      "example_de": "Durch Kastanienhaine wandernd",
+      "example_en": "Crossing chestnut groves"
+    },
+    {
+      "pt": "a alavanca",
+      "de": "Hebel",
+      "en": "lever/boost",
+      "example": "Dar uma alavancazinha aos restaurantes",
+      "example_de": "Den Restaurants einen Schub geben",
+      "example_en": "Give a boost to the restaurants"
+    },
+    {
+      "pt": "o poder de compra",
+      "de": "Kaufkraft",
+      "en": "purchasing power",
+      "example": "O poder de compra caiu significativamente",
+      "example_de": "Die Kaufkraft ist deutlich gesunken",
+      "example_en": "Purchasing power has dropped significantly"
+    },
+    {
+      "pt": "a ignição",
+      "de": "Zündung/Entzündung",
+      "en": "ignition",
+      "example": "As ignições terão ocorrido desde agosto",
+      "example_de": "Die Zündungen sollen seit August aufgetreten sein",
+      "example_en": "The ignitions reportedly occurred since August"
+    },
+    {
+      "pt": "a essência",
+      "de": "Wesen/Kern",
+      "en": "essence",
+      "example": "A procura da essência das canções",
+      "example_de": "Die Suche nach dem Wesen der Lieder",
+      "example_en": "The search for the essence of the songs"
+    },
+    {
+      "pt": "o bom senso",
+      "de": "gesunder Menschenverstand",
+      "en": "common sense",
+      "example": "Defende bom senso na interpretação",
+      "example_de": "Verteidigt gesunden Menschenverstand bei der Auslegung",
+      "example_en": "Defends common sense in interpretation"
+    },
+    {
+      "pt": "acampar",
+      "de": "zelten",
+      "en": "to camp",
+      "example": "O direito a acampar nos protestos",
+      "example_de": "Das Recht zu zelten bei den Protesten",
+      "example_en": "The right to camp at the protests"
+    },
+    {
+      "pt": "a fuligem",
+      "de": "Ruß",
+      "en": "soot",
+      "example": "Atelier gratuito de fuligem com agulhas",
+      "example_de": "Kostenloser Workshop mit Ruß und Nadeln",
+      "example_en": "Free workshop with soot and pine needles"
+    },
+    {
+      "pt": "a decoração",
+      "de": "Dekoration",
+      "en": "decoration",
+      "example": "A decoração volta a ser feita pelos habitantes",
+      "example_de": "Die Dekoration wird wieder von den Bewohnern gemacht",
+      "example_en": "The decoration is again made by the inhabitants"
+    },
+    {
+      "pt": "o enfeite",
+      "de": "Schmuck/Dekoration",
+      "en": "ornament/decoration",
+      "example": "Para criar enfeites natalícios",
+      "example_de": "Um Weihnachtsschmuck zu schaffen",
+      "example_en": "To create Christmas ornaments"
+    },
+    {
+      "pt": "o recanto",
+      "de": "Winkel/Ecke",
+      "en": "nook/corner",
+      "example": "Alguns dos recantos mais especiais",
+      "example_de": "Einige der besondersten Winkel",
+      "example_en": "Some of the most special nooks"
+    },
+    {
+      "pt": "o vómito",
+      "de": "Erbrechen",
+      "en": "vomit",
+      "example": "Dores abdominais e vómitos",
+      "example_de": "Bauchschmerzen und Erbrechen",
+      "example_en": "Abdominal pain and vomiting"
+    },
+    {
+      "pt": "a lembrança",
+      "de": "Erinnerung/Andenken",
+      "en": "souvenir/memory",
+      "example": "A inscrição inclui uma lembrança",
+      "example_de": "Die Anmeldung enthält ein Andenken",
+      "example_en": "Registration includes a souvenir"
+    }
   ]
 }
