@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-06",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Tempestade Bruna traz chuva forte, trovoada e rajadas até 100 km/h",
+          "text": "O arquipélago da Madeira, oito distritos do continente e o grupo Oriental dos Açores estão sob avisos do IPMA. A Bruna traz chuva por vezes forte e persistente, acompanhada de trovoada, com ventos que podem atingir 100 km/h."
+        },
+        {
+          "headline": "Pá para torre eólica cai de veículo pesado e corta N2 em Góis",
+          "text": "A Estrada Nacional 2 está cortada nos dois sentidos entre Alvares e Chã de Alvares, em Góis, após o tombamento de uma carga transportada por um veículo pesado. O incidente ocorreu quinta-feira pelas 17h15, quando uma pá destinada a uma torre eólica tombou para a via."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Pai suspeito de abusar sexualmente da filha desde os 6 anos, indiciado por mais de 7.800 crimes",
+          "text": "Um homem de 35 anos foi detido pela Polícia Judiciária em flagrante delito, no concelho de Portel, Évora. A própria filha, atualmente com 13 anos, estará entre as vítimas. O arguido está fortemente indiciado pela prática de milhares de crimes de abuso sexual e pornografia de crianças."
+        },
+        {
+          "headline": "PJ resolve caso de rapto e extorsão em apenas 7 horas",
+          "text": "A Unidade Nacional Contraterrorismo deteve três cidadãos estrangeiros, entre 24 e 44 anos, por rapto e extorsão. A vítima foi privada da liberdade como forma de pressão para o pagamento de uma alegada dívida. Localizada e libertada pelas 21h30 do mesmo dia, os detidos foram aplicados com prisão preventiva."
+        },
+        {
+          "headline": "Receitas falsas para comprar medicamentos e alimentar negócio de droga levam à detenção de homem",
+          "text": "A PJ deteve um homem de 34 anos por utilizar receitas médicas falsas para adquirir grandes quantidades de medicamentos como Rivotril, Tramadol e Pregabalina. Os medicamentos seriam posteriormente transportados e comercializados em países terceiros."
+        },
+        {
+          "headline": "Localizados em Portugal dois filhos de mulher detida em Espanha por tráfico de menores",
+          "text": "Duas crianças, filhos de uma mulher detida em Badajoz por envolvimento com uma rede de compra e venda de menores, foram localizadas em Portugal e colocadas em centros de acolhimento. A mulher continua detida juntamente com mais três pessoas relacionadas com o crime."
+        },
+        {
+          "headline": "Inventa casa destruída na Ucrânia e saca 245 mil euros a amigos e colegas na Guarda",
+          "text": "Uma empregada de limpeza de 49 anos terá convencido nove pessoas a emprestar cerca de 245 mil euros, alegando que a sua casa na Ucrânia tinha sido destruída pela guerra. O dinheiro nunca foi devolvido aos amigos, vizinhos e colegas que a ajudaram."
+        },
+        {
+          "headline": "PJ faz buscas na Câmara de Matosinhos por serviços de assessoria de imprensa",
+          "text": "A Polícia Judiciária efetuou buscas na Câmara de Matosinhos relacionadas com serviços de assessoria de imprensa. A operação insere-se numa investigação em curso sobre os contratos e serviços de comunicação do município."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Festival de Sopas em Corticeiro de Cima: jantar de sábado por 5 euros",
+          "text": "No dia 7 de novembro, o Salão da Igreja Paroquial de Corticeiro de Cima, em Cantanhede, acolhe a IV edição do Festival Sopeiro Gandarês. A iniciativa promete unir a comunidade num ambiente de convívio, gastronomia e tradição, com sopas gandaresas e animação musical ao vivo. Bilhete geral: 5 euros."
+        },
+        {
+          "headline": "Feira do Porco e do Enchido em Meruge: 2 dias de perdição gastronómica",
+          "text": "Nos dias 7 e 8 de novembro, a aldeia de Meruge em Oliveira do Hospital recebe a 23.ª edição da Feira do Porco e do Enchido. O evento celebra o património ligado à criação do porco e à produção artesanal de enchidos, com o Arroz da Suã como grande protagonista, teatro histórico e música."
+        },
+        {
+          "headline": "Mercadinhos da Margem Esquerda regressam a Coimbra com sabores de outono",
+          "text": "Os Mercadinhos regressam no dia 8 de novembro à Alameda do UC Exploratório, com castanhas assadas na hora, produtos biológicos, oficinas de culinária para famílias e animação musical. A 22.ª edição celebra a época dos magustos com entrada livre, das 10h às 17h."
+        },
+        {
+          "headline": "Carnaval da Bairrada tem financiamento garantido para 2027",
+          "text": "A Câmara da Mealhada assinou protocolos de financiamento com a Associação do Carnaval da Bairrada e as quatro escolas de samba participantes. A preparação para o Carnaval de 2027 já está em marcha para garantir que a próxima edição volta a encher as ruas de cor e música."
+        },
+        {
+          "headline": "Cinanima em Espinho celebra 50.ª edição com filmes que procuram a ousadia da felicidade",
+          "text": "O Festival Cinanima inicia em Espinho a sua 50.ª edição, com um programa de filmes de animação que procuram explorar a ousadia da felicidade. Meio século de cinema de animação internacional marcado pela criatividade e expressão artística."
+        },
+        {
+          "headline": "Idanha-a-Velha: uma antiga cidade romana a 2 horas de Coimbra",
+          "text": "A pequena aldeia da Beira Baixa, integrada na rede das Aldeias Históricas de Portugal e classificada como Monumento Nacional, foi em tempos uma cidade importante. Muralhas romanas convivem com igrejas medievais e inscrições antigas num lugar onde basta caminhar para atravessar séculos de História."
+        }
+      ]
+    },
+    {
+      "emoji": "🧠",
+      "category": "SAÚDE & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Montemor-o-Velho promove sessão sobre saúde mental na adolescência dirigida a pais",
+          "text": "A Escola Básica e Secundária de Montemor-o-Velho recebe no dia 13 de novembro uma sessão de sensibilização sobre saúde mental na adolescência, dirigida a pais e encarregados de educação do 8.º ano. A iniciativa, no âmbito do projeto «Mais Contigo», pretende dar ferramentas às famílias para identificar sinais de sofrimento emocional e ajudar os jovens na gestão das emoções."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA",
+      "stories": [
+        {
+          "headline": "PSP treina resposta a incêndio no IPO de Coimbra",
+          "text": "A PSP esteve no IPO de Coimbra para treinar a resposta a uma situação de incêndio, no âmbito da preparação para emergências em unidades de saúde. A ação conjunta permitiu simular cenários e testar procedimentos de evacuação."
+        }
+      ]
+    }
+  ]
+}
