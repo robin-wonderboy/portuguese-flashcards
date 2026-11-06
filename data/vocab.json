@@ -32103,5 +32103,135 @@
       "example_de": "Die Anmeldung enthält ein Andenken",
       "example_en": "Registration includes a souvenir"
     }
+  ],
+  "2026-11-06": [
+    {
+      "pt": "a pá",
+      "de": "die Schaufel, das Rotorblatt",
+      "en": "shovel, blade",
+      "example": "pá para torre eólica",
+      "example_de": "Rotorblatt für Windkraftanlage",
+      "example_en": "blade for wind turbine"
+    },
+    {
+      "pt": "a estrada nacional",
+      "de": "die Nationalstraße",
+      "en": "national road",
+      "example": "a Estrada Nacional 2 está cortada",
+      "example_de": "die Nationalstraße 2 ist gesperrt",
+      "example_en": "National Road 2 is blocked"
+    },
+    {
+      "pt": "o tráfico de menores",
+      "de": "der Menschenhandel mit Minderjährigen",
+      "en": "child trafficking",
+      "example": "detida por tráfico de menores",
+      "example_de": "festgenommen wegen Menschenhandel mit Minderjährigen",
+      "example_en": "arrested for child trafficking"
+    },
+    {
+      "pt": "o centro de acolhimento",
+      "de": "die Aufnahmeeinrichtung",
+      "en": "shelter, reception center",
+      "example": "ficaram em centros de acolhimento",
+      "example_de": "kamen in Aufnahmeeinrichtungen",
+      "example_en": "placed in reception centers"
+    },
+    {
+      "pt": "a receita falsa",
+      "de": "das falsche Rezept",
+      "en": "fake prescription",
+      "example": "receitas falsas para comprar medicamentos",
+      "example_de": "falsche Rezepte zum Medikamentenkauf",
+      "example_en": "fake prescriptions to buy medication"
+    },
+    {
+      "pt": "tombamento",
+      "de": "das Umkippen, der Sturz",
+      "en": "overturning, toppling",
+      "example": "o tombamento da carga",
+      "example_de": "das Umkippen der Ladung",
+      "example_en": "the toppling of the load"
+    },
+    {
+      "pt": "cortar",
+      "de": "abschneiden, sperren",
+      "en": "to cut off, to block",
+      "example": "corta estrada em Góis",
+      "example_de": "sperrt Straße in Góis",
+      "example_en": "blocks road in Góis"
+    },
+    {
+      "pt": "inventar",
+      "de": "erfinden, erlügen",
+      "en": "to invent, to make up",
+      "example": "inventa uma casa destruída",
+      "example_de": "erfindet ein zerstörtes Haus",
+      "example_en": "makes up a destroyed house"
+    },
+    {
+      "pt": "a cobrança coerciva",
+      "de": "das zwangsweise Eintreiben",
+      "en": "coercive collection",
+      "example": "a cobrança coerciva de uma alegada dívida",
+      "example_de": "das zwangsweise Eintreiben einer angeblichen Schuld",
+      "example_en": "coercive collection of an alleged debt"
+    },
+    {
+      "pt": "dirigir",
+      "de": "richten an, leiten",
+      "en": "to address, to direct",
+      "example": "sessão dirigida a pais",
+      "example_de": "an Eltern gerichtete Sitzung",
+      "example_en": "session directed at parents"
+    },
+    {
+      "pt": "o sofrimento emocional",
+      "de": "das emotionale Leiden",
+      "en": "emotional distress",
+      "example": "sinais de sofrimento emocional nos adolescentes",
+      "example_de": "Anzeichen emotionalen Leidens bei Jugendlichen",
+      "example_en": "signs of emotional distress in teenagers"
+    },
+    {
+      "pt": "a cozinha tradicional",
+      "de": "die traditionelle Küche",
+      "en": "traditional cuisine",
+      "example": "especialidades da cozinha tradicional",
+      "example_de": "Spezialitäten der traditionellen Küche",
+      "example_en": "traditional cuisine specialties"
+    },
+    {
+      "pt": "quentinho",
+      "de": "warm, heiß (diminutiv)",
+      "en": "nice and warm",
+      "example": "castanhas quentinhas",
+      "example_de": "warme Kastanien",
+      "example_en": "warm chestnuts"
+    },
+    {
+      "pt": "o saberes",
+      "de": "das Wissen, die überlieferten Fähigkeiten",
+      "en": "traditional knowledge, know-how",
+      "example": "preservando os saberes transmitidos de geração em geração",
+      "example_de": "das über Generationen weitergegebene Wissen bewahrend",
+      "example_en": "preserving know-how passed down through generations"
+    },
+    {
+      "pt": "o anfiteatro",
+      "de": "das Amphitheater",
+      "en": "amphitheater",
+      "example": "no granítico anfiteatro da Lage Grande",
+      "example_de": "im granitenen Amphitheater der Lage Grande",
+      "example_en": "in the granite amphitheater of Lage Grande"
+    },
+    {
+      "pt": "o forno comunitário",
+      "de": "der Gemeinschaftsofen",
+      "en": "community oven",
+      "example": "acabadas de cozer no Forno Comunitário",
+      "example_de": "frisch gebacken im Gemeinschaftsofen",
+      "example_en": "freshly baked in the community oven"
+    }
   ]
 }
