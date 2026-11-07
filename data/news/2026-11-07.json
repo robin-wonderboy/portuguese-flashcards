@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-07",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏫",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Coimbra prepara concurso de 23,5 milhões para renovar Escola José Falcão",
+          "text": "A Câmara Municipal de Coimbra vai analisar na segunda-feira, 9 de novembro, a abertura do concurso público para a beneficiação e requalificação da Escola Secundária José Falcão, no valor estimado de 23,5 milhões de euros. A escola, classificada como Monumento de Interesse Público, apresenta um estado acentuado de degradação após cerca de 90 anos de utilização. A intervenção pretende melhorar conforto térmico, acessibilidade, segurança e eficiência energética, incluindo instalação de painéis fotovoltaicos. A escola continuará a funcionar durante a empreitada, com prazo previsto de 730 dias."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA LOCAL",
+      "stories": [
+        {
+          "headline": "Impasse político leva presidente da Junta e equipa a bater com a porta em Midões",
+          "text": "A freguesia de Midões, no concelho de Tábua, continua sem conseguir constituir um Executivo mais de um ano após as eleições autárquicas. O presidente da Junta, Paulo Portugal, e os restantes eleitos pelo Partido Socialista anunciaram a renúncia aos mandatos. O autarca justifica a decisão com a impossibilidade de alcançar um entendimento entre as forças políticas, apesar das várias Assembleias de Freguesia realizadas. As negociações ficaram marcadas pela reivindicação de lugares no Executivo pela coligação «Correr por Tábua» e do Chega."
+        }
+      ]
+    },
+    {
+      "emoji": "🧹",
+      "category": "CIDADE & URBANISMO",
+      "stories": [
+        {
+          "headline": "Coimbra dá uma lavagem à cidade: pichagens desaparecem e passeios são recuperados",
+          "text": "A Câmara Municipal de Coimbra realizou durante o mês de outubro intervenções de manutenção e requalificação do espaço público. Os trabalhos incluíram remoção de pichagens em vários pontos da cidade, conservação de passeios em calçada, limpeza de bermas rodoviárias e da vala da Rua Jorge Mendes em Coselhas, e início da instalação de equipamentos no Parque Infantil da Solum."
+        },
+        {
+          "headline": "Incêndio em recuperador assusta moradores em Coimbra",
+          "text": "Os Bombeiros de Coimbra foram mobilados na sexta-feira para um incêndio em Casal da Bemposta. Tratou-se de um incêndio num recuperador de calor. À chegada dos meios de socorro, o fogo já se encontrava extinto, não tendo provocado feridos nem desalojados."
+        }
+      ]
+    },
+    {
+      "emoji": "🚓",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Apanhar pinhas pode sair caro: multas chegam aos 3500 euros",
+          "text": "A apanha de pinhas de pinheiro-manso está sujeita a regras e multas para quem não as cumprir. A GNR deteve esta semana dois homens por furto de pinhas numa propriedade privada no concelho de Óbidos. Na operação foram apreendidos 250 quilos de pinhas e uma vara telescópica. Os suspeitos foram constituídos arguidos."
+        },
+        {
+          "headline": "Barco suspeito junto à costa leva PJ a apreender mais de uma tonelada de droga",
+          "text": "A Polícia Judiciária e a GNR, com apoio da Marinha e Força Aérea, desenvolveram uma operação conjunta de combate ao tráfico internacional de estupefacientes por via marítima. A operação culminou na detenção de quatro cidadãos estrangeiros e na apreensão de cerca de uma tonelada de droga."
+        },
+        {
+          "headline": "Prisão preventiva para quatro suspeitos de tráfico de droga detidos em Odemira",
+          "text": ""
+        },
+        {
+          "headline": "Tribunal da Relação de Coimbra confirma absolvição da Fundação ADFP nas obras do Templo Ecuménico",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "category": "TECNOLOGIA & INOVAÇÃO",
+      "stories": [
+        {
+          "headline": "Aluna de Coimbra cria aplicação para ajudar famílias a encontrar cuidadores",
+          "text": "Beatriz Ribeiro, aluna da Profitecla Coimbra do curso de Apoio Psicossocial, está entre os 14 finalistas da 11.ª edição do Geração+. Desenvolveu o projeto CareMatch, uma aplicação digital que pretende facilitar a ligação entre cuidadores e famílias que necessitam de apoio domiciliário."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "category": "COMUNIDADE & SOCIEDADE",
+      "stories": [
+        {
+          "headline": "Bruno conduz o autocarro da felicidade e transforma viagens com mensagens de motivação",
+          "text": "Bruno, motorista da Rede Expresso, tornou-se conhecido como o motorista do «autocarro da felicidade». A sua missão é tornar mais felizes os dias de quem se cruza com ele durante o trabalho, oferecendo aos passageiros uma palavra amiga e mensagens de motivação durante as viagens."
+        },
+        {
+          "headline": "Miranda do Corvo e Fundação Aga Khan assinam protocolo de cooperação",
+          "text": "O Município de Miranda do Corvo e a Fundação Aga Khan Portugal assinaram um protocolo de cooperação estratégica para projetos em áreas como educação, cidadania, inclusão social e sustentabilidade ambiental. A parceria enquadra-se na estratégia municipal Miranda Family Lab."
+        }
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "category": "AMBIENTE",
+      "stories": [
+        {
+          "headline": "Vagos debate impacto das redes fantasma no mar em palestra na Praia da Vagueira",
+          "text": "O impacto ambiental das artes de pesca perdidas ou abandonadas no mar vai estar em debate no dia 20 de novembro, no Espaço Museológico da Praia da Vagueira. A iniciativa «Redes Fantasma: Do Conhecimento à Ação» é promovida pelo Município de Vagos e pelo FOR-MAR, com entrada gratuita."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "EVENTOS & LAZER",
+      "stories": [
+        {
+          "headline": "Soure vai transformar-se na Fábrica do Pai Natal com pista de gelo, carrossel e comboio",
+          "text": ""
+        },
+        {
+          "headline": "Este mercado de Natal vai encher Oliveira do Hospital de doces, artesanato e produtos regionais",
+          "text": ""
+        },
+        {
+          "headline": "Venceram o The Voice Gerações e vão pôr a Lousã a cantar na Feira do Mel e da Castanha",
+          "text": ""
+        },
+        {
+          "headline": "Noite de sopas e bifanas na Lousã por apenas 10 euros",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
