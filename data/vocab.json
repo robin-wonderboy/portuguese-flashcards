@@ -32233,5 +32233,87 @@
       "example_de": "frisch gebacken im Gemeinschaftsofen",
       "example_en": "freshly baked in the community oven"
     }
+  ],
+  "2026-11-07": [
+    {
+      "pt": "o recuperador",
+      "de": "der Wärmerückgewinner",
+      "en": "the heat recovery system",
+      "example": "Incêndio em recuperador assusta moradores",
+      "example_de": "Brand in Wärmerückgewinner erschreckt Bewohner",
+      "example_en": "Fire in heat recovery system scares residents"
+    },
+    {
+      "pt": "a felicidade",
+      "de": "das Glück",
+      "en": "happiness",
+      "example": "o autocarro da felicidade",
+      "example_de": "der Glückbus",
+      "example_en": "the happiness bus"
+    },
+    {
+      "pt": "renunciar",
+      "de": "verzichten, zurücktreten",
+      "en": "to resign, to renounce",
+      "example": "presidente da Junta anuncia renúncia ao mandato",
+      "example_de": "Präsident der Gemeinde kündigt Mandatsverzicht an",
+      "example_en": "parish president announces resignation from mandate"
+    },
+    {
+      "pt": "a perplexidade",
+      "de": "die Verwirrung, die Bestürzung",
+      "en": "perplexity, bewilderment",
+      "example": "esta exigência causou-nos perplexidade",
+      "example_de": "diese Forderung verwirrte uns",
+      "example_en": "this demand bewildered us"
+    },
+    {
+      "pt": "a pinha",
+      "de": "der Pinienzapfen",
+      "en": "the pinecone",
+      "example": "a apanha de pinhas de pinheiro-manso",
+      "example_de": "das Sammeln von Pinienzapfen der Steineiche",
+      "example_en": "gathering stone pine pinecones"
+    },
+    {
+      "pt": "a degradação",
+      "de": "der Verfall, die Verschlechterung",
+      "en": "degradation, deterioration",
+      "example": "estado acentuado de degradação",
+      "example_de": "fortgeschrittener Verfall",
+      "example_en": "advanced state of degradation"
+    },
+    {
+      "pt": "a rede fantasma",
+      "de": "das Geisternetz",
+      "en": "ghost net (abandoned fishing net)",
+      "example": "impacto das redes fantasma no mar",
+      "example_de": "Auswirkung von Geisternetzen im Meer",
+      "example_en": "impact of ghost nets in the sea"
+    },
+    {
+      "pt": "a absolutória",
+      "de": "der Freispruch",
+      "en": "the acquittal",
+      "example": "confirma absolvição da Fundação ADFP",
+      "example_de": "bestätigt Freispruch der Stiftung ADFP",
+      "example_en": "confirms acquittal of ADFP Foundation"
+    },
+    {
+      "pt": "a lousa",
+      "de": "die Tafel, der Asphalt",
+      "en": "the blackboard, the asphalt road (fig.)",
+      "example": "vão pôr a Lousã a cantar",
+      "example_de": "sie werden Lousã zum Singen bringen",
+      "example_en": "they will make Lousã sing"
+    },
+    {
+      "pt": "o cuidador",
+      "de": "der Betreuer, die Pflegekraft",
+      "en": "caregiver",
+      "example": "ajudar famílias a encontrar cuidadores",
+      "example_de": "Familien helfen, Betreuer zu finden",
+      "example_en": "helping families find caregivers"
+    }
   ]
 }
