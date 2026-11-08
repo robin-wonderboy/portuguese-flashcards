@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-08",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "👶",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Aurora nasce numa ambulância dos Bombeiros de Anadia",
+          "text": "A bebé Aurora fez questão de nascer a bordo de uma ambulância de socorro dos Bombeiros de Anadia, a meio de uma tarde de sábado. O comandante Bruno Gomes elogiou o trabalho dos tripulantes e frisou o orgulho nos seus operacionais."
+        },
+        {
+          "headline": "Mulher despista-se na A1 e por pouco não é atropelada mortalmente",
+          "text": "Uma mulher de 41 anos despistou-se com o seu veículo ligeiro ao quilómetro 193,8 da A1, entre as saídas de Coimbra e Coimbra Norte, por volta das 19h45 de sábado. A vítima saiu do carro e por pouco não foi atropelada, tendo sofrido ferimentos graves."
+        },
+        {
+          "headline": "João Félix passou pelo Rei dos Leitões na Mealhada",
+          "text": "O futebolista internacional português João Félix visitou o conhecido restaurante Rei dos Leitões, na Mealhada, para desfrutar da gastronomia da região. A presença do jogador não passou despercebida e gerou entusiasmo entre os presentes."
+        },
+        {
+          "headline": "Cães-guia precisam de apoio neste Natal",
+          "text": "A ABAADV - Escola de Cães-guia para Cegos associou-se à Segredos Campestres para lançar uma campanha de Natal com cabazes solidários. A iniciativa permite ajudar a mudar vidas através de sabores e produtos especiais."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Homem ferido na cabeça durante roubo com armas de fogo",
+          "text": "Um homem de 26 anos foi abordado por quatro assaltantes, agredido e ameaçado com duas armas de fogo durante um roubo em Leça do Balio, Matosinhos. A vítima foi levada para o Hospital Pedro Hispano com ferimentos na cabeça."
+        },
+        {
+          "headline": "PJ apanha homem a desenterrar cocaína num pinhal na Figueira da Foz",
+          "text": "A Polícia Judiciária deteve um homem de 39 anos quando tentava recolher 800 gramas de cocaína escondida numa zona de pinhal em Ribas, Figueira da Foz. A ação foi realizada pela Diretoria do Centro em cumprimento de um mandado de detenção do DIAP."
+        },
+        {
+          "headline": "Menina de 8 anos identifica suposto raptor através de um desenho",
+          "text": "Um desenho feito por uma criança de oito anos foi determinante para identificar um homem suspeito de tentar raptá-la em Borja, Espanha. A menor descreveu características físicas do indivíduo, incluindo tatuagens e uma cicatriz no rosto, que permitiram às autoridades chegar ao suspeito."
+        },
+        {
+          "headline": "Recluso agride psiquiatra com vários socos na prisão",
+          "text": "Um recluso de 24 anos agrediu uma psiquiatra com vários socos na cabeça no Estabelecimento Prisional de Vale de Judeus, em Azambuja. O incidente ocorreu quando o recluso foi ao gabinete médico pedir medicação. O agressor cumpre pena de 11 anos e seis meses por roubo, sequestro e posse de arma proibida."
+        },
+        {
+          "headline": "Lancha foge à polícia e escapa em direção ao alto mar",
+          "text": "Uma embarcação de alta velocidade, suspeita de transporte de droga, foi avistada pela GNR no rio Lima, em Viana do Castelo. Quando a Polícia Marítima chegou, os ocupantes colocaram-se em fuga em direção ao alto mar e conseguiram escapar sem serem intercetados."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica empata com Amarante no Cidade de Coimbra",
+          "text": "A Briosa marcou cedo aos oito minutos por Amadou Coundoul, mas recuou na segunda parte e deixou o Amarante empatar. O golo de Nito Gomes nasceu de um atraso mal medido. O empate deixa a Académica sem voltar às vitórias na 10ª jornada da II Liga."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Carnaval da Mealhada 2027 tem rei: Maninho dá concerto gratuito",
+          "text": "O cantor Maninho foi escolhido como Rei do Carnaval da Mealhada 2027 e vai atuar na tenda com entrada gratuita. A organização recupera o baile de sábado à noite e prepara um plano B para dias de chuva, garantindo que haverá sempre desfile. Volta também a haver intérpretes de língua gestual e um concurso de montras."
+        },
+        {
+          "headline": "Apoio ao Carnaval da Mealhada é investimento, refere presidente da câmara",
+          "text": "O presidente do Município da Mealhada, António Jorge Franco, defendeu que o apoio anual ao Carnaval não é um subsídio mas um investimento com retorno económico e turístico para o concelho e toda a região."
+        },
+        {
+          "headline": "Exposição sobre Camilo Pessanha inaugurada na Figueira da Foz",
+          "text": "A Biblioteca Pública Municipal Pedro Fernandes Tomás inaugurou a exposição «Camilo Pessanha: uma vida e uma obra para descobrir», integrada nas comemorações do centenário da morte do poeta. Constituída por 16 painéis, a mostra percorre a vida e obra de uma das figuras mais marcantes da literatura portuguesa, que Fernando Pessoa admirava profundamente."
+        }
+      ]
+    },
+    {
+      "emoji": "🍖",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "80 quilos de torresmos já prontos para a Feira do Porco de Meruge",
+          "text": "Agostinho Brito, da Associação dos Amigos de Meruge, já preparou 80 quilos de torresmos na caçoila com batata à racha para a 23ª Feira do Porco e do Enchido. O segredo? Boa carne, vinho tinto, alho, louro, sal e pimenta, com duas horas e meia ao lume. A meta é vender 250 quilos durante os dois dias do certame."
+        }
+      ]
+    }
+  ]
+}
