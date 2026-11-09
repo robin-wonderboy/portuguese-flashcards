@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-09",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🔥",
+      "category": "REGIÃO",
+      "stories": [
+        {
+          "headline": "Fogo consome pilhas de madeira numa empresa durante a madrugada na Figueira da Foz",
+          "text": "Um incêndio consumiu pilhas de madeira numa empresa na Figueira da Foz durante a madrugada. Os bombeiros foram acionados e o fogo ficou controlado sem reportar vítimas."
+        },
+        {
+          "headline": "Coimbra investe mais de 200 mil euros na sede de Eiras e na Extensão de Saúde de São João do Campo",
+          "text": "A Câmara de Coimbra vai investir mais de 200 mil euros na requalificação da sede de Eiras e na Extensão de Saúde de São João do Campo, melhorando equipamentos e serviços para a população."
+        },
+        {
+          "headline": "Coimbra recebe conferência online sobre proteção de dados em investigação",
+          "text": "A Universidade de Coimbra recebe uma conferência online dedicada à proteção de dados no contexto da investigação científica, reunindo especialistas da área."
+        },
+        {
+          "headline": "Coimbra recebe encontro nacional dedicado às redes de acolhimento e à inclusão no mercado de trabalho",
+          "text": "Coimbra acolhe um encontro nacional focado em redes de acolhimento e inclusão no mercado de trabalho, promovendo debate sobre integração de grupos vulneráveis."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Burlões fazem-se passar por padre e pedem dinheiro a moradores através do WhatsApp",
+          "text": "Burlões estão a fazer-se passar por um padre e a pedir dinheiro a moradores através do WhatsApp. A GNR alerta para esta nova fraude que tem enganado várias pessoas na região."
+        },
+        {
+          "headline": "Mota da PSP envolve-se em acidente com automóvel e deixa polícia ferido",
+          "text": "Uma mota da PSP envolveu-se num acidente com um automóvel, deixando um polícia ferido. O agente foi transportado para o hospital."
+        },
+        {
+          "headline": "Sem telemóvel, mulher envia email à GNR para denunciar companheiro que a agredia e violava",
+          "text": "Uma mulher sem telemóvel recorreu ao email para denunciar à GNR o companheiro que a agredia e violava. O caso veio revelar a situação de violência doméstica."
+        },
+        {
+          "headline": "Noite de violência: Discussão acaba à facada e deixa três homens feridos",
+          "text": "Uma noite de violência terminou com uma discussão à facada que deixou três homens feridos. As autoridades estão a investigar o incidente."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Vitória junta-se a Salvador que enfrenta a batalha mais difícil da sua vida e precisa de dois milhões de euros",
+          "text": "O Vitória de Guimarães juntou-se à campanha de Salvador, uma criança que enfrenta uma doença grave e precisa de dois milhões de euros para tratamento. O clube apela à solidariedade."
+        },
+        {
+          "headline": "Multidão manifesta-se em Lisboa contra construção de hotel de luxo no Quartel da Graça",
+          "text": "Uma multidão manifestou-se em Lisboa contra a construção de um hotel de luxo no antigo Quartel da Graça. Os manifestantes defendem a preservação do património histórico."
+        },
+        {
+          "headline": "Nadador-salvador de 37 anos desaparece no mar na Madeira em plena passagem da depressão Bruna",
+          "text": "Um nadador-salvador de 37 anos desapareceu no mar na Madeira durante a passagem da depressão Bruna. As buscas estão em curso mas as condições marítimas dificultam as operações."
+        },
+        {
+          "headline": "GNR teve uma semana agitada: os resultados surpreendem",
+          "text": "A GNR divulgou os resultados de uma semana de operações intensas, com números que surpreendem pela quantidade de infrações e detenções registadas."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Menina de 2 anos morre após se engasgar com uma uva: Urgência pediátrica estava fechada",
+          "text": "Uma menina de 2 anos morreu após se engasgar com uma uva. A urgência pediátrica mais próxima estava fechada, o que levanta questões sobre o acesso aos cuidados de saúde."
+        },
+        {
+          "headline": "3 mortes numa semana: José Luís Carneiro denúncia morte de criança no Hospital de Portimão",
+          "text": "José Luís Carneiro denunciou a morte de uma criança no Hospital de Portimão, somando-se a três mortes numa semana no mesmo hospital. O caso está a gerar forte controvérsia política."
+        },
+        {
+          "headline": "Idoso morre nas urgências após 24 horas sem observação: médico terá recusado atendê-lo",
+          "text": "Um idoso morreu nas urgências após 24 horas sem observação médica. Um médico terá recusado atendê-lo, levantando questões sobre negligência e falhas no sistema de saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Aluno de Coimbra conquista ouro na Europa e prova que talento também é saber trabalhar em equipa",
+          "text": "Um aluno de Coimbra conquistou uma medalha de ouro numa competição europeia, destacando que o talento individual depende também do trabalho em equipa."
+        },
+        {
+          "headline": "Coimbra prepara concurso de 23,5 milhões para renovar Escola José Falcão",
+          "text": "A Câmara de Coimbra prepara um concurso no valor de 23,5 milhões de euros para a renovação completa da Escola José Falcão, um dos estabelecimentos mais antigos da cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "André Ventura escolhe a Figueira da Foz para deixar aviso sobre próximas eleições",
+          "text": "O líder do Chega, André Ventura, escolheu a Figueira da Foz para deixar um aviso sobre as próximas eleições, numa ação política que marca presença na região Centro."
+        },
+        {
+          "headline": "PS vai chamar ministra da Saúde ao parlamento sobre mortes no hospital de Portimão",
+          "text": "O PS vai chamar a ministra da Saúde ao parlamento para prestar esclarecimentos sobre as mortes no Hospital de Portimão, intensificando a pressão política sobre o Governo."
+        },
+        {
+          "headline": "Governo paga jantar luxuoso para a elite da Web Summit",
+          "text": "O Governo pagou um jantar luxuoso para a elite da Web Summit, gerando críticas sobre o uso de dinheiro público em eventos de luxo enquanto o país enfrenta problemas sociais."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "METEO & CENTRO",
+      "stories": [
+        {
+          "headline": "Distritos da Guarda e Castelo Branco com aviso laranja por causa da chuva e trovoada",
+          "text": "A Guarda e Castelo Branco estão sob aviso laranja devido a chuva intensa e trovoada. O IPMA recomenda precaução, especialmente em zonas propensas a cheias."
+        },
+        {
+          "headline": "Incêndios apagaram sons de aldeia em Vouzela e artista quer trazê-los de volta",
+          "text": "Os incêndios que devastaram Vouzela apagaram os sons característicos da aldeia. Um artista quer agora trazê-los de volta através de um projeto sonoro."
+        },
+        {
+          "headline": "Moradores de Castelo Branco queixam-se de maus odores há anos: já foi identificada a origem do problema",
+          "text": "Moradores de Castelo Branco queixam-se de maus odores há anos. A origem do problema foi finalmente identificada, mas os residentes aguardam por uma solução definitiva."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO",
+      "stories": [
+        {
+          "headline": "Atirador que matou 6 pessoas numa praça turística na Polónia morre no hospital",
+          "text": "O atirador que matou seis pessoas numa praça turística em Cracóvia, Polónia, morreu no hospital. Três corpos foram também encontrados em sua casa. Uma portuguesa de 74 anos ficou ferida no ataque."
+        },
+        {
+          "headline": "Donald Trump considera muito improvável recomeço da guerra",
+          "text": "Donald Trump afirmou considerar muito improvável o recomeço da guerra, numa declaração sobre o contexto geopolítico atual que gera reações mistas."
+        },
+        {
+          "headline": "Carro com dez pessoas capota e cai a lagoa: ninguém sobreviveu",
+          "text": "Um carro com dez pessoas capotou e caiu numa lagoa. Não houve sobreviventes, num trágico acidente que está a ser investigado pelas autoridades locais."
+        }
+      ]
+    },
+    {
+      "emoji": "🏎️",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Lando Norris vence GP do Brasil de Fórmula 1 e Mercedes é campeã de construtores",
+          "text": "Lando Norris venceu o GP do Brasil de Fórmula 1, numa corrida que confirmou também a Mercedes como campeã mundial de construtores."
+        },
+        {
+          "headline": "Marco Bezzecchi vence no Qatar e adia título de MotoGP para Portimão",
+          "text": "Marco Bezzecchi venceu o GP do Qatar de MotoGP, adiando a decisão do título mundial para a corrida em Portimão, em Portugal."
+        },
+        {
+          "headline": "Coimbra abre os cofres e prepara apoios para 49 clubes desportivos",
+          "text": "A Câmara de Coimbra abriu os cofres e prepara apoios financeiros para 49 clubes desportivos do concelho, reforçando o investimento no desporto local."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Contagem decrescente: Águeda já tem data para entrar no espírito de Natal",
+          "text": "Águeda já tem data marcada para entrar no espírito de Natal, com decorações e eventos festivos em preparação para a época natalícia."
+        },
+        {
+          "headline": "Fernando Pessoa admirava-o e agora há uma exposição para descobrir o seu génio na Figueira da Foz",
+          "text": "Uma exposição na Figueira da Foz celebra um autor admirado por Fernando Pessoa, propondo uma descoberta do seu génio literário."
+        },
+        {
+          "headline": "Venceram o The Voice Gerações e vão agora pôr a Lousã a cantar na Feira do Mel e da Castanha",
+          "text": "Os vencedores do The Voice Gerações vão atuar na Feira do Mel e da Castanha na Lousã, prometendo pôr o público a cantar."
+        }
+      ]
+    }
+  ]
+}
