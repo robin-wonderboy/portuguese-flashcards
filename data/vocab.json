@@ -32373,5 +32373,135 @@
       "pt": "a gastronomia",
       "de": "die Gastronomie / Esskultur"
     }
+  ],
+  "2026-11-09": [
+    {
+      "pt": "a época",
+      "de": "Jahreszeit",
+      "en": "season/period",
+      "example": "A época natalícia está a chegar",
+      "example_de": "Die Weihnachtszeit naht",
+      "example_en": "The Christmas season is approaching"
+    },
+    {
+      "pt": "engasgar",
+      "de": "sich verschlucken",
+      "en": "to choke",
+      "example": "Menina morre após se engasgar com uma uva",
+      "example_de": "Mädchen stirbt nachdem es sich an einer Traube verschluckt hatte",
+      "example_en": "Girl dies after choking on a grape"
+    },
+    {
+      "pt": "empinado",
+      "de": "aufgerichtet",
+      "en": "upturned/pointed up",
+      "example": "Castelo Branco quer um rabo mais empinado",
+      "example_de": "Castelo Branco will einen aufgerichteteren Hintern",
+      "example_en": "Castelo Branco wants a more upturned rear"
+    },
+    {
+      "pt": "a birra",
+      "de": "Wutanfall",
+      "en": "tantrum",
+      "example": "Ronaldo faz birra e prefere Georgina",
+      "example_de": "Ronaldo bekommt einen Wutanfall und zieht Georgina vor",
+      "example_en": "Ronaldo throws a tantrum and prefers Georgina"
+    },
+    {
+      "pt": "hibernar",
+      "de": "Winterschlaf halten",
+      "en": "to hibernate",
+      "example": "Não deixe as suas costas hibernarem",
+      "example_de": "Lassen Sie Ihren Rücken keinen Winterschlaf halten",
+      "example_en": "Dont let your back hibernate"
+    },
+    {
+      "pt": "o nadador",
+      "de": "Schwimmer",
+      "en": "swimmer",
+      "example": "Nadador-salvador desaparece no mar na Madeira",
+      "example_de": "Rettungsschwimmer verschwindet im Meer auf Madeira",
+      "example_en": "Lifeguard swimmer disappears in the sea in Madeira"
+    },
+    {
+      "pt": "o talho",
+      "de": "Fleischerei",
+      "en": "butcher shop",
+      "example": "passou 34 anos atrás de um talho",
+      "example_de": "verbrachte 34 Jahre hinter einer Fleischerei",
+      "example_en": "spent 34 years behind a butcher shop"
+    },
+    {
+      "pt": "o doutoramento",
+      "de": "Promotion",
+      "en": "doctorate",
+      "example": "recebe doutoramento honoris causa",
+      "example_de": "erhält Ehrendoktorat",
+      "example_en": "receives honorary doctorate"
+    },
+    {
+      "pt": "a loiça",
+      "de": "Geschirr",
+      "en": "dishes",
+      "example": "Ele não lava a loiça",
+      "example_de": "Er wäscht nicht das Geschirr",
+      "example_en": "He doesnt wash the dishes"
+    },
+    {
+      "pt": "faminto",
+      "de": "hungrig",
+      "en": "starving / hungry",
+      "example": "Este dragão está com fome de vitórias",
+      "example_de": "Dieser Drache ist hungrig nach Siegen",
+      "example_en": "This dragon is hungry for victories"
+    },
+    {
+      "pt": "o pano",
+      "de": "Lappen",
+      "en": "cloth",
+      "example": "panos de cozinha não devem ser lavados com toalhas",
+      "example_de": "Küchenlappen sollten nicht mit Handtüchern gewaschen werden",
+      "example_en": "kitchen cloths shouldnt be washed with towels"
+    },
+    {
+      "pt": "a mancha",
+      "de": "Fleck",
+      "en": "stain",
+      "example": "tem manchas amarelas na almofada",
+      "example_de": "hat gelbe Flecken auf dem Kissen",
+      "example_en": "has yellow stains on the pillow"
+    },
+    {
+      "pt": "indiferente",
+      "de": "gleichgültig",
+      "en": "indifferent",
+      "example": "não está a deixar ninguém indiferente",
+      "example_de": "lässt niemanden gleichgültig",
+      "example_en": "isnt leaving anyone indifferent"
+    },
+    {
+      "pt": "o construtor",
+      "de": "Bauunternehmer",
+      "en": "builder",
+      "example": "contra construção de hotel de luxo",
+      "example_de": "gegen Bauunternehmer eines Luxushotels",
+      "example_en": "against builder of a luxury hotel"
+    },
+    {
+      "pt": "sorrateiro",
+      "de": "heimtückisch",
+      "en": "sneaky",
+      "example": "o esquema está mais sorrateiro",
+      "example_de": "das Schema ist heimtückischer geworden",
+      "example_en": "the scheme has become more sneaky"
+    },
+    {
+      "pt": "calmo",
+      "de": "ruhig",
+      "en": "calm",
+      "example": "está agora calma e isolada na cadeia",
+      "example_de": "ist jetzt ruhig und isoliert im Gefängnis",
+      "example_en": "is now calm and isolated in prison"
+    }
   ]
 }
