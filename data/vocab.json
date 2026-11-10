@@ -32503,5 +32503,87 @@
       "example_de": "ist jetzt ruhig und isoliert im Gefängnis",
       "example_en": "is now calm and isolated in prison"
     }
+  ],
+  "2026-11-10": [
+    {
+      "pt": "desproporcionada",
+      "de": "unverhältnismäßig",
+      "en": "disproportionate",
+      "example": "A agressão foi desproporcionada",
+      "example_de": "Der Angriff war unverhältnismäßig",
+      "example_en": "The assault was disproportionate"
+    },
+    {
+      "pt": "torrencial",
+      "de": "stark, sintflutartig",
+      "en": "torrential",
+      "example": "A depressão traz chuva torrencial",
+      "example_de": "Das Tiefdruckgebiet bringt sintflutartigen Regen",
+      "example_en": "The depression brings torrential rain"
+    },
+    {
+      "pt": "à semelhança de",
+      "de": "ähnlich wie, nach dem Vorbild von",
+      "en": "similar to, following the example of",
+      "example": "À semelhança da edição de verão, o programa regressa",
+      "example_de": "Ähnlich wie bei der Sommerausgabe kehrt das Programm zurück",
+      "example_en": "Similar to the summer edition, the program returns"
+    },
+    {
+      "pt": "o castanheiro",
+      "de": "der Kastanienbaum",
+      "en": "the chestnut tree",
+      "example": "Vão oferecer castanheiros aos visitantes",
+      "example_de": "Sie verschenken Kastanienbäume an die Besucher",
+      "example_en": "They will give chestnut trees to visitors"
+    },
+    {
+      "pt": "a agitação marítima",
+      "de": "die See, der Seegang",
+      "en": "sea agitation/rough seas",
+      "example": "A depressão traz forte agitação marítima",
+      "example_de": "Das Tiefdruckgebiet bringt starken Seegang",
+      "example_en": "The depression brings rough seas"
+    },
+    {
+      "pt": "a coesão social",
+      "de": "der soziale Zusammenhalt",
+      "en": "social cohesion",
+      "example": "A segurança é indispensável para a coesão social",
+      "example_de": "Sicherheit ist unerlässlich für den sozialen Zusammenhalt",
+      "example_en": "Security is essential for social cohesion"
+    },
+    {
+      "pt": "arejar",
+      "de": "lufen, frische Luft schnappen",
+      "en": "to air out/get some fresh air",
+      "example": "Venho cá arejar um bocadinho as ideias",
+      "example_de": "Ich komme hierher, um etwas frische Luft zu schnappen",
+      "example_en": "I come here to get some fresh air and clear my head"
+    },
+    {
+      "pt": "o timbre",
+      "de": "die Stimmlage, der Klang",
+      "en": "the timbre/voice tone",
+      "example": "Tens um timbre muito bonito",
+      "example_de": "Du hast eine sehr schöne Stimmlage",
+      "example_en": "You have a very beautiful timbre"
+    },
+    {
+      "pt": "o jurado",
+      "de": "der Juror, der Geschworene",
+      "en": "the judge/juror (competition)",
+      "example": "Leonel conquista os jurados do The Voice",
+      "example_de": "Leonel überzeugt die Juroren von The Voice",
+      "example_en": "Leonel wins over The Voice judges"
+    },
+    {
+      "pt": "o responsável",
+      "de": "der Verantwortliche",
+      "en": "the person in charge/manager",
+      "example": "O responsável destaca o crescimento do projeto",
+      "example_de": "Der Verantwortliche hebt das Wachstum des Projekts hervor",
+      "example_en": "The person in charge highlights the projects growth"
+    }
   ]
 }
