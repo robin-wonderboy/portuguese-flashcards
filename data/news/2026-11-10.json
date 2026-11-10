@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-10",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEO & CLIMA",
+      "stories": [
+        {
+          "headline": "Depois de Bruna chega o Charles. Nova depressão ameaça Portugal",
+          "text": "A chuva não vai dar tréguas a Portugal nos próximos dias. Depois da passagem da depressão Bruna, é agora a vez de Charles se aproximar da Península Ibérica, trazendo precipitação abundante, vento forte e forte agitação marítima. O agravamento deverá fazer-se sentir de forma mais significativa na quarta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "JUSTIÇA & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Quem tirou a 2.ª Equipa de Intervenção Rápida da PSP de Coimbra?",
+          "text": "A vereadora Maria Lencastre Portugal apresentou uma proposta de recomendação política a alertar para a falta de efetivos da PSP no concelho e a exigir explicações sobre a retirada da segunda Equipa de Intervenção Rápida. A proposta foi aprovada por unanimidade e inclui a convocação extraordinária do Conselho Municipal de Segurança."
+        },
+        {
+          "headline": "Fim de semana de excessos em Coimbra: 5 detidos",
+          "text": "Cinco pessoas foram detidas pela PSP nos dias 6 e 7 de novembro por conduzirem sob influência de álcool. As taxas variaram entre 1,31 e 2,27 gramas por litro. As detenções ocorreram no âmbito de ações de fiscalização rodoviária do Comando Distrital da PSP de Coimbra."
+        },
+        {
+          "headline": "PJ descobre 4,5 toneladas de haxixe numa carrinha furtada",
+          "text": "A Polícia Judiciária deteve um homem em flagrante delito no concelho de Olhão por tráfico de estupefacientes. Foram apreendidos cerca de 100 fardos de haxixe, num total de 4,5 toneladas, escondidos numa carrinha furtada."
+        },
+        {
+          "headline": "Mata colega de casa após discussão por causa de lixo",
+          "text": "Um homem de 59 anos foi detido pela PJ pela autoria de um crime de homicídio em Quarteira. A vítima, um homem de 73 anos, sofreu violentas agressões na zona da cabeça após uma discussão considerada desproporcionada. O suspeito ficou em prisão preventiva."
+        }
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "category": "GASTRONOMIA",
+      "stories": [
+        {
+          "headline": "João França leva o nome de Coimbra ao pódio da gastronomia regional",
+          "text": "O chef do restaurante Refeito da Baixa, em Coimbra, foi distinguido com o Prémio Revelação nos prémios Sabores ao Centro. Natural de Coimbra, regressou à terra natal depois de passar por vários locais do mundo, motivado pelas raízes e pela vontade de desenvolver um projeto ligado à região Centro."
+        },
+        {
+          "headline": "Três restaurantes da Região de Coimbra entre os 25 premiados",
+          "text": "O Turismo Centro de Portugal revelou os melhores restaurantes da região num prémio que distingue a gastronomia local. Três restaurantes da zona de Coimbra estão entre os 25 premiados."
+        },
+        {
+          "headline": "Pizzaria MADRE: amor lento, fermentação de 48 horas",
+          "text": "Abriu no Largo do Romal em novembro de 2025 uma pizzaria com fermentação 100% natural e lenta, até 48 horas. O nome MADRE remete para a massa mãe, o fermento natural alimentado diariamente. A equipa também gere o OAK, outro projeto de restauração em Coimbra há cinco anos."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra recebe mais de 120 filmes no Caminhos do Cinema Português",
+          "text": "A 32.ª edição do festival decorre entre 14 e 21 de novembro com cerca de 127 filmes e mais de quatro mil minutos de programação. Há estreias, uma nova secção chamada Entre Imagens, e sessões para jovens sobre igualdade de género e democracia. O passe geral custa 50 euros."
+        },
+        {
+          "headline": "Festival Artes à Solta: São Tomé e Príncice em Coimbra",
+          "text": "Entre 13 e 15 de novembro, a segunda edição do ARTES À SOLTA destaca patrimónios da UNESCO de São Tomé e Príncipe. O evento inclui conferências, espetáculos, música, dança e visitas guiadas, com destaque para o Tchiloli, expressão cultural são-tomense."
+        },
+        {
+          "headline": "Feira do Mel e da Castanha da Lousã celebra 35.ª edição",
+          "text": "Entre 20 e 22 de novembro, o Parque Municipal de Exposições recebe 117 expositores. A novidade deste ano: oferta de castanheiros para reflorestar a Serra da Lousã. Música com Luís Trigacheiro, Ana Bacalhau e os Encanta Modas. Entrada gratuita."
+        }
+      ]
+    },
+    {
+      "emoji": "🎤",
+      "category": "TELEVISÃO",
+      "stories": [
+        {
+          "headline": "Estudante de Medicina de Coimbra conquista jurados do The Voice",
+          "text": "Leonel Varela, de 19 anos, veio de Cabo Verde para estudar Medicina em Coimbra. A sua interpretação de Heather fez virar três cadeiras. Escolheu David e Mickael Carreira como mentores. O irmão surpreendeu-o viajando dos Países Baixos para estar presente."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "category": "SOCIEDADE & COMUNIDADE",
+      "stories": [
+        {
+          "headline": "ARCIL pede ajuda para aquecer lar na Lousã",
+          "text": "A associação lançou a campanha Juntos, vamos aquecer a Casa do Pátio para angariar 9.000 euros destinados a uma nova bomba de calor. O lar acolhe 13 residentes com deficiência. O investimento total é de 18 mil euros, sendo que a ARCIL assegura metade."
+        },
+        {
+          "headline": "Seia: Cool Work dá aos jovens experiência de trabalho nas férias de Natal",
+          "text": "O programa de ocupação de tempos livres regressa nas férias de Natal, procurando entidades do concelho de Seia disponíveis para acolher jovens estudantes. A iniciativa envolve empresas, juntas de freguesia e outras entidades dos setores privado e social."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "category": "DESPORTO & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Oliveira do Bairro inaugura pista de atletismo de meio milhão",
+          "text": "A nova pista de tartan com 400 metros e seis corredores representa um investimento de 500 mil euros, dos quais 255 mil vindos de fundos comunitários. O projeto nasceu do Orçamento Participativo e foi inaugurado pelo secretário de Estado do Desporto, Pedro Dias."
+        },
+        {
+          "headline": "Escolas de Oliveira do Bairro testam evacuação em simulacro",
+          "text": "Todos os estabelecimentos de ensino da rede pública participaram num exercício de sensibilização para o risco sísmico, com simulacro de incêndio e evacuação na Escola Secundária. A iniciativa foi promovida pelo Serviço Municipal de Proteção Civil."
+        }
+      ]
+    }
+  ]
+}
