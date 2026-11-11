@@ -32585,5 +32585,95 @@
       "example_de": "Der Verantwortliche hebt das Wachstum des Projekts hervor",
       "example_en": "The person in charge highlights the projects growth"
     }
+  ],
+  "2026-11-11": [
+    {
+      "pt": "a deteção",
+      "de": "die Erkennung, die Früherkennung",
+      "en": "detection",
+      "example": "prevenção e deteção precoce",
+      "example_de": "Prävention und Früherkennung",
+      "example_en": "prevention and early detection"
+    },
+    {
+      "pt": "o atirador",
+      "de": "der Schütze",
+      "en": "the shooter",
+      "example": "também ele atirador",
+      "example_de": "auch er Schütze",
+      "example_en": "also a shooter"
+    },
+    {
+      "pt": "o vice-campeão",
+      "de": "der Vizemeister",
+      "en": "the vice-champion, silver medalist",
+      "example": "a vice-campeã olímpica do triplo salto",
+      "example_de": "die olympische Vizemeisterin im Dreisprung",
+      "example_en": "the Olympic silver medalist in triple jump"
+    },
+    {
+      "pt": "o associativismo",
+      "de": "das Vereinswesen",
+      "en": "associativism, community organizing",
+      "example": "o associativismo tem um papel importante",
+      "example_de": "das Vereinswesen spielt eine wichtige Rolle",
+      "example_en": "community organizing plays an important role"
+    },
+    {
+      "pt": "a prontidão",
+      "de": "die Bereitschaft, die Alarmbereitschaft",
+      "en": "readiness, alertness",
+      "example": "uma maior prontidão das forças de segurança",
+      "example_de": "eine höhere Alarmbereitschaft der Sicherheitskräfte",
+      "example_en": "a greater readiness of security forces"
+    },
+    {
+      "pt": "a intimação",
+      "de": "die Aufforderung, der Platzverweis",
+      "en": "the order, injunction",
+      "example": "ameaça matá-las",
+      "example_de": "droht sie zu töten",
+      "example_en": "threatens to kill them"
+    },
+    {
+      "pt": "tranca",
+      "de": "sperrt ein",
+      "en": "locks (up)",
+      "example": "homem tranca duas funcionárias em sala",
+      "example_de": "Mann sperrt zwei Angestellte ein",
+      "example_en": "man locks two employees in a room"
+    },
+    {
+      "pt": "reinventar",
+      "de": "neu erfinden",
+      "en": "to reinvent",
+      "example": "sabe surpreender e reinventar-se",
+      "example_de": "weiß zu überraschen und sich neu zu erfinden",
+      "example_en": "knows how to surprise and reinvent itself"
+    },
+    {
+      "pt": "a confraternização",
+      "de": "das Beisammensein, die Brüderlichkeit",
+      "en": "fraternizing, camaraderie",
+      "example": "um ambiente de grande confraternização",
+      "example_de": "eine Atmosphäre großer Brüderlichkeit",
+      "example_en": "an atmosphere of great camaraderie"
+    },
+    {
+      "pt": "ressabiada",
+      "de": "verstimmt, skeptisch",
+      "en": "wary, bothered",
+      "example": "estava um pouco ressabiada por não ter conseguido competir",
+      "example_de": "sie war etwas verstimmt, weil sie nicht antreten konnte",
+      "example_en": "she was a bit wary about not being able to compete"
+    },
+    {
+      "pt": "o alvo",
+      "de": "das Ziel",
+      "en": "the target",
+      "example": "os tiros iam dentro do alvo",
+      "example_de": "die Schüsse trafen ins Ziel",
+      "example_en": "the shots went inside the target"
+    }
   ]
 }
