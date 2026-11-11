@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-11",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛈️",
+      "category": "TEMPO & ALERTA",
+      "stories": [
+        {
+          "headline": "Portugal em alerta máximo devido à depressão Charles",
+          "text": "O continente português entrou em situação de alerta desde a meia-noite devido à passagem da depressão Charles, que afeta sobretudo Algarve, Alentejo, Lisboa e Centro. Há risco de cheias, ventos acima dos 150 km/h e cortes de energia, com medidas excecionais de prevenção ativas até às 23:59."
+        },
+        {
+          "headline": "Pingo Doce fecha todas as lojas em Portugal continental",
+          "text": "A Jerónimo Martins anunciou o encerramento de todos os supermercados Pingo Doce durante esta quarta-feira devido ao severo agravamento das previsões meteorológicas. A empresa dá prioridade à segurança de trabalhadores e consumidores e pede a compreensão dos clientes."
+        },
+        {
+          "headline": "Mau tempo já faz estragos na Lousã",
+          "text": "Uma estrada localizada no Burgo, na Lousã, cedeu devido às condições meteorológicas adversas. O local encontra-se já devidamente sinalizado. A situação surge num dia em que Portugal está sob alerta máximo por causa da depressão Charles."
+        },
+        {
+          "headline": "Atividade hospitalar não urgente suspensa na ULS de Leiria",
+          "text": "Devido ao mau tempo, a atividade programada e não urgente foi suspensa esta quarta-feira na ULS da Região de Leiria. Escolas em Idanha-a-Nova encerraram desde as 13:00. O alerta mantém-se durante todo o dia."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "category": "COIMBRA NA WEB SUMMIT",
+      "stories": [
+        {
+          "headline": "1º dia de Coimbra na Web Summit termina com balanço positivo",
+          "text": "O primeiro dia de Coimbra na Web Summit terminou com música, centenas de visitantes e contactos que podem abrir portas além-fronteiras. O vice-presidente da Câmara Municipal, Miguel Antunes, deixou um balanço muito positivo, destacando o interesse de embaixadores e investidores pelo stand da região."
+        },
+        {
+          "headline": "Guitarra de Coimbra encontra música eletrónica na Web Summit",
+          "text": "O músico Diogo Mendes levou a guitarra de Coimbra ao stand da região, num projeto que junta a sonoridade tradicional da cidade aos ritmos eletrónicos, em colaboração com o DJ Kura. A experiência reinventa Os Verdes Anos de Carlos Paredes e mostra que a cultura de Coimbra sabe surpreender e reinventar-se."
+        },
+        {
+          "headline": "Embaixador dos EUA visita stand de Coimbra",
+          "text": "O embaixador dos Estados Unidos esteve no stand de Coimbra na Web Summit, onde conheceu as quatro startups que representam a região. A comitiva procurou ficar a par das soluções e inovação que estão a nascer em Coimbra, numa visita que reforça o interesse internacional pelo ecossistema local."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Operação Harpia: 17 milhões de euros em fraude a subsídios",
+          "text": "A Polícia Judiciária deteve dois suspeitos e constituiu 35 arguidos numa operação contra fraude na obtenção de subsídios, desvio de subsídio, branqueamento e falsificação de documentos. O prejuízo poderá ultrapassar os 17 milhões de euros. A operação foi conduzida pela Unidade Nacional de Combate à Corrupção."
+        },
+        {
+          "headline": "PJ revela números chocantes: 116 detidos por abuso sexual de crianças",
+          "text": "A Polícia Judiciária revelou que até 31 de outubro foram detidas 287 pessoas por crimes sexuais, das quais 116 por abuso sexual de crianças. Os números são ligeiramente inferiores aos de 2025, quando foram detidas 330 pessoas, 120 das quais por abuso de menores."
+        },
+        {
+          "headline": "Homem tranca funcionárias e ameaça matá-las em instituição de Coimbra",
+          "text": "Um homem de 38 anos foi detido pela PSP por sequestro após trancar duas funcionárias numa divisão do Centro de Apoio Social de Coimbra e ameaçá-las de morte. O suspeito teve um comportamento violento e intimidatório e causou danos materiais. Um cidadão conseguiu imobilizar o indivíduo até à chegada da polícia."
+        },
+        {
+          "headline": "Homem ateia incêndio na própria habitação por motivos fúteis",
+          "text": "A PJ deteve um homem de 58 anos por incêndio urbano ocorrido na Maia. O suspeito ateou fogo na habitação onde residia como inquilino, com recurso a um isqueiro, movido por motivos aparentemente fúteis."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "José Cid vai celebrar 85 anos em concerto no Campo Pequeno",
+          "text": "O músico José Cid celebra 85 anos com o concerto Jovem aos 80, a 4 de fevereiro de 2027, no Campo Pequeno. O espetáculo contará com o Quarteto 1111 e convidados como Marisa Liz e Mário Mata. Foi em Coimbra, aos 14 anos, que Cid deu os primeiros passos na música, na banda Babies."
+        },
+        {
+          "headline": "Sardinhas e castanhas juntas em São Martinho em Soure",
+          "text": "O Casal do Cimeiro, em Soure, junta sardinhada e magusto no dia 15 de novembro para celebrar o São Martinho. A iniciativa promete juntar a população à mesa entre o cheiro das sardinhas assadas e as tradicionais castanhas, celebrando o outono e mantendo vivas as tradições gastronómicas."
+        },
+        {
+          "headline": "Festival do Sarrabulho em Cantanhede revive matança do porco",
+          "text": "De 21 a 23 de novembro, o Centro Desportivo e Cultural de Murtede em Cantanhede volta a dar vida à tradicional matança do porco. O festival celebra uma prática antiga que juntava familiares e vizinhos, com o prato de Sarrabulho como ponto alto, preservando a herança cultural para as novas gerações."
+        },
+        {
+          "headline": "Festival de Sopas em Arganil pelo Novembro Azul",
+          "text": "Arganil recebe no dia 14 de novembro o Festival de Sopas - Novembro Azul, dedicado à prevenção do cancro da próstata. O evento junta gastronomia, música e solidariedade, com todo o dinheiro angariado a reverter a favor da Liga Portuguesa Contra o Cancro. A animação fica a cargo de Gabriell, Viktor Dias e DJ Postman."
+        }
+      ]
+    },
+    {
+      "emoji": "🎯",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Patrícia Mamona reencontra alegria no tiro desportivo",
+          "text": "A vice-campeã olímpica do triplo salto admite ter reencontrado a alegria ao descobrir o tiro desportivo, após longa recuperação de lesão no joelho. Começou por dar uns tirinhos a brincar e ganhou um gosto tal que já vai todos os dias treinar. O tiro pode ser a luz no fundo do túnel, diz a atleta."
+        }
+      ]
+    }
+  ]
+}
