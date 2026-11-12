@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-12",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & EMERGÊNCIA",
+      "stories": [
+        {
+          "headline": "Coimbra desativa Plano Municipal de Emergência",
+          "text": "A presidente Ana Abrunhosa determinou a desativação do Plano Municipal de Emergência após a reavaliação das condições. O plano esteve ativado 24 horas devido à passagem da depressão Charles, permitindo reforçar a coordenação dos meios municipais durante o período de maior risco meteorológico. A desativação produziu efeitos às 23h59 de 11 de novembro."
+        },
+        {
+          "headline": "Aviso de chuva passa de vermelho para laranja em Leiria e Castelo Branco",
+          "text": "Os avisos meteorológicos vermelhos para chuva forte emitidos para vários distritos passaram a laranja ao início da tarde. Lisboa, Setúbal, Santarém e Faro mantêm aviso vermelho até às 18h. O Algarve mantém também aviso vermelho para vento, com previsão de rajadas até 120 km/h. A depressão Charles perdeu força durante a manhã e dividiu-se em dois núcleos. A Proteção Civil contabilizou mais de 500 ocorrências no continente."
+        },
+        {
+          "headline": "Bombeiros de Tábua reforçam dispositivo de emergência",
+          "text": "Os Bombeiros Voluntários de Tábua reforçaram a prontidão operacional devido às condições meteorológicas adversas. Face ao EPE IV, foi reforçado o dispositivo interno em regime de permanência, com os operacionais a manterem-se no quartel preparados para intervir sempre que necessário."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Metrobus regressa à normalidade nesta quinta-feira",
+          "text": "A Metro Mondego anunciou que o Metrobus volta à normalidade em toda a rede nesta quinta-feira, 12 de novembro, depois de ter estado condicionado devido à tempestade Charles. A reposição do serviço foi possível tendo em conta a previsão de melhoria das condições meteorológicas e o restabelecimento dos níveis de segurança."
+        },
+        {
+          "headline": "PS quer concluir o IC6 entre Tábua e Seia",
+          "text": "O grupo parlamentar do PS defendeu a construção do Itinerário Complementar 6 até Folhadosa, no concelho de Seia, considerando o investimento estruturante na rede rodoviária. A proposta de aditamento ao Orçamento do Estado para 2027 foi apresentada nesta quarta-feira pelos socialistas."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "category": "TECNOLOGIA & NEGÓCIOS",
+      "stories": [
+        {
+          "headline": "Coimbra regressa à Web Summit com vários trunfos na manga",
+          "text": "Depois do cancelamento das atividades de quarta-feira devido ao mau tempo, Coimbra volta esta quinta-feira à Web Summit em Lisboa com um programa reorganizado. A cidade marca presença no maior evento tecnológico da Europa com seis startups em destaque e dois momentos dedicados à ligação entre investigação e negócios."
+        },
+        {
+          "headline": "Ataque informático à Worten expõe dados de clientes",
+          "text": "A Worten confirmou que foi alvo de um ataque informático que permitiu o acesso a dados de clientes e prestadores de serviços. A empresa acrescentou que já procedeu à correção da vulnerabilidade explorada, descrevendo o incidente como um ato criminoso de acesso não autorizado."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & POLÍCIA",
+      "stories": [
+        {
+          "headline": "Menina de 3 anos inconsciente é salva por 2 agentes da PSP",
+          "text": "Uma menina de três anos foi salva por dois agentes da PSP da Amadora depois de ter sido encontrada inconsciente em casa. Tudo começou quando a madrinha da criança se deslocou à esquadra da Mina para pedir auxílio, dando conta de que a menina estava desmaiada. Os polícias dirigiram-se imediatamente ao local."
+        },
+        {
+          "headline": "Megaoperação contra tráfico humano revela números impressionantes",
+          "text": "Uma operação internacional contra redes de imigração ilegal e tráfico de seres humanos terminou com 262 suspeitos detidos e 109 potenciais vítimas identificadas. A operação 'Communis Maris', liderada pela INTERPOL, envolveu 16 países. Portugal participou através da PJ, PSP e GNR, resultando em oito detenções por tráfico de droga e três por falsificação de documentos."
+        },
+        {
+          "headline": "7 arguidos em fraude fiscal no setor da construção em Aveiro e Ílhavo",
+          "text": "A Autoridade Tributária anunciou a constituição de sete arguidos num processo de fraude fiscal na construção civil relacionado com a ocultação de valores reais na venda de habitações. Foram cumpridos 18 mandados de busca, sendo 13 domiciliárias, nos concelhos de Aveiro e Ílhavo."
+        },
+        {
+          "headline": "Homem tenta sair de supermercado com dezenas de latas de atum",
+          "text": "Um homem de 52 anos foi detido após tentar sair de um supermercado com dezenas de latas de atum sem pagar."
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Surma fecha Festival Caminhos do Cinema Português em Coimbra",
+          "text": "O Festival Caminhos do Cinema Português prepara-se para encerrar a sua 32.ª edição com um concerto de Surma, artista natural de Leiria. A atuação está marcada para sábado, 21 de novembro, no Convento de São Francisco. Conhecida artisticamente como Surma, Débora Umbelino cruza eletrónica, jazz, post-rock e noise, utilizando teclas, cordas, voz e loop stations."
+        },
+        {
+          "headline": "Inscrições abertas para a Mostra de Doçaria Conventual de Coimbra",
+          "text": "Estão abertas as inscrições para expositores da XVI Mostra de Doçaria Conventual e Contemporânea de Coimbra, que regressa ao Convento São Francisco nos dias 12, 13 e 14 de março de 2027. As candidaturas podem ser apresentadas até 4 de dezembro de 2026. A iniciativa pretende valorizar o património doceiro e dar espaço à inovação."
+        },
+        {
+          "headline": "Festival de música experimental chega a Montemor-o-Velho",
+          "text": "Um festival de música experimental vai chegar a Montemor-o-Velho, com espetáculos gratuitos para o público."
+        },
+        {
+          "headline": "Óbidos Vila Natal abre dia 27 com edição dedicada ao Pinóquio",
+          "text": "A edição deste ano de Óbidos Vila Natal abre no dia 27 de novembro e será dedicada ao Pinóquio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "category": "REGIÃO & TURISMO",
+      "stories": [
+        {
+          "headline": "O Vicente: de taberna a referência em Seia com 80 anos de história",
+          "text": "Em Loriga, Seia, O Vicente começou por ser uma taberna há mais de oito décadas e hoje reúne restaurante, alojamentos locais, artesanato, cafetaria e até um táxi. O nome vem do apelido da família. O negócio foi crescendo ao longo das gerações e aposta em produtos locais e regionais, acompanhando o crescimento do turismo na Serra da Estrela."
+        },
+        {
+          "headline": "Hotel na Lousã conquista influencer nas redes sociais",
+          "text": "A influencer Mia Teixeira de Queiroz, com cerca de 44 mil seguidores no Instagram, está a ficar na Lousã e tem partilhado vários momentos da estadia, mostrando aos seguidores os recantos do hotel onde está instalada."
+        }
+      ]
+    }
+  ]
+}
