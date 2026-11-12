@@ -32675,5 +32675,95 @@
       "example_de": "die Schüsse trafen ins Ziel",
       "example_en": "the shots went inside the target"
     }
+  ],
+  "2026-11-12": [
+    {
+      "pt": "a desativação",
+      "de": "Deaktivierung",
+      "en": "deactivation",
+      "example": "A presidente determinou a desativação do Plano Municipal de Emergência.",
+      "example_de": "Die Präsidentin ordnete die Deaktivierung des kommunalen Notfallplans an.",
+      "example_en": "The president ordered the deactivation of the Municipal Emergency Plan."
+    },
+    {
+      "pt": "inconsciente",
+      "de": "bewusstlos",
+      "en": "unconscious",
+      "example": "A menina ficou inconsciente em casa.",
+      "example_de": "Das Mädchen wurde zu Hause bewusstlos.",
+      "example_en": "The girl became unconscious at home."
+    },
+    {
+      "pt": "derrocar",
+      "de": "einstürzen lassen",
+      "en": "to demolish/collapse",
+      "example": "A tempestade provocou derrocadas em vários edifícios.",
+      "example_de": "Der Sturm verursachte Einstürze in mehreren Gebäuden.",
+      "example_en": "The storm caused collapses in several buildings."
+    },
+    {
+      "pt": "a ocultação",
+      "de": "Verheimlichung",
+      "en": "concealment",
+      "example": "A fraude envolvia a ocultação de valores reais na venda de habitações.",
+      "example_de": "Der Betrug umfasste die Verheimlichung tatsächlicher Werte beim Hausverkauf.",
+      "example_en": "The fraud involved concealing real values in home sales."
+    },
+    {
+      "pt": "o trunfo",
+      "de": "der Trumpf",
+      "en": "trump card/asset",
+      "example": "Coimbra regressa à Web Summit com vários trunfos na manga.",
+      "example_de": "Coimbra kehrt zur Web Summit mit mehreren Trumpfkarten im Ärmel zurück.",
+      "example_en": "Coimbra returns to Web Summit with several trump cards up its sleeve."
+    },
+    {
+      "pt": "o desagravamento",
+      "de": "die Entwarnung",
+      "en": "downgrading/easing",
+      "example": "O desagravamento das previsões levou o IPMA a fazer alterações.",
+      "example_de": "Die Entwarnung der Vorhersagen veranlasste das IPMA zu Änderungen.",
+      "example_en": "The easing of forecasts led IPMA to make changes."
+    },
+    {
+      "pt": "a valência",
+      "de": "die Fachabteilung/Zuständigkeit",
+      "en": "facility/capability",
+      "example": "A empresa reúne diferentes valências: restauração, alojamento e comércio.",
+      "example_de": "Das Unternehmen vereint verschiedene Bereiche: Gastronomie, Unterkunft und Handel.",
+      "example_en": "The company brings together different facilities: dining, accommodation, and retail."
+    },
+    {
+      "pt": "o apelido",
+      "de": "der Nachname",
+      "en": "surname",
+      "example": "Vicente é, simplesmente, o apelido da família.",
+      "example_de": "Vicente ist einfach der Nachname der Familie.",
+      "example_en": "Vicente is simply the family surname."
+    },
+    {
+      "pt": "a permanência",
+      "de": "die Anwesenheit/Verbleib",
+      "en": "staying on-site/standby",
+      "example": "Foi reforçado o dispositivo interno em regime de permanência.",
+      "example_de": "Die interne Einheit wurde im Bereitschaftsmodus verstärkt.",
+      "example_en": "The internal unit was reinforced in standby mode."
+    },
+    {
+      "pt": "a madrinha",
+      "de": "die Patentante",
+      "en": "godmother",
+      "example": "A madrinha da criança deslocou-se à esquadra para pedir auxílio.",
+      "example_de": "Die Patentante des Kindes ging zur Wache, um Hilfe zu holen.",
+      "example_en": "The child's godmother went to the station to ask for help."
+    },
+    {
+      "pt": "a sétima arte",
+      "de": "die siebte Kunst (Film)",
+      "en": "the seventh art (cinema)",
+      "example": "O festival dedicou oito dias à sétima arte nacional.",
+      "example_de": "Das Festival widmete acht Tage der siebten Kunst des Landes.",
+      "example_en": "The festival dedicated eight days to the national seventh art."
+    }
   ]
 }
