@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-13",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "REGIÃO & METEO",
+      "stories": [
+        {
+          "headline": "A chuva promete complicar a sexta-feira em Coimbra",
+          "text": "Sete distritos de Portugal continental estão sob aviso amarelo devido à previsão de chuva, por vezes forte. No distrito de Coimbra, o alerta vigorará até às 15h00. O IPMA prevê pequena descida das temperaturas, com mínimas entre 9°C (Guarda) e 17°C (Faro)."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "ACIDENTES & ESTRADAS",
+      "stories": [
+        {
+          "headline": "Despiste e capotamento na A13: homem de 34 anos teve ajuda inesperada de uma VMER",
+          "text": "Um homem de 34 anos ficou ferido após um despiste seguido de capotamento na A13, no sentido Almalaguês-Ceira. O condutor já tinha saído do veículo pelos próprios meios à chegada dos socorros. Uma VMER do INEM que passava no local prestou assistência, e o homem foi transportado para os HUC."
+        },
+        {
+          "headline": "Colisão na Estrada da Beira deixa mulher de 63 anos ferida",
+          "text": "Uma colisão entre dois veículos ligeiros mobilizou os meios de socorro na zona de São Furtuoso. A vítima ficou encarcerada no interior de uma das viaturas, obrigando a trabalhos de desencarceramento. Sofreu ferimentos ligeiros."
+        },
+        {
+          "headline": "Dois feridos em colisão na Figueira da Foz",
+          "text": "Uma colisão na Figueira da Foz resultou em dois feridos, que foram assistidos no local pelos meios de emergência."
+        },
+        {
+          "headline": "Aparatoso despiste em Mira deixa carro capotado junto a uma casa",
+          "text": "Um despiste aparatoso em Mira fez um carro capotar e ficar junto a uma habitação. Não houve informação de feridos graves."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Ex-companheiro mata Jusset na via pública e é condenado a 19 anos de prisão",
+          "text": "Veloso do Rosário, de 40 anos, foi condenado pelo Tribunal de Vila Nova de Gaia pelo homicídio de Jusett Almeida, cometido a 6 de novembro de 2025, na Praça da Corujeira, no Porto. O tribunal determinou ainda a expulsão do arguido de Portugal e a proibição de regressar durante dez anos. O homem terá de pagar 60 mil euros de indemnização aos herdeiros da vítima."
+        },
+        {
+          "headline": "9 homens detidos após tentarem usar metralhadoras contra a PJ",
+          "text": "A Polícia Judiciária desmantelou um grupo criminoso internacional dedicado ao tráfico de cocaína em Caldas da Rainha. Durante a abordagem, alguns suspeitos tentaram disparar contra os inspetores mas foram impedidos. Foram apreendidos 434 quilos de cocaína."
+        },
+        {
+          "headline": "Ladrões entram numa casa no Porto e saem com tesouro de 120 mil euros",
+          "text": "Uma residência no Porto foi alvo de assalto, durante o qual foram furtados diamantes e peças de ouro avaliados em cerca de 120 mil euros. Os assaltantes conseguiram fugir com as peças de joalharia."
+        },
+        {
+          "headline": "20 futuros agentes da PSP obrigados a remover tatuagens",
+          "text": "Vinte candidatos admitidos ao próximo curso de formação de agentes da PSP terão de remover tatuagens para poderem iniciar a formação, devido às regras de apresentação pessoal da instituição."
+        },
+        {
+          "headline": "Ministério Público investiga atuação da PSP em manifestações pela habitação",
+          "text": "A PGR confirmou a abertura de inquéritos em Lisboa e no Porto relacionados com a intervenção policial nas manifestações pela habitação registadas em outubro e novembro."
+        },
+        {
+          "headline": "Ex-presidente da ULS de Aveiro ouvido no Tribunal de Coimbra",
+          "text": "Ricardo Matos, antigo presidente do conselho de administração da ULS de Aveiro, está a ser ouvido no Tribunal de Coimbra por suspeita de corrupção, participação económica em negócio, abuso de poder e tráfico de influências. O futuro do processo fica decidido esta sexta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Mulheres que enfrentaram o fascismo chegam ao grande ecrã em Coimbra",
+          "text": "O filme 'Mulheres de Abril' celebra as mulheres revolucionárias que venceram o fascismo e o colonialismo em Portugal. Sessão de abertura no sábado, 14 de novembro, às 17h30, no TAGV, com a curta de animação 'Virgem Fandango'. Há sessões adicionais na Casa do Cinema, Casa da Cultura de Góis e Cine-Teatro Messias."
+        },
+        {
+          "headline": "Coimbra recebe recital em homenagem a Monsenhor Nunes Pereira",
+          "text": "A Igreja de São Caetano acolhe no dia 14 de novembro, às 21h30, o recital 'Tu és o princípio de um grande santo', interpretado pelo Grupo Vocal Ançãble. A iniciativa integra as comemorações dos 120 anos do nascimento de Monsenhor Nunes Pereira."
+        },
+        {
+          "headline": "Castanhas assadas em 6 localidades de Miranda do Corvo",
+          "text": "Seis magustos e uma Festa da Castanha animam Miranda do Corvo este fim de semana. No sábado há Magusto dos Escuteiros às 15h00, magusto na Trémoa às 20h00 e Festa da Castanha no Espinho à meia-noite. No domingo, há magustos em Canas, Souravas, Vendas da Serra e Gaiate."
+        },
+        {
+          "headline": "Noite de poesia e música desperta o espírito de Natal na Figueira da Foz",
+          "text": "O espetáculo 'Todos os Natais' decorre no dia 15 de dezembro, às 21h30, no Auditório da Biblioteca Municipal. Isaque Ferreira conduz a sessão com a participação da saxofonista Mafalda Maia, numa reflexão sobre os significados do Natal."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "DGS lança projeto-piloto para rastrear diabetes tipo 1 em crianças",
+          "text": "A Direção-Geral da Saúde vai lançar um rastreio da diabetes tipo 1 em crianças através de análises ao sangue no momento da vacinação dos seis anos. O projeto-piloto vai decorrer na ULS de Coimbra, ULS São João (Porto) e outra unidade a confirmar."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Peniche transforma edifício devoluto em Casa da Juventude",
+          "text": "O Município de Peniche inaugura no dia 18 de novembro a Casa da Juventude, no antigo edifício da Biblioteca Municipal. A cerimónia conta com a presença da Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes."
+        },
+        {
+          "headline": "Albergaria-a-Velha prepara Bola de Natal de 20 metros",
+          "text": "Uma Bola de Natal com 20 metros, um Pai Natal e uma criatura rabugenta são as atrações de Natal em Albergaria-a-Velha este ano."
+        }
+      ]
+    }
+  ]
+}
