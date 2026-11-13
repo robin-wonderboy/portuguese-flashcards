@@ -32765,5 +32765,103 @@
       "example_de": "Das Festival widmete acht Tage der siebten Kunst des Landes.",
       "example_en": "The festival dedicated eight days to the national seventh art."
     }
+  ],
+  "2026-11-13": [
+    {
+      "pt": "a premeditação",
+      "de": "die Vorbedacht, der Vorsatz",
+      "en": "premeditation",
+      "example": "O coletivo de juízes considerou provada a premeditação do crime",
+      "example_de": "Das Richterkollegium stellte die Vorbedacht des Verbrechens als erwiesen fest",
+      "example_en": "The panel of judges found the premeditation of the crime proven"
+    },
+    {
+      "pt": "o rabugento",
+      "de": "der Brummbär, griesgrämig",
+      "en": "grumpy, cranky (person)",
+      "example": "Uma criatura rabugenta que há muito para descobrir",
+      "example_de": "Eine griesgrämige Kreatur, die man entdecken muss",
+      "example_en": "A grumpy creature worth discovering"
+    },
+    {
+      "pt": "a quadra natalícia",
+      "de": "die Weihnachtszeit",
+      "en": "the Christmas season",
+      "example": "As contradições sociais que também marcam esta quadra natalícia",
+      "example_de": "Die sozialen Widersprüche, die auch diese Weihnachtszeit prägen",
+      "example_en": "The social contradictions that also mark this Christmas season"
+    },
+    {
+      "pt": "a lixívia",
+      "de": "das Bleichmittel, die Lauge",
+      "en": "bleach",
+      "example": "Depois de matar a ex-companheira, o homem bebeu lixívia",
+      "example_de": "Nachdem er seine Ex-Partnerin getötet hatte, trank der Mann Bleichmittel",
+      "example_en": "After killing his ex-partner, the man drank bleach"
+    },
+    {
+      "pt": "a ex-companheira",
+      "de": "die Ex-Partnerin",
+      "en": "the ex-partner (female)",
+      "example": "O homem que matou a ex-companheira já conhece a sentença",
+      "example_de": "Der Mann, der seine Ex-Partnerin tötete, kennt nun das Urteil",
+      "example_en": "The man who killed his ex-partner now knows the sentence"
+    },
+    {
+      "pt": "a perseverança",
+      "de": "die Ausdauer, die Beharrlichkeit",
+      "en": "perseverance",
+      "example": "Um legado de confiança, justiça e perseverança",
+      "example_de": "Ein Erbe von Vertrauen, Gerechtigkeit und Ausdauer",
+      "example_en": "A legacy of trust, justice and perseverance"
+    },
+    {
+      "pt": "a joalharia",
+      "de": "der Schmuck, die Juwelierwaren",
+      "en": "jewelry",
+      "example": "Foram furtados diamantes e peças de joalharia avaliados em 120 mil euros",
+      "example_de": "Es wurden Diamanten und Schmuckstücke im Wert von 120.000 Euro gestohlen",
+      "example_en": "Diamonds and jewelry pieces worth 120 thousand euros were stolen"
+    },
+    {
+      "pt": "a saxofonista",
+      "de": "die Saxophonistin",
+      "en": "the saxophonist (female)",
+      "example": "Mafalda Maia, saxofonista, compositora e intérprete",
+      "example_de": "Mafalda Maia, Saxophonistin, Komponistin und Interpretin",
+      "example_en": "Mafalda Maia, saxophonist, composer and performer"
+    },
+    {
+      "pt": "a vacinação",
+      "de": "die Impfung",
+      "en": "vaccination",
+      "example": "Rastreio da diabetes no momento da vacinação dos seis anos",
+      "example_de": "Diabetes-Screening zum Zeitpunkt der Sechsjahresimpfung",
+      "example_en": "Diabetes screening at the time of the six-year vaccination"
+    },
+    {
+      "pt": "o espírito",
+      "de": "der Geist, die Seele",
+      "en": "spirit, soul",
+      "example": "Despertar o verdadeiro espírito de Natal na Figueira da Foz",
+      "example_de": "Den wahren Weihnachtsgeist in Figueira da Foz wecken",
+      "example_en": "Awaken the true Christmas spirit in Figueira da Foz"
+    },
+    {
+      "pt": "a contradição",
+      "de": "der Widerspruch",
+      "en": "contradiction",
+      "example": "As contradições sociais que marcam esta época",
+      "example_de": "Die sozialen Widersprüche, die diese Zeit prägen",
+      "example_en": "The social contradictions that mark this season"
+    },
+    {
+      "pt": "a declamação",
+      "de": "der Vortrag, die Rezitation",
+      "en": "recitation, declamation",
+      "example": "Isaque Ferreira tem um trabalho de declamação de poesia",
+      "example_de": "Isaque Ferreira arbeitet im Bereich der Gedichtrezitation",
+      "example_en": "Isaque Ferreira works in poetry recitation"
+    }
   ]
 }
