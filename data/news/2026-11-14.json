@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-14",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Ex-presidente da ULS de Aveiro continua detido",
+          "text": "Ricardo Matos vai permanecer detido e será novamente ouvido pelo tribunal na segunda-feira. Os outros dois arguidos foram restituídos à liberdade. O primeiro interrogatório judicial retoma segunda-feira no Tribunal de Coimbra."
+        },
+        {
+          "headline": "Assalto às 2:00 com picaretas à loja Auchan",
+          "text": "Quatro suspeitos encapuzados assaltaram o supermercado Auchan em Vila Nova de Famalicão durante a madrugada de sexta-feira. Para entrarem no estabelecimento, os indivíduos recorreram a picaretas, provocando danos no espaço e furtando vários equipamentos eletrónicos."
+        },
+        {
+          "headline": "Homem de 76 anos preso por violência doméstica há décadas",
+          "text": "Um homem de 76 anos ficou em prisão preventiva em Estremoz por suspeitas de maus-tratos psicológicos, psíquicos e físicos à mulher, de 56 anos. O arguido manteve de modo reiterado comportamentos violentos desde 1989, inclusive proferindo ameaças de morte. Foi encaminhado para o Estabelecimento Prisional de Elvas."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "ACIDENTES & EMERGÊNCIAS",
+      "stories": [
+        {
+          "headline": "Militar da GNR morre em colisão na A22",
+          "text": "Mónica Alexandra Estêvão Afonso, militar da GNR de 45 anos, morreu na sequência de uma colisão entre um carro e um camião na A22. O funeral realiza-se este sábado em Faro. A família pede donativos para os dois filhos em vez de flores."
+        },
+        {
+          "headline": "Carro despista-se e acaba imobilizado numa oliveira em Penela",
+          "text": "Um homem de cerca de 70 anos ficou ferido após um despiste na localidade de Dueça, concelho de Penela. A viatura despistou-se num acesso a habitação e acabou imobilizada junto de uma oliveira, numa zona de ribanceira."
+        },
+        {
+          "headline": "Silo com 5 toneladas de milho liberta gases tóxicos em Cantanhede",
+          "text": "Um incidente num silo com cerca de cinco mil quilos de milho mobilizou os Bombeiros Voluntários de Cantanhede na localidade de Corticeiro de Cima. Apesar de não haver chamas, a libertação de gases considerados bastante tóxicos levantou preocupações na cooperativa PinhoAgrícola."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & CINEMA",
+      "stories": [
+        {
+          "headline": "Filme Mulheres de Abril abre Festival Caminhos em Coimbra",
+          "text": "O documentário Mulheres de Abril, de Raquel Freire, marca a sessão de abertura da 32.ª edição do Festival Caminhos do Cinema Português, este sábado às 17:30 no Teatro Académico de Gil Vicente. A sessão começa com a curta-metragem de animação Virgem Fandango e presta homenagem às mulheres da Revolução de Abril."
+        },
+        {
+          "headline": "O cinema dá lugar à música: Surma fecha Festival Caminhos",
+          "text": "A musicista Surma encerra o Festival Caminhos do Cinema Português em Coimbra, num momento em que o cinema dá lugar à música, reforçando a ligação entre as artes."
+        },
+        {
+          "headline": "Coimbra foi palco da festa dos 17 anos da Erasmus Student Network",
+          "text": "A cidade de Coimbra recebeu as comemorações do 17.º aniversário da Erasmus Student Network, celebrando a mobilidade estudantil e o espírito internacional da cidade universitária."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & LAZER",
+      "stories": [
+        {
+          "headline": "Casas de xisto, lareiras e magia: Natal na aldeia da Serra da Lousã",
+          "text": "A aldeia de Aigra Nova, no concelho de Góis, vai vestir-se de Natal a partir de 11 de dezembro. A iniciativa prolonga-se até ao Dia de Reis e promete várias atividades num cenário de montanha, entre casas de xisto, caminhos de pedra e paisagens naturais."
+        },
+        {
+          "headline": "Cinema, sopas solidárias e luzes de Natal: motivos para sair este fim de semana",
+          "text": "O fim de semana de 14 e 15 de novembro traz o Festival Caminhos do Cinema Português, uma feira dedicada ao arroz em Cantanhede, uma noite de sopas solidária em Arganil e o arranque do Natal em Águeda. Há propostas para vários gostos na região de Coimbra."
+        },
+        {
+          "headline": "Cogumelos são reis durante cinco dias na Serra da Gardunha",
+          "text": "A aldeia do Alcaide, no concelho do Fundão, recebe o Míscaros - Festival do Cogumelo entre 18 e 22 de novembro. O evento celebra os cogumelos com passeios micológicos, gastronomia e atividades culturais que dão a conhecer a riqueza natural da região."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Miranda do Corvo atrai investimento superior a 10 milhões de euros",
+          "text": "O Município de Miranda do Corvo celebrou as escrituras de compra e venda de terrenos na Zona Industrial com as empresas Maquilotus e Destilatum. As operações representam um investimento global superior a 10 milhões de euros e a criação de 38 novos postos de trabalho."
+        },
+        {
+          "headline": "Mira tem a gasolina mais barata do distrito de Coimbra",
+          "text": "Os preços mais recentes mostram que Mira tem o valor mais baixo de gasolina simples 95 no distrito, enquanto Condeixa-a-Nova lidera nos preços mais baixos do gasóleo simples. Abastecer no posto certo pode fazer diferença na carteira."
+        },
+        {
+          "headline": "Oliveira do Bairro lidera recolha de biorresíduos no Litoral Centro",
+          "text": "Oliveira do Bairro é o município com a taxa mais elevada de recolha de biorresíduos na região Litoral Centro, com resultado superior a 20%. Apenas 33 municípios de Portugal Continental ultrapassam este valor. O projeto começou em 2021 com recolha porta-a-porta em 50 moradias."
+        },
+        {
+          "headline": "Coimbra recebe fórum para debater futuro dos setores agrícola e florestal",
+          "text": "A Escola Superior Agrária de Coimbra recebe no dia 25 de novembro o Fórum Agro-Florestal 2026, promovido pela NERC em parceria com a ESAC e o CERNAS. A iniciativa reúne especialistas e entidades institucionais para debater desafios e oportunidades dos setores."
+        }
+      ]
+    }
+  ]
+}
