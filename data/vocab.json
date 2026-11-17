@@ -32714,5 +32714,127 @@
       "example_de": "Schwierigkeiten, externe Ausbilder zu bezahlen",
       "example_en": "Difficulties paying external trainers"
     }
+  ],
+  "2026-11-17": [
+    {
+      "pt": "o refém",
+      "de": "Geisel",
+      "en": "hostage",
+      "example": "Fizeram a família refém",
+      "example_de": "Sie nahmen die Familie als Geisel",
+      "example_en": "They took the family hostage"
+    },
+    {
+      "pt": "avariado",
+      "de": "defekt",
+      "en": "broken, out of order",
+      "example": "O parquímetro está avariado",
+      "example_de": "Der Parkscheinautomat ist defekt",
+      "example_en": "The parking meter is broken"
+    },
+    {
+      "pt": "o cutelo",
+      "de": "Messer, Hiebwaffe",
+      "en": "blade, cutting weapon",
+      "example": "Menores armados com pistola e cutelo",
+      "example_de": "Minderjährige bewaffnet mit Pistole und Messer",
+      "example_en": "Minors armed with pistol and blade"
+    },
+    {
+      "pt": "entender-se",
+      "de": "sich einigen",
+      "en": "to reach an understanding, to agree",
+      "example": "Governo e Parlamento devem entender-se",
+      "example_de": "Regierung und Parlament müssen sich einigen",
+      "example_en": "Government and Parliament must reach an agreement"
+    },
+    {
+      "pt": "o acamado",
+      "de": "bettlägrig",
+      "en": "bedridden person",
+      "example": "Filha agarra mãe acamada",
+      "example_de": "Tochter packt bettlägerige Mutter",
+      "example_en": "Daughter grabs bedridden mother"
+    },
+    {
+      "pt": "o deslocamento",
+      "de": "Verschiebung, Bewegung",
+      "en": "displacement, shifting",
+      "example": "Deslocamento de blocos no muro",
+      "example_de": "Verschiebung von Blöcken in der Mauer",
+      "example_en": "Shifting of blocks in the wall"
+    },
+    {
+      "pt": "a vestimenta",
+      "de": "Kleidung",
+      "en": "clothing, attire",
+      "example": "Sacos com alimentos e roupas",
+      "example_de": "Säcke mit Lebensmitteln und Kleidung",
+      "example_en": "Bags with food and clothing"
+    },
+    {
+      "pt": "o piromusical",
+      "de": "Feuerwerk mit Musik",
+      "en": "fireworks show with music",
+      "example": "Espetáculo piromusical abre o Leiria Natal",
+      "example_de": "Feuerwerk-Musikspektakel eröffnet Leiria Natal",
+      "example_en": "Fireworks-music show opens Leiria Natal"
+    },
+    {
+      "pt": "o duende",
+      "de": "Wichtel, Elf",
+      "en": "elf, goblin",
+      "example": "Renas, duendes e pista de gelo",
+      "example_de": "Renne, Wichtel und Eisbahn",
+      "example_en": "Reindeer, elves and ice rink"
+    },
+    {
+      "pt": "a rena",
+      "de": "Rentier",
+      "en": "reindeer",
+      "example": "Renas, duendes e pista de gelo",
+      "example_de": "Renne, Wichtel und Eisbahn",
+      "example_en": "Reindeer, elves and ice rink"
+    },
+    {
+      "pt": "o robô humanoide",
+      "de": "humanoider Roboter",
+      "en": "humanoid robot",
+      "example": "Robôs humanoides já têm chegada prevista a Portugal",
+      "example_de": "Humanoide Roboter haben geplante Ankunft in Portugal",
+      "example_en": "Humanoid robots have planned arrival in Portugal"
+    },
+    {
+      "pt": "a brincadeira",
+      "de": "Spiel, Spielerei",
+      "en": "play, playtime",
+      "example": "Falta de tempo dos pais é o maior obstáculo às brincadeiras",
+      "example_de": "Zeitmangel der Eltern ist das größte Hindernis fürs Spielen",
+      "example_en": "Parents' lack of time is the biggest obstacle to playtime"
+    },
+    {
+      "pt": "o obstáculo",
+      "de": "Hindernis",
+      "en": "obstacle",
+      "example": "O maior obstáculo às brincadeiras das crianças",
+      "example_de": "Das größte Hindernis für das Spielen der Kinder",
+      "example_en": "The biggest obstacle to children's playtime"
+    },
+    {
+      "pt": "o sobrecusto",
+      "de": "Mehrkosten",
+      "en": "extra cost, surcharge",
+      "example": "Sobrecustos com a incorporação de biocombustíveis",
+      "example_de": "Mehrkosten durch Beimischung von Biokraftstoffen",
+      "example_en": "Extra costs from biofuel blending"
+    },
+    {
+      "pt": "o jazigo",
+      "de": "Grabstätte",
+      "en": "tomb, grave",
+      "example": "Os livros mais raros estavam na mira dos ladrões",
+      "example_de": "Die seltensten Bücher waren im Visier der Diebe",
+      "example_en": "The rarest books were in the thieves' sights"
+    }
   ]
 }
