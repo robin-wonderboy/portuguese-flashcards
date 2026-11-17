@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-17",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Preparam-se 2 dias de mau tempo em Coimbra",
+          "text": "Portugal prepara-se para mais dois dias de instabilidade meteorológica, com chuva persistente, vento forte e descida das temperaturas. Quarta-feira deverá ser marcada por uma corrente de jato polar com ventos superiores a 200 km/h a atravessar o território nacional."
+        },
+        {
+          "headline": "Muro com risco de derrocada preocupa moradores em Ceira",
+          "text": "Um muro na Rua da Eira Velha, em Ceira, apresenta fissuras profundas, deslocamento de blocos e sinais de degradação. A Junta de Freguesia alerta para o risco de colapso iminente da estrutura."
+        },
+        {
+          "headline": "Vinhos da Fundação ADFP conquistam medalhas na Coreia do Sul",
+          "text": "Vinhos produzidos pela Fundação ADFP, em Coimbra, ganharam duas medalhas num concurso internacional realizado na Coreia do Sul, projetando a região além-fronteiras."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Menores armados invadem casa e fazem família refém",
+          "text": "Dois adolescentes de 16 e 17 anos foram detidos pela GNR após assaltarem uma habitação em Fernão Ferro, concelho do Seixal. Armados com pistola e cutelo, fizeram reféns uma mulher de 70 anos e o neto de 25."
+        },
+        {
+          "headline": "Guardas prisionais entram em greve geral até 2027",
+          "text": "O Sindicato Nacional do Corpo da Guarda Prisional decretou greve geral até 3 de janeiro. Pelo menos 70% dos reclusos ficarão fechados nas celas 22 horas por dia. O sindicato exige que o Governo cumpra o negociado sobre pagamento de trabalho extraordinário e plano plurianual de promoções."
+        },
+        {
+          "headline": "Prisão preventiva para jovem suspeita de matar senhorio",
+          "text": ""
+        },
+        {
+          "headline": "Casal em prisão preventiva com 6.750 litros de gasolina e droga",
+          "text": ""
+        },
+        {
+          "headline": "Rui Santos encontrado morto com um tiro na cabeça",
+          "text": "Antigo vereador de Oliveira do Bairro e empresário conhecido na região foi encontrado morto. Autarquia e entidades locais recordam o seu percurso político e associativo, destacando a dedicação ao concelho."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Ciberataques aumentam 41% em Portugal",
+          "text": "Portugal registou uma média de 2.829 ciberataques por semana por organização em outubro, mais 41% face ao ano anterior. A nível mundial, grupos de ransomware divulgaram 1.063 vítimas, o valor mensal mais elevado desde que há registo."
+        },
+        {
+          "headline": "Dolores Aveiro dá nome a Centro de Dia em Alvalade",
+          "text": "A mãe de Cristiano Ronaldo foi homenageada com a atribuição do seu nome a um Centro de Dia em Alvalade. A iniciativa gerou reações mistas nas redes sociais."
+        },
+        {
+          "headline": "Habitação, saúde e clima prioritárias para investigação",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🤖",
+      "category": "TECNOLOGIA",
+      "stories": [
+        {
+          "headline": "Robôs humanoides chegada prevista a Portugal",
+          "text": "Uma empresa de Famalicão vai distribuir os robôs da chinesa Agibot no mercado nacional. Os modelos conseguem andar, transportar objetos, conversar com pessoas e executar tarefas repetitivas. Os preços podem chegar aos 178 mil euros."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Gasolina e gasóleo mais baratos esta semana",
+          "text": "O preço eficiente da gasolina desceu 1,3% para 1,934 euros por litro, e o gasóleo diminuiu 2,3% para 2,142 euros, segundo a ERSE. A descida resulta da evolução dos preços internacionais dos combustíveis."
+        },
+        {
+          "headline": "Moeve considera vender rede de postos em Portugal e Espanha",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Espetáculo piromusical abre o Leiria Natal",
+          "text": "Leiria prepara-se para o Natal com um espetáculo piromusical e de luz, além de um coro gospel para a abertura das festividades."
+        },
+        {
+          "headline": "Aldeia do Centro vai cheirar a cogumelos durante cinco dias",
+          "text": "Uma aldeia no centro de Portugal recebe um festival dedicado a cogumelos durante cinco dias, com provas, mostras e atividades ligadas ao produto."
+        },
+        {
+          "headline": "\"A Menina do Mar\" chega a Coimbra em musical",
+          "text": "Musical inspirado na obra de Sophia de Mello Breyner chega a Coimbra, trazendo a literatura portuguesa aos palcos."
+        },
+        {
+          "headline": "Portugal dos Pequenitos vira Aldeia de Natal",
+          "text": "O parque temático vai transformar-se numa Aldeia de Natal com neve, mercadinhos e Pai Natal, prometendo magia para as crianças."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Alunos que agrediram menina de 13 anos foram suspensos",
+          "text": ""
+        },
+        {
+          "headline": "Governo atento à inflação de notas em Educação Física",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
