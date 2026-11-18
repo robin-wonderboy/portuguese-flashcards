@@ -32836,5 +32836,119 @@
       "example_de": "Die seltensten Bücher waren im Visier der Diebe",
       "example_en": "The rarest books were in the thieves' sights"
     }
+  ],
+  "2026-11-18": [
+    {
+      "pt": "bravo",
+      "de": "rau, wütend",
+      "en": "rough, angry (sea/weather)",
+      "example": "O mar vai ficar bravo no distrito de Coimbra",
+      "example_de": "Das Meer wird im Bezirk Coimbra rau",
+      "example_en": "The sea will get rough in the Coimbra district"
+    },
+    {
+      "pt": "decepado",
+      "de": "abgeschnitten, verstümmelt",
+      "en": "cut off, severed",
+      "example": "Um espaço único foi decepado da sua alma",
+      "example_de": "Ein einzigartiger Ort wurde von seiner Seele getrennt",
+      "example_en": "A unique space was severed from its soul"
+    },
+    {
+      "pt": "a raspadinha",
+      "de": "Rubbellos",
+      "en": "scratch card",
+      "example": "Comprou uma raspadinha de três euros",
+      "example_de": "Er kaufte ein Rubbellos für drei Euro",
+      "example_en": "He bought a three-euro scratch card"
+    },
+    {
+      "pt": "em fuga",
+      "de": "auf der Flucht",
+      "en": "on the run, fleeing",
+      "example": "O marido escapa durante a deportação e está em fuga",
+      "example_de": "Der Ehemann entkommt während der Abschiebung und ist auf der Flucht",
+      "example_en": "The husband escapes during deportation and is on the run"
+    },
+    {
+      "pt": "coberta de branco",
+      "de": "schneebedeckt, in Weiß gehüllt",
+      "en": "covered in white (snow)",
+      "example": "A Serra da Estrela pode acordar coberta de branco",
+      "example_de": "Die Serra da Estrela könnte schneebedeckt aufwachen",
+      "example_en": "The Serra da Estrela may wake up covered in white"
+    },
+    {
+      "pt": "o excedente",
+      "de": "Überschuss",
+      "en": "surplus, excess",
+      "example": "A previsão de um excedente de 0,1% do PIB",
+      "example_de": "Die Vorhersage eines Überschusses von 0,1% des BIP",
+      "example_en": "The forecast of a 0.1% GDP surplus"
+    },
+    {
+      "pt": "a mortalidade",
+      "de": "Sterblichkeit",
+      "en": "mortality, death rate",
+      "example": "A mortalidade comparável à da gripe e tuberculose",
+      "example_de": "Eine Sterblichkeit vergleichbar mit Grippe und Tuberkulose",
+      "example_en": "A mortality comparable to flu and tuberculosis"
+    },
+    {
+      "pt": "estimular",
+      "de": "anregen, stimulieren",
+      "en": "to stimulate, encourage",
+      "example": "Coimbra recebe oficina para estimular a imaginação",
+      "example_de": "Coimbra empfängt ein Atelier um die Fantasie anzuregen",
+      "example_en": "Coimbra hosts a workshop to stimulate imagination"
+    },
+    {
+      "pt": "desmedido",
+      "de": "maßlos, hemmungslos",
+      "en": "disproportionate, excessive",
+      "example": "A ganância desmedida transforma a cidade",
+      "example_de": "Die maßlose Gier verändert die Stadt",
+      "example_en": "Disproportionate greed transforms the city"
+    },
+    {
+      "pt": "a alma",
+      "de": "Seele",
+      "en": "soul",
+      "example": "Nunca irão conseguir reproduzir a sua alma",
+      "example_de": "Sie werden niemals ihre Seele nachbilden können",
+      "example_en": "They will never be able to reproduce its soul"
+    },
+    {
+      "pt": "o acordar",
+      "de": "Erwachen, Aufwachen",
+      "en": "waking up",
+      "example": "A Serra da Estrela pode acordar coberta de branco",
+      "example_de": "Die Serra da Estrela könnte beim Erwachen schneebedeckt sein",
+      "example_en": "The Serra da Estrela may wake up covered in white"
+    },
+    {
+      "pt": "espeta",
+      "de": "sticht, rammt",
+      "en": "stabs, plunges (into)",
+      "example": "Homem espeta faca na cabeça do irmão",
+      "example_de": "Mann rammt Messer in den Kopf des Bruders",
+      "example_en": "Man stabs knife into brother's head"
+    },
+    {
+      "pt": "a deportedação",
+      "de": "Abschiebung",
+      "en": "deportation",
+      "example": "Escapa durante a deportedação da Tailândia",
+      "example_de": "Er entkommt während der Abschiebung aus Thailand",
+      "example_en": "He escapes during deportation from Thailand"
+    },
+    {
+      "pt": "herdar",
+      "de": "erben",
+      "en": "to inherit",
+      "example": "Herdou o número do patrão e fez o serviço",
+      "example_de": "Er erbte die Nummer des Chefs und lieferte die Leistung",
+      "example_en": "He inherited the boss's number and did the job"
+    }
   ]
 }
