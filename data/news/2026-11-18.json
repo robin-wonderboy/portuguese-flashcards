@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-18",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏠",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "The Living Room vai fechar portas em Coimbra",
+          "text": "O café The Living Room, na Avenida Dias da Silva, prepara-se para encerrar após cinco anos de atividade. Criado por um casal norte-americano no espaço da antiga Mercearia Morais, tornou-se ponto de encontro para estudantes e famílias. Uma mensagem partilhada nas redes sociais critica a pressão imobiliária e a ganância que estão a transformar a cidade."
+        },
+        {
+          "headline": "Mar bravo: aviso laranja para o distrito de Coimbra",
+          "text": "Sete distritos de Portugal continental estarão sob aviso laranja até sexta-feira devido à agitação marítima. O IPMA emitiu também aviso amarelo para Coimbra e outros distritos devido a previsão de chuva persistente e por vezes forte."
+        },
+        {
+          "headline": "Região de Coimbra assina acordo com o Brasil",
+          "text": "A Região Metropolitana de Coimbra assinou um acordo de cooperação com a Federação das Indústrias do Estado do Paraná (FIEP). O objetivo é reforçar a cooperação económica, atrair investimento e criar novas oportunidades de negócio entre os dois territórios através do Paraná4Business."
+        },
+        {
+          "headline": "Árvore Rosa dá força a quem enfrenta cancro da mama",
+          "text": "O Serviço de Radioterapia da ULS de Coimbra acolhe a iniciativa Árvore Rosa, criada no âmbito do Outubro Rosa. Utentes, familiares e profissionais são convidados a deixar mensagens de apoio, transformando o espaço hospitalar num lugar de partilha e esperança."
+        },
+        {
+          "headline": "Raspadinha de 30 mil euros anima café da Lousã",
+          "text": "Um homem ganhou 30 mil euros com uma raspadinha de três euros comprada no Café das Bombas, na Avenida de Coimbra, na Lousã. O vencedor é cliente habitual do estabelecimento e costuma jogar diariamente."
+        },
+        {
+          "headline": "Coimbra recebe oficina para estimular a criatividade",
+          "text": "A Casa da Escrita, em Coimbra, recebe esta semana duas iniciativas dedicadas à literatura e criatividade. A primeira decorre no dia 19 de novembro com a apresentação do livro A Glória Efémera - Biografia de Egas Moniz."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "PSP faz buscas em casa de deputado municipal detido",
+          "text": "A PSP realizou buscas à residência de Fernando Cardoso, deputado independente da Assembleia Municipal do Porto, detido por suspeitas de violência doméstica. Os investigadores procuravam uma pistola que terá sido usada para ameaçar a ex-companheira."
+        },
+        {
+          "headline": "Homem espeta faca na cabeça do irmão em Vialonga",
+          "text": "Uma discussão entre dois irmãos terminou em violência extrema numa rua de Vialonga, Vila Franca de Xira. Um dos homens atingiu o irmão na cabeça com uma faca. A vítima sobreviveu e o suspeito foi detido pela GNR."
+        },
+        {
+          "headline": "Marido de Daniela Pimenta escapa durante deportação",
+          "text": "Pedro Mourato, marido de Daniela Pimenta, conseguiu escapar durante o processo de deportação da Tailândia para Portugal. É procurado pelas autoridades por suspeitas de burlas milionárias envolvendo criptomoedas."
+        },
+        {
+          "headline": "MP abre inquérito tutelar educativo sobre agressão em escola",
+          "text": "O Ministério Público abriu um inquérito tutelar educativo sobre uma agressão ocorrida numa escola de Lisboa. O caso envolve menores e será tratado através do regime tutelar educativo."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Orçamento do Estado: debate na especialidade começa hoje",
+          "text": "Os deputados começam hoje a analisar mais de 2.800 propostas de alteração ao OE2027, um novo recorde. O Chega apresentou 712 propostas, seguido do PCP com 653. A votação final global está marcada para 24 de novembro. O ministro Miranda Sarmento alertou para a reduzida margem orçamental disponível."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Novo 7 dá vitória a Portugal no País de Gales",
+          "text": "Portugal venceu o País de Gales por 3-2 em Cardiff, garantindo o primeiro lugar do Grupo A4 da Liga das Nações. Bruno Fernandes, Pedro Neto (depois expulso) e o suplente Carlos Forbs marcaram os golos da equipa de Jorge Jesus."
+        }
+      ]
+    },
+    {
+      "emoji": "🌡️",
+      "category": "METEO & SAÚDE",
+      "stories": [
+        {
+          "headline": "Serra da Estrela pode acordar coberta de neve",
+          "text": "A Serra da Estrela poderá receber neve na quinta-feira, 19 de novembro, com a chegada de uma massa de ar mais frio. Os termómetros poderão variar entre zero e três graus, com 100% de probabilidade de precipitação."
+        },
+        {
+          "headline": "Resistência a antibióticos mata 35 mil pessoas por ano na UE",
+          "text": "Um relatório do Centro Europeu de Prevenção e Controlo das Doenças revela que mais de 35 mil pessoas morrem anualmente na União Europeia devido a infeções por microrganismos resistentes a antibióticos. A mortalidade é comparável à da gripe, tuberculose e HIV combinadas."
+        }
+      ]
+    }
+  ]
+}
