@@ -32950,5 +32950,95 @@
       "example_de": "Er erbte die Nummer des Chefs und lieferte die Leistung",
       "example_en": "He inherited the boss's number and did the job"
     }
+  ],
+  "2026-11-19": [
+    {
+      "pt": "o sonho",
+      "de": "Traum",
+      "en": "dream",
+      "example": "Realizou o sonho de se tornar astrofísico",
+      "example_de": "Er verwirklichte seinen Traum, Astrophysiker zu werden",
+      "example_en": "He realized his dream of becoming an astrophysicist"
+    },
+    {
+      "pt": "a chapada",
+      "de": "Ohrfeige, Klaps",
+      "en": "slap, smack",
+      "example": "Deu-lhe uma chapada na cara",
+      "example_de": "Er gab ihm eine Ohrfeige ins Gesicht",
+      "example_en": "He gave him a slap in the face"
+    },
+    {
+      "pt": "prever",
+      "de": "vorhersagen, vorhersehen",
+      "en": "to predict, to foresee",
+      "example": "Accenture preve reduzir 950 postos",
+      "example_de": "Accenture sieht 950 Stellenabbau vor",
+      "example_en": "Accenture predicts cutting 950 jobs"
+    },
+    {
+      "pt": "sobrevoar",
+      "de": "überfliegen",
+      "en": "to fly over",
+      "example": "Papa sobrevoa Portugal",
+      "example_de": "Papst fliegt über Portugal",
+      "example_en": "The Pope flies over Portugal"
+    },
+    {
+      "pt": "a cobiça",
+      "de": "Begierde, Begehrlichkeit",
+      "en": "covetousness, desire",
+      "example": "Um dos homens mais cobicados de Hollywood",
+      "example_de": "Einer der begehrtesten Männer Hollywoods",
+      "example_en": "One of the most coveted men in Hollywood"
+    },
+    {
+      "pt": "o ecrã",
+      "de": "Bildschirm",
+      "en": "screen",
+      "example": "Vai invadir os ecrãs da RTP",
+      "example_de": "Wird die Bildschirme des Senders RTP erobern",
+      "example_en": "Will invade the RTP screens"
+    },
+    {
+      "pt": "as muralhas",
+      "de": "Mauern, Stadtmauer",
+      "en": "walls, ramparts",
+      "example": "As muralhas do castelo escondem fantasia",
+      "example_de": "Die Mauern des Schlosses verbergen Fantasie",
+      "example_en": "The castle walls hide fantasy"
+    },
+    {
+      "pt": "o réveillon",
+      "de": "Silvester",
+      "en": "New Years Eve",
+      "example": "Atuar no réveillon na praia de Mira",
+      "example_de": "An Silvester am Strand von Mira auftreten",
+      "example_en": "Perform on New Years Eve at Mira beach"
+    },
+    {
+      "pt": "o craque",
+      "de": "Crack, Spitzenkicker",
+      "en": "star player, crack",
+      "example": "Pequenos craques da Académica",
+      "example_de": "Kleine Kicker-Stars der Académica",
+      "example_en": "Young star players of Académica"
+    },
+    {
+      "pt": "o patrão",
+      "de": "Chef, Boss",
+      "en": "boss, owner",
+      "example": "Herdou o número do patrão",
+      "example_de": "Er erbte die Nummer des Chefs",
+      "example_en": "He inherited the bosss number"
+    },
+    {
+      "pt": "caloroso",
+      "de": "herzlich, warm",
+      "en": "warm, affectionate",
+      "example": "Calorosa saudação ao sobrevoar Portugal",
+      "example_de": "Herzlicher Gruß beim Überflug Portugals",
+      "example_en": "Warm greeting when flying over Portugal"
+    }
   ]
 }
