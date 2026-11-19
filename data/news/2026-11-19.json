@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-19",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "REGIÃO & CLIMA",
+      "stories": [
+        {
+          "headline": "Rio de lama invade ruas de Manteigas. Há casas inundadas",
+          "text": "Um rio de lama invadiu as ruas de Manteigas após chuvas intensas, deixando várias casas inundadas. A situação obrigou intervenções de emergência e limpeza das principais ruas durante a noite."
+        },
+        {
+          "headline": "Suspensas aulas e dois desalojados após enxurrada em Manteigas",
+          "text": "As aulas foram suspensas e duas pessoas ficaram desalojadas na sequência da enxurrada. As equipas de proteção civil continuam a avaliar os danos na localidade."
+        },
+        {
+          "headline": "Principais ruas de Manteigas foram limpas de noite após enxurrada",
+          "text": "As principais ruas de Manteigas foram limpas durante a noite pela equipa da câmara municipal, permitindo o regresso gradual à normalidade."
+        },
+        {
+          "headline": "Chuva pode continuar em Portugal até ao final de novembro",
+          "text": "A previsão meteorológica indica que a chuva persistente pode continuar em Portugal até ao final do mês de novembro, mantendo o risco de novos incidentes em zonas vulneráveis."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO DE COIMBRA",
+      "stories": [
+        {
+          "headline": "Seia paga a jovens para experimentar o mundo do trabalho durante as férias de Natal",
+          "text": "O município de Seia lançou um programa que paga a jovens para experimentarem o mundo do trabalho durante as férias de Natal, combatendo o abandono escolar e promovendo experiência profissional."
+        },
+        {
+          "headline": "Junta na Mealhada queixa-se de falta de civismo: freguesia usada como depósito de lixo",
+          "text": "A Junta de Freguesia na Mealhada queixou-se da falta de civismo de alguns residentes que continuam a transformar a freguesia num depósito de lixo, apelando a maior responsabilidade."
+        },
+        {
+          "headline": "Cabeleireira da Figueira da Foz vai invadir os ecrãs da RTP",
+          "text": "Uma cabeleireira da Figueira da Foz, descrita como irreverente, vai participar num programa da RTP, levando o seu estilo característico à televisão pública."
+        },
+        {
+          "headline": "Anadia avança com obra de seis meses para melhorar abastecimento de água em Ferreiros",
+          "text": "O município de Anadia vai avançar com uma obra prevista para seis meses para melhorar o abastecimento de água em Ferreiros, garantindo maior fiabilidade do serviço."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Deputado eleito pelo Chega fica com pulseira eletrónica após ser acusado de violência doméstica",
+          "text": "Um deputado eleito pelo partido Chega foi colocado sob pulseira eletrónica após ser acusado de violência doméstica. O caso gerou forte reação política e pública."
+        },
+        {
+          "headline": "Ciúmes poderão estar na origem de ataque armado que deixou homem gravemente ferido",
+          "text": "A GNR investiga um ataque armado que deixou um homem de 40 anos gravemente ferido. Tudo aponta para que os ciúmes possam estar na origem da agressão."
+        },
+        {
+          "headline": "Homem tenta matar mulher e filha durante discussão à hora de jantar",
+          "text": "Um homem foi detido após tentar matar a mulher e a filha durante uma discussão à hora de jantar. As vítimas foram protegidadas pelas autoridades."
+        },
+        {
+          "headline": "Morde militar da GNR na perna e ainda lhe deu uma chapada na cara. Homem foi detido",
+          "text": "Um homem foi detido após morder um militar da GNR na perna e lhe dar uma chapada na cara durante uma intervenção. O agente ficou ferido."
+        },
+        {
+          "headline": "Queixa na GNR denuncia agressões a criança de 8 anos dentro de escola em Cantanhede",
+          "text": "Uma queixa na GNR denuncia agressões a uma criança de 8 anos dentro de uma escola em Cantanhede. O diretor do agrupamento escolar afirmou que houve preocupação imediata com a situação."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Estudantes do ISMT já estão nas escolas como mentores para combater abandono escolar",
+          "text": "Estudantes do ISMT estão a atuar como mentores nas escolas para combater o abandono escolar, num projeto que aproxima o ensino superior das comunidades locais."
+        },
+        {
+          "headline": "Universitários marcham até à Assembleia da República em protesto contra aumento das propinas",
+          "text": "Universitários marcharam até à Assembleia da República em protesto contra o aumento do valor das propinas, exigindo respostas do Governo para o setor do ensino superior."
+        },
+        {
+          "headline": "Universidade de Coimbra vai distinguir investigador norte-americano com Honoris Causa",
+          "text": "A Universidade de Coimbra vai distinguir um investigador norte-americano com o grau de Doutor Honoris Causa, reconhecendo a sua contribuição científica."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "category": "ECONOMIA & POLÍTICA",
+      "stories": [
+        {
+          "headline": "OE2027: Segurança Social Direta permitirá bloqueio de alteração do IBAN para evitar fraudes",
+          "text": "O Orçamento do Estado para 2027 inclui uma medida que permite o bloqueio de alterações do IBAN na Segurança Social Direta, visando prevenir fraudes."
+        },
+        {
+          "headline": "Aprovada proposta do BE para combater falsos estágios",
+          "text": "Foi aprovada na especialidade do OE2027 uma proposta do Bloco de Esquerda para combater os falsos estágios, protegendo os direitos dos trabalhadores jovens."
+        },
+        {
+          "headline": "Pensões podem voltar a receber suplemento extraordinário em 2027",
+          "text": "As pensões poderão voltar a receber um suplemento extraordinário em 2027, medida incluída na discussão do Orçamento do Estado."
+        },
+        {
+          "headline": "Accenture prevê reduzir 950 postos de trabalho em Portugal até janeiro",
+          "text": "A Accenture prevê reduzir 950 postos de trabalho em Portugal até janeiro, num processo de reestruturação que afeta várias áreas da empresa."
+        },
+        {
+          "headline": "Tragédia que matou 16 pessoas volta a assombrar Moedas: BE acusa Câmara de ocultar relatórios",
+          "text": "O Bloco de Esquerda acusou a Câmara de Moedas de ocultar relatórios relacionados com a tragédia que matou 16 pessoas, pedindo a demissão dos responsáveis."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "MUNDO & PORTUGAL",
+      "stories": [
+        {
+          "headline": "Sismo na Venezuela: engenheiros propõem plano de 15 anos para reconstruir La Guaira",
+          "text": "Engenheiros propuseram um plano de 15 anos para reconstruir La Guaira, na Venezuela, após o sismo que causou graves danos na região."
+        },
+        {
+          "headline": "Papa Leão XIV envia calorosa saudação a Seguro ao sobrevoar Portugal",
+          "text": "O Papa Leão XIV enviou uma calorosa saudação ao primeiro-ministro António José Seguro ao sobrevoar território português, durante a sua viagem."
+        },
+        {
+          "headline": "Zelensky agradece apoio inabalável de Portugal à Ucrânia",
+          "text": "O presidente ucraniano Zelensky agradeceu o apoio inabalável de Portugal à Ucrânia, reforçando a importância da solidariedade europeia."
+        },
+        {
+          "headline": "Saiu de Portugal para trabalhar, foi estafeta e aos 36 anos tornou-se astrofísico",
+          "text": "Um português que emigrou para trabalhar como estafeta realizou o sonho de se tornar astrofísico aos 36 anos, mostrando que nunca é tarde para mudar de vida."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "RFM SOMNII já tem datas para 2027 e promete o maior sunset de sempre na Figueira da Foz",
+          "text": "O festival RFM SOMNII já tem datas marcadas para 2027 e promete o maior sunset de sempre na Figueira da Foz, continuando a tradição do maior festival de verão gratuito em Portugal."
+        },
+        {
+          "headline": "Jardim Botânico de Coimbra desafia famílias a descobrir o mundo das sementes",
+          "text": "O Jardim Botânico de Coimbra desafia as famílias a descobrir o mundo das sementes através de atividades educativas e interativas."
+        },
+        {
+          "headline": "Castelo Mágico de Montemor-o-Velho vai esconder um mundo de fantasia durante um mês",
+          "text": "As muralhas do Castelo Mágico de Montemor-o-Velho vão esconder um mundo de fantasia durante um mês, com espetáculos e atividades para toda a família."
+        },
+        {
+          "headline": "Festa do mel e das castanhas dura 2 dias na Lousã",
+          "text": "A Serra da Lousã acolhe mais uma edição da festa do mel e das castanhas, celebrando os produtos locais durante dois dias com atividades tradicionais."
+        }
+      ]
+    }
+  ]
+}
