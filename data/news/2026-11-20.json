@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-20",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌦️",
+      "category": "TEMPO & AMBIENTE",
+      "stories": [
+        {
+          "headline": "Coimbra não escapa ao mau tempo: aviso laranja para sábado",
+          "text": "Oito distritos do norte de Portugal continental vão estar no sábado sob aviso laranja devido à previsão de chuva persistente e por vezes forte. Os distritos de Viseu, Porto, Guarda, Vila Real, Viana do Castelo, Aveiro, Coimbra e Braga começam com aviso amarelo entre as 03:00 e as 06:00."
+        },
+        {
+          "headline": "Manteigas começa a recuperar após horas de caos",
+          "text": "A vila de Manteigas começa a regressar à normalidade depois dos estragos provocados pelo mau tempo. O presidente da Câmara, Flávio Massano, agradeceu a todos os que estiveram no terreno durante as últimas 24 horas, com operações a prolongar-se até às 22:00 de quarta-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "⛽",
+      "category": "ECONOMIA",
+      "stories": [
+        {
+          "headline": "Encher o depósito vai custar menos para a semana",
+          "text": "Os preços dos combustíveis deverão voltar a baixar na próxima segunda-feira, 23 de novembro, prolongando uma tendência de descida há várias semanas. A confirmar-se, será a terceira semana consecutiva com preços mais baixos nas bombas de abastecimento."
+        }
+      ]
+    },
+    {
+      "emoji": "🚓",
+      "category": "POLÍCIAS & CRIME",
+      "stories": [
+        {
+          "headline": "A1 em perigo: motociclista seguia em contramão e foi detido pela GNR",
+          "text": "Um homem de 29 anos foi detido em flagrante delito por circular na Autoestrada 1 em contramão, no concelho de Vila Franca de Xira. Os militares do posto territorial de Castanheira do Ribatejo detetaram o motociclo durante uma ação de patrulhamento e intercetaram o condutor."
+        },
+        {
+          "headline": "PSP descobre cocaína escondida no tablier em Coimbra",
+          "text": "Um homem de 40 anos foi detido na madrugada de quinta-feira na zona de Eiras, Coimbra, por suspeita de tráfico de estupefacientes. Durante uma ação de fiscalização rodoviária, os agentes detetaram cocaína no tablier e, na revista de segurança, encontraram mais produtos suspeitos."
+        },
+        {
+          "headline": "Homem descompensado morre após ser algemado pela PSP",
+          "text": "Um homem de 52 anos morreu em Gondomar após sofrer uma paragem cardiorrespiratória numa ambulância. A PSP tinha sido chamada por desacatos na via pública acompanhados de danos numa viatura. O homem foi algemado e acabou por colapsar durante a assistência médica."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Espanca a ex-namorada e atira-a contra porta de vidro: 5 anos de prisão",
+          "text": "Um jovem de 21 anos foi condenado a cinco anos e meio de prisão por violência doméstica e ofensa à integridade física grave. Agrediu a ex-namorada, de 17 anos, numa escola do Porto, deixando marcas permanentes que exigiram duas cirurgias. Os juízes deixaram o aviso: 'Tem o direito de usar saias curtas.'"
+        },
+        {
+          "headline": "Mistério chega ao fim: PJ recupera pintura do século XVII roubada em 1979",
+          "text": "Uma pintura do século XVII roubada em 1979 do então Museu Regional de Évora foi recuperada pela Polícia Judiciária 46 anos depois. O quadro foi entregue formalmente à Museus e Monumentos de Portugal esta terça-feira."
+        }
+      ]
+    },
+    {
+      "emoji": "🛣️",
+      "category": "TRÂNSITO & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Restabelecida circulação na EN8 após acidente com 2 feridos graves",
+          "text": "A circulação na EN8 nas Caldas da Rainha foi restabelecida após um acidente que deixou dois feridos graves."
+        },
+        {
+          "headline": "Violento acidente entre carro e quadriciclo faz dois feridos graves",
+          "text": "Um acidente violento entre um carro e um quadriciclo deixou dois feridos graves. Os detalhes do sinistro foram divulgados pelo NDC."
+        },
+        {
+          "headline": "Obras em estrada em Montemor-o-Velho pedem atenção aos condutores",
+          "text": "Quem andar na estrada em Montemor-o-Velho deve prestar atenção devido a obras em curso. O NDC alerta para o impacto na circulação."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Caminhos do Cinema Português despedem-se de Coimbra no sábado",
+          "text": "A 32.ª edição dos Caminhos do Cinema Português chega ao fim este sábado, 21 de novembro, com a cerimónia de entrega de prémios e um espetáculo de Surma. A sessão de encerramento está marcada para as 17h30 no Convento de São Francisco. Ainda há três filmes para ver antes do adeus."
+        },
+        {
+          "headline": "Ópera inspirada em Miguel Torga chega a Coimbra com entrada solidária",
+          "text": "Uma ópera inspirada na obra de Miguel Torga chega a Coimbra com entrada solidária, integrando a programação cultural da cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & TRADIÇÕES",
+      "stories": [
+        {
+          "headline": "Concurso de Montras de Natal quer dar brilho à Baixa de Coimbra",
+          "text": "Os comerciantes da Alta e Baixa de Coimbra vão ser desafiados a decorar as montras para o Natal. A iniciativa da APBC pretende dinamizar o comércio local com prémios monetários para os estabelecimentos participantes."
+        },
+        {
+          "headline": "Presépio gigante regressa com 6.000 figuras e cenários em movimento",
+          "text": "O Presépio Gigante de Vila Real de Santo António regressa a 28 de novembro na sua 24.ª edição, ocupando 240 metros quadrados com mais de 6.000 figuras e cenários em movimento. Pode ser visitado até 6 de janeiro de 2027."
+        },
+        {
+          "headline": "Penela transforma-se numa aldeia de Natal durante quase um mês",
+          "text": "Penela volta a ser uma das paragens mais mágicas do Natal, transformando-se numa aldeia de Natal durante quase um mês com muito para descobrir."
+        },
+        {
+          "headline": "Dezembro traz 2 feriados perfeitos para uma escapadinha no Centro",
+          "text": "Dezembro traz dois feriados perfeitos para uma escapadinha, com seis destinos no Centro de Portugal à espera dos visitantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "category": "SOCIEDADE & REGIÃO",
+      "stories": [
+        {
+          "headline": "APPACDM de Vila Nova de Poiares celebra 45 anos a cuidar de pessoas",
+          "text": "A APPACDM de Vila Nova de Poiares assinalou 45 anos de atividade com um encontro dedicado ao envelhecimento das pessoas com deficiência intelectual. Bibá Pitta partilhou o seu testemunho como mãe de Madalena, que nasceu com trissomia 21."
+        },
+        {
+          "headline": "4 pratos típicos para saborear em 14 restaurantes de Penacova",
+          "text": "Quatro pratos típicos estão à mesa para serem saboreados e descobertos em 14 restaurantes de Penacova, numa iniciativa de promoção da gastronomia local."
+        }
+      ]
+    }
+  ]
+}
