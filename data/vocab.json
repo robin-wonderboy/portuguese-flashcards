@@ -33040,5 +33040,127 @@
       "example_de": "Herzlicher Gruß beim Überflug Portugals",
       "example_en": "Warm greeting when flying over Portugal"
     }
+  ],
+  "2026-11-20": [
+    {
+      "pt": "o tablier",
+      "de": "das Armaturenbrett",
+      "en": "dashboard",
+      "example": "A PSP descobriu cocaína escondida no tablier.",
+      "example_de": "Die PSP fand Kokain versteckt im Armaturenbrett.",
+      "example_en": "The PSP found cocaine hidden in the dashboard."
+    },
+    {
+      "pt": "a revista",
+      "de": "die Durchsuchung",
+      "en": "police search",
+      "example": "Durante a revista de segurança, foram encontrados mais produtos.",
+      "example_de": "Während der Sicherheitsdurchsuchung wurden weitere Produkte gefunden.",
+      "example_en": "During the security search, more products were found."
+    },
+    {
+      "pt": "descompensado",
+      "de": "verwirrt/entgleist",
+      "en": "unstable/disturbed",
+      "example": "Um homem descompensado provoca desacatos na via pública.",
+      "example_de": "Ein verwirrter Mann verursacht Unruhe auf der Straße.",
+      "example_en": "An unstable man causes disturbances in the street."
+    },
+    {
+      "pt": "algemar",
+      "de": "fesseln",
+      "en": "to handcuff",
+      "example": "O homem foi algemado pela PSP.",
+      "example_de": "Der Mann wurde von der PSP gefesselt.",
+      "example_en": "The man was handcuffed by the PSP."
+    },
+    {
+      "pt": "o testemunho",
+      "de": "das Zeugnis",
+      "en": "testimony",
+      "example": "O encontro juntou testemunhos e momentos de debate.",
+      "example_de": "Das Treffen brachte Zeugnisse und Debattenmomente zusammen.",
+      "example_en": "The gathering brought together testimonies and moments of debate."
+    },
+    {
+      "pt": "o dano",
+      "de": "der Schaden",
+      "en": "damage",
+      "example": "A situação foi acompanhada de danos numa viatura.",
+      "example_de": "Die Situation ging mit Schäden an einem Fahrzeug einher.",
+      "example_en": "The situation was accompanied by damage to a vehicle."
+    },
+    {
+      "pt": "o agente",
+      "de": "der Beamte",
+      "en": "officer/agent",
+      "example": "Os agentes da PSP detetaram o produto suspeito.",
+      "example_de": "Die Beamten der PSP entdeckten die verdächtige Substanz.",
+      "example_en": "The PSP officers detected the suspicious product."
+    },
+    {
+      "pt": "o posto territorial",
+      "de": "die Dienststelle",
+      "en": "territorial post/station",
+      "example": "Os militares do posto territorial de Castanheira do Ribatejo intercetaram o condutor.",
+      "example_de": "Die Soldaten der Dienststelle Castanheira do Ribatejo fingen den Fahrer ab.",
+      "example_en": "The soldiers from the Castanheira do Ribatejo territorial station intercepted the driver."
+    },
+    {
+      "pt": "o militar",
+      "de": "der Soldat",
+      "en": "soldier (GNR officer)",
+      "example": "Os militares da Guarda detetaram o motociclo.",
+      "example_de": "Die Soldaten der Guarda entdeckten das Motorrad.",
+      "example_en": "The Guarda soldiers detected the motorcycle."
+    },
+    {
+      "pt": "prolongar",
+      "de": "verlängern/andauern",
+      "en": "to prolong/extend",
+      "example": "As operações iriam prolongar-se até às 22:00.",
+      "example_de": "Die Operationen sollten bis 22:00 Uhr andauern.",
+      "example_en": "The operations would extend until 10 PM."
+    },
+    {
+      "pt": "a atração",
+      "de": "die Attraktion",
+      "en": "attraction",
+      "example": "A exposição é uma das principais atrações do Natal.",
+      "example_de": "Die Ausstellung ist eine der Hauptattraktionen des Weihnachtens.",
+      "example_en": "The exhibition is one of the main attractions of Christmas."
+    },
+    {
+      "pt": "a deficiência",
+      "de": "die Behinderung",
+      "en": "disability",
+      "example": "Houve debate sobre o envelhecimento das pessoas com deficiência.",
+      "example_de": "Es gab Debatte über das Altern von Menschen mit Behinderung.",
+      "example_en": "There was debate about the aging of people with disabilities."
+    },
+    {
+      "pt": "a integridade física",
+      "de": "die körperliche Unversehrtheit",
+      "en": "physical integrity",
+      "example": "Foi condenado por ofensa à integridade física grave.",
+      "example_de": "Er wurde wegen schwerer Verletzung der körperlichen Unversehrtheit verurteilt.",
+      "example_en": "He was sentenced for serious offense to physical integrity."
+    },
+    {
+      "pt": "permanente",
+      "de": "dauerhaft",
+      "en": "permanent",
+      "example": "A violência deixou marcas permanentes no corpo da adolescente.",
+      "example_de": "Die Gewalt hinterließ dauerhafte Spuren am Körper der Jugendlichen.",
+      "example_en": "The violence left permanent marks on the teenager's body."
+    },
+    {
+      "pt": "a estimativa",
+      "de": "die Schätzung",
+      "en": "estimate",
+      "example": "De acordo com as estimativas divulgadas pelo Pplware.",
+      "example_de": "Gemäß den vom Pplware veröffentlichten Schätzungen.",
+      "example_en": "According to the estimates published by Pplware."
+    }
   ]
 }
