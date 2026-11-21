@@ -33162,5 +33162,95 @@
       "example_de": "Gemäß den vom Pplware veröffentlichten Schätzungen.",
       "example_en": "According to the estimates published by Pplware."
     }
+  ],
+  "2026-11-21": [
+    {
+      "pt": "o marmelo",
+      "de": "Quitte",
+      "en": "quince",
+      "example": "A receita combina marmelo com piripiri",
+      "example_de": "Das Rezept kombiniert Quitte mit Piripiri",
+      "example_en": "The recipe combines quince with piri-piri"
+    },
+    {
+      "pt": "a romã",
+      "de": "Granatapfel",
+      "en": "pomegranate",
+      "example": "Entre os tradicionais estao os licores de romã e tangerina",
+      "example_de": "Zu den traditionellen gehoeren Granatapfel- und Mandarinenlikoere",
+      "example_en": "Among the traditional ones are pomegranate and tangerine liqueurs"
+    },
+    {
+      "pt": "a tangerina",
+      "de": "Mandarine",
+      "en": "tangerine",
+      "example": "Ha tambem propostas como tangerina com mel",
+      "example_de": "Es gibt auch Vorschlaege wie Mandarine mit Honig",
+      "example_en": "There are also suggestions like tangerine with honey"
+    },
+    {
+      "pt": "o digestivo",
+      "de": "Verdauungsschnaps",
+      "en": "digestif",
+      "example": "Um licorzinho fica sempre bem como digestivo",
+      "example_de": "Ein kleiner Likoer geht immer gut als Verdauungsschnaps",
+      "example_en": "A little liqueur is always nice as a digestif"
+    },
+    {
+      "pt": "a envergadura",
+      "de": "Tragweite,Umfang",
+      "en": "scale,scope",
+      "example": "Projetos estrategicos desta envergadura",
+      "example_de": "Strategische Projekte dieses Umfangs",
+      "example_en": "Strategic projects of this scale"
+    },
+    {
+      "pt": "a cocriacao",
+      "de": "Mitgestaltung",
+      "en": "co-creation",
+      "example": "Numa cocriacao com a bienal Anozero",
+      "example_de": "In einer Mitgestaltung mit der Biennale Anozero",
+      "example_en": "In a co-creation with the Anozero biennial"
+    },
+    {
+      "pt": "indeterminado",
+      "de": "unbestimmt",
+      "en": "undetermined",
+      "example": "Um numero ainda indeterminado de crimes",
+      "example_de": "Eine noch unbestimmte Anzahl von Straftaten",
+      "example_en": "An as yet undetermined number of crimes"
+    },
+    {
+      "pt": "o armamento",
+      "de": "Waffen,Bewaffnung",
+      "en": "weaponry,arms",
+      "example": "O desvio de armamento tera acabado nas maos de criminosos",
+      "example_de": "Der Waffendiebstahl soll in die Haende von Kriminellen gelangt sein",
+      "example_en": "The diversion of weaponry ended up in the hands of criminals"
+    },
+    {
+      "pt": "o cactos",
+      "de": "Kaktus",
+      "en": "cactus",
+      "example": "Um vaso com cactos ter sido derrubado e partido na rua",
+      "example_de": "Ein Topf mit Kakteen wurde umgeworfen und auf der Strasse zerbrochen",
+      "example_en": "A pot with cacti was knocked over and broken in the street"
+    },
+    {
+      "pt": "a convencao",
+      "de": "Versammlung,Parteitag",
+      "en": "convention",
+      "example": "A convencao nacional do Chega foi evacuada",
+      "example_de": "Der nationale Parteitag von Chega wurde evakuiert",
+      "example_en": "The national convention of Chega was evacuated"
+    },
+    {
+      "pt": "a variedade",
+      "de": "Vielfalt,Sortiment",
+      "en": "variety",
+      "example": "A marca apresenta atualmente dez sabores diferentes na sua variedade",
+      "example_de": "Die Marke bietet derzeit zehn verschiedene Geschmacksrichtungen in ihrer Vielfalt",
+      "example_en": "The brand currently offers ten different flavors in its variety"
+    }
   ]
 }
