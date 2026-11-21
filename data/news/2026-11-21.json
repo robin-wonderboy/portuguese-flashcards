@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-21",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & ALERTAS",
+      "stories": [
+        {
+          "headline": "Cartão vermelho para Coimbra! São Pedro prepara-se para abrir as torneiras",
+          "text": "Coimbra, Guarda e Viseu vão estar sob aviso vermelho este sábado entre as 09:00 e as 18:00 devido a chuva persistente, por vezes forte. Oito distritos adicionais estão sob aviso laranja. O aviso vermelho é o nível mais elevado de alerta meteorológico e representa uma situação de risco extremo."
+        },
+        {
+          "headline": "Proteção Civil deixa avisos urgentes à população",
+          "text": "A ANEPC prevê períodos de precipitação persistente acompanhados de vento intenso, sobretudo nas regiões Norte e Centro. As rajadas poderão chegar aos 85 km/h, com possibilidade de queda de neve na Serra da Estrela. A subida dos caudais dos rios poderá provocar cheias e inundações durante o fim de semana."
+        },
+        {
+          "headline": "Manteigas decreta situação de alerta municipal para sábado",
+          "text": "A Câmara de Manteigas vai decretar situação de alerta municipal a partir da meia-noite de sábado. O presidente Flávio Massano afirmou que os manteiguenses estão alarmados e preocupados, pelo que é preciso acautelar vidas e bens nos próximos dias."
+        },
+        {
+          "headline": "Figueira da Foz em alerta! Autoridades identificam pontos de risco",
+          "text": "A previsão de vários dias de chuva levou a Câmara da Figueira da Foz a antecipar medidas de prevenção. O presidente da autarquia percorreu várias zonas consideradas sensíveis, incluindo ruas onde são frequentes as inundações, para identificar pontos críticos e reduzir riscos."
+        },
+        {
+          "headline": "\"Dos Santos ao Natal é Inverno natural\": Coimbra prepara-se para um sábado \"debaixo de água\"",
+          "text": "O distrito de Coimbra vai estar sob aviso vermelho este sábado devido à previsão de chuva persistente e por vezes forte, entre as 09:00 e as 18:00. O aviso vermelho corresponde ao nível mais elevado de alerta meteorológico."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Ameaça de bomba na convenção do Chega",
+          "text": "O pavilhão onde decorre a convenção nacional do Chega, no Entroncamento, Santarém, foi evacuado esta sexta-feira na sequência de uma ameaça de bomba. As autoridades averiguam a ocorrência e não são conhecidos mais pormenores sobre a origem da ameaça."
+        },
+        {
+          "headline": "Menina de 13 anos quebra o silêncio sobre abusos sexuais",
+          "text": "A Polícia Judiciária deteve um cidadão estrangeiro de 26 anos, suspeito de crimes de abuso sexual de crianças agravado. A vítima, de 13 anos, filha da sua companheira, relatou os abusos, levando à abertura de um inquérito e à detenção de madrugada."
+        },
+        {
+          "headline": "Assalto à mão armada em banco. Suspeitos estão a monte",
+          "text": "Um banco foi assaltado por homens armados cerca das 14:00 desta sexta-feira em Albufeira, no distrito de Faro. Os assaltantes encontram-se em fuga. A PJ e a PSP estão no local a investigar a ocorrência."
+        },
+        {
+          "headline": "Armas desviadas por especialista da PJ terão ido parar a traficantes",
+          "text": "Um especialista da PJ na área da balística foi detido, suspeito de ter retirado mais de 200 armas ao longo dos últimos anos e de as ter vendido no mercado negro. Algumas armas foram encontradas na posse de suspeitos de tráfico de droga, no âmbito da Operação Pacoba."
+        }
+      ]
+    },
+    {
+      "emoji": "🎸",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Estrela mundial da guitarra prepara concerto em Coimbra",
+          "text": "O guitarrista norte-americano Al Di Meola atua no dia 24 de novembro, às 21h00, no Convento São Francisco, em Coimbra, integrado no Misty Fest 2026. Com mais de cinco décadas de carreira, é uma das referências do jazz fusion e da música instrumental."
+        },
+        {
+          "headline": "Bienal Manifesta em Coimbra com orçamento atual de 5,3 milhões",
+          "text": "A bienal nómada europeia Manifesta, que se realiza em Coimbra em 2028 numa cocriação com a bienal Anozero, tem atualmente um orçamento de 5,3 milhões de euros. A organização espera angariar financiamento adicional através de conversações com parceiros e apoiantes."
+        },
+        {
+          "headline": "35.ª Feira do Mel e da Castanha já começou na Lousã",
+          "text": "A Lousã recebe este fim de semana a 35.ª edição da Feira do Mel e da Castanha, considerada o \"fim de semana mais doce do país\". Entre os expositores está a Licodoces, de Penacova, com dez sabores de licores artesanais, incluindo criações originais como marmelo com piripíri."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "REGIÃO & ESTRADAS",
+      "stories": [
+        {
+          "headline": "Cuidado: Porco anda à solta nesta estrada",
+          "text": "Um porco foi avistado na faixa de rodagem da Estrada de Vale das Éguas, no concelho do Sabugal. A situação representa um perigo para a circulação rodoviária, pelo que os condutores são aconselhados a reduzir a velocidade e redobrar os cuidados."
+        },
+        {
+          "headline": "Bar de rock em Coimbra vandalizado",
+          "text": "O bar Pinga Amor, em Coimbra, foi alvo de vandalismo depois de um vaso com cactos ter sido derrubado e partido na rua junto ao estabelecimento. A situação foi divulgada pelo próprio bar nas redes sociais através de fotografias."
+        }
+      ]
+    }
+  ]
+}
