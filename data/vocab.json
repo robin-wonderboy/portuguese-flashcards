@@ -33252,5 +33252,143 @@
       "example_de": "Die Marke bietet derzeit zehn verschiedene Geschmacksrichtungen in ihrer Vielfalt",
       "example_en": "The brand currently offers ten different flavors in its variety"
     }
+  ],
+  "2026-11-22": [
+    {
+      "pt": "o míscaro",
+      "de": "der Parasolpilz",
+      "en": "the parasol mushroom",
+      "example": "Feira do Míscaro em Sátão",
+      "example_de": "Parasolpilz-Fest in Sátão",
+      "example_en": "Parasol Mushroom Fair in Sátão"
+    },
+    {
+      "pt": "debatido",
+      "de": "diskutiert, debattiert",
+      "en": "debated",
+      "example": "o segredo do rendimento desportivo foi debatido em Montemor",
+      "example_de": "das Geheimnis der sportlichen Leistung wurde in Montemor diskutiert",
+      "example_en": "the secret of sports performance was debated in Montemor"
+    },
+    {
+      "pt": "patinar",
+      "de": "Schlittschuh laufen, Eislaufen",
+      "en": "to ice skate",
+      "example": "pode patinar no gelo sem sair de Seia",
+      "example_de": "man kann Schlittschuh laufen, ohne Seia zu verlassen",
+      "example_en": "you can ice skate without leaving Seia"
+    },
+    {
+      "pt": "a carreira dupla",
+      "de": "die Doppelkarriere",
+      "en": "the dual career (sports + academics)",
+      "example": "selo reconhece o apoio à carreira dupla dos estudantes-atletas",
+      "example_de": "Siegel anerkennt die Unterstützung der Doppelkarriere",
+      "example_en": "seal recognizes support for dual career of student-athletes"
+    },
+    {
+      "pt": "o atestado médico",
+      "de": "das ärztliche Attest",
+      "en": "the medical certificate",
+      "example": "pedidos de atestado médico sobem 83% na véspera do lançamento",
+      "example_de": "Anträge auf ärztliches Attest steigen 83% am Tag vor dem Release",
+      "example_en": "medical certificate requests rise 83% on launch eve"
+    },
+    {
+      "pt": "a fação",
+      "de": "die Fraktion, die Gruppierung",
+      "en": "the faction",
+      "example": "a única fação é a de Ventura",
+      "example_de": "die einzige Fraktion ist die von Ventura",
+      "example_en": "the only faction is Ventura's"
+    },
+    {
+      "pt": "taco a taco",
+      "de": "auf Augenhöhe, Schulter an Schulter",
+      "en": "neck and neck, side by side",
+      "example": "o festival coloca-se taco a taco com os principais festivais",
+      "example_de": "das Festival stellt sich auf Augenhöhe mit den wichtigsten Festivals",
+      "example_en": "the festival stands neck and neck with the major festivals"
+    },
+    {
+      "pt": "o marketeiro",
+      "de": "der Marketingspezialist",
+      "en": "the marketer",
+      "example": "manifestantes marcham contra exploração de recursos naturais",
+      "example_de": "Demonstranten marschieren gegen den Abbau von Bodenschätzen",
+      "example_en": "protesters march against natural resource extraction"
+    },
+    {
+      "pt": "o juiz conselheiro",
+      "de": "der Richter im Supreme Tribunal",
+      "en": "the supreme court justice",
+      "example": "os juízes conselheiros negaram provimento ao recurso",
+      "example_de": "die Supreme-Richter wiesen die Berufung zurück",
+      "example_en": "the supreme court justices dismissed the appeal"
+    },
+    {
+      "pt": "o ribeiro",
+      "de": "der Bach, der kleine Fluss",
+      "en": "the stream, the brook",
+      "example": "a subida da água no ribeiro que atravessa a vila",
+      "example_de": "der steigende Wasserstand im Bach, der durch die Stadt fließt",
+      "example_en": "the rising water in the stream that runs through the town"
+    },
+    {
+      "pt": "o folclórico",
+      "de": "folkloristisch, Volkstanz-",
+      "en": "folkloric, folk dance",
+      "example": "ranchos folclóricos em Sazes da Beira",
+      "example_de": "Folkloregruppen in Sazes da Beira",
+      "example_en": "folkloric groups in Sazes da Beira"
+    },
+    {
+      "pt": "o granéis",
+      "de": "die Schüttgüter, das Massengut",
+      "en": "bulk goods, bulk cargo",
+      "example": "Terminal de Granéis Líquidos no Porto de Aveiro",
+      "example_de": "Terminal für flüssige Massengüter im Hafen von Aveiro",
+      "example_en": "Liquid Bulk Terminal at the Port of Aveiro"
+    },
+    {
+      "pt": "o efeito dominó",
+      "de": "der Dominoeffekt",
+      "en": "the domino effect",
+      "example": "cenários de acidente grave com efeito dominó",
+      "example_de": "Unfallszenarien mit Dominoeffekt",
+      "example_en": "accident scenarios with domino effect"
+    },
+    {
+      "pt": "a sala de crise",
+      "de": "die Krisenzentrale",
+      "en": "the crisis room, the war room",
+      "example": "foi constituída uma sala de crise no edifício-sede",
+      "example_de": "eine Krisenzentrale wurde im Hauptgebäude eingerichtet",
+      "example_en": "a crisis room was set up in the headquarters"
+    },
+    {
+      "pt": "a tesouraria",
+      "de": "die Schatzkammer, der Vorstand",
+      "en": "the treasury, the board",
+      "example": "não disponível",
+      "example_de": "nicht verfügbar",
+      "example_en": "not available"
+    },
+    {
+      "pt": "aviltante",
+      "de": "demütigend, erniedrigend",
+      "en": "humiliating, degrading",
+      "example": "não disponível",
+      "example_de": "nicht verfügbar",
+      "example_en": "not available"
+    },
+    {
+      "pt": "o forasteiro",
+      "de": "der Außenstehende, der Fremde",
+      "en": "the outsider, the stranger",
+      "example": "não disponível",
+      "example_de": "nicht verfügbar",
+      "example_en": "not available"
+    }
   ]
 }
