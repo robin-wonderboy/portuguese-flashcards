@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-22",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "MAU TEMPO & CLIMA",
+      "stories": [
+        {
+          "headline": "Mau tempo faz estragos de norte a sul",
+          "text": "A chuva intensa e persistente provocou mais de mil ocorrências em todo o território nacional até às 20:00 de sábado, mobilizando 2976 operacionais e 1097 meios terrestres. Apesar dos constrangimentos e estragos, não houve vítimas nem danos materiais de grande dimensão."
+        },
+        {
+          "headline": "Manteigas escapa (por pouco) a nova enxurrada",
+          "text": "Manteigas, na Serra da Estrela, viveu momentos de apreensão devido ao risco de uma nova enxurrada no ribeiro que atravessa a vila. Depois do cenário de destruição da quarta-feira, as autoridades temiam nova subida da água. O alerta municipal foi ativado e 2 pessoas foram realojadas."
+        },
+        {
+          "headline": "Alerta vermelho desaparece de Coimbra",
+          "text": "Os distritos do Porto, Vila Real, Viana do Castelo e Braga passaram de aviso laranja a amarelo devido à previsão de aguaceiros com trovoada. Coimbra e Guarda deixaram de estar sob aviso. Os avisos eram válidos entre as 19:28 e as 21:00 de sábado."
+        },
+        {
+          "headline": "Estradas condicionadas em Almalaguês e Soure",
+          "text": "O mau tempo obrigou a cortar duas estradas no concelho de Soure. Também em Almalaguês há estradas condicionadas devido à chuva, com recomendação para evitar determinadas vias."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Funcionário da PJ detido por furtar 266 armas",
+          "text": "Um funcionário da Polícia Judiciária com funções na área da análise balística foi detido por suspeitas de retirar 266 armas de fogo das instalações da instituição e as encaminhar para o mercado negro. O homem de 54 anos fica em prisão preventiva. Foi detido pela Unidade Nacional de Contraterrorismo."
+        },
+        {
+          "headline": "Taxista condenado a 14 anos por atropelamento mortal",
+          "text": "O Supremo Tribunal de Justiça confirmou a pena de 14 anos e nove meses de prisão aplicada a um motorista de táxi pelo atropelamento mortal de um jovem de 21 anos em Lisboa. O crime ocorreu numa passadeira com sinal verde para peões em setembro de 2024. Os juízes conselheiros negaram provimento ao recurso."
+        },
+        {
+          "headline": "PSP descobre \"lol\" que \"bomba\" no Chega",
+          "text": "A PSP descobriu um indivíduo que fazia comentários inflamados contra o partido Chega nas redes sociais. O caso foi classificado como curioso pela própria PSP."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & CINEMA",
+      "stories": [
+        {
+          "headline": "Caminhos do Cinema fecha edição com salas cheias",
+          "text": "A 32.ª edição dos Caminhos do Cinema Português chega ao fim com cerca de 4500 espectadores e ambição de chegar aos 7000 nas próximas edições. O festival estendeu-se à Mealhada e Góis. O diretor Tiago Santos destacou que o festival se coloca agora taco a taco com os principais festivais do país."
+        },
+        {
+          "headline": "Filme de arquivo premiado em Coimbra",
+          "text": "O filme \"Auto da Casa\", construído exclusivamente a partir de imagens de arquivo que recuperam episódios da história portuguesa, conquistou o Prémio Cision para Melhor Filme da seleção Outros Olhares. A obra é de Tiago Bartolomeu Costa e Joana Cunha Ferreira."
+        },
+        {
+          "headline": "12 fotografias inéditas de Eduardo Lourenço em Coimbra",
+          "text": "Uma exposição com 12 fotografias inéditas mostra o ensaísta Eduardo Lourenço em Coimbra como nunca antes visto. As imagens fazem parte de um projeto que revela momentos desconhecidos do pensador português."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Briosa de asas abertas para a Taça de Portugal",
+          "text": "A Académica desloca-se a São João da Madeira para defrontar a AD Sanjoanense na 4.ª eliminatória da Taça de Portugal. A partida está marcada para as 11:00 no Estádio Conde Dias Garcia. A Briosa procura um lugar nos oitavos de final."
+        },
+        {
+          "headline": "Rendimento desportivo debatido em Montemor",
+          "text": "O segredo do rendimento desportivo \"também está à mesa\" foi o tema debatido em Montemor-o-Velho, juntando especialistas para discutir a relação entre alimentação e performance atlética."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & LAZER",
+      "stories": [
+        {
+          "headline": "Natal em Seia com carrossel, Pai Natal e pista de gelo",
+          "text": "Seia prepara mais de um mês de atividades natalícias entre 28 de novembro e 3 de janeiro. O programa inclui Aldeia do Pai Natal, carrossel, pista de gelo no HUB Porta da Estrela, mercados de artesanato e Cantares Natalícios de ranchos folclóricos nas freguesias."
+        },
+        {
+          "headline": "Feira do Míscaro regressa a Sátão",
+          "text": "A 19.ª edição da Feira do Míscaro realiza-se no dia 29 de novembro em Sátão. Haverá showcooking com chef Paulo Cardoso, prova de míscaros, música com Augusto Canário e um magusto à borla para celebrar os sabores de outono."
+        },
+        {
+          "headline": "Forum Coimbra transforma-se em mundo mágico de Natal",
+          "text": "O Forum Coimbra prepara surpresas natalícias para toda a família, transformando-se num mundo mágico para a época festiva."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Mulher ferida em explosão nas Caldas da Rainha morre",
+          "text": "A mulher de 34 anos gravemente ferida numa explosão numa habitação nas Caldas da Rainha não resistiu aos ferimentos. Foi submetida a quatro cirurgias mas acabou por morrer. A explosão deixou também três pessoas feridas, incluindo uma criança de quatro anos."
+        },
+        {
+          "headline": "75% dos médicos aderem à greve",
+          "text": "A Federação Nacional dos Médicos estima adesão de 75% à greve a nível nacional. Há centros de saúde com adesão de 100% e blocos operatórios fechados em vários hospitais."
+        },
+        {
+          "headline": "GTA VI: pedidos de atestado médico sobem 83%",
+          "text": "A plataforma Dr. Online registou um aumento de 83% na marcação de consultas para atestado de doença na véspera do lançamento de GTA VI, face à semana anterior. Face ao dia anterior, a subida foi de 120%."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & EDUCAÇÃO",
+      "stories": [
+        {
+          "headline": "Pedro Pinto: \"a única fação é a de Ventura\"",
+          "text": "O líder parlamentar do Chega, Pedro Pinto, rejeitou guerras internas na 7.ª Convenção Nacional do partido, no Entroncamento. Defendeu que a única fação é a de André Ventura e mostrou convicção numa vitória nas próximas legislativas."
+        },
+        {
+          "headline": "Coimbra reconhecida pelo apoio a estudantes-atletas",
+          "text": "A Universidade Politécnica de Coimbra recebeu o Selo Estudante-Atleta 2026-2028 do IPDJ, distinguindo o apoio à carreira dupla de estudantes que conciliam ensino superior com desportos federados. 11 instituições foram reconhecidas nesta edição."
+        },
+        {
+          "headline": "Porto de Aveiro realiza simulacro de emergência",
+          "text": "O Porto de Aveiro testou a resposta a três cenários de acidente grave com efeito dominó no Terminal de Granéis Líquidos. Devido ao mau tempo, o exercício foi adaptado ao modelo CPX, centrado na coordenação. Foi ativado o Plano de Emergência Externo de Ílhavo."
+        }
+      ]
+    }
+  ]
+}
