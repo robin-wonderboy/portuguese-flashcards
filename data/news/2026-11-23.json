@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-23",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🌧️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "A chuva está de regresso a Portugal",
+          "text": "Depois de uma breve pausa no mau tempo, a chuva prepara-se para regressar a Portugal continental. A última semana de novembro deverá ficar marcada por períodos de instabilidade, com a passagem de frentes atlânticas e possibilidade de precipitação mais significativa no Norte e Centro do país."
+        },
+        {
+          "headline": "Manteigas escapa (por pouco) a nova enxurrada",
+          "text": "Manteigas escapou por pouco a uma nova enxurrada. Duas pessoas tiveram de ser realojadas após o incidente, que voltou a colocar a população em alerta na Serra da Estrela."
+        }
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Comboios de e para Coimbra podem sofrer supressões devido à greve",
+          "text": "A greve dos maquinistas da CP, que começou à meia-noite e se prolonga até sexta-feira, deverá levar a algumas supressões de comboios já no primeiro dia, embora \"não em grande escala\", segundo o presidente do sindicato. A paralisação afeta ligações de e para Coimbra."
+        },
+        {
+          "headline": "Cantanhede já adquiriu 66% dos terrenos para variante da EN109",
+          "text": "A Câmara Municipal de Cantanhede conseguiu adquirir 95 terrenos dos 144 necessários à construção da variante da EN109 à Zona Industrial da Tocha. A autarquia prevê comprar mais 13 até ao final de 2026 e considera que o processo está a decorrer com normalidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Violência doméstica matou 20 pessoas em Portugal este ano",
+          "text": "A PSP inicia hoje a operação \"Violência Fica à Porta\" para sensibilizar a comunidade para a violência doméstica e a importância de denunciar este tipo de crime. A campanha termina sexta-feira e associa-se ao Dia Internacional para a Eliminação da Violência Contra as Mulheres."
+        },
+        {
+          "headline": "Faz mãe e filha reféns durante assalto e foge com carro da família",
+          "text": "Um homem fez uma mãe e a filha reféns dentro de casa durante um assalto e fugiu com o carro da família. O caso está a ser investigado pelas autoridades."
+        },
+        {
+          "headline": "Funcionária de banco fecha a porta e trava assalto",
+          "text": "A desconfiança de uma funcionária bancária impediu um possível assalto a uma agência do Novo Banco em Montemor-o-Novo. Ao aperceber-se do comportamento suspeito de dois homens, a trabalhadora decidiu fechar a porta do estabelecimento, impedindo a entrada dos suspeitos."
+        },
+        {
+          "headline": "Drones da GNR apanham grupo que assaltava cemitérios",
+          "text": "Uma investigação da GNR a uma vaga de assaltos a cemitérios no distrito de Leiria contou com ajuda tecnológica: drones. Os aparelhos permitiram acompanhar os movimentos dos suspeitos e recolher imagens dos crimes sem comprometer as vigilâncias. O grupo atuou durante cerca de um mês."
+        },
+        {
+          "headline": "Corrida ilegal de motas coloca militares da GNR em perigo de vida",
+          "text": "Uma corrida ilegal de motas colocou militares da GNR em perigo de vida. O caso aconteceu durante uma operação de fiscalização rodoviária."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Tragédia no Jamor: adepto morre durante Torreense-Benfica",
+          "text": "Um adepto do Torreense morreu após sofrer uma paragem cardiorrespiratória no decorrer do jogo entre o conjunto da II Liga e o Benfica, pela quarta eliminatória da Taça de Portugal, no Jamor. O incidente ocorreu durante o intervalo do jogo disputado no domingo à noite."
+        },
+        {
+          "headline": "Piloto de Vila Nova de Poiares conquista 7º lugar no Rally Vidreiro",
+          "text": "Um piloto de Vila Nova de Poiares conquistou o sétimo lugar no Rally Vidreiro, destacando-se na competição regional."
+        }
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Lixo \"trava\" Basófias no Rio Mondego: oito turistas resgatados",
+          "text": "Oito turistas foram resgatados pelos Bombeiros Sapadores de Coimbra depois de uma avaria ter deixado o Basófias sem capacidade para fazer marcha-atrás, este domingo no Rio Mondego. Um pau preso no sistema de propulsão, devido ao lixo acumulado no rio, estará na origem do incidente. Todos os passageiros estavam equipados com coletes de salvamento e ficaram em segurança."
+        },
+        {
+          "headline": "Ana Abrunhosa leva projeto ambiental de Coimbra a encontro internacional em Espanha",
+          "text": "A presidente da Câmara Municipal de Coimbra, Ana Abrunhosa, leva um projeto ambiental da cidade a um encontro internacional em Espanha, promovendo Coimbra no exterior."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "\"O vento avisou. O sismo não avisa\": Meirinhas lança alerta sísmico",
+          "text": "A freguesia de Meirinhas, no concelho de Pombal, lançou uma campanha de sensibilização para alertar os proprietários que estão a reconstruir casas após a tempestade Kristin. A iniciativa recomenda aconselhamento técnico especializado, com atenção a ligações entre paredes, chaminés e platibandas que podem comprometer os edifícios em caso de sismo."
+        },
+        {
+          "headline": "Foi retirada viva dos escombros, mas acaba por morrer no hospital",
+          "text": "Uma mulher que tinha sido retirada viva dos escombros acabou por morrer no hospital, num caso que mobilizou equipas de socorro na região centro."
+        },
+        {
+          "headline": "Manhã de terror em Vale de Cambra: fogo deixa 4 desalojados",
+          "text": "Um incêndio que começou numa lareira deixou quatro pessoas desalojadas e feriu um militar da GNR em Vale de Cambra. O militar foi hospitalizado na sequência da intervenção."
+        },
+        {
+          "headline": "Desaparecido em Sátão após telefonema: família desespera",
+          "text": "Um homem está desaparecido desde sexta-feira após sair do trabalho em Sátão na sequência de uma chamada telefónica. Não regressou ao trabalho nem a casa. A família apela à população para partilhar qualquer informação sobre o seu paradeiro."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "CULTURA & LAZER",
+      "stories": [
+        {
+          "headline": "Coimbra prepara 8 dias contra notícias falsas",
+          "text": "Entre 23 e 30 de novembro, Coimbra assinala o Dia Internacional da Cidade Educadora com debates, oficinas e atividades para ensinar a distinguir factos de opiniões e reconhecer notícias falsas. Alunos vão vestir a pele de juízes e jornalistas numa simulação de julgamento, e há conversas sobre algoritmos e manipulação de conteúdos nas redes sociais."
+        },
+        {
+          "headline": "Pai Natal gigante já chegou a Águeda",
+          "text": "Um Pai Natal gigante já chegou a Águeda, marcando o início das festividades natalícias na cidade, com muitas outras atrações para descobrir."
+        },
+        {
+          "headline": "Árvore de Natal de 14 metros ilumina festa em grande",
+          "text": "Uma cidade da região centro prepara uma festa de Natal em grande, com uma árvore de 14 metros que promete iluminar as festividades."
+        },
+        {
+          "headline": "Natal em Seia: carrossel, Pai Natal e patinagem no gelo",
+          "text": "Este Natal, Seia oferece carrossel, visita ao Pai Natal e patinagem no gelo, num programa festivo para toda a família."
+        }
+      ]
+    }
+  ]
+}
