@@ -33444,5 +33444,95 @@
       "pt": "a pilha",
       "de": "der Stapel, die Batterie"
     }
+  ],
+  "2026-11-24": [
+    {
+      "pt": "suprimir",
+      "de": "streichen",
+      "en": "to cancel/suppress",
+      "example": "3 das 5 ligações foram suprimidas",
+      "example_de": "3 der 5 Verbindungen wurden gestrichen",
+      "example_en": "3 of the 5 connections were cancelled"
+    },
+    {
+      "pt": "aniquilar",
+      "de": "vernichten",
+      "en": "to annihilate",
+      "example": "Ameaçou aniquilar o professor",
+      "example_de": "Er drohte, den Professor zu vernichten",
+      "example_en": "He threatened to annihilate the teacher"
+    },
+    {
+      "pt": "de propósito",
+      "de": "absichtlich",
+      "en": "on purpose",
+      "example": "Clientes viajam de propósito até Miranda do Corvo",
+      "example_de": "Kunden reisen absichtlich bis Miranda do Corvo",
+      "example_en": "Clients travel to Miranda do Corvo on purpose"
+    },
+    {
+      "pt": "natalício",
+      "de": "weihnachtlich",
+      "en": "Christmas-related",
+      "example": "Coimbra entra no espírito natalício",
+      "example_de": "Coimbra kommt in weihnachtliche Stimmung",
+      "example_en": "Coimbra gets into the Christmas spirit"
+    },
+    {
+      "pt": "a antecipação",
+      "de": "die Vorfreude",
+      "en": "the anticipation",
+      "example": "Numa antecipação da inauguração oficial",
+      "example_de": "In Vorfreude auf die offizielle Eröffnung",
+      "example_en": "In anticipation of the official opening"
+    },
+    {
+      "pt": "o autoemprego",
+      "de": "die Selbstständigkeit",
+      "en": "self-employment",
+      "example": "Apoios ao autoemprego e ao empreendedorismo",
+      "example_de": "Unterstützung für Selbstständigkeit und Unternehmertum",
+      "example_en": "Support for self-employment and entrepreneurship"
+    },
+    {
+      "pt": "a investigadora",
+      "de": "die Forscherin",
+      "en": "the researcher (f)",
+      "example": "Envolvendo instituições e investigadores",
+      "example_de": "Einbeziehung von Institutionen und Forschern",
+      "example_en": "Involving institutions and researchers"
+    },
+    {
+      "pt": "o ponto de situação",
+      "de": "der Lagebericht",
+      "en": "the situation update",
+      "example": "Num ponto de situação feito pela CP",
+      "example_de": "In einem Lagebericht der CP",
+      "example_en": "In a situation update from CP"
+    },
+    {
+      "pt": "o respetivamente",
+      "de": "jeweils",
+      "en": "respectively",
+      "example": "Às 21h00 e às 16h00, respetivamente",
+      "example_de": "Um 21 Uhr und 16 Uhr, jeweils",
+      "example_en": "At 9 PM and 4 PM, respectively"
+    },
+    {
+      "pt": "a parabéns",
+      "de": "die Glückwünsche",
+      "en": "the congratulations",
+      "example": "O clube dá os parabéns ao treinador",
+      "example_de": "Der Club gratuliert dem Trainer",
+      "example_en": "The club congratulates the coach"
+    },
+    {
+      "pt": "a tabacaria",
+      "de": "der Tabakladen",
+      "en": "the tobacco shop",
+      "example": "A tabacaria foi o principal alvo",
+      "example_de": "Der Tabakladen war das Hauptziel",
+      "example_en": "The tobacco shop was the main target"
+    }
   ]
 }
