@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-24",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚆",
+      "category": "TRANSPORTES",
+      "stories": [
+        {
+          "headline": "Comboios parados em Coimbra: 3 das 5 ligações suprimidas",
+          "text": "Mais de metade dos comboios previstos entre as 00:00 e as 07:00 não circularam por causa da greve dos maquinistas. De 145 comboios previstos, circularam apenas 59, com 86 suprimidos (59,3%)."
+        },
+        {
+          "headline": "Lei obriga a financiar sistema integrado de bilhetes nos transportes",
+          "text": "O Governo terá de garantir financiamento em 2027 para a integração dos sistemas de bilhetes dos transportes públicos através da plataforma 1bilhete.pt. A proposta do Chega foi aprovada no parlamento durante a votação do Orçamento do Estado."
+        }
+      ]
+    },
+    {
+      "emoji": "🚒",
+      "category": "INCÊNDIOS & ACIDENTES",
+      "stories": [
+        {
+          "headline": "Acidente na madrugada deixa carro destruído e jovem ferido",
+          "text": "Um homem de 21 anos ficou ferido num acidente registado pelas 3:47 da madrugada na Rua Afonso Romão, em Coimbra. A vítima seguia sozinha na viatura e foi inicialmente considerada ligeira, com possibilidade de agravamento."
+        },
+        {
+          "headline": "Incêndio destrói casa e deixa 12 pessoas desalojadas em Castelo Branco",
+          "text": "Doze pessoas, incluindo oito menores, ficaram desalojadas após um incêndio numa habitação em Vale da Torre. O alerta foi dado pelas 21:16 e o fogo destruiu por completo a habitação."
+        },
+        {
+          "headline": "Chamas destroem camião na A1 na zona de Anadia",
+          "text": "Um camião foi destruído por um incêndio na autoestrada A1, na zona de Anadia. Os detalhes sobre a causa do fogo e eventuais vítimas não foram divulgados."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Ex-aluno que levou caçadeira à faculdade exige 500 mil euros",
+          "text": "O antigo estudante que em 2014 provocou pânico no Departamento de Engenharia Civil da UC ao aparecer com uma caçadeira está novamente em tribunal. Agora é acusado de ameaçar 'destruir e aniquilar' um professor e tentar extorquir meio milhão de euros à instituição."
+        },
+        {
+          "headline": "Portugal regista 23.634 denúncias de violência doméstica em 9 meses",
+          "text": "As autoridades portuguesas receberam 23.634 participações por violência doméstica entre janeiro e setembro de 2026. Os dados da CIG revelam a dimensão persistente do problema e uma subida significativa das denúncias."
+        },
+        {
+          "headline": "Pais das crianças encontradas sozinhas na estrada acusados de violência doméstica",
+          "text": "Os pais das crianças que foram encontradas sozinhas na estrada foram acusados de violência doméstica. O caso teve grande repercussão na região."
+        },
+        {
+          "headline": "Supermercado assaltado em Seia - tabacaria foi o principal alvo",
+          "text": "Um supermercado Muito Menos foi assaltado durante a noite em Seia, mas a tabacaria foi o principal alvo dos assaltantes."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & CULTURA",
+      "stories": [
+        {
+          "headline": "Coimbra liga as luzes de Natal já esta sexta-feira",
+          "text": "As iluminações de Natal estão a ser testadas em Coimbra, em antecipação da inauguração oficial marcada para sexta-feira, 27 de novembro, ao final da tarde. O município partilhou imagens dos testes nas redes sociais."
+        },
+        {
+          "headline": "Aldeia do Rodolfo em Anadia: neve, gelo e pista de patinagem",
+          "text": "A partir de 27 de novembro, o centro de Anadia transforma-se na 'Aldeia do Rodolfo' com pista de gelo, neve artificial, mercadinho, carrossel e comboio turístico. O Pai Natal chega a 28 de novembro e a animação prolonga-se até 3 de janeiro."
+        },
+        {
+          "headline": "Festival C8: Coimbra prepara semana dedicada à ciência e cultura",
+          "text": "O Festival C8 - Geração Ciência realiza-se de 9 a 16 de dezembro em Coimbra, com oito pilares: Coimbra, Ciência, Cultura, Cidadania, Circular, Cosmos, Criatividade e Cuidar. O programa oficial é apresentado a 25 de novembro no UC Exploratório."
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "category": "GASTRONOMIA & NEGÓCIOS",
+      "stories": [
+        {
+          "headline": "Festival 'Sabores da Terra' em Penacova: cabrito, chanfana e arroz de míscaros",
+          "text": "Catorze restaurantes de Penacova participam até final de dezembro no festival gastronómico que destaca cabrito, chanfana, serrabulho e arroz de míscaros. A iniciativa pretende dinamizar a economia local e valorizar a gastronomia tradicional."
+        },
+        {
+          "headline": "6 irmãos argentinos abrem restaurante em Miranda do Corvo",
+          "text": "Uma família de seis irmãos argentinos cruzou o Atlântico e abriu o restaurante 'Toque Argentino' na Godinhela, Miranda do Corvo. Juntam pratos tradicionais argentinos com toques da cozinha portuguesa, e já há clientes que viajam de propósito até lá."
+        },
+        {
+          "headline": "Montemor-o-Velho promove sessão gratuita sobre apoios ao empreendedorismo",
+          "text": "A Biblioteca Municipal Afonso Duarte recebe no dia 25 de novembro uma sessão sobre 'Criação do Próprio Emprego: Apoios e Caminhos', destinada a quem quer criar o próprio negócio."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Carlos, encontrado morto em Aveiro, é sepultado esta quarta-feira",
+          "text": "O funeral de Carlos Filipe dos Santos, de 33 anos, encontrado morto no domingo em Aveiro, realiza-se quarta-feira em Sátão. Ele tinha saído do trabalho após uma chamada inesperada e nunca mais foi visto."
+        }
+      ]
+    }
+  ]
+}
