@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-25",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "❄️",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Primeira neve cai na Serra da Estrela",
+          "text": "A Serra da Estrela já está pintada de branco. A Torre acordou terça-feira com a primeira camada de neve deste outono, transformando a paisagem numa imagem de inverno. A descida das temperaturas, acompanhada por chuva intensa, trouxe as primeiras ocorrências de neve às zonas mais elevadas."
+        },
+        {
+          "headline": "Guarda e Castelo Branco sob aviso amarelo devido à queda de neve",
+          "text": "Os distritos da Guarda e Castelo Branco estão sob aviso amarelo devido à queda de neve. O Instituto Português do Mar e da Atmosfera mantém alerta para precipitação e descida de temperatura na região centro."
+        }
+      ]
+    },
+    {
+      "emoji": "🚧",
+      "category": "COIMBRA & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Obras do Metrobus vão alterar trânsito em Celas durante dois meses",
+          "text": "Nova fase dos trabalhos arranca na quinta-feira, 26 de novembro, no Largo da Cruz de Celas. Há ruas com circulação condicionada e percursos alternativos definidos. A intervenção decorre no âmbito dos trabalhos do troço entre a Praça da República e o Hospital."
+        },
+        {
+          "headline": "Incêndio provoca estragos avultados num anexo em Coimbra",
+          "text": "Um incêndio num anexo de uma habitação provocou vários danos materiais em Larçã, na freguesia de Souselas e Botão. As chamas causaram estragos significativos no interior e bastante fumo, mas o fogo ficou confinado ao anexo sem atingir a casa principal. Não houve desalojados nem feridos."
+        },
+        {
+          "headline": "Coimbra homenageia assistentes operacionais e mostra o lado invisível do seu trabalho",
+          "text": "A cidade de Coimbra prestou homenagem aos assistentes operacionais, revelando o lado invisível do trabalho diário destes profissionais que mantêm o funcionamento dos serviços públicos."
+        },
+        {
+          "headline": "Coimbra recebe apresentação de novo livro de José Fanha com música e poesia",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIME",
+      "stories": [
+        {
+          "headline": "Rixa entre familiares faz vários feridos em Coimbra",
+          "text": "Uma rixa entre vários elementos de uma família de etnia cigana fez vários feridos na manhã de terça-feira no Bairro do Brinca, em Coimbra. Durante os confrontos houve esfaqueamento e um dos envolvidos foi transportado para os Hospitais da Universidade de Coimbra em estado grave."
+        },
+        {
+          "headline": "Fazia-se passar por advogada, enganou idosos e arrecadou mais de 300 mil euros",
+          "text": "A Polícia Judiciária deteve uma mulher de 55 anos por crimes de burla qualificada em Vila Nova de Gaia. Apesar de ter a inscrição na Ordem dos Advogados suspensa, promoveu serviços de advocacia junto de vítimas idosas em acentuada fragilidade, que nunca prestou. Três vítimas identificadas, não estando afastada a existência de mais."
+        },
+        {
+          "headline": "Ex-estudante da Universidade de Coimbra contesta acusação de extorsão",
+          "text": "Um antigo estudante da UC contesta a acusação de extorsão, alegando que pediu meio milhão de euros para recuperar dinheiro dos pais."
+        },
+        {
+          "headline": "Bar da Figueira da Foz assaltado durante a madrugada",
+          "text": ""
+        },
+        {
+          "headline": "20 mulheres assassinadas em Portugal este ano. Há ainda 38 tentativas de femicídio",
+          "text": "Vinte mulheres foram vítimas de femicídio em Portugal entre janeiro e 15 de novembro, segundo dados do Observatório de Mulheres Assassinadas (OMA/UMAR). No mesmo período foram registadas 38 tentativas de femicídio."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA & PAÍS",
+      "stories": [
+        {
+          "headline": "25 de Novembro divide o Parlamento: Seguro discursa e PCP volta a faltar",
+          "text": "A sessão parlamentar de 25 de Novembro dividiu os partidos. António José Seguro discursou enquanto o PCP voltou a faltar à sessão, mantendo a tensão política."
+        },
+        {
+          "headline": "Vão ter de abandonar as casas até 2027. Moradores revoltados com a alta velocidade",
+          "text": "Os moradores de Campanhã afetados pela construção da linha de alta velocidade no Porto terão de sair de casa no primeiro semestre de 2027, segundo o consórcio AVAN. Há um acordo de princípio com a Câmara do Porto para realojamentos em Noêda. A sessão de esclarecimento durou mais de três horas e esteve lotada."
+        },
+        {
+          "headline": "Fuga inesperada no Zoo: há um macaco à solta e a GNR já foi alertada",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & LAZER",
+      "stories": [
+        {
+          "headline": "O Pai Natal já tem estação em Coimbra. Há jogos, desafios e presentes no Forum",
+          "text": "Até 3 de janeiro, o Forum Coimbra transforma-se no 'Xmas Express', um comboio com carruagens temáticas onde as crianças podem jogar, criar e conhecer o Pai Natal. O bilhete é digital e gratuito na App Club Forum. Cada visita inclui uma missão com desafios e um presente final."
+        },
+        {
+          "headline": "Há uma praça em Coimbra que vai ganhar vida com doces, artesanato e magia do Natal",
+          "text": ""
+        },
+        {
+          "headline": "Foz Côa aposta em atividades natalícias para dinamizar o comércio local",
+          "text": ""
+        },
+        {
+          "headline": "Pista de gelo, roda gigante e Pai Natal: Pinhel prepara-se para receber o Natal",
+          "text": ""
+        },
+        {
+          "headline": "Do Porto para Coimbra: 2 amigos trouxeram uma tentação onde cada cliente cria a sua sobremesa",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "Vai comprar um carro híbrido? A União Europeia prepara novas restrições já em dezembro",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
