@@ -33534,5 +33534,103 @@
       "example_de": "Der Tabakladen war das Hauptziel",
       "example_en": "The tobacco shop was the main target"
     }
+  ],
+  "2026-11-25": [
+    {
+      "pt": "o anexo",
+      "de": "der Anbau",
+      "en": "the annex/extension",
+      "example": "O fogo ficou confinado ao anexo",
+      "example_de": "Das Feuer blieb auf den Anbau beschränkt",
+      "example_en": "The fire was confined to the annex"
+    },
+    {
+      "pt": "confinar",
+      "de": "beschränken",
+      "en": "to confine",
+      "example": "O fogo ficou confinado a esse espaço",
+      "example_de": "Das Feuer blieb auf diesen Raum beschränkt",
+      "example_en": "The fire was confined to that space"
+    },
+    {
+      "pt": "a expropriação",
+      "de": "die Enteignung",
+      "en": "the expropriation",
+      "example": "As expropriações para a alta velocidade",
+      "example_de": "Die Enteignungen für die Hochgeschwindigkeitsstrecke",
+      "example_en": "The expropriations for the high-speed rail"
+    },
+    {
+      "pt": "burla qualificada",
+      "de": "qualifizierter Betrug",
+      "en": "aggravated fraud",
+      "example": "Foi detida por crimes de burla qualificada",
+      "example_de": "Sie wurde wegen qualifizierten Betrugs festgenommen",
+      "example_en": "She was detained for aggravated fraud crimes"
+    },
+    {
+      "pt": "a queda de neve",
+      "de": "der Schneefall",
+      "en": "the snowfall",
+      "example": "Sob aviso amarelo devido à queda de neve",
+      "example_de": "Unter gelber Warnung wegen Schneefall",
+      "example_en": "Under yellow warning due to snowfall"
+    },
+    {
+      "pt": "o consórcio",
+      "de": "das Konsortium",
+      "en": "the consortium",
+      "example": "O consórcio AVAN está a construir a linha",
+      "example_de": "Das Konsortium AVAN baut die Strecke",
+      "example_en": "The AVAN consortium is building the line"
+    },
+    {
+      "pt": "o caixão",
+      "de": "der Sarg",
+      "en": "the coffin",
+      "example": "Um homem desapareceu do próprio caixão",
+      "example_de": "Ein Mann verschwand aus seinem eigenen Sarg",
+      "example_en": "A man disappeared from his own coffin"
+    },
+    {
+      "pt": "a carruagem",
+      "de": "der Waggon",
+      "en": "the carriage",
+      "example": "Um comboio com carruagens temáticas",
+      "example_de": "Ein Zug mit thematischen Waggons",
+      "example_en": "A train with themed carriages"
+    },
+    {
+      "pt": "a antecedência",
+      "de": "die Vorstrafen",
+      "en": "prior convictions",
+      "example": "Com antecedentes pela prática de crimes",
+      "example_de": "Mit Vorstrafen für die Begehung von Verbrechen",
+      "example_en": "With prior convictions for committing crimes"
+    },
+    {
+      "pt": "a paisagem",
+      "de": "die Landschaft",
+      "en": "the landscape",
+      "example": "Transformando a paisagem numa imagem de inverno",
+      "example_de": "Die Landschaft in ein Winterbild verwandelnd",
+      "example_en": "Transforming the landscape into a winter scene"
+    },
+    {
+      "pt": "a pista de gelo",
+      "de": "die Eislaufbahn",
+      "en": "the ice rink",
+      "example": "Há uma nova pista de gelo no Bairro Natal",
+      "example_de": "Es gibt eine neue Eislaufbahn im Weihnachtsviertel",
+      "example_en": "There's a new ice rink in the Christmas neighborhood"
+    },
+    {
+      "pt": "a montanha-russa",
+      "de": "die Achterbahn",
+      "en": "the roller coaster",
+      "example": "Uma montanha-russa e uma rampa de boias",
+      "example_de": "Eine Achterbahn und eine Reifenrutsche",
+      "example_en": "A roller coaster and a tube ramp"
+    }
   ]
 }
