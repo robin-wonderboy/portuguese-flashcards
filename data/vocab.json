@@ -33632,5 +33632,63 @@
       "example_de": "Eine Achterbahn und eine Reifenrutsche",
       "example_en": "A roller coaster and a tube ramp"
     }
+  ],
+  "2026-11-26": [
+    {
+      "pt": "a plataforma elevatória",
+      "de": "die Hubarbeitsbühne",
+      "en": "the aerial platform",
+      "example": "A plataforma elevatória caiu na rua.",
+      "example_de": "Die Hubarbeitsbühne stürzte auf der Straße ab.",
+      "example_en": "The aerial platform fell onto the street."
+    },
+    {
+      "pt": "a arborização",
+      "de": "die Bepflanzung mit Bäumen",
+      "en": "tree planting",
+      "example": "A insuficiente arborização foi uma das principais necessidades.",
+      "example_de": "Die unzureichende Bepflanzung war ein Hauptbedarf.",
+      "example_en": "Insufficient tree coverage was one of the main needs."
+    },
+    {
+      "pt": "acorrentado",
+      "de": "angekettet",
+      "en": "chained up",
+      "example": "Os cães foram encontrados acorrentados no fundo do poço.",
+      "example_de": "Die Hunde wurden angekettet am Brunnenboden gefunden.",
+      "example_en": "The dogs were found chained at the bottom of the well."
+    },
+    {
+      "pt": "a esquina",
+      "de": "die Straßenecke",
+      "en": "the corner",
+      "example": "A magia em cada esquina.",
+      "example_de": "Der Zauber an jeder Straßenecke.",
+      "example_en": "Magic on every corner."
+    },
+    {
+      "pt": "desfrutar",
+      "de": "genießen",
+      "en": "to enjoy/savour",
+      "example": "Saibam desfrutar desta época em família.",
+      "example_de": "Genießt diese Zeit mit der Familie.",
+      "example_en": "Enjoy this season with your family."
+    },
+    {
+      "pt": "o madeiro",
+      "de": "der Holzstoß/Scheiterhaufen",
+      "en": "the bonfire stack",
+      "example": "O maior madeiro de Portugal vai ser aceso hoje.",
+      "example_de": "Der größte Holzstoß Portugals wird heute entzündet.",
+      "example_en": "Portugal's biggest bonfire will be lit today."
+    },
+    {
+      "pt": "a véspera",
+      "de": "der Vorabend",
+      "en": "the eve",
+      "example": "O jogo é a 16 de dezembro, véspera de FC Porto.",
+      "example_de": "Das Spiel ist am 16. Dezember, am Vorabend des FC Porto.",
+      "example_en": "The match is on December 16, on the eve of the FC Porto game."
+    }
   ]
 }
