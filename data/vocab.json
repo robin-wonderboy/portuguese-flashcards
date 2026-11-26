@@ -33737,6 +33737,22 @@
       "example": "A data ficou marcada para 16 de dezembro.",
       "example_de": "Der Termin wurde für den 16. Dezember festgelegt.",
       "example_en": "The date was set for December 16."
+    },
+    {
+      "pt": "a secura",
+      "de": "die Trockenheit",
+      "en": "the dryness",
+      "example": "A secura é um sintoma frequente no inverno.",
+      "example_de": "Trockenheit ist ein häufiges Symptom im Winter.",
+      "example_en": "Dryness is a common symptom in winter."
+    },
+    {
+      "pt": "candidatar-se",
+      "de": "sich bewerben/kandidieren",
+      "en": "to run for office",
+      "example": "Caseiro recandidata-se ao Conselho Geral.",
+      "example_de": "Caseiro kandidiert erneut für den Generalrat.",
+      "example_en": "Caseiro is running again for the General Council."
     }
   ]
 }
