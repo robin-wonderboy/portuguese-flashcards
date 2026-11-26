@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-26",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🛣️",
+      "category": "TRANSPORTES & SEGURANÇA",
+      "stories": [
+        {
+          "headline": "Colisão entre camiões na A1",
+          "text": "Na noite de quarta-feira, 25 de novembro, pelo menos dois camiões colidiram na A1, na zona de Oiã, concelho de Oliveira do Bairro. O alerta foi dado às 20:03, no sentido Lisboa-Porto, e o acidente provocou constrangimentos no trânsito."
+        },
+        {
+          "headline": "Camião abalroa grua e atira dois trabalhadores ao chão",
+          "text": "Uma plataforma elevatória usada na montagem das luzes de Natal caiu na rua Associação Comercial, depois de a grua ter sido abalroada por um veículo pesado. Dois trabalhadores estavam na plataforma no momento do acidente."
+        },
+        {
+          "headline": "Colisão violenta destrói viatura dos Bombeiros. Há dois feridos",
+          "text": "Um acidente violento destruiu uma viatura dos bombeiros e provocou dois feridos. As causas ainda estão a ser apuradas."
+        },
+        {
+          "headline": "Avaria na autoestrada? Saiba o que fazer",
+          "text": "Uma avaria na autoestrada pode acontecer a qualquer automobilista e surge muitas vezes no pior momento. Manter a calma é fundamental, mas há erros que nunca deve cometer."
+        },
+        {
+          "headline": "Vai comprar um carro híbrido? A UE prepara novas restrições",
+          "text": "A União Europeia prepara novas restrições aos híbridos já em dezembro. No mercado, há já SUVs elétricos ao preço de um híbrido e a XPeng chega a Coimbra com 520 km de autonomia."
+        }
+      ]
+    },
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Condutor apanhado com 4,36 g/l de álcool",
+          "text": "Festejou a vitória do clube com cervejas e, ao voltar para casa, um buraco 'tramou-o': foi apanhado pela GNR com 4,36 g/l de álcool no sangue, muito acima de qualquer limite legal."
+        },
+        {
+          "headline": "Prometeram-lhe estudos, acabou fechada em casa a trabalhar por comida",
+          "text": "A Polícia Judiciária deteve dois cidadãos brasileiros em Setúbal, suspeitos de explorar uma jovem moçambicana mantida em confinamento quase total. A operação foi conduzida pela Unidade Nacional de Contraterrorismo e está ligada ao crime de tráfico de seres humanos."
+        },
+        {
+          "headline": "Condenado em Portugal por ataque sexual é detido na Galiza",
+          "text": "Um homem condenado em Portugal por atacar sexualmente um familiar foi localizado e detido em Espanha, na Galiza, depois de estar em fuga."
+        },
+        {
+          "headline": "Montenegro manifesta 'confiança total' no Governo",
+          "text": "O primeiro-ministro manifestou 'confiança total' em todos os membros do Governo e elogiou a atuação do MAI e da PSP no caso que marcou a semana política."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "COIMBRA & REGIÃO",
+      "stories": [
+        {
+          "headline": "Coimbra vai plantar 400 árvores na Quinta da Maia",
+          "text": "A Câmara Municipal quer envolver moradores e utilizadores do jardim na plantação de 400 árvores. A iniciativa responde a uma necessidade identificada num inquérito à comunidade: o reforço da arborização. As inscrições decorrem até 26 de novembro."
+        },
+        {
+          "headline": "Farmacêutica expande instalações no Coimbra iParque",
+          "text": "A empresa portuguesa Phagecon vai avançar com a expansão das suas instalações no Coimbra iParque. O espaço tem cerca de 3.400 metros quadrados, destinados a serviços e atividade industrial, e a escritura de compra e venda já foi celebrada."
+        },
+        {
+          "headline": "Nova unidade de saúde em Oiã serve 12 mil utentes",
+          "text": "A nova Unidade de Saúde Familiar de Oiã, em Oliveira do Bairro, vai ser inaugurada no próximo dia 2 pela ministra da Saúde. Representa um investimento de cerca de dois milhões de euros, financiado pelo PRR."
+        },
+        {
+          "headline": "Rendas em Coimbra continuam a subir apesar da queda na procura",
+          "text": "A procura por casas para arrendar em Coimbra caiu 29% face ao ano passado, mas as rendas continuam a subir. A procura segue muito acima da oferta disponível e cada novo anúncio concentra dezenas de interessados."
+        },
+        {
+          "headline": "Caseiro recandidata-se ao Conselho Geral da UC",
+          "text": "João Pedro Caseiro anunciou a recandidatura à presidência do Conselho Geral da Universidade de Coimbra, num momento de intenso debate sobre a governação da universidade."
+        },
+        {
+          "headline": "Fundação vai recuperar fontanários históricos da Mata do Buçaco",
+          "text": "Uma fundação vai recuperar os fontanários históricos da Mata Nacional do Buçaco, preservando um património ligado à água e à paisagem da serra."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & COMUNIDADE",
+      "stories": [
+        {
+          "headline": "Mealhada prepara Natal com espetáculos, neve artificial e 3 mil euros em prémios",
+          "text": "'O Natal anda na rua' é o mote da campanha de 2026, sob o lema 'A magia em cada esquina'. Há espetáculos, iluminação espalhada pelo concelho, neve artificial e 3 mil euros em prémios. 'Queremos que as pessoas saiam à rua e desfrutem desta época em família', diz o presidente da Câmara."
+        },
+        {
+          "headline": "Leiria dá prémios a quem fizer compras no comércio tradicional",
+          "text": "Entre 27 de novembro e 31 de dezembro, os clientes dos estabelecimentos aderentes podem habilitar-se a um dos 25 prémios, entre 250 e 1.000 euros."
+        },
+        {
+          "headline": "Motos saem à estrada em Vila de Rei para celebrar o Natal",
+          "text": "Um passeio motard com concentração na Associação do Aivado vai percorrer o concelho de Vila de Rei. O evento junta amantes das duas rodas de várias idades, com convívio gastronómico e animação."
+        },
+        {
+          "headline": "Bacalhau, azeite e broa à mesa em nove restaurantes de Porto de Mós",
+          "text": "Nove restaurantes de Porto de Mós celebram o bacalhau com azeite e broa, numa proposta que valoriza os produtos da região. E prepare a carteira: o preço do bacalhau para o Natal está mais alto este ano."
+        },
+        {
+          "headline": "Motos, madeiro e Natal: a festa dura até de madrugada",
+          "text": "O maior madeiro de Portugal está prestes a acender e a festa dura até de madrugada, reunindo milhares em redor da fogueira."
+        },
+        {
+          "headline": "Coimbra: 'Canção sem medo' contra a violência sobre as mulheres",
+          "text": "No Dia Internacional para a Eliminação da Violência contra as Mulheres, a cantora Rita Dias interpretou em Coimbra a 'Canção sem medo', uma adaptação portuguesa que assinalou a data."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica já tem data para tentar os quartos de final",
+          "text": "A Académica vai jogar os oitavos de final da Taça de Portugal em 16 de dezembro, em casa. A equipa quer chegar aos quartos de final da prova."
+        },
+        {
+          "headline": "Covilhã prepara centro de alto rendimento na Serra da Estrela",
+          "text": "A Câmara da Covilhã está a trabalhar na criação de um centro de alto rendimento na Serra da Estrela. Muitos atletas, sobretudo do ciclismo e do atletismo, vão fazer estágios na região."
+        },
+        {
+          "headline": "Porsche Club Portugal visita a Rota dos Vinhos do Dão",
+          "text": "O Porsche Club Portugal percorreu a Rota dos Vinhos do Dão, numa visita que junta automóveis clássicos e desportivos ao enoturismo da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🐕",
+      "category": "OUTRAS NOTÍCIAS",
+      "stories": [
+        {
+          "headline": "Dois cães encontrados acorrentados no fundo de um poço de 10 metros",
+          "text": "Os Bombeiros Voluntários de Sabrosa resgataram dois cães que estavam no fundo de um poço com cerca de 10 metros de profundidade, em Fermentões. O alerta partiu de uma associação de proteção animal."
+        },
+        {
+          "headline": "45% dos consumidores já trocaram motores de pesquisa por IA",
+          "text": "Quase metade dos consumidores já usa ferramentas de inteligência artificial em vez dos motores de pesquisa tradicionais, segundo um novo estudo."
+        },
+        {
+          "headline": "Homem vai parar ao hospital após colisão em Condeixa",
+          "text": "Um homem ficou ferido e foi transportado ao hospital na sequência de uma colisão em Condeixa."
+        },
+        {
+          "headline": "Ardor, secura e comichão: os sintomas íntimos que muitas mulheres escondem",
+          "text": "Ardor, secura e comichão são sintomas comuns que muitas mulheres escondem por vergonha. Os especialistas alertam para a importância de falar sobre eles."
+        },
+        {
+          "headline": "Juan Domingues e a 'aproximação quase obsessiva' à figura humana",
+          "text": "Em Cantanhede, a exposição de Juan Domingues explora uma aproximação quase obsessiva à figura humana, num trabalho que cruza desenho e pintura."
+        }
+      ]
+    }
+  ]
+}
