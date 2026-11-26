@@ -33761,6 +33761,14 @@
       "example": "O poço tinha 10 metros de profundidade.",
       "example_de": "Der Brunnen war 10 Meter tief.",
       "example_en": "The well was 10 metres deep."
+    },
+    {
+      "pt": "habilitar-se",
+      "de": "sich qualifizieren",
+      "en": "to enter (a draw)",
+      "example": "Os clientes poderão habilitar-se a 25 prémios.",
+      "example_de": "Kunden können sich für 25 Preise qualifizieren.",
+      "example_en": "Customers can enter to win 25 prizes."
     }
   ]
 }
