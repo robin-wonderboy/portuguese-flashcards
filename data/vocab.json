@@ -33753,6 +33753,14 @@
       "example": "Caseiro recandidata-se ao Conselho Geral.",
       "example_de": "Caseiro kandidiert erneut für den Generalrat.",
       "example_en": "Caseiro is running again for the General Council."
+    },
+    {
+      "pt": "a profundidade",
+      "de": "die Tiefe",
+      "en": "the depth",
+      "example": "O poço tinha 10 metros de profundidade.",
+      "example_de": "Der Brunnen war 10 Meter tief.",
+      "example_en": "The well was 10 metres deep."
     }
   ]
 }
