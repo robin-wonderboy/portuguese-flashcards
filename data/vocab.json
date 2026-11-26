@@ -33689,6 +33689,54 @@
       "example": "O jogo é a 16 de dezembro, véspera de FC Porto.",
       "example_de": "Das Spiel ist am 16. Dezember, am Vorabend des FC Porto.",
       "example_en": "The match is on December 16, on the eve of the FC Porto game."
+    },
+    {
+      "pt": "a camara municipal",
+      "de": "die Stadtverwaltung",
+      "en": "the city council",
+      "example": "A Câmara Municipal lançou a campanha.",
+      "example_de": "Die Stadtverwaltung startete die Kampagne.",
+      "example_en": "The city council launched the campaign."
+    },
+    {
+      "pt": "o fontanário",
+      "de": "der Brunnen (historisch)",
+      "en": "the stone fountain",
+      "example": "A fundação vai recuperar fontanários históricos.",
+      "example_de": "Die Stiftung wird historische Brunnen restaurieren.",
+      "example_en": "The foundation will restore historic fountains."
+    },
+    {
+      "pt": "encher",
+      "de": "füllen",
+      "en": "to fill",
+      "example": "Encha o cesto com produtos locais.",
+      "example_de": "Füllen Sie den Korb mit lokalen Produkten.",
+      "example_en": "Fill the basket with local products."
+    },
+    {
+      "pt": "a neve artificial",
+      "de": "der Kunstschnee",
+      "en": "the artificial snow",
+      "example": "Há neve artificial na Mealhada.",
+      "example_de": "In Mealhada gibt es Kunstschnee.",
+      "example_en": "There is artificial snow in Mealhada."
+    },
+    {
+      "pt": "a aposta",
+      "de": "der Einsatz/das Vorhaben",
+      "en": "the bet/priority",
+      "example": "A iluminação é uma das principais apostas.",
+      "example_de": "Die Beleuchtung ist eine der wichtigsten Prioritäten.",
+      "example_en": "Lighting is one of the main priorities."
+    },
+    {
+      "pt": "marcar",
+      "de": "prägen/buchen",
+      "en": "to mark/book",
+      "example": "A data ficou marcada para 16 de dezembro.",
+      "example_de": "Der Termin wurde für den 16. Dezember festgelegt.",
+      "example_en": "The date was set for December 16."
     }
   ]
 }
