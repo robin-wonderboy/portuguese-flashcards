@@ -33770,5 +33770,95 @@
       "example_de": "Kunden können sich für 25 Preise qualifizieren.",
       "example_en": "Customers can enter to win 25 prizes."
     }
+  ],
+  "2026-11-27": [
+    {
+      "pt": "a neve",
+      "de": "der Schnee",
+      "en": "the snow",
+      "example": "A serra acordou coberta de neve.",
+      "example_de": "Der Berg erwachte schneebedeckt.",
+      "example_en": "The mountain woke up covered in snow."
+    },
+    {
+      "pt": "o manto branco",
+      "de": "die weiße Decke",
+      "en": "the white blanket",
+      "example": "Um manto branco cobre a Covilhã.",
+      "example_de": "Eine weiße Decke bedeckt die Covilhã.",
+      "example_en": "A white blanket covers Covilhã."
+    },
+    {
+      "pt": "o algar",
+      "de": "die Felshöhle",
+      "en": "the rock cavity",
+      "example": "O cão estava preso dentro de um algar.",
+      "example_de": "Der Hund steckte in einer Felshöhle fest.",
+      "example_en": "The dog was stuck inside a rock cavity."
+    },
+    {
+      "pt": "a peixaria",
+      "de": "die Fischabteilung",
+      "en": "the fish counter",
+      "example": "Na peixaria há atendimento personalizado.",
+      "example_de": "In der Fischabteilung gibt es persönliche Bedienung.",
+      "example_en": "The fish counter offers personal service."
+    },
+    {
+      "pt": "acabado de",
+      "de": "frisch (gerade)",
+      "en": "just (finished)",
+      "example": "Pão quente acabado de cozer ao longo do dia.",
+      "example_de": "Warmes Brot, gerade gebacken.",
+      "example_en": "Hot bread, just baked."
+    },
+    {
+      "pt": "as portas",
+      "de": "die Türen (offene Tür)",
+      "en": "the doors (open day)",
+      "example": "A Agrária de Coimbra abre portas aos alunos.",
+      "example_de": "Die Agrária Coimbra öffnet ihre Türen für Schüler.",
+      "example_en": "Coimbra's agricultural school opens its doors to pupils."
+    },
+    {
+      "pt": "o aluno",
+      "de": "der Schüler",
+      "en": "the pupil",
+      "example": "Os alunos do secundário podem visitar a escola.",
+      "example_de": "Schüler können die Schule besuchen.",
+      "example_en": "Secondary pupils can visit the school."
+    },
+    {
+      "pt": "a vitimização",
+      "de": "die Viktimisierung",
+      "en": "victimisation",
+      "example": "A vitimização entre pares caiu 44,9%.",
+      "example_de": "Die Viktimisierung unter Gleichaltrigen sank um 44,9%.",
+      "example_en": "Peer victimisation fell by 44.9%."
+    },
+    {
+      "pt": "a desmontagem",
+      "de": "der Abbau",
+      "en": "the dismantling",
+      "example": "A desmontagem será tranquila e segura.",
+      "example_de": "Der Abbau wird ruhig und sicher sein.",
+      "example_en": "The dismantling will be calm and safe."
+    },
+    {
+      "pt": "o peixeiro",
+      "de": "der Fischverkäufer",
+      "en": "the fishmonger",
+      "example": "O peixeiro atende com cuidado.",
+      "example_de": "Der Fischverkäufer bedient sorgfältig.",
+      "example_en": "The fishmonger serves carefully."
+    },
+    {
+      "pt": "confeitado",
+      "de": "zubereitet",
+      "en": "prepared",
+      "example": "Pratos confecionados de forma tradicional.",
+      "example_de": "Traditionell zubereitete Gerichte.",
+      "example_en": "Dishes prepared the traditional way."
+    }
   ]
 }
