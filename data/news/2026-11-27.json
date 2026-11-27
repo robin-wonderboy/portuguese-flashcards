@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-27",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🚔",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Avó mata neta de 4 anos à facada por ciúmes",
+          "text": "Uma avó deu um relato arrepiante do crime que vitimou a neta de 4 anos. Segundo o relato, o ataque terá sido motivado por ciúmes da relação da mulher com a própria filha. O caso está a chocar o país."
+        },
+        {
+          "headline": "Jovem de 18 anos fica em prisão domiciliária após rixa à facada em Coimbra",
+          "text": "O jovem de 18 anos que tentou matar um homem e um menino de 14 anos à facada numa rixa em Coimbra vai aguardar julgamento em prisão domiciliária. A rixa ocorreu na via pública e deixou duas vítimas com ferimentos graves."
+        },
+        {
+          "headline": "PJ apreende arsenal na operação Magnum",
+          "text": "A Polícia Judiciária deteve sete suspeitos indiciados por tráfico de armas, nas localidades de Barcelos, Fafe, Guimarães, Braga, Porto e outras. A operação levou à apreensão de um arsenal comprado e revendido ilegalmente por um feirante."
+        },
+        {
+          "headline": "Mikhail desaparecido: PJ admite homicídio",
+          "text": "O homem foi a um encontro e nunca mais voltou. A Polícia Judiciária já admite que Mikhail poderá ter sido assassinado e continua a investigar o caso."
+        }
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "category": "REGIÃO CENTRO",
+      "stories": [
+        {
+          "headline": "Bombeiros resgatam cão preso num algar na Serra de Sicó",
+          "text": "Os Bombeiros Voluntários de Pombal resgataram um cão que estava preso no interior de um algar, na Serra de Sicó. O animal estava desaparecido e foi localizado pelo próprio dono numa cavidade de difícil acesso. A operação terminou com sucesso e o cão foi retirado com vida."
+        },
+        {
+          "headline": "Mega Nevão abre a magia do Natal na Covilhã",
+          "text": "A Covilhã dá as boas-vindas a dezembro com uma tarde dedicada à tradição natalícia, no dia 1 de dezembro, a partir das 15h30, na Praça do Município. O programa inclui a chegada do Pai Natal, a partilha do Mega Bolo Nevão e o acender das luzes de Natal."
+        },
+        {
+          "headline": "Doze municípios unidos contra o bullying",
+          "text": "Um projeto de prevenção do bullying e do cyberbullying envolveu 711 alunos do 2.º ciclo em 12 municípios da Região Metropolitana de Coimbra. A iniciativa «Redes Juvenis» reduziu em 44,9% a pontuação média de vitimização entre pares, superando a meta de 40%."
+        },
+        {
+          "headline": "GNR apanha descarga ilegal de águas residuais em Alcobaça",
+          "text": "O SEPNA de Caldas da Rainha detetou uma descarga ilegal de águas residuais de uma exploração de suinicultura para um terreno florestal, em Moleanos. A situação foi identificada na sequência de uma denúncia e está a ser investigada."
+        },
+        {
+          "headline": "Geopark Naturtejo celebra 20 anos com cinco dias de festa",
+          "text": "Há 480 milhões de anos, Penha Garcia estava debaixo de água. A aldeia vai agora ser o centro das comemorações dos 20 anos do Geopark Naturtejo, com iniciativas entre 4 e 8 de dezembro, incluindo o circuito «No Regresso das Trilobites»."
+        }
+      ]
+    },
+    {
+      "emoji": "🍷",
+      "category": "GASTRONOMIA & VINHOS",
+      "stories": [
+        {
+          "headline": "Vinhos do Dão conquistam 11 medalhas em concurso nacional",
+          "text": "A região do Dão conquistou 11 distinções na 13.ª edição do Concurso de Vinhos do Crédito Agrícola, com 10 Medalhas de Ouro e uma Grande Medalha de Ouro. A distinção máxima foi para o Quinta do Cerrado Reserva DOC Dão Branco 2024."
+        },
+        {
+          "headline": "Espumante de Távora-Varosa com Medalha de Ouro",
+          "text": "Mais uma região do Centro a brilhar: o espumante de Távora-Varosa conquistou a Medalha de Ouro no concurso nacional."
+        },
+        {
+          "headline": "Bacalhau, azeite e broa à mesa em Porto de Mós",
+          "text": "Nove restaurantes de Porto de Mós vão servir menus à base de bacalhau, azeite e broa, numa iniciativa que valoriza os produtos da região."
+        }
+      ]
+    },
+    {
+      "emoji": "🛒",
+      "category": "ECONOMIA & COMÉRCIO",
+      "stories": [
+        {
+          "headline": "Pingo Doce abre nova loja em Coimbra com restaurante e esplanada",
+          "text": "O supermercado abriu portas na Rua Virgílio Correia, em Montes Claros, com 1.400 metros quadrados e 60 postos de trabalho. O restaurante Comida Fresca tem 102 lugares no interior e 64 na esplanada, com pratos confecionados de forma tradicional. Há ainda padaria com pão quente acabado de cozer ao longo do dia."
+        },
+        {
+          "headline": "Combustíveis voltam a baixar na segunda-feira",
+          "text": "Segundo as previsões do ACP, o gasóleo ficará cerca de 8,5 cêntimos mais barato por litro, com a descida mais expressiva da semana. Quem precisa de abastecer talvez seja melhor esperar por segunda-feira."
+        },
+        {
+          "headline": "Portugal deverá criar quase seis mil empregos até ao Natal",
+          "text": "A época natalícia deverá dar origem a quase seis mil postos de trabalho em Portugal, sobretudo no comércio e na restauração."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "MOBILIDADE",
+      "stories": [
+        {
+          "headline": "FlixBus reforça serviço e cria novas linhas",
+          "text": "A FlixBus reforçou a operação em Sete Rios, Lisboa, com mais 16 horários diários. A oferta diária sobe de 24 para 40 serviços, com novas ligações a Leiria, Torres Vedras e Évora."
+        },
+        {
+          "headline": "Condutora de 84 anos confunde travão com acelerador na Figueira da Foz",
+          "text": "A idosa caiu de uma altura de três metros com o carro, mas escapou ilesa. A confusão entre travão e acelerador esteve na origem do acidente."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Primeiro-ministro confiante de que Orçamento entra em vigor sem atrasos em 2027",
+          "text": "Luís Montenegro afirma esperar que o Presidente da República promulgue o próximo Orçamento do Estado. Manifestou-se convicto de que, mesmo com fiscalização preventiva, o país não entrará em duodécimos em 2027."
+        },
+        {
+          "headline": "Acampada de Lisboa retira tendas mas garante que a luta «não termina, transforma-se»",
+          "text": "O movimento pelo direito à habitação anunciou a retirada das tendas dos Restauradores e da Assembleia da República. A desmontagem será feita num tempo que assegure segurança a todas as pessoas que pernoitam nos dois espaços."
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "category": "EDUCAÇÃO & SAÚDE",
+      "stories": [
+        {
+          "headline": "Quatro em cada 10 estudantes de Medicina pensaram desistir do curso",
+          "text": "O stress está a pesar na vida dos futuros médicos: quase metade já pensou em abandonar o curso. As faculdades estão sob pressão para criar mais apoio psicológico."
+        },
+        {
+          "headline": "Agrária de Coimbra abre portas aos alunos do secundário",
+          "text": "A Escola Superior Agrária de Coimbra recebe alunos do secundário durante quatro dias de atividades, numa iniciativa de aproximação ao ensino superior."
+        },
+        {
+          "headline": "Idoso de 84 anos passou 13 dias no corredor do hospital",
+          "text": "A operação foi adiada quatro vezes e o homem esperou duas semanas num corredor, num caso que voltou a expor as fragilidades do Serviço Nacional de Saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & EVENTOS",
+      "stories": [
+        {
+          "headline": "Casa da Escrita recebe exposição sobre Eduardo Lourenço",
+          "text": "A exposição dedicada ao ensaísta é acompanhada por uma conversa com o poeta Luís Quintais, em Coimbra."
+        },
+        {
+          "headline": "Passeio poético com Capicua no Jardim Botânico",
+          "text": "O Jardim Botânico de Coimbra abre portas a um passeio poético conduzido pela rapper e escritora Capicua."
+        },
+        {
+          "headline": "Mercadinho de São Martinho na Mealhada",
+          "text": "Castanhas, fado e animação marcam o Mercadinho de São Martinho na Mealhada, uma celebração da tradição outonal."
+        }
+      ]
+    }
+  ]
+}
