@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-28",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏙️",
+      "category": "COIMBRA",
+      "stories": [
+        {
+          "headline": "Margem Esquerda vai mudar por completo",
+          "text": "A Câmara Municipal de Coimbra e a Universidade de Coimbra chegaram a um entendimento para transformar a Margem Esquerda do Mondego. O plano conjunto prevê um grande corredor verde, habitação, comércio, serviços, equipamentos desportivos e novas soluções de mobilidade. O acordo foi anunciado pela presidente da autarquia, Ana Abrunhosa."
+        },
+        {
+          "headline": "Procura por arrendamento cai 29%, mas rendas sobem",
+          "text": "Cada anúncio de arrendamento em Coimbra recebeu em média 18 contactos no terceiro trimestre de 2026, uma descida de 17% face ao ano anterior, segundo o idealista. Ainda assim, as rendas subiram 6,1%. O mercado continua sob forte pressão, com a procura muito acima da oferta disponível."
+        },
+        {
+          "headline": "Final do «Melhor Bolo-Rei de Portugal» é hoje em Coimbra",
+          "text": "A Escola de Hotelaria e Turismo de Coimbra recebe este sábado a grande final do XIII Concurso ACIP, que reúne produtos de 80 empresas de todo o país. Esta edição bateu recordes, com 308 produtos apresentados nas duas semifinais, em Lisboa e no Porto."
+        },
+        {
+          "headline": "Mercado de Natal no Alma Shopping",
+          "text": "O Alma Shopping recebe durante 10 dias um mercado de Natal com 18 artesãos e peças feitas à mão. Há velas artesanais, cerâmica, escultura, têxteis e produtos naturais da região derivados do mel."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & EVENTOS",
+      "stories": [
+        {
+          "headline": "Castelo Mágico de Montemor-o-Velho abre hoje",
+          "text": "A 9.ª edição do Castelo Mágico arranca este sábado e decorre até 23 de dezembro, com Pai Natal, insufláveis, um elevador mágico e muitas atrações. O evento atrai cada vez mais espanhóis e já integra um roteiro ibérico de iluminação natalícia. No ano passado contou com mais de 50 mil visitantes."
+        },
+        {
+          "headline": "Penela lança cinco iniciativas de Natal",
+          "text": "O município de Penela prepara cinco iniciativas para celebrar o Natal e envolver a comunidade ao longo do mês de dezembro."
+        },
+        {
+          "headline": "Já pode montar a árvore de Natal",
+          "text": "Chegou a data oficial para ir buscar os enfeites e montar a árvore de Natal em casa."
+        }
+      ]
+    },
+    {
+      "emoji": "🏥",
+      "category": "SAÚDE",
+      "stories": [
+        {
+          "headline": "Vírus respiratório mata quase um em cada cinco internados",
+          "text": "Quase um em cada cinco adultos hospitalizados com Vírus Sincicial Respiratório (VSR) morreu durante o internamento, segundo o estudo ROSA apresentado no Congresso de Pneumologia. A investigação analisou 153.709 internamentos entre 2018 e 2024 em quatro unidades locais de saúde, incluindo a ULS de Coimbra."
+        },
+        {
+          "headline": "Governo dá incentivos para fixar médicos em zonas carenciadas",
+          "text": "Um despacho publicado em Diário da República cria incentivos para quem se fixar em zonas periféricas ou de maior pressão demográfica. A medida quer reduzir as assimetrias entre regiões na atração de novos profissionais de saúde."
+        }
+      ]
+    },
+    {
+      "emoji": "🌧️",
+      "category": "TEMPO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Novembro é um dos meses mais chuvosos do século",
+          "text": "A precipitação até dia 24 corresponde a 180% do normal, segundo o IPMA. Novembro de 2026 entra já no top 4 dos mais chuvosos desde 2000, ao lado de 2006, 2014 e 2025."
+        },
+        {
+          "headline": "Vinhos do Dão conquistam 11 medalhas",
+          "text": "A região do Dão conseguiu 11 distinções no 13.º Concurso de Vinhos do Crédito Agrícola. A Grande Medalha de Ouro foi para o Quinta do Cerrado Reserva DOC Dão Branco 2024, da União Comercial da Beira."
+        },
+        {
+          "headline": "Albergaria-a-Velha aprova orçamento de 33 milhões para 2027",
+          "text": "A autarquia de Albergaria-a-Velha aprovou um orçamento de 33 milhões de euros para o próximo ano."
+        }
+      ]
+    },
+    {
+      "emoji": "🚌",
+      "category": "TRANSPORTES & MOBILIDADE",
+      "stories": [
+        {
+          "headline": "IP3 cortado à noite entre Treixedo e Tondela",
+          "text": "Obras obrigam ao corte do IP3 na noite de 1 para 2 de dezembro, a partir das 21h00. Os automobilistas vão ter de recorrer a alternativas durante a noite."
+        },
+        {
+          "headline": "FlixBus reforça serviço com novas linhas",
+          "text": "A FlixBus aumentou a operação em Sete Rios, em Lisboa, com mais 16 horários diários. Passa a haver ligações a Leiria, Torres Vedras e Évora a partir daquele terminal, subindo de 24 para 40 serviços por dia."
+        },
+        {
+          "headline": "Renault lança marca «Renative» com materiais reciclados",
+          "text": "A Renault criou uma nova marca para destacar os materiais reciclados usados nos automóveis novos."
+        }
+      ]
+    },
+    {
+      "emoji": "🚨",
+      "category": "SEGURANÇA & JUSTIÇA",
+      "stories": [
+        {
+          "headline": "Casal condenado a 22 anos por matar idoso e atirá-lo a um poço",
+          "text": "O Tribunal de Beja condenou um casal de 40 anos a 22 anos de prisão pelo homicídio de um idoso, morto à pancada e atirado a um poço. O acórdão foi lido esta sexta-feira."
+        },
+        {
+          "headline": "Jovens hospitalizados após confrontos com pedras numa escola",
+          "text": "Dois estudantes precisaram de assistência hospitalar após desacatos numa escola em Algueirão-Mem Martins, em Sintra. Os confrontos envolveram pedras e obrigaram à mobilização dos bombeiros ao final da tarde."
+        },
+        {
+          "headline": "Grupo rouba bezerros pela calada da noite",
+          "text": "Carrinhas suspeitas levaram moradores a alertar a PSP depois de um grupo roubar bezerros durante a noite na região."
+        },
+        {
+          "headline": "Ex-advogado Paulo Topa julgado em Aveiro por burla qualificada",
+          "text": "O antigo advogado Paulo Topa começa a ser julgado em Aveiro por burla qualificada."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "POLÍTICA",
+      "stories": [
+        {
+          "headline": "Chega quer IVA zero no cabaz alimentar de 2023",
+          "text": "O Chega apresentou um projeto de lei para aplicar IVA zero ao mesmo cabaz alimentar de 2023, entre 1 de janeiro e 31 de março de 2027. A medida segue o desafio de André Ventura ao PS e aos restantes partidos."
+        },
+        {
+          "headline": "Presidente da República visitou o Banco Alimentar",
+          "text": "O Presidente da República fez uma visita ao Banco Alimentar no âmbito da campanha de recolha de alimentos."
+        },
+        {
+          "headline": "Congresso da JS vai custar 25 mil euros à Câmara",
+          "text": "O congresso da Juventude Socialista em Coimbra vai custar 25 mil euros à Câmara Municipal em taxas que não são cobradas."
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "category": "CULTURA & COMUNIDADE",
+      "stories": [
+        {
+          "headline": "Antigos Orfeonistas da UC contam histórias",
+          "text": "Do piano branco em Boston às noites com Carlos do Carmo, uma exposição conta as estórias dos Antigos Orfeonistas da Universidade de Coimbra."
+        },
+        {
+          "headline": "Artista de Coimbra expõe no Centro Cultural de Belém",
+          "text": "Uma exposição de um artista de Coimbra cruza cor, corpo e símbolos no Centro Cultural de Belém, em Lisboa."
+        },
+        {
+          "headline": "Alunos de Cernache transportam detergente com 25 vezes menos peso",
+          "text": "Alunos de Cernache descobriram uma forma de transportar detergente com 25 vezes menos peso, num projeto escolar de sustentabilidade."
+        }
+      ]
+    }
+  ]
+}
